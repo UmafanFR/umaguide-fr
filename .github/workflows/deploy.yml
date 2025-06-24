@@ -43,16 +43,13 @@ jobs:
           run_install: false
 
       - name: Set up Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          cache: 'pnpm'
-
+        uses: oven-sh/setup-bun@v2
+      
       - name: Install dependencies
-        run: pnpm install
+        run: bun install
 
       - name: Build
-        run: pnpm build
+        run: bun run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
