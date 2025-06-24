@@ -1,0 +1,25 @@
+:root {
+  --vp-c-brand-1: #F86669;
+  --vp-c-brand-2: #F86669;
+  --vp-c-brand-3: #F86669;
+  --vp-c-brand-soft: #F86669;
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #F86669 50%,
+    #9c9c9c 50%
+  );
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(68px);
+  }
+}
