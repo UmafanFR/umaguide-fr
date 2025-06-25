@@ -1,33 +1,50 @@
-import { defineConfig } from 'vitepress'
+import { defineConfig, UserConfig } from 'vitepress';
+import { withSidebar } from 'vitepress-sidebar';
+import { VitePressSidebarOptions } from 'vitepress-sidebar/types';
 
-// https://vitepress.dev/reference/site-config
-export default defineConfig({
+const commonSidebarConfig: VitePressSidebarOptions = {
+  collapsed: false,
+  capitalizeFirst: true,
+  useTitleFromFileHeading: true,
+  useTitleFromFrontmatter: true,
+  useFolderTitleFromIndexFile: true,
+  sortMenusByFrontmatterOrder: true,
+};
+
+const vitePressSidebarConfig = [
+  {
+    ...commonSidebarConfig,
+    documentRootPath: '/guides/',
+    resolvePath: '/guides/',
+    basePath: '/guides/',
+    aside: true
+  }
+]
+
+
+const vitePressConfig: UserConfig = {
   title: "UmaGuide FR",
   description: "Des guides en français pour Umamusume: Pretty Derby",
   head: [
     ['link', { rel: "shortcut icon", href: "/favicon.ico"}]
   ],
   themeConfig: {
+    logo: '/assets/curren.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
-    ],
-
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
+      { text: 'Acceuil', link: '/' },
+      { text: 'Guides', link: '/guides' }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/UmafanFR/umaguide-fr', },
+      { icon: 'discord', link: 'https://discord.gg/kuKGHzgjv5' },
     ]
   },
-
   base: '/umaguide-fr/',
-})
+}
+
+
+export default defineConfig(
+  withSidebar(vitePressConfig, vitePressSidebarConfig)
+);
