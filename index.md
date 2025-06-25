@@ -12,10 +12,10 @@ hero:
   actions:
     - theme: brand
       text: Commencer à lire
-      link: /markdown-examples
+      link: /guides
     - theme: alt
       text: Notre Discord
-      link: /api-examples
+      link: https://discord.gg/kuKGHzgjv5
 
 features:
   - title: Les mécaniques
