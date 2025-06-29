@@ -1,0 +1,1 @@
+Umamusume Guide Francais
