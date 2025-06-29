@@ -41,7 +41,6 @@ const vitePressConfig: UserConfig = {
       { icon: 'discord', link: 'https://discord.gg/kuKGHzgjv5' },
     ]
   },
-  base: '/umaguide-fr/',
 }
 
 
