@@ -1,11 +1,13 @@
 ---
-title: Comparator
+title: Compare
 lang: fr-fr
 ---
 
 # Le Compare Tool
 
 L'outil comparateur permet de comparer jusqu'à 5 cartes supports entre elles ou 5 Umamusume entre elles.
+
+Il est disponible à l'adresse suivante : [Compare Tool](https://gametora.com/umamusume/compare).
 
 ::: tip Il se présente de cette façon :
 ![Outil comparateur sur Gametora](/assets/Gametora/comparator_tool.png)
@@ -66,3 +68,6 @@ En prenant en compte les statistiques importantes listées ci-dessus, vous pouve
 Ici, le friendship bonus, mood effect et specialty priority de Sweep Tosho 4 LB sont les stats les plus élevées, la carte est donc beaucoup plus intéressante que les 2 autres SSR à sa droite.
 :::
 
+## Accéder au détail d'une carte support
+
+Si vous le souhaitez, vous pouvez accéder au détail d'une carte en cliquant sur l'icône de lien dans la colonne correspondante. Vous accédez alors à la page contenant tous les détails et explications des statistiques de la carte support en question.
