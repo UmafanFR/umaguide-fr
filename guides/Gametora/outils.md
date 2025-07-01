@@ -12,3 +12,4 @@ Gametora propose une grande variété d'outils pour optimiser vos career runs su
 
 ## 2. [Le Training Event Helper](/guides/Gametora/outils/training_event_helper.md)
 
+## 3. [Le Comparateur](/guides/Gametora/outils/comparator.md)
