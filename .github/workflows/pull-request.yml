@@ -22,7 +22,7 @@ jobs:
         run: bun install
 
       - name: Fetch contributors
-        run: bun run generate-contributors
+        run: bun run fetch-contributors
       
       - name: Build
         run: bun run build
