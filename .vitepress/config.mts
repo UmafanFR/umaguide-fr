@@ -39,10 +39,19 @@ const vitePressConfig: UserConfig = {
     socialLinks: [
       { icon: 'github', link: 'https://github.com/UmafanFR/umaguide-fr', },
       { icon: 'discord', link: 'https://discord.gg/kuKGHzgjv5' },
-    ]
-  },
-}
+    ],
 
+    footer: {
+      message: 'Made with ❤️ by UmafanFR',
+    }
+  },
+  vite: {
+    server: {
+      port: 3000, // Specify your desired port here
+      allowedHosts: true
+    }
+  }
+};
 
 export default defineConfig(
   withSidebar(vitePressConfig, vitePressSidebarConfig)
