@@ -28,4 +28,4 @@ features:
 ---
 
 # Contributeurs
-<CustomComponent></CustomComponent>
+<VPTeamMembersList></VPTeamMembersList>
