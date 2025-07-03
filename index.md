@@ -25,23 +25,6 @@ features:
   - title: La statégie
     details: Tu veux te classer dans les événements ou dans le PvP ? Deviens un véritable statège 
 ---
-
-<script setup>
-import { VPTeamMembers } from 'vitepress/theme'
-
-const members = [
-  {
-    avatar: 'https://www.github.com/wennidev.png',
-    name: 'Wenni',
-    title: 'Creator',
-    links: [
-      { icon: 'github', link: 'https://github.com/WenniDev' },
-      { icon: 'discord', link: 'https://discordapp.com/users/263001874167365632' }
-    ]
-  },
-]
-</script>
-
 ---
 
 # Contributeurs
