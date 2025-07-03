@@ -44,5 +44,5 @@ const members = [
 
 ---
 
-# Contributeur
+# Contributeurs
 <CustomComponent></CustomComponent>
