@@ -16,8 +16,8 @@ function build_contributors_list(contributors) {
   }));
 }
 
-let CustomComponent = {
-  name: 'CustomComponent',
+let VPTeamMembersList = {
+  name: 'VPTeamMembersList',
   render() {
     // return h('div', { class: 'custom-component' }, 'This is a custom component!')
     return h(VPTeamMembers, {
@@ -29,6 +29,6 @@ let CustomComponent = {
 export default {
   ...DefaultTheme,
   enhanceApp({ app, router, siteData }) {
-    app.component('CustomComponent', CustomComponent)
+    app.component('VPTeamMembersList', VPTeamMembersList)
   }
 } satisfies Theme
