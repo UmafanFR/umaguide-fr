@@ -68,13 +68,19 @@ Les infos de cette FAQ seront basées sur la version globale (internationale) du
 
 ### ⏩ "J'ai une nouvelle umamusume mais je n'arrive pas à faire de courses avec"
 
-C'est normal, il faut faire au moins **une run de carrière avec une uma** si vous voulez la faire participer à des courses hors d'une carrière. Quand vous terminez une carrière, vous vous retrouvez avec une "build" de cette uma, en tant que **veteran**. Votre build c'est la combinaison de ses stats, aptitudes et skills, et vous ne pouvez faire des courses (hors de la carrière) qu'avec une build d'une uma.
+::: details C'est normal, vous devez l'entrainer en carrière d'abord :
+
+Il faut faire au moins **une run de carrière avec une uma** si vous voulez la faire participer à des courses hors d'une carrière. Quand vous terminez une carrière, vous vous retrouvez avec une "build" de cette uma, en tant que **veteran**. Votre build c'est la combinaison de ses stats, aptitudes et skills, et vous ne pouvez faire des courses (hors de la carrière) qu'avec une build d'une uma.
+
+:::
 
 <a id="How_to_build"></a>
 
 ### ⏩ "Comment je build  [insérez-ici-une-uma] ?" / "Quel deck pour [insérez-ici-une-uma] ?"
 
-**Constuisez votre deck en considérant la plus longue distance que votre uma doit courir**. Vous voulez appliquer le raisonnement suivant pour toutes les uma :
+::: details Constuisez votre deck en considérant la plus longue distance que votre uma doit courir :
+
+Le raisonnement suivant s'applique à toutes les uma :
 
 Toutes les uma (sans exception) veulent **courir vite** et **ne pas s'écrouler d'épuisement**, donc toutes les uma se buildent selon la même philosophie : il leur faut le **max de vitesse** (= speed + wits), tant qu'elles peuvent **terminer la course à pleine puissance** (= suffisamment de HP).
 
@@ -107,6 +113,8 @@ Vous pouvez appliquer exactement ce même raisonnement pour toutes les uma.
 
 Vous pouvez aussi faire des variations des decks recommandés, en ajustant le nombre de cartes wits ou speed par exemple. Si vous pensez que vous vous êtes perdu dans vos expérimentations, refaite le raisonnement depuis le début et repartez sur un deck classique.
 
+:::
+
 ::: warning Un conseil
 
 Si pour une raison ou une autre vous n'utilisez qu'une seule carte d'un type (par exemple, une seule stam), **cette carte doit être suffisamment bonne pour assurer la croissance de sa stat, seule**. Si elle n'en est pas capable, alors vous utilisez un slot de carte pour une carte qui aura une faible contribution aux stats. Si vous n'avez pas (par exemple) de bonne carte stamina, utilisez en 2, ou n'en utilisez pas du tout.
@@ -117,7 +125,7 @@ Si pour une raison ou une autre vous n'utilisez qu'une seule carte d'un type (pa
 
 ### ⏩ "Est-ce que j'ai besoin d'utiliser Tazuna Hayakawa Pal SSR / Aoi Kiryuin Pal SR pour le scénario URA ?"
 
-**Pas vraiment.** Mais vous pouvez si vous trouvez ça confortable.
+::: details Pas vraiment. Mais vous pouvez si vous trouvez ça confortable :
 
 Dans les futurs scénarios, les cartes Pal (comme Tazuna) et les cartes "Group" (qui n'existent pas encore sur la version globale) deviendront "obligatoire" pour jouer un scénario correctement, car **elles boosteront fortement les mécaniques de leur scénarios respectifs**. Mais pour le moment on s'en passe très bien. Le premier scénario où ne pas utiliser la carte Pal/Group du scénario est un véritable handicap, c'est le 4e scénario : Grand Live. D'ici là, ne vous sentez pas obligé d'utiliser une carte Pal si vous n'aimez pas la dynamique, ou si vous préférez utiliser ce slot de carte support pour autre chose.
 
@@ -125,13 +133,21 @@ Les cartes Pal sont des cartes qui vous soutiennent et participent indirectement
 
 Si vous utilisez une carte Pal, n'oubliez pas de **compléter intégralement les recreations spéciaux**, afin d'obtenir le **gold skill** ! Celui que vous donne Tazuna est universel et très bon pour le Team Trials.
 
+:::
+
+
 <a id="Haruten_stam"></a>
 
 ### ⏩ "Comment réussir le Tenno Sho Spring ? Je perds toujours sur cette course avec Mejiro McQueen/Rice Shower"
 
-Le Tenno Sho Spring est une course qui se gagne **à l'endurance**. Elle est pratiquement impossible à gagner sans une abondance de stamina. Pendant une carrière, **visez 600 stamina** pour sécuriser la course, ou alors **400 stamina + 1 gold recovery** (comme celle de Super Creek SSR, Swinging Maestro). Bien entendu, vous ne gagnerez pas avec 250 speed. Le reste des stats doivent suivre.
+
+::: details Le Tenno Sho Spring est une course qui se gagne à l'endurance.
+
+Elle est pratiquement impossible à gagner sans une abondance de stamina. Pendant une carrière, **visez 600 stamina** pour sécuriser la course, ou alors **400 stamina + 1 gold recovery** (comme celle de Super Creek SSR, Swinging Maestro). Bien entendu, vous ne gagnerez pas avec 250 speed. Le reste des stats doivent suivre.
 
 Si vous avez (légitimement) des difficultés à atteindre le besoin en stamina, sachez que les **late surger consomment actuellement le moins de HP**. Donc si vous manquez de stamina, essayez de faire la course en Late Surger.
+
+:::
 
 ::: tip **Anecdote amusante :9**
 
@@ -143,15 +159,22 @@ En PvP, pour terminer correctement le Haruten (donc avoir 100% du sprint à vite
 
 ### ⏩ "Comment je fais pour avoir URA Finals sur X distance ?"
 
+::: details La distance choisie pour URA finals correspond à la distance sur laquelle vous avez le plus courru pendant une carrière :
+
 À la fin de votre carrière, vous participez aux 3 courses de URA Finals, et leur distance correspond au **type de distance sur lequel vous avez le plus couru en carrière**. Pendant votre carrière, si vous faites 5 courses longues, 4 courses medium, 1 mile et 0 sprint, vous aurez URA Finals **long**, car c'est la distance sur laquelle vous avez couru le plus. Ainsi, vous pouvez choisir la distance sur laquelle vous allez participer à URA Finals, en effectuant des courses facultatives qui correspondent à votre préférence. 
 
 Si par contre vous vous retrouvez avec un **ex-aequo entre 2 types de distances**, le jeu vous lancera sur URA Finals pour la distance **la plus courte** des deux. Ainsi, si vous faites 5 courses longues, 5 medium, 1 mile et 0 sprint, vous irez en **medium**, car vous avez autant de long que de med, et entre long et medium c'est medium le plus court.
 
 URA Finals dirt est systématiquement en distance **mile**, tout comme en Team Trials.
 
+:::
+
+
 <a id="Guts_stat"></a>
 
 ### ⏩ "À quoi ça sert guts ?"
+
+::: details Guts réduit votre consommation de HP :
 
 Pour le moment, guts n'a qu'un seul rôle : **réduire votre consommation de HP** (et non pas continuer à courir quand vous n'avez plus de HP, ce sont 2 choses très différentes !). C'est tout. Pour le moment, guts est strictement un substitu à la stamina, et est de plus en plus mauvais à ce rôle, à mesure que sa valeur augmente (sous-entendu, +50 guts produtit une plus grande réduction de consommation de HP quand vous avez 300 guts que quand vous avez 800 guts).
 
@@ -159,9 +182,13 @@ Plus tard dans le jeu, d'autres mécaniques de course utiliseront guts, ce qui l
 
 Vous pouvez faire les carrières des uma sprint/mile **avec des cartes guts plutôt que power ou stamina**, c'est valide. Ce n'est juste pas recommandé pour le moment.
 
+:::
+
 <a id="Wits_stat"></a>
 
 ### ⏩ "À quoi ça sert wits ?"
+
+::: details Wits fait plein de petites choses qui rendent votre uma plus fiable et régulière en course :
 
 De manière générale, **wits rend votre uma plus régulière**, et réduit les chances d'être sévèrement puni par une mauvaise RNG.
 
@@ -183,9 +210,14 @@ Wits influe aussi sur :
 
 C'est pour toutes les petites choses que wits accomplis qu'on dit que cette stat rend votre uma plus régulière. Plus tard dans le jeu, d'autres mécaniques de courses utiliseront wits.
 
+:::
+
+
 <a id="Pick_skills"></a>
 
 ### ⏩ "Je prends quoi comme skills ?"
+
+::: details Les skills de vitesse qui s'activent pour votre uma, et les recovery si besoin :
 
 La grande majorité du temps, c'est rarement une mauvaise idée de prendre les skills de vitesse qui s'activent pour votre uma. Si vous ne savez pas comment choisir vos skills (c'est normal, c'est un gros sujet, et une des choses à quoi on reconnait un·e joueur·euse expérimenté·e), contentez vous de ça. **Les skills de vitesse qui s'activent pour votre uma**.
 
@@ -197,34 +229,52 @@ Pour plus de détails sur le choix des skills, vous pouvez jeter un oeil à [ce 
 
 **Ne prenez pas de skill qui ne s'active pas**, SAUF si vous n'avez littéralement absolument plus rien d'autre à acheter. Auquel cas, essayez de cibler les skills qui correspondent à une **aptitude "A" de votre uma**, même si votre uma ne court pas avec cette aptitude.
 
+:::
+
+
 <a id="Activation_skills"></a>
 
 ### ⏩ "J'ai l'impression que [insérez-ici-un-skill] ne s'active pas ?"
 
-Voici les principales pistes : 
+::: details Voici les principales pistes à investiguer : 
+
 - Ne vous fiez pas seulement à la descripton du skill, **beaucoup de skills** (et en particulier les uniques) **décrivent très mal leur fonctionnement**. Pour savoir précisément comment ils s'activent, [cherchez le skill sur gametora.com](https://gametora.com/umamusume/skills), et inspectez les **conditions d'activation précises** en cliquant sur "More" ou "Details". Si vous avez besoin d'aide pour comprendre les conditions d'activation d'un skill, cliquez sur "show conditions in the viewer" pour obtenir des explications. Alternativement, vous pouvez consulter [ce guide](https://www.notion.so/umafrwiki/Comprendre-le-fonctionnement-des-skills-17d5f5610f1d80b3b297cd1ab77769f3). 
 - Certains skills (surtout les uniques, mais pas que) ont des conditions de position, et **ne s'activeront pas si votre uma est trop en avant ou trop en arrière**. Parfois, ces conditions sont un peu contre intuitives (surtout les uniques, encore une fois).
 - Gardez en tête la proabilité d'activation des skills. Par exemple, 77.5% (400 wits) c'est vraiment très peu, ça veut dire que un quart de vos skills ne s'activent pas.
 
 Aux dernières nouvelles, il n'y a pas de bug connu qui empêche l'activation des skills.
 
+:::
+
 <a id="Debuff_allies"></a>
 
 ### ⏩ "Est-ce que les debuffs que ma uma utilise peuvent affecter ma propre uma et les uma de ma team ?"
 
-Non. Mais il est possible que l'effet visuel du debuff touche quand même une de vos uma. Sur la version JP, ça a été un bug connu (j'ignore s'il a été résolu depuis), et peut être que nous l'avons aussi. Même si l'effet visuel s'applique sur votre uma ou une de ses coéquipières, les skills de debuff n'ont pas d'effet sur elles. Uniquement sur vos adversaires.
+::: details Non, mais :
+
+Il est possible que l'effet visuel du debuff touche quand même une de vos uma. Sur la version JP, ça a été un bug connu (j'ignore s'il a été résolu depuis), et peut être que nous l'avons aussi. Même si l'effet visuel s'applique sur votre uma ou une de ses coéquipières, les skills de debuff n'ont pas d'effet sur elles. Uniquement sur vos adversaires.
+
+:::
+
 
 <a id="Tazunope"></a>
 
 ### ⏩ "Tazuna pense que j'ai pas assez de power ou de skills, comment faire si je n'ai pas de skills à acheter ?"
 
-Tazuna a tort. Trop souvent. Pas toujours, mais **trop souvent, pour quelqu'un qui donne des conseils**. Si vous pensez que Tazuna vous propose des recommandations incohérentes, n'hésitez pas à re-regarder la course. Il est possible qu'elle vous dise qu'avec davantage de power vous auriez pu vous sortir d'un blocage, mais en réalité il faut parfois une quantité absurde (à notre level actuel) de power pour qu'un blocage ne soit pas instantanément éliminatoire. C'est de la RNG, et la plupart du temps vous n'y pouvez pas grand chose (à part tenter une stratégie plus frontale, mais ça peut backfire).
+::: details Tazuna a factuellement trop souvent tort, pour quelqu'un qui donne des conseils :
+
+Si vous pensez que Tazuna vous propose des recommandations incohérentes, n'hésitez pas à re-regarder la course. Il est possible qu'elle vous dise qu'avec davantage de power vous auriez pu vous sortir d'un blocage, mais en réalité il faut parfois une quantité absurde (à notre level actuel) de power pour qu'un blocage ne soit pas instantanément éliminatoire. C'est de la RNG, et la plupart du temps vous n'y pouvez pas grand chose (à part tenter une stratégie plus frontale, mais ça peut backfire).
 
 **Tazuna semble ignorer le concept de hasard**, ce qui est terrible dans un jeu qui empile 4000 couches de hasard qui intéragissent entre elles 🙃
+
+:::
+
 
 <a id="Kitasan_speed"></a>
 
 ### ⏩ "Qu'est-ce qui rend Kitasan Black speed SSR si importante ?"
+
+::: details Elle est très longtemps la meilleure carte speed, dans un jeu où on a systématiquement besoin de cartes speed :
 
 **Kitasan Black speed SSR a été** -pendant environ de 2 ans- **la meilleure carte speed du jeu sur la version JP**. Pas besoin de vous faire un dessin : vous voulez toujours des **cartes pour monter speed** dans votre deck. 
 
@@ -240,34 +290,54 @@ Pour nous, sa domination durera sans doute un an et demi or so. D'autres bonnes 
 
 Kitasan Black speed SSR est si importante car aucune autre carte support n'a cette combinaison d'atouts avant très longtemps.
 
+:::
+
+
 <a id="Kitasan_3LB"></a>
 
 ### ⏩ "Tout le monde dit que Kitasan Black n'est bonne qu'à partir de 3LB, donc pourquoi je devrais m'embêter à essayer de la pull ?"
 
-Parce qu'**on a besoin de cartes support** anyways, donc autant pull sur la bannière qui permet d'obtenir (par chance) le meilleur résultat.
+::: details Parce qu'on a besoin de cartes support :
+
+Quitte à faire des pull, autant pull sur la bannière qui permet d'obtenir (par chance) le meilleur résultat.
 
 Kitasan est déjà très bonne **à partir de 3LB**, mais est malheureusement du niveau d'une SR en dessous de ça. Ça reste super important de pull sur cette bannière là, car on a besoin de supports dans tous les cas. Donc quitte à pull pour des supports, autant pull sur la bannière qui peut donner le résultat le plus explosif. En cas de malchance, **on aura eu des supports** mais pas (assez) de Kitasan. En cas de chance, on aura eu (assez de) Kitasan en plus d'avoir eu des nouveaux supports. Pull sur la bannière de Kitasan c'est strictement positif, même si on obtient pas Kitasan. Si on dit qu'on pull sur une autre bannière que Kitasan, on aura eu les supports, et p't'être plein de SSR, mais **ces SSR auraient pu être des Kitasan**.
 
 Plus tard dans le jeu, une nouvelle ressource (qui prend du temps à grind, autant être honnête), permettra d'**ajouter des LB aux cartes support de votre choix**, ce qui vous permettra de booster davantage Kitasan.
 
+:::
+
+
 <a id="Legend_fans"></a>
 
 ### ⏩ "Comment atteindre le rank 'Legend' en carrière ? Je n'atteins jamais le bon nombre de fans"
 
-**Faites des courses en supplémentaire**, en des courses obligatoires, pour accumuler davantage de fans. Si vous avez un mauvais tour d'entrainement, envisagez de faire une **G3/G2/G1 pour laquelle votre uma a les aptitudes** (= au moins "B" en distance et en surface). Ne faites pas de courses pré-OP ou OP, sauf si vous n'avez pas le choix (objectif de fans non atteint) elles rapportent trop de peu de récompenses compte tenu de l'énergie dépensée. **Les G1 sont particulièrement rentables, car elles rapportent beaucoup de skill points**, en plus de donner quelques stats et des fans.
+::: details Faites des courses facultatives :
+
+Pour accumuler des fans, participez à **des courses supplémentaire**, en plus des courses obligatoires de la carrière de votre uma. Si vous avez un mauvais tour d'entrainement, envisagez de faire une **G3/G2/G1 pour laquelle votre uma a les aptitudes** (= au moins "B" en distance et en surface). Ne faites pas de courses pré-OP ou OP, sauf si vous n'avez pas le choix (objectif de fans non atteint) elles rapportent trop de peu de récompenses compte tenu de l'énergie dépensée. **Les G1 sont particulièrement rentables, car elles rapportent beaucoup de skill points**, en plus de donner quelques stats et des fans.
 
 Chaque 1e victoire sur une course vous donne aussi son trophée, et l'obtention d'un trophée que vous n'aviez pas encore vous rapporte des **carats** ! (cela ne s'applique pas non plus aux pré-OP et OP)
+
+:::
+
 
 <a id="Free_card"></a>
 
 ### ⏩ "Est-ce que cette carte support gratuite que je viens d'avoir est bonne ?"
+
+::: details Non, pas avant au moins 2LB :
+
 Si vous venez de l'avoir, non. Aucune carte support gratuite (donc, qui ne vient pas de la gacha) n'est bonne tant qu'elle n'est pas à *au moins **2 LB***. En effet, toutes les cartes support SR et SSR ont un bonus dit "unique", qui ajoute un ou plusieurs bonus à la carte support, parfois sous certaines conditions (généralement, monter la jauge à 80%). Les cartes support **gratuites** n'ont PAS de bonus unique tant qu'elles sont à **0LB et 1LB**. Donc non seulement la carte est "moins bonne" -vu qu'elle est gratos, au lieu de venir de la gacha (exception : Haru Urara guts SSR)-, mais en plus vous la joueriez avec des bonus en moins.
 
 Si vous l'avez MLB par contre, là on parle, et n'hésitez pas à demander.
 
+:::
+
 <a id="Acupuncturist"></a>
 
 ### ⏩ "Je choisis quoi comme option sur l'évènement de l'acupuncturiste ? "
+
+::: details Option 4 en début de run, option 5 si vous voulez prendre aucun risque, option 3 sinon :
 
 Si vous êtes en **début de run** (Junior Year, ou début de Classic Year), sélectionnez toujours **l'option 4 pour avoir le buff "Charming"** qui accélère la croissance des jauges de vos supports ! C'est toujours les choix optimal en début de run. Si vous êtes plus avancé dans la carrière (après le premier été par exemple), vous pouvez prendre l'option 3 pour un gros gain d'énergie, ou la 5 pour la faire dégager si vous ne voulez rien risquer.
 
@@ -299,16 +369,27 @@ Voici un résumé des options :
 
 Réalistiquement, on ne gamble pas trop sur l'option 1, car un échec est possiblement run-ender, et l'option 2 ne donne pas de récompense intéressante anyways.
 
+:::
+
+
 <a id="Progress_stuck"></a>
 
 ### ⏩ "Je galère un peu et j'ai l'impression de ne plus progresser"
+
+::: details C'est normal, on progresse par à-coups :
+
 C'est normal de se sentir un peu stuck de temps en temps, car on joue à un jeu de cartes aux règles complexes, sans avoir ni les cartes (elles arrivent au fur et à mesure), ni le règlement complet (c'est le [ref doc](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/) et le [doc des mécaniques du jeu](https://docs.google.com/document/d/15VzW9W2tXBBTibBRbZ8IVpW6HaMX8H0RP03kq6Az7Xg/)). Plus vous aurez de cartes support, moins vous aurez de chaînes pour vous retenir de progresser. Cela dit, si vous pensez que vous jouez de manière sous optimale, vous pouvez envisager de zieuter ce [guide pour améliorer un peu vos carrières](https://yamakyu.notion.site/Astuces-pour-am-liorer-vos-runs-d-entrainements-193b1daa914b800ba7a6deb94334d853). Vous y trouverez des tips qui devraient petit à petit faire une belle différence ; l'expérience et les connaissances des mécaniques du jeu sont des atouts de taille pour améliorer vos carrières.
+
+:::
+
 
 <a id="Inspiration_sparks"></a>
 
 ### ⏩ "J'ai 4000 speed 4000 stamina 4000 power 3 guts et 4000 wits, comment ça se fait que j'ai un spark guts ★★ à la fin de ma carrière ?"
 
-Je vous la donne dans le mille, c'est **aléatoire**. Il y aura un guide détaillé sur le système d'inspiration (a lot to unpack), mais en attendant, voici l'essentiel à savoir sur l'obtention des sparks :
+::: details Je vous la donne dans le mille, c'est aléatoire. 
+
+Il y aura un guide détaillé sur le système d'inspiration (a lot to unpack), mais en attendant, voici l'essentiel à savoir sur l'obtention des sparks :
 
 * On peut avoir un spark **bleu** de n'importe quelle **stat**, aléatoirement, et chaque stat pour laquelle vous avez **au moins 600** peut donner un spark ★★★. La chance est augmentée si la stat vaut 1100+.
 * On peut avoir un spark **rose** de n'importe quelle aptitude pour laquelle la uma est notée "A" ou "S". Le choix est aléatoire parmi ces aptitudes, et la valeur du spark est toujours aléatoire entre ★ et ★★★ (même si vous perdez la run au premier objectif).
@@ -321,11 +402,14 @@ Je vous la donne dans le mille, c'est **aléatoire**. Il y aura un guide détail
 
 TL;DR : c'est aléatoire, parce que évidemment.
 
+:::
+
+
 <a id="Pick_legacy"></a>
 
 ### ⏩ "Pour choisir une legacy, est-ce qu'il vaut mieux privilégier les sparks de stats ? Ou plutôt les sparks d'aptitude ?"
 
-***Ça dépend***
+::: details Ça dépend :
 
 * Privilégier les sparks de stas aidera à soutenir la croissance des stats en Q°. Ça aidera à **atteindre des valeurs élevées** avec peu de cartes support, ou à monter une stat pour laquelle vous avez **peu, ou pas de cartes support**. Par exemple, avoir une legacy avec beaucoup de ★ en wits est un bon bail si vous avez une seule carte wits dans votre deck. Overall, ça contribuera à augmenter le rank de votre uma. Si c'est ce qui vous arrange, favorisez les sparks bleus de stats. 
 
@@ -346,6 +430,9 @@ Vous pouvez décider que vous n'avez pas la patience de faire 400 runs pour obte
 
 Les legacy c'est beaucoup une histoire **compromis**.
 
+:::
+
+
 
 <a id="Common_misconceptions"></a>
 
@@ -354,7 +441,8 @@ Les legacy c'est beaucoup une histoire **compromis**.
 <a id="Balanced_stats"></a>
 
 ### ❌ "Il faut que toutes les stats de ma uma soient bien équilibrées"
-**Non, mais oui**. Il faut définir ce que ça veut dire "équilibré". 
+
+::: details Non, mais oui. Il faut définir ce que ça veut dire "équilibré". 
 
 Si vous pensez "équilibré" dans le sens "400 dans toutes les stats", dans ce cas non. Vos stats sont "équilibrées" quand vous avez suffisamment de stamina/guts pour vous permettre d'ajouter davantage de speed, wits et power **sans que ça mette en danger vos courses**. Ça veut pas dire qu'il faut cliquer sur stamina tout le temps en premier, et ignorer speed et wits pendant longtemps. Ça veut plutôt dire que si vous avez 1000 wits et 200 stam, et que votre uma doit courir en medium ou en long, alors vous vous y prenez mal, car vous cliquez sur wits alors que vous n'avez absolument pas la stamina pour sécuriser des courses. Dans ce cas, vos stats sont déséquilibrées.
 
@@ -364,9 +452,15 @@ Par exemple : si vous avez 1000 speed, 300 stam, 600 pow, 200 guts, avoir enviro
 
 **Ne vous imposez pas de cibler spécifiquement des stats pour les équilibrer** (sauf si elles sont dramatiquement "en retard"), c'est juste un repaire pour vous aider à choisir quand vous avez 2 stacks de supports et que vous ne savez pas sur quoi cliquer.
 
+:::
+
+
 <a id="End_closer_power"></a>
 
 ### ❌ "Gold Ship (et les End Closer) a besoin de plus de power que les autres uma"
+
+::: details Toutes les uma (sans exception, même les frontline) ont besoin de power :
+
 Gold Ship, comme toutes les End Closer, entame son sprint depuis l'arrière du peloton, et doit donc le remonter. Des grandes quantités de power aident avec ça, mais en réalité **toutes les uma ont besoin de power pour ne pas perdre la course**.
 
 On peut se dire qu'en tant que backline il faut davantage de power pour compenser le risque de blocage, et techniquement c'est vrai *en théorie*, mais dans la pratique les chances de victoire de n'importe quelle uma qui se fait bloquer **s'éffondrent** à ce moment là. D'ailleurs, avec leur vitesse max supérieure, les backlines ont **plus de facilité à remonter un blocage que les frontline** (selon l'endroit où le blocage se produit, et sa durée, bien entendu), tout bêtement car elles courent plus vite. Une Front Runner bloquée par la Front Runner en face d'elle (c'est visuellement absolument hilarant de ridicule) est instantanément éliminée dans 99,9% des cas, car elle les runner courent plus lentement (même dans le sprint final) et doivent donc préserver chaque once d'avance qu'elles peuvent prendre (elles se font forcément rattraper par les backline, sauf si leur speed est *vastement supérieure* ; leur but est de retarder le plus possible ce moment).
@@ -379,10 +473,14 @@ Pour réduire un peu le risque de blocage, ce que vous pouvez faire c'est **augm
 
 Bref, toutes les uma ont besoin de power, pas seulement les backlines. Et vous n'allez pas soudainement perdre toutes vos courses avec [insérez-ici-une-End-Closer] parce que vous avez voulu sécuriser la stamina au lieu de prendre une ou deux cartes power.
 
+:::
+
+
 <a id="Golshi_sprint"></a>
 
 ### ❌ "Gold Ship commence son sprint final avant les autres uma"
-Nop, mais c'est bien que vous ayez relevé ça, car c'est une **optimisation importante**.
+
+::: details Nope, mais c'est une très bonne observation, car c'est une optimisation importante :
 
 Gold Ship utilise son skill unique dans la 2e moitié de la course, après la fin de Position Keep (→ donc à un moment où la plupart des uma ont une vitesse peu variable à ce moment là), ce qui lui fait gagner beaucoup de terrain. Parfois, le timing fera que **son unique continuera à être actif au moment où la partie end-race de la course commence**. Du coup, comme c'est le moment où les uma commencent à sprinter (si elles passent immédiatement le "HP check"), on a l'impression que Gold Ship avait commencé à sprinter "avant les autres".
 
@@ -392,41 +490,68 @@ Mais c'est une bonne observation, et ce "phénomène" -entamer le end-race depui
 
 On aura l'occasion d'en parler beaucoup pour les préparations au PvP compétitif.
 
+:::
+
+
 <a id="Consecutive_mood_downs"></a>
 
 ### ❌ "[insérez-ici-une-uma] est particulièrement affectée par des sautes d'humeur"
-**C'est aléatoire et ça affecte toutes les uma**. On sait pas pourquoi mais, yes, dans certaines (trop de) runs vous allez avoir des mood down consécutifs for some ungodly reason, et c'est toutes les uma.
+
+::: details C'est aléatoire et ça affecte toutes les uma.
+
+On sait pas pourquoi mais, yes, dans certaines (trop de) runs vous allez avoir des mood down consécutifs for some ungodly reason, et c'est toutes les uma.
 
 Certaines uma ont des évènements **scriptés** qui leur forcent une blessure ou un mood down (exemple Narita Taishin, Mejiro Ardan), et c'est généralement **assez clair** que c'est un évènement spécifique à la uma (debuff unique, baisse de plusieurs niveau de mood en un seul mood down). Si c'est pas spécifique à la uma, c'est juste de la RNG.
+
+:::
+
 
 <a id="Most_important_stat"></a>
 
 ### ❌ "Speed est la stat la plus importante"
-La stat dont vous aurez toujours besoin **en abondance**, quelle que soit la uma et la distance, et dont vous voulez la plus grande valeur, **yes**. C'est speed. Mais c'est pas la stat la plus importante. C'est un raccourci qui demande de la nuance. **La stat la plus importante -donc la stat qui dont une carence serai éliminatoire- c'est la stamina.**
+
+::: details La stat que vous voulez toujours en abondance, oui, mais la plus importante, non :
+
+Quelle que soit la uma, la distance, la stratégie, et le course, yes, la stat dont vous voulez la plus grande valeur, **c'est speed***. Mais c'est pas la stat la plus importante. C'est un raccourci qui demande de la nuance. **La stat la plus importante -donc la stat dont une carence serai éliminatoire- c'est la stamina.**
 
 Même en Sprint vous avez besoin de stamina, c'est juste que la quantité est minuscule. Par exemple, sur Nakayama 1200m (Sprinters Stakes), si vous avez 500 guts, il vous faut 250 stamina pour terminer la courrse. Si vous avez moins vous allez perdre la plupart du temps, même avec 4000 speed, car vous ne courrez pas assez longtemps à vitesse max. Sur Hanshin 1600m (Oka Sho), si vous avez 700 guts, il vous faut 450 stam pour terminer la course.
 
 Vous pouvez simuler ces valeurs sur un des simulateurs de HP, [comme celui-ci](http://race.wf-calc.net/#/champions-meeting) (scrollez tout en bas pour changer le texte en anglais)
 
+:::
+
+
 <a id="Race_mood_awful"></a>
 
 ### ❌ "J'ai perdu cette course car mon mood était 'Awful'"
 
-Nah bro t'as perdu par **RNG**. Le mood Awful ça réduit les stats de **4%**. Donc si t'as 1000 speed, tu te retrouves avec 960 speed, et c'est rarissimemement la cause de défaite. Il y'a 1000 autres choses qui ont pu imposer un échec, et 4% de stats en moins ce sera presque jamais la principale cause.
+::: details Nah bro t'as perdu par **RNG** :
+
+Le mood Awful ça réduit les stats de **4%**. Donc si t'as 1000 speed, tu te retrouves avec 960 speed, et c'est rarissimemement la cause de défaite. Il y'a 1000 autres choses qui ont pu imposer un échec, et 4% de stats en moins ce sera presque jamais la principale cause.
 
 Le seul cas où une différence de mood peut réellement être la différence entre la victoire et la défaite, c'est en PvP compétitif (Champion's Meeting), sur une build qui atteint *à peine* la quantité de HP requise pour la couse. Là c'est réel, c'est possible d'être mis KO par les 4% de baisse de stamina, qui **retarde ton sprint d'environ une seconde**. Contre des uma qui commencent à sprinter instantanément (car elles passent le HP check), yes, c'est possiblement éliminatoire.  C'est différent de (par exemple) le Team Trials, où **on ne connait pas la course à l'avance**, et où -donc- il n'est pas Q° "d'atteindre" les HP requis (on vise au plus haut et advienne que pourra). En PvP compétitif par contre, yes, on a une cible de HP, et c'est pas rare -au début du jeu- d'avoir des difficultés à avoir une marge de HP supplémentaire au cas. Et *dans ce cas là*, yes, 4% de stam en moins ça peut faire perdre l'avantage. Et encore, c'est rare que ce soit "la cause" (car les HP dépendent à moitié de la longueur de la course) ; si une uma est rick rack en HP, elle a bien plus de chance d'être mise KO par un debuff ou quelques secondes de rush que par -4% stamina :9.
+
+:::
+
 
 <a id="Gacha_was_a_mistake"></a>
 
 ### ❌ "Je n'ai pas eu telle carte ou telle uma, mon compte est foutu"
 
-**Pas de panique**. On a beau dire que "Kitasan Black speed SSR est super forte et irremplaçable", ou que "Oguri Cap alt est broken", c'est pas grave de pas les avoir. Obtenir les bonnes cartes et les bonnes uma ça vous **facilite** les choses, mais ça veut pas dire que vous ne pouvez rien accomplir sans elles. C'est pas de chance si vous passez à côté, vous aurez davantage de chance sur une bannière ultérieure.
+::: details Surtout pas de panique :
+
+On a beau dire que "Kitasan Black speed SSR est super forte et irremplaçable", ou que "Oguri Cap alt est broken", c'est pas grave de pas les avoir. Obtenir les bonnes cartes et les bonnes uma ça vous **facilite** les choses, mais ça veut pas dire que vous ne pouvez rien accomplir sans elles. C'est pas de chance si vous passez à côté, vous aurez davantage de chance sur une bannière ultérieure.
+
+:::
+
 
 <a id="Unique_level_up"></a>
 
 ### ❌ "Je n'ai pas eu le level up du skill unique de ma uma, ma run est foutue"
 
-Les level up de skills unique ont un effet franchement **insignifiant**, ça augmente très légèrement leur efficacité, comme suit (les valeurs sont les boost par rapport à un skill unique de lvl 1) :
+::: details Les level up de skills unique ont un effet franchement insignifiant : 
+
+Les level up des skills unique augmentent très légèrement leur efficacité, comme suit (les valeurs sont les boost par rapport à un skill unique de lvl 1) :
 
 |  | lvl 2 |  lvl 3 | lvl 4 | lvl 5 | lvl 6 |
 | --- | --- | --- | --- | --- | --- |
@@ -438,3 +563,5 @@ Un skill unique de recovery "classique", qui rend 5.5% de HP au lvl 1, sera donc
 Un skill unique de vitesse "classique", qui augmente la vitesse de 0.35m/s au lvl 1, sera donc boosté à 0.395m/s au lvl 6. À titre de comparaison, un speed skill white "classique" augmente la vitesse de 0.15m/s, donc là aussi on parle d'un boost équivalent à **un tiers d'un speed skill white**.
 
 Pas d'inquiétude pour votre skill unique :>
+
+:::
