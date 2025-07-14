@@ -2,7 +2,7 @@
 
 Comme l'écrasante majorité de nos connaissances sur le jeu, les infos qu'on vous partage ici proviennent d'un mélange de :
 
-- l'excellent [**Umamusume Reference Document](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/) (le fameux "Ref Doc"), et autres ressources anglophones ou japonaises.
+- l'excellent **[Umamusume Reference Document](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/)** (le fameux "Ref Doc"), et autres ressources anglophones ou japonaises.
 - les questions posées ici et là aux vétérans de la communauté internationale
 - notre expérience de jeu
 - et plus encore
@@ -11,4 +11,4 @@ Comme l'écrasante majorité de nos connaissances sur le jeu, les infos qu'on vo
 
 S’il y a des **choses pas claires et confusantes**, n’hésitez pas à nous faire **des retours**** ! Ca pourrait permettre d'**apporter des améliorations** 👀
 
-# Bonne lecture
+### Bonne lecture, et n'oubliez pas : peu importe les conseils et recommandations que quiconque vous fait, votre fun et votre patience décide de la manière dont vous jouez !
