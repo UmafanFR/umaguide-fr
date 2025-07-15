@@ -29,6 +29,8 @@ const vitePressConfig: UserConfig = {
     ['link', { rel: "shortcut icon", href: "/favicon.ico"}]
   ],
   themeConfig: {
+    outline: [2, 3],
+    outlineTitle: 'Table des matières',
     logo: '/assets/curren.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
