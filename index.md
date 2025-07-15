@@ -13,6 +13,9 @@ hero:
     - theme: brand
       text: Commencer à lire
       link: /guides
+    - theme: brand
+      text: Foire aux questions
+      link: /guides/base_faq.html
     - theme: alt
       text: Notre Discord
       link: https://discord.gg/kuKGHzgjv5
