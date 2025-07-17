@@ -53,7 +53,7 @@ const headerConfig: HeadConfig[] = [
   ["link", { rel: "icon", href: "/favicon.ico" }],
   ["meta", { property: "og:site_name", content: "UmaGuide FR" }],
   ["meta", { property: "og:image", content: "/assets/curren.png" }],
-  ["meta", { property: "og:color", content: "#F86669" }],
+  ["meta", { property: "theme-color", content: "#F86669" }],
 ];
 
 const vitePressConfig: UserConfig = {
