@@ -49,16 +49,22 @@ const ViteConfig = {
   }
 }
 
-
 const headerConfig: HeadConfig[] = [
   ["link", { rel: "icon", href: "/favicon.ico" }],
+  ["meta", { property: "og:site_name", content: "UmaGuide FR" }],
   ["meta", { property: "og:image", content: "/assets/curren.png" }],
-]
+  ["meta", { property: "og:color", content: "#F86669" }],
+];
 
 const vitePressConfig: UserConfig = {
   title: "UmaGuide FR",
   description: "Des guides en français pour Umamusume: Pretty Derby",
 
+  transformHead: ({ pageData }) => {
+    headerConfig.push(
+      ["meta", { property: "og:title", content: pageData.title }],
+    );
+  },
   head: headerConfig,
   themeConfig: themeConfig,
   vite: ViteConfig,
