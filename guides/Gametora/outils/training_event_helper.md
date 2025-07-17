@@ -1,18 +1,19 @@
 ---
-title: Training Event Helper
+title: Assistant d'entrainement
 lang: fr-fr
+description: Fonctionnement de l'assistant d'entrainement de Gametora 
 ---
 
-# Le Training Event Helper
+# L'Assistant d'entrainement
 
-Vous êtes en pleine career run et vous arrivez sur un choix, mais vous ne savez pas quel choix faire ? Le Training Event Helper est là pour vous aider !
+Vous êtes en pleine career run et vous arrivez sur un choix, mais vous ne savez pas quel choix faire ? L'Assistant d'entrainement est là pour vous aider !
 
-## Comment utiliser le Training Event Helper
+## Comment utiliser l'Assistant d'entrainement
 
-Premièrement, rendez-vous sur la page du [Training Event Helper](https://gametora.com/umamusume/training-event-helper).
+Premièrement, rendez-vous sur la page du [Assistant d'entrainement](https://gametora.com/umamusume/training-event-helper).
 
 ::: tip L'interface du Training Event Helper
-![Interface du Training Event Helper](/assets/Gametora/event_helper.png)
+![Interface d' lAssistant d'entrainement](/assets/Gametora/event_helper.png)
 :::
 
 Ici, vous pouvez sélectionner plusieurs choses :
@@ -23,7 +24,7 @@ Ici, vous pouvez sélectionner plusieurs choses :
 Gametora vous permet aussi de sauvegarder jusqu'à 5 "Decks" différents pour éviter de devoir tout re-saisir à chaque fois.
 
 ::: tip Le deck que j'utilise personnellement ressemble à ça:
-![6 cartes support et Daiwa Scarlet de sélectionnés dans le Training Event Helper](/assets/Gametora/event_helper_picked.png)
+![6 cartes support et Daiwa Scarlet de sélectionnés dans l'Assistant d'entrainement](/assets/Gametora/event_helper_picked.png)
 :::
 
 Une fois tout ça fait, vous pouvez scroller plus bas sur la page.

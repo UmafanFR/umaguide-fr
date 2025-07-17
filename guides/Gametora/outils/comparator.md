@@ -1,13 +1,14 @@
 ---
-title: Compare
+title: Comparateur
 lang: fr-fr
+description: Fonctionnement des comparateurs de Gametora 
 ---
 
-# Le Compare Tool
+# Le Comparateur
 
 L'outil comparateur permet de comparer jusqu'à 5 cartes supports entre elles ou 5 Umamusume entre elles.
 
-Il est disponible à l'adresse suivante : [Compare Tool](https://gametora.com/umamusume/compare).
+Il est disponible à l'adresse suivante : [Comparateur](https://gametora.com/umamusume/compare).
 
 ::: tip Il se présente de cette façon :
 ![Outil comparateur sur Gametora](/assets/Gametora/comparator_tool.png)

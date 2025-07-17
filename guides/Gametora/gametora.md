@@ -1,7 +1,8 @@
 ---
-title: Qu'est-ce que Gametora ?
+title: Introduction
 lang: fr-fr
 order: -1
+description: Introduction pour l'utilisation de Gametora
 ---
 
 # Qu'est-ce que Gametora ?
@@ -15,3 +16,6 @@ Une fois sur le site, veuillez à bien sélectionner la version Globale d'Umamus
 ::: tip Les paramètres devraient ressembler à ceci :
 ![Menu paramètres de Gametora avec la version "Global" et la langue "English" de sélectionnés.](/assets/Gametora/parametres.png)
 :::
+
+Gametora propose une grande variété d'outils pour optimiser vos carrières sur Umamusume. Vous pouvez retrouver ici des guides pour [le calculateur d'affinité (Legacies/Inspirtation)](/guides/Gametora/outils/compatibility_calculator.md), [l'assistant d'entrainement](/guides/Gametora/outils/training_event_helper.md) et [le comparateur](/guides/Gametora/outils/comparator.md).
+
