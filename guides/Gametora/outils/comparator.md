@@ -1,6 +1,7 @@
 ---
-title: Compare
+title: Comparateur
 lang: fr-fr
+description: Fonctionnement des comparateurs de Gametora 
 ---
 
 # Le Compare Tool

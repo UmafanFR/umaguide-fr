@@ -1,7 +1,8 @@
 ---
-title: Qu'est-ce que Gametora ?
+title: Introduction
 lang: fr-fr
 order: -1
+description: Introduction pour l'utilisation de Gametora
 ---
 
 # Qu'est-ce que Gametora ?

@@ -1,6 +1,7 @@
 ---
-title: Training Event Helper
+title: Assistant d'entrainement
 lang: fr-fr
+description: Fonctionnement de l'assistant d'entrainement de Gametora 
 ---
 
 # Le Training Event Helper

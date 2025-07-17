@@ -1,3 +1,7 @@
+---
+title: Guides
+---
+
 # Bonjour à tous·tes
 
 Comme l'écrasante majorité de nos connaissances sur le jeu, les infos qu'on vous partage ici proviennent d'un mélange de :
