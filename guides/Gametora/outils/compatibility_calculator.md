@@ -4,7 +4,7 @@ lang: fr-fr
 description: Fonctionnement du calculateur de compatibilité de Gametora 
 ---
 
-# Compatibility Calculator
+# Calculateur de compatibilité
 
 Lorsque vous commencez une career run, vous devez obligatoirement choisir deux Umamusume pour "inspirer" votre Umamusume (Ce que l'on appelle les Legacies). Ces inspirations sont des Umamusume qui ont <ins>déjà été entraînées</ins>, et qui vont influencer les stats de votre Umamusume.
 
@@ -20,7 +20,7 @@ L'interface se présente comme un arbre, avec l'Umamusume que vous souhaitez ent
 ![Écran de séléction des Legacies sur Umamusume avec aucune legacy de sélectionnée](/assets/Gametora/legacy_selector.png)
 :::
 
-## Utilisation du Compatibility Calculator
+## Utilisation du Calculateur de compatibilité
 
 Premièrement, vous devez choisir l'Umamusume que vous allez entraîner dans la case `Main Char` tout en bas de l'arbre.
 
