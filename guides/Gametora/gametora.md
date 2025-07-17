@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Introduction Gametora
 lang: fr-fr
 order: -1
 description: Introduction pour l'utilisation de Gametora
