@@ -1,6 +1,7 @@
 ---
 title: Foire aux questions
 outline: 2
+description: Réponses aux questions très fréquentes
 ---
 
 
@@ -34,19 +35,10 @@ La version globale étant actuellement sur le scénario URA, **les informations 
 
 :::
 
-## FAQ : Carrière
+## FAQ : Généralités
 
 - ["Je n'arrive pas à faire des courses avec ma nouvelle umamusume"](#New_uma)
-- [ "Quel deck utiliser pour build \[insérez-ici-une-uma\] ?"](#How_to_build)
-- [ "Comment avoir URA Finals sur X distance ?"](#URA_finals_distance)
-- [ "Comment gérer la carrière de King Halo ?"](#King_Halo)
-- [ "Dois-je utiliser Tazuna Hayakawa SSR (ou Aoi Kiryuin) sur le scénario URA ?"](#Pal_cards_URA)
-- [ "Comment gagner le Tenno Sho Spring ?"](#Haruten_stam)
-- [ "Tazuna me donne des conseils bizarres après une course..."](#Tazunope)
-- [ "Comment être rank 'Legend' en carrière ? Je n'atteins jamais le bon nombre de fans"](#Legend_fans)
-- [ "Quelle option choisir avec l'acupuncturiste ? "](#Acupuncturist)
-- [ "Je galère un peu et j'ai l'impression de ne plus progresser..."](#Progress_stuck)
-
+- ["Comment accumuler rapidement des carats ?"](#farm_carats)
 
 <a id="New_uma"></a>
 
@@ -57,6 +49,49 @@ La version globale étant actuellement sur le scénario URA, **les informations 
 Il faut faire au moins **une run de carrière avec une uma** si vous voulez la faire participer à des courses hors d'une carrière. Quand vous terminez une carrière, vous vous retrouvez avec une "build" de cette uma, en tant que **veteran**. Votre build c'est la combinaison de ses stats, aptitudes et skills, et vous ne pouvez faire des courses (hors de la carrière) qu'avec une build d'une uma.
 
 :::
+
+<a id="farm_carats"></a>
+
+### Comment accumuler rapidement des carats ?
+
+::: details Obtenez tous les trophées des courses G1, G2 et G3, lisez (skippez si vous voulez) les story et faites les "main mission" :
+
+Au début du jeu il est facile d'accumuler des quantités élevé de carats, car il y a beaucoup de carats qu'on ne peut obtenir qu'une fois, et qui n'attendent que vous. On se rend pas compte mais à coup de 50 par 50, les carats ça monte vite. Le tout premier spark (30k carats → 200 pulls) que vous allez farm sera de très loin le plus rapide, c'est beaucoup plus lent après.
+
+Voici par exemple la totalité des carats que vous obtenez en **récompenses de courses**, après avoir gagné :
+* toutes les G3 → 2070 carats (30 par première victoire)
+* toutes les G2 → 1800 carats (50 par première victoire)
+* toutes les G1 → 3000 carats (100 par première victoire)
+* toutes les distances de URA Finals → 750 carats (150 par première victoire)
+
+Et ce n'est pas tout. Cette somme sera enrichie par les nombreuses **missions** liées aux courses qui vont être validées pendant ce process (là encore, 50 carats par ci, 100 par là), et le **level up de votre archive** au fur et à mesure (50 par level). 
+
+Les **stories** sont aussi une chouette source de carats. Chaque umamusume dont vous lisez la story complète (7 chapitres) vous apportera **270 carats au total**. Si vous n'avez accès qu'aux 4 premiers chapitres (= si une uma est en highlight sur une bannière, mais que vous n'avez pas la uma vous même) c'est 120 carats. Les main story vous apporteront aussi 30 carats par chapitre, soit 1000 carats pour les 2 premières main story.
+
+La plupart des **events** (et en particulier les story events) sont une assez bonne source de carats (au tout début du jeu, euh, *pas trop* j'avoue 🙃 it gets a lot better), et ça vaut toujours le coût d'y participer au moins un peu ! La plupart des events ne requièrent pas d'avoir des uma très fortes (les Legend Race contre des uma de rank B+ vont assez vite devenir une formalité pour vous, quand vous entrainerez régulièrement des uma de rank A+ ou supérieur).
+
+Enfin, **accomplissez les missions** ! Pas seulement les missions spéciales, mais aussi (et surtout) celles qui sont dans la catégorie "main". Beaucoup seront accomplies simplement en farmant les courses, mais d'autres sont un peu plus spécifiques et vont parfois requérir une run de carrière dédiée (exemple : obtenir la Triple Crown en carrière). D'autres vont demander que vous intéragissiez avec certains menus ou features du jeu, etc. Typiquement, la mission "Link App Data" (= mettre un mot de passe sur votre compte) récompense de **1000 carats**, en plus d'être une très bonne chose à faire anyways 
+
+**(mettez un mot de passe sur votre compte, par pitié)**
+
+::: warning ATTENTION
+Ce n'est pas la peine de dépenser vos ressources (monies, support points, etc) pour faire les missions de type "upgrade 55 fois le potentiel d'une uma", et autres du genre, car chaque fois que vous en réussirez une, **vous aurez la suivante à faire après** ("upgrade 60 fois le potentiel d'une uma"). Ca vous fait quand même gagner quelques carats, mais à un coût élevé pour pas beaucoup de reward, car au début du jeu on ne croule clairement pas sous les ressources. Ces missions là se feront au fur et à mesure que vous jouerez normalement !
+
+:::
+
+## FAQ : Carrière
+
+- [ "Quel deck utiliser pour build \[insérez-ici-une-uma\] ?"](#How_to_build)
+- [ "Comment avoir URA Finals sur X distance ?"](#URA_finals_distance)
+- [ "Comment gérer la carrière de King Halo ?"](#King_Halo)
+- [ "Dois-je utiliser Tazuna Hayakawa SSR (ou Aoi Kiryuin) sur le scénario URA ?"](#Pal_cards_URA)
+- [ "Comment gagner le Tenno Sho Spring ?"](#Haruten_stam)
+- [ "Tazuna me donne des conseils bizarres après une course..."](#Tazunope)
+- [ "Comment être rank 'Legend' en carrière ? Je n'atteins jamais le bon nombre de fans"](#Legend_fans)
+- [ "Quelle option choisir avec l'acupuncturiste ? "](#Acupuncturist)
+- [ "Je galère un peu et j'ai l'impression de ne plus progresser..."](#Progress_stuck)
+- [ "Comment réussir la mission où il faut faire un entrainement avec 5 supports d'un coup ?"](#5-supports_mission)
+- ["Est-ce que l'énergie a une influence sur les courses ?"](#Races_energy)
 
 <a id="How_to_build"></a>
 
@@ -207,25 +242,25 @@ Voici un résumé des options :
 
 * Option 1 (50% chance de succès) 
     * ✅ +20 all stats
-    *  **-15 all stats**, -2 mood down, debuff **Night Owl**
+    * ❌ **-15 all stats**, -2 mood down, debuff **Night Owl**
     * High risk, high reward, grosse punition en cas d'échec
 
 * Option 2 (60% chance de succès) 
     * ✅ Skills Straightaway Recovery et Corner Recovery ○
-    *  -20 énergie, -2 mood down
+    * ❌ -20 énergie, -2 mood down
     * High risk, reward pas ouf, assez forte punition en cas d'échec
 
 * Option 3 (80% chance de succès) 
     * ✅ +12 énergie max, +40 énergie, soigne tous les debuffs
-    *  -20 énergie, -2 mood down, debuff Practice Poor
+    * ❌ -20 énergie, -2 mood down, debuff Practice Poor
     * Risque "faible", bon reward, assez forte punition en cas d'échec
 
 * Option 4 (90% chance de succès) 
     * ✅ +20 énergie, +1 mood up, buff Charming ○
-    *  -10 ou -20 énergie, -1 mood down, parfois aussi le debuff  Practice Poor
+    * ❌ -10 ou -20 énergie, -1 mood down, parfois aussi le debuff  Practice Poor
     * Faible risque, très bon reward, punition modérée en cas d'échec
 
-→ Option 5 (100% chance de succès) 
+* Option 5 (100% chance de succès) 
     * ✅ +10 énergie
     *  Cette option n'a pas d'échec
 
@@ -247,6 +282,49 @@ Votre progression sera très corrélée à :
 - vos connaissances sur le jeu
 
 C'est donc normal d'avoir des moments de progrès rapide (nouvelles cartes, nouveau scénario ou nouvelles connaissances), et de moments de plateau.
+
+:::
+
+<a id="5-supports_mission"></a>
+
+### "Comment réussir la mission où il faut faire un entrainement avec 5 supports d'un coup ?"
+
+::: details Il n'y a pas d'astuce ni de stratégie particulière recommandée. Cette mission est stupide, c'est juste du hasard :
+
+Inutile de vous embêter à faire des runs avec avec 5 supports speed ou 5 supports wits, ça n'augmente que marginalement les chances de réussir, et ce sera **fatigant pour vous**. Pas la peinde de vous imposer ça, vous allez deviene fou à force de faire ce type de run qui vous rendent misérable en attendant que la RNG coopère.
+
+**C'est juste de la chance**. Il y a 2 choses importantes à noter cela dit :
+
+- il faut que ce soit un entrainement avec **5 supports dont vous utilisez les cartes**. Si vous avez un stack de 4 supports + la directrice/la journaliste, ça ne compte pas comme 5 car vous n'utilisez pas la carte support de la directrice/la journaliste (elles n'en ont pas). Par contre, si vous utilisez Tazuna ou Aoi Kiryiun, et que vous avez un stack de 4 + l'une des deux, alors ça compte comme 5, car vous utilisez effectivement la carte support.
+- quand vous aurez le sacro saint stack de 5 support, à priori il n'est **pas nécessaire que l'entrainement réussisse !** Vous avez juste à cliquer dessus, même si la chance d'échec est élevée.
+
+Bonne chance ! C'est vraiment juste du hasard. Ne le forcez pas, et vous serez content·e quand ça arrivera enfin.
+
+:::
+
+<a id="Races_energy"></a>
+
+### "Est-ce que l'énergie a une influence sur les courses ?" 
+
+::: details Non, mais vous risquez d'avoir un debuff si vous *entamez* une course avec exactement 0 énergie.
+
+**Même avec 1 point d'énergie, il n'y a pas de pénalité ni de risque à faire une course**. La course vous fera tomber à 0 énergie, et c'est tout. Si par contre vous **entamez la course avec *0 énergie***, vous avez une solide chance de vous prendre le debuff "Skin Outbreak" après la course. C'est un debuff qui peut aléatoirement **réduire votre humeur** entre deux tours. Vous pouvez aussi obtenir ce debuff après **3+ courses consécutives** (si vous avez de l'énergie).
+
+Voici une estimation de probabilités d'obtenir le debuff, tiré du [Ref Doc](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/).
+
+| Aucune énergie en commençant la course | 1e course | 2e course consécutive | 2e course consécutive | 2e course consécutive |
+| --- | --- | --- | --- | --- |
+| Baisse d'humeur | ~20% | **~33%** | **~95%** | **100%** |
+| + perte de stats | 0% | 0%| 0% | **~40%** | 
+| + debuff "Skin outbreak" | ~5%  | ~10% | ~20% | **~33%** |
+
+| Au moins 1 point d'énergie en commençant la course | 1e course | 2e course consécutive | 2e course consécutive | 2e course consécutive |
+| --- | --- | --- | --- | --- |
+| Baisse d'humeur | 0% | 0% | **~60%** | **100%** |
+| + perte de stats | 0% | 0% | 0% | **~40%** | 
+| + debuff "Skin outbreak" | 0% | 0% | ~12% | **~33%** |
+
+Quoi qu'il en soit, votre quantité d'énergie au début d'une course n'a **aucune** (aucune) **influence** sur le déroulement de la course, et la perf de votre uma. Pas d'inquiétude.
 
 :::
 
@@ -402,6 +480,7 @@ En attendant une solution de recherche précise (comme uma-pureDB pour la versio
 - [ "Pourquoi Kitasan Black speed SSR est si importante ?"](#Kitasan_speed)
 - [ "Kitasan a besoin de 3LB pour être bonne apparamment, c'est beaucoup, ça vaut quand même la peine pull la bannière ?"](#Kitasan_3LB)
 - [ "Elle est bien cette carte support *gratuite* que je viens d'avoir ?"](#Free_card)
+- ["Je suis frustré, j'ai eu plein de copies de Satono Diamond stam SSR et il paraît qu'elle est nulle..."](#Satono_Diamond_stam)
 
 
 <a id="Kitasan_speed"></a>
@@ -439,9 +518,11 @@ Kitasan est déjà très bonne **à partir de 3LB**, mais est malheureusement du
 
 Plus tard dans le jeu, une nouvelle ressource (qui prend du temps à grind, autant être honnête), permettra d'**ajouter des LB aux cartes support de votre choix**, ce qui vous permettra de booster davantage Kitasan.
 
+Enfin, comme toutes les autres cartes support, **Kitasan sera ajoutée au pool général** des cartes support, et vous pourrez la pull -par chance- plus tard sur une autre bannière. De plus, dans quelques années un nouveau type de ticket -**bleu**- sera ajouté au jeu, et vous permettra d'**obtenir des copies *garanties* de Kitasan Black speed SSR** (1 ou 2 par mois si vous achetez le season pass, sinon 1 tous les 3 mois (ou p't'être 2, je sais plus)). Bien que la carte aura terminé son règne d'ici là, elle continuera de rester une très bonne carte.
+
 ::: warning Attention
 
-Plus tard, il y aura une bannière "rerun" avec Kitasan Black speed SSR. Ce sera une bannière de bonne qualité, mais ce ne sera pas "évident" de savoir si oui ou non ça vaudra la peine de pull dessus. Il vaudra mieux demander conseil, car **cette bannière rerun sera peu avant et peu après des bannières importantes**, ce qui compliquera la gestion de vos ressources.
+Plus tard, il y aura une bannière "rerun" avec Kitasan Black speed SSR. Ce sera une bannière de bonne qualité, mais ce ne sera pas "évident" de savoir si oui ou non ça vaudra la peine de pull dessus. Il vaudra mieux demander conseil, car **cette bannière rerun sera peu avant et peu après des bannières possiblement importantes**, ce qui compliquera la gestion de vos ressources.
 
 :::
 
@@ -455,6 +536,32 @@ Plus tard, il y aura une bannière "rerun" avec Kitasan Black speed SSR. Ce sera
 Si vous venez de l'avoir, non. Aucune carte support **gratuite** (donc, qui ne vient pas de la gacha) n'est bonne tant qu'elle n'est pas à *au moins **2 LB***. En effet, toutes les cartes support SR et SSR ont un bonus dit "unique", qui ajoute un ou plusieurs bonus à la carte support, parfois sous certaines conditions (généralement, monter la jauge à 80%). Les cartes support **gratuites** n'ont PAS de bonus unique tant qu'elles sont à **0LB et 1LB**. Donc non seulement la carte est "moins bonne" -vu qu'elle est gratos, au lieu de venir de la gacha (exception : Haru Urara guts SSR)-, mais en plus vous la joueriez avec des bonus en moins.
 
 Si vous l'avez MLB par contre, là on parle, et n'hésitez pas à demander.
+
+:::
+
+<a id="Satono_Diamond_stam"></a>
+
+###  "Je suis frustré, j'ai eu plein de copies de Satono Diamond stam SSR et il paraît qu'elle est nulle..."
+
+::: details Satono Diamond stam SSR est une bonne carte :
+
+Elle n'est pas meta, elle n'est pas la meilleure, elle n'est pas Super Creek, elle est très remplaçable, mais **c'est une bonne carte**. Les mauvaises cartes SSR ça existe, et Satono Diamond stam SSR n'en fait pas partie. Si quelqu'un vous dit que la carte est mauvaise, c'est une opinion comme une autre, et n'hésitez pas à lui demander d'expliquer son analyse et sa comparaison.
+
+Satono Diamond stam SSR est une bonne carte stam, qui a une **contribution moyenne à monter stam**, et une **bonne contribution à monter les autres stats**. 
+
+Son principal défaut c'est qu'elle essaie de jouer le même rôle que Super Creek stam SSR -*être une "bonne" carte stam qui donne une gold recovery "universelle"*-, et elle est strictement moins bonne que cette dernière à ce rôle. Elle est à la fois une moins bonne carte stam, et en même temps moins bonne à donner une gold recovery universelle.
+
+Mais ça s'arrête là. Satono Diamond a le défaut de ne pas du tout exceller, et d'être mise en highlight en même temps que la meilleure carte speed. Mais ça ne l'empêche pas d'être bonne.
+
+Son skill gold, **Iron Will**, sera buffé plus tard, ce qui le rendra un peu plus fiable.
+
+::: tip Cela dit
+
+Vous avez parfaitement droit d'être frustré d'avoir eu beaucoup de Diam et peu de Kitasan. C'est normal d'être déçu de ne pas avoir eu *la* carte, mais c'est juste un peu dommage d'être frustré d'avoir eu une autre bonne carte à la place. Surtout quand ça donne une mauvaise infos aux autres.
+
+Quoi qu'il en soit, n'oubliez jamais, un grand sage a un jour dit :
+
+**Gacha was a mistake.**
 
 :::
 
@@ -546,7 +653,7 @@ Certaines uma ont des évènements **scriptés** qui leur forcent une blessure o
 
 ::: details La stat que vous voulez toujours en abondance, oui, mais la plus importante, non :
 
-Quelle que soit la uma, la distance, la stratégie, et le course, yes, la stat dont vous voulez la plus grande valeur, **c'est speed***. Mais c'est pas la stat la plus importante. C'est un raccourci qui demande de la nuance. **La stat la plus importante -donc la stat dont une carence serai éliminatoire- c'est la stamina.**
+Quelle que soit la uma, la distance, la stratégie, et le course, yes, la stat dont vous voulez la plus grande valeur, **c'est speed**. Mais c'est pas la stat la plus importante. C'est un raccourci qui demande de la nuance. **La stat la plus importante -donc la stat dont une carence serai éliminatoire- c'est la stamina.**
 
 Même en Sprint vous avez besoin de stamina, c'est juste que la quantité est minuscule. Par exemple, sur Nakayama 1200m (Sprinters Stakes), si vous avez 500 guts, il vous faut 250 stamina pour terminer la course. Si vous avez moins vous allez perdre la plupart du temps, même avec 4000 speed, car vous ne courrez pas assez longtemps à vitesse max. Sur Hanshin 1600m (Oka Sho), si vous avez 700 guts, il vous faut 450 stam pour terminer la course.
 
