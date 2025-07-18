@@ -1,6 +1,6 @@
 ---
-title: "Discord Umamumusume: Pretty Derby! FR"
-description: "Notre serveur discord Umamumusume: Pretty Derby! FR"
+title: "Discord Umamusume: Pretty Derby! FR"
+description: "Notre serveur discord Umamusume: Pretty Derby! FR"
 ---
 
 <script setup>
