@@ -80,7 +80,6 @@ jobs:
         if: always()
         with:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
-          status: ${{ job.status }}
           content: "Nouvelle version de [UmaGuide FR](https://umaguide.fr) déployée !"
           username: ST-2
           avatar_url: ${{ secrets.AVATAR_URL }}
