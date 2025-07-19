@@ -57,9 +57,14 @@ const headerConfig: HeadConfig[] = [
 ];
 
 const vitePressConfig: UserConfig = {
+  lang: "fr-FR",
   title: "UmaGuide FR",
   description: "Des guides en français pour Umamusume: Pretty Derby",
 
+  cleanUrls: true,
+  sitemap: {
+    hostname: 'https://umaguide.fr',
+  },
   transformHead: ({ pageData }) => {
     headerConfig.push(
       ["meta", { property: "og:title", content: pageData.title }],
