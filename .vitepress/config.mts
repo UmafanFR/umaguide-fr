@@ -25,7 +25,7 @@ const vitePressSidebarConfig = [
 const themeConfig = {
   outline: [2, 3],
   outlineTitle: 'Table des matières',
-  logo: '/assets/curren.png',
+  logo: '/assets/curren.webp',
   // https://vitepress.dev/reference/default-theme-config
   nav: [
     { text: 'Acceuil', link: '/' },

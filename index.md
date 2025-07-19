@@ -8,7 +8,7 @@ hero:
   text: "Des guides en français pour Umamusume: Pretty Derby"
   tagline: Par la communauté pour la communauté
   image: 
-    src: /assets/curren.png
+    src: /assets/curren.webp
     alt: Curren Chan
   actions:
     - theme: brand
