@@ -76,10 +76,9 @@ jobs:
         uses: actions/deploy-pages@v4
       - name: Send Webhook
         id: send-webhook
-        uses: sarisia/actions-status-discord@v1
-        if: always()
-        with:
-          webhook: ${{ secrets.DISCORD_WEBHOOK }}
-          content: "Nouvelle version de [UmaGuide FR](https://umaguide.fr) déployée !"
-          username: ST-2
-          avatar_url: ${{ secrets.AVATAR_URL }}
+        run: |
+          curl -X POST -H "Content-Type: application/json" -d '{
+            "content": "Nouvelle version de [UmaGuide FR](https://umaguide.fr) déployée !", 
+            "username": "UmaGuide FR", 
+            "avatar_url": "${{ secrets.AVATAR_URL }}"
+          }' ${{ secrets.DISCORD_WEBHOOK }}
