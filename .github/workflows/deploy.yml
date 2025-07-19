@@ -74,3 +74,13 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+      - name: Send Webhook
+        id: send-webhook
+        uses: sarisia/actions-status-discord@v1
+        if: always()
+        with:
+          webhook: ${{ secrets.DISCORD_WEBHOOK }}
+          status: ${{ job.status }}
+          content: "Nouvelle version de [UmaGuide FR](https://umaguide.fr) déployée !"
+          username: ST-2
+          avatar_url: ${{ secrets.AVATAR_URL }}
