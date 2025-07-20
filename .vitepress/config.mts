@@ -28,7 +28,7 @@ const themeConfig = {
   logo: '/assets/curren.webp',
   // https://vitepress.dev/reference/default-theme-config
   nav: [
-    { text: 'Acceuil', link: '/' },
+    { text: 'Accueil', link: '/' },
     { text: 'Guides', link: '/guides' }
   ],
 
