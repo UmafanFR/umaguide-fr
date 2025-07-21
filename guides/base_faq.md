@@ -329,6 +329,7 @@ Quoi qu'il en soit, votre quantité d'énergie au début d'une course n'a **aucu
 :::
 
 ## FAQ : Build et mécaniques
+- [ "Quelles stats je dois viser pour XXX ?"](#Stats_cible)
 - [ "À quoi ça sert guts ?"](#Guts_stat)
 - [ "À quoi ça sert wits ?"](#Wits_stat)
 - [ "Je prends quoi comme skills ?"](#Pick_skills)
@@ -337,6 +338,36 @@ Quoi qu'il en soit, votre quantité d'énergie au début d'une course n'a **aucu
 - [ "Pourquoi j'ai un spark guts ★ en fin de carrière, alors que j'ai 1200 speed et 1200 stamina ?"](#Inspiration_sparks)
 - [ "Quelle legacy choisir ? Est-ce qu'il vaut mieux privilégier certains sparks ?"](#Pick_legacy)
 
+<a id="Stats_cible"></a>
+
+### "Quelles stats je dois viser pour XXX ?"
+
+::: details Pas de réponse courte pour celle ci :
+
+De manière générale, actuellement **on sous-estime collectivement la stamina requise pour le Team Trials** (en même temps c'est difficile d'avoir assez de stam et assez du reste des stats actuellement, et ça nous oblige à faire des sacrifices). Quasiment tout le monde (moi inclus), sauf ceux qui se sont rendu compte d'à quel point [on sous-estime les quantités de stamina désirées](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/preview?tab=t.0#heading=h.5gejlihfmr29). Pour sécuriser toutes les courses en Team Trials, **soyez généreux·ses sur la stamina**. Je n'ai pas fait ces simulations moi même, mais on dit que pour assurer toutes les courses il faut :
+- 500 stamina effective en Sprint
+- 800 stamina effective en Mile
+- 1100 stamina effective en Medium
+- 1300+ stamina effective en Long
+
+À noter que "stamina effective" c'est la combinaison de votre stamina + vos skills de recovery. Pour un ordre de grandeur très vague, vous pouvez considérer qu'une gold recovery c'est +200 stamina (+50 pour une white recovery). En dessous de ces valeurs, vous êtes à risque de perdre des courses par manque de stamina. À l'inverse, **[vous gagnerez souvent contre les adversaires qui ont trop peu de stamina](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/preview?tab=t.0#heading=h.77y3enp6ghei)**. Même en Sprint et en Mile.
+
+En Sprint et en Mile la stamina requise baisse notablement avec des grandes valeurs de guts (en JP on fait Sprint et Mile avec presque uniquement du guts, mais c'est parce qu'on a 1/ des bonnes cartes guts 2/ d'autres usage de guts que les HP). Genre. 900+ guts.
+
+Pendant une carrière, il y a assez peu de repères notables à atteindre, alors n'hésiez pas à établir les votres. Par exemple, on peut dire que si vous avez moins de 2000 stats totales au début de la senior year c'est que vos stats montent moins vite que d'habitude (exmple complètement au pif). Vous pouvez prendre ce type de repères.
+
+Les seuls seuils que je vous invite à essayer de "viser" : 
+- Vous allez parfois perdre **Kikka Sho** en carrière (Classic Year, fin Octobre) si vous avez moins de **350-400 stamina** effective.
+- Vous allez presque systématiquement perdre **Tenno Sho Haru** en carrière (Senior Year, fin Avril) si vous avez moins de **600 stamina** effective. Si vous gagnez cette course, vous avez la stamina pour l'entièreté de la carrière (mais pas forcément pour Team Trials).
+- Visez au moins **600 speed et 450 stamina pour sécuriser Arima Kinen** en fin de carrière (Senior Year, fin Décembre). Vos autres stats doivent suivre, bien entendu. Vous perdrez si vous avez genre 200 power, 150 guts et 200 wits à côté. 
+
+Pour le reste, essayez de visualiser vos propres repères de croissance de stats.
+
+::: warning Rappel
+
+Pendant une carrière toutes vos stats sont secrètement boostées de 400. Ce n'est pas parce que vous pouvez finir une course de carrière donnée que vous pouvez finir la même course en Team Trials ou en PvP compétitif.
+
+:::
 
 <a id="Guts_stat"></a>
 
@@ -387,11 +418,11 @@ C'est pour toutes les petites choses que wits accomplis qu'on dit que cette stat
 
 ::: details Les skills de vitesse qui s'activent pour votre uma, et les recovery si besoin :
 
-La grande majorité du temps, c'est rarement une mauvaise idée de prendre les skills de vitesse qui s'activent pour votre uma. Si vous ne savez pas comment choisir vos skills (c'est normal, c'est un gros sujet, et une des choses à quoi on reconnait un·e joueur·euse expérimenté·e), contentez vous de ça. **Les skills de vitesse qui s'activent pour votre uma**.
+C'est rarement une mauvaise idée de prendre les skills de vitesse qui s'activent pour votre uma. Si vous ne savez pas comment choisir vos skills (c'est normal, c'est un gros sujet, et une des choses à quoi on reconnait un·e joueur·euse expérimenté·e), contentez vous de ça. **Les skills de vitesse qui s'activent pour votre uma**. Si vous avez la possibilité de prendre des **skills gold** (qui s'activent pour votre uma), prenez les en priorité (sauf si au prix d'un gold vous pouvez avoir 4 whites). 
 
-Pour savoir si un skill s'active, le plus important à vérifier c'est s'il y a une **contrainte d'aptitude**. Si oui, votre uma doit courir avec l'aptitude correspondante. Ainsi, un skill Pace Chaser ne s'activera jamais si votre uma utilise la stratégie Front Runner pour la course (même si votre uma a une bonne aptitude Front Runner). Les skills qui n'ont **aucune contraine d'aptitude** (comme Straightaway Adept) **sont universels** (la plupart du temps), et s'activent pour toutes les aptitudes. Attention, les skills uniques obtenus par inspiration n'ont pas de contrainte d'aptitude, mais ont souvent une **condition d'activation** qui complique l'activation pour certaines stratégies (exemple : presque impossible pour une Front Runner d'activer l'unique de Symboli Rudolf, qui requiert 3 dépassements).
+Pour savoir si un skill s'active, le plus important à vérifier c'est s'il y a une **contrainte d'aptitude**. Si oui, votre uma doit courir avec l'aptitude correspondante. Ainsi, un skill Pace Chaser (exemple : Prepared to Pass) ne s'activera jamais si votre uma utilise la stratégie Front Runner pour la course (même si votre uma a une bonne aptitude Front Runner). Les skills qui n'ont **aucune contraine d'aptitude** (exemple :  Straightaway Adept) **sont universels** (la plupart du temps), et s'activent pour toutes les aptitudes. Attention, les skills uniques obtenus par inspiration n'ont pas de contrainte d'aptitude, mais ont souvent une **condition d'activation** qui complique l'activation pour certaines stratégies (exemple : presque impossible pour une Front Runner d'activer l'unique de Symboli Rudolf, qui requiert 3 dépassements).
 
-Si votre uma est prévue pour le Team Trials **en medium ou en long**, vous allez très certainement avoir besoin de recovery, donc n'hésitez pas à en inclure (gold de préférence, mais les whites qui s'activent sont OK en Team Trials). **Évitez les greens** qui ne sont pas liés à une aptitude de votre uma, sauf si vous n'avez pas beaucoup de skill points restants (ou si vous aimez le gambling), car vous n'avez **aucune certitude qu'ils s'activeront en Team Trials**. Vous pouvez prendre des debuffs s'il vous reste quelques skills points, ou si ça vous amuse, mais en Team Trials un debuff n'accomplira virtuellement rien dans la vaste majorité des cas.
+Si votre uma est prévue pour le Team Trials **en medium ou en long**, vous allez très certainement avoir besoin de recovery, donc n'hésitez pas à en inclure (gold de préférence, mais les whites qui s'activent sont OK en Team Trials). **Évitez les skills greens** qui ne sont pas liés à une **aptitude** de votre uma (exemple : Sunny Days), sauf si vous n'avez pas beaucoup de skill points restants (ou si vous aimez le gambling), car vous n'avez **aucune certitude qu'ils s'activeront en Team Trials**. Vous pouvez prendre des debuffs s'il vous reste quelques skills points, ou si ça vous amuse, mais en Team Trials un debuff n'accomplira virtuellement rien dans la vaste majorité des cas.
 
 Pour plus de détails sur le choix des skills, vous pouvez jeter un oeil à [ce guide](https://yamakyu.notion.site/Comment-bien-choisir-ses-skills-15fb1daa914b80d79dbbcd867ef1f245) (qui sera mis à jour en temps et en heure) afin d'en savoir plus sur la logique (qui est finalement assez simple, mais très nuancée) sur le choix des skills.
 
@@ -568,6 +599,7 @@ Quoi qu'il en soit, n'oubliez jamais, un grand sage a un jour dit :
 
 ## Idées reçues incorrectes et conseils misleadings.
 
+- [ "Mon deck doit avoir au moins une carte support par type d'entrainement"](#Highlander_deck)
 - [ "Il faut équilibrer toutes les stats de ma uma"](#Balanced_stats)
 - [ "Gold Ship (et les End Closer) a besoin de plus de power que les autres uma"](#End_closer_power)
 - [ "Gold Ship commence son sprint final avant les autres uma"](#Golshi_sprint)
@@ -578,6 +610,23 @@ Quoi qu'il en soit, n'oubliez jamais, un grand sage a un jour dit :
 - [ "Je n'ai pas eu le level up du skill unique de ma uma, ma run est foutue"](#Unique_level_up)
 - [ "Wits réduit la chance de faire un départ retardé"](#Wits_late_start)
 
+<a id="Highlander_deck"></a>
+
+"Mon deck doit avoir au moins une carte support par type d'entrainement"
+
+::: details Surtout pas, plus vous avez de cartes de types différents, plus c'est difficile de monter chaque stat :
+
+Ce type de deck est généralement appelé "deck **highlander**" (aucune idée pourquoi), et c'est une très mauvaise idée dans la grande majorité des cas. Si vous faites un deck highlander, vous avez -au mieux- 2 cartes d'un type donné, et *1 carte pour toutes les autres stats*, et ça c'est un problème. Chaque carte qui est seule à monter sa stat (exemple : une seule carte power) doit être capable de solo carry la croissance de cette stat ; autrement dit, **chaque carte de votre deck doit être d'excellente qualité**. À ça s'ajoute le besoin d'avoir une **RNG impossiblement immaculée**, car vous n'aurez pas de double rainbow pour chaque carte qui solo. Du coup, vos supports doivent coopérer de manière parfaitement synchronisée pour que la qualité des stacks de supports compense l'absence de double rainbow.
+
+Bref, les decks highlander requièrent les meilleures cartes, et un alignement des étoiles d'environ 7 galaxies différentes, ce qui fait que **dans 99% des cas ce sont des mauvais decks**. Vous pouvez vous amuser à expérimenter avec si vous avez du temps à tuer :9
+
+::: tip Pendant ce temps, sur la JP
+
+On observe quand même que les decks highlander ont l'air de marcher vachement bien sur le 11e scénario d'entrainement, **Design Your Island**. Enfin ! Il n'aura fallu que 11 scénarios (presque 4 ans et demi) avant que les decks highlander soient "viable™". Et encore, si c'est bel et bien viable pour la croissance des stats, c'est pas dit que ce soit viable en PvP (mais c'est p't'être le cas, j'en ai juste aucune idée :9).
+
+Donc autant vous dire que c'est pas demain la veille qu'on utilisera ce type de deck sur la version globale.
+
+:::
 
 <a id="Balanced_stats"></a>
 
@@ -683,6 +732,10 @@ Le seul cas où une différence de mood peut réellement être la différence en
 
 On a beau dire que "Kitasan Black speed SSR est super forte et irremplaçable", ou que "Oguri Cap alt est broken", c'est pas grave de pas les avoir. Obtenir les bonnes cartes et les bonnes uma ça vous **facilite** les choses, mais ça veut pas dire que vous ne pouvez rien accomplir sans elles. C'est pas de chance si vous passez à côté, vous aurez davantage de chance sur une bannière ultérieure.
 
+Umamusume c'est un jeu pour lequel vous êtes récompensés pour vos bons choix et l'utilisation de vos ressources à moyen et long terme ; une seule carte (aussi bonne soit-elle) ne vas pas doom votre compte ou rendre votre compte divin. Ce sera **la combinaison de vos cartes support** qui vont vous mener vers des belles victoires. Certaines cartes support ou umamusume sont des meilleurs assets que d'autres, mais ce n'est finalement que ça : des assets.
+
+Enfin, n'oubliez pas que à terme il y a **d'autres moyens d'obtenir une carte support ou umamusume**. À mesure que le jeu avance, vous obtiendrez des tickets pour les ravoir, ou vous aurez la chance (on espère) d'être surpris·e par l'apparition de cette carte/uma dans des pulls futurs.
+
 :::
 
 
@@ -704,6 +757,10 @@ Un skill unique de recovery "classique", qui rend 5.5% de HP au lvl 1, sera donc
 Un skill unique de vitesse "classique", qui augmente la vitesse de 0.35m/s au lvl 1, sera donc boosté à 0.395m/s au lvl 6. À titre de comparaison, un speed skill white "classique" augmente la vitesse de 0.15m/s, donc là aussi on parle d'un boost équivalent à **un tiers d'un speed skill white**.
 
 Pas d'inquiétude pour votre skill unique :>
+
+::: tip On me souffle dans l'oreillette
+
+J'ai oublié de mentionner que le level up du skill unique participe à l'augmentation du rank final de votre uma. Parfois c'est les points qui font la différence entre une A et une A+, il est vrai ~
 
 :::
 
