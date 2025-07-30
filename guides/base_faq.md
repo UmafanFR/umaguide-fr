@@ -39,6 +39,7 @@ La version globale étant actuellement sur le scénario URA, **les informations 
 
 - ["Je n'arrive pas à faire des courses avec ma nouvelle umamusume"](#New_uma)
 - ["Comment accumuler rapidement des carats ?"](#farm_carats)
+- ["Comment construire mes teams en Team Trials ? Est-ce que ma team auto-select est bonne ?"](#Team_Trials_Auto)
 
 <a id="New_uma"></a>
 
@@ -79,6 +80,72 @@ Ce n'est pas la peine de dépenser vos ressources (monies, support points, etc) 
 
 :::
 
+<a id="Team_Trials_Auto"></a>
+
+### "Comment construire mes teams en Team Trials ? Est-ce que ma team auto-select est bonne ?" 
+
+:::: details Non, y'a des très grandes chances que vos teams auto-select ne soient pas bonnes. Je vous explique comment le faire vous-même :
+
+N'utilisez pas l'auto-select en Team Trials si vous voulez des bonnes teams, qui vous rapportent des points en Team Trials.
+
+On a aucune foutue idée de comment fonctionne exactement l'auto-select, et l'auto-select n'a sans doute aucune foutue idée de comment il fonctionne. On pensait qu'il essayait de maximiser le score du rank de votre team, pour avoir le nombre le plus élevé, mais récemment on voit des gens qui postent des screenshots d'une **baisse de points en auto-select**. Finalement, tout ce qu'on sait de l'auto-select c'est que la plupart des gens qui demandent si leurs teams auto-select sont bonnes ont généralement des teams éclatées au sol. ~~C'est sans doute Tazuna qui le gère~~
+
+La construction de vos teams en Team Trials peut être **optimisée finement de plein de manières**. Mais sans aller jusque là, les principales choses que vous voulez checker pour construire vos teams en Team Trials sont essentiellement :
+- **les aptitudes que vos uma ont à "A"** (ou "B", à la rigueur), et qui peuvent passer à "A" facilement.
+- **leurs skills gold**, si vous les avez débloqués (vous pouvez **ignorer** ceux qui sont encore verrouillés, et refactorer votre team plus tard quand vous les aurez).
+- **leur skill unique**
+
+::: tip Rappel, ou info si vous ne saviez pas
+
+En début de run, vous pouvez **monter les aptitudes de vos uma par inspiration**, avec des legacy qui ont les **sparks roses** des aptitudes correspondantes. **Au lancement d'une carrière**, la 1e upgrade demande 1*, et pour chaque upgrade supplémentaire c'est 3* de plus, jusqu'à 10* max (même si vous en avez 18). Ainsi, vous pouvez garantir une upgrade de 4 ranks sur l'aptitude en question **au lancement de la carrière**.
+
+Autrement dit, **une aptitude notée E peut donc passer A de manière garantie** avec suffisamment d'inspiration. Une aptitude F ira jusqu'à B. N'hésitez pas à [checker umapureDB](https://uma-global.pure-db.com/#/search) pour trouver des legacy qui vous arrangent. 
+
+Ainsi, des uma comme Rice Shower, Mayano Top Gun ou Air Groove peuvent venir compléter une team sprint, **faute de mieux**, car elles ont "E" ou mieux en sprint, et peuvent donc être montée jusqu'à "A". Si votre aptitude est "F" ou pire, il vous faudra un coup de chance pendant les 2 inspirations events mid-carrière pour passer de B à A.
+
+:::
+
+Prenez une uma, regardez ses aptitudes de distance et stratégie, et voyez si elle a des **skills gold** qui y correspondent. Parfois, son skill unique aura une **condition de position** suggérant une stratégie particulière (exemple : être en 1e position). 
+
+**C'est la base de la base**, et vous devriez être capable de faire ça.
+
+#### Exemple 1 : Super Creek
+
+⏩ Elle est notée "A" en turf, medium, long et pace chaser. Ses autres aptitudes sont à "B" ou moins. Donc vous allez surtout vouloir envisager de la mettre en med ou en long, en tant que pace chaser. Elle a aussi un skill gold pace chaser, donc si vous l'avez débloqué vous savez comment gérer Creek : pace chaser en med ou en long. Pour décider entre les deux, vous pouvez vous dire qu'avec sa gold recovery et son unique de recovery elle est plus indiquée pour du long que du med (et elle a un skill white long supplémentaire).
+
+#### Exemple 2 : Silence Suzuka
+
+⏩ Elle est notée "A" en turf, mile, medium et front runner. Ses autres aptitudes sont à "C" ou moins. Donc vous serez intéressé pour la jouer front runner, en mile ou en med. Elle a un skill gold front runner, ce qui confirme sa stratégie. Vous pouvez la mettre où vous voulez en mile ou en med, selon ce qui vous arrange (elle a un skill white med supplémentaire). Notez qu'elle a **D short et E long**, et que vous pouvez monter à A une de ces aptitudes de distance par inspiration en début de carrière (7* short / 10* long), donc techniquement vous pouvez mettre Suzuka en front runner **où ça vous arrange**, tant que c'est en turf.
+
+J'espère que c'est plus parlant avec ces exemples.
+
+::: tip Pour les uma dirt
+
+Toutes les courses Dirt en Team Trials sont en distance Mile, donc vous voulez checker l'aptitude dirt (évidemment), mais aussi **mile**.
+
+:::
+
+Si c'est raisonnablement possible, une bonne optimisation en Team Trials consiste à n'avoir qu'une seule uma pour une stratégie donnée dans une team. Autrement dit, évitez d'avoir 2 front runner dans la même team, ou 2 pace chaser dans la même team, etc. Mine de rien c'est une assez grande perte de points potentiels pour le positionnement. Si vous n'avez pas assez de uma pour faire cette optimisation, pas d'inquiétude, vous pourrez le faire plus tard quand vous en aurez davantage.
+
+Mais en gros voilà. **Tout ce raisonnement s'applique à toutes les uma pour votre Team Trials**. 
+
+À cela s'ajoute la *qualité* desdits skills gold, mais y'aura des guides plus tard pour comprendre les skills. De manière générale, les recovery qui s'activent c'est excellent, les speed skill qui s'activent c'est très très bien, tout le reste c'est *vaguement du cas par cas*. Mais dans l'idée c'est vraiment juste ça : 
+- checker les aptitudes
+- checker les skills gold (si débloqués)
+- checker le skill unique
+
+::: warning Mais Yamakyu...
+
+*...comment on fait pour les uma qui ont des skills **incohérents** (Mejiro Ryan a un unique qui requiert d'être à l'arrière en end-race et à l'avant en mid-race 🙃) ou **éclatés au sol** (qui a conçu le kit de Matikanefukukitaru ~~je veux des noms~~) ?*
+
+**On fait comme on peut, _faute de mieux_**, et on remplace par une uma avec un kit plus cohérent, quand c'est possible. Une uma qui n'active que 2 ses 3 principaux skills c'est mieux que pas de uma, ou qu'une uma qui n'a pas l'aptitude, positionnée par l'auto-select. On est aux balbutiements de la version globale du jeu, **c'est parfaitement normal de devoir faire des tas de compromis**.
+
+:::
+
+Après y'a d'autres optimisations plus fines mais on verra ça ultérieurement.
+
+::::
+
 ## FAQ : Carrière
 
 - [ "Quel deck utiliser pour build \[insérez-ici-une-uma\] ?"](#How_to_build)
@@ -92,6 +159,7 @@ Ce n'est pas la peine de dépenser vos ressources (monies, support points, etc) 
 - [ "Je galère un peu et j'ai l'impression de ne plus progresser..."](#Progress_stuck)
 - [ "Comment réussir la mission où il faut faire un entrainement avec 5 supports d'un coup ?"](#5-supports_mission)
 - ["Est-ce que l'énergie a une influence sur les courses ?"](#Races_energy)
+- ["Comment level up le skill unique de ma uma ?"](#Unique_LevelUp_Career)
 
 <a id="How_to_build"></a>
 
@@ -328,6 +396,25 @@ Quoi qu'il en soit, votre quantité d'énergie au début d'une course n'a **aucu
 
 :::
 
+<a id="Unique_LevelUp_Career"></a>
+
+### "Comment level up le skill unique de ma uma ?"
+
+::: details Il y'a 3 level up possible dans une carrière :
+
+Ce sera différent dans certains scénarios, mais sur URA Finale votre skill unique va monter en niveau à 3 moments bien précis de la **Senior Year** :
+- À la **Saint-Valentin, début février**, à condition d'avoir 60k fans. Haru Urara et Smart Falcon n'en ont besoin que de 40k.
+- Au **Fan Festival, début avril** (immédiatement après le 2e inspiration event), à condition d'avoir 70k fans. Urara et Falcon n'en ont besoin que de 60k.
+- À **Noël, fin décembre** (au même tour qu'Arima Kinen, mais avant la course), à condition d'avoir 120k fans. Urara et Falcon n'en ont besoin que de 80k.
+
+Il y a aussi les level up liés à la rareté (en étoiles) de votre uma, bien entendu.
+
+::: tip Rappel à toutes fins utiles
+
+[On en reparle plus bas](#Unique_level_up), mais level up l'unique de votre uma n'augmente que marginalement son efficacité. Par contre, ce sont des chouettes points supplémentaires pour le rank.
+
+:::
+
 ## FAQ : Build et mécaniques
 - [ "Quelles stats je dois viser pour XXX ?"](#Stats_cible)
 - [ "À quoi ça sert guts ?"](#Guts_stat)
@@ -337,6 +424,8 @@ Quoi qu'il en soit, votre quantité d'énergie au début d'une course n'a **aucu
 - [ "Est-ce que mes propres debuffs peuvent affecter ma uma et ses coéquipières ?"](#Debuff_allies)
 - [ "Pourquoi j'ai un spark guts ★ en fin de carrière, alors que j'ai 1200 speed et 1200 stamina ?"](#Inspiration_sparks)
 - [ "Quelle legacy choisir ? Est-ce qu'il vaut mieux privilégier certains sparks ?"](#Pick_legacy)
+- ["Quels skills gold débloquer sur mes uma ?"](#Gold_Skills_Unlock)
+
 
 <a id="Stats_cible"></a>
 
@@ -416,7 +505,13 @@ C'est pour toutes les petites choses que wits accomplis qu'on dit que cette stat
 
 ###  "Je prends quoi comme skills ?"
 
-::: details Les skills de vitesse qui s'activent pour votre uma, et les recovery si besoin :
+:::: details Les skills de vitesse qui s'activent pour votre uma, et les recovery si besoin :
+
+::: tip Gardez ce tableau sous le coude !
+
+Voici [un gros doc vous proposant des très bonnes recommandations](https://docs.google.com/spreadsheets/d/1oB3eTvKqREtJDWJL0q80O_VjBcpOmRl5xE0z5fZKgFY/htmlview) pour **tous les skills du jeu**, présents au 31 juillet 2025 ! Vous pourrez aussi y voir une explication des conditions réelles d'activation. 
+
+:::
 
 C'est rarement une mauvaise idée de prendre les skills de vitesse qui s'activent pour votre uma. Si vous ne savez pas comment choisir vos skills (c'est normal, c'est un gros sujet, et une des choses à quoi on reconnait un·e joueur·euse expérimenté·e), contentez vous de ça. **Les skills de vitesse qui s'activent pour votre uma**. Si vous avez la possibilité de prendre des **skills gold** (qui s'activent pour votre uma), prenez les en priorité (sauf si au prix d'un gold vous pouvez avoir 4 whites). 
 
@@ -428,7 +523,7 @@ Pour plus de détails sur le choix des skills, vous pouvez jeter un oeil à [ce 
 
 **Ne prenez pas de skill qui ne s'active pas**, SAUF si vous n'avez littéralement absolument plus rien d'autre à acheter. Auquel cas, essayez de cibler les skills qui correspondent à une **aptitude "A" de votre uma**, même si votre uma ne court pas avec cette aptitude.
 
-:::
+::::
 
 
 <a id="Activation_skills"></a>
@@ -506,12 +601,56 @@ En attendant une solution de recherche précise (comme uma-pureDB pour la versio
 
 :::
 
+<a id="Gold_Skills_Unlock"></a>
+
+### "Quels skills gold débloquer sur mes uma ?"
+
+:::: details D'abord, les skills de votre fav. Ensuite, les skills qui s'activent et qui accomplissent quelque chose :
+
+Toutes les uma ne sont pas conçues pareil, et le kit de certaines est particulièrement mauvais. C'est l'inconvénient d'être une uma du début du jeu : leurs kits sont souvent, euh, pas fous. Mais n'hésitez pas à débloquer les skills de votre uma fav si ça vous dit, même s'il s'agit de Matikanefukukitaru.
+
+::: tip J'adore Matikanefukukitaru hein
+
+Elle a juste, genre, certainement le pire kit de tout le jeu sadly. Son alt est bien meilleur, et j'ai hâte.
+
+:::
+
+
+Pour des choix de skills pertinents, vous voulez débloquer les skills gold **qui s'activent**. C'est vraiment **LE PLUS IMPORTANT**. L'activation.
+
+Un skill qui "s'active" c'est un skill dont les **conditions d'activation** sont suffisamment **fiables/simples** pour être validées presque à coup sur **au moins une fois par course**, *la plupart du temps*. Occasionnellement ce sera pas validable et c'est pas dramatique ; ça devient gênant si *la plupart du temps* le skill ne s'active pas.
+
+::: warning Nuance importante : on ignore le wits check là
+
+Un "skill qui s'active" reste un "skill qui s'active", même si vous avez 150 wits et que du coup le skill n'est pas déclenché dans une course réelle. Tout ce qui importe, c'est que si vous faites genre 100 courses, il faut que genre dans 90 d'entres elles les conditions aient été validées au moins une fois (et après la RNG décide du wits check). 
+
+:::
+
+Vous voulez des skills qui s'activent, car Team Trials est une compétition de points, et **activer des skills ça donne des points**. Si la description vous semble complexe ou peu probable, il est possible que le skill s'active mal, et vous n'en voulez donc peut-être pas. Le mieux c'est toujours de regarder la [condition exacte sur Gametora.com](https://gametora.com/umamusume/skills), mais les conditions sont parfois compliquées à lire. N'hésitez pas non plus à [inspecter ce tableau vous proposant des bons skills à prendre](https://docs.google.com/spreadsheets/d/1oB3eTvKqREtJDWJL0q80O_VjBcpOmRl5xE0z5fZKgFY/htmlview).
+
+Le MIEUX, cela dit, c'est de prendre des skills qui **s'activent** ET qui **accomplissent quelque chose** qui aide votre uma à gagner. 
+
+"Accomplir quelque chose" ça **élimine** déjà tous les skills gold de **déplacement latéral**, de **vision** (buff et debuff), ainsi que la plupart des skills gold d'**accélération**. Il y a des bons skills d'accel dans le jeu, mais pour le moment la plupart sont trop aléatoires dans leur **timing** pour accomplir quoi que ce soit, _la plupart du temps_. Donc si vous ne savez pas évaluer l'utilité d'un skill d'accel, partez du principe qu'il ne fait rien, la plupart du temps.
+
+Les skills gold qui sont les meilleurs à accomplir quelque chose sont essentiellement :
+- Concentration
+- Les gold recovery (qui s'activent)
+- Les skills de vitesse (qui s'activent)
+- Les debuffs de vitesse
+- Les debuffs de stamina
+
+Si votre uma a une combinaison de ces types de skills gold là, c'est top. Ainsi, les uma comme Special Week, TM Opera O, Tôkai Teio alt, Taiki Shuttle ou Daiwa Scarlet (et d'autres) sont plutôt des no-brainer, et **vous pouvez débloquer tous leurs skills gold sans problème**.
+
+Pour les autres, c'est du cas par cas. Et gardez en tête que c'est OK de débloquer des skills même si c'est pas parfaitement optimal.
+
+::::
 
 ## FAQ : Cartes support
 - [ "Pourquoi Kitasan Black speed SSR est si importante ?"](#Kitasan_speed)
 - [ "Kitasan a besoin de 3LB pour être bonne apparamment, c'est beaucoup, ça vaut quand même la peine pull la bannière ?"](#Kitasan_3LB)
 - [ "Elle est bien cette carte support *gratuite* que je viens d'avoir ?"](#Free_card)
 - ["Je suis frustré, j'ai eu plein de copies de Satono Diamond stam SSR et il paraît qu'elle est nulle..."](#Satono_Diamond_stam)
+- ["Je level up quoi comme cartes ?"](#Cards_LevelUp)
 
 
 <a id="Kitasan_speed"></a>
@@ -595,6 +734,40 @@ Quoi qu'il en soit, n'oubliez jamais, un grand sage a un jour dit :
 **Gacha was a mistake.**
 
 :::
+
+<a id="Cards_LevelUp"></a>
+
+### Je level up quoi comme cartes ?
+
+:::: details Les cartes que vous utilisez. Voici une liste non exhaustive de bonnes cartes assez communes :
+
+::: tip Rappel
+
+Un uncap ne coute aucune ressource, et **vous devriez toujours uncap vos SR et SSR**. Les R peuvent être gardées à 0LB plus longtemps si vous voulez utiliser les doublons pour des fers à cheval.
+
+:::
+
+Au début du jeu, **les ressources pour monter des cartes sont vraiment très limitées**, et c'est facile de tomber à court de monies et support points, malgré les daily races. **Soyez sélectif·ve·s** sur les cartes que vous montez, et commencez par ne monter que **celles que vous utilisez** activement.
+
+Voici une liste **non exhaustive** de cartes de bonne qualité, que vous pouvez monter et utiliser :
+- **Super Creek**, Seiun Sky et Satono Diamond stamina SSR
+- **Fine Motion** wits SSR
+- **Vodka** et El Condor Pasa power SSR
+- **Silence Suzuka**, Sakura Bakushin O et Tôkai Teio speed SSR
+- **Sweep Tosho**, Eishin Flash et King Halo speed SR
+- Mihono Bourbon, Daitaku Helios, Hishi Amazon, et Biwa Hayahide power SR
+- **Mayano Top Gun** et Manhattan Cafe stamina SR
+- Daiwa Scarlet, Fuji Kiseki, Agnes Tachyon, Marvelous Sunday, Matikanefukukitaru et Ikuno Dictus wits SR
+
+Vous pouvez monter et utiliser (pour certaines) ces cartes là si elles ont suffisamment de LB :
+- N'importe quelle carte **gratuite** (= qui ne vient pas d'une gacha), **à partir de 2LB** (Mejiro McQueen stam, Haru Urara guts, Matikanetannhauser guts, et d'autres à venir).
+- Kitasan Black speed SSR à partir de 3LB, sauf si vous êtes vraiment en giga dèche de cartes speed
+ 
+Si une carte n'est pas présente dans cette liste, ça ne veut pas dire qu'elle est *pas bonne*, mais qu'elle n'est **pas génériquement bonne**. Donc c'est incorrect de vous recommander de la monter sans savoir ce que vous avez comme autres cartes et tout.
+
+J'ai la flemme de regarder les cartes de tout le monde 😌
+
+::::
 
 
 ## Idées reçues incorrectes et conseils misleadings.
