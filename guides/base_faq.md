@@ -404,7 +404,7 @@ Quoi qu'il en soit, votre quantité d'énergie au début d'une course n'a **aucu
 
 Ce sera différent dans certains scénarios, mais sur URA Finale votre skill unique va monter en niveau à 3 moments bien précis de la **Senior Year** :
 - À la **Saint-Valentin, début février**, à condition d'avoir 60k fans. Haru Urara et Smart Falcon n'en ont besoin que de 40k.
-- Au **Fan Festival, début avril** (immédiatement après le 2e inspiration event), à condition d'avoir 70k fans. Urara et Falcon n'en ont besoin que de 60k.
+- Au **Fan Festival, début avril** (immédiatement après le 2e inspiration event), à condition d'avoir 70k fans et d'avoir **monté la jauge de la directrice Yayoi Akikawa jusqu'à 60% (vert)**. Urara et Falcon n'en ont besoin que de 60k.
 - À **Noël, fin décembre** (au même tour qu'Arima Kinen, mais avant la course), à condition d'avoir 120k fans. Urara et Falcon n'en ont besoin que de 80k.
 
 Il y a aussi les level up liés à la rareté (en étoiles) de votre uma, bien entendu.
