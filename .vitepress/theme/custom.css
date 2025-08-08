@@ -1,12 +1,13 @@
+html {
+  scroll-padding-top: 134px; /* Fix scrolling when arriving on website with an anchor set */
+}
+
 :root {
-  --vp-c-brand-1: #F86669;
-  --vp-c-brand-2: #F86669;
-  --vp-c-brand-3: #F86669;
-  --vp-home-hero-image-background-image: linear-gradient(
-    -45deg,
-    #F86669 50%,
-    #9c9c9c 50%
-  );
+  --vp-c-brand-1: #f86669;
+  --vp-c-brand-2: #f86669;
+  --vp-c-brand-3: #f86669;
+  --vp-c-brand-1-light: rgba(248, 102, 105, 0.5);
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #f86669 50%, #9c9c9c 50%);
   --vp-home-hero-image-filter: blur(44px);
 }
 
@@ -20,4 +21,27 @@
   :root {
     --vp-home-hero-image-filter: blur(68px);
   }
+}
+
+/* Highlight anchors animation */
+@keyframes fadeBrand {
+  0% {
+    background-color: transparent;
+  }
+  30% {
+    background-color: var(--vp-c-brand-1-light);
+  }
+  50% {
+    background-color: transparent;
+  }
+  70% {
+    background-color: var(--vp-c-brand-1-light);
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+
+.anchor-highlight {
+  animation: fadeBrand 1s ease-in-out forwards;
 }
