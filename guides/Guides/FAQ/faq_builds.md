@@ -1,7 +1,7 @@
 ---
-title: "Build et mécaniques"
+title: 'Build et mécaniques'
 outline: [2, 3]
-description: "Réponses aux questions très fréquentes: Build et mécaniques"
+description: 'Réponses aux questions très fréquentes: Build et mécaniques'
 order: 4
 ---
 

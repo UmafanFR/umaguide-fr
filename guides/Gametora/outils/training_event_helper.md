@@ -1,7 +1,7 @@
 ---
 title: Assistant d'entrainement
 lang: fr-fr
-description: Fonctionnement de l'assistant d'entrainement de Gametora 
+description: Fonctionnement de l'assistant d'entrainement de Gametora
 ---
 
 # L'Assistant d'entrainement
@@ -17,6 +17,7 @@ Premièrement, rendez-vous sur la page du [Assistant d'entrainement](https://gam
 :::
 
 Ici, vous pouvez sélectionner plusieurs choses :
+
 1. Les 6 cartes supports que vous utilisez pour votre career run.
 2. Le scénario d'entraînement que vous avez choisi.
 3. L'Umamusume que vous entraînez.
@@ -54,7 +55,7 @@ Dans l'exemple juste au dessus, il s'agit d'un événement de Silence Suzuka, et
 
 On va donc sur Gametora, on sélectionne Silence Suzuka, et dans la liste des événements, on cherche celui-ci.
 
-::: tip Il peut y avoir *beaucoup* d'événements, prenez le temps de chercher!
+::: tip Il peut y avoir _beaucoup_ d'événements, prenez le temps de chercher!
 ![Liste des événements de Silence Suzuka](/assets/Gametora/event_helper_search_event.png)
 :::
 

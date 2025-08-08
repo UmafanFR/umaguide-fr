@@ -1,4 +1,4 @@
 ---
-title: "Umamusume"
+title: 'Umamusume'
 order: 0
 ---

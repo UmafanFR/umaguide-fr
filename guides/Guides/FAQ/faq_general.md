@@ -1,7 +1,7 @@
 ---
-title: "Généralités"
+title: 'Généralités'
 outline: [2, 3]
-description: "Réponses aux questions très fréquentes: Généralités"
+description: 'Réponses aux questions très fréquentes: Généralités'
 order: 2
 ---
 
