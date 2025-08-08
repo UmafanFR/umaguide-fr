@@ -1,7 +1,7 @@
 ---
 title: Calculateur de compatibilité
 lang: fr-fr
-description: Fonctionnement du calculateur de compatibilité de Gametora 
+description: Fonctionnement du calculateur de compatibilité de Gametora
 ---
 
 # Calculateur de compatibilité

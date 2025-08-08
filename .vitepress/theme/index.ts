@@ -38,15 +38,13 @@ function waitForElementById(id: string, maxRetries = 10, delay = 100): Promise<H
   });
 }
 
-let lastHighlightedId: string | null = null;
-
 function highlightAnchor(rawTo: string | { fullPath?: string }) {
   const to = typeof rawTo === 'string' ? rawTo : rawTo?.fullPath || '';
   const hashIndex = to.indexOf('#');
   if (hashIndex === -1) return;
 
   const id = decodeURIComponent(to.slice(hashIndex + 1));
-  if (!id || id === lastHighlightedId) return;
+  if (!id) return;
 
   waitForElementById(id)
     .then(heading => {
@@ -55,8 +53,6 @@ function highlightAnchor(rawTo: string | { fullPath?: string }) {
       });
 
       heading.classList.add('anchor-highlight');
-
-      lastHighlightedId = id;
     })
     .catch(err => {
       console.warn(err.message);

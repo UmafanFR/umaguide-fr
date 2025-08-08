@@ -1,7 +1,7 @@
 ---
-title: "Autres"
+title: 'Autres'
 outline: [2, 3]
-description: "Réponses aux questions très fréquentes: Idées reçues incorrectes et conseils misleadings"
+description: 'Réponses aux questions très fréquentes: Idées reçues incorrectes et conseils misleadings'
 order: 6
 lastUpdated: true
 footer: true
