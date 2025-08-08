@@ -1,7 +1,7 @@
 ---
 title: Comparateur
 lang: fr-fr
-description: Fonctionnement des comparateurs de Gametora 
+description: Fonctionnement des comparateurs de Gametora
 ---
 
 # Le Comparateur
@@ -19,7 +19,7 @@ Il est disponible à l'adresse suivante : [Comparateur](https://gametora.com/uma
 Lorsque vous sélectionnez des cartes dans la partie `Compare Support Cards`, elles afficheront leurs statistiques dans un tableau juste en dessous.
 
 ::: danger
-Veillez à bien penser à sélectionner le LB correct pour chaque carte afin que les comparaisons soient correctes ! Les effets des cartes changent énormément en fonction du nombre de LB que vous avez débloqué.
+Assurez-vous de sélectionner le bon niveau de LB pour chaque carte, afin de garantir des comparaisons justes. Les effets des cartes varient considérablement selon le nombre de LB débloqués.
 :::
 
 ### Explication des couleurs et des symboles
@@ -36,26 +36,30 @@ Une fois vos cartes sélectionnées, une longue liste de stats s'affiche et il p
 #### Statistiques importantes
 
 ::: tip Les statistiques les plus importantes pour une carte support sont, à juste titre, les suivantes :
+
 - **Friendship Bonus** : Augmente l'efficacité des entraînements "arc-en-ciel" (en anglais les "Friendship Training").
 - **Mood Effect** : Amplifie l'effet du mood lors d'un entraînement avec cette carte support.
 - **Training Effectiveness** : Augmente l'efficacité des entraînements avec cette carte support.
 - **Specialty Priority** : Augmente la fréquence à laquelle la carte support apparaît dans son entraînement préféré.
 - **Skill Point Bonus** : Augmente le nombre de Skill Points gagnés lors d'un entraînement avec cette carte support.
-:::
+  :::
 
 #### Statistiques moins importantes
 
 ::: tip Les statistiques moins importantes sont :
+
 - **Initial Friendship Gauge** : Augmente la jauge d'affinité au début d'une Career Run. Permet théoriquement d'avoir des Friendship Training plus tôt, mais c'est très situationnel comme stat.
 - **Initial Speed/Stamina/Power/Guts/Wit** : Augmente la stat initiale au début de la Career Run.
-:::
+  :::
 
 #### Statistiques à ignorer
+
 ::: tip Les statistiques à ignorer sont :
+
 - **Fan Bonus** : Augmente le nombre de fans gagnés lors d'une course. C'est parfaitement inutile en soi comme stat donc on l'ignore.
 - **Hint Frequency** : Augmente la fréquence à laquelle les événements donnant un hint apparaissent.
 - **Race Bonus** : Augmente les statistiques obtenues après une course lors d'une Career Run. Pas très utile actuellement avec seulement le scénario URA Finale, mais deviendra très important dès que le scénario MANT sera disponible.
-:::
+  :::
 
 ### Du coup, quelle carte support choisir ?
 
