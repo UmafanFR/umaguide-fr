@@ -1,5 +1,7 @@
 ---
 title: Guides
+outline: 0
+order: 0
 ---
 
 # Bonjour à tous·tes
