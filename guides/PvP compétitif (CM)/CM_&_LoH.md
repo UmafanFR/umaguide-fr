@@ -24,11 +24,9 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ Champion's Meeting - **21 Août 2025** - Tokyo 2400m turf (Tokyo Yushun Japanese Derby)
+⏩ [Champion's Meeting - **21 Août 2025** - Tokyo 2400m turf (Tokyo Yushun Japanese Derby)](CM01_Aout_2025_(Derby))
 
-***(recommandations pour ce CM à venir)***
-
-**À suivre :**  CM  non annoncé
+**À suivre :**  CM  non annoncé ~~mais on sait que c'est Tenno Sho Spring~~
 
 :::
 
