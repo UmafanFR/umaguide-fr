@@ -1,7 +1,10 @@
 ---
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
-title: ""
+# Force le titre de la page d'accueil à seulement le nom du site
+title: UmaGuide FR
+# Empêche l'ajout automatique du template (ex: "| UmaGuide FR")
+titleTemplate: false
 
 hero:
   name: "UmaGuide FR"
