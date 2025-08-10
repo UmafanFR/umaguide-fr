@@ -141,14 +141,16 @@ Bien entendu, tout les points mentionnés dans ce résumé seront discutés dava
 
 Pour rappel, les skills "**greens**" sont les skills qui ont un logo de couleur verte. Ces skills sont conditionnés par un aspect du **contexte de la course**, comme la saison, la longueur ou la météo. À l'exception de (super) **Lucky Seven**, ils sont tous absolument **garantis de s’activer** (peu importe votre wits) si la **condition** est remplie. Voici la totalité des infos du contexte de la course, et les skills greens qui s’y activent.
 
-- Hippodrome : **Tokyo** → **Tokyo Racecourse** (stamina)
-- Distance : **2400m (medium)** → **Standard Distances** (stamina)
-- Type de terrain : **Turf** → Pas de green *turf* pour le moment
-- Sens de rotation : **Sens horaire** → **Right-handed** (speed)
-- Saison : **Printemps**  → **Spring runner** (speed)
-- Heure : **Course en journée** ⚠ Pas de green associé
-- Météo : **Ensoleillé** → **Sunny days** (guts)
-- Qualité du sol : **bon état** → **Firm condition** (power)
+_Condition_ | _Green skill (stat boostée)_ | _Source_ | _Note_
+----------|-------|--------|-----
+Surface turf |  |  |
+Hippodrome de Tokyo | Tokyo Racecourse (stamina) | Vodka power SSR (inspiration : Special Week) | 
+Distance 2400m | Standard Distance (stamina) | El Condor Pasa power SS // Nishino Flower speed SSR et power SR // Eishin Flash speed SR | Assez commode pour votre Front Runner : Eishin Flash et El Condor Pasa sont des assez bonnes cartes
+Sens anti-horaire | Left Handed (speed) | Silence Suzuka speed SSR (inspiration : Silence Suzuka) | Suzuka speed SSR donne aussi le bon gold Unrestrained, et le green Front Runner Savy
+Saison printemps | Spring Runner (speed) | (inspiration : Mejiro McQueen ou Tokai Teio alt) | 
+Sol “firm” | Firm Conditions (power) | Entres autres nombreuses cartes support : Super Creek stam SSR | Le plus facile à avoir. [Checkez gametora.com pour la liste complète](https://gametora.com/umamusume/skills) des cartes qui le donnent.
+Course en journée |  |  | 
+Météo ensoleillée | Sunny Days (guts) | El Condor Pasa power SSR // Satono Diamond stam SSR // Mejiro Dober wits SR | Inutile, sauf pour activer Groundwork (Front Runner)
 
 ### *Présentation visuelle de la course*
 
@@ -175,7 +177,7 @@ Juste avant d’attaquer, voici quelques généralités :
 
 - Pour rappel, les **corners** d’un hippodrome sont **numérotés de manière fixe**. Ici, le **premier** corner parcouru par les uma est le **corner numéro 1**
 - Jusqu’à environ la moitié du mid-race (45% de la course exactement), une mécanique appelée "**Position Keep**" est active. Pendant la durée de position keep, votre uma fait une **succession de wits rolls** pour décider d’**augmenter** ou **réduire sa vitesse**, en fonction de sa position par rapport aux autres stratégies.
-- Le "**carry over**" est une optimisation importante, consistant à activer un/plusieurs skill(s) de **vitesse**, avec un **timing** qui fait que le **boost de vitesse sera toujours actif au début du late race**, ce qui permet à votre uma d’entamer son accélération finale **en partant d’une vitesse plus élevée** que les autres. Elle gagne alors **_beaucoup d’avance_**. Un skill gold ou unique qui carry over peut vous faire gagner une avance de l’ordre de **plusieurs longueurs** si le timing est bon. Voilà à quoi ça ressemble (c'est Orfevre, because of course) :
+- Le "**carry over**" est une optimisation importante, consistant à activer un/plusieurs skill(s) de **vitesse**, avec un **timing** qui fait que le **boost de vitesse sera toujours actif au début du late-race**, ce qui permet à votre uma d’entamer son accélération finale **en partant d’une vitesse plus élevée** que les autres. Elle gagne alors **_beaucoup d’avance_**. Un skill gold ou unique qui carry over peut vous faire gagner une avance de l’ordre de **plusieurs longueurs** si le timing est bon. Voilà à quoi ça ressemble (c'est Orfevre, because of course) :
 
 ![Image d'une simulation sur le "umalator", avec une uma sans carry over en rouge, et une uma avec carry over en rouge](/assets/Comp-PvP/CM01/CM01_Umalator_CarryOver.png)
 
@@ -190,29 +192,29 @@ Enfilez vos chaussures, on va parcourir la course en entier pour la découvrir, 
 
 #### Early-race
 
-La course **commence** sur une longue **ligne droite**, de X mètres, côtés gradins. L’open leg se termine avant le 1e **corner**.
+La course **commence** sur une longue **ligne droite**, de 325 mètres, côtés gradins. L’early-race se termine quelques mètres après le début du **1e corner**.
 
-- Les skills de ligne droite peuvent s’activer sur ce tronçon, mais pas les skills de **corner**
-- Il y’a une chance assez faible mais non nulle que la gold recovery Breath of Fresh Air s’active prématurément sur cette ligne droite, et sois en partie gâchée. Au doigt mouillé la probabilité doit être 10% or so ~
-- Tout skill ayant un cooldown de base de 30s (rien à avoir le skill qui s’appelle "Cooldown") et qui s’active en Early Race aura une chance de s’activer une deuxième fois en Late Race. Réalistiquement, c’est seulement Straightaway Adept / Beeline Burst.
+- Les skills de ligne droite peuvent s’activer sur ce tronçon.
+- Les skills de corner s'activeront parfois sur le début du 1e corner ici.
+- Il y’a une chance assez faible mais non nulle que la gold recovery **Breath of Fresh Air s’active prématurément** sur cette ligne droite, et sois **en partie gâchée**. Si le skill s'active dans les **premiers 230m** (12 premières secondes), une partie (même minuscule) du skill sera gachée. La probabilité que ça se produise est d'environ **18%**.
+- Tout skill ayant un **cooldown de base de 30s** (rien à avoir le skill qui s’appelle "Cooldown") et **qui s’active en early-race** aura une chance de s’activer **une deuxième fois en late-race**. Réalistiquement, c’est seulement **Straightaway Adept / Beeline Burst**.
 
 #### Mid-race
 
-Position keep commence immédiatement avant le début du 1e corner, et se termine sur la ligne droite opposée aux gradins, après le 2e corner. Sur cette ligne droite se trouve une courte descente. Le mid-race se termine après l’entièreté du 3e corner, après la ligne droite.
+Le mid-race commence immédiatement après le début du **1e corner**. Position Keep se termine au début de la ligne droite opposée aux gradins, après le 2e corner. Sur cette ligne droite se trouve une courte **côte**, suivie d'une **descente** qui se poursuit jusqu'à la moitié du **3e corner**. Le mid-race se termine après la quasi entièreté du 3e corner.
 
-- Toutes les uma qui ont Swinging Maestro et/ou Professor of Curvature l’activeront dans le 1e corner. Si votre uma ne l’active pas ici, elle ne l’activera pas de la course.
 - Les skills de corner et de ligne droite peuvent s’activer pendant le mid-race.
-- Les skills de corner qui s’activent en fin de mid-race (à partir de la moitié du 3e corner) peuvent induire un "carry over". Aucun skill de ligne droite ne peut carry over.
+- Toutes les uma qui ont **Swinging Maestro et/ou Professor of Curvature** (ou leur whites), ainsi que **Medium Corners et <leur_stratégie> Corners**, les activeront dans le 1e corner. Si votre uma ne les active pas ici, elle ne les activera pas de la course.
+- Les **Late surger** peuvent activer leur skill **1,500,000 CC** dans cette côte, ce qui facilitera les dépassements.
 
 #### Late-race
 
-La phase de Late Race est presque parfaitement alignée avec l’arrivée du final corner. Votre uma accélèrera vers sa vitesse maximale pendant presque toute la durée du final corner. En sortie du final corner, le final straight commence sur une forte côte, puis 200-300m de plat côté gradins. Pendant la côte, la vitesse de votre uma sera réduite, en fonction de son power. Avec davantage de power, la perte de vitesse sera moindre.
+La phase de late-race est presque parfaitement **alignée avec l’arrivée du final corner**. Votre uma accélèrera vers sa vitesse maximale **pendant presque toute la durée du final corner**. En sortie du final corner, **le final straight commence sur une _côte_**, puis 300m de plat côté gradins. Pendant la **côte**, la vitesse de votre uma sera **réduite**, en fonction de son **power**. Avec davantage de power, la perte de vitesse sera moindre.
 
-- Les skills de vitesse qui s’activent pendant le final corner n’accompliront pas grand chose (voire rien) la plupart du temps.
-- Les skills d’accélération qui s’activent pendant le final corner sont extrêmement précieux, et seront particulièrement puissants ici. *Toutes les uma* veulent l’unique de Maruzensky (Red Shift), car son timing est parfait pour le Derby. L’unique de Taiki Shuttle est excellent aussi pour toutes les uma, sauf les uma en 1e et 2e position.
-- Le début du late race étant en corner, l’unique de Mejiro Ryan est désirable pour toutes les backlines.
+- Les skills de **vitesse** qui s’activent pendant le **final corner** n’accompliront **pas grand chose** (voire rien) la plupart du temps. Ils peuvent être un peu utiles s'ils s'activent dans le derniers 15-20% du final corner.
+- Les **skills d’accélération** qui s’activent pendant le final corner sont **extrêmement précieux**, et seront particulièrement puissants ici. *Toutes les uma* veulent **l’unique de Maruzensky** (Red Shift), car son timing est parfait pour le Derby. L’unique de **Taiki Shuttle** est excellent aussi pour toutes les uma, **sauf les uma en 1e et 2e position**.
+- Le début du late-race étant en corner, l’unique de **Mejiro Ryan** est désirable pour toutes les **backlines**.
 - Une **faible valeur de power** sera gênant **pour toutes les uma**, car la **côte** les ralentiras.
-- Les Late surger peuvent activer leur skill 1,500,000 CC dans cette côte, ce qui facilitera les dépassements.
 - Le final straight arrive bien trop tard pour que les End Closer puissent activer l’accel Straightaway Spurt / Encroaching Shadow. Le skill n’accomplira rien.
 - La côte arrive bien trop tard pour activer l’accel Highlander. Le skill n’accomplira rien.
 
@@ -292,7 +294,7 @@ Si vous n'avez pas Super Creek stam SSR vous même, empruntez-la. Creek SSR est 
 
 #### Visez 1000 stamina effective et 400 guts.
 
-(en théorie avec 1000 stam vous devriez naturellement atteindre 400 guts, sauf si vous )
+(en théorie avec 1000 stam vous devriez naturellement atteindre 400 guts, sauf si vous montez stamina majoritairement pas inspiration et cartes power ; une **carence en guts augmente le nombre de HP requis pour la course**)
 
 Je pourrais ressortir le tableau du refdoc où on voit la stam requise *par stratégie*, mais honnêtement je pense que c’est une nuance pas très utile. **Visez 1000 stamina effective** au minimum, pour terminer la course. Vous pouvez considérer qu’une gold recovery qui s’active agis comme un **gain de 200 stamina**, donc si vous avez 800 stamina ET une gold recovery fiable, ça fait **800 + 200 = 1000 stamina effective.** 
 
@@ -301,9 +303,9 @@ Voici les principales recovery que vous allez vouloir utiliser
 | **Gold recovery** | **Donné par...** | **Notes** |
 | --- | --- | --- |
 | Swinging Maestro | Super Creek stam SSR | La seule recovery parfaitement universelle, et parfaitement fiable. Super Creek stam SSR est aussi une très bonne carte stam SSR, donc c'est un no brainer |
-| Gourmand (pace chaser) | Special Week speed SSR (gratuite) | Parfaitement fiable pour les Pace, et dispo sur une bonne carte speed gratos que beaucoup de monde devrait avoir. Là aussi, no brainer. |
-| Restless (Front Runner) | Ines Fujin guts SSR | Parfaitement fiable, mais sadly dispo seulement sur une carte guts, que vous n'avez absolument pas la place d'utiliser pour le CM. Sauf si vous allez en Open League....? 👀 |
-| Iron Will | Obtenu dans le scénario URA | C'est mauvais. Ça peut éventuellement être un spare, genre si voulez prévoir un excès de HP. Mais Iron Will **ne peut pas** être votre gold recovery de nécessité |
+| Gourmand (Pace) | Special Week speed SSR (gratuite) | Parfaitement fiable pour les Pace, et dispo sur une bonne carte speed gratos que beaucoup de monde devrait avoir. Là aussi, no brainer. |
+| Restless (Front) | Ines Fujin guts SSR | Parfaitement fiable, mais sadly dispo seulement sur une carte guts, que vous n'avez absolument pas la place d'utiliser pour le CM. Sauf si vous allez en Open League....? 👀 |
+| Iron Will | Scénario URA **_ou_** Satono Diamond stam SSR | C'est mauvais. Ça peut éventuellement être un spare, genre si voulez prévoir un excès de HP. Mais Iron Will **ne peut pas** être votre gold recovery de nécessité |
 
 Bon c'est pas la joie hein. Le reste des gold recovery sont direct dans le kit des différentes uma. 
 
@@ -456,17 +458,54 @@ Partez du principe que tous les autres skills uniques sont trop spécifiques et 
 
 Aucun de ces skills n'est particulièrement bon, compte tenu de leur coût, mais seront utiles pour une Front Runner. Ces skills peuvent aussi s'activer pour les autres stratégies (surtout les Pace), mais vous ne pouvez prendre qu'un nombre limité de skills, et ils ne sont **absolument pas prioritaires**.
 
-Les vétérans de le JP se demandent p't'être si y'a moyen de setup du **carry over**, et la réponse est **non**, pas vraiment. Il y a encore trop peu de moyens de setup le carry over, donc for the most part vous pouvez ignorer ça. Les seuls skills qui ont une chance (pas très grande) de carry over sont : 
-- Medium Distance Corners
-- <votre_stratégie> Corners (exemple : "Pace Chaser Corners")
+Les vétérans de le JP se demandent p't'être si y'a moyen de setup du **carry over**, et la réponse est **non**, pas vraiment. Il y a encore trop peu de moyens de setup le carry over, donc for the most part vous pouvez ignorer ça. Les seuls skills qui ont une chance (_très faible_) de carry over sont : 
+- Fast Paced / Escape Artist (Front)
+- Position Pilfer / Fast & Furious (Late)
+- Up-Tempo / Killer Tunes (frontlines)
+- Ramp Up / It's On
+- Uma Stan
+- Slipstream
+- Playtime's Over
 
-::: warning Attention, c'est à double tranchant
+::: warning J'insiste
 
-Ces skills là peuvent **aléatoirement carry over**, mais peuvent aussi aléatoirement s'activer _en pleine accélération_ et -donc- ne rien faire. C'est quitte ou double, et c'est pas dit que ce soit le bon plan de les double cercler ◎. Parfois le timing sera bon et ce sera cool, parfois ce sera pas le cas et vous l'aurez dans l'os.
+La chance de carry over est vraiment faible. Je vais pas la calculer pour chaque, mais les plus probables ont une chance de carry over de l'ordre de 5-10% or so.
 
 :::
 
 Pour vous dire à quel point on est en dèche de moyens de faire du carry over de manière fiable, la seule uma qui fera fréquemment du carry over, c'est **Gold Ship**, grâce au timing de son unique de longue durée. La mauvaise nouvelle étant que son skill n'a aucune puissance une fois inspiré, donc vous pouvez pas l'utiliser sur votre uma.
+
+#### The Front Runner situation 💀
+
+De manière générale, dans une course, la seule Front Runner qui a une chance de gagner, c'est **la Front Runner en 1e position**. Une Front Runner qui entame le late-race en 2e position ou pire a des _chances de victoire très basses_.
+
+Historiquement, depuis les débuts de la version JP et jusqu'à aujourd'hui -4 ans et demi- plus tard, les Front Runners ont toujours été **les uma les plus dures à build**. _En plus_ de tous les outils habituels dont une uma a besoin (peu importe sa stratégie), les Front Runners (et spécifiquement elles) ont *aussi* besoin de s'assurer la prise de la **1e position en early-race**. Sécuriser cette 1e position est une de leurs **win donditions fondamentales**.
+
+Pour prendre la 1e place en early-race, les Front Runners ont principalement 2 leviers majeurs : 
+- **Groundwork** (white accel), pour accélérer -dés la sortie de stalle- vers leur vitesse cible plus vite que les autres front runners.
+- **Concentration**, pour faire des départs plus vifs.
+
+Ces 2 skills sont d'importances majeure pour votre Front Runner, et vous serez mis en difficulté par les Front Runner qui les ont si vous ne les avez pas.
+
+La "bonne" nouvelle c'est que **Concentration** n'a rien de particulièrement compliqué ; c'est un skill gold que vous obtenez en utilisant la carte **Tazuna Hayakawa Pal SSR**, qui est une bonne carte à utiliser sur le scéanrio URA. Ça requiert d'avoir de la place dans son deck pour elle, ce qui est quand même une légère difficulté en soi. De plus, il est possible qu'elle vous donne **la version white, Focus**, auquel cas vous l'avez dans l'os car ce skill ne fait **pratiquement rien**. 
+
+Par contre, **Groundwork**... Déjà, le skill est pénible à avoir, car uniquement disponible sur les cartes **Gold Ship stam SSR, Oguri Cap power SSR et Air Groove guts SR**. Une belle brochette de cartes absolument **pas désirables pour le CM**. Il est extrêmement difficile -si ce n'est impossible ?- de les intégrer à un deck sérieux pour le CM. Donc pour obtenir le skill, vous devez l'avoir **par inspiration**, via des legacies qui ont le spark. Vous pouvez en chercher, ou **en faire vous-même**, en utilisant ces cartes là pour faire pop le hint et espérer avoir le spark en fin de run (faites vos carrières _avec des legacies qui ont le spark_ pour augmenter vos chances de l'obtenir à votre tour). Et après, il faut que le spark s'active pendant votre carrière, lors des **inspiration events**, donc croisez bien les doigts.
+
+Et ça, c'est seulement _l'obtention du skill_ 💀 
+
+Pour **activer Groundwork**, vous devez d'abord **activer 3 autres skills** en early-race. Étant donné que vous voulez bénéficier de l'accel **dés le départ**, vous voulez des skills qui s'activent en **sortie de stalle**. Là vous n'avez pas beaucoup de choix : c'est essentiellement le skill **Focus / Concentration**, et des **skills greens** (listés en [début de post](#conditions-du-cm-et-greens-skills)). Pas d'autre choix. Vous pouvez utiliser **3 greens**, ou alors **2 greens + Focus / Concentration**, mais il faut que le total soit _3 activations de skills en early race_. Attention, Focus / Concentration peut ne pas s'activer si votre uma échoue au **wits check**. Par contre, les **greens** s'activent toujours de manière **garantie** -sans wits check- si **leur condition est validée**. _Sauf Lucky Seven_ (vous ne pouvez donc pas l'utiliser pour activer Groundwork).
+
+Là aussi, les greens sont assez souvent obtenus par **inspiration**, car comme vous avez pu le voir dans la [liste des greens en début de post](#conditions-du-cm-et-greens-skills), l'utilisation des cartes qui donnent les greens en question... est souvent discutable.
+
+::: tip En complément
+
+Vous pouvez aussi utiliser **Early Lead / Taking The Lead** comme accel early-race, mais le skill n'a pas une bonne efficacité, à cause du timer de 5 secondes en début de course. **Il sera amélioré plus tard**, pour s'activer en **sortie de stalle**, et pourra donc être utilisé à la place ou en complément de Groundwork (et pourra aussi aider à l'activer).
+
+:::
+
+Autant dire que **les Front Runner sont vraiment très difficile à build**, et requièrent beaucoup de chance par inspiration. Par contre, une bonne Front Runner bien build avec à la fois l'accel early-race ET tous les autres atouts d'une bonne uma, ça peut être **très difficile à contester**. Mais ça demande une immense patience pour les build. Si vous n'avez pas ce temps devant vous, voyez si vous pouvez raisonnablement entrainer votre Front Runner en **Pace Chaser** (ça ne marche pas toujours très bien hein), ou envisagez de **changer de uma**.
+
+C'est pas vous qui êtes mauvais, ce sont les Front Runner qui sont particulièrement difficiles à build.
 
 ### *Votre team*
 
@@ -534,6 +573,7 @@ Voici quelques notes sur la liste :
 - Bien que leur kit soit mile, les accel gold *fiable* de **Maruzensky** et **Taiki Shuttle** (et Mejiro Ryan dans sa version 3★) justifient à elles seules leur classement. C'est un atout massif dans une meta où personne n'a d'accel. Ça ne les rend pas fortes pour autant, juste **explosives**.
 - **Mayano Top Gun** peut courir toutes les stratégies car son kit est all over the place et ne soutient correctement _aucune stratégie_. Si vous la jouez frontline, elle aura un meilleur usage de son unique. Si vous la jouez backline, elle aura une chance légèrement plus grande d'utiliser correctement la gold accel **No Stopping Me**.
 - **Daiwa Scarlet** ne peut jamais utiliser correctement tout son kit. En Front elle perd sa gold recovery, en Pace son unique a bien moins de chances d'être très fort.
+- On me souffle dans l'oreillette que **Maruzensky** a "E Pace Chaser" et non pas "C" comme je pensais. Ça la rend _beaucoup plus difficile à build en Pace Chaser_ (malgré le fait qu'elle marcherai très bien en Pace), car **il faut 10★ en sparks rose Pace Chaser** pour ça 💀 C'est donc autant de sparks qui ne peuvent pas être le spark rose Medium. 
 
 ~~C'est parce que ce genre de nuances sont perdues dans une tier list que j'aime pas faire des tier list :9~~
 
