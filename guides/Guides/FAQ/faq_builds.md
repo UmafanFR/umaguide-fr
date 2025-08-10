@@ -5,7 +5,7 @@ description: 'Réponses aux questions très fréquentes: Build et mécaniques'
 order: 4
 ---
 
-## FAQ : Build et mécaniques
+# FAQ : Build et mécaniques
 
 [[toc]]
 

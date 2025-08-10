@@ -1,11 +1,11 @@
 ---
-title: 'Cartes Support'
+title: 'Cartes Supports'
 outline: [2, 3]
 description: 'Réponses aux questions très fréquentes: Généralités'
 order: 5
 ---
 
-## FAQ : Cartes support
+# FAQ : Cartes supports
 
 [[toc]]
 

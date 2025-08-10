@@ -5,7 +5,7 @@ description: 'Réponses aux questions très fréquentes: Généralités'
 order: 2
 ---
 
-## Généralités
+# FAQ : Généralités
 
 [[toc]]
 

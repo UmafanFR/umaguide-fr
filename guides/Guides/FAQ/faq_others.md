@@ -7,7 +7,7 @@ lastUpdated: true
 footer: true
 ---
 
-## Idées reçues incorrectes et conseils misleadings.
+# FAQ : Idées reçues incorrectes et conseils misleadings.
 
 [[toc]]
 
