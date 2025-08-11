@@ -22,7 +22,7 @@ const vitePressConfig: UserConfig = {
       ['meta', { property: 'og:description', content: description }],
     ];
   },
-  head: headerConfig,
+  head: headConfig,
   themeConfig: themeConfig,
   vite: viteConfig,
   markdown: markdownConfig,

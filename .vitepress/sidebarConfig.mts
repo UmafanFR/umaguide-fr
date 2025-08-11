@@ -7,6 +7,7 @@ const commonSidebarConfig: VitePressSidebarOptions = {
   useTitleFromFrontmatter: true,
   useFolderTitleFromIndexFile: true,
   sortMenusByFrontmatterOrder: true,
+  frontmatterTitleFieldName: 'menuTitle',
   excludeFilesByFrontmatterFieldName: 'exclude',
 };
 
