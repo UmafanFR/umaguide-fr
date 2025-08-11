@@ -74,7 +74,7 @@ const vitePressConfig: UserConfig = {
     hostname: 'https://umaguide.fr',
   },
   transformHead: ({ pageData }) => {
-    headerConfig.push(['meta', { property: 'og:title', content: pageData.title }]);
+    return [['meta', { property: 'og:title', content: pageData.title }]];
   },
   head: headerConfig,
   themeConfig: themeConfig,
