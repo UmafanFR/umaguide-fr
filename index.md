@@ -7,10 +7,10 @@ title: UmaGuide FR
 titleTemplate: false
 
 hero:
-  name: "UmaGuide FR"
-  text: "Des guides en français pour Umamusume: Pretty Derby"
+  name: 'UmaGuide FR'
+  text: 'Des guides en français pour Umamusume: Pretty Derby'
   tagline: Par la communauté pour la communauté
-  image: 
+  image:
     src: /assets/curren.webp
     alt: Curren Chan
   actions:
@@ -18,11 +18,11 @@ hero:
       text: Commencer à lire
       link: /guides
     - theme: brand
-      text: Foire aux questions
-      link: /guides/base_faq.html
+      text: FAQ
+      link: /guides/FAQ/faq
     - theme: alt
       text: Notre Discord
-      link: https://discord.gg/kuKGHzgjv5
+      link: https://discord.gg/cheval
 
 features:
   - title: Les mécaniques
@@ -30,9 +30,11 @@ features:
   - title: Les scénarios
     details: Réalise tes meilleurs scores sur les différents scénario en suivant ces conseils
   - title: La statégie
-    details: Tu veux te classer dans les événements ou dans le PvP ? Deviens un véritable statège 
+    details: Tu veux te classer dans les événements ou dans le PvP ? Deviens un véritable statège
 ---
+
 ---
 
 # Contributeurs
+
 <VPTeamMembersList></VPTeamMembersList>
