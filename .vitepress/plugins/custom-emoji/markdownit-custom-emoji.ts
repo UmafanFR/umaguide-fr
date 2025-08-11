@@ -39,6 +39,7 @@ function makeRule(
     const src = state.src;
     const pos = state.pos;
     const max = state.posMax;
+    const lowerMap = Object.fromEntries(Object.entries(map).map(([k, v]) => [k.toLowerCase(), v]));
 
     if (src.charCodeAt(pos) !== 0x3a) return false; // must start with ':'
 
@@ -51,9 +52,8 @@ function makeRule(
     const nameLen = end - nameStart;
     if (nameLen <= 0 || nameLen > opts.maxNameLen) return false; // empty or too long
 
-    const name = src.slice(nameStart, end);
-
-    const file = map[name];
+    const name = src.slice(nameStart, end).toLowerCase();
+    const file = lowerMap[name];
     if (!file) return false; // not found → keep text
 
     // Reject any path/URL or traversal attempts
