@@ -1,5 +1,6 @@
 ---
-title: Introduction
+title: FAQ - Introduction
+menuTitle: Introduction
 outline: -1
 description: Réponses aux questions très fréquentes
 order: 1

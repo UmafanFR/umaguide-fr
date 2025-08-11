@@ -1,5 +1,6 @@
 ---
-title: 'Cartes Supports'
+title: FAQ - Cartes Supports
+menuTitle: Cartes Supports
 outline: [2, 3]
 description: 'Réponses aux questions très fréquentes: Généralités'
 order: 5

@@ -1,5 +1,6 @@
 ---
-title: 'Build et mécaniques'
+title: FAQ - Build et mécaniques
+menuTitle: Build et mécaniques
 outline: [2, 3]
 description: 'Réponses aux questions très fréquentes: Build et mécaniques'
 order: 4
@@ -118,7 +119,7 @@ Il est possible que l'effet visuel du debuff touche quand même une de vos uma. 
 
 :::
 
-### "Pourquoi j'ai un spark guts ★ en fin de carrière, alors que j'ai 1200 speed et 1200 stamina ?" {#inspiration_sparks}
+### "Pourquoi j'ai un spark guts ★ en fin de carrière, alors que j'ai 1200 speed et 1200 stamina ?"
 
 ::: details Je vous la donne dans le mille, c'est aléatoire.
 

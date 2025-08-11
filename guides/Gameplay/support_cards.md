@@ -1,5 +1,6 @@
 ---
-title: Les cartes supports
+title: Gameplay - Les cartes supports
+menuTitle: Les cartes supports
 order: 0
 ---
 

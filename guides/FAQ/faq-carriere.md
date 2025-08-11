@@ -1,5 +1,6 @@
 ---
-title: 'Carrière'
+title: FAQ - Carrière
+menuTitle: Carrière
 outline: [2, 3]
 description: 'Réponses aux questions très fréquentes: Carrière'
 order: 3

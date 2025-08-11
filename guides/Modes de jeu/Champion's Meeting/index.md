@@ -1,4 +1,4 @@
 ---
-title: JcJ - Champion's Meeting
+title: PVP - Champion's Meeting
 order: 1
 ---

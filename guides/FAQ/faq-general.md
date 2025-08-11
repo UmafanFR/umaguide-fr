@@ -1,5 +1,6 @@
 ---
-title: 'Généralités'
+title: FAQ - Généralités
+menuTitle: Généralités
 outline: [2, 3]
 description: 'Réponses aux questions très fréquentes: Généralités'
 order: 2

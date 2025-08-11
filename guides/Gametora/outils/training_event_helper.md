@@ -1,5 +1,6 @@
 ---
-title: Assistant d'entrainement
+title: Gametora - Assistant d'entrainement
+menuTitle: Assistant d'entrainement
 lang: fr-fr
 description: Fonctionnement de l'assistant d'entrainement de Gametora
 ---

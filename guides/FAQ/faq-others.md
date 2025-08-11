@@ -1,5 +1,6 @@
 ---
-title: 'Mythes et erreurs courantes'
+title: FAQ - Mythes et erreurs courantes
+menuTitle: Mythes et erreurs courantes
 outline: [2, 3]
 description: 'Réponses aux questions très fréquentes: Idées reçues incorrectes et conseils misleadings'
 order: 6

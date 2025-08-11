@@ -1,5 +1,6 @@
 ---
-title: Comparateur
+title: Gametora - Comparateur
+menuTitle: Comparateur
 lang: fr-fr
 description: Fonctionnement des comparateurs de Gametora
 ---
