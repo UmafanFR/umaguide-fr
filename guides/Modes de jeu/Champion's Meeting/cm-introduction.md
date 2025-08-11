@@ -30,7 +30,7 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 **_(recommandations pour ce CM à venir)_**
 
-**À suivre :** CM non annoncé
+**À suivre :** CM non annoncé ~~mais on sait que c'est Tenno Sho Spring~~
 
 :::
 
