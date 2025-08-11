@@ -7,8 +7,8 @@ title: UmaGuide FR
 titleTemplate: false
 
 hero:
-  name: "UmaGuide FR"
-  text: "Des guides en français pour Umamusume: Pretty Derby"
+  name: 'UmaGuide FR'
+  text: 'Des guides en français pour Umamusume: Pretty Derby'
   tagline: Par la communauté pour la communauté
   image:
     src: /assets/curren.webp
@@ -19,7 +19,7 @@ hero:
       link: /guides
     - theme: brand
       text: FAQ
-      link: /guides/Guides/FAQ/faq_introduction
+      link: /guides/FAQ/faq
     - theme: alt
       text: Notre Discord
       link: https://discord.gg/cheval

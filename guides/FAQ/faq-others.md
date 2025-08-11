@@ -1,17 +1,13 @@
 ---
-title: 'Autres'
+title: 'Mythes et erreurs courantes'
 outline: [2, 3]
 description: 'Réponses aux questions très fréquentes: Idées reçues incorrectes et conseils misleadings'
 order: 6
-lastUpdated: true
-footer: true
 ---
 
-# FAQ : Idées reçues incorrectes et conseils misleadings.
+# FAQ : Mythes et erreurs courantes
 
-[[toc]]
-
-"Mon deck doit avoir au moins une carte support par type d'entrainement"
+### "Mon deck doit avoir au moins une carte support par type d'entrainement"
 
 ::: details Surtout pas, plus vous avez de cartes de types différents, plus c'est difficile de monter chaque stat :
 

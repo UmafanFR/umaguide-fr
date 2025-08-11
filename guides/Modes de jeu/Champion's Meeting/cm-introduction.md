@@ -1,7 +1,8 @@
 ---
-title: Champion's Meeting
+title: Qu'est-ce que c'est ?
 outline: 2
 description: Fonctionnement détaillé et recommandations pour l'évènement PvP compétitif Champion's Meeting
+order: 0
 ---
 
 # Le Champion's Meeting (PvP compétitif mensuel)
@@ -24,7 +25,7 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ [Champion's Meeting - **21 Août 2025** - Tokyo 2400m turf (Tokyo Yushun Japanese Derby)](<CM01_Aout_2025_(Derby)>)
+⏩ [Champion's Meeting - **21 Août 2025** - Tokyo 2400m turf (Tokyo Yushun Japanese Derby)](./cm-taurus-cup)
 
 **_(recommandations pour ce CM à venir)_**
 

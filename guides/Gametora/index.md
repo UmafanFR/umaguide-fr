@@ -1,4 +1,4 @@
 ---
 title: Gametora
-order: 1
+order: 999999
 ---

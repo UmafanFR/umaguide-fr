@@ -7,8 +7,6 @@ order: 2
 
 # FAQ : Généralités
 
-[[toc]]
-
 ### "Je n'arrive pas à faire des courses avec la nouvelle umamusume que j'ai pull"
 
 ::: details C'est normal, vous devez l'entrainer en carrière d'abord :

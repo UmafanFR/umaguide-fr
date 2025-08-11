@@ -7,8 +7,6 @@ order: 4
 
 # FAQ : Build et mécaniques
 
-[[toc]]
-
 ### "Quelles stats je dois viser pour XXX ?"
 
 ::: details Pas de réponse courte pour celle ci :

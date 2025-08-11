@@ -9,15 +9,15 @@ const commonSidebarConfig: VitePressSidebarOptions = {
   useTitleFromFrontmatter: true,
   useFolderTitleFromIndexFile: true,
   sortMenusByFrontmatterOrder: true,
+  excludeFilesByFrontmatterFieldName: 'exclude',
 };
 
-const vitePressSidebarConfig = [
+const vitePressSidebarConfig: VitePressSidebarOptions[] = [
   {
     ...commonSidebarConfig,
     documentRootPath: '/guides/',
     resolvePath: '/guides/',
     basePath: '/guides/',
-    aside: true,
   },
 ];
 

@@ -13,8 +13,6 @@ Cette FAQ sera amenée à être complétée au fur et à mesure que des question
 
 N'oubliez pas que quelles que soient les recommandation qu'on vous fait, **votre fun et votre patience décident de la manière dont vous jouez à Umamusume**.
 
-N'hésitez pas à utiliser la **table des matières** à droite pour naviguer plus facilement !
-
 :::
 
 ## Introduction

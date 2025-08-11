@@ -7,8 +7,6 @@ order: 5
 
 # FAQ : Cartes supports
 
-[[toc]]
-
 ### "Pourquoi Kitasan Black speed SSR est si importante ?"
 
 ::: details Elle est très longtemps la meilleure carte speed, dans un jeu où on a systématiquement besoin de cartes speed :

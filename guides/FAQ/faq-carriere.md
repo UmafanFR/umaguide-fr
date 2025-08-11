@@ -7,8 +7,6 @@ order: 3
 
 # FAQ : Carrière
 
-[[toc]]
-
 ### "Quel deck utiliser pour build [insérez-ici-une-uma] ?"
 
 ::: details Constuisez votre deck en considérant la plus longue distance que votre uma doit courir :

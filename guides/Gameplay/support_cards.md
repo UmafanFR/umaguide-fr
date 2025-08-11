@@ -1,9 +1,9 @@
 ---
-title: Les cartes support
+title: Les cartes supports
 order: 0
 ---
 
-# Comprendre les cartes support dans Umamusume Pretty Derby
+# Comprendre les cartes supports dans Umamusume Pretty Derby
 
 ::: info
 

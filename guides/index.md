@@ -2,6 +2,7 @@
 title: Guides
 outline: 0
 order: 0
+search: false
 ---
 
 # Bonjour à tous·tes
