@@ -612,6 +612,7 @@ Voici quelques notes sur la liste :
 - **Mayano Top Gun** peut courir toutes les stratégies car son kit est all over the place et ne soutient correctement _aucune stratégie_. Si vous la jouez frontline, elle aura un meilleur usage de son unique. Si vous la jouez backline, elle aura une chance légèrement plus grande d'utiliser correctement la gold accel **No Stopping Me**.
 - **Daiwa Scarlet** ne peut jamais utiliser correctement tout son kit. En Front elle perd sa gold recovery, en Pace son unique a bien moins de chances d'être très fort.
 - On me souffle dans l'oreillette que **Maruzensky** a "E Pace Chaser" et non pas "C" comme je pensais. Ça la rend _beaucoup plus difficile à build en Pace Chaser_ (malgré le fait qu'elle marcherai très bien en Pace), car **il faut 10★ en sparks rose Pace Chaser** pour ça 💀 C'est donc autant de sparks qui ne peuvent pas être le spark rose Medium.
+- **Symboli Rudolf** est très certainement **plus forte en Late qu'en Pace**, entres autres choses son unique est virtuellement garantis en Late Surger. Cependant, en **Pace Chaser** vous pouvez lui donner une **gold recovery supplémentaire : Gourmand**.
 
 ~~C'est parce que ce genre de nuances sont perdues dans une tier list que j'aime pas faire des tier list :9~~
 
