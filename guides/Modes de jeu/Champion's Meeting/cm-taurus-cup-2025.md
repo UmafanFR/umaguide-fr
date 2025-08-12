@@ -47,12 +47,19 @@ Vous affronterez **2 autres teams de 3 uma**, entrainées par 2 autres joueurs q
 Bien que ça contribue indirectement à l’accélération, le carry over est bien différent de l’accel, et l’accel a toujours vastement plus d’impact que le carry over, et ne peut pas être remplacé par le carry over. C’est juste une (très bonne) optimisation.
 
 :::
+        
+- Les **HP** d'une uma sont calculés en début de course, à partir de la **stamina** de votre uma, de sa **stratégie** et de la **longueur de la course**. Quand une uma court elle consomme graduellement ses HP, en fonction de sa vitesse de course actuelle. Au début du late-race, si votre uma voit qu'elle a **suffisamment de HP pour terminer la course** (sous-entendu, à pleine vitesse), elle va _immédiatement_ commencer à accélérer vers sa vitesse maximale. En PvP compétitif, avoir **moins de HP** que la concurrence est un excellent moyen de vous mettre en **situation d'échec**, car vos adversaires commenceront à accélérer vers leur vitesse max **avant vous**. Cet écart est **impossible à rattraper** dans l'immense majorité des cas. Enfin, si votre uma tombe KO avant la fin de la course, elle va **brutalement ralentir** jusqu'à la fin de la course. 
+- La **Stamina effective** d'une uma est la combinaison de sa **stat de stamina**, à quoi on ajoute **+200 pour chaque gold recovery**. La valeur réelle d'une gold recovery n'est pas "200 stamina" (ça dépend de la distance de la course), car une recovery **restaure des HP** et non pas de la stamina. Mais de manière générale, sur une course donnée, la différence de survivabilité entre une uma avec 1 gold recovery et une uma sans est équivalente à un ajout d'environ 200 stamina. D'où la simplification : **une gold recovery = 200 stamina**. Votre **stamina effective** est donc la somme de votre stamina + "l'équivalent" de stamina obtenu par les recovery.
 
-- Les **HP** d'une uma sont calculés en début de course, à partir de la **stamina** de votre uma, de sa **stratégie** et de la **longueur de la course**. Quand une uma court elle consomme graduellement ses HP, en fonction de sa vitesse de course actuelle. Au début du late-race, si votre uma voit qu'elle a **suffisamment de HP pour terminer la course** (sous-entendu, à pleine vitesse), elle va _immédiatement_ commencer à accélérer vers sa vitesse maximale. En PvP compétitif, avoir **moins de HP** que la concurrence est un excellent moyen de vous mettre en **situation d'échec**, car vos adversaires commenceront à accélérer vers leur vitesse max **avant vous**. Cet écart est **impossible à rattraper** dans l'immense majorité des cas. Enfin, si votre uma tombe KO avant la fin de la course, elle va **brutalement ralentir** jusqu'à la fin de la course. On considère qu'une **gold recovery** qui s'active avant le late-race compte pour environ **200 stamina** (vaguement). Une gold recovery qui s'active pendant le late-race n'accomplis **rien**.
-- J’appelle "**condition de victoire**" ou "**win condition**" une condition toujours obligatoire -mais non suffisante- à valider pour avoir **une chance** sérieuse de **gagner une course**.
+::: warning Not all recoveries...
 
+Attention cependant ! Une gold recovery qui s'active **prématurément dans les 10 premières secondes** d'une course vaut **moins que 200 stamina**. Une gold recovery qui **s'active en late-race** n'accomplis absolument **rien**, et compte comme **0 stamina**.
+
+:::
+
+- J’appelle "**condition de victoire**" ou "**win condition**" une condition toujours obligatoire -mais non suffisante- à valider pour avoir **une chance** sérieuse de **gagner une course**. 
   - Avoir **suffisamment de HP** (stamina ou guts) pour terminer une course est la win condition la plus simple et la plus universelle, car si votre Umamusume ne peut pas terminer la course à 100% de sa performance, elle ne peut pas gagner (dans 99% des cas).
-  - Il y’a des tas d’autres win conditions en plus de celle-ci, et c’est le fait de **les trouver** (c’est pas toujours évident, et ça dépend des builds) et de **les valider** (toutes les autres umas vont essayer de valider _leur_ win condition, ce qui gêne généralement la votre :9) qui vont -par accumulation- vous **rapprocher** de la victoire.
+  - Il y’a des tas d’autres win conditions en plus de celle-ci, et c’est le fait de **les trouver** (c’est pas toujours évident, et ça dépend des builds) et de **les valider** (toutes les autres umas vont essayer de valider *leur* win condition, ce qui gêne généralement la votre :9) qui vont -par accumulation- vous **rapprocher** de la victoire.
   - La win condition la plus importante d’une uma pour une course donnée est **souvent liée à l’activation d’un ou plusieurs skills fondamental**. Souvent ça implique leur **unique** ou une **accel**.
   - À haut niveau de jeu, échouer à valider ne serait-ce qu'une seule win condition est parfois (pas toujours) une **condition de défaite suffisante**.
 
@@ -128,7 +135,8 @@ Pour le reste :
 - Si **votre uma fav** n’est pas dans la liste, vous pouvez l’entrainer quand même, à conditions de lui mettre l’**aptitude "A" medium** (préférablement "S" !!), de lui donner **l’unique de Maruzensky**, et s’assurer qu’**elle survit à la course** (1000 stam 400 guts).
 - Si vous n’êtes pas bien équipés pour entrainer une bonne frontline, **favorisez par défaut une backline**. Elles ne sont pas nécessairement "plus fortes", mais sont moins difficile à build (moins de besoin en stam, plus d'accel uniques utilisables) et peuvent éviter certains debuffs.
 - Les **greens speed** qui s’activent dans cette course sont **Left Handed** et **Spring Runner**. Les autres greens qui s’activent sont **Standard Distance**, **Tokyo Racecourse**, **Firm Condition** et **Sunny Days**. Si vous entrainez une **Front Runner**, il vous faut le skill **Groundwork**, et vous pouvez utiliser ces greens (ainsi que **Focus/Concentration**) pour l’activer.
-- Les **skills de vitesse qui s’activent en corner** ont une chance de **carry over**, et donc d’être **très puissants**. Ils ont aussi une chance de s'activer en pleine accélération, et donc de ne **rien faire**. Les skills de vitesse qui s’activent au **final corner** seront **mauvais** la plupart du temps pour cette raison.
+- Les skills **Slipstream**, **Playtime's Over**, **Corner Adept / Professor of Curvature** et **Straightaway Adept / Beeline Burst** ont une faible chance de **s'activer 2 fois** sur la durée de la course, à condition que **leur première activation se fasse tôt**, dans les 45 premières secondes de la course.
+- Pas la peine d'envisager de setup du carry over, on a pas encore les options pour ça. La plupart des midleg qui peuvent s'activer sur un corner ont une **chance très faible de carry over** (5-10%), et ce sera toujours totalement **aléatoire**. Vous n'avez **aucun levier** pour augmenter les chances de carry over pour le moment.
 - Non, Narita Taishin n’est pas spécialement bonne le Derby, mais yes vous pouvez l’entrainer et avoir des wins quand même, grâce à sa gold recovery.
 
 ::::
@@ -199,7 +207,7 @@ La course **commence** sur une longue **ligne droite**, de 325 mètres, côtés 
 - Les skills de ligne droite peuvent s’activer sur ce tronçon.
 - Les skills de corner s'activeront parfois sur le début du 1e corner ici.
 - Il y’a une chance assez faible mais non nulle que la gold recovery **Breath of Fresh Air s’active prématurément** sur cette ligne droite, et sois **en partie gâchée**. Si le skill s'active dans les **premiers 230m** (12 premières secondes), une partie (même minuscule) du skill sera gachée. La probabilité que ça se produise est d'environ **18%**.
-- Tout skill ayant un **cooldown de base de 30s** (rien à avoir le skill qui s’appelle "Cooldown") et **qui s’active en early-race** aura une chance de s’activer **une deuxième fois en late-race**. Réalistiquement, c’est seulement **Straightaway Adept / Beeline Burst**.
+- Tout skill ayant un **cooldown de base de 30s** (rien à avoir le skill qui s’appelle "Cooldown") et **qui s’active en early-race** aura une chance de s’activer **une deuxième fois en late-race**. La chance n'est pas très grande cela dit ~
 
 #### Mid-race
 
@@ -310,7 +318,7 @@ Voici les principales recovery que vous allez vouloir utiliser
 | Restless (Front)  | Ines Fujin guts SSR                           | Parfaitement fiable, mais sadly dispo seulement sur une carte guts, que vous n'avez absolument pas la place d'utiliser pour le CM. Sauf si vous allez en Open League....? 👀 |
 | Iron Will         | Scénario URA **_ou_** Satono Diamond stam SSR | C'est mauvais. Ça peut éventuellement être un spare, genre si voulez prévoir un excès de HP. Mais Iron Will **ne peut pas** être votre gold recovery de nécessité            |
 
-Bon c'est pas la joie hein. Le reste des gold recovery sont direct dans le kit des différentes uma.
+Bon c'est pas la joie hein. Le reste des gold recovery sont direct dans le kit des différentes uma. 
 
 #### ATTENTION avec les recoveries ⚠️
 
@@ -343,6 +351,19 @@ En résumé : **1000+ stam effective et 400 guts > beaucoup de speed > un peu de
 (ça sonnait mieux dans ma tête)
 
 L'aptitude "**S Medium**" est indispensable si vous voulez être compétif. Pour rappel (ou information), l'aptitude "S" en distance **augmente de 10% votre stat de speed**. Cette augmentation va **au-delà de 1200**, et c'est donc un bon moyen d'avoir davantage de speed, et je pense que c'est pas du luxe. Les uma avec S distance ont généralement des biens meilleurs taux de victoire. Ça implique bien entendu d'avoir les HP pour terminer la course, et comme évoqué plus haut, c'est déjà pas simple. Mais comme vous aurez pas forcément beaucoup d'opportunités de monter speed très haut (à cause du besoin en stamina), avoir S Medium sera sans doute une solide valeur ajoutée.
+
+#### The 400 guts in the room
+
+Oui on en a pas beaucoup parlé. Si vous ne pouvez pas atteindre les **400 guts recommandés**, vous aurez besoin de **davantage de stamina pour compenser**. 
+
+La quantité exacte dépend bien entendu de votre carence en guts (à 250 guts il vous faut 1150 stam au lieu de 1000), mais ne devrait pas être insurmontable. Sur les uma qui ont du **guts bonus**, et les uma qui n'ont **pas de stamina bonus**, vous devriez atteindre 400 guts simplement en montant votre stamina à 1000. Mais vous pouvez vous vous retrouver en carence de guts dans 3 cas de figure assez communs :
+- une uma avec un important **bonus sur le gain de stamina**, et aucun guts bonus pour aller avec. Votre stamina va donc monter très vite, et guts ne suivra pas.
+- si vous montez beaucoup **stamina par inspiration** : le gain de stamina par inspiration n'ajoute aucun point de guts.
+- si vous comptez vraiment beaucoup sur les **gold recovery** pour vos HP.
+
+Dans ces cas là, le risque de carence sévère en guts est notable. Vous ne voulez sans doute pas vous retrouver trop bas pour éviter les mauvaises surprises.
+
+~~Rice Shower gang rejoice~~
 
 #### Bref, bon courage :currenDevilish:
 
@@ -440,6 +461,13 @@ Pour vous aider à comprendre l'activation d'un skill, n'hésitez pas à cliquer
 
 De manière générale, **un skill gold a plus de valeur que 2 whites**. Si vos 2 whites sont particulièrement peu chers car vous avez eu beaucoup de hints, c'est parfois mieux de **prendre les whites** plutôt que le gold. Mais si vous ne savez pas, visez les golds plutôt que les whites. Tous les gold ne se valent pas, et là encore vous pouvez checker la **Base Duration** pour savoir si un gold est possiblement meilleur qu'un autre.
 
+Vous serez aussi intéressés de savoir que les skills **Slipstream**, **Playtime's Over**, **Corner Adept / Professor of Curvature** et **Straightaway Adept / Beeline Burst**, ont une chance non nulle (mais pas très grande) de **s'activer 2 fois** pendant la course, à condition qu'ils s'activent une première fois dans les **45 premières secondes** de la course. 
+- pour **Straightaway Adept / Beeline Burst**, ça veut forcément dire la **1e ligne droite**. 
+- pour **Corner Adept / Professor of Curvature**, ça doit être **très tôt dans le 1e corner**, autrement le cooldown ne sera pas prêt pour le final corner. 
+- **Slipstream** et **Playtime's Over** peuvent s'activer jusqu'à la moitié du 2e corner, et avoir leur cooldown prêt pour le last straight.
+
+Ces 4 skills ont donc un potentiel plus élevé. Mais encore une fois, **la chance n'est pas très grande**.
+
 ::: warning Attention aux skills qui s'activent dans le final corner
 
 Les **skills de vitesse de final corner** ont une grande chance de s'activer _en pleine accélération_, et donc, ne rien faire. De fait, ils sont plutôt à éviter. Vous pouvez pick les whites _après_ avoir sélectionné tous vos autres skills importants (des fois ils feront quelque chose), mais ne prenez surtout pas les gold. C'est cher pour rien.
@@ -531,9 +559,9 @@ Une uma "**tank**" est une uma build comme une ace (donc pour gagner), mais avec
 
 Une uma de "**soutient**" est une uma qui **aide** -d'une manière ou d'une autre- **votre uma à gagner**. Assez souvent, ça implique une ou plusieurs **Front Runner**. Par exemple :
 
-- une "sacrificial runner" pourra constituer une cible à dépasser en fin de course, pour activer le skill unique de votre uma ace. Elle peut aussi avoir comme rôle supplémentaire de prendre la tête en mid-race, afin d'éliminer une éventuelle 2e Front Runner qui la concurrence (de manière générale, la seule Front Runner qui a une chance de gagner, c'est celle qui est en 1e position).
-- vous pouvez aussi utiliser une Haru Urara en Front Runner (en espérant qu'il n'y ait pas d'autre Front Runner dans la course), afin de ralentir considérablement le rythme de la 1e moitié de la course (Urara n'ayant pas les aptitudes pour courir en turf, sa grande lenteur va foutre le bordel avec Position Keep), ce qui réduira la consommation de HP.
-- vous pouvez faire une uma en stratégie backline, pour assurer que votre frontline reste bien positionnée (c'est plus facile pour une Pace Chaser de rester entre 2e et 4e s'il y a 4 backlines :9).
+- une "**sacrificial Front Runner**" pourra constituer une **cible à dépasser** en fin de course, pour activer le skill unique de votre uma ace. Elle peut aussi avoir comme rôle supplémentaire de prendre la tête en mid-race, afin d'**éliminer une éventuelle 2e Front Runner** qui la concurrence (de manière générale, la seule Front Runner qui a une chance de gagner, c'est celle qui est en 1e position). Ou tout bêtement ça peut être votre 2e Front Runner, qui **motive votre Front Runner ace** (si elle est seule elle ne court à fond).
+- vous pouvez aussi utiliser une **Haru Urara en Front Runner** (en espérant qu'il n'y ait pas d'autre Front Runner dans la course), afin de **ralentir considérablement le rythme** de la 1e moitié de la course (Urara n'ayant pas les aptitudes pour courir en turf, sa grande lenteur va foutre le bordel avec Position Keep), ce qui **réduira la consommation de HP**.
+- vous pouvez faire une uma en stratégie backline, pour assurer que votre frontline reste bien positionnée : c'est plus facile pour une Pace Chaser de rester entre 2e et 4e s'il y a 4 backlines, et que 2 des backlines sont particulièrement mauvaises exprès.
 
 Et d'autres.
 
@@ -547,7 +575,7 @@ Une uma "**debuffeuse**" est une uma build de soutient, avec une grande **abonda
 
 En medium, à cause de la force de Nice Nature debuffeuse, il est recommandé d'avoir à minima une uma **tank**, car les debuffs seront légion. Parfois vous gagnerez simplement en ayant une uma encore en forme, quand toutes les autres sont KO.
 
-Si vous ne savez pas comment consituer votre équipe, partez sur au moins 1 ace + 1 tank. La 3e uma de votre team c'est au choix.
+Si vous ne savez pas comment consituer votre équipe, partez sur **au moins 1 ace + 1 tank**. La 3e uma de votre team c'est au choix.
 
 Si vous n'êtes pas bien équipés pour entrainer une bonne frontline (Front ou Pace), c'est peut-être une bonne de choisir une backline (Late ou End) par défaut. En effet, par rapport aux frontline, les backline ont une vitesse max plus élevée, une accélération plus forte, une meilleure gestion de HPs et en bonus elles ont des chances d'éviter certains debuffs parfois.
 
@@ -568,7 +596,7 @@ Exemple :
 
 Les uma ne sont PAS ordonnées dans chaque tier.
 
-![Tier list proposant différentes umamusume pour le CM sur Tokyo 2400m](/assets/Comp-PvP/CM01/CM01_tokyo2400m_tierlist_v1.png)
+![Tier list proposant différentes umamusume pour le CM sur Tokyo 2400m](/assets/Comp-PvP/CM01/CM01_tokyo2400m_tierlist_v1.1.png)
 
 **Ne prenez pas cette liste au pied de la lettre**. Mais si ça vous aide à visualiser quelles uma ont du potentiel parmi celles que vous avez, tant mieux. Si une uma est absente de la liste c'est qu'elle n'a ni atouts ni aptitudes appropriées. Ça ne veut pas dire que vous ne pouvez pas la jouer, mais comprenez que c'est pas très pertinent de lister Sakura Bakushin O et son G medium sur ce classement.
 
