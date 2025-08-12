@@ -1,13 +1,14 @@
 ---
-title: Le Champion's Meeting (PvP compétitif)
+title: Qu'est-ce que le Champion's Meeting ?
+menuTitle: Qu'est-ce que c'est ?
 outline: 2
 description: Fonctionnement détaillé et recommandations pour l'évènement PvP compétitif Champion's Meeting
+order: 0
 ---
-
 
 # Le Champion's Meeting (PvP compétitif mensuel)
 
-Dans Umamusume, il existe 2 types d'évènements de PvP compétitif :  **Champion's Meeting** et **League of Heroes.** Pour le moment sur la globale, nous n'avons que le Champion's Meeting ; League of Heroes sera ajouté _plus tard_. 
+Dans Umamusume, il existe 2 types d'évènements de PvP compétitif : **Champion's Meeting** et **League of Heroes.** Pour le moment sur la globale, nous n'avons que le Champion's Meeting ; League of Heroes sera ajouté _plus tard_.
 
 Environ **une fois toutes les 3 semaines**, un Champion's Meeting à lieu pour faire s'affronter les joueur·euse·s sur des courses aux conditions intégralement connues, et auxquelles vous participerez par **équipe de 3 umamusume** de votre choix. Vous trouverez ici des recommandations pour préparer vos umamusume pour les évènements de PvP compétitif (quand ce sera prêt :9), ainsi qu'une explication pas-à-pas du fonctionnement d'un Champion's Meeting.
 
@@ -20,19 +21,22 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 :::
 
 ## Prochain PvP compétitif :
+
 ### "Japanese Derby" - Champion's Meeting - le 21 Août 2025
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ [Champion's Meeting - **21 Août 2025** - Tokyo 2400m turf (Tokyo Yushun Japanese Derby)](CM01_Aout_2025_(Derby))
+⏩ [Champion's Meeting - **21 Août 2025** - Tokyo 2400m turf (Tokyo Yushun Japanese Derby)](./cm-taurus-cup-2025)
 
-**À suivre :**  CM  non annoncé ~~mais on sait que c'est Tenno Sho Spring~~
+**_(recommandations pour ce CM à venir)_**
+
+**À suivre :** CM non annoncé ~~mais on sait que c'est Tenno Sho Spring~~
 
 :::
 
 ## Fonctionnement du Champion's Meeting (CM)
 
-### Pour le CM, tout ce qui compte c'est *la victoire*.
+### Pour le CM, tout ce qui compte c'est _la victoire_.
 
 En CM, vous allez effectuer jusqu'à 81 fois **la même course**, contre des adversaires différents.
 
@@ -59,9 +63,9 @@ L'évènement se déroule ainsi
 
 ::: tip Galaxy brain ?
 
-Pour augmenter votre taux de victoire **au round 2**, et ainsi obtenir -en moyenne- plus de récompenses *pendant le round 2*, c'est une vraie stratégie de gagner **2 courses** dans une session puis **abandonner la session**, pendant le **round 1**. Vous obtiendrez les récompenses pour vos 2 victoires, et **éviterez** de vous qualifier en **round 2 groupe A**, où la compétition est **particulièrement féroce** car les **meilleurs joueur·euse·s** s'y affrontent.
+Pour augmenter votre taux de victoire **au round 2**, et ainsi obtenir -en moyenne- plus de récompenses _pendant le round 2_, c'est une vraie stratégie de gagner **2 courses** dans une session puis **abandonner la session**, pendant le **round 1**. Vous obtiendrez les récompenses pour vos 2 victoires, et **éviterez** de vous qualifier en **round 2 groupe A**, où la compétition est **particulièrement féroce** car les **meilleurs joueur·euse·s** s'y affrontent.
 
-Attention, ça vous **privera *définitivement* des récompenses juteuses** de la finale **groupe A**.
+Attention, ça vous **privera _définitivement_ des récompenses juteuses** de la finale **groupe A**.
 
 :::
 
@@ -77,11 +81,11 @@ Après le round 2 s'en suivent **24h sans course** : pendant 12h vous pouvez mod
 
 Le dernier jour, c'est la finale : **une seule course, contre 2 autres joueur·euse·s**. Pour la course de la finale, toutes les uma participantes ont leur **motivation au maximum** (+4% de stats).
 
-En finale de CM, **la uma qui remporte la course fait gagner toute son équipe**. Ce joueur remporte donc la victoire. Ensuite, le joueur qui a **la uma la plus proche de la victoire**, mais qui n'est **pas une uma du vainqueur**, est considéré "**2e**". Le dernier joueur est alors "3e". 
+En finale de CM, **la uma qui remporte la course fait gagner toute son équipe**. Ce joueur remporte donc la victoire. Ensuite, le joueur qui a **la uma la plus proche de la victoire**, mais qui n'est **pas une uma du vainqueur**, est considéré "**2e**". Le dernier joueur est alors "3e".
 
 ::: tip Exemple
 
-J'affronte un joueur Y et un joueur Z en finale. 
+J'affronte un joueur Y et un joueur Z en finale.
 
 - J'ai 2 de mes uma qui arrivent respectivement 1e et 2e, et la dernière arrive 6e.
 - Joueur Y a une uma arrivée en 3e, et ses 2 autres sont 8e et 9e.
@@ -91,10 +95,10 @@ Le résultat : j'ai gagné car **ma meilleure uma a gagné la course**, Joueur Y
 
 :::
 
-**Tous·tes les joueur·euse·s qui participent à la course finale reçoivent des belles récompenses**. Selon que vous ayez participé en **Open League** ou en **Graded League**, vos récompenses seront plus ou moins importantes. 
+**Tous·tes les joueur·euse·s qui participent à la course finale reçoivent des belles récompenses**. Selon que vous ayez participé en **Open League** ou en **Graded League**, vos récompenses seront plus ou moins importantes.
 
 ::: details Carats obtenus en fonction de votre finale et votre league
-      
+
 **GRADED LEAGUE Groupe A :**
 
 - Victoire : 3000 carats
@@ -121,7 +125,7 @@ Le résultat : j'ai gagné car **ma meilleure uma a gagné la course**, Joueur Y
 
 :::
 
-Le **maximum** de carats à obtenir en finale est **3000**, pour une **victoire en finale groupe A en Graded League**, et le **minimum** est **900** pour une **défaite totale en groupe B en Open League.** C'est pour ces récompenses généreuses qu'il est important d'au moins atteindre la finale en Champion's Meeting. ***Peu importe* si vous ne pensez pas pouvoir gagner en finale**, préparez-vous au Champion's Meeting en visant **la participation à la finale** de votre league et votre groupe : Champion's Meeting est un évènement **backloaded**, et c'est **à la toute fin** que se trouvent toutes les **récompenses**.
+Le **maximum** de carats à obtenir en finale est **3000**, pour une **victoire en finale groupe A en Graded League**, et le **minimum** est **900** pour une **défaite totale en groupe B en Open League.** C'est pour ces récompenses généreuses qu'il est important d'au moins atteindre la finale en Champion's Meeting. **_Peu importe_ si vous ne pensez pas pouvoir gagner en finale**, préparez-vous au Champion's Meeting en visant **la participation à la finale** de votre league et votre groupe : Champion's Meeting est un évènement **backloaded**, et c'est **à la toute fin** que se trouvent toutes les **récompenses**.
 
 ---
 

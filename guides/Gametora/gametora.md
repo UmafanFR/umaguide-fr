@@ -18,4 +18,3 @@ Une fois sur le site, veuillez à bien sélectionner la version Globale d'Umamus
 :::
 
 Gametora propose une grande variété d'outils pour optimiser vos carrières sur Umamusume. Vous pouvez retrouver ici des guides pour [le calculateur d'affinité (Legacies/Inspirtation)](/guides/Gametora/outils/compatibility_calculator.md), [l'assistant d'entrainement](/guides/Gametora/outils/training_event_helper.md) et [le comparateur](/guides/Gametora/outils/comparator.md).
-
