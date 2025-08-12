@@ -1,0 +1,7 @@
+img.custom-emoji {
+  display: inline-block;
+  height: 1.25em;
+  width: 1.25em;
+  margin: 0 0.1em;
+  vertical-align: -0.2em;
+}
