@@ -8,7 +8,7 @@ order: 5
 
 # FAQ : Cartes supports
 
-### "Pourquoi Kitasan Black speed SSR est si importante ?"
+### Pourquoi Kitasan Black speed SSR est si importante ?
 
 ::: details Elle est très longtemps la meilleure carte speed, dans un jeu où on a systématiquement besoin de cartes speed :
 
@@ -28,7 +28,7 @@ Kitasan Black speed SSR est si importante car aucune autre carte support n'a cet
 
 :::
 
-### "Kitasan a besoin de 3LB pour être bonne apparamment, c'est beaucoup, ça vaut quand même la peine pull la bannière ?"
+### Kitasan a besoin de 3LB pour être bonne apparamment, c'est beaucoup, ça vaut quand même la peine pull la bannière ?
 
 ::: details Oui, car quoi qu'il en soi on a besoin de cartes support :
 
@@ -46,7 +46,7 @@ Plus tard, il y aura une bannière "rerun" avec Kitasan Black speed SSR. Ce sera
 
 :::
 
-### "Elle est bien cette carte support _gratuite_ que je viens d'avoir ?"
+### Elle est bien cette carte support _gratuite_ que je viens d'avoir ?
 
 ::: details Non, pas avant au moins 2LB :
 
@@ -56,7 +56,7 @@ Si vous l'avez MLB par contre, là on parle, et n'hésitez pas à demander.
 
 :::
 
-### "Je suis frustré, j'ai eu plein de copies de Satono Diamond stam SSR et il paraît qu'elle est nulle..."
+### Je suis frustré, j'ai eu plein de copies de Satono Diamond stam SSR et il paraît qu'elle est nulle...
 
 ::: details Satono Diamond stam SSR est une bonne carte :
 
