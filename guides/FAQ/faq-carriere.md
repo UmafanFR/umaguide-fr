@@ -237,6 +237,6 @@ Il y a aussi les level up liés à la rareté (en étoiles) de votre uma, bien e
 
 ::: tip Rappel à toutes fins utiles
 
-[On en reparle plus bas](#je-n-ai-pas-eu-le-level-up-du-skill-unique-de-ma-uma-ma-run-est-foutue), mais level up l'unique de votre uma n'augmente que marginalement son efficacité. Par contre, ce sont des chouettes points supplémentaires pour le rank.
+[J'en reparle ici](/guides/FAQ/faq-others.md/#je-nai-pas-eu-le-level-up-du-skill-unique-de-ma-uma-ma-run-est-foutue), mais level up l'unique de votre uma n'augmente que marginalement son efficacité. Par contre, ce sont des chouettes points supplémentaires pour le rank.
 
 :::
