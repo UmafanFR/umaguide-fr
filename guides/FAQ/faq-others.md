@@ -146,3 +146,52 @@ L'info a du se retrouver sur une des principales ressources de la commu car _tou
 Pour des raisons évidentes, les backline sont peu gênées par les late starts, mais c'est parfois éliminatoire pour les Front Runner.
 
 :::
+
+### Tazuna Hayakawa pal SSR est une mauvaise carte support
+
+:::: details Je sais pas d'où vient la rumeur mais elle est fausse :
+
+Tazuna est une carte **pal** ; c'est un type de carte support qui ne fait **pas de rainbow** et ne donne **pas de hints**❗, mais qui aide réellement à **monter vos stats, de manière indirecte**. Voici tout ce que Tazuna accomplis : 
+- Elle aide votre uma à **être en forme pour s'entrainer** :
+    - Votre tout premier entrainement avec Tazuna vous **garantis un mood up**.
+    - Vous avez **5 recreations spéciaux**, qui sont aussi ses chain events :
+        - Ses 1e, 3e et 5e recreation font **repos + mood up**. Contrairement à un repos normal, _ça ne peut **pas** échouer_. C'est idéal juste avant le summer camp.
+        - Ses 2e et 4e recreations font **repos + clear un debuff**, si vous en avez un. Là encore _ça ne peut **pas** échouer_, contrairement à l'infirmerie.
+    - Si vous vous entrainez avec elle, il y a une chance d'avoir un event où elle donne un peu de **speed supplémentaire**, et parfois un **mood up**.
+- Elle vous permet de vous **entrainer davantage** :
+    - **Réduction de vos chances d'échec** d'entrainement quand elle est présente dessus. D'ailleurs, de toutes les cartes pal du jeu (même sur JP, 4 ans et demi plus tard), c'est elle **qui réduit le plus** les chances d'échec.
+    - **Réduction de la consommation d'énergie** d'un entrainement quand elle est présente dessus. Là encore, 4 ans et demi plus tard, c'est elle **qui offre la plus grande réduction**.
+- À partir de 2LB elle augmente de **+10% le gain de stats** sur un entrainement où elle est présente.
+- Elle vous donne le skill **Concentration**, qui est littéralement **_LE_ skill qui apporte _LE PLUS de points_ en Team Trials** (activation du skill + points bonus pour le départ rapide). C'est aussi un skill indispensable pour les **Front Runners** de manière générale.
+
+Si vous pensez que tout ça c'est pas utile, **faites 3-4 carrières avec elle** -le temps de s'habituer au changement de playstyle- et voyez ce que vous en pensez. Tazuna est particulièrement bien équipée pour vous permettre de **vous entrainer davantage** ET **réduire l'impact d'une mauvaise RNG** en carrière. Ça devrait être évident, mais avoir une carte dédiée à **calmer la RNG négative**, dans un jeu basé entièrement sur la RNG, oui, c'est puissant.
+
+::: tip Un truc qui est vrai par contre
+
+**Tazuna SSR a une durée de vie -au mieux- _modeste_**. Elle est à son meilleur sur le **scénario URA**, clairement. Vous pourrez l'utiliser sur le 2e scénario (Unity Cup), à la place de Riko Kashimoto pal SSR (surtout pas les deux en même temps), afin d'avoir le très bon skill gold **Concentration**. Mais _sur le 3e scénario c'est pas simple de l'intégrer au deck_, à cause de son manque de Race Bonus. **À partir du 4e vous ne pourrez simplement plus jamais l'utiliser** (excepté sur le 9e scénario, et bon courage pour l'inclure dans le deck), car à partir de ce scénario il y'aura systématiquement une **carte pal** (ou "group") **obligatoire**, spécifique à chaque scénario.
+
+Tazuna SSR est donc bonne sur URA, utilisable sur Unity Cup, peu recommandée sur Make A New Track, et complètement dead après ça. C'est donc vrai que -en comparaison avec des cartes comme Creek et Kitasan qui sont clairement increvables- **Tazuna a une durée de vie limitée**. 
+
+:::
+
+Comme mentionné [dans une autre partie de la FAQ](/guides/FAQ/faq-carriere#dois-je-utiliser-tazuna-hayakawa-ssr-ou-aoi-kiryuin-sur-le-scenario-ura), vous n'en avez **pas obligatoirement** besoin. Vous pouvez ne pas aimer le changement de gameplay induit (mais il faudra _impérativement_ vous y habituer d'ici le 4e scénario (y'a le temps)), ou alors vous pouvez être dans un cas où une carte support classique qui fait des rainbow aura plus de valeur ajoutée. Mais assez souvent, Tazuna apportera davantage de valeur à votre carrière qu'une 3e ou 4e carte speed ou autre, typiquement.
+
+::: warning P't'être que la rumeur vient de là...
+
+Tazuna SSR _soutient_ un bon deck, mais **ne rend pas un deck _bon_**. Ce n'est pas comme Kitasan où n'importe quelle combinaison de cartes + Kitasan est un deck au moins décent, car Kitasan carry le deck. Tazuna marche si votre deck est déjà **bon**, mais ne rendra pas à elle seule le deck bon. 
+
+Si vous **manquez de LB** sur vos cartes SR, c'est pas dit que Tazuna SSR soit le meilleur ajout possible. Si ça se trouve c'est pour qu'elle est mal jugée 🤔
+
+:::
+
+**Tazuna est une bonne carte**, surtout sur URA. Si quelqu'un vous dis que c'est pas le cas, ok  soit, peut-être. C'est une opinion. Demandez lui d'expliquer _pourquoi on la retrouve systématiquement dans les decks de whales et des joueurs qui font **top100 mondial** en Team Trials_, du coup.
+
+Il y a des tas de mauvaises cartes SSR dans le jeu, et Tazuna n'est pas l'une d'elles.
+
+::: tip Avoir Tazuna SSR dans votre deck n'améliore pas la qualité de ses conseils.
+
+Vous êtes toujours absolument invités à ne pas écouter la plupart de ses recommandations :currenDevilish:
+
+:::
+
+::::

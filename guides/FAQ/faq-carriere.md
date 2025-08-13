@@ -8,9 +8,15 @@ order: 3
 
 # FAQ : Carrière
 
-### Quel deck utiliser pour build [insérez-ici-une-uma] ?
+### Quel deck utiliser pour la carrière de [insérez-ici-une-uma] ?
 
-::: details Constuisez votre deck en considérant la plus longue distance que votre uma doit courir :
+:::: details Constuisez votre deck en considérant la plus longue distance que votre uma doit courir :
+
+::: warning Au cas où c'est pas clair
+
+Ces recommandations de deck sont là pour vous aider à **réussir la carrière de votre uma**. Pas forcément pour obtenir une build de qualité pour le Team Trials ou le Champion's Meeting.
+
+:::
 
 Le raisonnement suivant s'applique à toutes les uma :
 
@@ -54,6 +60,8 @@ Si pour une raison ou une autre vous n'utilisez qu'une seule carte d'un type (pa
 
 :::
 
+::::
+
 ### Comment avoir URA Finals sur X distance ?
 
 ::: details La distance choisie pour URA finals correspond à la distance sur laquelle vous avez le plus couru pendant une carrière :
@@ -89,6 +97,8 @@ Dans les futurs scénarios, les cartes Pal (comme Tazuna) et les cartes "Group" 
 Les cartes Pal sont des cartes qui vous soutiennent et participent indirectement à la croissance de toutes les stats. Elles permettent aussi de faire des "recreations spéciaux", qui restaurent beaucoup d'énergie (et ne peuvent pas échouer (contrairement à un repos classique)) et peuvent monter l'humeur en même temps.
 
 Si vous utilisez une carte Pal, n'oubliez pas de **compléter intégralement les recreations spéciaux**, afin d'obtenir le **gold skill** ! Celui que vous donne Tazuna est universel et très bon pour le Team Trials.
+
+De manière générale [Tazuna SSR est une bonne carte](/guides/FAQ/faq-others#tazuna-hayakawa-pal-ssr-est-une-mauvaise-carte-support) à utiliser de toutes façons, n'hésitez pas à expérimenter en l'intégrant dans votre deck.
 
 :::
 
@@ -237,6 +247,6 @@ Il y a aussi les level up liés à la rareté (en étoiles) de votre uma, bien e
 
 ::: tip Rappel à toutes fins utiles
 
-[J'en reparle ici](/guides/FAQ/faq-others.md/#je-nai-pas-eu-le-level-up-du-skill-unique-de-ma-uma-ma-run-est-foutue), mais level up l'unique de votre uma n'augmente que marginalement son efficacité. Par contre, ce sont des chouettes points supplémentaires pour le rank.
+[J'en reparle ici](/guides/FAQ/faq-others#je-n-ai-pas-eu-le-level-up-du-skill-unique-de-ma-uma-ma-run-est-foutue), mais level up l'unique de votre uma n'augmente que marginalement son efficacité. Par contre, ce sont des chouettes points supplémentaires pour le rank.
 
 :::
