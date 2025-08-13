@@ -8,7 +8,7 @@ order: 6
 
 # FAQ : Mythes et erreurs courantes
 
-### "Mon deck doit avoir au moins une carte support par type d'entrainement"
+### Mon deck doit avoir au moins une carte support par type d'entrainement
 
 ::: details Surtout pas, plus vous avez de cartes de types différents, plus c'est difficile de monter chaque stat :
 
@@ -24,7 +24,7 @@ Donc autant vous dire que c'est pas demain la veille qu'on utilisera ce type de 
 
 :::
 
-### "Il faut équilibrer toutes les stats de ma uma"
+### Il faut équilibrer toutes les stats de ma uma
 
 ::: details Oui, mais sans doute pas comme vous pensez :
 
@@ -38,7 +38,7 @@ Par exemple : si vous avez 1000 speed, 300 stam, 600 pow, 200 guts, avoir enviro
 
 :::
 
-### "Gold Ship (et les End Closer) a besoin de plus de power que les autres uma"
+### Gold Ship (et les End Closer) a besoin de plus de power que les autres uma
 
 ::: details Toutes les uma (sans exception, même les frontline) ont besoin de power, et perdent des courses par carence de power :
 
@@ -56,7 +56,7 @@ Bref, toutes les uma ont besoin de power, pas seulement les backlines. Et, non, 
 
 :::
 
-### "Gold Ship commence son sprint final avant les autres uma"
+### Gold Ship commence son sprint final avant les autres uma
 
 ::: details Nope, mais c'est une très bonne observation, car c'est une optimisation importante :
 
@@ -70,7 +70,7 @@ On aura l'occasion d'en parler beaucoup pour les préparations au PvP compétiti
 
 :::
 
-### "[insérez-ici-une-uma] est particulièrement affectée par des sautes d'humeur"
+### [insérez-ici-une-uma] a tout le temps des mood down
 
 ::: details C'est aléatoire et ça affecte toutes les uma.
 
@@ -80,7 +80,7 @@ Certaines uma ont des évènements **scriptés** qui leur forcent une blessure o
 
 :::
 
-### "Speed est la stat la plus importante"
+### Speed est la stat la plus importante
 
 ::: details La stat que vous voulez toujours en abondance, oui, mais la plus importante, non :
 
@@ -92,9 +92,9 @@ Vous pouvez simuler ces valeurs sur un des simulateurs de HP, [comme celui-ci](h
 
 :::
 
-### "L'humeur 'Awful' m'a fait perdre la course"
+### L'humeur 'Awful' m'a fait perdre la course
 
-::: details Nah bro t'as perdu par **RNG** :
+::: details Non, c'est la **RNG** :
 
 Le mood Awful ça réduit les stats de **4%**. Donc si t'as 1000 speed, tu te retrouves avec 960 speed, et c'est rarissimemement la cause de défaite. Il y'a 1000 autres choses qui ont pu imposer un échec, et 4% de stats en moins ce sera presque jamais la principale cause.
 
@@ -102,7 +102,7 @@ Le seul cas où une différence de mood peut réellement être la différence en
 
 :::
 
-### "Je n'ai pas eu telle carte ou telle uma, mon compte est foutu"
+### Je n'ai pas eu telle carte ou telle uma, mon compte est foutu
 
 ::: details Surtout pas de panique :
 
@@ -114,7 +114,7 @@ Enfin, n'oubliez pas que à terme il y a **d'autres moyens d'obtenir une carte s
 
 :::
 
-### "Je n'ai pas eu le level up du skill unique de ma uma, ma run est foutue"
+### Je n'ai pas eu le level up du skill unique de ma uma, ma run est foutue
 
 ::: details Les level up de skills unique ont un effet franchement insignifiant :
 
@@ -137,7 +137,7 @@ J'ai oublié de mentionner que le level up du skill unique participe à l'augmen
 
 :::
 
-### "Wits réduit la chance de faire un départ retardé"
+### Wits réduit la chance de faire un départ retardé
 
 ::: details Non, c'est parfaitement aléatoire :
 

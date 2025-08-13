@@ -8,7 +8,7 @@ order: 2
 
 # FAQ : Généralités
 
-### "Je n'arrive pas à faire des courses avec la nouvelle umamusume que j'ai pull"
+### Je n'arrive pas à faire des courses avec la nouvelle umamusume que j'ai pull
 
 ::: details C'est normal, vous devez l'entrainer en carrière d'abord :
 
@@ -16,7 +16,7 @@ Il faut faire au moins **une run de carrière avec une uma** si vous voulez la f
 
 :::
 
-### "Comment accumuler rapidement des carats ?"
+### Comment accumuler rapidement des carats ?
 
 ::: details Obtenez tous les trophées des courses G1, G2 et G3, lisez (skippez si vous voulez) les story et faites les "main mission" :
 
@@ -44,7 +44,7 @@ Ce n'est pas la peine de dépenser vos ressources (monies, support points, etc) 
 
 :::
 
-### "Comment construire mes teams en Team Trials ? Est-ce que ma team auto-select est bonne ?"
+### Comment construire mes teams en Team Trials ? Est-ce que ma team auto-select est bonne ?
 
 :::: details Non, y'a des très grandes chances que vos teams auto-select ne soient pas bonnes. Je vous explique comment le faire vous-même :
 

@@ -8,7 +8,7 @@ order: 4
 
 # FAQ : Build et mécaniques
 
-### "Quelles stats je dois viser pour XXX ?"
+### Quelles stats je dois viser pour XXX ?
 
 ::: details Pas de réponse courte pour celle ci :
 
@@ -39,7 +39,7 @@ Pendant une carrière toutes vos stats sont secrètement boostées de 400. Ce n'
 
 :::
 
-### "À quoi ça sert guts ?"
+### À quoi ça sert guts ?
 
 ::: details Guts réduit votre consommation de HP :
 
@@ -51,7 +51,7 @@ Vous pouvez faire les carrières des uma sprint/mile **avec des cartes guts plut
 
 :::
 
-### "À quoi ça sert wits ?"
+### À quoi ça sert wits ?
 
 ::: details Wits fait plein de petites choses qui rendent votre uma plus fiable et régulière en course :
 
@@ -77,7 +77,7 @@ C'est pour toutes les petites choses que wits accomplis qu'on dit que cette stat
 
 :::
 
-### "Je prends quoi comme skills ?"
+### Je prends quoi comme skills ?
 
 :::: details Les skills de vitesse qui s'activent pour votre uma, et les recovery si besoin :
 
@@ -99,7 +99,7 @@ Pour plus de détails sur le choix des skills, vous pouvez jeter un oeil à [ce 
 
 ::::
 
-### "J'ai l'impression que mes skills ne s'activent pas ?"
+### J'ai l'impression que mes skills ne s'activent pas ?
 
 ::: details Voici les principales pistes à investiguer :
 
@@ -111,7 +111,7 @@ Aux dernières nouvelles, il n'y a pas de bug connu qui empêche l'activation de
 
 :::
 
-### "Est-ce que mes propres debuffs peuvent affecter ma uma et ses coéquipières ?"
+### Est-ce que mes propres debuffs peuvent affecter ma uma et ses coéquipières ?
 
 ::: details Non, mais :
 
@@ -119,7 +119,7 @@ Il est possible que l'effet visuel du debuff touche quand même une de vos uma. 
 
 :::
 
-### "Pourquoi j'ai un spark guts ★ en fin de carrière, alors que j'ai 1200 speed et 1200 stamina ?"
+### Est-ce que je peux influer sur les sparks obtenus en fin de carrière ?
 
 ::: details Je vous la donne dans le mille, c'est aléatoire.
 
@@ -138,7 +138,7 @@ TL;DR : c'est aléatoire, parce que évidemment.
 
 :::
 
-### "Quelle legacy choisir ? Est-ce qu'il vaut mieux privilégier certains sparks ?"
+### Quelle legacy choisir ? Est-ce qu'il vaut mieux privilégier certains sparks ?
 
 ::: details Ça dépend beaucoup de ce que vous voulez faire :
 
@@ -166,7 +166,7 @@ En attendant une solution de recherche précise (comme uma-pureDB pour la versio
 
 :::
 
-### "Quels skills gold débloquer sur mes uma ?"
+### Quels skills gold débloquer sur mes uma ?
 
 :::: details D'abord, les skills de votre fav. Ensuite, les skills qui s'activent et qui accomplissent quelque chose :
 
