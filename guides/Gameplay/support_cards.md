@@ -1,7 +1,7 @@
 ---
 title: Gameplay - Les cartes supports
 menuTitle: Les cartes supports
-order: 0
+order: 1
 ---
 
 # Comprendre les cartes supports dans Umamusume Pretty Derby
