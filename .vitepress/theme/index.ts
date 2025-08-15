@@ -1,10 +1,11 @@
 import DefaultTheme from 'vitepress/theme';
 import { VPTeamMembers } from 'vitepress/theme';
-import contributors from '../../contributors.json';
+import contributors from '../data/contributors.json';
 
 import type { Theme } from 'vitepress';
 import { h } from 'vue';
-import highlightAnchor from './highlightAnchor';
+import highlightAnchor from '../plugins/highlightAnchor';
+import '../plugins/custom-emoji/custom-emoji.css';
 import './custom.css';
 
 function buildContributorsList(contributors) {

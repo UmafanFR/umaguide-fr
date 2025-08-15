@@ -8,9 +8,15 @@ order: 3
 
 # FAQ : Carrière
 
-### "Quel deck utiliser pour build [insérez-ici-une-uma] ?"
+### Quel deck utiliser pour la carrière de [insérez-ici-une-uma] ?
 
-::: details Constuisez votre deck en considérant la plus longue distance que votre uma doit courir :
+:::: details Constuisez votre deck en considérant la plus longue distance que votre uma doit courir :
+
+::: warning Au cas où c'est pas clair
+
+Ces recommandations de deck sont là pour vous aider à **réussir la carrière de votre uma**. Pas forcément pour obtenir une build de qualité pour le Team Trials ou le Champion's Meeting.
+
+:::
 
 Le raisonnement suivant s'applique à toutes les uma :
 
@@ -54,7 +60,9 @@ Si pour une raison ou une autre vous n'utilisez qu'une seule carte d'un type (pa
 
 :::
 
-### "Comment avoir URA Finals sur X distance ?"
+::::
+
+### Comment avoir URA Finals sur X distance ?
 
 ::: details La distance choisie pour URA finals correspond à la distance sur laquelle vous avez le plus couru pendant une carrière :
 
@@ -66,7 +74,7 @@ URA Finals dirt est systématiquement en distance **mile**, tout comme en Team T
 
 :::
 
-### "Comment gérer la carrière de King Halo ?"
+### Comment gérer la carrière de King Halo ?
 
 ::: details Pensez votre deck pour du medium, et faites 2 courses facultatives sprint
 
@@ -80,7 +88,7 @@ En procédant ainsi, votre carrière avec King Halo sera bien plus simple.
 
 :::
 
-### "Dois-je utiliser Tazuna Hayakawa SSR (ou Aoi Kiryuin) sur le scénario URA ?"
+### Dois-je utiliser Tazuna Hayakawa SSR (ou Aoi Kiryuin) sur le scénario URA ?
 
 ::: details Pas vraiment. Mais vous pouvez si vous trouvez ça confortable :
 
@@ -90,9 +98,11 @@ Les cartes Pal sont des cartes qui vous soutiennent et participent indirectement
 
 Si vous utilisez une carte Pal, n'oubliez pas de **compléter intégralement les recreations spéciaux**, afin d'obtenir le **gold skill** ! Celui que vous donne Tazuna est universel et très bon pour le Team Trials.
 
+De manière générale [Tazuna SSR est une bonne carte](/guides/FAQ/faq-others#tazuna-hayakawa-pal-ssr-est-une-mauvaise-carte-support) à utiliser de toutes façons, n'hésitez pas à expérimenter en l'intégrant dans votre deck.
+
 :::
 
-### "Comment gagner le Tenno Sho Spring ?"
+### Comment gagner le Tenno Sho Spring ?
 
 ::: details Le Tenno Sho Spring est une course qui se gagne à l'endurance.
 
@@ -108,7 +118,7 @@ En PvP, pour terminer correctement le Haruten (donc avoir 100% du sprint à vite
 
 :::
 
-### "Tazuna me donne des conseils bizarres après une course..."
+### Tazuna me donne des conseils bizarres après une course...
 
 ::: details Tazuna a factuellement trop souvent tort, pour quelqu'un qui donne des conseils :
 
@@ -118,7 +128,7 @@ Si vous pensez que Tazuna vous propose des recommandations incohérentes, n'hés
 
 :::
 
-### "Comment être rank 'Legend' en carrière ? Je n'atteins jamais le bon nombre de fans"
+### Comment être rank 'Legend' en carrière ? Je n'atteins jamais le bon nombre de fans
 
 ::: details La grande majorité des uma n'atteignent pas 'legend' avec juste leur carrière.
 
@@ -128,7 +138,7 @@ Chaque 1e victoire sur une course vous donne aussi son trophée, et l'obtention 
 
 :::
 
-### "Quelle option choisir avec l'acupuncturiste ? "
+### Quelle option choisir avec l'acupuncturiste ? 
 
 ::: details Option 4 en début de run / option 5 si vous ne voulez prendre aucun risque / option 3 sinon :
 
@@ -168,7 +178,7 @@ Réalistiquement, on ne gamble pas trop sur l'option 1, car un échec est possib
 
 :::
 
-### "Je galère un peu et j'ai l'impression de ne plus progresser..."
+### Je galère un peu et j'ai l'impression de ne plus progresser...
 
 ::: details C'est normal, on progresse pas mal par à-coups :
 
@@ -184,7 +194,7 @@ C'est donc normal d'avoir des moments de progrès rapide (nouvelles cartes, nouv
 
 :::
 
-### "Comment réussir la mission où il faut faire un entrainement avec 5 supports d'un coup ?"
+### Comment réussir la mission où il faut faire un entrainement avec 5 supports d'un coup ?
 
 ::: details Il n'y a pas d'astuce ni de stratégie particulière recommandée. Cette mission est stupide, c'est juste du hasard :
 
@@ -199,7 +209,7 @@ Bonne chance ! C'est vraiment juste du hasard. Ne le forcez pas, et vous serez c
 
 :::
 
-### "Est-ce que l'énergie a une influence sur les courses ?"
+### Est-ce que l'énergie a une influence sur les courses ?
 
 ::: details Non, mais vous risquez d'avoir un debuff si vous _entamez_ une course avec exactement 0 énergie.
 
@@ -223,7 +233,7 @@ Quoi qu'il en soit, votre quantité d'énergie au début d'une course n'a **aucu
 
 :::
 
-### "Comment level up le skill unique de ma uma ?"
+### Comment level up le skill unique de ma uma ?
 
 ::: details Il y'a 3 level up possible dans une carrière :
 
@@ -237,6 +247,6 @@ Il y a aussi les level up liés à la rareté (en étoiles) de votre uma, bien e
 
 ::: tip Rappel à toutes fins utiles
 
-[On en reparle plus bas](#je-n-ai-pas-eu-le-level-up-du-skill-unique-de-ma-uma-ma-run-est-foutue), mais level up l'unique de votre uma n'augmente que marginalement son efficacité. Par contre, ce sont des chouettes points supplémentaires pour le rank.
+[J'en reparle ici](/guides/FAQ/faq-others#je-n-ai-pas-eu-le-level-up-du-skill-unique-de-ma-uma-ma-run-est-foutue), mais level up l'unique de votre uma n'augmente que marginalement son efficacité. Par contre, ce sont des chouettes points supplémentaires pour le rank.
 
 :::

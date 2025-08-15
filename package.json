@@ -1,10 +1,10 @@
 {
   "dependencies": {
-    "@types/bun": "^1.2.17"
+    "@types/bun": "^1.2.20"
   },
   "devDependencies": {
     "cheerio": "^1.1.2",
-    "vitepress": "^1.6.3",
+    "vitepress": "^1.6.4",
     "vitepress-sidebar": "^1.33.0"
   },
   "scripts": {
