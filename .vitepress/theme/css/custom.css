@@ -27,6 +27,41 @@ html {
   line-height: 0;
 }
 
+.uma-component input[type='search'] {
+  border: 1px solid var(--vp-c-border);
+  transition: border-color 0.25s;
+  border-radius: var(--vp-custom-border-radius);
+  padding: 0.5rem 2rem 0.5rem 0.75rem;
+  background: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-1);
+  box-sizing: border-box;
+}
+
+.uma-component input[type='search']:hover,
+.uma-component input[type='search']:focus {
+  border-color: var(--vp-c-brand-1);
+}
+
+.custom-block[currenchan].danger {
+  display: grid;
+  grid-template-columns: 76px 1fr;
+  grid-template-rows: auto auto;
+  gap: 0 24px;
+  align-items: start;
+  padding-bottom: 16px;
+}
+
+.custom-block[currenchan].danger::before {
+  content: '';
+  display: block;
+  background: url('/assets/currensad.gif') no-repeat center center;
+  background-size: contain;
+  width: 76px;
+  height: 126px;
+  grid-row: 1 / -1;
+  grid-column: 1;
+}
+
 @media (min-width: 640px) {
   :root {
     --vp-home-hero-image-filter: blur(56px);

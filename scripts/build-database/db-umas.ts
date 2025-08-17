@@ -1,9 +1,10 @@
 import { join } from 'path';
+import { mkdir } from 'node:fs/promises';
 import { getFromWithRetry } from 'scripts/fetchHelper';
 import nextbanners from '.vitepress/data/nextbanners.json';
 
 const UMAPYOINET_API = 'https://umapyoi.net/api/v1/';
-const ASSETS_FOLDER = join(process.cwd(), 'public', 'assets');
+const ASSETS_FOLDER = join(process.cwd(), '.vitepress', 'assets');
 
 const keysByStar = {
   2: 'two_star_stats',
@@ -12,21 +13,32 @@ const keysByStar = {
   5: 'five_star_stats',
 } as const;
 
-async function downloadCharacterImage(filename: string, url: string) {
-  const folder = join(ASSETS_FOLDER, 'characters');
-  const filePath = join(folder, filename);
+export async function downloadCharacterImage(umaslug: string, url: string) {
+  const folder = join(ASSETS_FOLDER, 'characters', 'stand');
+  const filePath = join(folder, `${umaslug}.png`);
 
-  if (await Bun.file(filePath).exists()) return;
+  await mkdir(folder, { recursive: true });
+
+  if (await Bun.file(filePath).exists()) {
+    return filePath;
+  }
 
   const res = await fetch(url);
   if (!res.ok) {
     throw new Error(`HTTP ${res.status} lors du téléchargement de ${url}`);
   }
 
+  const contentType = res.headers.get('content-type') ?? '';
+  if (!contentType.startsWith('image/')) {
+    throw new Error(`Le contenu récupéré n'est pas une image (Content-Type: ${contentType})`);
+  }
+
   const arrayBuffer = await res.arrayBuffer();
 
   await Bun.write(filePath, new Uint8Array(arrayBuffer));
+
   console.log(`✅ Enregistré : ${filePath}`);
+  return filePath;
 }
 
 async function fetchUmas(gametoraApi: string): Promise<UmaData[]> {
@@ -59,19 +71,19 @@ async function fetchUmas(gametoraApi: string): Promise<UmaData[]> {
     if (!umaInfo) continue;
 
     const imageUrl = `https://gametora.com/images/umamusume/characters/chara_stand_${umaData.char_id}_${umaData.card_id}.png`;
-    const md =
-      umaInfo.name_en_internal + (umaData.version ? '-' + umaData.version.replace(/_/g, '-') : '');
+    const slug =
+      umaInfo.name_en_internal + (umaData.version ? '-' + umaData.version.replace(/_/g, '') : '');
 
     try {
-      await downloadCharacterImage(`${md}.png`, imageUrl);
+      await downloadCharacterImage(`${slug}`, imageUrl);
     } catch (err) {
-      console.warn(`⚠️ Impossible de télécharger ${md}:`, err);
+      console.warn(`⚠️ Impossible de télécharger ${slug}:`, err);
     }
 
     umas.push({
       id: uma.id,
       name: umaInfo.name_en,
-      slugname: umaInfo.name_en_internal,
+      slug: slug,
       char_id: uma.chara_game_id,
       costume: umaData.costume,
       colors: [umaInfo.color_main, umaInfo.color_sub],
@@ -92,7 +104,6 @@ async function fetchUmas(gametoraApi: string): Promise<UmaData[]> {
       skills_awakening: umaData.skills_awakening,
       skills_event: umaData.skills_event,
       released: umaData.release_en,
-      md: md,
     });
   }
 
@@ -100,14 +111,37 @@ async function fetchUmas(gametoraApi: string): Promise<UmaData[]> {
 }
 
 function getCharacterDefaultContent(uma: UmaData) {
-  const content = `# ${uma.name}${
-    uma.version ? '(' + uma.version + ')' : ''
-  }\n\nContenu initial pour ${uma.name}`;
-  return content;
+  const fullName = `${uma.name}${uma.version ? ` (${uma.version})` : ''}`;
+  return `---
+title: ${fullName}
+prev:
+  text: Liste des personnages
+  link: /guides/Gameplay/characters
+next: false
+---
+<UmaBreadcrumb slug="${uma.slug}" />
+<UmaDetails slug="${uma.slug}" />
+
+::: danger Page en construction 🚧 { currenchan }
+Le contenu de cette page est encore en cours de rédaction.  
+:::
+
+## Présentation
+*À venir*
+
+## Forces & Faiblesses
+*À venir*
+
+## Comment la jouer ?
+*À venir*
+
+## Builds recommandés
+*À venir*
+`;
 }
 
 async function createCharactersMD(uma: UmaData) {
-  const fileName = `${uma.md}.md`;
+  const fileName = `${uma.slug}.md`;
   const filePath = join('./guides/Gameplay/Characters', fileName);
 
   if (!(await Bun.file(filePath).exists())) {

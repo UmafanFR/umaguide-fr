@@ -1,6 +1,5 @@
-input,
-button,
-select {
+.characters-grid button,
+.characters-grid select {
   border: 1px solid var(--vp-c-border);
   transition: border-color 0.25s;
   border-radius: var(--vp-custom-border-radius);
@@ -8,9 +7,8 @@ select {
   color: var(--vp-c-text-1);
 }
 
-input:hover,
-button:hover,
-select:hover {
+.characters-grid button:hover,
+.characters-grid select:hover {
   border-color: var(--vp-c-brand-1);
 }
 
@@ -35,9 +33,6 @@ select:hover {
 
 .search input[type='search'] {
   flex: 1;
-  padding: 0.5rem 2rem 0.5rem 0.75rem;
-  background: var(--vp-c-bg-alt);
-  color: var(--vp-c-text-1);
 }
 
 .search .clear-btn {
@@ -54,10 +49,6 @@ select:hover {
 
 .search .clear-btn:hover {
   color: var(--vp-c-text-1);
-}
-
-.toolbar input[type='search']:focus {
-  border-color: var(--vp-c-brand-1);
 }
 
 .toolbar .sort select,
@@ -142,7 +133,7 @@ select:hover {
   position: relative;
 }
 
-.cover img {
+.cover picture {
   width: 100%;
   height: 100%;
   position: relative;
@@ -150,21 +141,19 @@ select:hover {
   transition: transform 0.15s ease;
   transform-origin: center;
   will-change: transform;
-  z-index: 3;
-  filter: drop-shadow(6.5);
 }
 
-.card:hover .cover > img,
-.card:focus-within .cover > img {
+.card:hover .cover > .stand,
+.card:focus-within .cover > .stand {
   transform: scale(1.1);
 }
 
-.upcoming .cover img {
+.upcoming .cover .stand {
   filter: grayscale(100%);
   transition: transform 0.15s ease, filter 0.3s ease;
 }
 
-.upcoming:hover .cover img {
+.upcoming:hover .cover .stand {
   filter: grayscale(0%);
 }
 
@@ -206,7 +195,7 @@ select:hover {
 
 /* si l’utilisateur préfère moins d’animations */
 @media (prefers-reduced-motion: reduce) {
-  .uma-cover > img {
+  .uma-cover > .stand {
     transition: none;
   }
 }

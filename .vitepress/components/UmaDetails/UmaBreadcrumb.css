@@ -21,6 +21,12 @@
 }
 
 /* Select */
+.uma-select input {
+  position: relative;
+  display: inline-block;
+  z-index: 1001;
+}
+
 .uma-select button {
   display: flex;
   gap: 0.25em;
@@ -58,6 +64,7 @@
   margin: 0;
   padding: 6px;
   max-height: 60vh;
+  min-width: 100%;
   overflow: auto;
   border-radius: var(--vp-custom-border-radius);
   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08);
@@ -92,6 +99,14 @@
 }
 
 @media (max-width: 768px) {
+  .menu {
+    max-height: 50vh;
+  }
+  .breadcrumb a {
+    color: var(--vp-c-brand-1);
+    text-decoration: none;
+  }
+
   .uma-select button {
     padding-left: 0;
   }

@@ -1,17 +1,20 @@
+import matter from 'gray-matter';
+
 const searchConfig = {
   provider: 'local',
   options: {
     _render(src, env, md) {
       const file = env.relativePath || '';
+      const { data: frontmatter } = matter(src);
+      if (frontmatter?.search === false) return '';
 
-      // Cas spécial pour la recherche des personnages, pour éviter énormément de redondances
+      // Cas spécial : personnages => n'indexer que le titre
       if (file.startsWith('guides/Gameplay/characters/')) {
-        // Ne garde que le titre (frontmatter ou H1)
-        const title = env.frontmatter?.title || '';
+        const title = frontmatter?.title || '';
         return title ? md.render(`# ${title}`) : '';
       }
 
-      // Comportement par défaut = tout le contenu
+      // Le reste
       return md.render(src, env);
     },
   },

@@ -7,10 +7,8 @@
 }
 
 /* tooltip.css — global, non-scopé */
-
 /* Theme dédié à ton VDropdown: theme="umaguide" */
 .v-popper--theme-umaguide {
-  /* Variables officielles Floating Vue v2 */
   --v-popper-theme-background-color: var(--vp-c-bg);
   --v-popper-theme-text-color: var(--vp-c-text-1);
   --v-popper-theme-border-color: var(--vp-c-border);
@@ -21,4 +19,30 @@
   background: var(--vp-c-bg);
   border: 1px solid var(--vp-c-divider);
   border-radius: var(--vp-custom-border-radius);
+}
+
+/* Backdrop plein écran derrière le dropdown */
+.uma-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.05);
+  backdrop-filter: saturate(120%) blur(2px);
+  z-index: 999;
+  opacity: 0;
+  transition: opacity 0.15s ease;
+  pointer-events: auto;
+}
+
+.uma-backdrop[style],
+.uma-backdrop[v-cloak],
+.uma-backdrop {
+  opacity: 1;
+}
+
+.v-popper__popper {
+  z-index: 1000;
+}
+
+html.modal-open {
+  overflow: hidden;
 }

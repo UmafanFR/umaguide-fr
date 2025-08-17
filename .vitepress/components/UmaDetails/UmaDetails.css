@@ -1,4 +1,5 @@
 .detail-card {
+  margin-top: 24px;
   background: var(--vp-c-bg-soft);
   border: 1px solid var(--vp-c-divider);
   overflow: hidden;
@@ -35,6 +36,7 @@
 
 .cover {
   width: 260px;
+  height: 100%;
   object-fit: cover;
 }
 
@@ -44,7 +46,7 @@
   font-weight: 600;
   letter-spacing: -0.02em;
   line-height: 1.4em;
-  font-size: 1.5em;
+  font-size: 1.3rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -59,6 +61,30 @@
 .stars img {
   margin-top: 0.8em;
   height: 34px;
+}
+
+.toggle-details {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.toggle-details button {
+  font-size: 1.1em;
+  transition: color 0.25s, opacity 0.25s;
+  color: var(--vp-c-brand);
+}
+
+.toggle-details button:hover {
+  color: var(--vp-c-brand-2);
+}
+
+.toggle-details button.dshown {
+  color: var(--vp-c-text-2);
+}
+
+.toggle-details button.dshown:hover {
+  color: var(--vp-c-text-1);
 }
 
 .tabs {
@@ -101,7 +127,6 @@
   .cover {
     width: 100%;
     height: 160px;
-    flex: none;
   }
 
   .basics.with-version .cover {
@@ -111,5 +136,6 @@
   .infos {
     padding-left: 0;
     margin-top: 0.5rem;
+    font-size: 1.1rem;
   }
 }

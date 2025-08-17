@@ -17,8 +17,12 @@ const themeConfig: UserConfig['themeConfig'] = {
     { icon: 'github', link: 'https://github.com/UmafanFR/umaguide-fr' },
     { icon: 'discord', link: 'https://discord.gg/cheval' },
   ],
+  docFooter: {
+    prev: 'Page précédente',
+    next: 'Page suivante',
+  },
   footer: {
-    message: 'Made with ❤️ by UmafanFR',
+    message: 'Made with ❤️ by UmafanFR | <a href="/guides/credits">Crédits & Sources</a>',
   },
 };
 

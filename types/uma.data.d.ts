@@ -2,7 +2,7 @@ declare global {
   interface UmaData {
     id: number;
     name: string;
-    slugname: string;
+    slug: string;
     version?: string;
     char_id: number;
     costume: number;
@@ -18,7 +18,6 @@ declare global {
     skills_awakening: number[];
     skills_event: number[];
     released?: string;
-    md: string;
   }
 
   interface RateUp {

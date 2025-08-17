@@ -4,6 +4,7 @@ import { getActiveUmas, isUmaInRateUp } from '../../helpers/UmaDataHelper';
 import AscIcon from '../icons/mdiSortAscending.vue';
 import DescIcon from '../icons/mdiSortDescending.vue';
 import MdiChevronDown from '../icons/mdiChevronDown.vue';
+import UmaStand from '../UmaImage/UmaStand.vue';
 
 const sortIcons = {
   asc: AscIcon,
@@ -65,7 +66,7 @@ function toggleDirection() {
 </script>
 
 <template>
-  <div class="characters-grid">
+  <div class="uma-component characters-grid">
     <div class="toolbar">
       <div class="search">
         <input
@@ -108,13 +109,13 @@ function toggleDirection() {
     </div>
 
     <div class="grid">
-      <article v-for="u in filtered" :key="u.md" class="card" :class="{ upcoming: !u.released }">
-        <a :href="`/guides/Gameplay/characters/${u.md}`" :title="u.name">
+      <article v-for="u in filtered" :key="u.slug" class="card" :class="{ upcoming: !u.released }">
+        <a :href="`/guides/Gameplay/characters/${u.slug}`" :title="u.name">
           <div v-if="isUmaInRateUp(u.id)" class="badge" aria-hidden="true">↑ Rate up</div>
           <div v-if="!u.released" class="badge" aria-hidden="true">Prochainement</div>
           <div class="cover">
             <div class="overlay">
-              <svg class="shape" style="z-index: 1" viewBox="0 0 200 200" aria-hidden="true">
+              <svg class="shape shape1" style="z-index: 1" viewBox="0 0 200 200" aria-hidden="true">
                 <path class="bg-shape-color1" :fill="u.colors[0]" />
               </svg>
               <svg class="shape" viewBox="0 0 200 200" aria-hidden="true">
@@ -122,7 +123,7 @@ function toggleDirection() {
               </svg>
             </div>
 
-            <img :src="`/assets/characters/${u.md}.png`" :alt="u.name" />
+            <UmaStand class="stand" :slug="u.slug" />
           </div>
           <div class="meta">
             <div class="name">

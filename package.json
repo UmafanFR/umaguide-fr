@@ -5,6 +5,8 @@
   },
   "devDependencies": {
     "cheerio": "^1.1.2",
+    "vite-imagetools": "^8.0.0",
+    "vite-plugin-image-presets": "^0.3.4",
     "vitepress": "^1.6.4",
     "vitepress-sidebar": "^1.33.0"
   },

@@ -15,7 +15,7 @@ const aptitudes = [
 </script>
 
 <template>
-  <div class="meta-content first">
+  <div class="uma-component meta-content first">
     <div class="stats">
       <div v-for="(label, i) in statsLabel" :key="label" class="stat">
         <div class="label-stats">

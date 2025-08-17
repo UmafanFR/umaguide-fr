@@ -2,14 +2,18 @@
 import { ref } from 'vue';
 import { getUmaByMd } from '../../helpers/UmaDataHelper';
 import UmaDetailsStats from './UmaDetailsStats.vue';
+import UmaStand from '../UmaImage/UmaStand.vue';
 
-const { md } = defineProps<{ md: string }>();
-const u: UmaData | undefined = getUmaByMd(md);
+const { slug } = defineProps<{ slug: string }>();
+const u: UmaData | undefined = getUmaByMd(slug);
 
 const activeTab = ref<'stats' | 'skills'>('stats');
 const maxLvlStats: number = (u?.stats.length ?? 1) - 1;
 const lvlStats = ref(0);
 const hoverIndex = ref<number | null>(null);
+
+// toggle détails
+const showDetails = ref(false);
 
 function changeLevelTo(to: number) {
   if (to < 0) {
@@ -23,11 +27,10 @@ function changeLevelTo(to: number) {
 </script>
 
 <template>
-  <div v-if="u" class="detail-card">
+  <div v-if="u" class="uma-component detail-card">
     <div class="meta">
       <div class="meta-content">
         <div class="basics" :class="{ 'with-version': u.version }">
-          <img class="cover" :src="`/assets/characters/${u.md}.png`" :alt="u.name" />
           <div class="infos">
             <span>[{{ u.title }}]</span>
             <span>{{ u.name }}</span>
@@ -36,12 +39,13 @@ function changeLevelTo(to: number) {
               <button
                 v-for="lvl in [0, 1, 2, 3, 4]"
                 :key="lvl"
-                @mouseenter="hoverIndex = lvl < u.rarity - 1 ? u.rarity - 1 : lvl"
-                @mouseleave="hoverIndex = null"
+                @mouseenter="showDetails && (hoverIndex = lvl < u.rarity - 1 ? u.rarity - 1 : lvl)"
+                @mouseleave="showDetails && (hoverIndex = null)"
                 @click="changeLevelTo(lvl - (u.rarity - 1))"
                 :aria-pressed="lvl <= lvlStats"
                 :aria-label="`Débloquer ${lvl + 1} étoile${lvl + 1 > 1 ? 's' : ''}`"
                 :title="`Débloquer ${lvl + 1} étoile${lvl + 1 > 1 ? 's' : ''}`"
+                :disabled="!showDetails"
               >
                 <img
                   :src="
@@ -58,21 +62,33 @@ function changeLevelTo(to: number) {
               </button>
             </div>
           </div>
+          <UmaStand class="cover" :slug="u.slug" />
         </div>
       </div>
-      <div class="meta-content p-top-none">
-        <div class="tabs">
-          <button :class="{ active: activeTab === 'stats' }" @click="activeTab = 'stats'">
-            Stats
-          </button>
-          <!-- <button :class="{ active: activeTab === 'skills' }" @click="activeTab = 'skills'">
-            Skills
-          </button> -->
-        </div>
+
+      <!-- bouton toggle détails -->
+      <div class="toggle-details">
+        <button :class="{ dshown: showDetails }" @click="showDetails = !showDetails">
+          {{ showDetails ? 'Masquer les détails' : 'Voir les détails' }}
+        </button>
       </div>
-      <div class="tab-content">
-        <UmaDetailsStats v-if="activeTab === 'stats'" :u="u" :lvl-stats="lvlStats" />
-        <div v-else>🎯 Compétences de l’Uma - en construction</div>
+
+      <div v-if="showDetails">
+        <div class="meta-content p-top-none">
+          <div class="tabs">
+            <button :class="{ active: activeTab === 'stats' }" @click="activeTab = 'stats'">
+              Stats
+            </button>
+            <!-- <button :class="{ active: activeTab === 'skills' }" @click="activeTab = 'skills'">
+              Skills
+            </button> -->
+          </div>
+        </div>
+
+        <div class="tab-content">
+          <UmaDetailsStats v-if="activeTab === 'stats'" :u="u" :lvl-stats="lvlStats" />
+          <div v-else>🎯 Compétences de l’Uma - en construction</div>
+        </div>
       </div>
     </div>
   </div>

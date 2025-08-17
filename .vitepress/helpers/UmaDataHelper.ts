@@ -11,7 +11,7 @@ const byMd = new Map<string, UmaData>();
 const byId = new Map<number, UmaData>();
 
 for (const u of umas) {
-  if (u?.md) byMd.set(u.md, u);
+  if (u?.slug) byMd.set(u.slug, u);
   if (typeof u?.id === 'number') byId.set(u.id, u);
 }
 
@@ -45,7 +45,7 @@ function getNextBannerIdSet(): Set<number> {
 
 /* ----------------------- Umas actives ----------------------- */
 
-// Retourne la liste des Umas actives et la prochaine Uma
+// Return active and next Umas
 export function getActiveUmas(): UmaData[] {
   const nextIds = getNextBannerIdSet();
 
