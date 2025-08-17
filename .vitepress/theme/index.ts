@@ -1,30 +1,22 @@
 import DefaultTheme from 'vitepress/theme';
-import { VPTeamMembers } from 'vitepress/theme';
-import contributors from '../data/contributors.json';
-
 import type { Theme } from 'vitepress';
-import { h } from 'vue';
-import highlightAnchor from '../plugins/highlightAnchor';
-import '../plugins/custom-emoji/custom-emoji.css';
+import 'floating-vue/dist/style.css';
+import './tooltip.custom.css';
 import './custom.css';
 
-function buildContributorsList(contributors) {
-  return contributors.map(contributor => ({
-    avatar: contributor.avatar_url,
-    name: contributor.login,
-    title: 'Contributor',
-    links: [{ icon: 'github', link: contributor.html_url }],
-  }));
-}
+// Plugins
+import highlightAnchor from '../plugins/highlightAnchor';
+import '../plugins/custom-emoji/custom-emoji.css';
 
-const VPTeamMembersList = {
-  name: 'VPTeamMembersList',
-  render() {
-    return h(VPTeamMembers, {
-      members: buildContributorsList(contributors) || [],
-    });
-  },
-};
+// External Components
+import FloatingVue from 'floating-vue';
+
+// Internal Components
+import VPTeamMembersList from '../components/VPTeamMembersList.vue';
+
+import UmaDetails from '../components/UmaDetails/UmaDetails.vue';
+import UmasGrid from '../components/UmasGrid/UmasGrid.vue';
+import UmaBreadcrumb from '../components/UmaDetails/UmaBreadcrumb.vue';
 
 export default {
   ...DefaultTheme,
@@ -39,6 +31,19 @@ export default {
       });
     }
 
+    // Components registrations
+    app.use(FloatingVue, {
+      themes: {
+        umaguide: {
+          $extend: 'dropdown',
+          $resetCss: true,
+        },
+      },
+    });
+
     app.component('VPTeamMembersList', VPTeamMembersList);
+    app.component('UmasGrid', UmasGrid);
+    app.component('UmaBreadcrumb', UmaBreadcrumb);
+    app.component('UmaDetails', UmaDetails);
   },
 } satisfies Theme;

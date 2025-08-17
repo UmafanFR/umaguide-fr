@@ -4,11 +4,27 @@ html {
 
 :root {
   --vp-c-brand-1: #f86669;
-  --vp-c-brand-2: #f86669;
-  --vp-c-brand-3: #f86669;
+  --vp-c-brand-2: #f0545a;
+  --vp-c-brand-3: #e6484e;
+
   --vp-c-brand-1-light: rgba(248, 102, 105, 0.5);
   --vp-home-hero-image-background-image: linear-gradient(-45deg, #f86669 50%, #9c9c9c 50%);
   --vp-home-hero-image-filter: blur(44px);
+
+  --uma-version-text: #fdd040;
+  --vp-custom-border-radius: 0.5rem;
+}
+
+.uma-version {
+  text-transform: capitalize;
+  color: var(--vp-c-text-2);
+}
+
+.rarity {
+  align-items: center;
+  display: flex;
+  gap: 0.25em;
+  line-height: 0;
 }
 
 @media (min-width: 640px) {

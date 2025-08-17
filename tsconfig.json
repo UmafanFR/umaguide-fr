@@ -4,6 +4,9 @@
     "moduleResolution": "bundler",
     "target": "ES2022",
     "module": "ESNext",
-    "strict": true
-  }
+    "strict": true,
+    "baseUrl": "."
+  },
+  "include": [".vitepress/**/*.ts", ".vitepress/**/*.vue", "./types/*.d.ts", "scripts/**/*.ts"],
+  "exclude": ["node_modules", "dist"]
 }

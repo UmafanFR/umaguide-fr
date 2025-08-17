@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "@types/bun": "^1.2.20"
+    "@types/bun": "^1.2.20",
+    "floating-vue": "^5.2.2"
   },
   "devDependencies": {
     "cheerio": "^1.1.2",

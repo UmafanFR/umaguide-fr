@@ -1,27 +1,34 @@
-import * as cheerio from "cheerio";
+import * as cheerio from 'cheerio';
+import getNews from './build-database/db-news';
+import buildUmas from './build-database/db-umas';
 
-async function main() {
-  const url = "https://gametora.com/umamusume/characters";
+async function loadCheerio(url: string) {
   const res = await fetch(url);
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
-
   const html = await res.text();
-  const $ = cheerio.load(html);
-
-  const raw = $("#__NEXT_DATA__").html();
-  if (!raw) throw new Error("__NEXT_DATA__ introuvable");
-  const next = JSON.parse(raw);
-  const data = next?.props?.pageProps ?? {};
-
-  // Écrit le JSON et crée le dossier si besoin
-  await Bun.write(".vitepress/data/characters.json", JSON.stringify(data, null, 2), {
-    createPath: true,
-  });
-
-  console.log("Écrit -> data/mejiro-palmer.json");
+  return cheerio.load(html);
 }
 
-main().catch((e) => {
+async function getGametoraBuild() {
+  const $ = await loadCheerio(`https://gametora.com/umamusume/`);
+  const raw = $('#__NEXT_DATA__').html();
+  if (!raw) throw new Error('__NEXT_DATA__ introuvable');
+
+  const next = JSON.parse(raw);
+  const buildId = next?.buildId ?? '';
+  if (!buildId) throw new Error('❌ Next Build Id vide');
+
+  return `https://gametora.com/_next/data/${buildId}`;
+}
+
+async function main() {
+  const gametoraApi = await getGametoraBuild();
+  await getNews(gametoraApi);
+
+  buildUmas(gametoraApi);
+}
+
+main().catch(e => {
   console.error(e);
   process.exit(1);
 });
