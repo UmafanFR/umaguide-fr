@@ -16,5 +16,6 @@ node_modules
 pnpm-global
 TODOs.md
 *.timestamp-*.mjs
-contributors.json
-package-lock.json
+.vitepress/data/contributors.json
+.vitepress/data/umas.json
+.vitepress/data/rateups.json
