@@ -139,7 +139,9 @@ function goTo(name: string) {
                 hide();
               "
             >
-              <UmaIcon :slug="opt.slug" />
+              <div class="icon">
+                <UmaIcon :slug="opt.slug" />
+              </div>
               <div class="meta">
                 <div class="line">
                   <span class="name">{{ opt.name }}</span>
