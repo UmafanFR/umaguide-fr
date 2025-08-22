@@ -1,5 +1,5 @@
 ---
-menuTitle: Menus du jeu
+menuTitle: Les menus du jeu
 title: Premiers pas - Menus du jeu
 lang: fr-fr
 outline: 2

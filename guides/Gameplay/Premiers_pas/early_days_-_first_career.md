@@ -1,5 +1,5 @@
 ---
-menuTitle: Premières carrières
+menuTitle: Vos premières carrières
 title: Premiers pas - Vos premières carrières
 lang: fr-fr
 outline: [2,4]
@@ -222,7 +222,7 @@ Chacun des 5 entrainements vous donnera majoritairement des points sur sa **stat
 
 Le seul moyen de monter wits, c'est de **cliquer sur wits**. Toutes les autres stats peuvent être montées de manière indirecte, par un autre entrainement.
 
-Au contraire, il est plus facile de monter speed sans cliquer sur speed, car vous en obtenez un peu en entrainant guts et speed.
+Au contraire, il est plus facile de monter speed sans cliquer sur speed, car vous en obtenez un peu en entrainant guts et wits.
 
 :::
 
@@ -258,13 +258,13 @@ Si vous jouez la carte pal Tazuna Hayakawa, **Tazuna est un support**, car vous 
 Ces évènements sont liés au scénario, et suivent donc **l'intrigue du scénario URA Finale**. Mais ce ne sont pas les seuls évènements qui peuvent se produire, et _vous avez peut-être déjà eu un autre évènement juste après celui-ci_.
 
 Entre 2 tours d'entrainement, vous pouvez avoir différents **évènements aléatoires** :
-- des évènements normaux 
-    - liés à **votre umamusume**
-    - liés à **_vos_ cartes support**
-    - liés à des cartes support **que vous n'utilisez pas** (moins fréquent)
-- ou des évènements "**chain events**"
-    - liés à **_vos_ cartes support**
-    - liés à des cartes support **que vous n'utilisez pas** (rare)
+- des évènements normaux...
+    - ... liés à **votre umamusume**
+    - ... liés à **_vos_ cartes support**
+    - ... liés à des cartes support **que vous n'utilisez pas** (moins fréquent)
+- ou des évènements "**chain events**"...
+    - ... liés à **_vos_ cartes support**
+    - ... liés à des cartes support **que vous n'utilisez pas** (rare)
 
 [![Image montrant 4 des 5 types d'events listés à l'instant](/assets/EarlyDays/Scen_Events.png)](/assets/EarlyDays/Scen_Events.png)
 
@@ -280,7 +280,7 @@ Pas la peine de vous embêter avec pour le moment, mais **sachez juste que ça e
 
 Les events normaux sont de simples rencontres et discussions avec d'autres umamusume, qui vont généralement vous **récompenser** avec des **stats**, et/ou un **skill** (non appris), et/ou un **changement d'humeur**, et/ou un **changement sur votre énergie**. Les events liés à votre umamusume sont similaires.
 
-Les **chain events** sont reconnaissable à leurs **flèches bleues** ▶️ ; il s'agit d'évènements que les cartes support SR et SSR peuvent déclencher, et qui ne peuvent se produire que **dans l'ordre**. D'abord l'évènement ▶️, puis l'évènement ▶️▶️ (le dernier pour les cartes SR), et enfin l'évènement ▶️▶️▶️ (le dernier pour les cartes SSR). Les cartes R n'ont pas de chain event. 
+Les **chain events** sont reconnaissable à leurs **flèches bleues** ▶️ ; il s'agit d'évènements que les cartes support SR et SSR peuvent déclencher aléatoirement, et qui ne peuvent se produire que **dans l'ordre**. D'abord l'évènement ▶️, puis l'évènement ▶️▶️ (le dernier pour les cartes SR), et enfin l'évènement ▶️▶️▶️ (le dernier pour les cartes SSR). Les cartes R n'ont pas de chain event. 
 
 Attention, il est tout à fait possible que vous terminiez une carrière sans qu'un chain event ne se soit terminé. En effet, bien que l'ordre des chain events est forcément ▶️ puis ▶️▶️ puis ▶️▶️▶️, **leur déclenchement reste aléatoire**.
 
@@ -292,7 +292,7 @@ Il existe aussi 2 (deux) cartes **SSR** sur JP qui n'ont qu'**un seul chain even
 
 :::
 
-La vaste majorité des chain events vous récompensent avec un **skill** (non appris) quand ils se terminent ; les cartes **SSR** peuvent vous donner un **skill gold** ou skill white, et les cartes **SR** vous donnent forcément un **skill white**. Certaines rare cartes SR -comme Marvelous Sunday wits SR- ne vous donnent pas de skill du tout à la fin de leur chain events. 
+La vaste majorité des chain events vous récompensent avec un **skill** (non appris) quand ils se terminent ; les cartes **SSR** peuvent vous donner un **skill gold** ou skill white, et les cartes **SR** vous donnent forcément un **skill white**. Certaines cartes SR -comme Marvelous Sunday wits SR- ne vous donnent pas de skill du tout à la fin de leur chain events. 
 
 #### 🌟 Si vous avez eu un event à choix après votre premier entrainement, c'est rarement une mauvaise idée de cliquer sur l'option du haut.
 
@@ -300,13 +300,13 @@ Certains events peuvent avoir une **récompense négative** (comme une baisse d'
 
 ::: tip Et après y'a Symboli Rudolf...
 
-Symboli Rudolf (spécifiquement elle) a quelques events à choix où l'option du haut réduit votre énergie 🙃
+Symboli Rudolf (spécifiquement elle) a quelques events à choix où l'option du haut réduit votre énergie 🙃 Ce n'est pas la seule.
 
 :::
 
 ## Gestion de votre énergie et votre humeur (mood)
 
-L'humeur de votre uma est représentée par une **pastille colorée**, à côté de votre jauge d'énergie. Il y a 5 niveau d'humeur possible, et vous commencez toujours la carrière à l'humeur **NORMAL**, qui n'affecte pas vos entrainements. Certains events (aléatoires ou scriptés) et des échecs d'entrainements peuvent induire une **baisse d'humeur**, qui va alors **réduire le gain de stats en entrainement**. Quand votre uma est au *pire* mood -AWFUL-, vous gagnez 20% de stats _**en moins**_ en entrainement. Si au contraire vous êtes au *meilleur* niveau d'humeur -GREAT-, **vous gagnez 20% de stats supplémentaires en entrainement**.
+L'humeur de votre uma est représentée par une **pastille colorée**, à côté de votre jauge d'énergie. Il y a 5 niveaux d'humeur possible, et vous commencez toujours la carrière à l'humeur **NORMAL**, qui n'affecte pas vos entrainements. Certains events (aléatoires ou scriptés) et des échecs d'entrainements peuvent induire une **baisse d'humeur**, qui va alors **réduire le gain de stats en entrainement**. Si votre uma est au *pire* mood -**AWFUL**-, votre gain de stats en entrainement est **réduit de 20%**. Si au contraire vous êtes au *meilleur* niveau d'humeur -GREAT-, **vous gagnez 20% de stats supplémentaires en entrainement**.
 
 Vous voulez donc toujours garder un oeil sur le mood de votre uma, et la maintenir à GREAT aussi longtemps que raisonnablement possible.
 
@@ -318,7 +318,7 @@ En début de carrière, il est recommandé d'essayer de **mettre le mood à GREA
 
 ![Image montrant une sortie avec Rice Shower, dans un temple, où elle a tiré une fortune "modeste"](/assets/EarlyDays/Scen_Outing.png)
 
-Si -comme moi- vous n'avez pas eu le karaoke (+2 mood up → GREAT), et qu'au tour suivant les entrainements ne sont toujours pas intéressants, vous pouvez faire un 2e recreation immédiatement pour mettre le mood à GREAT. Sinon, continuez à faire des entrainements sur les bons stacks, jusqu'à ce qu'une bonner opportunité pour un 2e recreation se présente.
+Si -comme moi- vous n'avez pas eu le karaoke (+2 mood up → GREAT), et qu'au tour suivant les entrainements ne sont toujours pas intéressants, vous pouvez faire un 2e recreation immédiatement pour mettre le mood à GREAT. Sinon, continuez à faire des entrainements sur les bons stacks, jusqu'à ce qu'une bonne opportunité pour un 2e recreation se présente.
 
 ::: tip J'ai un méthode simple pour décider quand faire un recreation en début de run
 
@@ -362,7 +362,7 @@ Il y'aura plein de moments dans le jeu où vous serez amenés à **gamble sur un
 
 Le premier objectif de votre uma, c'est de faire sa Debut Race, après 11 tours de jeu.
 
-**Votre** premier objectif, ou du moins votre priorité en tant que joueur·euse, c'est de monter la jauge de tous vos supports jusqu'à 80 points (sur 100). **Aussi vite que raisonnablement possibke possible**. Quand la jauge d'un support arrive à 80, **sa jauge devient alors orange**. Ça permet de faire du **friendship training** (généralement appelé "rainbow"), et c'est fondamental pour une bonne croissance de stats. On y reviendra très vite.
+**Votre** premier objectif, ou du moins votre priorité en tant que joueur·euse, c'est de monter la jauge de tous vos supports jusqu'à 80 points (sur 100). **Aussi vite que raisonnablement possible**. Quand la jauge d'un support arrive à 80, **elle devient alors orange**. Ça permet de faire du **friendship training** (généralement appelé "rainbow"), et c'est fondamental pour une bonne croissance de stats. On y reviendra très vite.
 
 Il y a 3 moyens de monter les jauges de vos cartes support : 
 - faire des **entrainements avec vos supports**
@@ -401,17 +401,17 @@ Autant dire que Charming est un buff très précieux.
 ::: tip Charming est encore très rare, même sur JP
 
 Les 3 principaux moyens d'obtenir -aléatoirement- Charming sont :
-- par **l'évènement aléatoire de votre uma** qui donne ce buff. **Toutes les uma en ont un**, mais c'est rare que l'event donne Charming
+- par **l'évènement aléatoire de votre uma** qui donne ce buff. **Toutes les uma en ont un**, et généralement il pop assez bien. Mais c'est rare que l'event donne _aussi_ Charming.
 - par un **évènement d'une carte support** qui peut le donner, comme les cartes basées sur **Nishino Flower** ou **Sweep Tosho**. Si l'évènement ce produit, vous pouvez obtenir Charming de manière **garantie en sélectionnant la bonne option**.
 - par l'évènement (rare) avec l'acupuncturiste Sasami Anshinzawa, **en sélectionnant la 4e option**. Cette option échoue rarement, et vous donnera **presque toujours le buff Charming**.
 
 :::
 
-Au début, vous aurez du mal à gérer les jauges de vos 6 supports, et c'est normal que pendant vos premières carrières ça vous prenne du temps. **Faites juste de votre mieux 👍🏾** 
+Au début, vous aurez du mal à gérer les jauges de vos 6 supports, et c'est normal que pendant vos premières carrières ça vous prenne du temps. **Faites juste de votre mieux !** Un bon repère à avoir, c'est que si vous arrivez au **premier Summer Camp** à la plage (on y revient plus tard) et que vos supports ne sont pas tous orange, alors vous vous y êtes mal pris, et vous allez vouloir ajuster la manière dont vous priorisez les entrainements lors de vos prochaines carrières 👍🏾 (parfois c'est aussi juste la RNG, ça arrive).
 
 La plupart des cartes support ont -de base- quelques points dans leur jauge d'amitié, au lancement d'une carrière. C'est un bonus appelé **Initial Friendship Gauge**, et qui accélère cette phase de "bonding" (augmentation du lien) où vous montez les jauges de vos supports. La plupart des cartes en ont au moins un peu.
 
-Au bout d'un moment, vous allez avoir un support qui atteint sa jauge orange, puis deux, et ainsi de suite. Et un support qui a sa jauge **orange**, peut faire du **friendship training**, communément appelé "**rainbow**". C'est important car quand un friendship training se produit, **le gain de stats est fortement augmenté** ; votre entrainement qui vous donne habituellement 13-14 speed là, il va commencer à donner **plus de 20 speed**, voire 30, quand vous avez des bons rainbow sur un gros stack. Et c'est parce qu'on veut **obtenir ces rainbows le plus vite possible** qu'on veut rapidement monter à 80 (orange) la jauge des cartes support.
+Au bout d'un moment, vous allez avoir un support qui atteint sa jauge orange, puis deux, et ainsi de suite. Et un support qui a sa jauge **orange**, peut faire du **friendship training**, communément appelé "**_rainbow_**". C'est important car quand un friendship training se produit, **le gain de stats est fortement augmenté** ; votre entrainement qui vous donne habituellement 13-14 speed là, il va commencer à donner **plus de 20 speed**, voire 30, quand vous avez des bons rainbow sur un gros stack. Et c'est parce qu'on veut **obtenir ces rainbows le plus vite possible** qu'on veut rapidement monter à 80 (orange) la jauge des cartes support.
 
 L'arrivée des entrainements rainbow va vous compliquer un peu la tâche pour savoir sur quoi cliquer, car vous devrez parfois prendre en compte la présence d'un rainbow pour décider sur quel stack cliquer.
 
@@ -427,4 +427,6 @@ Si par contre stack 2 est en **rainbow**, le gain de stat accru vient contre-bal
 
 ## Debut Race et inscription aux courses
 
-Après les 11 premiers tours de
+Après les 11 premiers tours de jeu, **votre uma participera enfin à sa Debut Race**, qui est aussi son premier objectif de carrière. Elle aura une dizaine d'autres objectifs après ça, à accomplir pendant le reste de la carrièère, et ces objectifs diffèrent pour chaque uma. Mais toutes les uma ont "participer à la Debut Race" comme premier objectif de carrière. C'est donc une **course obligatoire**.
+
+Quand vous arrivez sur un tour avec une **course obligatoire**, l'écran d'action change et n'affiche plus que les boutons "Skills" et "Race".
