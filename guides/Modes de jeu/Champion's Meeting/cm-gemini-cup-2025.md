@@ -628,7 +628,7 @@ Avant de décider de build une Front, rappelez-vous toujours la règle d’or de
 
 Si par miracle vous arrivez à avoir Groundwork sur une bonne run, l’obtention des greens n’est pas ouf pratique. **Standard Distance et Kyoto Racecourse sont facile à avoir**, mais le 3e peut être chiant à pick. C’est sans doute un cas où vous allez vouloir utiliser **Focus/Concentration comme 3e skill pour activer Groundwork**. Ou jouer avec Fine Motion wits SSR pour obtenir Right Handed (bon courage).
 
-### Ma uma fav a "G ou F End Closer", comment je fais pour avoir des wins ?
+#### Ma uma fav a "G ou F End Closer", comment je fais pour avoir des wins ?
 
 [![That's the neat part : you don't](/assets/Comp-PvP/The_Neat_Part_-_You_Dont.png)](/assets/Comp-PvP/The_Neat_Part_-_You_Dont.png)
 
@@ -674,7 +674,7 @@ Ce n'est PAS une liste ordonnée.
 - **Grass Wonder**. Dans les très rares cas où son accel gold s’active au moment idéal (sur les premiers 40m du late-race), elle gagne plus ou moins instantanément car elle aura 2x plus d’accel que Narita Taishin, et sera donc quasi incontestable. Probabilité que ça se produise : moins de 5%.
 - **Matikanefukukitaru**. Vivement son alt 😭
 
-### Et toi Yamakyu, c’est quoi ta team ?
+#### Et toi Yamakyu, c’est quoi ta team ?
 
 J’ai 3 options (2 et demi), et je ne sais pas encore sur quoi m’arrêter. Je vais manquer de temps, et comme je n’ai pas encore pu faire de rooms, j’ai peu d’éléments pertinents pour décider. Dans tous les cas, **je n’aurai qu’une seule uma ace, comme toujours : _Rice Shower_**.
 
