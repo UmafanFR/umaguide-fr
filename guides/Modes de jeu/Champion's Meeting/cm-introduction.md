@@ -30,13 +30,13 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ## Prochain PvP compétitif :
 
-### "Japanese Derby" - Champion's Meeting - le 21 Août 2025
+### "Tenno Sho Spring" - Champion's Meeting - mi-septembre 2025
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ [Champion's Meeting - **21 Août 2025** - Tokyo 2400m turf (Tokyo Yushun Japanese Derby)](./cm-taurus-cup-2025)
+⏩ [Champion's Meeting - **mi-Septembre** - Kyoto 3200m turf (Tenno Sho Spring)](./cm-gemini-cup-2025)
 
-> **À suivre :** Champion's Meeting - mi-Septembre 2025 - Kyoto 3200m turf (Tenno Sho Spring)
+> À suivre (non annoncé) : Champion's Meeting - début Octobre 2025 (?) - Tokyo 1600m turf (NHK Mile Cup)
 > *(recommandations à venir)*
 
 :::
