@@ -1,6 +1,6 @@
 ---
 title: Champion's Meeting - Taurus Cup 21 Août 2025 - Japanese Derby
-menuTitle: Taurus cup - 21/06/25
+menuTitle: Taurus cup - 22/08/25
 outline: [2, 3]
 description: Recommandations pour le Champion's Meeting (Taurus Cup), Tokyo 2400m, anti-horaire, firm, sunny
 order: 1
