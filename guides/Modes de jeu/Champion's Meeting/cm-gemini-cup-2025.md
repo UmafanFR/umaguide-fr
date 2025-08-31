@@ -255,7 +255,7 @@ Position keep prend fin au bout de la ligne droite côté gradins, et enchaine s
 
 Le late-race commence dans le continuité de la ligne droite opposée aux gradins, en **côte**. Le début de la phase d’accel est en **ligne droite**, et se poursuit sur le 3e corner, 170m plus loin. La phase d’accélération est **intégralement en côte**. Toutes les uma arrivent à vitesse maximum pendant le 3e corner (ou juste avant), au début de la **descente**, et peuvent donc bénéficier du boost de vitesse si elles passent le wits check. À partir de là, c’est ***environ 800m*** à pleine vitesse, sur le final corner et le final straight (côté gradins).
 
-- Les End Closer vont absolument vouloir utiliser l’accel **Straightaway Adept**, qui s’active avec un **timing parfait** sur cette course.
+- Les End Closer vont absolument vouloir utiliser l’accel **Straightaway Spurt**, qui s’active avec un **timing parfait** sur cette course.
 - **Toutes les accels de corner sont mauvaises**. Pas d’exception. Les backlines peuvent cope avec l’accel de Mejiro Ryan, et les Front peuvent cope avec l’accel de Seiun Sky, mais le timing très tardif laisse à désirer, et vous aurez un meilleur usage de ces skill points ailleurs (davantage de recovery) par exemple.
 - L’accel Nimble Navigator / No Stopping Me peut **parfois** être bonne dans cette course, à condition qu’elle s’active dans les 170m de ligne droite avant le 3e corner. Si elle s’active au 3e corner, vous êtes sans doute (?) bloqué pour de vrai. Ne la prenez pas pour les Front Runner.
 - Les skills de **vitesse en corner** peuvent être utile s’ils s’activent s’activent **tard dans le 3e corner**, car une partie du 3e corner sera en accel.
@@ -353,7 +353,7 @@ Bref, voici un rapide rappel des gold recovery disponible sur des cartes support
 | --- | --- | --- | --- |
 | Swinging Maestro | Super Creek stam SSR | Tout le monde | Parfaitement fiable. |
 | Cooldown | Mejiro McQueen stam SSR (gratuite) | Tout le monde | 50% fiable 💀 |
-| Breath of Fresh Air | El Condor Pasa power SSR // Scenario URA (aléatoire) | Tout le monde | 50% fiable 💀 |
+| Breath of Fresh Air | Vodka power SSR // Scenario URA (aléatoire) | Tout le monde | 50% fiable 💀 |
 | Gourmand | Special Week speed SSR | Pace Chasers | Parfaitement fiable. |
 | Iron Will | Satono Diamond stam SSR // Scenario URA | ~~Personne~~ End Closer | Copium, mais vu qu’il y aura pas mal d'End Closer, y’a une chance d’activation. |
 | Unruffled | Haru Urara guts SSR,  Matikanetannhauser guts SSR | ~~Personne~~ End Closer | Utiliser une carte guts sur Haruten 2025 💀 |
