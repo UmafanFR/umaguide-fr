@@ -601,6 +601,12 @@ C’est pas parce que je dédie une partie entière à des uma de soutien que vo
     - _Comment faire_ : mettez une Urara **spécifiquement Front Runner** dans la course. C’est tout. Ca marchera s’il n’y pas d’autre Front dans votre course, donc ça requiert de la chance.
     - _Comment ça peut backfire_ : si tout le monde économise une gold recovery worth of HP, tout le monde peut se permettre de foirer l’activation d’une gold recovery et quand même gagner la course. Donc votre Urara Front **facilite la tâche de tout le monde**. De plus, comme elle tombera en 9e place, **elle gênera votre Gold Ship et/ou votre Taishin**, de la même manière que décrit plus haut.
 
+::: warning Cela dit
+
+D'après les vétérans de la version JP, il semble que les deux astuces impliquant Haru Urara n'étaient **pas très utilisées à l'époque sur la version JP**. Sur la version globale on en parle beaucoup dans la commu, mais il est possible que les joueur·euse·s JP étaient arrivés à la conclusion que ça n'en valait **pas forcément la peine** ?
+
+:::
+
 - **Sacrificial Front Runner**. Une sacrificial Front Runner peut servir à *plein de choses*. Déjà, si elle a A turf (ou même B), elle **bloque la stratégie avec Urara Front**, car votre sacrificial Front sera une **meneuse plus capable**, et tout le monde basera sa vitesse sur elle. Pour la même raison, une sacrificial Front empêche aussi une Pace Chaser de devenir meneuse, ce qui vous est bénéfique car **les Pace qui deviennent meneuse sont parfois des menaces**. Une sacrificial Front peut aussi être une **cible à dépasser** si vous voulez faciliter l’activation du skill unique (ou d’un unique hérité) de votre ace en fin de course. Vous pouvez booster wits et power, et donner à votre sacrificial Front beaucoup de skills de mid-race, pour qu’elle **invalide une éventuelle autre Front Runner ace ennemie**, qui tenterai de rester 1e. En effet, de manière générale, la seule Front qui a une chance de gagner une course, c’est **la Front en 1e position**. Votre sacrificial Front peut aussi servir à motiver votre Front ace, mais c’est **difficile à équilibrer**, et parfois elle lui volera la 1e place et l’éliminera de la course.
     - _Comment faire_ : pas de généralité car une sacrificial Front peut avoir beaucoup d’objectifs, mais c’est rarement une mauvaise idée de lui donner beaucoup de power et de wits. Ca l’aide à rester en 1e position en mid-race plus longtemps.
     - _Comment ça peut backfire_ : pas de généralité car une sacrificial Front fait trop de choses. Mais par exemple, votre Pace peut échouer à la dépasser en fin de mid-race. Ou alors votre ace Front peut finir 2e et donc être éliminée de la course. Etc.
@@ -703,17 +709,19 @@ Cette configuration mise sur le fait que **les Late sont juste plus fortes que l
 
 ⏩ _Rice Shower Late + 2 sacrificial Front de qualité_
 
-Quasiment la même chose que plus haut, mais j’embête pas les Narita Golshin. Par contre, avec 2 sacrificial Front de qualité, ce qui me donne une opportunité pour distancer davantage les Narita Golshin... à condition d’être **stacked en skills de mid-race**. Avec mon deck il m’est possible d’**obtenir les 4 <distance/stratégie> <straightaway/corners>**, et si c’est le cas ma Rice Late pourra sans doute prendre une jolie avance sur les Narita Golshin en mid-race, et hopefully commencer le late-race en étant bien positionnée. C’est une stratégie qui requiert de **high roll**, et que j’aurai sans doute du mal à mettre en place.
+Quasiment la même chose que plus haut, mais j’embête pas les Narita Golshin. Par contre, avec 2 sacrificial Front de qualité la taille du peloton s'allonge un peu, ce qui me donne une opportunité pour distancer davantage les Narita Golshin... à condition d’être **stacked en skills de mid-race**. Avec mon deck il m’est possible d’**obtenir les 4 <distance/stratégie> <straightaway/corners>**, et si c’est le cas ma Rice Late pourra sans doute prendre une jolie avance sur les Narita Golshin en mid-race, et hopefully commencer le late-race en étant bien positionnée. C’est une stratégie qui requiert de **high roll**, et que j’aurai sans doute du mal à mettre en place.
 
 :::: tip Devinette pas évidente
 
 En quoi le fait d'avoir 2 Front de qualité augmente légèrement la longueur du peloton ? Et en quoi ça peut m'être utile ? C'est un peu tiré par les cheveux, et directement lié au fonctionnement de Position Keep.
 
-::: details Si vous avez pu intuiter ceci (même vaguement), bravo, vous commencez à comprendre Position Keep 👏🏿
+::: details Si vous avez pu intuiter ceci (même très vaguement), bravo, vous commencez à comprendre Position Keep 👏🏿
 
-2+ Front Runner de qualité qui s'affrontent en course vont vouloir se bagarrer pour prendre et garder la 1e place. Ca veut dire qu'elles vont successivement essayer de roll des **boosts de vitesse** (wits), exactement comme les autres uma non Front (quand il y a une seule Front c'est pas le cas, mais c'est un système un peu différent). De fait, chaque fois que la Front X va vouloir rattraper la Front Y, elle va augmenter sa vitesse, et **la dépasser**. Sur ce dépassement, **Y n'a pas ralenti**, c'est bien **X** qui est allé **plus vite**. De fait, par ce dépassement, **X avance devant Y**, qui était la meneuse du peloton, donc **X avance _devant le maximum_ du peloton**. 
+2+ Front Runner de qualité qui s'affrontent en course vont se bagarrer pour prendre et garder la 1e place. Ça veut dire qu'elles vont successivement essayer de roll des **boosts de vitesse** (wits), exactement comme les autres uma non Front (quand il y a une seule Front c'est pas le cas, mais c'est un système un peu différent). De fait, chaque fois que la Front X va vouloir rattraper la Front Y, elle va augmenter sa vitesse, et **la dépasser**. Sur ce dépassement, **Y n'a pas ralenti** (enfin, c'est possible, mais pas forcément le cas général), c'est bien **X** qui est allé **plus vite**. De fait, par ce dépassement, **X avance devant Y**, qui était la meneuse du peloton.
 
-La répétition de ces dépassements entre X et Y pousse le peloton vers l'avant, et **l'élargis un peu** (par rapport à une course avec une seule Front). Toutes les autres uma vont donc vouloir **corriger leur position** pour rester à la distance qui les arrange, et **avancer légèrement**, petit à petit (l'inverse de quand Urara Front est trop à l'arrière, essentiellement). C'est une bonne opportunité pour gagner du terrain sur ses adversaires _**SI**_ on a une supériorité en **wits** et en **skills**, car en élargissant le peloton, les Front éloignent aussi légèrement le "point idéal" à laquelle votre uma veut se positionner. Et ça lui permet d'avancer davantage.
+Autrement dit, **X avance _devant le maximum_ du peloton**. 
+
+La répétition de ces dépassements entre X et Y pousse le peloton vers l'avant, et **l'élargis un peu** (par rapport à une course avec une seule Front). Toutes les autres uma vont donc vouloir **corriger leur position** pour rester à la distance qui les arrange (une certaine distance derrière la meneuse), et **avancer légèrement**, petit à petit (l'inverse de quand Urara Front est trop à l'arrière, essentiellement). C'est une bonne opportunité pour gagner du terrain sur ses adversaires, _**SI**_ on a une supériorité en **wits** et en **skills**. En effet, en élargissant le peloton, les Front éloignent aussi légèrement le "point idéal" à laquelle votre uma veut se positionner. Et ça lui permet d'avancer davantage.
 
 L'inverse se produit quand vous jouez une Pace (par exemple) avec une seule Front ; comme la Front ne pousse pas beaucoup à l'avant du Peloton, la Pace peut facilement dépasser son "point idéal", et se dire "mince, je suis trop à l'avant", et ralentir. Ça n'arrive pas trop si à la place d'une seule Front il y'en a 2, et qu'elles essaient constamment d'avancer plus loin.
 
@@ -725,7 +733,7 @@ Oui, c'est un énorme gamble difficile à contrôler et qui marchera jamais dans
 
 ::::
 
-Réalistiquement, comme je vais sans doute manquer de temps pour préparer ce CM, je vais sans doute favoriser la 2e option, avec **Rice Late**. L’inconvénient c’est que ça requiert 4* Late en sparks, donc 4* en moins pour des sparks Long 🥲
+Comme je vais sans doute manquer de temps pour préparer ce CM, je vais sans doute favoriser la 2e option, avec **Rice Late**. L’inconvénient c’est que ça requiert 4* Late en sparks, donc 4* en moins pour des sparks Long 🥲
 
 Souhaitez moi bonne chance et je vous souhaite bonne chance en retour 🌟
 
