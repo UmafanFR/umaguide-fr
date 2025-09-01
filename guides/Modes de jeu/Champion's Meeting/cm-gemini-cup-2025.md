@@ -1,6 +1,6 @@
 ---
 title: Champion's Meeting - Gemini Cup mi-Septembre 2025 - Tenno Sho Spring
-menuTitle: Gemini cup - ??/09/25
+menuTitle: Gemini cup - 12/09/25
 outline: [2, 3]
 description: Recommandations pour le Champion's Meeting (Gemini Cup), Kyoto 3200, sens horaire, firm, sunny
 order: 1
@@ -12,7 +12,7 @@ N’hésitez pas à faire des retours, pour signaler des oublis de choses import
 
 :::
 
-# Préparation au Champion's Meeting #02 du ?? Septembre 2025 - Tenno Sho Spring (Kyoto 3200m)
+# Préparation au Champion's Meeting #02 du 12 Septembre 2025 - Tenno Sho Spring (Kyoto 3200m)
 
 Ces recommandations ont pour but de vous aider à faire des entrainements **spécialisés**, afin d’obtenir des builds **dédiées à la course du CM**, et qui tire le meilleur parti de ses spécificités. En PvP compétitif, la course et son agencement sont connus, donc vous pouvez **sélectionner vos uma et vos skills avec précision**, afin de faire pencher la balance en votre faveur. Ces recommandations sont des tas de **petites optimisations**, et c’est à vous de voir quelles optimisations vous décidez de prendre en compte (car chaque optimisation vous coute du temps, de l’attention et de l’énergie, et votre santé mentale a plus d’importance que Umamusume 😌).
 
@@ -369,7 +369,7 @@ Une **abondance de toutes les stats** est fortement désirable pour la course (d
     
 ::: tip Clarification
 
-Si je vous ai un jour parlé du fait que l’élévation globale de la course monte (moins de descentes que de côtes), au lieu d’être stable (autant de côtes que de descentes), sachez que **ce n’est pas encore le cas !** C’est le cas sur JP, et ce sera le cas pour nous aussi après l’update "1st anniversary" (ou bien 1.5th anni, je sais plsu). Mais pour le moment les côtes et descentes sont **parfaitement équilibrées** sur Haruten 👌🏿.
+Si je vous ai un jour parlé du fait que l’élévation globale de la course monte (moins de descentes que de côtes), au lieu d’être stable (autant de côtes que de descentes), sachez que **ce n’est pas encore le cas !** C’est le cas sur JP, et ce sera le cas pour nous aussi après l’update "1st anniversary" (ou bien 1.5th anni, je sais plus). Mais pour le moment les côtes et descentes sont **parfaitement équilibrées** sur Haruten 👌🏿.
 
 :::
     
@@ -743,8 +743,8 @@ J’ai beau avoir les connaissances pour theorycraft ce genre de shenanigans/man
 
 # Voilà
 
-Bon courage tout le monde pour votre préparation au Champion's Meeting ! Pour le moment on ne connait pas la date exacte de l’évènement. Ce post sera mis à jour en temps voulu !
+Bon courage tout le monde pour votre préparation au Champion's Meeting ! Pour rappel, l'inscription et le **choix de league** pour le Champion's Meeting commencera le **lundi 8 septembre**, et l'évènement en lui même devrait commencer le **12 septembre**.
 
-Si vous avez besoin d’un rappel sur le fonctionnement même du Champion’s Meeting, [c’est par ici !](https://umaguide.fr/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction)
+Si vous avez besoin d’un rappel sur le fonctionnement même du Champion’s Meeting, et pourquoi faire attention à votre choix de league est *hyper important* [c’est par ici !](https://umaguide.fr/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction)
 
 Bonne chance !

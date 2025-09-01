@@ -6,7 +6,7 @@ description: Fonctionnement détaillé et recommandations pour l'évènement PvP
 order: 0
 ---
 
-::: warning  ⚠️ Si vous aviez lu ce post AVANT le début du 1e Champion's Meeting ⚠️
+::: warning  ⚠️ Si vous aviez lu ce post AVANT le début du 1e Champion's Meeting -Taurus Cup- ⚠️
 
 Les infos sur l'**accès à la finale** ainsi que les **récompenses de la finale** étaient malheureusement **incorrectes**. Désolé pour le désagrément, j'ignorais que le Champion's Meeting avait été buffé sur la JP.
 
@@ -30,11 +30,11 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ## Prochain PvP compétitif :
 
-### "Tenno Sho Spring" - Champion's Meeting - mi-septembre 2025
+### Gemini Cup - "Tenno Sho Spring" - Champion's Meeting - 12 septembre 2025
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ [Champion's Meeting - **mi-Septembre** - Kyoto 3200m turf (Tenno Sho Spring)](./cm-gemini-cup-2025)
+⏩ [Champion's Meeting Cancer Cup - **12 Septembre** - Kyoto 3200m turf (Tenno Sho Spring)](./cm-gemini-cup-2025)
 
 > À suivre (non annoncé) : Champion's Meeting - début Octobre 2025 (?) - Tokyo 1600m turf (NHK Mile Cup)
 > *(recommandations à venir)*
