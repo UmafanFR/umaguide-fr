@@ -1,6 +1,6 @@
 ---
 title: Champion's Meeting - Gemini Cup mi-Septembre 2025 - Tenno Sho Spring
-menuTitle: Gemini cup - ??/09/25
+menuTitle: Gemini cup - 12/09/25
 outline: [2, 3]
 description: Recommandations pour le Champion's Meeting (Gemini Cup), Kyoto 3200, sens horaire, firm, sunny
 order: 1
@@ -12,7 +12,7 @@ N’hésitez pas à faire des retours, pour signaler des oublis de choses import
 
 :::
 
-# Préparation au Champion's Meeting #02 du ?? Septembre 2025 - Tenno Sho Spring (Kyoto 3200m)
+# Préparation au Champion's Meeting #02 du 12 Septembre 2025 - Tenno Sho Spring (Kyoto 3200m)
 
 Ces recommandations ont pour but de vous aider à faire des entrainements **spécialisés**, afin d’obtenir des builds **dédiées à la course du CM**, et qui tire le meilleur parti de ses spécificités. En PvP compétitif, la course et son agencement sont connus, donc vous pouvez **sélectionner vos uma et vos skills avec précision**, afin de faire pencher la balance en votre faveur. Ces recommandations sont des tas de **petites optimisations**, et c’est à vous de voir quelles optimisations vous décidez de prendre en compte (car chaque optimisation vous coute du temps, de l’attention et de l’énergie, et votre santé mentale a plus d’importance que Umamusume 😌).
 
@@ -255,7 +255,7 @@ Position keep prend fin au bout de la ligne droite côté gradins, et enchaine s
 
 Le late-race commence dans le continuité de la ligne droite opposée aux gradins, en **côte**. Le début de la phase d’accel est en **ligne droite**, et se poursuit sur le 3e corner, 170m plus loin. La phase d’accélération est **intégralement en côte**. Toutes les uma arrivent à vitesse maximum pendant le 3e corner (ou juste avant), au début de la **descente**, et peuvent donc bénéficier du boost de vitesse si elles passent le wits check. À partir de là, c’est ***environ 800m*** à pleine vitesse, sur le final corner et le final straight (côté gradins).
 
-- Les End Closer vont absolument vouloir utiliser l’accel **Straightaway Adept**, qui s’active avec un **timing parfait** sur cette course.
+- Les End Closer vont absolument vouloir utiliser l’accel **Straightaway Spurt**, qui s’active avec un **timing parfait** sur cette course.
 - **Toutes les accels de corner sont mauvaises**. Pas d’exception. Les backlines peuvent cope avec l’accel de Mejiro Ryan, et les Front peuvent cope avec l’accel de Seiun Sky, mais le timing très tardif laisse à désirer, et vous aurez un meilleur usage de ces skill points ailleurs (davantage de recovery) par exemple.
 - L’accel Nimble Navigator / No Stopping Me peut **parfois** être bonne dans cette course, à condition qu’elle s’active dans les 170m de ligne droite avant le 3e corner. Si elle s’active au 3e corner, vous êtes sans doute (?) bloqué pour de vrai. Ne la prenez pas pour les Front Runner.
 - Les skills de **vitesse en corner** peuvent être utile s’ils s’activent s’activent **tard dans le 3e corner**, car une partie du 3e corner sera en accel.
@@ -353,7 +353,7 @@ Bref, voici un rapide rappel des gold recovery disponible sur des cartes support
 | --- | --- | --- | --- |
 | Swinging Maestro | Super Creek stam SSR | Tout le monde | Parfaitement fiable. |
 | Cooldown | Mejiro McQueen stam SSR (gratuite) | Tout le monde | 50% fiable 💀 |
-| Breath of Fresh Air | El Condor Pasa power SSR // Scenario URA (aléatoire) | Tout le monde | 50% fiable 💀 |
+| Breath of Fresh Air | Vodka power SSR // Scenario URA (aléatoire) | Tout le monde | 50% fiable 💀 |
 | Gourmand | Special Week speed SSR | Pace Chasers | Parfaitement fiable. |
 | Iron Will | Satono Diamond stam SSR // Scenario URA | ~~Personne~~ End Closer | Copium, mais vu qu’il y aura pas mal d'End Closer, y’a une chance d’activation. |
 | Unruffled | Haru Urara guts SSR,  Matikanetannhauser guts SSR | ~~Personne~~ End Closer | Utiliser une carte guts sur Haruten 2025 💀 |
@@ -369,7 +369,7 @@ Une **abondance de toutes les stats** est fortement désirable pour la course (d
     
 ::: tip Clarification
 
-Si je vous ai un jour parlé du fait que l’élévation globale de la course monte (moins de descentes que de côtes), au lieu d’être stable (autant de côtes que de descentes), sachez que **ce n’est pas encore le cas !** C’est le cas sur JP, et ce sera le cas pour nous aussi après l’update "1st anniversary" (ou bien 1.5th anni, je sais plsu). Mais pour le moment les côtes et descentes sont **parfaitement équilibrées** sur Haruten 👌🏿.
+Si je vous ai un jour parlé du fait que l’élévation globale de la course monte (moins de descentes que de côtes), au lieu d’être stable (autant de côtes que de descentes), sachez que **ce n’est pas encore le cas !** C’est le cas sur JP, et ce sera le cas pour nous aussi après l’update "1st anniversary" (ou bien 1.5th anni, je sais plus). Mais pour le moment les côtes et descentes sont **parfaitement équilibrées** sur Haruten 👌🏿.
 
 :::
     
@@ -601,6 +601,12 @@ C’est pas parce que je dédie une partie entière à des uma de soutien que vo
     - _Comment faire_ : mettez une Urara **spécifiquement Front Runner** dans la course. C’est tout. Ca marchera s’il n’y pas d’autre Front dans votre course, donc ça requiert de la chance.
     - _Comment ça peut backfire_ : si tout le monde économise une gold recovery worth of HP, tout le monde peut se permettre de foirer l’activation d’une gold recovery et quand même gagner la course. Donc votre Urara Front **facilite la tâche de tout le monde**. De plus, comme elle tombera en 9e place, **elle gênera votre Gold Ship et/ou votre Taishin**, de la même manière que décrit plus haut.
 
+::: warning Cela dit
+
+D'après les vétérans de la version JP, il semble que les deux astuces impliquant Haru Urara n'étaient **pas très utilisées à l'époque sur la version JP**. Sur la version globale on en parle beaucoup dans la commu, mais il est possible que les joueur·euse·s JP étaient arrivés à la conclusion que ça n'en valait **pas forcément la peine** ?
+
+:::
+
 - **Sacrificial Front Runner**. Une sacrificial Front Runner peut servir à *plein de choses*. Déjà, si elle a A turf (ou même B), elle **bloque la stratégie avec Urara Front**, car votre sacrificial Front sera une **meneuse plus capable**, et tout le monde basera sa vitesse sur elle. Pour la même raison, une sacrificial Front empêche aussi une Pace Chaser de devenir meneuse, ce qui vous est bénéfique car **les Pace qui deviennent meneuse sont parfois des menaces**. Une sacrificial Front peut aussi être une **cible à dépasser** si vous voulez faciliter l’activation du skill unique (ou d’un unique hérité) de votre ace en fin de course. Vous pouvez booster wits et power, et donner à votre sacrificial Front beaucoup de skills de mid-race, pour qu’elle **invalide une éventuelle autre Front Runner ace ennemie**, qui tenterai de rester 1e. En effet, de manière générale, la seule Front qui a une chance de gagner une course, c’est **la Front en 1e position**. Votre sacrificial Front peut aussi servir à motiver votre Front ace, mais c’est **difficile à équilibrer**, et parfois elle lui volera la 1e place et l’éliminera de la course.
     - _Comment faire_ : pas de généralité car une sacrificial Front peut avoir beaucoup d’objectifs, mais c’est rarement une mauvaise idée de lui donner beaucoup de power et de wits. Ca l’aide à rester en 1e position en mid-race plus longtemps.
     - _Comment ça peut backfire_ : pas de généralité car une sacrificial Front fait trop de choses. Mais par exemple, votre Pace peut échouer à la dépasser en fin de mid-race. Ou alors votre ace Front peut finir 2e et donc être éliminée de la course. Etc.
@@ -703,17 +709,19 @@ Cette configuration mise sur le fait que **les Late sont juste plus fortes que l
 
 ⏩ _Rice Shower Late + 2 sacrificial Front de qualité_
 
-Quasiment la même chose que plus haut, mais j’embête pas les Narita Golshin. Par contre, avec 2 sacrificial Front de qualité, ce qui me donne une opportunité pour distancer davantage les Narita Golshin... à condition d’être **stacked en skills de mid-race**. Avec mon deck il m’est possible d’**obtenir les 4 <distance/stratégie> <straightaway/corners>**, et si c’est le cas ma Rice Late pourra sans doute prendre une jolie avance sur les Narita Golshin en mid-race, et hopefully commencer le late-race en étant bien positionnée. C’est une stratégie qui requiert de **high roll**, et que j’aurai sans doute du mal à mettre en place.
+Quasiment la même chose que plus haut, mais j’embête pas les Narita Golshin. Par contre, avec 2 sacrificial Front de qualité la taille du peloton s'allonge un peu, ce qui me donne une opportunité pour distancer davantage les Narita Golshin... à condition d’être **stacked en skills de mid-race**. Avec mon deck il m’est possible d’**obtenir les 4 <distance/stratégie> <straightaway/corners>**, et si c’est le cas ma Rice Late pourra sans doute prendre une jolie avance sur les Narita Golshin en mid-race, et hopefully commencer le late-race en étant bien positionnée. C’est une stratégie qui requiert de **high roll**, et que j’aurai sans doute du mal à mettre en place.
 
 :::: tip Devinette pas évidente
 
 En quoi le fait d'avoir 2 Front de qualité augmente légèrement la longueur du peloton ? Et en quoi ça peut m'être utile ? C'est un peu tiré par les cheveux, et directement lié au fonctionnement de Position Keep.
 
-::: details Si vous avez pu intuiter ceci (même vaguement), bravo, vous commencez à comprendre Position Keep 👏🏿
+::: details Si vous avez pu intuiter ceci (même très vaguement), bravo, vous commencez à comprendre Position Keep 👏🏿
 
-2+ Front Runner de qualité qui s'affrontent en course vont vouloir se bagarrer pour prendre et garder la 1e place. Ca veut dire qu'elles vont successivement essayer de roll des **boosts de vitesse** (wits), exactement comme les autres uma non Front (quand il y a une seule Front c'est pas le cas, mais c'est un système un peu différent). De fait, chaque fois que la Front X va vouloir rattraper la Front Y, elle va augmenter sa vitesse, et **la dépasser**. Sur ce dépassement, **Y n'a pas ralenti**, c'est bien **X** qui est allé **plus vite**. De fait, par ce dépassement, **X avance devant Y**, qui était la meneuse du peloton, donc **X avance _devant le maximum_ du peloton**. 
+2+ Front Runner de qualité qui s'affrontent en course vont se bagarrer pour prendre et garder la 1e place. Ça veut dire qu'elles vont successivement essayer de roll des **boosts de vitesse** (wits), exactement comme les autres uma non Front (quand il y a une seule Front c'est pas le cas, mais c'est un système un peu différent). De fait, chaque fois que la Front X va vouloir rattraper la Front Y, elle va augmenter sa vitesse, et **la dépasser**. Sur ce dépassement, **Y n'a pas ralenti** (enfin, c'est possible, mais pas forcément le cas général), c'est bien **X** qui est allé **plus vite**. De fait, par ce dépassement, **X avance devant Y**, qui était la meneuse du peloton.
 
-La répétition de ces dépassements entre X et Y pousse le peloton vers l'avant, et **l'élargis un peu** (par rapport à une course avec une seule Front). Toutes les autres uma vont donc vouloir **corriger leur position** pour rester à la distance qui les arrange, et **avancer légèrement**, petit à petit (l'inverse de quand Urara Front est trop à l'arrière, essentiellement). C'est une bonne opportunité pour gagner du terrain sur ses adversaires _**SI**_ on a une supériorité en **wits** et en **skills**, car en élargissant le peloton, les Front éloignent aussi légèrement le "point idéal" à laquelle votre uma veut se positionner. Et ça lui permet d'avancer davantage.
+Autrement dit, **X avance _devant le maximum_ du peloton**. 
+
+La répétition de ces dépassements entre X et Y pousse le peloton vers l'avant, et **l'élargis un peu** (par rapport à une course avec une seule Front). Toutes les autres uma vont donc vouloir **corriger leur position** pour rester à la distance qui les arrange (une certaine distance derrière la meneuse), et **avancer légèrement**, petit à petit (l'inverse de quand Urara Front est trop à l'arrière, essentiellement). C'est une bonne opportunité pour gagner du terrain sur ses adversaires, _**SI**_ on a une supériorité en **wits** et en **skills**. En effet, en élargissant le peloton, les Front éloignent aussi légèrement le "point idéal" à laquelle votre uma veut se positionner. Et ça lui permet d'avancer davantage.
 
 L'inverse se produit quand vous jouez une Pace (par exemple) avec une seule Front ; comme la Front ne pousse pas beaucoup à l'avant du Peloton, la Pace peut facilement dépasser son "point idéal", et se dire "mince, je suis trop à l'avant", et ralentir. Ça n'arrive pas trop si à la place d'une seule Front il y'en a 2, et qu'elles essaient constamment d'avancer plus loin.
 
@@ -725,7 +733,7 @@ Oui, c'est un énorme gamble difficile à contrôler et qui marchera jamais dans
 
 ::::
 
-Réalistiquement, comme je vais sans doute manquer de temps pour préparer ce CM, je vais sans doute favoriser la 2e option, avec **Rice Late**. L’inconvénient c’est que ça requiert 4* Late en sparks, donc 4* en moins pour des sparks Long 🥲
+Comme je vais sans doute manquer de temps pour préparer ce CM, je vais sans doute favoriser la 2e option, avec **Rice Late**. L’inconvénient c’est que ça requiert 4* Late en sparks, donc 4* en moins pour des sparks Long 🥲
 
 Souhaitez moi bonne chance et je vous souhaite bonne chance en retour 🌟
 
@@ -743,8 +751,8 @@ J’ai beau avoir les connaissances pour theorycraft ce genre de shenanigans/man
 
 # Voilà
 
-Bon courage tout le monde pour votre préparation au Champion's Meeting ! Pour le moment on ne connait pas la date exacte de l’évènement. Ce post sera mis à jour en temps voulu !
+Bon courage tout le monde pour votre préparation au Champion's Meeting ! Pour rappel, l'inscription et le **choix de league** pour le Champion's Meeting commencera le **lundi 8 septembre**, et l'évènement en lui même devrait commencer le **12 septembre**.
 
-Si vous avez besoin d’un rappel sur le fonctionnement même du Champion’s Meeting, [c’est par ici !](https://umaguide.fr/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction)
+Si vous avez besoin d’un rappel sur le fonctionnement même du Champion’s Meeting, et pourquoi faire attention à votre choix de league est *hyper important* [c’est par ici !](https://umaguide.fr/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction)
 
 Bonne chance !
