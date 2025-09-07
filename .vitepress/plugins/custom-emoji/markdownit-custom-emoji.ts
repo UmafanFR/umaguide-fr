@@ -2,7 +2,7 @@ import type MarkdownIt from 'markdown-it';
 type RuleInline = (state: any, silent: boolean) => boolean;
 
 // ------------------ Defaults ------------------
-const DEFAULT_BASE_PUBLIC_PATH = '/assets/custom-emoji/';
+const DEFAULT_BASE_PUBLIC_PATH = '/assets/';
 const DEFAULT_CLASS_NAME = 'custom-emoji';
 const DEFAULT_MAX_NAME_LEN = 64;
 const DEFAULT_ALLOWED_EXTS = ['svg', 'png', 'webp', 'gif'] as const;
@@ -10,7 +10,7 @@ const DEFAULT_ALLOWED_EXTS = ['svg', 'png', 'webp', 'gif'] as const;
 export interface CustomEmojiOptions {
   /** Map { name -> filename } Required. */
   map: Record<string, string>;
-  /** Prefix applied to the filename (public folder), e.g. "/assets/custom-emoji/" */
+  /** Prefix applied to the filename (public folder), e.g. "/assets/" */
   basePublicPath?: string; // default: "/assets/custom-emoji/"
   /** CSS class applied to <img> */
   className?: string; // default: "custom-emoji"
@@ -26,55 +26,93 @@ function normalizeBase(base: string): string {
 
 function hasAllowedExtension(file: string, allowed: ReadonlyArray<string>): boolean {
   const idx = file.lastIndexOf('.');
-  if (idx <= 0 || idx === file.length - 1) return false; // no extension or trailing '.'
+  if (idx <= 0 || idx === file.length - 1) return false;
   const ext = file.slice(idx + 1).toLowerCase();
   return allowed.includes(ext);
+}
+// When ":" is found we check surrounded, we accept these characters
+function isBoundary(ch: number | undefined): boolean {
+  if (ch === undefined) return true;
+  return (
+    ch <= 0x20 || // espace/contrôles
+    ch === 0x2d || // -
+    ch === 0x21 || // !
+    ch === 0x2c || // ,
+    ch === 0x2e || // .
+    ch === 0x3b || // ;
+    ch === 0x3f || // ?
+    ch === 0x28 ||
+    ch === 0x29 || // ( )
+    ch === 0x5b ||
+    ch === 0x5d || // [ ]
+    ch === 0x7b ||
+    ch === 0x7d // { }
+  );
 }
 
 function makeRule(
   map: Record<string, string>,
   opts: Required<Omit<CustomEmojiOptions, 'map'>>
 ): RuleInline {
+  // Build Emotes
+  const lowerMap = Object.fromEntries(Object.entries(map).map(([k, v]) => [k.toLowerCase(), v]));
+
+  // Allowing characters for emotes
+  const NAME_RE = /^[A-Za-z0-9+_-]{1,64}$/;
+
   return function (state, silent) {
     const src = state.src;
-    const pos = state.pos;
+    let pos = state.pos;
     const max = state.posMax;
-    const lowerMap = Object.fromEntries(Object.entries(map).map(([k, v]) => [k.toLowerCase(), v]));
 
-    if (src.charCodeAt(pos) !== 0x3a) return false; // must start with ':'
+    // Start with ":"
+    if (src.charCodeAt(pos) !== 0x3a) return false;
+
+    // Checking left ":" Boundaries
+    const prevCh = pos > 0 ? src.charCodeAt(pos - 1) : undefined;
+    if (!isBoundary(prevCh)) return false;
 
     const nameStart = pos + 1;
-    if (nameStart >= max) return false; // ':' at end of line
+    if (nameStart >= max) return false;
 
-    const end = src.indexOf(':', nameStart);
-    if (end === -1) return false; // no closing ':'
+    // Scan next ":"
+    let end = nameStart;
+    let found = false;
+    while (end < max) {
+      if (src.charCodeAt(end) === 0x3a) {
+        found = true;
+        break;
+      }
+      end++;
+    }
+    if (!found) return false;
 
-    const nameLen = end - nameStart;
-    if (nameLen <= 0 || nameLen > opts.maxNameLen) return false; // empty or too long
+    const rawName = src.slice(nameStart, end);
+    if (!NAME_RE.test(rawName) || rawName.length > opts.maxNameLen) return false;
 
-    const name = src.slice(nameStart, end).toLowerCase();
+    // Checking right enclosing ":" Boundary
+    const nextCh = end + 1 < max ? src.charCodeAt(end + 1) : undefined;
+    if (!isBoundary(nextCh)) return false;
+
+    const name = rawName.toLowerCase();
     const file = lowerMap[name];
-    if (!file) return false; // not found → keep text
+    if (!file) return false;
 
-    // Reject any path/URL or traversal attempts
-    if (file.includes('/') || file.includes('\\') || file.includes('..')) return false;
-
-    // Enforce extension whitelist
     if (!hasAllowedExtension(file, opts.allowedExts)) return false;
-
-    const finalSrc = `${opts.basePublicPath}${file}`;
 
     if (!silent) {
       const token = state.push('custom_emoji', '', 0);
-      token.attrSet('src', finalSrc);
+      token.attrSet('src', `${opts.basePublicPath}${file}`);
       token.attrSet('alt', `:${name}:`);
-      token.attrSet('class', opts.className);
+      token.attrSet('title', `${name}`);
+      token.attrSet('class', opts.className + ' ' + name);
       token.attrSet('draggable', 'false');
       token.attrSet('loading', 'lazy');
       token.attrSet('decoding', 'async');
       token.content = name;
     }
 
+    // We continue to find others emotes
     state.pos = end + 1;
     return true;
   };
@@ -106,9 +144,10 @@ export default function markdownItCustomEmoji(md: MarkdownIt, options: CustomEmo
     const cls = t.attrGet('class') || resolved.className;
     const src = t.attrGet('src')!;
     const alt = t.attrGet('alt') || '';
+    const title = t.attrGet('title') || '';
     const loading = t.attrGet('loading') || 'lazy';
     const decoding = t.attrGet('decoding') || 'async';
     const draggable = t.attrGet('draggable') || 'false';
-    return `<img class="${cls}" src="${src}" alt="${alt}" draggable="${draggable}" loading="${loading}" decoding="${decoding}">`;
+    return `<img class="${cls}" src="${src}" alt="${alt}" title="${title}" draggable="${draggable}" loading="${loading}" decoding="${decoding}">`;
   };
 }
