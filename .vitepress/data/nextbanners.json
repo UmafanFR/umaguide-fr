@@ -1,13 +1,5 @@
 [
   {
-    "characters": [101601],
-    "supports": [30038, 20029]
-  },
-  {
-    "characters": [101802, 102402],
-    "supports": [30040, 30039]
-  },
-  {
     "characters": [102001],
     "supports": [30009, 30002]
   },

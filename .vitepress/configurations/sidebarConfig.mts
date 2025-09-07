@@ -17,7 +17,7 @@ const vitePressSidebarConfig: VitePressSidebarOptions[] = [
     documentRootPath: '/guides/',
     resolvePath: '/guides/',
     basePath: '/guides/',
-    excludeByGlobPattern: ['**/characters/**'],
+    excludeByGlobPattern: ['**/internal/**', '**/characters/**'],
   },
 ];
 
