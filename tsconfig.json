@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "types": ["bun-types", "vite/client"],
+    "moduleResolution": "bundler",
+    "target": "ES2022",
+    "module": "ESNext",
+    "strict": true,
+    "baseUrl": "."
+  },
+  "include": [
+    ".vitepress/**/*.ts",
+    ".vitepress/**/*.vue",
+    "./types/*.d.ts",
+    "./scripts/**/*.ts",
+    "./guides/**/*.md"
+  ],
+  "exclude": ["node_modules", "dist"]
+}

@@ -1,11 +1,11 @@
 import { defineConfig, UserConfig } from 'vitepress';
 import { withSidebar } from 'vitepress-sidebar';
 
-import themeConfig from './themeConfig.mjs';
-import viteConfig from './viteConfig.mjs';
-import markdownConfig from './markdownConfig.mjs';
-import sidebarConfig from './sidebarConfig.mjs';
-import headConfig from './headConfig.mjs';
+import themeConfig from './configurations/themeConfig.mjs';
+import viteConfig from './configurations/viteConfig.mjs';
+import markdownConfig from './configurations/markdownConfig.mjs';
+import sidebarConfig from './configurations/sidebarConfig.mjs';
+import headConfig from './configurations/headConfig.mjs';
 
 const vitePressConfig: UserConfig = {
   lang: 'fr-FR',

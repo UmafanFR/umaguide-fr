@@ -1,0 +1,98 @@
+html {
+  scroll-padding-top: 134px; /* Fix scrolling when arriving on website with an anchor set */
+}
+
+:root {
+  --vp-c-brand-1: #f86669;
+  --vp-c-brand-2: #f0545a;
+  --vp-c-brand-3: #e6484e;
+
+  --vp-c-brand-1-light: rgba(248, 102, 105, 0.5);
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #f86669 50%, #9c9c9c 50%);
+  --vp-home-hero-image-filter: blur(44px);
+
+  --uma-version-text: #fdd040;
+  --vp-custom-border-radius: 0.5rem;
+}
+
+.uma-version {
+  text-transform: capitalize;
+  color: var(--vp-c-text-2);
+}
+
+.rarity {
+  align-items: center;
+  display: flex;
+  gap: 0.25em;
+  line-height: 0;
+}
+
+.uma-component input[type='search'] {
+  border: 1px solid var(--vp-c-border);
+  transition: border-color 0.25s;
+  border-radius: var(--vp-custom-border-radius);
+  padding: 0.5rem 2rem 0.5rem 0.75rem;
+  background: var(--vp-c-bg-alt);
+  color: var(--vp-c-text-1);
+  box-sizing: border-box;
+}
+
+.uma-component input[type='search']:hover,
+.uma-component input[type='search']:focus {
+  border-color: var(--vp-c-brand-1);
+}
+
+.custom-block[currenchan].danger {
+  display: grid;
+  grid-template-columns: 76px 1fr;
+  grid-template-rows: auto auto;
+  gap: 0 24px;
+  align-items: start;
+  padding-bottom: 16px;
+}
+
+.custom-block[currenchan].danger::before {
+  content: '';
+  display: block;
+  background: url('/assets/currensad.gif') no-repeat center center;
+  background-size: contain;
+  width: 76px;
+  height: 126px;
+  grid-row: 1 / -1;
+  grid-column: 1;
+}
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(68px);
+  }
+}
+
+/* Highlight anchors animation */
+@keyframes fadeBrand {
+  0% {
+    background-color: transparent;
+  }
+  30% {
+    background-color: var(--vp-c-brand-1-light);
+  }
+  50% {
+    background-color: transparent;
+  }
+  70% {
+    background-color: var(--vp-c-brand-1-light);
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+
+.anchor-highlight {
+  animation: fadeBrand 1s ease-in-out forwards;
+}

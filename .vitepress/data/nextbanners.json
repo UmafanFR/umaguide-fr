@@ -1,0 +1,86 @@
+[
+  {
+    "characters": [102001],
+    "supports": [30009, 30002]
+  },
+  {
+    "characters": [101201],
+    "supports": [30042, 20031]
+  },
+  {
+    "characters": [101102, 101402],
+    "supports": [30056, 30055]
+  },
+  {
+    "characters": [100501],
+    "supports": [30048, 20034]
+  },
+  {
+    "characters": [104001],
+    "supports": [30018, 30005]
+  },
+  {
+    "characters": [100402, 100102],
+    "supports": [30046, 30045]
+  },
+  {
+    "characters": [105801],
+    "supports": [30003, 30001]
+  },
+  {
+    "characters": [103701],
+    "supports": [30054, 20035]
+  },
+  {
+    "characters": [105602],
+    "supports": [30036, 30034]
+  },
+  {
+    "characters": [102801],
+    "supports": [30020, 30015]
+  },
+  {
+    "characters": [101901],
+    "supports": [30063, 20037]
+  },
+  {
+    "characters": [104502, 103002],
+    "supports": [30065, 30064]
+  },
+  {
+    "characters": [103901],
+    "supports": [30032, 30008]
+  },
+  {
+    "characters": [102501],
+    "supports": [30043, 20038]
+  },
+  {
+    "characters": [104002, 101702],
+    "supports": [30069, 30068]
+  },
+  {
+    "characters": [104801],
+    "supports": [30028, 30007]
+  },
+  {
+    "characters": [105901],
+    "supports": [30071, 20039]
+  },
+  {
+    "characters": [102302, 100602],
+    "supports": [30073, 30072]
+  },
+  {
+    "characters": [102201],
+    "supports": [30075, 20032]
+  },
+  {
+    "characters": [102101],
+    "supports": [30054, 30024]
+  },
+  {
+    "characters": [101502, 105202],
+    "supports": [30078, 30077]
+  }
+]

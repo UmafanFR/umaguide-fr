@@ -15,7 +15,10 @@ hero:
     - theme: brand
       text: Commencer à lire
       link: /guides
-    - theme: brand
+    - theme: alt
+      text: Personnages
+      link: /guides/Gameplay/characters
+    - theme: alt
       text: FAQ
       link: /guides/FAQ/faq
     - theme: alt

@@ -1,30 +1,25 @@
 import DefaultTheme from 'vitepress/theme';
-import { VPTeamMembers } from 'vitepress/theme';
-import contributors from '../data/contributors.json';
-
 import type { Theme } from 'vitepress';
-import { h } from 'vue';
+import 'floating-vue/dist/style.css';
+import './css/tooltip.custom.css';
+import './css/custom.css';
+
+// Plugins
 import highlightAnchor from '../plugins/highlightAnchor';
 import '../plugins/custom-emoji/custom-emoji.css';
-import './custom.css';
 
-function buildContributorsList(contributors) {
-  return contributors.map(contributor => ({
-    avatar: contributor.avatar_url,
-    name: contributor.login,
-    title: 'Contributor',
-    links: [{ icon: 'github', link: contributor.html_url }],
-  }));
-}
+// External Components
+import FloatingVue from 'floating-vue';
 
-const VPTeamMembersList = {
-  name: 'VPTeamMembersList',
-  render() {
-    return h(VPTeamMembers, {
-      members: buildContributorsList(contributors) || [],
-    });
-  },
-};
+// Internal Components
+import VPTeamMembersList from '../components/VPTeamMembersList.vue';
+
+import UmaDetails from '../components/UmaDetails/UmaDetails.vue';
+import UmasGrid from '../components/UmasGrid/UmasGrid.vue';
+import UmaBreadcrumb from '../components/UmaDetails/UmaBreadcrumb.vue';
+import UmaImage from '../components/UmaImage/UmaImage.vue';
+import UmaIcon from '../components/UmaImage/UmaSquareIcon.vue';
+import UmaStand from '../components/UmaImage/UmaStand.vue';
 
 export default {
   ...DefaultTheme,
@@ -39,6 +34,22 @@ export default {
       });
     }
 
-    app.component('VPTeamMembersList', VPTeamMembersList);
+    // Components registrations
+    app.use(FloatingVue, {
+      themes: {
+        umaguide: {
+          $extend: 'dropdown',
+          $resetCss: true,
+        },
+      },
+    });
+
+    app.component('VPTeamMembersList', VPTeamMembersList); // Component to build Contributors on Home Page
+    app.component('UmaImage', UmaImage); // Component to get specific image size depending on device (generate thanks to imagetools)
+    app.component('UmaIcon', UmaIcon); // Component Wrapper to easily get Icon from "UmaImage"
+    app.component('UmaStand', UmaStand); // Component Wrapper to easily get Stand from "UmaImage"
+    app.component('UmasGrid', UmasGrid); // Component to show Characters grid based on generated JSON data
+    app.component('UmaDetails', UmaDetails); // Component to show specific Details Characters from JSON data
+    app.component('UmaBreadcrumb', UmaBreadcrumb); // Component to switch to other characters when on Character Details Page
   },
 } satisfies Theme;
