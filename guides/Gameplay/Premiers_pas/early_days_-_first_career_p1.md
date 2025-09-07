@@ -1,15 +1,15 @@
 ---
-menuTitle: Vos premières carrières
-title: Premiers pas - Vos premières carrières
+menuTitle: Début de votre 1e carrière
+title: Premiers pas - Votre première carrière - Partie 1
 lang: fr-fr
 outline: [2,4]
-description: Pour entamer vos premières carrières in game sur le scénario URA Finale
+description: Guide "pas à pas" sur la "Junior Year" de votre première carrière, sur le scénario URA Finale
 order: 5
 ---
 
-# Carrière sur le scénario URA Finale
+# Carrière sur le scénario URA Finale - Partie 1
 
-![Image montrant plusieurs boutons de l'écran principal, avec une brève explication de leur fonction](/assets/EarlyDays/Scen_URA.png)
+![Image montrant le logo du scénario URA Finale](/assets/EarlyDays/Scen_URA_P1.png)
 
 ::: warning Si vous avez la flemme de tout lire :
 
@@ -22,8 +22,9 @@ Pour bénéficier du strict minimum de ce guide pas-à-pas, **suivez les étoile
 
 Le scénario URA Finale est le tout premier scénario de carrière, disponible dans le jeu depuis le lancement (26 juin 2025). C'est un scénario très vanilla, entièrement dépourvu de "mécaniques" (mais il y en aura qui seront ajouté plus tard), donc même si vous commencez le jeu bien plus tard, à un moment où nous avons déjà plusieurs autres scénarios, **ce n'est jamais une mauvaise idée de commencer par celui-ci**. Il vous montrera le fonctionnement d'une carrière de la manière la plus claire possible (vu que les autres scénarios ajouteront leurs épices et mécaniques). 
 
-Nous allons faire une première run d'une carrière ensemble. 
+Nous allons faire une première run d'une carrière ensemble. Le but de la démarche est de vous expliquer étape par étape les choses qui se passent toujours de la même manière dans une carrière, et vous proposer des petites optimisations ici et là.
 
+Vous pouvez aussi décider de faire une première carrière seul·e, et revenir relire tout ceci pour double-check et comprendre des choses qui n'étaient pas claires quand vous aviez joué. C'est vous qui voyez 👌🏿
 
 ::: tip N'hésitez pas à jouer et lire ceci en même temps, si vous le pouvez
 
@@ -145,7 +146,7 @@ Enfin, la carrière commence toujours avec votre premier objectif à atteindre :
 
 ## Comment jouer
 
-Avant de cliquer partout, explorons brièvement un des principaux écrans sur lequel vous allez avoir des interactions à faire pendant votre carrière. Sur cet écran, vous pouvez choisir l'action à réaliser pendant votre tour de jeu.
+Avant de cliquer partout, explorons brièvement un des principaux écrans sur lequel vous allez avoir des interactions à faire pendant votre carrière. Sur cet écran, vous pouvez choisir l'action à réaliser pendant votre tour de jeu. J'appelle cet écran "l'écran d'**action**", car vous y choisissez l'action à effectuer sur votre tour de jeu.
 
 ::: tip Vous allez vite voir...
 
@@ -153,7 +154,7 @@ La plupart des éléments affichés en haut de l'écran s'affichent aussi sur d'
 
 :::
 
-[![Image montrant l'écran du mode carrière où l'on peut choisir de s'entrainer, faire un repos, etc.](/assets/EarlyDays/Scen_Basic_Turn.png)](/assets/EarlyDays/Scen_Basic_Turn.png)
+[![Image montrant l'écran d'action du mode carrière où l'on peut choisir de s'entrainer, faire un repos, etc.](/assets/EarlyDays/Scen_Basic_Turn.png)](/assets/EarlyDays/Scen_Basic_Turn.png)
 
 La plupart du temps, vous allez vouloir vous entrainer, à condition d'avoir **suffisamment d'énergie**. L'énergie est la barre mutlicolore en haut de l'écran ; quand elle est élevée, tous vos entrainements se passent très bien, mais quand votre énergie baisse et s'approche de 40-50%, vous allez commencer à avoir des **chances d'échouer un entrainement**. C'est toujours une bonne chose d'avoir de l'énergie, pour pouvoir s'entrainer. Idéalement vous voulez aussi être de très bonne humeur ("GREAT"), car ça augmente de 20% le gain de stats en entrainement.
 
@@ -369,7 +370,7 @@ Il y a 3 moyens de monter les jauges de vos cartes support :
 - obtenir des **hints ❗ de vos supports** en entrainement 
 - avoir des **events** (aléatoires, comme mentionné plus haut) **avec vos supports**
 
-Vous n'avez pas de contrôle sur les events de vos cartes support, donc vous pouvez ignorer ça. Ce sera cool quand ça se produit, mais vous ne pouvez rien faire pour le forcer.  Ce qui importe vraiment c'est de faire le plus souvent possible des **entrainements avec des supports dont les jauges ne sont pas encore orange**.
+Vous n'avez pas de contrôle sur les events de vos cartes support, donc vous pouvez ignorer ça. Ce sera cool quand ça se produit, mais vous ne pouvez rien faire pour les forcer.  Ce qui importe vraiment c'est de faire le plus souvent possible des **entrainements avec des supports dont les jauges ne sont pas encore orange**.
 
 [![Image montrant un entrainement de 3 supports dont un hints, et l'event "Hint For Growth" qui suit](/assets/EarlyDays/Scen_Hints.png)](/assets/EarlyDays/Scen_Hints.png)
 
@@ -380,7 +381,7 @@ Quand vous cliquez sur un entrainement, chaque support qui s'était stacké sur 
 
 C'est ce que vous allez vouloir faire jusqu'à ce que vos supports aient **tous leur jauge orange**. À chaque tour, même après votre Debut Race. 
 
-Et si un stack a un ou plusieurs support qui affiche (aléatoirement) **un hint** ❗, alors ce stack gagne légèrement en priorité. En effet, quand vous cliquez sur un entrainement où un support vous propose un hint ❗, ce support déclenchera obligatoirement l'event "**A Hint for Growth**". Cet event vous récompensera soit d'un **skill** non appris (bien), soit de **stats supplémentaires** (moins bien mais we still take those), et cet event augmentera toujours la jauge d'amitié du support en question de **5 points additionnels**.
+Et si un stack a un ou plusieurs support qui affiche (aléatoirement) **un hint** ❗, alors ce stack gagne légèrement en priorité. En effet, quand vous cliquez sur un entrainement où un support vous propose un hint ❗, ce support déclenchera obligatoirement l'event "**A Hint for Growth**". Cet event vous récompensera soit d'un **skill** non appris (bien), soit de **stats supplémentaires** (moins bien, but we still take those), et cet event augmentera toujours la jauge d'amitié du support en question de **5 points additionnels**.
 
 ::: warning Gardez en tête
 
@@ -402,7 +403,7 @@ Autant dire que Charming est un buff très précieux.
 
 Les 3 principaux moyens d'obtenir -aléatoirement- Charming sont :
 - par **l'évènement aléatoire de votre uma** qui donne ce buff. **Toutes les uma en ont un**, et généralement il pop assez bien. Mais c'est rare que l'event donne _aussi_ Charming.
-- par un **évènement d'une carte support** qui peut le donner, comme les cartes basées sur **Nishino Flower** ou **Sweep Tosho**. Si l'évènement ce produit, vous pouvez obtenir Charming de manière **garantie en sélectionnant la bonne option**.
+- par un **évènement d'une carte support** qui peut le donner, comme les cartes basées sur **Nishino Flower** ou **Sweep Tosho**. Si l'évènement ce produit, vous pouvez obtenir Charming de manière **garantie en sélectionnant la bonne option** : option du **_haut_ pour Nishino Flower**, option du **_bas_ pour Sweep Tosho**.
 - par l'évènement (rare) avec l'acupuncturiste Sasami Anshinzawa, **en sélectionnant la 4e option**. Cette option échoue rarement, et vous donnera **presque toujours le buff Charming**.
 
 :::
@@ -417,7 +418,7 @@ L'arrivée des entrainements rainbow va vous compliquer un peu la tâche pour sa
 
 #### 🌟 Quand les rainbow commencent à apparaître, continuez à cliquer sur les gros stacks, en comptant cette fois uniquement le nombre de supports qui n'ont *pas encore* atteint le niveau orange (80%)
 
-Exemple tout bête, avec 2 stacks de 3 :
+Exemple tout bête, avec 2 stacks de 3 supports :
 - stack 1 = 3 supports en jauge bleu ou verte (moins de 80)
 - stack 2 = 2 supports en jauge bleu ou verte,  et un support en jauge orange (80+)
 
@@ -425,8 +426,258 @@ Vous prenez alors le **stack 1**, car il montera davantage de jauges de support.
 
 Si par contre stack 2 est en **rainbow**, le gain de stat accru vient contre-balancer le gain de jauge moindre. Vous allez peut-être (mais pas toujours) vouloir cliquer sur le stack 2, pour monter les jauges de 2 supports et avoir un gros gain de stats en même temps. Vous aurez énormément de choix compliqués comme ça.
 
-## Debut Race et inscription aux courses
+## La Debut Race
 
-Après les 11 premiers tours de jeu, **votre uma participera enfin à sa Debut Race**, qui est aussi son premier objectif de carrière. Elle aura une dizaine d'autres objectifs après ça, à accomplir pendant le reste de la carrièère, et ces objectifs diffèrent pour chaque uma. Mais toutes les uma ont "participer à la Debut Race" comme premier objectif de carrière. C'est donc une **course obligatoire**.
+Après les 11 premiers tours de jeu, **votre uma participera enfin à sa Debut Race**, qui est aussi son premier objectif de carrière. Elle aura une dizaine d'autres objectifs après ça, à accomplir pendant le reste de la carrière, et ces objectifs diffèrent pour chaque uma. Mais toutes les uma ont "participer à la Debut Race" comme premier objectif de carrière. C'est donc une **course obligatoire**.
 
-Quand vous arrivez sur un tour avec une **course obligatoire**, l'écran d'action change et n'affiche plus que les boutons "Skills" et "Race".
+Quand vous arrivez sur un tour avec une **course obligatoire**, l'écran d'action change et n'affiche plus que les boutons "**Skills**" et "**Race**". Le jeu vous impose donc de faire la course, car elle est obligatoire dans le planning de votre uma. Mais avant de lancer la course vous avez la possibilité d'**acheter des skills**. 
+
+::: warning Ne mettez pas la charue avant l'habit du moine
+
+Le choix des skills est -de manière générale- un _grand sujet_, et qui peut paraître ingérable quand on débute. Pas de panique. Ca viendra avec le temps, à mesure que vous jouez, que vous lisez des guides, et que vous posez de questions. Un bon choix de skills c'est une des choses **à quoi on reconnaît un·e _vétéran·e_ du jeu** ; ne vous attendez pas à tout comprendre dés maintenant, car it's not happening. Ça requiert juste **davantage d'expérience** que vous n'en avez actuellement.
+
+On en reparlera peut-être (peut-être) dans ce guide pas-à-pas.
+
+:::
+
+[![Image montrant tantôt l'écran d'action avec les boutons Skills et Race, tantôt l'écran de choix de la course](/assets/EarlyDays/Scen_Debut_Race.png)](/assets/EarlyDays/Scen_Debut_Race.png)
+
+Le fait qu'on vous propose d'acheter des skills ne veut pas dire que vous devez le faire. De manière générale on préfère choisir les skills **en fin de carrière**, pour augmenter les chances qu'ils soient peu cher lors de leur achat (grâce aux nombreux hints ❗ obtenus entre temps). De plus, quand vous saurez mieux jouer au jeu, **vous gagnerez la plupart de vos courses sans acheter de skill** ; autrement dit, vous n'en avez pas _besoin_. Bien entendu, il y aura des tas (et des tas) de cas où le hasard vous fera perdre, car le hasard a sale caractère et s'en fiche de vous.
+
+Par exemple : lors de la Debut Race :currenDevilish:
+
+C'est en réalité assez rare. Au doigt mouillé, je dirais que ça arrive une fois toutes les 10-15 carrières... mais ça ne veut pas dire que ça ne peut pas vous arriver 3 carrières à la suite (quoi que vous pensiez, ce sera toujours un coup du hasard 😌). Vous verrez que vos défaites en Debut Race sont généralement assez brutales, en finissant **6e ou pire**, auquel cas aucune quantité de skills n'aurait pu vous sauver : c'était un **blocage**. Votre uma s'est retrouvée dans une situation où elle avait du mal à se déplacer, et n'a pas pu prendre la tête. Et quand vous êtes bloqué à l'approche de la fin de la course, **vous êtes généralement** (mais pas toujours) **bien bloqués**. C'est juste du hasard. Ça arrivera, et il faut s'y faire.
+
+Ce n'est pas un problème de skills, et ce n'est jamais le cas pour la Debut Race. Ce n'est généralement (mais pas toujours) pas le cas pour les courses de la carrière, MÊME SI Tazuna vous dit que c'est le cas. De manière générale, les conseils que vous donnent Tazuna sont **au mieux médiocres, au pire trop souvent incorrects**. Vous êtes invités à ne pas l'écouter.
+
+::: tip Nuance importante
+
+Ça ne veut pas dire qu'acheter des skills pendant une carrière n'est pas utile. Des skills de vitesse ou des gold recovery qui s'activent (emphase sur "qui s'activent") c'est toujours une aide pendant des courses de carrière. Ça augmentera un peu vos chances de victoire. Mais la plupart du temps vous n'en avez pas _**besoin**_, même si ça peut être utile.
+
+:::
+
+#### 🌟 Pour votre Debut Race, vous n'avez pas besoin de skills. Vous pouvez cliquer sur "Race".
+
+Vos adversaires sont très faible ; c'est pour ça qu'il faut un blocage pour vous mettre en défaite. Vous pouvez y aller sereinement. P't'être que vous perdrez, mais c'est pas grave, **vous pourrez recommencer dans quelques tours**, sans conséquence. 
+
+Quand vous cliquez sur le bouton "Race", vous arriverez sur **l'écran de choix de course** (comme sur l'image ci-dessus). Pour votre Debut Race obligatoire, il n'y a toujours qu'**une seule course** possible. C'est toujours la même pour une umamusume donnée, et cette course **correspond toujours parfaitement aux aptitudes de votre uma**. C'est-à-dire que vous n'avez pas vous poser la Q° si oui ou non votre uma sera apte à **courir à son plein potentiel** en Debut Race, la réponse sera toujours **oui**.
+
+::: tip On y reviendra dans un instant mais...
+
+Une des causes communes de défaites sur des courses chez les débutant·e·s, c'est quand votre uma court sur une **course qu'elle est inapte à faire**. Ce n'est jamais le cas pour la Debut Race, mais c'est possible pour toutes les autres courses, obligatoires ou pas. On reparlera de ça sous peu, mais vous devrez garder un oeil aux étoiles ⭐ à côte des 2 aptitudes d'une course.
+
+:::
+
+Pour votre Sakura Bakushin O, la Debut Race aura lieu sur une course **Turf** (sol) **Sprint** (distance), et elle a les aptitudes parfaites pour ça : "A" et "A", respectivement en Sprint et Turf. Vous pouvez vous assurer de ça grâce aux 2 étoiles ⭐ à côté de "Sprint" et "Turf" (si vous jouez Sakura Bakushin O), à droite de la course sélectionnée. Sur chaque course (Debut ou pas), la présence des étoiles confirmera que votre uma a la note **B**, **A** ou **S** pour cette aptitude. Vous avez des chances fortement accrues de défaite quand vous courrez sur des coursez où il vous manque au moins une des étoiles.
+
+D'autres uma ont leur Debut Race en Mile (distance), ou alors sur du Dirt (sol), en fonction de leurs aptitudes respectives, mais aucune uma n'a sa Debut Race en Long (distance). ~~Et c'est bien dommmage~~.
+
+#### 🌟 Inutile de vous inquiéter des aptitudes pour la Debut Race, vous pouvez cliquer sur "Race".
+
+Une fois le choix de course validé, vous arrivez sur le "Paddock". C'est le **dernier écran avant le lancement de la course**.
+
+[![Image montrant le "paddock" juste avant la course, où on voit les stats, aptitudes et la stratégie sélectionnée pour la uma](/assets/EarlyDays/Scen_Paddock.png)](/assets/EarlyDays/Scen_Paddock.png)
+
+Le paddock vous affiche un rappel des stats de votre uma, ainsi que ses 3 aptitudes pour la course. Par défaut, sans que vous cliquiez quoi que ce soit, les 3 aptitudes de votre uma seront toujours A-A-A **pour la Debut Race**. En effet, le jeu sélectionne par défaut une stratégie parmi celles où votre uma est notée "A". Rice Shower et Sakura Bakushin O sont par défaut placées en **Pace Chaser**. Il s'agit d'une stratégie qui tente de rester à l'avant du peloton, à quelques mètres de la Front Runner en 1e position. Pour Sakura Bakushin O il est **fortement recommandé de changer sa stratégie pour la mettre Front Runner** ; c'est une stratégie qui tente de prendre la **1e position immédiatement** au début de la course, et de la conserver sans faillir jusqu'à la ligne d'arrivée. C'est une stratégie qui aide beaucoup l'activation du skill unique de Sakura Bakushin O.
+
+#### 🌟 Si vous jouez Sakura Bakushin O, placez la en Front Runner.
+
+Pour changer la stratégie d'une uma, cliquez sur le bouton "change" à droite. Le jeu vous affiche une mini fenêtre expliquant brièvement les 4 stratégies possible, illustrées par une animation (que je trouve pas hyper claire mais bon). Les lettres indiquées sur chaque stratégie correspond à l'aptitude **de votre uma** sur cette stratégie. Ainsi, pour Sakura Bakushin O vous verrez sans doute affiché **G-F-A-A**, ou peut-être F à la place de G (End) et E à la place de F (Late), si votre choix de legacy incluent des legacy qui donnent des sparks pour monter les aptitudes End et Late (inutile pour Bakushin O).
+
+:::: warning Vous en avez p't'être entendu parler
+
+En _**carrière**_ (et uniquement en carrière), toutes les uma (toutes) peuvent **courir en tant que n'importe quelle stratégie**, même si elles ont l'aptitude **G**.
+
+En effet, pendant une carrière, le jeu applique **secrètement un boost** à vos uma, afin de les rendre plus puissantes, et ainsi rendre les courses divertissantes. Ce boost correspond à peu près à une augmentation de **toutes vos stats d'environ 400 points**, en ignorant les aptitudes (il paraît que c'est plus compliqué que juste +400 points mais on s'en fiche). Ceci vous permet de courir avec 400 wits, même si vous avez G sur une aptitude de stratégie, et 400 wits est suffisant pour être un minimum compétente sur une aptitude.
+
+C'est une vraie bonne stratégie de **jouer une carrière entièrement en Front** (malgré l'aptitude), pour réduire le risque de blocage. **Le blocage** (même peu sévère) **est la 1e cause de défaite dans une course de _carrière_**, car quand vous saurez mieux jouer, vous aurez toujours des stats fortement supérieures à vos adversaires.
+
+::: tip Après les Front sont pas invincibles non plus
+
+Les Front peuvent être mises en échec par un "**late start**" (parfaitement aléatoire). Ça les empêche de se positionner en meneuses, ce qui -ironiquement- les bloque pour le reste de la course 🤷🏾‍♂️
+
+:::
+
+Attention c'est valable uniquement **carrière**.
+
+En Daily Race, Team Trials, Legend Race, Champion's Meeting, League of Heroes, Main Story, ou whatever else, si vous placez une uma dans une stratégie où son aptitude est mauvaise, vous vous imposez un **handicap**.
+
+::::
+
+En dessous de chaque stratégie, le nombre à côté de "Selected" est le nombre de **uma adverses** pour chaque stratégie, et ça n'inclus pas la votre. Ainsi, dans ma Debut Race j'affronte 1 Front Runner, 3 autres Pace Chaser, 4 Late Surger et aucune End Closer. C'est parfaitement aléatoire sur chaque course, et parfois vous aurez des compositions absolument stupide, comme "1 Late, 7 Pace et 0 Front".
+
+Brièvement, voici les stratégies résumées en quelques mots :
+- **End Closer** → Elles restent à l'arrière en début de course, et remontent progressivement le peloton pendant le "mid-race". Elles ont naturellement la plus grande vitesse max en late-race (sans prendre en compte les stats).
+- **Late Surger** → Comme les End Closer, mais un peu plus à l'avant. Elles restent juste derrière les Pace Chaser, et tentent de les dépasser pour s'avancer en milieu de course. Elles ont naturellement la plus grande accélération en late-race (sans prendre en compte les stats).
+- **Pace Chaser** → Elles tentent de rester à quelques mètres de la Front Runner en 1e position, sans la rattraper. À partir de la moitié de la course, elles tentent de prendre la tête. Elles ont naturellement le moins de HP (sans prendre en compte les stats), mais ça ne fait pas d'elles la moins bonne stratégie.
+- **Front Runner** → Elles cherchent à prendre la 1e place dés le début de la course, et la conserver jusqu'à la fin de la course. Elles ont naturellement la meilleure accélération et la meilleure vitesse en early-race.
+
+Plus une stratégie est "**frontline**" (à l'avant), plus sa vitesse max en late-race est **faible**. Les Front Runner sont donc celles qui courent le moins vite en late-race. Mais comme elles mènent la course, elles ont aussi **beaucoup d'avance** sur les autres stratégies, et ont le moins de chance d'être bloquées.
+
+De manière générale, **il n'y a pas de stratégie meilleure que d'autre**. Le jeu est bien trop **complexe et nuancé** pour faire ce genre de généralités. En revanche, pour la plupart des uma, une ou plusieurs stratégies favorisent davantage l'activation de leur **skill unique**. Pour Sakura Bakushin O, le skill unique a les conditions suivantes :
+- être à plus de la moitié de la course
+- être en 3e, 2e ou 1e position
+- avoir une autre uma immédiatement à côté d'elle pendant 2 secondes
+
+Ce sont des conditions plus facile à valider en tant que Front Runner, mais qui peuvent être aussi validées en tant que Pace Chaser. Rice Shower doit dépasser la uma en 4e, 3e, 2e ou 1e position sur le final straight pour activer son unique, donc son unique est plus facile à activer en étant Pace.
+
+::: tip Toujours sur le paddock...
+
+* Avant de lancer la course vous pouvez aussi **inspecter les stats et skills de vos adversaires**, en cliquant sur le bouton "Runners", ou les flèches **<** et **>**. Ça n'a pas beaucoup d'intérêt, mais c'est bien d'avoir une vague idée de la difficulté de la course.
+
+* Au dessus de vos stats vous pouvez aussi voir "No. 1 Fav ◎◎◎". **Vous pouvez ignorer ça**. C'est juste une **prédiction** des commentateurs·ices, et **ils ont aussi souvent tort** que raison. Pour la Debut Race ce sera rare que vous ne soyez pas No.1 Fav, tout bêtement car vos adversaires sont très faibles. Mais vous pouvez être No.1 Fav et perdre (blocage), ou être No.7 Fav et gagner. **On s'en fiche de ça**.
+
+:::
+
+#### 🌟 Assez bavardé, lancez la course et appréciez le spectacle !
+
+Pour chaque course que vous faites pour la toute première fois, le bouton "View Result" sera grisé et innaccessible. Il permet de skip entièrement la course, et directement voir le résultat. Si c'est la première fois que vous jouez cette uma, vous êtes obligé de regarder la Debut Race. Ici on regarde la "Debut Race", mais les choses se passeront de la même manière pour une autre course obligatoire aussi.
+
+[![4 images montrant le déroulement d'une course obligatoire : la course commence puis se termine, après quoi les résultats sont affichés, et enfin Tazuna vous indique le prochain objectif](/assets/EarlyDays/Scen_Objective_Race.png)](/assets/EarlyDays/Scen_Objective_Race.png)
+
+Sur l'image :
+1. Déroulement de la course
+2. Fin de la course
+3. Classement complet, et gain de fans
+4. Annonce du prochain objectif
+
+::: tip Avec une course facultative...
+
+La seule différence notable c'est que Tazuna ne vous parlera pas de votre prochain objectif après une course facultative. À la place, vous pourrez féliciter votre uma. Le reste du déroulement sera indentique.
+
+:::
+
+J'espère que vous avez gagné votre Debut Race ! Si vous avez perdu, pas d'inquiétude, vous pourrez **refaire une Debut Race dans quelques tours**. Ça n'a pas de grande importance. Si vous avez gagné, bravo, **vous avez eu _de la chance_**.
+
+Je ne dis pas ça parce que la Debut Race est difficile (elle ne l'est pas), et requiert une excellente RNG pour être réussie. Au contraire, _il faut plutôt une très mauvaise RNG pour la perdre_, car les adversaires sont vraiment (vraiment) faibles.
+
+Non, il faut de la chance pour gagner la Debut Race, car il faut de la chance pour gagner n'importe quelle course, car **tout ce qu'il se passe dans la course est ALÉATOIRE** :
+
+- la vivacité de votre départ est aléatoire.
+- la vitesse de votre uma pendant l'entièreté de la course est aléatoire (mais influencée par wits, puis speed/stamina à partir du late race).
+- le placement de votre uma pendant la course est influencé par sa stratégie, mais reste aléatoire au sein du "groupe" de uma de cette même stratégie. En effet :
+    - les dépassements que vous réalisez ou que vous subissez sont aléatoires. 
+    - le position latérale de votre uma dépend de sa vitesse et de la vitesse de ses adversaires, qui sont aléatoires (d'où le risque de blocage).
+- Si votre uma avait des skills (on en a pas acheté, rappelez-vous), leur activation serai aléatoire (mais influencée par wits).
+- Votre uma peut aléatoirement (mais avec influence de wits) se mettre à "rush" et courir plus vite, tout en consommant beaucoup plus de HP.
+
+La seule chose qui n'est "pas" aléatoire dans la course, c'est l'activation du **skill unique de votre uma**. Si votre Sakura Bakushin O s'est retrouvé top3 avec une uma juste à côté d'elle à partir de la moitié de la course, elle a activé son skill unique. C'est la seule chose qui -si les conditions sont remplies- n'est pas aléatoire. Bien entendu, si vous avez bien suivi, **les conditions en question sont aléatoires** ; si votre Bakushin a eu une avance très notable car -aléatoirement- les adversaires n'ont pas pu tenir son rythme et se placer près d'elle, les conditions d'activation de son skill n'auraient jamais été validées. C'est aléatoire.
+
+Tout ce qu'il se passe dans une course est aléatoire. Vos stats et skills **influent** sur les chances que le hasard vous soit favorable, mais ultimately **c'est le hasard qui décide**. C'est pour ça que si vous avez gagné la Debut Race (et n'importe quelle autre course qui suit), vous avez eu de la chance. P't'être que votre build était tellement forte que votre chance d'échec c'était 5%, mais de temps en temps vous tomberez dans ces 5% par manque de chance, et vous perdrez :currenDevilish: **Votre chance de victoire dans une course c'est jamais 100%**. Il est toujours possible d'imposer une condition de défaite à votre uma (mais meilleures sont les stats et skills de votre uma, plus ce sera difficile de la mettre en échec), car comme a dit un grand sage : **when you get blocked, you get blocked**.
+
+Gardez toujours ça en tête. Je reconnais que c'est frustrant de perdre une course qui vous parait très simple. Mais c'est le hasard qui décide.
+
+## Suite de la carrière, et inscription aux courses
+
+Après votre Debut Race, vous entrez dans la vraie carrière de votre uma. Vous suivez maintenant ses objectifs, les uns après les autres. 
+
+Pour Sakura Bakushin O, l'objectif suivant est de finir top5 dans la **Keio Hai Junior Stakes**, une course Sprint sur du Turf, qui a lieu début Novembre de la Junior Year (première année). C'est **8 tours après la Debut Race** ; vous avez donc 8 tours pour améliorer vos stats d'ici cet objectif. Quand la date arrivera, l'écran de choix d'action sera le même que la Debut Race, avec uniquement les boutons Skills et Race.
+
+#### 🌟 Si vous aviez gagné la Debut Race, continuez à faire des entrainements comme avant la Debut Race.
+
+(si vous aviez perdu, pas d'inquiétude, je reviens vers vous plus bas)
+
+Quand vous voyez des bons stacks de support, vous cliquez dessus, en surveillant votre humeur et votre énergie. C'est vous qui décidez les risques que vous acceptez de prendre, et ce n'est pas grave d'avoir des échecs de temps en temps. Quand les rainbow commenceront à apparaître, vous voudrez cliquer dessus s'il y a aussi des supports qui ne sont pas encore en jauge orange. Votre objectif -en tant que joueur·euse- n'a pas changé : **vous voulez passer tout le monde en jauge orange**.
+
+::: tip Rappel à toutes fins utiles
+
+La directrice -Yayoi Hakikawa- et la journaliste -Etsuko Otonashi- **ne sont PAS des support** (même si elles vous aident un peu), et il n'y a pas urgence pour passer leur jauge à l'orange.
+
+:::
+
+Si vous ne jouez pas Sakura Bakushin O, votre uma a peut-être **besoin de davantage fans pour son prochain objectif**. La Keio Hai Junior Stakes, sur laquelle Sakura Bakushin O doit faire top5 pour son prochain objectif, ne requiert d'avoir que 375 fans pour s'y inscrire. C'est bien moins que ce vous avez gagné sur votre Debut Race, donc vous n'avez pas besoin de vous en inquiéter. 
+
+Rice Shower -et de nombreuses autres uma- doit faire top5 sur une course pour laquelle elle n'a pas encore assez de fan pour l'inscription. Dans son cas à elle, il s'agit du **Spring Stakes** (17 tours plus tard), mais elle ne peut y participer que si elle a 1750 fans, ou plus. La grande majorité du temps, la Debut Race sera insuffisante pour avoir autant de fans, ce qui vous empêche de vous y inscrire. Si vous ne pouvez pas vous inscrire à une course obligatoire, faute de fans, **vous perdez la carrière** lorsque le tour de l'objectif arrive.
+
+::: warning Variante
+
+Certaines uma ont parfois pour objectif même d'avoir un certain nombre de fans avant une date donnée, et là aussi un échec à atteindre ce quota mettre fin à la carrière.
+
+:::
+
+Pour augmenter votre nombre de fans (si votre carrière le requiert), vous devez participer à des **courses supplémentaires**, qui seront alors **facultatives**. Chaque course (obligatoire ou pas) vous apporte des fans, en fonction du **résultat de la course**. La Debut Race n'en donne pas beaucoup, et pour la plupart des uma il suffit alors (mais pas toujours) de faire **une seule course facultative G3** (ou mieux) pour atteindre le nombre de fans requis pour la prochaine course obligatoire. C'est le cas pour Rice Shower : une seule course en G3 apporte bien plus que les 350 fans supplémentaires requis pour l'inscription à Spring Stakes.
+
+Les courses G3 sont les courses "gradées" les moins prestigieuses et les moins difficiles. Il y a aussi les courses **G2** qui sont plus notables, puis les courses **G1** ; les plus renommées. Vous y affronterez parfois (parfois) **une uma un peu plus forte que les autres**, qui pourrait vous mettre légèrement en difficulté (si c'est le cas, ce sera souvent (mais pas toujours) la même pendant le reste de votre carrière :currenDevilish:). Mais n'hésitez pas à tenter votre chance malgré tout ; même si elles peuvent paraître **intimidantes**, les G1 sont faciles pour tout·e joueur·euse qui sait un minimum jouer. D'ici 4-5 carrières vous n'aurez pas à vous en inquiéter. Vous n'avez pas à vous en inquiéter dés maintenant anyways.
+
+Plus une course est prestigieuse, plus elle apporte de récompenses :
+- davantage de fans
+- davantage de stats
+- davantage de skill points
+
+::: tip Umamusume être intuitif challenge (impossible)
+
+For some ungodly reason, les courses G3 et G2 ont beau être de grade différents, elles apportent les même récompenses en stats et en skill points 🙃
+
+(le gain de fans varie bien de course en course par contre)
+
+:::
+
+Chaque fois que c'est possible, **éviter de participer à des courses OP et Pre-OP**. Leurs récompenses (fans y compris) sont vraiment faibles par rapport au coût en énergie. Cela dit, certaines uma n'ont pas d'autres options, et d'autres uma ont même des course OP ou Pre-OP en objectif obligatoire 🤷🏾‍♂️
+
+[![3 images montrant la sélection d'une course facultative](/assets/EarlyDays/Scen_Facultative_Race.png)](/assets/EarlyDays/Scen_Facultative_Race.png)
+
+Pour moi qui joue Rice Shower (et peut-être vous aussi, si vous ne jouez pas Sakura Bakushin O), j'ai besoin de davantage de fans avant les 17 tours qui me séparent du prochain objectif. Je vais donc **programmer ma prochaine course**. À n'importe quel tour, je clique sur le bouton "Race" pour ouvrir l'écran de choix de course, et j'utilise les flèches **<** et **>** pour avancer de tour en tour. Mon but est simple ; trouver une course qui remplisse ces 3 critères :
+- la course doit avoir lieu **_avant_ ma prochaine course obligatoire** (vu que j'ai besoin des fans pour y participer), donc avant 17 tours en l'occurrence.
+- la course doit être -de préférence- de grade **G3** ou mieux, car les course OP et Pre-OP sont un gaspillage d'énergie
+- Rice doit avoir les bonnes aptitudes pour la course, c'est à dire les 2 étoiles ⭐ pour les aptitudes de distance et de terrain
+
+La présence des 2 étoiles ⭐ sur le choix de la course est très important, car si ma uma a des mauvaises aptitudes pour une course, ses stats et sa performance baissera fortement. L'aptitude de surface (Turf ou Dirt) donne sa capacité à accélérer sur cette surface ; avec une aptitude de C ou pire (pas d'étoile), l'accélération de ma uma est réduite de 20% ou pire (jusqu'à -90% avec G) pendant toute la course.
+
+Fin Novembre, dans 9 tours, il y a la Kyoto Junior Stakes, qui est une **course medium sur du turf**. Rice est parfaitement apte pour cette course, donc je décide que je vais vouloir la faire, en appuyant sur "**Schedule**". Quand le tour de cette course arrivera, je serai rappelé que j'ai une course facultative ce tour là ; comme elle n'est pas obligatoire **je peux décider de ne pas faire la course** ce tour là finalement. Par exemple, si sur ce tour là j'ai un excellent stack d'entrainement, je peux annuler la course et m'entrainer à la place. Mais pour sécuriser mon objectif de fans, il faudra que j'en reprogramme une autre. Ça marche pour moi, car je sais que 2 tours plus tard -fin Décembre- il y'a ~~Hopeless~~ **Hopeful Stakes**, qui est une G1 med turf. Je peux donc programmer celle-ci à la place si je le souhaite.
+
+::: tip Note sur l'apparition des courses
+
+**Le calendrier de courses est totalement fixe**. Les courses ne bougent pas, et n'apparaissent pas aléatoirement. Hopeful Stakes est toujours fin Décembre de la Junior Year, Kyoto Junior Stakes est toujours fin Novembre de la Junior Year. Et c'est pareil pour toutes les autres. À mesure que vous jouez vous allez finir par vous souvenir de quelle course a lieu quand. Ça vous aidera à ne pas oublier les courses importantes pour votre carrière, et à garder des **repères temporels** sur l'avancement de vos carrières (exemple : Satsuki Sho immédiatement le 1e inspiration event).
+
+Pour moi qui joue Rice Shower, je suis obligé de connaître par coeur les courses medium faisable avant son objectif sur la Sprinters Stakes, car **il n'y en a que 3** pendant ces 17 tours :
+- Kyoto Junior Stakes (G3), fin novembre junior year
+- Hopeful Stakes (G1), fin décembre junior year
+- Keisei Hai (G3), début janvier classic year (2e année)
+
+Si je ne fais pas une de ces 3 courses après la debut race, je suis obligé de faire une course med OP/Pre-OP, sans quoi j'échoue la carrière.
+
+Pour le coup, c'est bien plus simple pour les uma aptes à courir en Sprint et en Mile **turf**, car il y a des tas de G3/G2 Sprint et Mile **turf** en junior year. En **dirt** par contre c'est OP/Pre-OP pendant toute la junior year, essentiellement. 
+
+Plus tard, une G1 Dirt Mile sera ajoutée fin décembre junior year. 
+
+:::
+
+Tout ça, c'est si vous jouez une uma qui a besoin de fans pour son prochain objectif.
+
+Si vous jouez Bakushin O, ce n'est pas votre cas.
+
+**Sauf si vous aviez perdu la Debut Race**. C'est pas grave, ça arrive, même si c'est stupide. 
+
+Quand vous perdez la Debut Race, vous êtes **interdit de participer à toute course** Pre-OP, OP, ou Gradée, jusqu'à ce que vous gagnez **une autre Debut Race**. Pour se faire, vous devez simplement participer à une autre Debut Race et la gagner. Tout se passe dans l'écran de choix des courses, exactement comme pour s'inscrire à une course facultative. Vous devez faire gaffe aux aptitudes, choisir une date, la programmer, et quand le jour arrive vous gagnez la course et zouh (mind you, il est possible de perdre cette 2e Debut Race aussi :currenDevilish:).
+
+#### 🌟 Si vous aviez perdu la Debut Race, cherchez la prochaine Debut Race pour laquelle vous avez les 2 étoiles ⭐ d'aptitude, appuyez sur "Schedule".
+
+La 2e sera la bonne ! On espère. Si c'est pas le cas, refaites en une 3e, etc, jusqu'à ce que vous gagnez.
+
+Sinon !
+
+Pour rappel, vous voulez continuer à monter vos supports jusqu'au niveau **orange**. Voici quelques trucs qui peuvent se passer pendant les tours qui suivent la Debut Race.
+
+[![Brève explication de l'évènement Extra Training](/assets/EarlyDays/Scen_Extra_Tore.png)](/assets/EarlyDays/Scen_Extra_Tore.png)
+
+Il est possible qu'après certains entrainements, vous ayez un évènement appelé **Extra Training**. Toutes les uma peuvent avoir cet évènement, et il s'appelle pareil pour toutes. Il se produit aléatoirement après un entrainement ; des fois vous l'aurez plein de fois dans une même carrière, et des fois pas du tout. C'est aléaoire. Cet event est identique pour toutes les uma, et propose 2 choix :
+* Haut : **-5 énergie**, +5 points sur la dernière stat entrainée et +5 point de jauge avec Yayoi (directrice)
+* Bas : **+5 énergie**
+
+Dans la vaste majorité des cas, **vous allez vouloir prendre l'option du bas**, car l'option du haut est un peu un gachi de précieuse énergie. Si votre énergie est pleine (totalement pleine), vous pouvez sélectionner celle du haut ; le gain de jauge avec Yayoi Akikawa sera utile plus tard. Mais 99% du temps, gagner **+5 pts d'énergie est bien plus précieux**. Si vous avez un doute, prenez l'option du bas.
+
+[![Brève explication des Chain Events](/assets/EarlyDays/Scen_Chain_Events.png)](/assets/EarlyDays/Scen_Chain_Events.png)
+
+Il est aussi possible que vous ayez eu des chain events ▶️ ! Là aussi, ils ont une chance aléatoire de se produire, vous n'avez aucun contrôle sur leur apparition, et il est même possible que ce ne soit pas un chain event de votre carte support. À la fin des chain events d'une carte support, vous obtiendrez généralement **un skill**. 
+
+Sur la plupart des cartes SR c'est un skill white, mais elles peuvent aussi ne pas donner de skill du tout (c'est spécifique à chaque carte). Plus tard, il y en aura qui donneront plusieurs skills whites. Toutes les cartes SSR **peuvent** vous donner un skill gold en fin de chain event, mais certaines peuvent aussi vous donner la version white du skill à la place (exemple : Mejiro McQueen stam SSR donne **Deep Breath** au lieu de **Cooldown**) ; on parle alors de "agemasen", en référence à la scène où McQueen imagine Special Week refuser de lui donner de la gratitutde, en hurlant "AGEMASEN !". Les cartes qui peuvent agemasen ont une meilleure chance de vous donner le skill gold si vous avez une valeur élevée de leur stat principale, donc beaucoup de stamina si on reste sur l'exemple de la carte Mejiro McQueen stam SSR. Et oui, c'est stupide, car un chain event peut commencer et se terminer très tôt dans la run, sans que vous n'ayez de contrôle dessus.
+
+Certains chain events peuvent vous proposer un choix ; sur la plupart des cartes support ce choix n'influe pas sur la fin du chain event, mais certaines cartes SSR peuvent être influencées par un choix effectué sur ▶️ ou ▶️▶️. Plus tard, il y aura certaines cartes SSR qui pourront vous donner 2 skills gold différents, que vous pourrez choisir en sélectionnant l'option du haut ou du bas sur le dernier chain event ▶️▶️▶️. Encore plus tard, il y aura certaines cartes SSR qui pourront vous donner 2 skills gold en même temps, lors de leur dernier chain event (la première qui aura ce pouvoir sera Almond Eye speed SSR), et j'ai hâte.
+
+Je divague, désolé. Faut m'arrêter quand c'est comme ça :currenDevilish:
+
+#### 🌟 Vous pouvez continuer à jouer normalement, jusqu'à l'arrivée de l'évènement "_New Year's Resolutions_".
+
+Quand vous y serez, je vous invite à [me suivre dans la partie 2](early_days_-_first_career_p2.md) du guide pas-à-pas.
+
+![Rice Shower effectuant un mouvement de rotation sur un banc, et se lève en courant](/assets/EarlyDays/Zeparti.gif)
