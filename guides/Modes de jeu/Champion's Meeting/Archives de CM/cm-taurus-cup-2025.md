@@ -1,6 +1,6 @@
 ---
 title: Champion's Meeting - Taurus Cup 21 Août 2025 - Japanese Derby
-menuTitle: Taurus cup - 21/06/25
+menuTitle: Taurus cup - 22/08/25
 outline: [2, 3]
 description: Recommandations pour le Champion's Meeting (Taurus Cup), Tokyo 2400m, anti-horaire, firm, sunny
 order: 1
@@ -72,7 +72,7 @@ Vous n'êtes pas obligés de tout connaître par coeur. C'est surtout pour que j
 ## Liens utiles
 
 - [Annonce officielle](https://x.com/umamusume_eng/status/1951101097982173691) du Champion’s Meeting
-- Récapitulatif en français du [fonctionnement de Champion's Meeting](./cm-introduction.md)
+- Récapitulatif en français du [fonctionnement de Champion's Meeting](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction.md)
 - Visualisation de la course sur [sur Gametora](https://gametora.com/umamusume/racetracks/tokyo#2400-turf) (⚠️ **Attention, la course est affichée comme elle sera à partir de _1st anniversary_ → La côte en début de course n’existe pas encore**)
 - Bases de données [UmapureDB](https://uma-global.pure-db.com/#/search) et [uma.moe](https://uma.moe/inheritance) pour trouver des legacies selon des critères précis.
 - Mon guide en français sur [le fonctionnement et les conditions d’activation des skills](https://umafrwiki.gloe.love/17d5f5610f1d80b3b297cd1ab77769f3) (sera mis à jour et porté sur umaguide.fr ultérieurement)
