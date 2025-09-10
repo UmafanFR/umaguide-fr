@@ -1,5 +1,5 @@
 ---
-title: Gacha review - Bannières actuelles (Seiun Sky ★★★ // Silence Suzuka speed SSR & Tamamo Cross stamina SSR)
+title: Gacha review - Bannière actuelle (Seiun Sky ★★★ // Silence Suzuka speed SSR & Tamamo Cross stamina SSR)
 menuTitle: Bannières actuelles
 outline: [2, 3]
 description: Recommandations de pulls sur les bannières actuelles de umamusume ★★★ et cartes support SSR
