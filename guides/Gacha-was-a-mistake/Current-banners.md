@@ -1,8 +1,8 @@
 ---
 title: Gacha review - Bannière actuelle (Seiun Sky ★★★ // Silence Suzuka speed SSR & Tamamo Cross stamina SSR)
-menuTitle: Bannières actuelles
+menuTitle: Bannière actuelle
 outline: [2, 3]
-description: Recommandations de pulls sur les bannières actuelles de umamusume ★★★ et cartes support SSR
+description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
 order: 1
 ---
 
@@ -20,11 +20,11 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/011_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/011_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
-# Review des bannières actuelles gacha
+# Review des bannières gacha actuelles
 
 Sur cette page nous tenterons d'évaluer la qualité des bannières gacha actuelles ; vous y trouverez une review des **bannières umamusume** et **bannières cartes support**. Le but est de vous aider à faire des pulls pertinents, et à **maximiser la valeur ajoutée des carats que vous dépensez !**
 
@@ -88,7 +88,7 @@ Bonne chance à tous·tes !
 
 ### Bannière Umamusume : Seiun Sky ★★★
 
-![Image de présentation de la bannière Seiun Sky](/public/assets/Gacha-reviews/011_Uma-Banner.png)
+![Image de présentation de la bannière Seiun Sky](/public/assets/Gacha-reviews/2025/011_Uma-Banner.png)
 _Elle est là 🔥_
 
 
@@ -121,7 +121,7 @@ La limite de 3 legacy empruntées par jour est trop faible pour vous permettre d
 
 ### Bannière support (rerun) : Silence Suzuka speed SSR et Tamamo Cross stamina SSR
 
-![Image de présentation de la bannière Suzuka speed SSR et Tamamo stam SSR](/public/assets/Gacha-reviews/011_Card-Banner.png)
+![Image de présentation de la bannière Suzuka speed SSR et Tamamo stam SSR](/public/assets/Gacha-reviews/2025/011_Card-Banner.png)
 _Pas mal pour les débutant·e·s_
 
 
@@ -150,7 +150,12 @@ _ENVISAGEZ LE :_
 
 ## Autre(s) bannière(s) umamusume actuelle(s)
 
-(à venir, je suis débordax)
+Pas d'autre bannières, ou la précédente bannière disparaît sous peu (merci dans ce cas de consulter les archives).
+
+## Vous pouvez consulter les archives des précédentes bannières
+
+* [Bannières cartes support](/guides/Gacha-was-a-mistake/Support-gacha-reviews-2025.md)
+* [Bannières umamusume ★★★](/guides/Gacha-was-a-mistake/Uma-gacha-reviews-2025.md)
 
 ---
 
