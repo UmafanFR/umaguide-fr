@@ -6,15 +6,16 @@ description: Fonctionnement détaillé et recommandations pour l'évènement PvP
 order: 0
 ---
 
-::: warning  ⚠️ Si vous aviez lu ce post AVANT le début du 1e Champion's Meeting -Taurus Cup- ⚠️
+::: warning  All good now
 
-Les infos sur l'**accès à la finale** ainsi que les **récompenses de la finale** étaient malheureusement **incorrectes**. Désolé pour le désagrément, j'ignorais que le Champion's Meeting avait été buffé sur la JP.
-
-C'est corrigé à présent. Le post sera update quand le CM sera update aussi.
+Depuis la Gemini Cup, l'accès à la finale du groupe B ne requiert plus qu'**une seule win au round 2**. Les récompenses ont aussi été modifiées, incluant les titres obtenus.
+ 
+Le post a été mis à jour pour refléter ces changements.
 
 :::
 
 # Le Champion's Meeting (PvP compétitif mensuel)
+
 
 Dans Umamusume, il existe 2 types d'évènements de PvP compétitif : **Champion's Meeting** et **League of Heroes.** Pour le moment sur la globale, nous n'avons que le Champion's Meeting ; League of Heroes sera ajouté _plus tard_.
 
@@ -43,6 +44,8 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ## Fonctionnement du Champion's Meeting (CM)
 
+![Image montrant la progression dans le Champion's Meeting, en fonction du nombre de victoires obtenues](/public/assets/Comp-PvP/CM_v2.png)
+
 ### Pour le CM, tout ce qui compte c'est _la victoire_.
 
 En CM, vous allez effectuer jusqu'à 81 fois **la même course**, contre des adversaires différents.
@@ -59,23 +62,22 @@ Environ 72h avant le début du Champion's Meeting, vous devrez choisir votre **l
 
 En **Open League**, vous devrez inscrire exclusivement des uma de **rang inférieur à B+** ; c'est à dire, **B ou moins**. Vous rencontrerez donc uniquement des **adversaires de ranks B ou moins**. En **Graded League** il n'y a **pas de limite**, et il est tout à fait possible de tomber occasionellement sur des uma de rank S. Graded League apporte **plus de récompenses** que Open League.
 
-L'évènement se déroule ainsi
+L'évènement se déroule comme suit.
 
-![Image montrant la progression dans le Champion's Meeting, en fonction du nombre de victoires obtenues](/public/assets/Comp-PvP/CM_v1.png)
 
 ::: warning Umamusume être clair challenge (impossible)
 
-Les wins indiquées sur l'image sont des wins comptées dans **une même session de 5 courses**. C'est pas au total sur la totalité du round.
+Les wins indiquées sur l'image en haut sont des wins comptées dans **une même session de 5 courses**. C'est pas au total sur la totalité du round.
 
 :::
 
 
 ### Au round 1 (jours 1 et 2) :
 
-- Si vous obtenez **moins de 2 victoires en une seule même session** (parmi les 8 sessions du round 1), vous êtes **disqualifiés** et le CM s'arrête à la fin du round pour vous.
-- Si vous remportez **2 victoire en une même session**, vous êtes **qualifiés** pour le round 2 en "**groupe B**".
-- Si vous obtenez **3 victoires en une même session**, vous êtes **qualifiés** pour participer au round 2 en " **groupe A**".
-- Jusqu'à preuve du contraire, **le matchmaking est complètement aléatoire**, et ne se produit pas en temps réel.
+- Si vous n'obtenez **aucune victoire** sur les 40 courses, vous êtes **disqualifiés** et le CM s'arrête à la fin du round pour vous.
+- Si vous remportez ne serait-ce que **1 victoire sur les 40 courses** du round, vous êtes **qualifiés** pour le round 2 en "**groupe B**".
+- Si vous obtenez **3 victoires en une même session** de 5 courses, vous êtes **qualifiés** pour participer au round 2 en " **groupe A**".
+- Jusqu'à preuve du contraire, **le matchmaking est aléatoire**, et ne se produit pas toujours en temps réel.
 
 ::: tip Galaxy brain ?
 
@@ -87,16 +89,22 @@ Attention, ça vous **privera _définitivement_ des récompenses juteuses** de l
 
 ### Au round 2 (jour 3 et 4) :
 
-- **Quel que soit votre groupe**, si vous obtenez **3 victoires en une même session** du round 2, vous êtes **qualifié pour la finale** du CM, dans **votre groupe actuel**. 
-    - Si vous étiez en groupe A, 3 victoires en round 2 vous mèneront en la finale group A
-    - Si vous étiez en groupe B, 3 victoires en round 2 vous mèneront en la finale group B
-- **Quel que soit votre groupe**, si vous obtenez **moins de 2 victoires en une même session**, vous êtes **disqualifiés** et le CM s'arrête à la fin du round pour vous.
-- Si vous êtes en **groupe B**, il est **impossible** de se qualifier à la finale en **groupe A**. Même si vous gagnez les 40 courses du round 2.
-- Jusqu'à preuve du contraire, le matchmaking est complètement **aléatoire dans un même groupe** (en groupe A vous ne pouvez pas affronter de uma du groupe B, et vice versa), et ne se produit pas en temps réel.
 
-Après le round 2 s'en suivent **24h sans course** : pendant 12h vous pouvez modifier l'équipe que vous allez inscrire à la finale. Si vous ne faites aucune modification, **la dernière équipe que vous avez joué sera inscrite par défaut** pour la finale, donc pas d'inquiétude. Après ces 12h, le serveur prépare les différentes courses en matchmaking. Aux dernières nouvelles **on ne sait pas** comment fonctionne le matchmaking.
+- **Quel que soit votre groupe**, si vous n'obtenez **aucune victoire** sur les 40 courses du round, vous êtes **disqualifiés** du CM à la fin du round 2.
+- **Quel que soit votre groupe**, si vous obtenez **au moins 1 victoire** sur les 40 courses du round, vous êtes qualifiés pour la **finale** du CM, en **groupe B**.
+- Si vous êtes en **groupe A**, et que vous obtenez **3 victoires en une même session** de 5 courses, vous êtes qualifiés pour la **finale** du CM, en **groupe A**.
+- Si vous êtes en **groupe B**, il est **impossible** de se qualifier à la finale en **groupe A**. Même si vous gagnez les 40 courses du round 2.
+- Jusqu'à preuve du contraire, le matchmaking est **aléatoire dans un même groupe** (en groupe A vous ne pouvez pas affronter de uma du groupe B, et vice versa), et ne se produit pas toujours en temps réel.
+
+Après le round 2 s'en suivent **24h sans course** : pendant 12h vous pouvez modifier l'équipe que vous allez inscrire à la finale. Si vous ne faites aucune modification, **la dernière équipe que vous avez joué sera inscrite par défaut** pour la finale, donc pas d'inquiétude. Après ces 12h, le serveur prépare les différentes courses en matchmaking. Aux dernières nouvelles **on ne sait pas** comment fonctionne le matchmaking. 
 
 Le dernier jour, c'est la finale : **une seule course, contre 2 autres joueur·euse·s**. Pour la course de la finale, toutes les uma participantes ont leur **motivation au maximum** (+4% de stats). **Votre adversaire est fixe**, et décidé par le matchmaking ; le moment où vous participez à la finale ne change rien.
+
+::: details En d'autres termes
+
+Votre course est déjà **décidée la veille** ; pendant votre finale vous ne faites que _regarder la course_ et voir le résultat. **Vous n'avez aucun moyen d'influer sur la finale**, une fois l'inscription de votre équipe validée.
+
+:::
 
 En finale de CM, **la uma qui remporte la course fait gagner toute son équipe**. Ce joueur remporte donc la victoire. Ensuite, le joueur qui a **la uma la plus proche de la victoire**, mais qui n'est **pas une uma du vainqueur**, est considéré "**2e**". Le dernier joueur est alors "3e".
 
@@ -118,19 +126,20 @@ Voici le nombre de **carats que vous obtenez en récompense** de votre participa
 
 | | Victoire | 2e | 3e
 |-----------------------|------|------|----
-Graded League - Group A | 1500 | 1200 | 900
+Graded League - Group A | 2000 | 1500 | 1000
 Graded League - Group B | 1000 | 750 | 500
-Open League - Group A | 750 | 500 | 400
+Open League - Group A | 900 | 700 | 500
 Open League - Group B | 500 | 300 | 200
 
-::: details Il y a aussi d'autres récompenses comme des support points et des tickets !
+::: details Il y a aussi D'AUTRES RÉCOMPENSES comme des support points et des tickets ! 🌟
 
-![Image montrant les différentes récompenses du CM, en fonction du groupe, de la league, et du résultat](/public/assets/Comp-PvP/CM_rewards_v1.png)
+[![Image montrant les différentes récompenses du CM, en fonction du groupe, de la league, et du résultat](/public/assets/Comp-PvP/CM_rewards_v2.png)](/public/assets/Comp-PvP/CM_rewards_v2.png)
+_Cliquez sur l'image pour la voir en grand_
 
 :::
 
 
-Le **maximum** de carats à obtenir en finale est **1500**, pour une **victoire en finale groupe A en Graded League**, et le **minimum** est **200** pour une **défaite totale en groupe B en Open League.** C'est pour ces récompenses généreuses qu'il est important d'au moins atteindre la finale en Champion's Meeting. **_Peu importe_ si vous ne pensez pas pouvoir gagner en finale**, préparez-vous au Champion's Meeting en visant **la participation à la finale** de votre league et votre groupe : Champion's Meeting est un évènement **backloaded**, et c'est **à la toute fin** que se trouvent toutes les **récompenses**.
+Le **maximum** de carats à obtenir en finale est **2000**, pour une **victoire en finale groupe A en Graded League**, et le **minimum** est **200** pour une **défaite totale en groupe B en Open League.** C'est pour ces récompenses généreuses qu'il est important d'au moins atteindre la finale en Champion's Meeting. **_Peu importe_ si vous ne pensez pas pouvoir gagner en finale**, préparez-vous au Champion's Meeting en visant **la participation à la finale** de votre league et votre groupe : Champion's Meeting est un évènement **backloaded**, et c'est **à la toute fin** que se trouvent toutes les **récompenses**.
 
 ---
 
