@@ -563,9 +563,9 @@ Non, il faut de la chance pour gagner la Debut Race, car il faut de la chance po
 
 La seule chose qui n'est "pas" aléatoire dans la course, c'est l'activation du **skill unique de votre uma**. Si votre Sakura Bakushin O s'est retrouvé top3 avec une uma juste à côté d'elle à partir de la moitié de la course, elle a activé son skill unique. C'est la seule chose qui -si les conditions sont remplies- n'est pas aléatoire. Bien entendu, si vous avez bien suivi, **les conditions en question sont aléatoires** ; si votre Bakushin a eu une avance très notable car -aléatoirement- les adversaires n'ont pas pu tenir son rythme et se placer près d'elle, les conditions d'activation de son skill n'auraient jamais été validées. C'est aléatoire.
 
-Tout ce qu'il se passe dans une course est aléatoire. Vos stats et skills **influent** sur les chances que le hasard vous soit favorable, mais ultimately **c'est le hasard qui décide**. C'est pour ça que si vous avez gagné la Debut Race (et n'importe quelle autre course qui suit), vous avez eu de la chance. P't'être que votre build était tellement forte que votre chance d'échec c'était 5%, mais de temps en temps vous tomberez dans ces 5% par manque de chance, et vous perdrez :currenDevilish: **Votre chance de victoire dans une course c'est jamais 100%**. Il est toujours possible d'imposer une condition de défaite à votre uma (mais meilleures sont les stats et skills de votre uma, plus ce sera difficile de la mettre en échec), car comme a dit un grand sage : **when you get blocked, you get blocked**.
+Tout ce qu'il se passe dans une course est aléatoire. Vos stats et skills **influent** sur les chances que le hasard vous soit favorable, mais ultimately **c'est le hasard qui décide**. C'est pour ça que si vous avez gagné la Debut Race (et n'importe quelle autre course qui suit), vous avez eu de la chance. P't'être que votre build était tellement forte que votre chance d'échec c'était 2%, mais de temps en temps vous tomberez dans ces 2% par manque de chance, et vous perdrez :currenDevilish: **Votre chance de victoire dans une course c'est jamais 100%**. Il est toujours possible d'imposer une condition de défaite à votre uma (mais meilleures sont les stats et skills de votre uma, plus ce sera difficile de la mettre en échec), car comme a dit un grand sage : **when you get blocked, you get blocked**.
 
-Gardez toujours ça en tête. Je reconnais que c'est frustrant de perdre une course qui vous parait très simple. Mais c'est le hasard qui décide.
+Gardez toujours ça en tête. Je reconnais que c'est frustrant de perdre une course qui vous parait très simple. Mais **c'est le hasard qui décide**, et le hasard s'en fiche de vous.
 
 ## Suite de la carrière, et inscription aux courses
 
@@ -587,7 +587,7 @@ La directrice -Yayoi Hakikawa- et la journaliste -Etsuko Otonashi- **ne sont PAS
 
 Si vous ne jouez pas Sakura Bakushin O, votre uma a peut-être **besoin de davantage fans pour son prochain objectif**. La Keio Hai Junior Stakes, sur laquelle Sakura Bakushin O doit faire top5 pour son prochain objectif, ne requiert d'avoir que 375 fans pour s'y inscrire. C'est bien moins que ce vous avez gagné sur votre Debut Race, donc vous n'avez pas besoin de vous en inquiéter. 
 
-Rice Shower -et de nombreuses autres uma- doit faire top5 sur une course pour laquelle elle n'a pas encore assez de fan pour l'inscription. Dans son cas à elle, il s'agit du **Spring Stakes** (17 tours plus tard), mais elle ne peut y participer que si elle a 1750 fans, ou plus. La grande majorité du temps, la Debut Race sera insuffisante pour avoir autant de fans, ce qui vous empêche de vous y inscrire. Si vous ne pouvez pas vous inscrire à une course obligatoire, faute de fans, **vous perdez la carrière** lorsque le tour de l'objectif arrive.
+Rice Shower -et de nombreuses autres uma- doit faire top5 sur une course pour laquelle elle n'a **pas encore assez de fan pour l'inscription**. Dans son cas à elle, il s'agit du **Spring Stakes** (17 tours plus tard), mais elle ne peut y participer que si elle a 1750 fans, ou plus. La grande majorité du temps, la Debut Race sera insuffisante pour avoir autant de fans, ce qui vous empêche de vous y inscrire. Si vous ne pouvez pas vous inscrire à une course obligatoire, faute de fans, **vous perdez la carrière** lorsque le tour de l'objectif arrive.
 
 ::: warning Variante
 
@@ -597,7 +597,7 @@ Certaines uma ont parfois pour objectif même d'avoir un certain nombre de fans 
 
 Pour augmenter votre nombre de fans (si votre carrière le requiert), vous devez participer à des **courses supplémentaires**, qui seront alors **facultatives**. Chaque course (obligatoire ou pas) vous apporte des fans, en fonction du **résultat de la course**. La Debut Race n'en donne pas beaucoup, et pour la plupart des uma il suffit alors (mais pas toujours) de faire **une seule course facultative G3** (ou mieux) pour atteindre le nombre de fans requis pour la prochaine course obligatoire. C'est le cas pour Rice Shower : une seule course en G3 apporte bien plus que les 350 fans supplémentaires requis pour l'inscription à Spring Stakes.
 
-Les courses G3 sont les courses "gradées" les moins prestigieuses et les moins difficiles. Il y a aussi les courses **G2** qui sont plus notables, puis les courses **G1** ; les plus renommées. Vous y affronterez parfois (parfois) **une uma un peu plus forte que les autres**, qui pourrait vous mettre légèrement en difficulté (si c'est le cas, ce sera souvent (mais pas toujours) la même pendant le reste de votre carrière :currenDevilish:). Mais n'hésitez pas à tenter votre chance malgré tout ; même si elles peuvent paraître **intimidantes**, les G1 sont faciles pour tout·e joueur·euse qui sait un minimum jouer. D'ici 4-5 carrières vous n'aurez pas à vous en inquiéter. Vous n'avez pas à vous en inquiéter dés maintenant anyways.
+Les courses G3 sont les courses "gradées" les moins prestigieuses et les moins difficiles. Il y a aussi les courses **G2** qui sont plus notables, puis les courses **G1** ; les plus renommées (vous en connaissez sans doute certaines de nom, comme le Nippon Derby ou Arima Kinen). Vous y affronterez parfois (parfois) **une uma un peu plus forte que les autres**, qui pourrait vous mettre légèrement en difficulté (si c'est le cas, ce sera souvent (mais pas toujours) la même pendant le reste de votre carrière :currenDevilish:). Mais n'hésitez pas à tenter votre chance malgré tout ; même si elles peuvent paraître **intimidantes**, les G1 sont faciles pour tout·e joueur·euse qui sait un minimum jouer. D'ici 4-5 carrières vous n'aurez pas à vous en inquiéter. Vous n'avez pas à vous en inquiéter dés maintenant anyways.
 
 Plus une course est prestigieuse, plus elle apporte de récompenses :
 - davantage de fans
@@ -606,28 +606,43 @@ Plus une course est prestigieuse, plus elle apporte de récompenses :
 
 ::: tip Umamusume être intuitif challenge (impossible)
 
-For some ungodly reason, les courses G3 et G2 ont beau être de grade différents, elles apportent les même récompenses en stats et en skill points 🙃
+For some ungodly reason, les courses G3 et G2 ont beau être de grade différents, elles apportent les **même récompenses** en stats et en skill points 🙃
 
 (le gain de fans varie bien de course en course par contre)
 
 :::
 
-Chaque fois que c'est possible, **éviter de participer à des courses OP et Pre-OP**. Leurs récompenses (fans y compris) sont vraiment faibles par rapport au coût en énergie. Cela dit, certaines uma n'ont pas d'autres options, et d'autres uma ont même des course OP ou Pre-OP en objectif obligatoire 🤷🏾‍♂️
+Chaque fois que c'est possible, **éviter de participer à des courses OP et Pre-OP**. Leurs récompenses (fans y compris) sont vraiment faibles par rapport au coût en énergie. Cela dit, certaines uma n'ont pas d'autres options, et d'autres uma ont même des courses OP ou Pre-OP en objectif obligatoire 🤷🏾‍♂️
 
 [![3 images montrant la sélection d'une course facultative](/assets/EarlyDays/Scen_Facultative_Race.png)](/assets/EarlyDays/Scen_Facultative_Race.png)
 
-Pour moi qui joue Rice Shower (et peut-être vous aussi, si vous ne jouez pas Sakura Bakushin O), j'ai besoin de davantage de fans avant les 17 tours qui me séparent du prochain objectif. Je vais donc **programmer ma prochaine course**. À n'importe quel tour, je clique sur le bouton "Race" pour ouvrir l'écran de choix de course, et j'utilise les flèches **<** et **>** pour avancer de tour en tour. Mon but est simple ; trouver une course qui remplisse ces 3 critères :
+Pour moi qui joue Rice Shower (et peut-être vous aussi, si vous ne jouez pas Sakura Bakushin O), j'ai besoin de davantage de fans avant les 17 tours qui me séparent du prochain objectif. Je vais donc **programmer ma prochaine course**. À n'importe quel tour, je clique sur le bouton "Race" pour ouvrir l'écran de choix de course. Ici, je peux utiliser les flèches **<** et **>** pour avancer de tour en tour. Mon but est simple ; trouver une course qui remplisse ces 3 critères :
 - la course doit avoir lieu **_avant_ ma prochaine course obligatoire** (vu que j'ai besoin des fans pour y participer), donc avant 17 tours en l'occurrence.
 - la course doit être -de préférence- de grade **G3** ou mieux, car les course OP et Pre-OP sont un gaspillage d'énergie
 - Rice doit avoir les bonnes aptitudes pour la course, c'est à dire les 2 étoiles ⭐ pour les aptitudes de distance et de terrain
 
-La présence des 2 étoiles ⭐ sur le choix de la course est très important, car si ma uma a des mauvaises aptitudes pour une course, ses stats et sa performance baissera fortement. L'aptitude de surface (Turf ou Dirt) donne sa capacité à accélérer sur cette surface ; avec une aptitude de C ou pire (pas d'étoile), l'accélération de ma uma est réduite de 20% ou pire (jusqu'à -90% avec G) pendant toute la course.
+La présence des 2 étoiles ⭐ sur le choix de la course est très important, car si ma uma a des mauvaises aptitudes pour une course, **ses stats et sa performance baissera fortement**
+
+* L'aptitude de **surface** (Turf ou Dirt) définis la capacité à **accélérer** sur cette surface ; avec une aptitude de **C ou pire** (pas d'étoile), l'accélération de votre uma est **réduite de 20%** ou pire (jusqu'à -90% avec G) pendant toute la course.
+* L'aptitude de **distance** (sprint, mile, etc) définis la capacité à **courir à pleine vitesse**, pendant la phase finale -appélé "**late-race**"- d'une course de cette distance ; avec une aptitude de **C ou pire**, la vitesse de pointe de votre uma est **réduite de 20%** ou pire (jusqu'à -90% avec G).
+
+::: tip L'aptitude de stratégie (rappel)
+
+(appelée aptitude de "style" in game)
+
+L'aptitude de stratégie/style (Front, Pace, etc) définis la capacité à **se positionner de manière optimale** en courant selon cette stratégie, ce qui est essentiellement déterminé par votre stat de **wits**. 
+
+Cependant, comme mentionné plus haut, en **carrière** toutes vos statistiques sont secrètement boostées, ce qui vous permet d'ignorer l'aptitude de stratégie de votre uma. Même avec **G** dans une aptitude de **stratégie**, votre uma aura suffisamment de wits pour courir suffisamment assez bien pour gagner ses courses.
+
+Ça ne s'applique qu'en **carrière**, et qu'à l'aptitude de **stratégie**.
+
+:::
 
 Fin Novembre, dans 9 tours, il y a la Kyoto Junior Stakes, qui est une **course medium sur du turf**. Rice est parfaitement apte pour cette course, donc je décide que je vais vouloir la faire, en appuyant sur "**Schedule**". Quand le tour de cette course arrivera, je serai rappelé que j'ai une course facultative ce tour là ; comme elle n'est pas obligatoire **je peux décider de ne pas faire la course** ce tour là finalement. Par exemple, si sur ce tour là j'ai un excellent stack d'entrainement, je peux annuler la course et m'entrainer à la place. Mais pour sécuriser mon objectif de fans, il faudra que j'en reprogramme une autre. Ça marche pour moi, car je sais que 2 tours plus tard -fin Décembre- il y'a ~~Hopeless~~ **Hopeful Stakes**, qui est une G1 med turf. Je peux donc programmer celle-ci à la place si je le souhaite.
 
 ::: tip Note sur l'apparition des courses
 
-**Le calendrier de courses est totalement fixe**. Les courses ne bougent pas, et n'apparaissent pas aléatoirement. Hopeful Stakes est toujours fin Décembre de la Junior Year, Kyoto Junior Stakes est toujours fin Novembre de la Junior Year. Et c'est pareil pour toutes les autres. À mesure que vous jouez vous allez finir par vous souvenir de quelle course a lieu quand. Ça vous aidera à ne pas oublier les courses importantes pour votre carrière, et à garder des **repères temporels** sur l'avancement de vos carrières (exemple : Satsuki Sho immédiatement le 1e inspiration event).
+**Le calendrier de courses est totalement fixe**. Les courses ne bougent pas, et n'apparaissent pas aléatoirement. Hopeful Stakes est toujours fin Décembre de la Junior Year, Kyoto Junior Stakes est toujours fin Novembre de la Junior Year. Et c'est pareil pour toutes les autres. À mesure que vous jouez vous allez finir par vous souvenir de quelle course a lieu quand. Ça vous aidera à ne pas oublier les courses importantes pour votre carrière, et à garder des **repères temporels** sur l'avancement de vos carrières (exemple : Satsuki Sho immédiatement après le 1e inspiration event).
 
 Pour moi qui joue Rice Shower, je suis obligé de connaître par coeur les courses medium faisable avant son objectif sur la Sprinters Stakes, car **il n'y en a que 3** pendant ces 17 tours :
 - Kyoto Junior Stakes (G3), fin novembre junior year
@@ -642,15 +657,13 @@ Plus tard, une G1 Dirt Mile sera ajoutée fin décembre junior year.
 
 :::
 
-Tout ça, c'est si vous jouez une uma qui a besoin de fans pour son prochain objectif.
+Tout ça, c'est si vous jouez une uma qui a _besoin de fans pour son prochain objectif_.
 
-Si vous jouez Bakushin O, ce n'est pas votre cas.
-
-**Sauf si vous aviez perdu la Debut Race**. C'est pas grave, ça arrive, même si c'est stupide. 
+Si vous jouez Bakushin O, ce n'est pas votre cas. **Sauf si vous aviez perdu la Debut Race**. C'est pas grave, ça arrive, même si c'est stupide. 
 
 Quand vous perdez la Debut Race, vous êtes **interdit de participer à toute course** Pre-OP, OP, ou Gradée, jusqu'à ce que vous gagnez **une autre Debut Race**. Pour se faire, vous devez simplement participer à une autre Debut Race et la gagner. Tout se passe dans l'écran de choix des courses, exactement comme pour s'inscrire à une course facultative. Vous devez faire gaffe aux aptitudes, choisir une date, la programmer, et quand le jour arrive vous gagnez la course et zouh (mind you, il est possible de perdre cette 2e Debut Race aussi :currenDevilish:).
 
-#### 🌟 Si vous aviez perdu la Debut Race, cherchez la prochaine Debut Race pour laquelle vous avez les 2 étoiles ⭐ d'aptitude, appuyez sur "Schedule".
+#### 🌟 _Si vous aviez perdu la Debut Race_, cherchez la prochaine Debut Race pour laquelle vous avez les 2 étoiles ⭐ d'aptitude, et appuyez sur "Schedule" pour la programmer.
 
 La 2e sera la bonne ! On espère. Si c'est pas le cas, refaites en une 3e, etc, jusqu'à ce que vous gagnez.
 
@@ -666,13 +679,65 @@ Il est possible qu'après certains entrainements, vous ayez un évènement appel
 
 Dans la vaste majorité des cas, **vous allez vouloir prendre l'option du bas**, car l'option du haut est un peu un gachi de précieuse énergie. Si votre énergie est pleine (totalement pleine), vous pouvez sélectionner celle du haut ; le gain de jauge avec Yayoi Akikawa sera utile plus tard. Mais 99% du temps, gagner **+5 pts d'énergie est bien plus précieux**. Si vous avez un doute, prenez l'option du bas.
 
+::::: tip Un autre event similaire
+
+Il y a un autre évènement qui peut se produire aléatoirement **plusieurs fois dans une run**, ou pas du tout, et qui est **identique** pour toutes les uma : l'évènement qui se produit "au restaurant" (ou similaire). Si l'évènement est bien _identique_ pour toutes les uma, le texte, l'intitulé des choix ainsi que **le _nom_ de l'event changent pour chaque uma**. 
+
+Mais les récompenses sont toujours les mêmes :
+
+- option du haut : +10 énergie, +5 skills points
+- option du bas 
+    - succès : **+30 énergie**, +10 skills points
+    - échec (rare, environ 10% ?) : +30 énergie, +10 skills points, -5 speed, +5 power, debuff **Slow Metabolism**.
+
+Vous pouvez donc reconnaître cet évènement à ces récompenses. Si vous tombez sur un event qui donne **+10 énergie et +5 skills points avec l'option du haut**, il y a des grandes chances que ce soit l'event "au restaurant", et vous allez vouloir **retenir son nom**. Cet event peut se reproduire pendant la carrière, et s'appelera toujours de la même manière pour chaque uma. Pour Sakura Bakushin O, l'event s'appelle "**Bakushin?! Class?!**". Pour Rice Shower l'event s'appelle "**A Page about Apples**". Pour d'autres uma le nom sera différent. C'est bien de le reconnaître, pour pouvoir faire un choix pertinent quand l'event se produit.
+
+Le debuff Slow Metabolism **bloque totalement votre gain de speed**, et est donc très gênant à avoir. C'est le risque à accepter pour obtenir un gros gain d'énergie en prenant l'option du bas.
+
+La plupart du temps, c'est acceptable de prendre l'option du bas pour avoir +30 énergie. Mais si vous n'avez pas confiance, n'hésitez pas à prendre l'option du haut, qui est parfaitement safe et ne peut pas échouer !
+
+:::: warning Similairement...
+
+::: details La creatura...
+
+![Brève explication de l'évènement Extra Training](/assets/EarlyDays/La_Creatura.png)
+
+:::
+
+Un autre event notable, mais aussi bien plus rare, c'est la visite de l'acupuncturiste. L'event s'appelle "**Just an Acupuncturist, No Worries! ☆**", et ne peut se produire qu'**une fois par carrière** (si même il se produit).
+
+Cet évènement propose 5 choix, dont 4 sont potentiellement à double-tranchant. On en parle [dans la FAQ](/guides/FAQ/faq-carriere.md#quelle-option-choisir-avec-l-acupuncturiste). Sans entrer dans les détails de chaque option :
+
+- si vous êtes **en début de carrière** (junior year ou début de classic year), **prenez l'option 4**, pour obtenir le buff **Charming**, qui accélère la **croissance des jauges**. C'est toujours le **choix optimal en début de carrière**. Cette option a peu de chance d'échec, et est vachement **fiable**.
+- si vous êtes plus avancé dans la carrière, ou que la plupart de vos supports ont déjà leur jauge orange, prenez l'**option 3** (gros gain d'énergie) **ou 5** (+10 énergie, sans risque d'échec).
+
+_Je vous **déconseille fortement** l'option 1 (grosse chance d'échec sévère) et l'option 2 (aucune récompense intéressante anyways)._
+
+::::
+
+:::::
+
+Il est aussi possible que vous ayez eu des chain events ▶️ !
+
 [![Brève explication des Chain Events](/assets/EarlyDays/Scen_Chain_Events.png)](/assets/EarlyDays/Scen_Chain_Events.png)
 
-Il est aussi possible que vous ayez eu des chain events ▶️ ! Là aussi, ils ont une chance aléatoire de se produire, vous n'avez aucun contrôle sur leur apparition, et il est même possible que ce ne soit pas un chain event de votre carte support. À la fin des chain events d'une carte support, vous obtiendrez généralement **un skill**. 
+Là aussi, ils ont une chance aléatoire de se produire, vous n'avez aucun contrôle sur leur apparition. Il est même possible que ce ne soit pas un chain event d'une de vos cartes support. À la fin des chain events d'une carte support, vous obtiendrez généralement -mais pas toujours- **un skill**. 
 
-Sur la plupart des cartes SR c'est un skill white, mais elles peuvent aussi ne pas donner de skill du tout (c'est spécifique à chaque carte). Plus tard, il y en aura qui donneront plusieurs skills whites. Toutes les cartes SSR **peuvent** vous donner un skill gold en fin de chain event, mais certaines peuvent aussi vous donner la version white du skill à la place (exemple : Mejiro McQueen stam SSR donne **Deep Breath** au lieu de **Cooldown**) ; on parle alors de "agemasen", en référence à la scène où McQueen imagine Special Week refuser de lui donner de la gratitutde, en hurlant "AGEMASEN !". Les cartes qui peuvent agemasen ont une meilleure chance de vous donner le skill gold si vous avez une valeur élevée de leur stat principale, donc beaucoup de stamina si on reste sur l'exemple de la carte Mejiro McQueen stam SSR. Et oui, c'est stupide, car un chain event peut commencer et se terminer très tôt dans la run, sans que vous n'ayez de contrôle dessus.
+Sur la plupart des cartes **SR** c'est un skill **white**, mais elles peuvent aussi ne pas donner de skill du tout (c'est spécifique à chaque carte). Plus tard, il y en aura qui donneront plusieurs skills whites. 
 
-Certains chain events peuvent vous proposer un choix ; sur la plupart des cartes support ce choix n'influe pas sur la fin du chain event, mais certaines cartes SSR peuvent être influencées par un choix effectué sur ▶️ ou ▶️▶️. Plus tard, il y aura certaines cartes SSR qui pourront vous donner 2 skills gold différents, que vous pourrez choisir en sélectionnant l'option du haut ou du bas sur le dernier chain event ▶️▶️▶️. Encore plus tard, il y aura certaines cartes SSR qui pourront vous donner 2 skills gold en même temps, lors de leur dernier chain event (la première qui aura ce pouvoir sera Almond Eye speed SSR), et j'ai hâte.
+Toutes les cartes SSR **peuvent** vous donner un skill **gold** en fin de chain event, mais certaines **peuvent** aussi vous donner la **version white** du skill à la place (exemple : Mejiro McQueen stam SSR peut donner **Deep Breath** au lieu de **Cooldown**). Ces cartes là ont une meilleure chance de vous donner le skill gold si vous avez une valeur élevée de leur stat principale (beaucoup de stamina si on reste sur l'exemple de la carte Mejiro McQueen stam SSR). Et oui, c'est stupide, car un chain event peut commencer et se terminer très tôt dans la run, sans que vous n'ayez de contrôle dessus.
+
+::: tip Point "vocabulaire" :9
+
+Quand une carte SSR refuse de vous donner son skill gold, et vous offre la version white à la place, on parle généralement de "**agemasen**". C'est en référence à la scène dans la saison 2 de l'anime, où McQueen imagine Special Week refuser de lui donner de la gratitutde, en hurlant "AGEMASEN !"
+
+Sur la version japonaise du jeu, ça fait des années qu'on a pas eu de nouvelle carte SSR qui peut agemasen. Les devs ont du se rendre compte de la stupidité du truc. Mais sur la globale il y en a encore plusieurs à venir avant d'en être débarrassé :currenDevilish:
+
+:::
+
+Certains chain events peuvent vous proposer un choix ; sur la plupart des cartes support ce choix n'influe pas sur la fin du chain event.
+
+Plus tard, il y aura certaines cartes SSR qui pourront vous donner 2 skills gold différents, que vous pourrez choisir en sélectionnant l'option du haut ou du bas sur un des chain events. Encore plus tard, il y aura certaines cartes SSR qui pourront vous donner 2 skills gold en même temps, lors de leur dernier chain event (la première qui aura ce pouvoir sera Almond Eye speed SSR), et j'ai hâte.
 
 Je divague, désolé. Faut m'arrêter quand c'est comme ça :currenDevilish:
 

@@ -146,25 +146,25 @@ Si vous êtes en **début de run** (Junior Year, ou début de Classic Year), sé
 
 Voici un résumé des options :
 
-- Option 1 (50% chance de succès)
+- Option 1 (50% chance de succès ?)
 
   - ✅ +20 all stats
   - ❌ **-15 all stats**, -2 mood down, debuff **Night Owl**
   - High risk, high reward, grosse punition en cas d'échec
 
-- Option 2 (60% chance de succès)
+- Option 2 (60% chance de succès? )
 
   - ✅ Skills Straightaway Recovery et Corner Recovery ○
   - ❌ -20 énergie, -2 mood down
   - High risk, reward pas ouf, assez forte punition en cas d'échec
 
-- Option 3 (80% chance de succès)
+- Option 3 (80% chance de succès ?)
 
   - ✅ +12 énergie max, +40 énergie, soigne tous les debuffs
   - ❌ -20 énergie, -2 mood down, debuff Practice Poor
   - Risque "faible", bon reward, assez forte punition en cas d'échec
 
-- Option 4 (90% chance de succès)
+- Option 4 (90% chance de succès ?)
 
   - ✅ +20 énergie, +1 mood up, buff Charming ○
   - ❌ -10 ou -20 énergie, -1 mood down, parfois aussi le debuff Practice Poor
