@@ -21,15 +21,15 @@ Ces posts sont destinés aux joueur·euse·s qui ne savent pas "par quoi commenc
 
 Ici, on n'abordera vraiment que **les bases**, un tout petit bout de la surface. Vous aurez forcément des questions à mesure que vous lisez, et j'essairai d'y répondre aux mieux, et au moments qui me paraissent pertinents. Pour cette raison, ce guide est assez long.
 
-::: tip Cela dit
+::: tip C'est vraiment le tout début du jeu
 
-Si vous avez déjà fait plusieurs carrières avec plusieurs uma différentes, et que vous avez au moins 3 ou 4 uma dans vos équipes de Team Trials, je pense que vous n'êtes pas le public de ce guide. Vous pouvez le lire malgré tout, vous y apprendrez peut-être quelques trucs ici et là.
+Si vous avez déjà fait plusieurs carrières avec plusieurs uma différentes, et que vous avez au moins 3 ou 4 uma dans vos équipes de Team Trials, je pense que vous n'êtes pas le public de ce guide. Je vous recommande typiquement de [vous pencher sur la FAQ plutôt](/guides/FAQ/faq.md). Mais vous pouvez le lire ce guide malgré tout, vous y apprendrez peut-être quelques trucs ici et là.
 
 :::
 
-![Rice Shower, arrivant en première position du Tenno Sho Spring](/assets/EarlyDays/Haruten.png)
+![Rice Shower, arrivant en première position du Tenno Sho Spring](/assets/EarlyDays/BakushinShimashou.png)
 
-Voici un bref sommaire de ce guide "pas-à-pas".
+Mettez vous à l'aise et préparez un snack, il y a fort à faire et à voir. Voici un bref sommaire de ce guide "pas-à-pas".
 
 * [Avant de commencer à jouer](early_days_-_before_starting)
     * [Pourquoi faire des rerolls de cartes support](early_days_-_before_starting#pourquoi-faire-des-rerolls-de-cartes-support)

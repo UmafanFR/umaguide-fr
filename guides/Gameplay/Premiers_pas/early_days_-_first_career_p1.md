@@ -45,6 +45,8 @@ Nous allons commencer par une carrière avec **Sakura Bakushin O**, car c'est **
 
 De mon côté, je vous montrerai des captures d'écran d'une carrière avec **Rice Shower**, ~~parce que je peux~~ pour que vous suiviez et que vous ne vous contentiez pas de cliquer là où je vous dit :9
 
+De plus, dans leurs différences, les carrières de Bakushin O et Rice me permettent de couvrir de nombreux sujets et nuances. 
+
 :::
 
 Ça fera très vite sens après que vous ayez fait 2-3 autres carrières, mais avec son planning constitué exclusivement de distances **Sprint** (et quelques Mile) sur du **Turf**, la carrière de Bakushin O n'a presque aucune difficulté notable. Il est donc recommandé de commencer par elle pour apprendre le fonctionnement d'une carrière.
