@@ -743,6 +743,6 @@ Je divague, désolé. Faut m'arrêter quand c'est comme ça :currenDevilish:
 
 #### 🌟 Vous pouvez continuer à jouer normalement, jusqu'à l'arrivée de l'évènement "_New Year's Resolutions_".
 
-Quand vous y serez, je vous invite à [me suivre dans la partie 2](early_days_-_first_career_p2.md) du guide pas-à-pas.
+Quand vous y serez, je vous invite à [me suivre dans la partie 2](/guides/Gameplay/Premiers_pas/early_days_-_first_career_p2.md) du guide pas-à-pas.
 
 ![Rice Shower effectuant un mouvement de rotation sur un banc, et se lève en courant](/assets/EarlyDays/Zeparti.gif)

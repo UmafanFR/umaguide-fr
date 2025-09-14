@@ -92,7 +92,7 @@ N'hésitez pas à faire le maximum de courses que vous pouvez, car elles vous ra
 N'hésitez pas à zieuter les différentes bannières, parfois il y en a beaucoup d'un coup, donc on voit mal lesquelles finissent bientôt. Si vous obtenez un nouveau **ticket gold ou rainbow _aléatoire_** (!= selector/pick ticket), il sera dans ce menu aussi, en tant que **bannière séparée**. Les tickets aléatoire n'expirent pas, donc il n'y a pas d'urgence pour les utiliser, mais pas non plus de raison de ne pas les utiliser immédiatement (par contre vous pouvez conserver un selector jusqu'à être certain·e de ce que vous voulez obtenir).
 
 
-::: tip Foresight
+::: tip JP Foresight
 
 Plus tard, il y aura d'autres "types" de bannières, comme des bannières avec exclusivement 10 uma dans le pool de uma ★★★ (vous pouvez quand même obtenir des ★, mais aucune autre ★★★ que les 10 de la bannière), ou des bannières support où vous pouvez choisir 2 cartes supports à mettre en highlight parmi 10. Il y aura aussi des bannières qu'on ne peut pull qu'avec des carats payants, et d'autres que j'oublie peut-être.
 

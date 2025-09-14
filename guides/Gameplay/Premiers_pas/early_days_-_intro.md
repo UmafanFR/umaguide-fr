@@ -17,9 +17,9 @@ Rappel à toutes fin utiles que tout ce qui suit sont des recommandations, et qu
 
 :::
 
-Ce post est destiné aux joueur·euse·s qui ne savent pas "par quoi commencer", s'il y a des choses à faire ou ne pas faire en commençant à jouer, etc. On essaira d'y couvrir les notions de base, que vous aurez tout le temps d'approfondir plus tard en jouant, ou en lisant les autres gudies sur umaguide.fr (et autres ressources, comme [gametora.com](https://gametora.com/umamusume)), ou en discutant et en posant des questions sur le [serveur discord UmamusumeFR](https://discord.gg/kuKGHzgjv5) (ou autres serveurs). Umamusume est riche en mécaniques, systèmes et notions à connaître et comprendre, ainsi que de très nombreuses couches de hasard qui intéragissent entre elles. Le jeu est complexe, et c'est parfaitement normal de mettre très longtemps à le comprendre réellement.
+Ces posts sont destinés aux joueur·euse·s qui ne savent pas "par quoi commencer", s'il y a des choses à faire ou ne pas faire en commençant à jouer, etc. On essaira d'y couvrir les notions de base, que vous aurez tout le temps d'approfondir plus tard en jouant, ou en lisant les autres gudies sur umaguide.fr (et autres ressources, comme [gametora.com](https://gametora.com/umamusume)), ou en discutant et en posant des questions sur le [serveur discord UmamusumeFR](https://discord.gg/kuKGHzgjv5) (ou autres serveurs). Umamusume est riche en mécaniques, systèmes et notions à connaître et comprendre, ainsi que de très nombreuses couches de hasard qui intéragissent entre elles. Le jeu est complexe, et c'est parfaitement normal de mettre très longtemps à le comprendre réellement.
 
-Ici, on n'abordera vraiment que **les bases**, un tout petit bout de la surface.
+Ici, on n'abordera vraiment que **les bases**, un tout petit bout de la surface. Vous aurez forcément des questions à mesure que vous lisez, et j'essairai d'y répondre aux mieux, et au moments qui me paraissent pertinents. Pour cette raison, ce guide est assez long.
 
 ::: tip Cela dit
 
@@ -31,16 +31,17 @@ Si vous avez déjà fait plusieurs carrières avec plusieurs uma différentes, e
 
 Voici un bref sommaire de ce guide "pas-à-pas".
 
-* [Avant de commencer à jouer](02_early_days_-_before_starting)
-    * [Pourquoi faire des rerolls de cartes support](02_early_days_-_before_starting#pourquoi-faire-des-rerolls-de-cartes-support)
-    * [Bonnes cartes à avoir dans un reroll](02_early_days_-_before_starting.md#bonnes-cartes-a-avoir-dans-un-reroll)
-    * [Faites le Data Link avec un mot de passe](02_early_days_-_before_starting.md#faites-le-data-link-avec-un-mot-de-passe)
-* [Exploration rapide des menus du jeu](/guides/Premiers%20pas/03_early_days_-_menus.md)
-    * [Écran principal](03_early_days_-_menus.md#ecran-principal)
-    * [Menu "Enhance"](03_early_days_-_menus#menu-enhance)
-    * [Menu "Race"](03_early_days_-_menus#menu-race)
-    * [Menu "Scout"](03_early_days_-_menus#menu-gacha-was-a-mistake-scout)
-* [Vos premières carrières](04_early_days_-_career)
+* [Avant de commencer à jouer](early_days_-_before_starting)
+    * [Pourquoi faire des rerolls de cartes support](early_days_-_before_starting#pourquoi-faire-des-rerolls-de-cartes-support)
+    * [Bonnes cartes à avoir dans un reroll](early_days_-_before_starting.md#bonnes-cartes-a-avoir-dans-un-reroll)
+    * [Faites le Data Link avec un mot de passe](early_days_-_before_starting.md#faites-le-data-link-avec-un-mot-de-passe)
+* [Exploration rapide des menus du jeu](early_days_-_menus.md)
+    * [Écran principal](early_days_-_menus.md#ecran-principal)
+    * [Menu "Enhance"](early_days_-_menus#menu-enhance)
+    * [Menu "Race"](early_days_-_menus#menu-race)
+    * [Menu "Scout"](early_days_-_menus#menu-gacha-was-a-mistake-scout)
+* [Carrière sur le scénario URA Finale - Partie 1](early_days_-_first_career_p1.md)
+* [Carrière sur le scénario URA Finale - Partie 2](early_days_-_first_career_p2.md)
 * [Derniers conseils pour vos premiers jours de jeu]()
 
 -----

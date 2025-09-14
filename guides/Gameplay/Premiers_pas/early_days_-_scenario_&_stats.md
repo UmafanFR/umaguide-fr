@@ -17,7 +17,7 @@ Maintenant que vous avez des bonnes cartes support (on espère), et que vous ave
 
 ## Le mode carrière et ses scénarios
 
-Dans Umamusume Pretty Derby, une "run" de carrière se déroule sur environ 65~ tours pendant lesquels vous pourrez effectuer des **entrainements**, des **courses** ou des **repos**. Entre 2 tours d'une carrière, des **évènements aléatoires** peuvent se produire (rencontre/dialogue avec un autre personnage, choisi semi-aléatoirement) afin de vous donner des skills et booster davantage les stats de la uma que vous entrainez. Certains de ces évènements vous imposent un **choix à faire** qui va décider de la **récompense de l’event**. Parfois vous aurez aussi des **buffs ou debuffs** qui peuvent arriver parfaitement aléatoirement et vous suivront pendant **tous le reste de la carrière**. Mais les debuffs peuvent être retirés à l'**infirmerie** (ou aléatoirement).
+Dans Umamusume Pretty Derby, une "run" de carrière se déroule sur environ 70~ tours pendant lesquels vous pourrez effectuer des **entrainements**, des **courses** ou des **repos**. Entre 2 tours d'une carrière, des **évènements aléatoires** peuvent se produire (rencontre/dialogue avec un autre personnage, choisi semi-aléatoirement) afin de vous donner des skills et booster davantage les stats de la uma que vous entrainez. Certains de ces évènements vous imposent un **choix à faire** qui va décider de la **récompense de l’event**. Parfois vous aurez aussi des **buffs ou debuffs** qui peuvent arriver parfaitement aléatoirement et vous suivront pendant **tous le reste de la carrière**. Mais les debuffs peuvent être retirés à l'**infirmerie** (ou aléatoirement).
 
 Votre carrière se déroule toujours au sein d'un **_scénario_ de carrière**, qui sert de fil rouge et d'intrigue générale. C'est une trame narrative avec un début, des péripéties et une fin, toujours identiques (modulo les "fins alternatives" comme les échecs, ou les différentes distances), ainsi qu'un set d'events exclusifs au scénario. La plupart de ces events sont parfaitement scriptés, et se produisent toujours de la même manière, afin de faire progresser l'intrigue du scénario (exemple : le sub-plot avec Happy Meek et son entraineuse, Aoi Kiryuin, dans le scénario URA). Mais une partie de ces évènements ont une condition d'activation précise (exemple : "Three-Legged Race", dans URA) ou complètement aléatoire (exemple : "Best Foot Forward", dans URA).
 
@@ -102,7 +102,7 @@ Les **stats** (ou "attributs") décrivent à quel point votre uma :
 - va **accélérer** vivement vers cette vitesse de sprint en fin de course → **power**
 - va sprinter **longtemps** en fin de course → **stamina**
 - va **conserver son énergie** pendant son sprint de fin de course → **guts**
-- va se **positionner** de manière optimale pendant la course _avant_ son sprint final → **wits**
+- va se **positionner** de manière optimale pendant la course, _avant_ son sprint final → **wits**
 
 **Améliorer les stats de votre uma sera votre principal objectif pendant sa carrière**, au travers de multiples entrainements. La plupart du temps, si vous n'avez pas de course obligatoire à réaliser dans l'immédiat, vous allez généralement vouloir vous entrainer si raisonnablement possible, afin d'améliorer les stats.
 
@@ -117,4 +117,4 @@ Les aptitudes d'une uma évoluent de manière plus rigides que les stats, et ne 
 
 -----------
 
-### Nous allons à présent faire ensemble une [carrière sur le scénario URA Finale](05_early_days_-_first_career)
+### Nous allons à présent faire ensemble une [carrière sur le scénario URA Finale](/guides/Gameplay/Premiers_pas/early_days_-_first_career_p1.md)
