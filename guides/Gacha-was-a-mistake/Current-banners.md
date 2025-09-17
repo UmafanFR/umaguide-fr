@@ -20,9 +20,9 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/011_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/012_Banners_preview.jpg)
 
-_Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
+_L'image avec les heures exactes sera mise à jour sous peu. Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
 # Review des bannières gacha actuelles
 
@@ -88,7 +88,7 @@ Bonne chance à tous·tes !
 
 ### Bannière Umamusume : Hishi Amazon ★★★
 
-![Image de présentation de la bannière Hishi Amazon](/public/assets/Gacha-reviews/2025/011_Uma-Banner.png)
+![Image de présentation de la bannière Hishi Amazon](/public/assets/Gacha-reviews/2025/012_Uma-Banner_JP.png)
 
 * Hishi Amazon est une End Closer (1 skill gold) génériquement moyenne, dont le kit vise la distance medium (1 skill gold). Dans les courses où le late-race commence dans la 2e moitié du final corner, son unique a des solides de chances de carry over, ce qui sera un atout pour elle.
 * Ses aptitudes de distance sont globalement assez bonnes, et il lui faut peu d'inspiration pour pouvoir courir sur toutes les distances (1* long ou 7* sprint). Mais son skill gold la lock en distance medium.
@@ -105,12 +105,12 @@ Bonne chance à tous·tes !
 
 ### Bannière support : Bamboo Memory power SSR & Tamamo Shinko Windy speed SR
 
-![Image de présentation de la bannière Suzuka speed SSR et Tamamo stam SSR](/public/assets/Gacha-reviews/2025/011_Card-Banner.png)
+![Image de présentation de la bannière Bamboo Memory power SSR & Tamamo Shinko Windy speed SR](/public/assets/Gacha-reviews/2025/012_Card-Banner_JP.png)
 
 
 #### **Bamboo Memory power SSR**
 * _Eeeeeeeeeeh_
-* La carte est **frontloaded** : dés 1LB elle donne la plupart de ses bons bonus, y compris le skill point bonus.
+* La carte est **frontloaded** : dés 1LB elle donne la plupart de ses bons bonus, y compris le **skill point bonus**.
 * Bamboo Memory power SSR est une carte power de cross training (spec prio 0), plutôt moyenne (15 training bonus, pas de mood bonus), et qui a des évènement assez terribles.
 * La carte propose une sélection de skill whites de vitesse assez hétérogène, avec un mélange de mile, sprint et Late, ce qui la rend d'autant plus compliqué à intégrer dans un deck. Le skill gold est **Rising Dragon**, la version white de Outer Swell, un skill de vitesse pour Late Surger qui s'active sur un dépassement réussi par l'extérieur sur le final corner. Le skill est bon, et a une assez bonne chance de carry over dans les courses où le late-race commence dans la 2e moitié du final corner. Attention, la carte peut vous donner le white à la place ("agemasen").
 * Plusieurs des events de la carte **baissent votre énergie** (pas obligatoirement). Le 2e chain event rend +30 énergie et mets fin au chain event.

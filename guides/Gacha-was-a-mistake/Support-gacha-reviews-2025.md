@@ -166,8 +166,6 @@ J'adore Hishi Akebono hein. Mais une carte éclatée au sol reste éclatée au s
 ## #11 - Silence Suzuka speed SSR et Tamamo Cross stam SSR (rerun)
 ![Image de présentation de la bannière Silence Suzuka speed SSR et Tamamo Cross stam SSR](/public/assets/Gacha-reviews/2025/011_Card-Banner.png)
 
-### C'est la bannière ACTUELLE
-
 ::: details REVIEW
 
 ⏩ **Tamamo Cross stam SSR**

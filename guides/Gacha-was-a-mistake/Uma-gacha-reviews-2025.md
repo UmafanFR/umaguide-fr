@@ -148,8 +148,6 @@ Si vous les aimez, oui. Si vous aimez jouer des debuffeuse de HP (ew), oui. Sino
 ## #11 - Seiun Sky ★★★
 ![Image de présentation de la bannière Smart Falcon ★★★](/public/assets/Gacha-reviews/2025/011_Uma-Banner.png)
 
-### C'est la bannière ACTUELLE
-
 ::: details REVIEW
 
 * Certains disent qu'elle est "meta defining", d'autres qu'elle "sauve/carry les Front Runner", ou encore "qu'elle change le jeu pour toujours", ou même qu'elle est "la uma la plus importante du jeu"
