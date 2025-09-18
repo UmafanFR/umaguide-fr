@@ -20,9 +20,9 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/012_Banners_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/012_Banners.jpg)
 
-_L'image avec les heures exactes sera mise à jour sous peu. Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
+_Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
 # Review des bannières gacha actuelles
 
@@ -88,7 +88,7 @@ Bonne chance à tous·tes !
 
 ### Bannière Umamusume : Hishi Amazon ★★★
 
-![Image de présentation de la bannière Hishi Amazon](/public/assets/Gacha-reviews/2025/012_Uma-Banner_JP.png)
+![Image de présentation de la bannière Hishi Amazon](/public/assets/Gacha-reviews/2025/012_Uma-Banner.png)
 
 * Hishi Amazon est une End Closer (1 skill gold) génériquement moyenne, dont le kit vise la distance medium (1 skill gold). Dans les courses où le late-race commence dans la 2e moitié du final corner, son unique a des solides de chances de carry over, ce qui sera un atout pour elle.
 * Ses aptitudes de distance sont globalement assez bonnes, et il lui faut peu d'inspiration pour pouvoir courir sur toutes les distances (1* long ou 7* sprint). Mais son skill gold la lock en distance medium.
@@ -103,9 +103,9 @@ Bonne chance à tous·tes !
 **Si vous l'aimez beaucoup**. Son kit est de qualité très discutable, et avec 2 skills gold à l'activation douteuse, son intérêt en Team Trials comme en Champion's Meeting est limité.
 
 
-### Bannière support : Bamboo Memory power SSR & Tamamo Shinko Windy speed SR
+### Bannière support : Bamboo Memory power SSR & Shinko Windy speed SR
 
-![Image de présentation de la bannière Bamboo Memory power SSR & Tamamo Shinko Windy speed SR](/public/assets/Gacha-reviews/2025/012_Card-Banner_JP.png)
+![Image de présentation de la bannière Bamboo Memory power SSR & Shinko Windy speed SR](/public/assets/Gacha-reviews/2025/012_Card-Banner.png)
 
 
 #### **Bamboo Memory power SSR**
@@ -125,11 +125,18 @@ Bonne chance à tous·tes !
 #### PULL OU PAS ?
 **Non**. Shinko Windy speed SR est une bonne carte speed SR, mais vous voudrez l'obtenir en faisant des pulls sur **une autre bannière support**, avec des SSR intéressantes. Bamboo Memory power SSR est une carte très peu désirable, donc ne gâchez pas vos carats pour ça.
 
-## Vous pouvez consulter les archives des précédentes bannières
+---
+
+### Vous pouvez consulter les archives des précédentes bannières
 
 * [Bannières cartes support](/guides/Gacha-was-a-mistake/Support-gacha-reviews-2025.md)
 * [Bannières umamusume ★★★](/guides/Gacha-was-a-mistake/Uma-gacha-reviews-2025.md)
 
----
+<br/>
+<br/>
+<br/>
+<div align="center">
 
 # 👏🏿 GACHA WAS A MISTAKE 👏🏿
+
+</div>

@@ -194,3 +194,29 @@ _ENVISAGEZ LE :_
 
 
 :::
+
+## #12 - Bamboo Memory power SSR & Shinko Windy speed SR
+![Image de présentation de la bannière Bamboo Memory power SSR & Shinko Windy speed SR](/public/assets/Gacha-reviews/2025/012_Card-Banner.png)
+
+#### C'est la bannière actuelle
+
+::: details REVIEW
+
+⏩ **Bamboo Memory power SSR**
+* _Eeeeeeeeeeh_
+* La carte est **frontloaded** : dés 1LB elle donne la plupart de ses bons bonus, y compris le **skill point bonus**.
+* Bamboo Memory power SSR est une carte power de cross training (spec prio 0), plutôt moyenne (15 training bonus, pas de mood bonus), et qui a des évènement assez terribles.
+* La carte propose une sélection de skill whites de vitesse assez hétérogène, avec un mélange de mile, sprint et Late, ce qui la rend d'autant plus compliqué à intégrer dans un deck. Le skill gold est **Rising Dragon**, la version white de Outer Swell, un skill de vitesse pour Late Surger qui s'active sur un dépassement réussi par l'extérieur sur le final corner. Le skill est bon, et a une assez bonne chance de carry over dans les courses où le late-race commence dans la 2e moitié du final corner. Attention, la carte peut vous donner le white à la place ("agemasen").
+* Plusieurs des events de la carte **baissent votre énergie** (pas obligatoirement). Le 2e chain event rend +30 énergie et mets fin au chain event.
+
+⏩ **Shinko Windy speed SR**
+* Shinko Windy speed SR est une des bonnes cartes speed SR.
+* Avec 37.5 Friendship Bonus et +1 speed bonus (MLB), Windy speed SR produit des puissants rainbow, et est -4 ans et demi plus tard- toujours championne du Friendship Bonus parmi les cartes **speed SR** sur la version JP du jeu.
+* Avec 10 Race Bonus, elle sera aussi une option décente comme carte speed sur le 3e scénario.
+* Elle propose des skills mile et Pace.
+* L'un de ses events permet de choisir entre mood up et gain d'énergie.
+
+#### PULL OU PAS ?
+**Non**. Shinko Windy speed SR est une bonne carte speed SR, mais vous voudrez l'obtenir en faisant des pulls sur **une autre bannière support**, avec des SSR intéressantes. Bamboo Memory power SSR est une carte très peu désirable, donc ne gâchez pas vos carats pour ça.
+
+:::
