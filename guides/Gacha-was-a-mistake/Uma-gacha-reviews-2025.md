@@ -179,3 +179,24 @@ La limite de 3 legacy empruntées par jour est trop faible pour vous permettre d
 
 :::
 
+## #12 - Hishi Amazon ★★★
+
+![Image de présentation de la bannière Hishi Amazon](/public/assets/Gacha-reviews/2025/012_Uma-Banner.png)
+
+#### C'est la bannière actuelle
+
+::: details REVIEW
+
+* Hishi Amazon est une End Closer (1 skill gold) génériquement moyenne, dont le kit vise la distance medium (1 skill gold). Dans les courses où le late-race commence dans la 2e moitié du final corner, son unique a des solides de chances de carry over, ce qui sera un atout pour elle.
+* Ses aptitudes de distance sont globalement assez bonnes, et il lui faut peu d'inspiration pour pouvoir courir sur toutes les distances (1* long ou 7* sprint). Mais son skill gold la lock en distance medium.
+* De manière amusante, bien qu'elle soit avant tout une End Closer, son aptitude Pace Chaser est meilleure que son aptitude Late Surger.
+* Sa sélection de skills gold n'est pas très bonne : 
+    * **Unyielding** (med) est un skill gold de vitesse qui ne s'active que si Amazon se fait dépasser spécifiquement sur le final corner d'une course. La fenêtre de dépassement n'est pas grande, et aussi un risque de défaite ; une End veut dépasser les autres en fin de course, pas se faire dépasser.
+    * **Sturm und Drang** (end) est un skill gold de vitesse qui s'active aléatoirement en late-race si Amazon est 75% à l'arrière, y compris **pendant l'accel**. Ce skill là est particulièrement problématique, car "être à l'arrière en late-race" veut généralement dire "début de late-race", auquel cas il est probable que l'activation soit pendant l'accélération, ce qui gâche en partie l'effet du skill. S'il s'active en plein final straight, c'est que Amazon est encore loin à l'arrière : 75% à l'arrière au milieu du final straight, c'est une situation à fort risque de défaite, et ce skill seul sera rarement suffisant pour s'en sortir.
+* L'unique d'Hishi Amazon est un boost de vitesse en final straight si elle fait un dépassement par l'extérieur à partir du final corner. Dans les courses où le late-race commence dans la 2e moitié du final corner, la chance de carry over est élevée, ce qui sera un solide avantage pour remonter le peloton et obtenir la victoire. Le timing reste cependant imprédictible à cause du besoin de faire un dépassement.
+* Sa carrière est composée de plusieurs G1 notables, donc elle gagne facilement des fans.
+
+#### PULL OU PAS ?
+**Si vous l'aimez beaucoup**. Son kit est de qualité très discutable, et avec 2 skills gold à l'activation douteuse, son intérêt en Team Trials comme en Champion's Meeting est limité.
+
+:::
