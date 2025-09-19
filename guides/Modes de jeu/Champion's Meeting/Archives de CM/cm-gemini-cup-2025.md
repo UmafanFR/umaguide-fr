@@ -3,7 +3,7 @@ title: Champion's Meeting - Gemini Cup mi-Septembre 2025 - Tenno Sho Spring
 menuTitle: Gemini cup - 12/09/25
 outline: [2, 3]
 description: Recommandations pour le Champion's Meeting (Gemini Cup), Kyoto 3200, sens horaire, firm, sunny
-order: 1
+order: 2
 ---
 
 ::: tip Comme d'habitude
@@ -211,7 +211,7 @@ En réalité, il semble que la consommation de HP **baisse** pendant une côte (
 
 **Voici quelques éléments *intéressants* sur l’agencement de la course. Cette analyse n’est pas forcément exhaustive.** 
 
-_### Suivi de la course, étape par étape_
+### _Suivi de la course, étape par étape_
 
 Enfilez vos chaussures, on va parcourir la course en entier pour la découvrir, du point de vue des coureuses.
 
