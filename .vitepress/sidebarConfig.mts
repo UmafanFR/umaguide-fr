@@ -1,7 +1,7 @@
 import type { VitePressSidebarOptions } from 'vitepress-sidebar/types';
 
 const commonSidebarConfig: VitePressSidebarOptions = {
-  collapsed: false,
+  collapsed: true,
   capitalizeFirst: true,
   useTitleFromFileHeading: true,
   useTitleFromFrontmatter: true,
