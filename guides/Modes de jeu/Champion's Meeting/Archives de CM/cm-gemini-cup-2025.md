@@ -3,7 +3,7 @@ title: Champion's Meeting - Gemini Cup mi-Septembre 2025 - Tenno Sho Spring
 menuTitle: Gemini cup - 12/09/25
 outline: [2, 3]
 description: Recommandations pour le Champion's Meeting (Gemini Cup), Kyoto 3200, sens horaire, firm, sunny
-order: 1
+order: 2
 ---
 
 ::: tip Comme d'habitude
@@ -75,7 +75,7 @@ Vous n'êtes pas obligés de tout connaître par coeur. C'est surtout pour que j
 ## Liens utiles
 
 - [Annonce officielle](https://x.com/umamusume_eng/status/1958710876242157785) du Champion’s Meeting
-- Récapitulatif en français du [fonctionnement de Champion's Meeting](./cm-introduction.md)
+- Récapitulatif en français du [fonctionnement de Champion's Meeting](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction.md)
 - Visualisation de la course sur [sur Gametora](https://gametora.com/umamusume/racetracks/kyoto#3200-turf-outer) (⚠️ **Attention, la course est affichée comme elle sera à partir de _1st anniversary_**)
 - Bases de données [UmapureDB](https://uma-global.pure-db.com/#/search) et [uma.moe](https://uma.moe/inheritance) pour trouver des legacies selon des critères précis.
 - Mon guide en français sur [le fonctionnement et les conditions d’activation des skills](https://umafrwiki.gloe.love/17d5f5610f1d80b3b297cd1ab77769f3) (sera mis à jour et porté sur umaguide.fr ultérieurement)
@@ -211,7 +211,7 @@ En réalité, il semble que la consommation de HP **baisse** pendant une côte (
 
 **Voici quelques éléments *intéressants* sur l’agencement de la course. Cette analyse n’est pas forcément exhaustive.** 
 
-_### Suivi de la course, étape par étape_
+### _Suivi de la course, étape par étape_
 
 Enfilez vos chaussures, on va parcourir la course en entier pour la découvrir, du point de vue des coureuses.
 
