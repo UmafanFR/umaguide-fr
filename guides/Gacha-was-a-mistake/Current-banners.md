@@ -20,7 +20,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/012_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/013_Banners_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -103,19 +103,19 @@ Bonne chance à tous·tes !
 
 #### Grass Wonder alt ★★★
 
-* Grass Wonder alt est une Late Surger (1 gold + unique) pensée uniquement pour être increvable en distance long (1 gold). Elle n'est pas _forte_, avec 3 gold recoveries (dont 1 unique) vous n'aurez jamais de difficulté à la build pour les très longues G1 comme Kikka Sho et -surtout- Tenno Sho Spring.
-* Ses aptitudes de distance ont ceci d'amusant qu'elle est moins apte à courir en medium (B) qu'en mile et en long (A). Ce n'est pas un vrai problème. Elle est aussi apte à courir en Pace Chaser, mais ce faisant elle perd sa gold recovery la plus fiable : Relax.
+* Grass Wonder alt est une Late Surger (1 gold 💀 + unique) pensée uniquement pour être increvable en distance long (1 gold). Elle n'est pas _forte_, MAIS avec 2 bonnes gold recoveries (dont 1 unique) vous n'aurez jamais de difficulté à la build pour les très longues G1 comme Kikka Sho et -surtout- Tenno Sho Spring.
+* Ses aptitudes de distance ont ceci d'amusant qu'elle est moins apte à courir en medium (B) qu'en mile et en long (A). Ce n'est pas un vrai problème.
 * Ses 2 skills gold sont des gold recoveries :
     * **Cooldown** est une gold recovery qui s'active sur une ligne droite aléatoire sur une course long. Le skill a une solide chance de s'activer à un mauvais timing, mais sera buffé plus tard pour être garantis en mid-race, ce qui le rendra parfaitement fiable et utile.
-    * **Relax** est une gold recovery Late Surger qui s'active aléatoirement en mid-race. Le skill est parfaitement fiable et toujours parfaitement utile.
-* Son skill unique est une "gold" recovery qui s'active en mid-race si Grass se fait dépasser en mid-race, en étant 4e ou pire. La condition d'activation n'est _pas idéale_, mais devrait être suffisamment fiable la grande majorité du temps. C'est rare de ne jamais se faire dépasser en mid-race en med/long après tout.
-* Plus tard, son skill unique sera buffé, et la puissance de la recovery passera de +5,5% (skill gold habituel) à +7,5% de HP. C'est **très intéressant**, car ce sera une recovery que vous allez pouvoir obtenir par inspiration, et qui rendra +3,5% de HP, au lieu de 1,5% pour une white recovery classique. J'appelle généralement ça une "strong white recovery", et ce sera un skill de très bonne valeur (par rapport à son coût) à inspirer pour les uma backline, en Team Trials, sur toutes les distances (et surtout med/long).
+    * **Relax** est une très mauvaise gold recovery Late Surger, car elle s'active en late-race, et ne fait jamais rien. Plus tard, après une update du jeu, le skill fera _quelque chose_, et ce sera _quand même_ de la grosse merde.
+* Son skill unique est une "gold" recovery qui s'active en mid-race si Grass se fait dépasser en mid-race, en étant 4e ou pire. La condition d'activation n'est _pas idéale_, mais devrait être suffisamment fiable la grande majorité du temps. C'est rare de ne jamais se faire dépasser en mid-race en med/long après tout. Sauf si elle est la seule de sa stratégie 🙃
+* Plus tard, son skill unique sera buffé, et la puissance de la recovery passera de +5,5% (skill gold habituel) à +7,5% de HP. C'est **très intéressant**, car ce sera une recovery que vous allez pouvoir obtenir par inspiration, et qui rendra **+3,5% de HP**, au lieu de 1,5% pour une white recovery classique. J'appelle généralement ça une "strong white recovery", et ce sera un skill de très bonne valeur (par rapport à son coût) à inspirer pour les uma backline, en Team Trials, sur toutes les distances (et surtout med/long).
 
 #### PULL OU PAS ?
 
 Peut-être, mais **plutôt déconseillé**.
 
-On ne peut pas nier la qualité de la bannière. Ce sont des uma _intéressantes_. El Condor Pasa alt sera fore sur la Cancer Cup, qui arrive dans quelques semaines, et Grass Wonder alt est un investissement intéressant à terme. 
+On ne peut pas nier la qualité de la bannière. Ce sont des uma _intéressantes_. El Condor Pasa alt sera fore sur la Cancer Cup, qui arrive dans quelques semaines, ainsi que plusieurs autres CMs dans le futur. Grass Wonder alt est un investissement intéressant, mais _**à terme**_. 
 
 Ce n'est pas une bannière *recommandée*, mais loin d'être la pire bannière à pull. Gardez en tête que faire des pulls c'est lourd en utilisation de ressources, et qu'on attend d'autres uma intéressantes (Maruzensky alt, pour ne citer qu'elle) dans les bannières "à venir".
 
@@ -129,7 +129,7 @@ Ce n'est pas une bannière *recommandée*, mais loin d'être la pire bannière �
 * La carte est **frontloaded** : à 1LB elle donne déjà tous ses bonus intéressants, et ne débloque que "initial power" à 3LB.
 * King Halo power SSR est une bonne carte power pour monter power, qui rappelle un peu Vodka power SSR (et c'est une bonne chose). Avec un specialty priority élevé, +1 power bonus et beaucoup de friendship bonus, King Halo power SSR fera assez fréquemment des rainbow de qualité. Elle dispose aussi de 10 training bonus à partir de 3LB, ce qui est génériquement plus désirable que le mood bonus de Vodka power.
 * Sa sélection de hints ❗ n'est pas folle, avec une combinaison de greens moyens, 2 white recoveries, et le white Gap Closer qui n'est pas réputé pour sa qualité ni sa fiabilité.
-* Le skill gold obtenu est le skill de vitesse **Blinding Flash**, la version gold de Gap Closer. C'est un skill de vitesse s'activant aléatoirement en late-race sur les courses sprint, quand vous êtes bottom50%. Si ce skill s'active "tardivement" dans la course, vous avez des solides chances de perdre, car bottom50% en fin de late-race c'est pas fou. Mais si le skill s'active tôt, il a des chances d'être partiellement ou intégralement gaché dans la phase d'accel. Pas fou. Attention, la carte peut vous donner la version white ("agemasen").
+* Le skill gold obtenu est le skill de vitesse **Blinding Flash**, la version gold de Gap Closer. C'est un skill de vitesse s'activant aléatoirement en late-race sur les courses sprint, quand vous êtes bottom50%. Si ce skill s'active "tardivement" dans la course, vous avez des solides chances de perdre, car bottom50% en fin de late-race c'est pas fou. Mais si le skill s'active tôt, il a des chances d'être partiellement ou intégralement gaché dans la phase d'accel. Pas fou. Attention, la carte peut vous donner la version white du skill ("agemasen").
 * En tant que carte basée sur King Halo, elle a l'event complètement maudit "**You May Socialize With Me!**", qui vous impose de choisir entre perdre _-20 énergie_, ou prendre un _mood down_ 💀
 * L'illu est super cool
 
@@ -139,13 +139,13 @@ Ce n'est pas une bannière *recommandée*, mais loin d'être la pire bannière �
 * Seiun Sky wits SSR est une carte wits cocasse ; avec si peu de specialty priority elle ne fera pas beaucoup de rainbows, mais son friendship bonus est solide (35 à MLB). De plus, avec 2 speed bonus et 10 training bonus, elle boostera notablement les entrainements speed et guts (et les rares fois où elle sera en rainbow en wits). Donc techniquement, elle a un assez bon cross-training, mais c'est difficile de recommander une carte wits qui peine à monter wits.
 * Sa sélection de hints ❗ n'est pas folle non plus, avec 2 greens peu fiables, 3 debuff mais aussi le très bon Tail Held High.
 * Son skill gold est le très bon **Vanguard Spirit**, qui est aussi très difficile à activer. C'est un skill de vitesse s'activant aléatoirement pendant le mid-race des courses long, à condition d'être en 1e position et avoir une grosse avance. C'est un très bon skill quand il pop. Mais il faut qu'il pop.
-* Ses 3 Chain Events rendent de l'énergie si vous sélectionnez l'option du bas (⚠️ attention, l'option du bas sur le 3e chain event ne vous donne pas le skill gold). Un de ses 2 events normaux peut aussi rendre de l'énergie.
-* Vous ne pouvez évidemment pas utiliser Seiun Sky wits SSR si vous jouez Seiun Sky.
+* Ses 3 Chain Events rendent de l'énergie si vous sélectionnez l'option du bas (⚠️ mais attention, l'option du bas sur le 3e chain event ne vous donne pas le skill gold). Un de ses 2 events normaux peut aussi rendre de l'énergie.
+* **_Vous ne pouvez évidemment pas utiliser Seiun Sky wits SSR si vous jouez Seiun Sky._**
 
 #### PULL OU PAS ?
 **Déconseillé**.
 
-King Halo power SSR est -certes- un bon stat stick, avec un gain de power proche de la très bonne Vodka power SSR, mais contrairement à Vodka power, c'est sa seule qualité. Le skill gold n'est ni fiable, ni efficace, ni générique, ses hints sont peu intéressants, et elle a un event très maudit. À côté de ça, Seiun Sky wits SSR n'est pas une très bonne carte wits, et si vous faisiez des pulls pour elle, sa durée de vie se retrouverai particulièrement courte. La carte n'en vaut absolument pas la peine. Il y a des bonnes cartes wits qui arrivent un peu plus tard (Nice Nature wits SSR et Curren Chan wits SSR)
+King Halo power SSR est -certes- un bon stat stick, avec un gain de power proche de la très bonne Vodka power SSR, mais contrairement à Vodka power, c'est sa _seule_ qualité. Le skill gold n'est ni fiable, ni efficace, ni générique, ses hints sont peu intéressants, et elle a un event très maudit. À côté de ça, Seiun Sky wits SSR n'est pas une très bonne carte wits, et si vous faisiez des pulls pour elle, sa durée de vie se retrouverai particulièrement courte. La carte n'en vaut absolument pas la peine. Il y a des bonnes cartes wits qui arrivent un peu plus tard (Nice Nature wits SSR et Curren Chan wits SSR)
 
 ---
 
