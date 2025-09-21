@@ -35,9 +35,9 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ [Champion's Meeting Cancer Cup - **12 Septembre** - Kyoto 3200m turf (Tenno Sho Spring)](./cm-gemini-cup-2025)
+⏩ (⚠️non annoncé !) [Champion's Meeting Cancer Cup - **?? Octobre** - Tokyo 1600 turf (NHK Mile Cup)](./cm-cancer-cup-2025.md)
 
-> À suivre (non annoncé) : Champion's Meeting - début Octobre 2025 (?) - Tokyo 1600m turf (NHK Mile Cup)
+> À suivre (non annoncé) : Champion's Meeting - fin Octobre/début Nov 2025 (?) - Hanshin 2200m turf (~~Rice Shower~~ Leo Cup)
 > *(recommandations à venir)*
 
 :::

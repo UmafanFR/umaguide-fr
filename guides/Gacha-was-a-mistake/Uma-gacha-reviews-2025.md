@@ -89,7 +89,7 @@ Curren Chan est une Pace Chaser génériquement bonne en Sprint. Elle est équip
 * C'est une End Closer génériquement forte en medium, et **meta sur les courses G1 long** (Arima Kinen, Kikka Sho, Tenno Sho Spring). Elle est aussi occasionnellement très forte sur les quelques courses sprint ou mile dont le Late Race commence sur une ligne droite. 
 * Sa carrière a une difficulté ; elle a un event après Kikka Sho qui lui fait perdre **3 niveaux d'humeur d'un coup**, et obtenir un debuff. Si vous retirez ce debuff, vous aurez une récompense quelques mois plus tard.
 #### PULL OU PAS ? 
-Bon usage de vos carats si vous l'aimez bien, ou si vous voulez une uma de qualité pour le Champion's Meeting de *Septembre* : Tenno Sho Spring ([recommandations ici](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-gemini-cup-2025.md))
+Bon usage de vos carats si vous l'aimez bien, ou si vous voulez une uma de qualité pour le Champion's Meeting de *Septembre* : Tenno Sho Spring ([recommandations ici](/guides/Modes%20de%20jeu/Champion's%20Meeting/Archives%20de%20CM/cm-gemini-cup-2025.md))
 
 :::
 
@@ -131,7 +131,7 @@ Si vous l'aimez beaucoup. Elle n'a pas d'intérêt particulier qui en fait une b
 * Elle est déjà équipée avec Swinging Maestro en potentiel 5, ce qui est une bonne et une mauvaise chose à la fois. Ca ne compense pas très bien le fait de ne pas pouvoir utiliser Mayano Top Gun stam SR pour l'entrainer, mais c'est déjà plus gérable que Mayano originale et son Breath of Fresh Air peu fiable. Ironiquement, c'est en mile et en sprint qu'avoir Maestro built-in est plus pratique, car ça vous retire le besoin d'utiliser une carte stam supplémentaire.
 * Son unique peut avoir **2 effets différents**, mais jamais les 2 en même temps. Si vous dépassez une uma sur le final corner, en étant top 40%, vous gagnez un speed boost. Si vous dépassez une uma sur le final corner, en étant un peu plus à l'arrière, vous gagnez de **l'accel**. Evidemment, c'est l'accel qui est intéressante dans les courses où ça match (= courses où le late-race commence en même temps que le final corner), donc on va préférer jouer Mayano comme une **backline**, malgré ses aptitudes moins bonnes (B → A c'est 1* en spark rose).
 * Ce même skill unique sera très désirable par inspiration pour les backlines, sur les courses où il marche. C'est une source d'accel supplémentaire.
-* Non, elle n'est pas spécialement bonne pour le Champion's Meeting Gemini Cup (Kyoto 3200m ([recommandations](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-gemini-cup-2025.md))), mais vous pouvez l'utiliser no prob. Elle n'est pas meilleure que Mayano originale, mais au moins, Maestro est plus fiable que BoFA.
+* Non, elle n'est pas spécialement bonne pour le Champion's Meeting Gemini Cup (Kyoto 3200m ([recommandations](/guides/Modes%20de%20jeu/Champion's%20Meeting/Archives%20de%20CM/cm-gemini-cup-2025.md))), mais vous pouvez l'utiliser no prob. Elle n'est pas meilleure que Mayano originale, mais au moins, Maestro est plus fiable que BoFA.
 
 :fast_forward: ***Air Groove alt***
 * Groove alt est une assez bonne Pace Chaser, pensée pour la distance mile. 
@@ -156,7 +156,7 @@ Si vous les aimez, oui. Si vous aimez jouer des debuffeuse de HP (ew), oui. Sino
 * Mais tout le monde est intéressée par elle, pas parce qu'elle est bien, mais parce que **son skill unique** est -en effet- **meta defining**. Une **accel fiable** qui s'active parfaitement dans toutes les G1 sauf 3, ça ne se refuse pas. Mais il y a un hic : **seule la uma en 1e position peut l'activer**. La condition exacte, c'est d'être en 1e position sur un corner du late-race. C'est tout.
 * On dit que la seule Front qui a une chance de gagner c'est la Front en 1e position. C'est vrai (ça deviendra progressivement un peu moins vrai plus tard). Les Front ne sont généralement pas aptes à **dépasser** une uma adverse en late-race, donc si une Front n'est pas 1e au moment du late-race, elle a déjà perdu. Mais la VRAIE raison pour laquelle la seule Front qui peut gagner c'est la 1e, c'est que c'est la seule qui pop l'unique de Seiun Sky, et  peut donc s'échapper à l'avant pour distancer le reste du peloton. **C'est la stratégie des Front : mettre une distance aux autres et ne pas se faire rattraper**. C'est leur principale **condition de victoire**. L'unique de Seiun Sky est **requis** pour atteindre ce but (sauf dans les 3 G1 où il marche pas), donc une Front qui n'est pas 1e en late-race ne peut pas valider la condition de victoire, et a donc déjà perdu.
 * Cet unique marche dans toutes les G1 sauf 3, et de manière générale la vaste majorité des courses med, la majorité des mile, et une partie des sprint. En long, beaucoup moins, ce qui est ironique quand on voit qu'elle a un gold long.
-* À partir de maintenant, si vous entrainez une Front sérieuse (CM), vous allez **toujours** (toujours) mettre l'unique de Seiun Sky dessus. Toujours, sauf dans les 3 G1 où il marche pas : Tenno Sho Spring (Gemini Cup - [guide de préparation](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-gemini-cup-2025.md)), Kikka Sho et Takamatsunomiya Kinen. Dans tous les autres CM, sans qu'on vous le dise dans un guide, votre Front **doit** avoir l'unique de Seiun Sky.
+* À partir de maintenant, si vous entrainez une Front sérieuse (CM), vous allez **toujours** (toujours) mettre l'unique de Seiun Sky dessus. Toujours, sauf dans les 3 G1 où il marche pas : Tenno Sho Spring (Gemini Cup - [guide de préparation](/guides/Modes%20de%20jeu/Champion's%20Meeting/Archives%20de%20CM/cm-gemini-cup-2025.md)), Kikka Sho et Takamatsunomiya Kinen. Dans tous les autres CM, sans qu'on vous le dise dans un guide, votre Front **doit** avoir l'unique de Seiun Sky.
 * [Errzy explique brièvement -mais très bien- la Seiun Sky Situation](https://www.youtube.com/watch?v=bykR7co9m2E), et comment en tirer parti. C'est **une des vidéos les plus importantes d'Errzy** je dirai, car Seiun est juste *that important*. Je vous recommande vraiment beaucoup de la regarder.
 
 #### PULL OU PAS ?
@@ -179,3 +179,24 @@ La limite de 3 legacy empruntées par jour est trop faible pour vous permettre d
 
 :::
 
+## #12 - Hishi Amazon ★★★
+
+![Image de présentation de la bannière Hishi Amazon](/public/assets/Gacha-reviews/2025/012_Uma-Banner.png)
+
+#### C'est la bannière actuelle
+
+::: details REVIEW
+
+* Hishi Amazon est une End Closer (1 skill gold) génériquement moyenne, dont le kit vise la distance medium (1 skill gold). Dans les courses où le late-race commence dans la 2e moitié du final corner, son unique a des solides de chances de carry over, ce qui sera un atout pour elle.
+* Ses aptitudes de distance sont globalement assez bonnes, et il lui faut peu d'inspiration pour pouvoir courir sur toutes les distances (1* long ou 7* sprint). Mais son skill gold la lock en distance medium.
+* De manière amusante, bien qu'elle soit avant tout une End Closer, son aptitude Pace Chaser est meilleure que son aptitude Late Surger.
+* Sa sélection de skills gold n'est pas très bonne : 
+    * **Unyielding** (med) est un skill gold de vitesse qui ne s'active que si Amazon se fait dépasser spécifiquement sur le final corner d'une course. La fenêtre de dépassement n'est pas grande, et aussi un risque de défaite ; une End veut dépasser les autres en fin de course, pas se faire dépasser.
+    * **Sturm und Drang** (end) est un skill gold de vitesse qui s'active aléatoirement en late-race si Amazon est 75% à l'arrière, y compris **pendant l'accel**. Ce skill là est particulièrement problématique, car "être à l'arrière en late-race" veut généralement dire "début de late-race", auquel cas il est probable que l'activation soit pendant l'accélération, ce qui gâche en partie l'effet du skill. S'il s'active en plein final straight, c'est que Amazon est encore loin à l'arrière : 75% à l'arrière au milieu du final straight, c'est une situation à fort risque de défaite, et ce skill seul sera rarement suffisant pour s'en sortir.
+* L'unique d'Hishi Amazon est un boost de vitesse en final straight si elle fait un dépassement par l'extérieur à partir du final corner. Dans les courses où le late-race commence dans la 2e moitié du final corner, la chance de carry over est élevée, ce qui sera un solide avantage pour remonter le peloton et obtenir la victoire. Le timing reste cependant imprédictible à cause du besoin de faire un dépassement.
+* Sa carrière est composée de plusieurs G1 notables, donc elle gagne facilement des fans.
+
+#### PULL OU PAS ?
+**Si vous l'aimez beaucoup**. Son kit est de qualité très discutable, et avec 2 skills gold à l'activation douteuse, son intérêt en Team Trials comme en Champion's Meeting est limité.
+
+:::
