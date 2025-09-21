@@ -201,7 +201,7 @@ La limite de 3 legacy empruntées par jour est trop faible pour vous permettre d
 
 ## #13 - El Condor Pasa alt et Grass Wonder alt ★★★
 
-![Image de présentation de la bannière El Condor Pasa alt et Grass Wonder alt](/public/assets/Gacha-reviews/2025/013_Uma-Banner_JP.png)
+![Image de présentation de la bannière El Condor Pasa alt et Grass Wonder alt](/public/assets/Gacha-reviews/2025/013_Uma-Banner.png)
 
 #### C'est la bannière actuelle
 

@@ -220,7 +220,7 @@ _ENVISAGEZ LE :_
 :::
 
 ## #13 - King Halo power SSR et Seiun Sky wits SSR
-![Image de présentation de la bannière King Halo power SSR et Seiun Sky wits SSR](/public/assets/Gacha-reviews/2025/013_Card-Banner_JP.png)
+![Image de présentation de la bannière King Halo power SSR et Seiun Sky wits SSR](/public/assets/Gacha-reviews/2025/013_Card-Banner.png)
 
 #### C'est la bannière actuelle
 
