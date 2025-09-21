@@ -183,8 +183,6 @@ La limite de 3 legacy empruntées par jour est trop faible pour vous permettre d
 
 ![Image de présentation de la bannière Hishi Amazon](/public/assets/Gacha-reviews/2025/012_Uma-Banner.png)
 
-#### C'est la bannière actuelle
-
 ::: details REVIEW
 
 * Hishi Amazon est une End Closer (1 skill gold) génériquement moyenne, dont le kit vise la distance medium (1 skill gold). Dans les courses où le late-race commence dans la 2e moitié du final corner, son unique a des solides de chances de carry over, ce qui sera un atout pour elle.
@@ -198,5 +196,43 @@ La limite de 3 legacy empruntées par jour est trop faible pour vous permettre d
 
 #### PULL OU PAS ?
 **Si vous l'aimez beaucoup**. Son kit est de qualité très discutable, et avec 2 skills gold à l'activation douteuse, son intérêt en Team Trials comme en Champion's Meeting est limité.
+
+:::
+
+## #13 - El Condor Pasa alt et Grass Wonder alt ★★★
+
+![Image de présentation de la bannière El Condor Pasa alt et Grass Wonder alt](/public/assets/Gacha-reviews/2025/013_Uma-Banner_JP.png)
+
+#### C'est la bannière actuelle
+
+::: details REVIEW
+
+⏩ **El Condor Pasa alt**
+
+* El Condor Pasa alt est une Late Surger (1 gold + unique) d'assez bonne qualité, se spécialisant en distance mile (1 gold). Elle sera particulièrement forte dans les courses où le late-race commence dans la 2e moitié du final corner, grâce à l'accel de son skill unique. Son skill gold Rising Dragon induira parfois un carry over dans ces courses là, si le timing est bon.
+* Grâce à ses aptitudes elle peut aussi courir en distance Medium et obtenir des assez bons résultats, mais elle perd un skill gold. Malgré son aptitude B long, en distance long elle perdra l'usage de son skill unique (en plus du skill gold mile), et son skill gold Late sera génériquement average. Il est plus difficile d'activer son skill unique en tant que Pace Chaser, donc ce n'est pas très recommandé non plus.
+* Pasa alt est bien meilleure en dirt que la version originale.
+* Sa sélection de skills gold est plutôt bonne :
+    * **Furious Feat** est une accel gold mile qui s'active aléatoirement en late-race. Les accel aléatoires sont assez souvent plutôt pas trop mal en distance mile, car le late-race est court. La probabilité d'une bonne activation est plutôt correcte. En cas de bonne activation, c'est un puissant atout.
+    * **Rising Dragon** est skill gold de vitesse Late Surger qui s'active sur un dépassement réussi par l'extérieur pendant le final corner. Le timing est un peu hasardeux, à cause du dépassement requis, mais sur les courses dont le late-race commence dans la 2e moitié du final corner, on peut assez bien s'attendre à un carry over. 
+* Son skill unique est une accel qui s'active si elle effectue un dépassement sur le final corner, en étant entre 4e et top75% (en CM : 4e <-> 7e). C'est donc idéal dans les courses où le late-race commence pendant la 2e moitié du final corner, lui laissant ainsi le temps d'effectuer le dépassement. Assez souvent, le skill s'activera un peu tôt, donc il sera assez rare d'obtenir son usage complet.
+* Son skill unique et Rising Dragon s'activeront presque toujours en même temps ; Rising Dragon induira un carry over, et l'accel fera le reste. Mais comme leur activation sera généralement simultanée, ni Rising Dragon ni son unique ne pourront être utilisé à 100% de leur efficacité. Ce qui n'est -en soi- pas très grave, car ce combo restera très puissant dans les courses adéquates.
+
+⏩ **Grass Wonder alt**
+
+* Grass Wonder alt est une Late Surger (1 gold 💀 + unique) pensée uniquement pour être increvable en distance long (1 gold). Elle n'est pas _forte_, MAIS avec 2 bonnes gold recoveries (dont 1 unique) vous n'aurez jamais de difficulté à la build pour les très longues G1 comme Kikka Sho et -surtout- Tenno Sho Spring.
+* Ses aptitudes de distance ont ceci d'amusant qu'elle est moins apte à courir en medium (B) qu'en mile et en long (A). Ce n'est pas un vrai problème.
+* Ses 2 skills gold sont des gold recoveries :
+    * **Cooldown** est une gold recovery qui s'active sur une ligne droite aléatoire sur une course long. Le skill a une solide chance de s'activer à un mauvais timing, mais sera buffé plus tard pour être garantis en mid-race, ce qui le rendra parfaitement fiable et utile.
+    * **Relax** est une très mauvaise gold recovery Late Surger, car elle s'active en late-race, et ne fait jamais rien. Plus tard, après une update du jeu, le skill fera _quelque chose_, et ce sera _quand même_ de la grosse merde.
+* Son skill unique est une "gold" recovery qui s'active en mid-race si Grass se fait dépasser en mid-race, en étant 4e ou pire. La condition d'activation n'est _pas idéale_, mais devrait être suffisamment fiable la grande majorité du temps. C'est rare de ne jamais se faire dépasser en mid-race en med/long après tout. Sauf si elle est la seule de sa stratégie 🙃
+* Plus tard, son skill unique sera buffé, et la puissance de la recovery passera de +5,5% (skill gold habituel) à +7,5% de HP. C'est **très intéressant**, car ce sera une recovery que vous allez pouvoir obtenir par inspiration, et qui rendra **+3,5% de HP**, au lieu de 1,5% pour une white recovery classique. J'appelle généralement ça une "strong white recovery", et ce sera un skill de très bonne valeur (par rapport à son coût) à inspirer pour les uma backline, en Team Trials, sur toutes les distances (et surtout med/long).
+
+#### PULL OU PAS ?
+Peut-être, mais **plutôt déconseillé**.
+
+On ne peut pas nier la qualité de la bannière. Ce sont des uma _intéressantes_. El Condor Pasa alt sera fore sur la Cancer Cup, qui arrive dans quelques semaines, ainsi que plusieurs autres CMs dans le futur. Grass Wonder alt est un investissement intéressant, mais _**à terme**_. 
+
+Ce n'est pas une bannière *recommandée*, mais loin d'être la pire bannière à pull. Gardez en tête que faire des pulls c'est lourd en utilisation de ressources, et qu'on attend d'autres uma intéressantes (Maruzensky alt, pour ne citer qu'elle) dans les bannières "à venir".
 
 :::
