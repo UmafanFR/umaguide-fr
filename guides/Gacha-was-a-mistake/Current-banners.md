@@ -20,7 +20,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/013_Banners_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/013_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -88,7 +88,7 @@ Bonne chance à tous·tes !
 
 ### Bannière Umamusume : El Condor Pasa alt et Grass Wonder alt ★★★
 
-![Image de présentation de la bannière El Condor Pasa alt et Grass Wonder alt](/public/assets/Gacha-reviews/2025/013_Uma-Banner_JP.png)
+![Image de présentation de la bannière El Condor Pasa alt et Grass Wonder alt](/public/assets/Gacha-reviews/2025/013_Uma-Banner.png)
 
 #### El Condor Pasa alt ★★★
 
@@ -122,7 +122,7 @@ Ce n'est pas une bannière *recommandée*, mais loin d'être la pire bannière �
 
 ### Bannière support : King Halo power SSR et Seiun Sky wits SSR
 
-![Image de présentation de la bannière King Halo power SSR et Seiun Sky wits SSR](/public/assets/Gacha-reviews/2025/013_Card-Banner_JP.png)
+![Image de présentation de la bannière King Halo power SSR et Seiun Sky wits SSR](/public/assets/Gacha-reviews/2025/013_Card-Banner.png)
 
 
 #### King Halo power SSR

@@ -198,8 +198,6 @@ _ENVISAGEZ LE :_
 ## #12 - Bamboo Memory power SSR & Shinko Windy speed SR
 ![Image de présentation de la bannière Bamboo Memory power SSR & Shinko Windy speed SR](/public/assets/Gacha-reviews/2025/012_Card-Banner.png)
 
-#### C'est la bannière actuelle
-
 ::: details REVIEW
 
 ⏩ **Bamboo Memory power SSR**
@@ -218,5 +216,36 @@ _ENVISAGEZ LE :_
 
 #### PULL OU PAS ?
 **Non**. Shinko Windy speed SR est une bonne carte speed SR, mais vous voudrez l'obtenir en faisant des pulls sur **une autre bannière support**, avec des SSR intéressantes. Bamboo Memory power SSR est une carte très peu désirable, donc ne gâchez pas vos carats pour ça.
+
+:::
+
+## #13 - King Halo power SSR et Seiun Sky wits SSR
+![Image de présentation de la bannière King Halo power SSR et Seiun Sky wits SSR](/public/assets/Gacha-reviews/2025/013_Card-Banner.png)
+
+#### C'est la bannière actuelle
+
+::: details REVIEW
+
+⏩ **King Halo power SSR**
+* La carte est **frontloaded** : à 1LB elle donne déjà tous ses bonus intéressants, et ne débloque que "initial power" à 3LB.
+* King Halo power SSR est une bonne carte power pour monter power, qui rappelle un peu Vodka power SSR (et c'est une bonne chose). Avec un specialty priority élevé, +1 power bonus et beaucoup de friendship bonus, King Halo power SSR fera assez fréquemment des rainbow de qualité. Elle dispose aussi de 10 training bonus à partir de 3LB, ce qui est génériquement plus désirable que le mood bonus de Vodka power.
+* Sa sélection de hints ❗ n'est pas folle, avec une combinaison de greens moyens, 2 white recoveries, et le white Gap Closer qui n'est pas réputé pour sa qualité ni sa fiabilité.
+* Le skill gold obtenu est le skill de vitesse **Blinding Flash**, la version gold de Gap Closer. C'est un skill de vitesse s'activant aléatoirement en late-race sur les courses sprint, quand vous êtes bottom50%. Si ce skill s'active "tardivement" dans la course, vous avez des solides chances de perdre, car bottom50% en fin de late-race c'est pas fou. Mais si le skill s'active tôt, il a des chances d'être partiellement ou intégralement gaché dans la phase d'accel. Pas fou. Attention, la carte peut vous donner la version white du skill ("agemasen").
+* En tant que carte basée sur King Halo, elle a l'event complètement maudit "**You May Socialize With Me!**", qui vous impose de choisir entre perdre _-20 énergie_, ou prendre un _mood down_ 💀
+* L'illu est super cool
+
+⏩ **Seiun Sky wits SSR**
+* *Eeeeeeeeeeh*
+* La carte est _relativement frontloaded_ : à 1LB elle donne la plupart de ses bons bonus, y compris le +2 speed bonus, mais débloque malheureusement Initial Friendship Gauge à 3LB.
+* Seiun Sky wits SSR est une carte wits cocasse ; avec si peu de specialty priority elle ne fera pas beaucoup de rainbows, mais son friendship bonus est solide (35 à MLB). De plus, avec 2 speed bonus et 10 training bonus, elle boostera notablement les entrainements speed et guts (et les rares fois où elle sera en rainbow en wits). Donc techniquement, elle a un assez bon cross-training, mais c'est difficile de recommander une carte wits qui peine à monter wits.
+* Sa sélection de hints ❗ n'est pas folle non plus, avec 2 greens peu fiables, 3 debuff mais aussi le très bon Tail Held High.
+* Son skill gold est le très bon **Vanguard Spirit**, qui est aussi très difficile à activer. C'est un skill de vitesse s'activant aléatoirement pendant le mid-race des courses long, à condition d'être en 1e position et avoir une grosse avance. C'est un très bon skill quand il pop. Mais il faut qu'il pop.
+* Ses 3 Chain Events rendent de l'énergie si vous sélectionnez l'option du bas (⚠️ mais attention, l'option du bas sur le 3e chain event ne vous donne pas le skill gold). Un de ses 2 events normaux peut aussi rendre de l'énergie.
+* **_Vous ne pouvez évidemment pas utiliser Seiun Sky wits SSR si vous jouez Seiun Sky._**
+
+#### PULL OU PAS ?
+**Déconseillé**.
+
+King Halo power SSR est -certes- un bon stat stick, avec un gain de power proche de la très bonne Vodka power SSR, mais contrairement à Vodka power, c'est sa _seule_ qualité. Le skill gold n'est ni fiable, ni efficace, ni générique, ses hints sont peu intéressants, et elle a un event très maudit. À côté de ça, Seiun Sky wits SSR n'est pas une très bonne carte wits, et si vous faisiez des pulls pour elle, sa durée de vie se retrouverai particulièrement courte. La carte n'en vaut absolument pas la peine. Il y a des bonnes cartes wits qui arrivent un peu plus tard (Nice Nature wits SSR et Curren Chan wits SSR)
 
 :::
