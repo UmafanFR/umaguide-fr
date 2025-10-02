@@ -98,7 +98,7 @@ _Fuji Kiseki est une Pace Chaser (1 gold) génériquement bonne en distance mile
 * Son skill unique sera buff plus tard, et s'activera non pas sur un check de 3 voies, mais 5 (la même + les 2 plus proches à gauche + les 2 plus proches à droite), ce qui le rendra **bien plus fiable**.
 * Très bon skill à obtenir par inspiration pour vos **frontline**.
 * Elle devrait être plutôt forte en tant que Front sur la **Cancer Cup** ([recommandations](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-cancer-cup-2025.md)), mais pas en tant que Pace.
-* Ses bonus de croissance sont plutôt bons : 20% power bonus et 10% bonus. ~~I wish that was Rice~~
+* Ses bonus de croissance sont plutôt bons : 20% power bonus et 10% wits bonus. ~~I wish that was Rice~~
 
 #### PULL OU PAS ?
 
