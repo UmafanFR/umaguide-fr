@@ -244,6 +244,9 @@ L'évènement "**New Year's Shrine Visit**" est très similaire à l'event "New 
 
 Et surtout, sur cet event aussi, le choix optimal c'est le **gain d'énergie**. En l'occurrence, sur New Year's Shrine Visit il s'agit de **l'option du haut**. Pour toutes les uma, si votre énergie n'est pas pleine, vous allez vouloir pick l'option du haut, afin de récupérer **+30 points d'énergie**. C'est toujours optimal, sauf si vous êtes -par exemple- seulement 10 points en-dessous du max, ou déjà au maximum. 
 
+#### 🌟 Pendant l'event "New Year's Shrine Visit", choisissez l'option du haut si votre énergie n'est pleine à au moins 80%
+
+
 Là encore, dans l'éventualité où vous n'avez pas besoin de l'énergie supplémentaire, l'option à choisir est alors **l'option du bas**, pour obtenir **+35 skills points**. 
 
 ::: tip Pourquoi pas les stats ?
@@ -310,18 +313,162 @@ Notez aussi que Sakura Bakushin O ne peut pas faire 4 tours d'entrainement penda
 
 ### Fin de la Senior Year
 
-Rien de notable jusqu'à fin décembre senior year ! 
+_Rien de notable jusqu'à fin décembre senior year !_ 
 
-Enfin, si. Contrairement à la "plupart" des uma, la carrière de Sakura Bakushin O ne se termine pas fin décembre, mais fin novembre classic year. La vaste majorité des uma (toutes les uma je pense même ?) finissent leur carrière sur une course G1 ; presque toutes les uma qui ont l'atptitude B ou A long terminent en beauté sur **Arima Kinen** (Nakayama 2500m, une course long), fin décembre senior year. Il y en a qui terminent sur **Japan Cup** (Tokyo 2400m, medium) ou **Mile Championship** (Kyoto 1600m, mile), fin novembre senior year. C'est le cas de **Sakura Bakushin O** ! Après cette course, elle n'aura plus de course obligatoire de sa carrière, et son prochain objectif sera de gagner le championnat **URA Finale**.
+Enfin, si.
 
-::: details Et puis il y a King Halo
+Contrairement à la "plupart" des uma, la carrière de Sakura Bakushin O ne se termine pas fin décembre, mais fin **novembre** senior year. La majorité des uma (toutes les uma ?) finissent leur carrière **sur une course G1** :
+- les uma qui sont aptes à le faire terminent en beauté sur **Arima Kinen** (Nakayama 2500m), fin décembre senior year. 
+- il y en a qui terminent sur **Japan Cup** (Tokyo 2400m) ou **Mile Championship** (Kyoto 1600m), fin novembre senior year
+- il y a aussi des uma qui terminent très tôt avec **Tenno Sho Autumn** (Tokyo 2000m, medium), fin octobre senior year.
 
-Pour le coup c'est vaguement une exception, mais King Halo termine sa carrière très tôt, avec Tenno Sho Autumn (Tokyo 2000m, medium), fin octobre senior year. Je crois que c'est la seule, mais je me trompe sans doute ~
+::: details Et puis il y a Curren Chan
+
+Bro termine sa carry *hyper tôt* avec **Sprinters Stakes** (Nakayam 1200m, sprint), fin **septembre** senior year. Je crois que c'est vraiment l'exception.
+
+C'est vraiment _la creatura_ (affectionate :currenDevilish:)
 
 :::
 
-Pas d'inquiétude, même après avoir gagné le dernier objectif de Sakura Bakushin O, vous allez pouvoir vous entrainer jusqu'au lancement de URA Finale, dans 2 tours. Vous ne perdez PAS de tour d'entrainement 👌🏿
+**Sakura Bakushin O** termine sa carrière sur **Mile Championship, fin novembre senior year** ! Après cette course, elle n'aura plus de course obligatoire de sa carrière, et son prochain objectif sera de gagner le championnat **URA Finale**.
+
+Pas d'inquiétude, même après avoir gagné le dernier objectif de Sakura Bakushin O, vous allez pouvoir vous entrainer jusqu'au lancement de URA Finale, dans 2 tours. _Vous ne perdez PAS de tour d'entrainement_ 👌🏿
+
+Enfin, arrivé à **fin décembre senior year**, un event obligatoire et identique pour toutes les uma (le texte change) se produira : **Christmas**. Pendant cet event, si votre uma a **au moins 120000 fans** (ou 80000 s'il s'agit de Haru Urara ou Smart Falcon), le **skill unique** de votre uma augmentera une dernière fois. Généralement, celui-ci on le loupe pas, car il faut pas mal de défaites en carrière pour finir avec moins de 120k fans. Ça arrive, mais ça devrait être assez rare je pense ! 
+
+::: tip Petit détail
+
+Aucun évènement **aléatoire** (event de votre uma, ou de votre carte support, ou chain event) ne peut se jouer fin décembre senior year. Absolument aucun.
+
+:::
+
+Et après ce tour de jeu, vous arrivez sur la dernière partie de la carrière : URA Finale.
 
 ## URA Finale
 
-## Choisissez vos skills !
+Si vous avez réussi l'objectif final de votre uma, _**bravo**_ ! 👏🏿
+
+À priori, pour Sakura Bakushin O ça ne devrait pas être trop difficile, mais même si vous n'avez pas réussi **ce n'est pas grave**. Vous ferez mieux à votre prochaine carrière, il n'y a **pas de conséquence** notable en cas d'échec (à part le fait de devoir recommencer une carrière du début). Et si vous avez réussi, alors vos nouveaux "objectifs" seront de remporter "URA Finale".
+
+Il s'agit d'une compétition qui a lieu à la **fin de la carrière de toutes les uma**, et qui se déroule en 3 courses : quart de finale, demi-finale, et finale. 
+
+URA Finale a une particularité très importante ; pour une carrière donnée, les 3 courses se déroulent sur le **même type de distance** (exemple : long), et cette distance est choisie -à chaque carrière- selon une condition très claire : c'est la distance sur laquelle votre uma a fait **le plus de courses gradées** pendant sa carrière. Obligatoires ou non. Autrement dit, avec ses 8 courses en distance **sprint**, votre Sakura Bakushin O va presque toujours faire **URA Finale sur distance sprint**.
+
+:::: tip En cas d'égalité
+
+À côté de ça, Rice Shower -par exemple- a 4 courses en distance long, et 3 courses en distance medium. En théorie, elle court donc sur URA Finale long ! Mais si vous vous souvenez bien, j'ai été obligé de faire **une course medium facultative** en début de carrière, pour obtenir des fans, ce qui me fait donc un total de **4 courses medium et 4 courses long**. Que se passe-t-il en cas d'égalié ? 
+
+Contrary to popular belief, ce n'est _**PAS** choisi au hasard_. C'est toujours la distance **la plus courte** éligible.
+
+Si j'ai 4 med et 4 long, ce sera systématiquement URA Finale **med**, car entre med et long c'est med le plus court. Si c'était 4 long, 4 med et 4 sprint (c'est très maudit mdr), ça aurait été URA Finale sprint. 
+
+Pour faire URA Finale sur une distance qui vous arrange (ce sera utile plus tard), vous devez avoir fait au moins **1 course supplémentaire** par rapport à l'ex-aequo de distance plus courte. Donc pour que Rice fasse URA Finale en distance long, il lui faut 1 course long de plus que les 3 med obligatoire + 1 med facultative, soit **5 long**.
+
+::: details Vous avez bien suivi ? Alors, comment faire pour que Sakura Bakushin O fasse URA Finale sur la distance mile ?
+
+Sur la totalité de sa carrière -jusqu'au lancement de URA Finale-, il faut qu'elle ait participé à **9 courses mile gradées** (obligatoire ou pas), car elle fait 8 courses sprint obligatoires. Comme elle a 3 courses mile obligatoires, vous devez ajouter **6 courses mile facultatives**, pour faire URA Finale en distance mile.
+
+:::
+
+::: warning Bon à savoir
+
+URA Finale dirt est toujours en distance mile.
+
+:::
+
+::::
+
+Pendant le tournoi URA Finale, vous allez toujours alterner un tour d'entrainement puis une course, **3 fois**. Cette fin de carrière dure donc 6 tours, dont 3 pendant lesquels vous pouvez jouer. C'est bien d'essayer de prévoir d'avoir une **bonne barre d'énergie et un mood maximum**, pour pouvoir réaliser les 3 entrainements, et ainsi finaliser la croissance de vos stats ! Ce sont presque des tours de jeu normaux MAIS **aucun event aléatoire** ne peut se produire pendant URA Finale. Aucun chain event, aucun event de votre uma, aucun event d'une carte support, RIEN. Vous ne pouvez pas non plus faire de course facultative.
+
+C'est vraiment **[1 entrainement → 1 course] x3**
+
+::: warning Utilisez vos réveils ! ⚠️
+
+**Si vous perdez une course URA Finale, ça met fin à la carrière !** Recommencez les courses que vous échouez, sinon c'est la fin de la partie ! C'est la dernière ligne droite, donc c'est le moment de tout donner ~
+
+:::
+
+
+Vous remarquerez très vite que les récompenses des courses URA Finale sont bien plus juteuses, avec pas mal de gain de stats et de skills points. Si vous **perdez** et tombez à court de réveil pendant URA Finale, la carrière touchera à sa fin, et vous aurez le "normal ending". Vous gagnerez quand même quelques stats supplémentaire, en récompense de votre participation à URA Finale.
+
+#### 🌟 Pendant URA Finale, continuez de vous entrainer normalement, et participez aux courses. Bonne chance !
+
+Comme pour toutes les autres courses obligatoires de la carrière, vous pourrez choisir des skills. Vous n'êtes toujours pas obligés, mais il est possible que ces courses soient un peu difficiles (surtout en distance med et long), donc vous pouvez l'envisager. Je pense que Sakura Bakushin O n'en a pas besoin pour le moment !
+
+Après avoir remporté le quart de finale, puis la demi-finale, vous allez pouvoir affronter **Happy Meek** lors de la finale ! Meek a ceci de particulier qu'elle a **toutes les aptitudes de terrain et de distance notées "A"** ; ainsi, elle peut courir sur absolument toutes les courses du jeu. C'est un subterfuge nécessaire pour qu'elle puisse vous affronter quelle que soit la distance choisie pour URA Finale. 
+
+_Happy Meek sera légèrement plus forte_ que les autres uma de la course, mais pas suffisamment pour être systématiquement l'adversaire la plus menaçante. Parfois elle va juste se retrouver bloquax en 6e position, et parfois elle vous mettra la misère. Autrement dit, c'est une course comme une autre, juste un peu plus difficile que les 2 précédentes. 
+
+#### 🌟 Je suis sur que vous pouvez gagner URA Finale
+
+
+Dans l'éventualité où vous auriez perdu, dommage, mais **vous l'aurez la prochaine fois**.Selon les deck que vous avez joué (speed/power ou speed/wits si vous avez joué Sakura Bakushin O), je pense que votre power ou votre wits devrait être suffisant pour être utile, mais si la RNG décide que vous allez perdre, **vous allez perdre**. Surtout en sprint. Plus la course est courte, plus le hasard a de pouvoir. Retentez votre chance sur une prochaine carrière, avec les connaissances acquises dans ce guide, j'espère que les choses se passeront  différemment !
+
+Si vous avez gagné URA Finale, bravo ! Vous avez terminé la carrière, et atteint le **good ending !** 🎉
+
+**Sakura Bakushin O** et **Curren Chan** ont actuellement les 2 carrières les plus faciles du jeu pour le moment, car les besoins en stats sont très faibles et elles ont toutes les deux des bons skills uniques. Mais ça ne veut pas dire que ce n'est pas une réussite, et j'espère que tout ce qu'on a abordé ici vous aidera dans vos prochaines carrières. 
+
+::::: tip À titre informatif
+
+La "difficulté" d'une carrière est assez subjective, et dépend de pas mal de choses. C'est principalement les courses auxquelles votre uma doit participer, celles qu'elle doit gagner, ses bonus de gain de stats, la qualité de son skill unique, et dans certains cas on compte aussi ses events obligatoires (* _muffled Narita Taishin sounds in the distance_ *). À titre informatif, voici quelques uma pour lesquelles il y a consensus (ou presque) sur la difficulté de leurs carrières (dans aucun ordre particulier) :
+
+:::: details Vous n'avez pas besoin de savoir ça en réalité, mais si ça peut vous aider à savoir quelle uma ne PAS jouer pour votre 2e carrière... :currenDevilish:
+
+**King Halo** : sa carrière requiert de courir sur **toutes les distances**, et de _gagner_ en medium avec l'aptitude B medium. La diversité des distances a tendance à confuser les gens, qui ne réalisent pas qu'il faut la build comme une uma **medium** (Tenno Sho Autumn doit être gagnée obligatoirement), donc avec des **cartes stamina**. De plus, si vous ne faites pas au moins **2 courses sprint facultative**, vous tomberez sur URA Finale **medium** (pas grave si vous y êtes préparés, mais on tombe systématiquement dans le "piège" la première fois).
+
+**Haru Urara** : sa carrière est **dirt only**, et y'a pas grand chose comme courses dirt. Elle n'a pas de très bonnes aptitudes overall, son skill unique ne fait absolument (absolument) RIEN dans un certain nombre de courses et +20% guts bonus sans stamina bonus c'est vraiment terrible (mais +10% power c'est bien). La carrière en elle même n'est pas *difficile*, elle est juste, genre, *annoying*. C'est vraiment sauvé par le fait que **Urara est un sucre**, et fun à suivre. Sa carrière se termine sur **Arima Kinen**, qui est -par défaut- **impossible pour elle** (elle n'a pas besoin de gagner). Quand vous serez plus expérimentés vous pourrez monter ses aptitudes pour lui faire gagner Arima Kinen, mais pour le moment oubliez ça.
+
+**Rice Shower** : :currenDevilish: **_TENNO SHO SPRING_** :currenDevilish: C'est la course G1 **la plus longue** du jeu, ma course préférée, et aussi la plus difficile en carrière, car vos chances de victoire sont _très faibles_ si vous n'attaquez pas la course avec au moins **600 stamina** (ou 400 + 1 gold recovery). Il y a quelques uma dans le jeu qui sont obligées de **_gagner_** cette course, et Rice est l'une d'elles. Si vous n'avez pas environ 600 stamina effective fin avril classic year, généralement **votre carrière avec Rice s'arrête ici**. Elle a aussi des bonus de stats vraiment *tristes*, avec +10% stam bonus (ok) et +20% guts bonus (terrible), et un unique qui ne l'aide généralement pas à gagner (la plupart du temps quand il pop c'est que sa victoire est déjà assurée, surtout en carrière).
+
+**Mejiro McQueen** : **_TENNO SHO SPRING_**. Au moins elle a des très bons bonus donc ça l'aide bien. L'autre "difficulté" avec elle, c'est qu'elle doit atteindre un certain nombre de fans avant fin décembre junior year, et c'est le jour de **Hopeful Stakes** (Nakayama 2000m, G1). C'est pas dur en soi, Hopeful Stakes se win très facilement. _Mais_. La plupart des gens ne prennent pas la peine de faire Kyoto Junior Stakes (G3 med, deux tours avant), en se disant qu'iels auront les fans sur Hopeful. Du coup, iels arrivent sur Hopeful Stakes en se disant que ce sera du gateau (ils ont raison) et je vous la donne dans le mille : la RNG décide que _**bah non**_. 
+
+Blocage, défaite sévère, la course ne peut pas être recommencée car non obligatoire, pas assez de fan, carrière finito fin décembre junior year, GJ shake my hand.
+
+::: tip Les autres uma avec Tenno Sho Spring
+
+**Narita Brian** doit aussi gagner Tenno Sho Spring, et plus tard il y a aura aussi **Mejiro Bright, Hishi Miracle et Fenomeno**. D'ici leur sortie, la course ne sera plus qu'une formalité cependant.
+
+Il y a pas mal d'autres uma qui doivent faire top3 ou top5 sur Tenno Sho Spring, ce qui est bien plus simple (350-400 stam suffit parfois, mais visez quand même un peu plus).
+
+:::
+
+**Narita Taishin** : Après **Kikka Sho**, Taishin subit une sévère **baisse d'humeur**, que vous devrez effacer au plus vite, ce qui vous ruinera plusieurs tours d'entrainement 🙃
+
+::::
+
+:::::
+
+##  Epilogue - Choisissez vos skills
+
+Après avoir visionné les différentes cutscenes de fin de carrière et reçu les récompenses (stats et skill points), vous arriverez sur la dernière étape de la carrière : **le choix des** skills.
+
+Je vous le dit tout de suite : **vous n'apprendrez pas à choisir vos skills de manière idéale d'un seul coup**. Ca prend un certain temps, et même après plusieurs mois de jeu, des tas de joueur·euse·s assidues qui jouent depuis le lancement de la globale ont toujours besoin d'un conseil pour départager 2-3 skills. Il y aura des guides pour vous aider à choisir vos skills intelligemment, mais on y est absolument pas. En attendant, voici ce que vous allez faire. 
+
+[IMAGES DES LOGOS DE SKILLS]
+
+#### 🌟 En fin de carrière, sélectionnez vos skills comme suit
+
+Si vous jouez **Sakura Bakushin O** :
+- sélectionnez **en premier** tous les skills **bleus** (= des recovery, qui rendent des HP à votre uma pendant la course)... 
+    - qui sont marqués "**(Front Runner)**" ou "**(sprint)**" à la fin de leur description
+    - qui n'ont **rien entre parenthèse** à la fin de leur description
+- ensuite, en partant du BAS de la liste, prenez tous les **skills orange de _VITESSE_** (ne confondez pas le logo avec les skills d'accelération)
+    - qui sont marqués "**(Front Runner)**" ou "**(sprint)**" à la fin de leur description
+    - qui n'ont **rien entre parenthèse** à la fin de leur description
+- enfin, après tout ça, s'il vous reste des skills point (sans doute pas), prenez tous les **skills verts** (ils boostent un peu vos stats en début de course, si vous courez sur une course correspondant à la description) qui sont en **début de liste**, et qui ont une **chaussure** 🥾 ou un **coeur** 💗. Inutile de les prendre en version double-cerclée, prenez les une seule fois.
+- s'il vous reste des skill points (?????????????????????), prenez les skills verts qui sont proches de la fin de la liste.
+- ignorez tous les autres skills (rouges, skills de vision, skills de déplacement latéral)
+
+Si vous jouiez une autre uma que Sakura Bakushin O, allez dans la fiche de stats de votre uma, et choisissez *une* aptitude de **distance** et *une* aptitude de **stratégie** où votre uma est notée "A" ou "S". Ensuite, revenez sur la liste des skills, et choisissez vos skills selon les mêmes directives que pour Sakura Bakushin O, mais en remplaçant "Front Runner" par **la stratégie que vous avez choisi**, et "Sprint" par **la distance que vous avez choisi**. 
+
+::: warning Skills gold = good
+
+Si parmi ces skills là il y a des skills en version gold, prenez-les en priorité ! Ils sont plus chers, mais aussi beaucoup plus puissants !
+
+:::
+
+Une fois votre sélection terminée, **vous pouvez mettre fin pour de bon à la carrière !**
+
+Votre uma va à présent être **notée**, en fonction de ses **stats** et de ses **skills** (les aptitudes ne comptent pas) ! Le calcul du rank est totalement **déterministe**, et la formule est parfaitement connue. _Ce n'est pas du tout aléatoire_ (vous pourriez sortir une calculatrice, utiliser la bonne formule et tomber sur exactement le même résultat). Si vous avez réussi la carrière, vous aurez peut-être le **rank B, ou même B+**. Si vous aviez échoué, vous dépasserez rarement C+.
+
+Après cette évaluation, le jeu vous montrera les **sparks d'inspiration** que votre uma a obtenu.
