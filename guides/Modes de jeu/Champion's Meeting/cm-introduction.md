@@ -21,7 +21,7 @@ Dans Umamusume, il existe 2 types d'évènements de PvP compétitif : **Champion
 
 Environ **une fois toutes les 3 semaines**, un Champion's Meeting à lieu pour faire s'affronter les joueur·euse·s sur des courses aux conditions intégralement connues, et auxquelles vous participerez par **équipe de 3 umamusume** de votre choix. Vous trouverez ici des recommandations pour préparer vos umamusume pour les évènements de PvP compétitif (quand ce sera prêt :9), ainsi qu'une explication pas-à-pas du fonctionnement d'un Champion's Meeting.
 
-Les "archives" des précédentes recommandations (quand il y en aura) seront dispo à gauche, dans la barre de navigation.
+Les "archives" des précédentes recommandations seront dispo à gauche, dans la barre de navigation.
 
 ::: tip Disclaimer habituel
 
