@@ -1,12 +1,16 @@
 ---
-title: Champion's Meeting - Cancer Cup ?? Octobre 2025 - NHK Mile Cup
-menuTitle: Cancer cup - ??/10/25
+title: Champion's Meeting - Cancer Cup 12 Octobre 2025 - NHK Mile Cup
+menuTitle: Cancer cup - 12/10/25
 outline: [2, 3]
 description: Recommandations (abrégées) pour le Champion's Meeting - Cancer Cup ;  Tokyo 1600, sens anti-horaire, good (!= firm), sunny
 order: 1
 ---
 
-# Préparation au Champion's Meeting #03 du ??? Octobre 2025 - NHK Miles Cup (Tokyo 1600m)
+# Préparation au Champion's Meeting #03 du 12 Octobre 2025 - NHK Miles Cup (Tokyo 1600m)
+
+Inscriptions et choix de league à partir de mercredi **8 octobre 2025**
+
+Début de l'évènement **dimanche 12 octobre 2025**
 
 ::: warning Mini-guide ⚠️
 
@@ -406,7 +410,7 @@ Vous pouvez bien entendu envisager de **vous fier à d’autres guides et recomm
 
 # Voilà
 
-Bon courage tout le monde pour votre préparation au Champion's Meeting ! Pour le moment on ne connait pas la date exacte de l’évènement. Ce post sera mis à jour en temps voulu !
+Bon courage tout le monde pour votre préparation au Champion's Meeting ! Pour rappel, vous pouvez vous **inscrire au CM** et choisir votre **league** à partir du **mercredi 8 Octobre**, et l'évènement **commencera dimanche 12 octobre !** 
 
 Si vous avez besoin d’un rappel sur le fonctionnement même du Champion’s Meeting, [c’est par ici !](https://umaguide.fr/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction)
 
