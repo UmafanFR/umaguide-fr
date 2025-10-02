@@ -31,13 +31,13 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ## Prochain PvP compétitif :
 
-### Gemini Cup - "Tenno Sho Spring" - Champion's Meeting - 12 septembre 2025
+### Cancer Cup - "NHK Mile Cup" - Champion's Meeting - 12 octobre 2025
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ (⚠️non annoncé !) [Champion's Meeting Cancer Cup - **?? Octobre** - Tokyo 1600 turf (NHK Mile Cup)](./cm-cancer-cup-2025.md)
+⏩ [Champion's Meeting Cancer Cup - **12 Octobre** - Tokyo 1600 turf (NHK Mile Cup)](./cm-cancer-cup-2025.md)
 
-> À suivre (non annoncé) : Champion's Meeting - fin Octobre/début Nov 2025 (?) - Hanshin 2200m turf (~~Rice Shower~~ Leo Cup)
+> À suivre : Champion's Meeting - 4 Nov 2025 - Hanshin 2200m turf (Leo Cup)
 > *(recommandations à venir)*
 
 :::
