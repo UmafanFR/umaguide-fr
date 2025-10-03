@@ -20,7 +20,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/014_Banners_early_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/014_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -88,7 +88,7 @@ Bonne chance à tous·tes !
 
 ### Bannière Umamusume : Fuji Kiseki ★★★
 
-![Image de présentation de la bannière Fuji Kiseki](/public/assets/Gacha-reviews/2025/014_Uma-Banner_JP.png)
+![Image de présentation de la bannière Fuji Kiseki](/public/assets/Gacha-reviews/2025/014_Uma-Banner.png)
 
 _Fuji Kiseki est une Pace Chaser (1 gold) génériquement bonne en distance mile (1 gold). Ses aptitudes lui permettent de courir en tant que Front ou Late, et pour tirer parti de son unique vous allez plutôt vouloir envisager de la jouer Pace ou Front, et non pas Late. Elle a une gold recovery Pace -Race Planner- parfaitement fiable, et un skill gold de vitesse de mid-race -Big-Sisterly- génériquement bon._
 * Pas grand chose à dire sur elle en réalité, c'est une Pace assez vanilla, mais dans le bon sens. Son unique devrait marcher relativement bien, et ses 2 golds n'ont rien de notable et sont fiables :
@@ -111,7 +111,7 @@ Bonus : elle a l'air assez marrante comme perso.
 
 ### Bannière support : Mejiro Ryan guts SSR et Mejiro Ardan wits SR
 
-![Image de présentation de la bannière Mejiro Ryan guts SSR et Mejiro Ardan wits SR](/public/assets/Gacha-reviews/2025/014_Card-Banner_JP.png)
+![Image de présentation de la bannière Mejiro Ryan guts SSR et Mejiro Ardan wits SR](/public/assets/Gacha-reviews/2025/014_Card-Banner.png)
 
 
 #### Mejiro Ryan guts SSR
@@ -136,8 +136,8 @@ Ryan SSR n'est pas bonne, et Ardan SR est une SR que vous voudrez pick up sur un
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
-* [Bannières cartes support](/guides/Gacha-was-a-mistake/Support-gacha-reviews-2025.md)
-* [Bannières umamusume ★★★](/guides/Gacha-was-a-mistake/Uma-gacha-reviews-2025.md)
+* [Bannières cartes support de 2025](/guides/Gacha-was-a-mistake/Support-gacha-reviews-2025.md)
+* [Bannières umamusume ★★★ de 2025](/guides/Gacha-was-a-mistake/Uma-gacha-reviews-2025.md)
 
 <br/>
 <br/>
