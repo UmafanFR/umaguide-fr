@@ -1,5 +1,5 @@
 ---
-title: Gacha review - Fuji Kiseki ★★★ // Mejiro Ryan guts SSR & Mejiro Ardan wits SR)
+title: Gacha review - Gold City ★★★ // Vodka power SSR et Nishino Flower speed SSR SR)
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -20,7 +20,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/014_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/015_Banners_early_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -78,6 +78,8 @@ Le fait qu'une carte soit frontloaded ou backloaded n'a absolument _rien à voir
 
 :::
 
+**Agemasen :** Toutes les cartes SSR peuvent vous donner un skill gold à la fin de leurs Chain Events ▶️▶️▶️, mais certaines cartes SSR ont une chance de vous donner la version de leur skill gold à la place. On parle donc de "Agemasen" ("won't give"), en référence à la scène de la saison 2 où Teio s'imagine Special Week refuser de faire part de gratitude à McQueen.
+
 ::::
 
 Bonne chance à tous·tes !
@@ -86,51 +88,53 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Fuji Kiseki ★★★
+### Bannière Umamusume : Gold City ★★★
 
-![Image de présentation de la bannière Fuji Kiseki](/public/assets/Gacha-reviews/2025/014_Uma-Banner.png)
+![Image de présentation de la bannière Gold City](/public/assets/Gacha-reviews/2025/015_Uma-Banner.png)
 
-_Fuji Kiseki est une Pace Chaser (1 gold) génériquement bonne en distance mile (1 gold). Ses aptitudes lui permettent de courir en tant que Front ou Late, et pour tirer parti de son unique vous allez plutôt vouloir envisager de la jouer Pace ou Front, et non pas Late. Elle a une gold recovery Pace -Race Planner- parfaitement fiable, et un skill gold de vitesse de mid-race -Big-Sisterly- génériquement bon._
-* Pas grand chose à dire sur elle en réalité, c'est une Pace assez vanilla, mais dans le bon sens. Son unique devrait marcher relativement bien, et ses 2 golds n'ont rien de notable et sont fiables :
-    * **Big-Sisterly** est un skill de vitesse de mid-race de bonne qualité, qui s'active sur une tentative de dépassement. Ca s'activera parfais en early-race, ce qui est plutôt idéal pour prendre position en tant que Pace ou Front.
-    * **Race Planner** est une gold recovery Pace parfaitement fiable.
-* Son skill unique est un puissant gain de vitesse si elle est top30% sur le final straight, et une uma est juste derrire elle, sur la même voie ou une voie adjacente. C'est un très bon unique de vitesse (+0.45m/s, comme Oguri) **s'il s'active**. Comme le check n'est effectué que sur 3 voies, parfois ça ne s'activera juste pas. Mais en cas d'activation, et à condition que vous ayez eu de l'accel avant le final straight, le skill devrait l'aider à effectuer des dépassements en tant que Pace, ou **ne pas se faire dépasser en tant que Front**. C'est en réalité sa principale force ; si Fuji est la Front en 1e position, et qu'elle pop les accels de Front (Seiun et compagnie), alors c'est difficile pour une uma dans une voie adjacente de dépasser Fuji. En cas de tentative de dépassement, Fuji va pop son puissant unique, et maintenir son lead plus longtemps. Ainsi, son unique fait de Fuji une **potentielle bonne Front Runner**.
-* Son skill unique sera buff plus tard, et s'activera non pas sur un check de 3 voies, mais 5 (la même + les 2 plus proches à gauche + les 2 plus proches à droite), ce qui le rendra **bien plus fiable**.
-* Très bon skill à obtenir par inspiration pour vos **frontline**.
-* Elle devrait être plutôt forte en tant que Front sur la **Cancer Cup** ([recommandations](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-cancer-cup-2025.md)), mais pas en tant que Pace.
-* Ses bonus de croissance sont plutôt bons : 20% power bonus et 10% wits bonus. ~~I wish that was Rice~~
-
-#### PULL OU PAS ?
-
-Pas forcément conseillé, mais ce serai valide. 
-
-C'est une uma génériquement bonne en Mile, et qui peut courir en sprint et medium sans trop de difficulté (+1* sprint/med requise). Son unique est bon pour elle et les frontline, s'il s'active. Il y'a d'autres bannières uma de qualité qui arrivent, donc c'est difficile de *recommander* Fuji Kiseki (à plus forte raison car elle perd un skill gold hors de la distance mile), mais ce n'est définitivement pas un mauvais choix.
-
-Bonus : elle a l'air assez marrante comme perso.
-
-
-### Bannière support : Mejiro Ryan guts SSR et Mejiro Ardan wits SR
-
-![Image de présentation de la bannière Mejiro Ryan guts SSR et Mejiro Ardan wits SR](/public/assets/Gacha-reviews/2025/014_Card-Banner.png)
-
-
-#### Mejiro Ryan guts SSR
-* La carte est **frontloaded** : à 1LB elle donne déjà la plupart de ses bonus intéressants, et ne débloque que "initial friendship gauge" à 3LB.
-* Mejiro Ryan guts SSR est une carte guts moyenne, assez bonne pour monter guts, et contribuera bien à monter power aussi. Son principal atout est le **skill point bonus** qu'elle vous propose, et ce, **dés 0LB**. Au-delà de ça, il n'y a pas beaucoup à dire sur elle.
-* Sa sélection de hints ❗ est pauvre, avec 2 greens et 2 skills med de vitesse.  
-* Le skill gold obtenu est le skill de vitesse medium **Unyielding**, la version gold de Steadfast. C'est un skill de vitesse s'activant en late-race si vous vous faites **dépasser sur le final corner**. L'activation n'est pas hyper fiable, et comme elle requiert que vous vous fassiez dépasser, ce n'est même pas très désirable. De plus, sur les courses medium le final corner tombe généralement en pleine accel, donc une partie de la puissance du skill sera gâché. Ce n'est donc pas un skill très recommandable.
-* Plusieurs de ses events vous permettent de **récupérer de l'énergie**.
-
-#### Mejiro Ardan wits SR
-* Mejiro Ardan wits SR est une carte wits assez moyenne ; à MLB elle est un peu moins bonne que Marvelous Sunday wits SR pour monter wits, et légèrement (légèrement) meilleure en cross-training (monter les autres stats).
-* Sa sélection de hints ❗ est pas mal. Elle propose 2 greens, dont **Left-Handed**, 2 white recovery fiables, et Pace Chasers Corners.
-* C'est une des cartes SR qui ne donnent pas de skill sur la fin de son chain event ▶️▶️
-* **Plusieurs** de ses events vous permettent de **récupérer de l'énergie** ou avoir des **mood up**.
+_Gold City est une Late Surger (1 gold + unique) pensée pour la distance mile (1 gold), qui mise beaucoup sur l'aléatoire. Elle sera parfois explosive, et parfois complètement à plat. Sa seule aptitude de distance "A" est mile, mais elle a aussi B medium et long. Elle a une gold recovery Mile -Keen Eye- de fiabilité aléatoire, et la gold accel aléatoire -On Your Left- pour les Late Surger. Son unique est aussi une accel, mais peu contrôlable._ 
+* Avec +20% guts bonus, monter les stats de Gold City sera plutôt pénible en carrière. On se réjouit du +10% power bonus, mais ça reste plutôt insuffisant, et pour une uma qui veut courir en mile, avoir du guts bonus n'est pas hyper avantageux. 
+* Ses aptitudes de distance sont -overall- pas folles, avec F sprint, et B med/long. En mile pas de problème, mais sa carrière est composée majoritairement de **courses med et long** (URA Finale med par défaut), donc il faudra peut-être booster ses aptitudes pour vous aider à sécuriser les courses.
+* Sa sélection de skills gold est plutôt OK :
+    * **On Your Left** est une gold accel qui s'active aléatoirement en late-race. C'est la version évoluée de Slick Surge, et la même gold accel que Grass Wonder. Quand le timing est bon le skill est excellent, mais comme il est aléatoire vous n'avez pas de garanties. Plus la course est longue, moins le skill est fiable.
+    * **Keen Eye** est une gold recovery qui s'active aléatoirement en early-race, à partir de 5 secondes de course. L'activation en early-race fera que parfois le skill sera en partie gaché, et la plupart du temps vous voudrez plutôt une activation après vaguement 10 secondes. Dans une course mile c'est environ 50% chance. 
+        > * Le skill sera buff plus tard, et aura un effet debuff de vitesse assez sympa.
+* Le skill unique de Gold City est une accel de longue durée qui s'active sur une **tentative** de dépassement si elle est dans l'arrière du pack, à partir de la moitié de la course. La condition d'activation n'est pas idéale, et le skill s'activera souvent bien trop tôt. Sa longue durée devrait permettre d'en tirer quelque chose de temps en temps, mais à moins que les Pace / Front en face soient particulièrement compétentes, le skill poppera trop tôt la plupart du temps.
 
 #### PULL OU PAS ?
-**Non**.
 
-Ryan SSR n'est pas bonne, et Ardan SR est une SR que vous voudrez pick up sur une autre bannière.
+**Seulement si vous l'aimez beaucoup et que vous ne comptez pas pull sur la bannière Summer Maruzensky**, qui est la bannière suivante.
+
+Parfois ses accel la feront exploser mais la qualité de son kit est plutôt moyenne. C'est difficile à recommander quand la très bonne Summer Maruzensky est _right around the corner_.
+
+---
+
+### Bannière support : Vodka power SSR et Nishino Flower speed SSR
+
+![Image de présentation de la bannière Vodka power SSR et Nishino Flower speed SSR](/public/assets/Gacha-reviews/2025/015_Card-Banner.png)
+
+
+#### Vodka Power SSR
+* La carte est **particulièrement frontloaded**, et est même réputée pour ça : à 1LB elle donne déjà la plupart de ses bonus intéressants, et ne débloque que hint levels et hint frequency à 3LB. De plus, à 1 LB elle a déjà un **spec prio et un friendship bonus particulièrement élevés**, ce qui fait très vite d'elle une très bonne carte pour monter power.
+* Aujourd'hui encore, sur la version JP du jeu, Vodka power est championne du friendship bonus, avec +48.5% friendship bonus une fois MLB. Certaines cartes SSR MLB ont littéralement _la moitié de ça_.
+* Vodka power est une carte power de qualité, très bonne pour **monter power**. Elle a aussi une petite contribution au cross-training, avec 40 mood bonus.
+* Sa sélection de hints ❗ est large, un peu trop même, avec plusieurs skills de vitesse, plusieurs accels (de fiabilité variable), ainsi que Tokyo Racecourse et une white recovery. Bon courage pour avoir ce qui vous arrange :currenDevilish:
+* Le skill gold obtenu est le skill de vitesse medium **Breath of Fresh Air**, qui s'active aléatoirement sur une ligne droite. La skill est d'autant plus fiable que la course est longue. Mais d'un autre côté, sur les courses de longue distance, c'est pas simple d'intégrer une carte power. Sur les courses mile et sprint, la chance que le skill ne fasse rien ou presque commence à être élevée. 
+    > * Plus tard, le skill sera buff et deviendra **parfaitement fiable**.
+
+#### Nishino Flower speed SSR
+* Nishino speed SSR est une carte à la croissance équilibrée : ni frontloaded, ni backloaded.
+* C'est une carte de **cross-training** ; vous ne l'utilisez pas pour monter speed -0 spec prio, 20 friendship bonus MLB- mais pour aider à la **croissance des autres stats**. Elle est plutôt OK en tant que carte de cross training, mais **plutôt à LB élevé**.
+* En revanche, son cross-training est fortement boosté par le fait qu'**elle peut vous donner le buff _Charming_**, qui augmente la croissance des jauges de vos cartes supports ; elle vous permet donc d'avoir des rainbow plus tôt ! 
+* Sa sélection de hints ❗ inclus entres autres choses 3 greens, dont Standard Distance et Firm Conditions (qui sont fréquemment utiles).
+* Le skill gold obtenu est le skill de vitesse universel **Beeline Burst**, qui s'active aléatoirement en ligne droite. Attention, elle peut aussi vous donner la version white ("agemasen").
+
+#### PULL OU PAS ?
+**Peu recommandé**. Cette bannière a un problème tout bête : Vodka power SSR est la principale "bonne" raison de pull sur cette bannière, et elle va être rendue un peu (un peu) caduque par **Rice Shower power SSR**, qui arrive sous peu. 
+
+Rice Shower power SSR marche un peu sur une partie de la niche de Vodka power, en étant une autre **carte power qui donne une gold recovery universelle**. Mais Rice donne Maestro (et _aussi_ **Cooldown** pendant le scénario Unity Cup), qui est aussi bien **plus fiable** que Breath of Fresh Air. Si on était au début de URA ça aurait plus facile de recommander cette bannière, mais là c'est assez discutable.
+
+**Si vous débutez** et que vous voulez absolument faire des pulls de cartes supports, c'est une bannière OK-ish.
 
 ---
 
