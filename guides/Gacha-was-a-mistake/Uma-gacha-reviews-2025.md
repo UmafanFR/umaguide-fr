@@ -234,3 +234,31 @@ On ne peut pas nier la qualité de la bannière. Ce sont des uma _intéressantes
 Ce n'est pas une bannière *recommandée*, mais loin d'être la pire bannière à pull. Gardez en tête que faire des pulls c'est lourd en utilisation de ressources, et qu'on attend d'autres uma intéressantes (Maruzensky alt, pour ne citer qu'elle) dans les bannières "à venir".
 
 :::
+
+## #14 - Fuji Kiseki ★★★
+
+![Image de présentation de la bannière Fuji Kiseki](/public/assets/Gacha-reviews/2025/014_Uma-Banner.png)
+
+#### C'est la bannière actuelle
+
+::: details REVIEW
+
+_Fuji Kiseki est une Pace Chaser (1 gold) génériquement bonne en distance mile (1 gold). Ses aptitudes lui permettent de courir en tant que Front ou Late, et pour tirer parti de son unique vous allez plutôt vouloir envisager de la jouer Pace ou Front, et non pas Late. Elle a une gold recovery Pace -Race Planner- parfaitement fiable, et un skill gold de vitesse de mid-race -Big-Sisterly- génériquement bon._
+* Pas grand chose à dire sur elle en réalité, c'est une Pace assez vanilla, mais dans le bon sens. Son unique devrait marcher relativement bien, et ses 2 golds n'ont rien de notable et sont fiables :
+    * **Big-Sisterly** est un skill de vitesse de mid-race de bonne qualité, qui s'active sur une tentative de dépassement. Ca s'activera parfais en early-race, ce qui est plutôt idéal pour prendre position en tant que Pace ou Front.
+    * **Race Planner** est une gold recovery Pace parfaitement fiable.
+* Son skill unique est un puissant gain de vitesse si elle est top30% sur le final straight, et une uma est juste derrire elle, sur la même voie ou une voie adjacente. C'est un très bon unique de vitesse (+0.45m/s, comme Oguri) **s'il s'active**. Comme le check n'est effectué que sur 3 voies, parfois ça ne s'activera juste pas. Mais en cas d'activation, et à condition que vous ayez eu de l'accel avant le final straight, le skill devrait l'aider à effectuer des dépassements en tant que Pace, ou **ne pas se faire dépasser en tant que Front**. C'est en réalité sa principale force ; si Fuji est la Front en 1e position, et qu'elle pop les accels de Front (Seiun et compagnie), alors c'est difficile pour une uma dans une voie adjacente de dépasser Fuji. En cas de tentative de dépassement, Fuji va pop son puissant unique, et maintenir son lead plus longtemps. Ainsi, son unique fait de Fuji une **potentielle bonne Front Runner**.
+* Son skill unique sera buff plus tard, et s'activera non pas sur un check de 3 voies, mais 5 (la même + les 2 plus proches à gauche + les 2 plus proches à droite), ce qui le rendra **bien plus fiable**.
+* Très bon skill à obtenir par inspiration pour vos **frontline**.
+* Elle devrait être plutôt forte en tant que Front sur la **Cancer Cup** ([recommandations](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-cancer-cup-2025.md)), mais pas en tant que Pace.
+* Ses bonus de croissance sont plutôt bons : 20% power bonus et 10% wits bonus. ~~I wish that was Rice~~
+
+#### PULL OU PAS ?
+
+Pas forcément conseillé, mais ce serai valide. 
+
+C'est une uma génériquement bonne en Mile, et qui peut courir en sprint et medium sans trop de difficulté (+1* sprint/med requise). Son unique est bon pour elle et les frontline, s'il s'active. Il y'a d'autres bannières uma de qualité qui arrivent, donc c'est difficile de *recommander* Fuji Kiseki (à plus forte raison car elle perd un skill gold hors de la distance mile), mais ce n'est définitivement pas un mauvais choix.
+
+Bonus : elle a l'air assez marrante comme perso.
+
+:::
