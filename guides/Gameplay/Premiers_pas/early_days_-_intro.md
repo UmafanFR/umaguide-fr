@@ -11,15 +11,17 @@ order: 1
 
 ::: tip **Préambule**
 
-Tout ceci a été écrit dans le contexte de la **version globale** du jeu, et ne s'applique pas forcément tel quel si jouez sur la version JP du jeu, qui a **plus de 4 ans** d'avance sur la globale. Cependant, l'essentiel des notions abordées devraient être valides. Ne prenez juste pas les recommandations au pied de la lettre si vous jouez sur JP :9
+Tout ceci a été écrit dans le contexte de la **version globale** du jeu, et ne s'applique pas forcément tel quel si jouez sur la version JP du jeu, qui a **plus de 4 ans** d'avance sur la globale. Cependant, l'essentiel des notions abordées devraient être valides. Ne prenez juste pas les recommandations au pied de la lettre si vous jouez sur JP :currenDevilish:
 
-Rappel à toutes fin utiles que tout ce qui suit sont des recommandations, et que si ça vous gache le jeu, ça n'en vaut pas la peine. **Votre fun est plus important que les recommandations**. Cependant, la plupart des recommandations sont là pour réduire la friction et vous faciliter les choses -à terme-, afin d'apprécier davantage le jeu - à terme. Dans tous les cas, c'est toujours vous qui décidez si oui ou non vous voulez appliquer un conseil.
+Rappel à toutes fin utiles que tout ce qui suit sont des _recommandations_, et que si ça vous gâche le jeu, ça n'en vaut pas la peine. **Votre fun est plus important que les recommandations**. Cependant, la plupart des recommandations sont là pour réduire les frustrations, et vous faciliter les choses -à terme-, afin d'apprécier davantage le jeu - à terme. Dans tous les cas, c'est toujours vous qui décidez si oui ou non vous voulez appliquer un conseil.
 
 :::
 
-Ces posts sont destinés aux joueur·euse·s qui ne savent pas "par quoi commencer", s'il y a des choses à faire ou ne pas faire en commençant à jouer, etc. On essaira d'y couvrir les notions de base, que vous aurez tout le temps d'approfondir plus tard en jouant, ou en lisant les autres gudies sur umaguide.fr (et autres ressources, comme [gametora.com](https://gametora.com/umamusume)), ou en discutant et en posant des questions sur le [serveur discord UmamusumeFR](https://discord.gg/kuKGHzgjv5) (ou autres serveurs). Umamusume est riche en mécaniques, systèmes et notions à connaître et comprendre, ainsi que de très nombreuses couches de hasard qui intéragissent entre elles. Le jeu est complexe, et c'est parfaitement normal de mettre très longtemps à le comprendre réellement.
+Cette série de posts est destinée aux joueur·euse·s qui ne savent pas "par quoi commencer", s'il y a des choses à faire ou ne pas faire en commençant à jouer, etc. On essaira d'y couvrir les notions de base, que vous aurez tout le temps d'approfondir plus tard en jouant, ou en lisant les autres gudies sur umaguide.fr (et autres ressources, comme [gametora.com](https://gametora.com/umamusume) ou le sacro-saint [Reference Document "ref doc"](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/preview?tab=t.0)), ou en discutant et en posant des questions sur le [serveur discord UmamusumeFR](https://discord.gg/cheval) (ou autres serveurs). Umamusume est riche en mécaniques, systèmes et notions à connaître et comprendre, ainsi que de **très nombreuses couches de hasard qui intéragissent entre elles**. Le jeu est complexe, **très nuancé**, et c'est parfaitement normal de mettre très longtemps à le comprendre réellement.
 
-Ici, on n'abordera vraiment que **les bases**, un tout petit bout de la surface. Vous aurez forcément des questions à mesure que vous lisez, et j'essairai d'y répondre aux mieux, et au moments qui me paraissent pertinents. Pour cette raison, ce guide est assez long.
+Ici, on n'abordera vraiment que **les bases**, un tout petit bout de la surface. Vous aurez forcément des questions à mesure que vous lisez, et j'essairai d'y répondre aux mieux, et au moments qui me paraissent pertinents. Pour cette raison, ce guide pas-à-pas est assez long.
+
+N'hésitez pas à skip des parties et revenir plus tard dessus.
 
 ::: tip C'est vraiment le tout début du jeu
 
@@ -46,6 +48,6 @@ Mettez vous à l'aise et préparez un snack, il y a fort à faire et à voir. Vo
 
 -----
 
-### Pour commencer, voici des [recommandations avant de commencer à jouer](/guides/Premiers%20pas/02_early_days_-_before_starting.md).
+### Pour commencer, voici des [recommandations avant de commencer à jouer](early_days_-_before_starting).
 
 -----

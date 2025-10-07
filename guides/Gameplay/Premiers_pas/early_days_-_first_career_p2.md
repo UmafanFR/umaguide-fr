@@ -61,9 +61,9 @@ Sur l'option du haut, la stat sur laquelle vous obtenez +10 est bien non-aléato
 
 #### 🌟 Sur l'event "New Year's Resolution", prenez l'option du milieu, SAUF si votre énergie est pleine ; prenez alors l'option du bas.
 
-La valeur ajoutée de +20 énergie devrait être évidente, car même un entrainement complètement vide de supports vous donnera toujours *au moins* +10 dans une stat et +2 dans une autre, pour un minimum de +12, au prix d'environ 20 énergie or so. Donc ce gain de +20 énergie vous permet de faire un **entrainement supplémentaire**, et aussi mauvais soit-il, ce sera toujours plus de stats que simplement +10. Heck, une course gradée vous donnera genre 13+ stats et environ 40+ skill points si vous gagnez, au prix de -15 énergie. C'est vachement sympa. Par défaut, l'option du milieu c'est toujours le bon choix sur cet event. Sauf si vous êtes déjà full énergie. Auquel cas vous prenez l'option du bas pour obtenir +20 skill points. Ca représente le **gain de skill points obtenus en entre 8 et 2 entrainements**, en fonction de la qualité des entrainements, ou environ le tiers de skill points obtenus après une course G1. C'est là aussi bien plus intéressant qu'un gain de +10 sur une stat.
+La valeur ajoutée de +20 énergie devrait être évidente, car même un entrainement complètement vide de supports vous donnera toujours *au moins* +10 dans une stat et +2 dans une autre, pour un minimum de +12, au prix d'environ 20 énergie or so. Donc ce gain de +20 énergie vous permet de faire un **entrainement supplémentaire**, et aussi mauvais soit-il, ce sera toujours plus de stats que simplement +10. Heck, une course gradée vous donnera genre 13+ stats et environ 40+ skill points si vous gagnez, au prix de -15 énergie. C'est vachement sympa. Par défaut, l'option du milieu c'est toujours le bon choix sur cet event. Sauf si vous êtes déjà full énergie. Auquel cas vous prenez l'option du bas pour obtenir +20 skill points. Ca représente le **gain de skill points obtenus en entre 6 et 2 entrainements**, en fonction de la qualité des entrainements, ou environ le tiers de skill points obtenus après une course G1. C'est là aussi bien plus intéressant qu'un gain de +10 sur une stat.
 
-Vous pouvez continuer à vous entrainer normalement, jusqu'au prochain objectif de Sakura Bakushin O.... et de Rice Shower. De manière amusante, elles doivent toutes les 2 courir et faire top5 sur **Sprinters Stakes**, une course de distance Mile se déroulant **fin mars de la classic year**. Rice n'est pas apte à faire une bonne perf sur cette course (aptitude C Mile), mais vous devriez pouvoir finir 1e ou 2e avec Sakura Bakushin O, si tout se passe bien.
+Vous pouvez continuer à vous entrainer normalement, jusqu'au prochain objectif de Sakura Bakushin O.... **et de Rice Shower**. De manière amusante, elles doivent toutes les 2 courir et faire top5 sur **Sprinters Stakes**, une course de distance Mile se déroulant **fin mars de la classic year**. Rice n'est pas apte à faire une bonne perf sur cette course (aptitude C Mile), mais vous devriez pouvoir finir 1e ou 2e avec Sakura Bakushin O, si tout se passe bien.
 
 ::: warning Utilisez vos réveils ⏰
 
@@ -77,7 +77,7 @@ IMMÉDIATEMENT après Sprinters Stakes, un des évènements majeurs de la carri�
 
 ::: tip Clarification
 
-L'inspiration event se produit toujours au même moment, et Sprinters Stakes a aussi lieu toujours au même moment. Le fait que les 2 s'enchainent est juste une **coincidence** ; beaucoup de uma n'ont pas d'objectif/course juste avant l'inspiration event. 
+L'inspiration event se produit **toujours au même moment**, et Sprinters Stakes a aussi lieu toujours au même moment. Le fait que les 2 s'enchainent est juste une **coincidence** ; beaucoup de uma n'ont pas d'objectif/course juste avant l'inspiration event. 
 
 :::
 
@@ -89,7 +89,7 @@ Lors d'un inspiration event, votre uma va recevoir divers boosts semi-aléatoire
 
 [![Brève explication des Inspiration Events](/assets/EarlyDays/Scen_Inspiration_Event.png)](/assets/EarlyDays/Scen_Inspiration_Event.png)
 
-Les sparks qui peuvent s'activer pendant un inspiration event sont **uniquement les sparks de vos legacy**, mais leur activation est **aléatoire**. Plus votre uma a une **bonne affinité** avec ses legacy, plus les chances d'activation des sparks seront élevés. Le choix des legacy sera -plus tard- une des nombreuses **optimisations** que vous pourrez prendre en compte, pour améliorer la qualité de vos carrières. Avec des bonnes legacy, vous pouvez obtenir de **nombreux skills et plus de 200 stats** sur un inspiration event.
+Les sparks qui peuvent s'activer pendant un inspiration event sont **uniquement les sparks de vos legacy**, mais leur activation est **aléatoire**. Plus votre uma a une **bonne affinité** avec ses legacy (individuellement), plus les chances d'activation des sparks seront élevés. Le choix des legacy sera -plus tard- une des nombreuses **optimisations** que vous pourrez prendre en compte, pour améliorer la qualité de vos carrières. Avec des bonnes legacy, vous pouvez obtenir de **nombreux skills et plus de 200 stats** sur un inspiration event.
 
 Pour le moment, ça n'a pas beaucoup d'importance. _Ne vous embrouillez pas l'esprit avec ça_, vous aurez tout le temps d'accorder de l'importance aux legacy et inspiration events plus tard (et un guide détaillé sur le système d'inspiration sera posté sur umaguide.fr, en temps et en heure).
 
@@ -105,14 +105,11 @@ Par contre, les 2 inspiration events qui se produisent _pendant_ la carrière so
 
 :::
 
-L'inspiration event se reproduirat en Senior Year, exactement au même moment : après votre tour de jeu, fin mars.
+L'inspiration event se reproduira en Senior Year, exactement au même moment : après votre tour de jeu, fin mars.
 
-<div align="center">
-    <img src="/assets/EarlyDays/Scen_Satsukisho_Okasho.png" alt="Logos des courses Satsuki Sho et Oka Sho">
-</div>
+[![Logos des courses Satsuki Sho et Oka Sho](/assets/EarlyDays/Scen_Satsukisho_Okasho.png)](/assets/EarlyDays/Scen_Satsukisho_Okasho.png)
 
-
-Sur le tour de jeu direct après l'inspiration event, 2 courses G1 sont dispo : **Satsuki Sho et Oka Sho**. Certaines uma doivent participer à l'une d'elles pour leurs objectifs de carrière. Mais même si la votre n'y participe pas, c'est souvent une bonne idée d'envisager d'y participer, car de manière générale, si vous voulez faire des courses facultatives, c'est mieux de **faire des G1** et préférablement **en "début" de carrière**. Plus tard, la qualité de vos entrainements va augmenter, et vous voudrez éviter de "gaspiller" un tour en fin de run.
+Sur le tour de jeu direct après l'inspiration event, 2 courses G1 sont dispo : **Satsuki Sho et Oka Sho**. Certaines uma doivent participer à l'une d'elles pour leurs objectifs de carrière. Mais même si la votre n'y participe pas, c'est souvent une bonne idée d'envisager d'y participer, car de manière générale, si vous voulez faire des courses facultatives, c'est mieux de **faire des G1** et préférablement **en "début" de carrière**. Plus tard, la qualité de vos entrainements va augmenter, et vous voudrez éviter de "gaspiller" un tour en fin de run pour faire une course que vous auriez pu faire en début de run.
 
 ::: tip Ca vous dit quelque chose ?
 
@@ -128,7 +125,7 @@ Vous n'avez pas besoin de programmer une course à l'avance si elle a lieu sur v
 
 #### 🌟 Immédiatement après l'inspiration event, si votre tour d'entrainement n'est pas très bon, envisagez de participer à Oka Sho ou Satsuki Sho. Sinon, continuez à vous entrainer normalement.
 
-Si vous jouez Bakushin O, ou une autre uma qui a l'aptitude Mile adéquate, ce sera **Oka Sho**. Si vous jouez une uma qui n'a pas l'aptitude Mile, et l'aptitude medium, choisissez **Satsuki Sho**. Si vous jouez ~~la creatura~~ **Curren Chan** (:currenDevilish:), vous n'êtes sans doute apte pour aucune des deux, donc oubliez ça.
+Si vous jouez Bakushin O, ou une autre uma qui a l'aptitude Mile adéquate, ce sera **Oka Sho**. Si vous jouez une uma qui n'a pas l'aptitude Mile, et a l'aptitude medium, choisissez **Satsuki Sho**. Si vous jouez ~~la creatura~~ **Curren Chan** (:currenDevilish:), vous n'êtes sans doute apte pour aucune des deux, donc oubliez ça. Ce n'est pas très important.
 
 Pas dit que vous gagniez. Et je dirai même que vos chances ne sont pas super grandes si c'est votre première carrière. Mais vous obtiendrez déjà pas mal de skill points en faisant **top3**, ce qui me paraît être dans vos cordes 🌟 Bonne chance !
 
@@ -152,7 +149,7 @@ _**Vous ne pouvez pas aller à l'infirmerie pendant le summer camp**, donc si vo
 
 :::: tip Extremely rare good Tazuna tip
 
-Pour le coup c'est un conseil de Tazuna que vous voulez écouter. Elle dit beaucoup de conneries, c'est vrai, mais "préparez vous pour le summer camp" n'en est pas une. _C'est vraiment important_.
+Pour le coup c'est **un conseil de Tazuna que vous voulez écouter**. Elle dit beaucoup de conneries, c'est vrai, mais "préparez vous pour le summer camp" n'en est pas une. _C'est vraiment important_.
 
 ::: warning Cela dit
 
@@ -166,7 +163,7 @@ Pour le moment, pour cette première carrière spécifiquement, **écoutez Tazun
 
 Début juillet, le summer camp commence automatiquement.
 
-Comme mentionné à l'instant, le summer camp est un **moment privilégié pour monter vos stats**, grâce aux entrainement boostés. Cependant, vos supports se positionnent toujours aléatoirement dans les différents entrainements, donc vous n'avez **pas de garantie** que vos entrainements -même boostés- soient particulièrement bons. Il vous faut un coup de chance.
+Comme mentionné à l'instant, le summer camp est un **moment privilégié pour monter vos stats**, grâce aux entrainement boostés. Cependant, vos supports se positionnent toujours aléatoirement dans les différents entrainements, donc vous n'avez **pas de garantie** que vos entrainements -même boostés- soient particulièrement bons. Il vous faut un coup de chance. Comme ça, par exemple :>
 
 <div align="center">
     <img src="/assets/EarlyDays/Scen_SummerCamp.png" alt="Logos des courses Satsuki Sho et Oka Sho">
@@ -179,7 +176,7 @@ Pour tirer un maximum du summer camp, vous avez besoin de 3 choses :
 
 Si vous avez été attentif·ve·s et chanceux·ses pendant vos entrainements jusqu'à présent, **tous vos supports devraient avoir atteint la jauge orange**. Ainsi, vous devriez pouvoir avoir **plusieurs rainbow** pendant ces 4 tours.
 
-Dans les faits, sur votre première carrière, je doute que vous ayez pu monter tous vos supports en orange (mais si vous avez réussi, BRAVO), car **c'est un peu tricky au début**. Pas d'inquiétude, ça va venir,  après quelques carrières vous y arriverez presque tout le temps. Si un jour vous remarquez que vous avez plusieurs carrières consécutives avec des supports en retard sur leur jauge lors du summer camp, vous allez vouloir revoir votre stratégie de bonding, pour prioriser davantage la croissance des jauges, et un peu moins (un peu) le gain de stats pur.
+Dans les faits, sur votre première carrière, je doute que vous ayez pu monter tous vos supports en orange (mais si vous avez réussi, BRAVO), car **c'est un peu tricky au début**. Pas d'inquiétude, ça va venir, et après quelques carrières vous y arriverez presque tout le temps. Si un jour vous remarquez que vous avez plusieurs carrières consécutives avec des supports en retard sur leur jauge lors du summer camp, vous allez vouloir revoir votre stratégie de bonding, pour prioriser davantage la croissance des jauges, et un peu moins (un peu) le gain de stats pur.
 
 Le summer camp a 2 autres spécificités :
 - votre repos et votre recreation deviennent **un seul et même bouton**, qui fait les deux : **rest 40 énergie + mood up**. Ça ne peut _pas_ échouer.
@@ -204,6 +201,8 @@ En réalité, il n'y a pas grand chose sur la fin de la Classic Year :currenDevi
 ::: tip 'me faites pas dire ce que j'ai pas dit
 
 Vous POUVEZ faire des courses facultatives en Senior Year, mais comme d'ici là le niveau de vos entrainements auront augmenté, vous allez souvent (mais pas toujours) vouloir vous entrainer plus souvent pour finaliser la bonne croissance de vos stats.
+
+Par exemple, en carrière je fais généralement **entre 2 et 4 courses G1 facultatives**, pour avoir des skills points supplémentaires. Dans l'éventualité où j'en fais 4 (avec Rice), la 4e est presque toujours une G1 de fin de classic year. J'évite au maximum de faire des courses facultatives en senior year (sauf sur les tours partculièrement à terribles).
 
 :::
 
@@ -237,14 +236,14 @@ La Senior Year est très similaire à la Classic Year, donc je n'ai pas *grand c
 
 ### Event "New Year's Shrine Visit"
 
-L'évènement "**New Year's Shrine Visit**" est très similaire à l'event "New Year's Resolution" qui se produit au lancement de la Classic Year. En effet, le Shrine Visit est de nouveau un évènement qui a lieu au lancement de la Senior Year (début janvier Senior Year), identique pour chaque uma (le texte change) et proposant 3 choix :
+L'évènement "**New Year's Shrine Visit**" est très similaire à l'event "New Year's Resolution" qui se produit au lancement de la Classic Year. En effet, le Shrine Visit est de nouveau un évènement qui a lieu au **lancement de la Senior Year** (début janvier Senior Year), identique pour chaque uma (le texte change) et proposant 3 choix :
 - Haut → +30 points d'énergie
 - Milieu → +5 all stats
 - Bas → +35 skill points
 
 Et surtout, sur cet event aussi, le choix optimal c'est le **gain d'énergie**. En l'occurrence, sur New Year's Shrine Visit il s'agit de **l'option du haut**. Pour toutes les uma, si votre énergie n'est pas pleine, vous allez vouloir pick l'option du haut, afin de récupérer **+30 points d'énergie**. C'est toujours optimal, sauf si vous êtes -par exemple- seulement 10 points en-dessous du max, ou déjà au maximum. 
 
-#### 🌟 Pendant l'event "New Year's Shrine Visit", choisissez l'option du haut si votre énergie n'est pleine à au moins 80%
+#### 🌟 Pendant l'event "New Year's Shrine Visit", choisissez l'option du haut si votre énergie est pleine à au moins 80%
 
 
 Là encore, dans l'éventualité où vous n'avez pas besoin de l'énergie supplémentaire, l'option à choisir est alors **l'option du bas**, pour obtenir **+35 skills points**. 
@@ -257,7 +256,7 @@ On pourrait se dire que +5 all stats c'est sympa (et c'est visuellement satisfai
 
 Avoir de l'énergie c'est OP hein :9
 
-De plus, à la fin de votre carrière, la différence entre une uma et la même uma avec +5 sur toutes ses stats, **c'est 0**. Bon, pas littéralement, mais for all intents and purposes, ce sont 2 uma virtuellement **impossible à différencier** (il faudrait sans doute faire plus de 3000 fois la même course pour observer un _début_ de tendance). Vous aurez l'occasion de le constater plus tard quand vous comprendrez mieux le jeu.
+De plus, à la fin de votre carrière, la différence entre une uma X et une autre uma Y, qui est en fait X mais avec +5 sur toutes ses stats, **c'est 0**. Bon, pas littéralement, mais for all intents and purposes, ce sont 2 uma virtuellement **impossible à différencier** (il faudrait sans doute faire plus de 3000 fois la même course pour observer un _début_ de tendance). Vous aurez l'occasion de le constater plus tard quand vous comprendrez mieux le jeu.
 
 :::
 
@@ -271,7 +270,7 @@ carotte | très fréquent | +20 énergie
 bouquet de carottes | assez fréquent | +20 énergie // +5 all stats
 steak deluxe | plutôt rare | +30 énergie // +10 all stats
 boîte de mouchoirs | plutôt rare | mood down
-onsen ticket | très rare | +30 énergie // +10 all stats // débloque la scène aux sources thermales en fin de carrière
+onsen ticket | très rare | +30 énergie // +10 all stats // débloque la **scène aux sources thermales** en fin de carrière
 
 ::: warning Time to lock in
 
@@ -283,9 +282,15 @@ La scène au hot spring (onsen) ne se joue que si vous **réussissez** la carri�
 
 La vaste majorité du temps, vous pouvez compter sur l'obtention de la **carotte**, ce qui vous permet de restaurer **+20 points d'énergie**. C'est assez appréciable juste après l'event Shrine Visit, car l'enchainement du Shrine Visit et du Raffle Time vous restaure la plupart du temps au moins +50 énergie. La boîte de mouchoirs est plutôt rare -in the grand scheme of things-, mais évidemment la RNG fera que vous l'aurez parfois plusieurs carrières consécutives. C'est gênant mais pas très grave ~
 
+::: tip Yep
+
+Oui, j'ai VRAIMENT eu les mouchoirs sur ma run de démonstration 😂
+
+:::
+
 ### Saint-Valentin 
 
-Un autre event saisonnier, qui se déroule toujours début fevrier senior year. À ce moment là de la partie, si vous avez au moins **60000 fans** (ou 40000 si vous jouez Haru Urara ou Smart Falcon) le niveau de votre skill unique va augmenter de 1. Généralement, c'est rare de ne pas avoir cette upgrade, car 60k en début de Senior Year ça se fait assez bien, sauf si vous avez essuyé de très nombreuses défaites depuis le début de la carrière.
+Un autre event saisonnier, qui se déroule toujours début fevrier senior year. À ce moment là de la partie, si vous avez au moins **60000 fans** (ou 40000 si vous jouez Haru Urara ou Smart Falcon) le **niveau de votre skill unique** va augmenter de 1. Généralement, c'est rare de ne pas avoir cette upgrade, car 60k en début de Senior Year ça se fait assez bien, sauf si vous avez essuyé de très nombreuses défaites depuis le début de la carrière.
 
 ::: tip C'est un peu osef
 
@@ -295,9 +300,9 @@ En réalité, l'augmentation de niveau du skill unique est franchement assez ose
 
 ### Inspiration event, Fan Festival et Summer Camp
 
-Exactement comme en Classic Year, après votre tour de jeu **fin mars de la Senior Year**, un inspiration event va se produire. Il fonctionnera exactement de la même manière que l'inspiration event de la classic year, mais bien sur les dés seront relancés, et avec de la chance vous aurez une meilleure RNG ! Rien de nouveau donc, mais le gain de stats sera appréciable.
+Exactement comme en Classic Year, après votre tour de jeu **fin mars de la Senior Year**, un inspiration event va se produire. Il fonctionnera exactement de la même manière que l'inspiration event de la classic year ([si vous avez besoin d'un rappel...](#inspiration-event)), mais bien sur les dés seront relancés, et avec de la chance vous aurez une meilleure RNG ! Rien de nouveau donc, mais le gain de stats sera appréciable.
 
-Immédiatement après l'inspiration event, et avant votre tour de jeu, l'event **Fan Festival** va se lancer. C'est un event saisonnier identique pour toutes les uma (le texte change), où votre skill unique pourra de nouveau être boosté de 1 level (et vous aurez un mood up). Pour cela, il faut qu'au moment du Fan Festival, vous ayiez au moins **70000 fans** (60000 pour Haru Urara et Smart Falcon), ET que la jauge d'amitié de la directrice -Yayoi Akikawa- soit au moins verte (60%). C'est pour cela que c'est "utile" de monter sa jauge, mais -encore une fois- ce n'est pas grave de ne pas y arriver : le level de votre skill unique n'a vraiment [_presque aucun impact_](/guides/FAQ/faq-others.md#je-nai-pas-eu-le-level-up-du-skill-unique-de-ma-uma-ma-run-est-foutue).
+Immédiatement après l'inspiration event, et avant votre tour de jeu, l'event **Fan Festival** va se lancer. C'est un event saisonnier identique pour toutes les uma (le texte change), où votre **skill unique** pourra de nouveau être boosté de 1 level (et vous aurez un mood up). Pour cela, il faut qu'au moment du Fan Festival, vous ayiez au moins **70000 fans** (60000 pour Haru Urara et Smart Falcon), ET que la jauge d'amitié de la directrice -Yayoi Akikawa- soit au moins verte (60%). C'est pour cela que c'est "utile" de monter sa jauge pendant les entrainements, mais -encore une fois- ce n'est pas grave de ne pas y arriver : le level de votre skill unique n'a vraiment [_presque aucun impact_](/guides/FAQ/faq-others.md#je-nai-pas-eu-le-level-up-du-skill-unique-de-ma-uma-ma-run-est-foutue).
 
 Si vous n'aviez pas assez de fans, ou que la jauge de Yayoi n'étais pas montée assez haute, vous aurez à la place une légère baisse d'énergie et quelques skills points. Ce n'est pas bien grave (et en un sens, les skills points sont plus utiles que 1 lvl sur votre skill unique).
 
@@ -324,7 +329,7 @@ Contrairement à la "plupart" des uma, la carrière de Sakura Bakushin O ne se t
 
 ::: details Et puis il y a Curren Chan
 
-Bro termine sa carry *hyper tôt* avec **Sprinters Stakes** (Nakayam 1200m, sprint), fin **septembre** senior year. Je crois que c'est vraiment l'exception.
+Bro termine sa carrière *hyper tôt* avec **Sprinters Stakes** (Nakayam 1200m, sprint), fin **septembre** senior year. Je crois que c'est vraiment l'exception.
 
 C'est vraiment _la creatura_ (affectionate :currenDevilish:)
 
@@ -332,9 +337,11 @@ C'est vraiment _la creatura_ (affectionate :currenDevilish:)
 
 **Sakura Bakushin O** termine sa carrière sur **Mile Championship, fin novembre senior year** ! Après cette course, elle n'aura plus de course obligatoire de sa carrière, et son prochain objectif sera de gagner le championnat **URA Finale**.
 
-Pas d'inquiétude, même après avoir gagné le dernier objectif de Sakura Bakushin O, vous allez pouvoir vous entrainer jusqu'au lancement de URA Finale, dans 2 tours. _Vous ne perdez PAS de tour d'entrainement_ 👌🏿
+Pas d'inquiétude, même après avoir gagné le dernier objectif de Sakura Bakushin O, vous allez pouvoir vous entrainer jusqu'au lancement de **URA Finale**, dans 2 tours. _Vous ne perdez PAS de tour d'entrainement_ 👌🏿
 
-Enfin, arrivé à **fin décembre senior year**, un event obligatoire et identique pour toutes les uma (le texte change) se produira : **Christmas**. Pendant cet event, si votre uma a **au moins 120000 fans** (ou 80000 s'il s'agit de Haru Urara ou Smart Falcon), le **skill unique** de votre uma augmentera une dernière fois. Généralement, celui-ci on le loupe pas, car il faut pas mal de défaites en carrière pour finir avec moins de 120k fans. Ça arrive, mais ça devrait être assez rare je pense ! 
+![Image montrant les 4 principales courses G1 de fin de carrière : Tenno Sho Autumn, Japan Cup, Mile Championship et Arima Kinen](/public/assets/EarlyDays/Scen_Carreer_End.png)
+
+Enfin, arrivé à **fin décembre senior year**, un event obligatoire et identique pour toutes les uma (le texte change) se produira : **Holiday Season**. Pendant cet event, si votre uma a **au moins 120000 fans** (ou 80000 s'il s'agit de Haru Urara ou Smart Falcon), le **skill unique** de votre uma augmentera une dernière fois. Généralement, celui-ci on le loupe pas, car il faut pas mal de défaites en carrière pour finir avec moins de 120k fans. Ça arrive, mais ça devrait être assez rare je pense ! 
 
 ::: tip Petit détail
 
@@ -342,7 +349,7 @@ Aucun évènement **aléatoire** (event de votre uma, ou de votre carte support,
 
 :::
 
-Et après ce tour de jeu, vous arrivez sur la dernière partie de la carrière : URA Finale.
+Et après ce tour de jeu, vous arrivez sur la dernière partie de la carrière : **URA Finale**.
 
 ## URA Finale
 
@@ -362,7 +369,7 @@ Contrary to popular belief, ce n'est _**PAS** choisi au hasard_. C'est toujours 
 
 Si j'ai 4 med et 4 long, ce sera systématiquement URA Finale **med**, car entre med et long c'est med le plus court. Si c'était 4 long, 4 med et 4 sprint (c'est très maudit mdr), ça aurait été URA Finale sprint. 
 
-Pour faire URA Finale sur une distance qui vous arrange (ce sera utile plus tard), vous devez avoir fait au moins **1 course supplémentaire** par rapport à l'ex-aequo de distance plus courte. Donc pour que Rice fasse URA Finale en distance long, il lui faut 1 course long de plus que les 3 med obligatoire + 1 med facultative, soit **5 long**.
+Pour faire URA Finale sur une distance qui vous arrange (ce sera utile plus tard), vous devez avoir fait **au moins 1 course _supplémentaire_** par rapport à l'ex-aequo de distance plus courte. Donc pour que Rice fasse URA Finale en distance **long**, il lui faut 1 course long de plus que les 3 med obligatoire + 1 med facultative (= 4 med), soit **5 long**.
 
 ::: details Vous avez bien suivi ? Alors, comment faire pour que Sakura Bakushin O fasse URA Finale sur la distance mile ?
 
@@ -402,7 +409,7 @@ _Happy Meek sera légèrement plus forte_ que les autres uma de la course, mais 
 #### 🌟 Je suis sur que vous pouvez gagner URA Finale
 
 
-Dans l'éventualité où vous auriez perdu, dommage, mais **vous l'aurez la prochaine fois**.Selon les deck que vous avez joué (speed/power ou speed/wits si vous avez joué Sakura Bakushin O), je pense que votre power ou votre wits devrait être suffisant pour être utile, mais si la RNG décide que vous allez perdre, **vous allez perdre**. Surtout en sprint. Plus la course est courte, plus le hasard a de pouvoir. Retentez votre chance sur une prochaine carrière, avec les connaissances acquises dans ce guide, j'espère que les choses se passeront  différemment !
+Dans l'éventualité où vous auriez perdu, dommage, mais **vous l'aurez la prochaine fois**. Selon les deck que vous avez joué (speed/power ou speed/wits si vous avez joué Sakura Bakushin O), je pense que votre power ou votre wits devrait être suffisant pour être utile, mais si la RNG décide que vous allez perdre, **vous allez perdre**. Surtout en sprint. _Plus la course est courte, plus le hasard a de pouvoir_. Retentez votre chance sur une prochaine carrière, avec les connaissances acquises dans ce guide, j'espère que les choses se passeront  différemment !
 
 Si vous avez gagné URA Finale, bravo ! Vous avez terminé la carrière, et atteint le **good ending !** 🎉
 
@@ -410,19 +417,21 @@ Si vous avez gagné URA Finale, bravo ! Vous avez terminé la carrière, et atte
 
 ::::: tip À titre informatif
 
-La "difficulté" d'une carrière est assez subjective, et dépend de pas mal de choses. C'est principalement les courses auxquelles votre uma doit participer, celles qu'elle doit gagner, ses bonus de gain de stats, la qualité de son skill unique, et dans certains cas on compte aussi ses events obligatoires (* _muffled Narita Taishin sounds in the distance_ *). À titre informatif, voici quelques uma pour lesquelles il y a consensus (ou presque) sur la difficulté de leurs carrières (dans aucun ordre particulier) :
+La "difficulté" d'une carrière est assez subjective, et dépend de pas mal de choses. C'est principalement les courses auxquelles votre uma doit participer, celles qu'elle doit gagner, ses bonus de gain de stats, la qualité de son skill unique, et dans certains cas on compte aussi ses events obligatoires (* _muffled Narita Taishin noises in the distance_ *). À titre informatif, voici quelques uma pour lesquelles il y a consensus (ou presque) sur la difficulté de leurs carrières (dans aucun ordre particulier) :
 
 :::: details Vous n'avez pas besoin de savoir ça en réalité, mais si ça peut vous aider à savoir quelle uma ne PAS jouer pour votre 2e carrière... :currenDevilish:
 
-**King Halo** : sa carrière requiert de courir sur **toutes les distances**, et de _gagner_ en medium avec l'aptitude B medium. La diversité des distances a tendance à confuser les gens, qui ne réalisent pas qu'il faut la build comme une uma **medium** (Tenno Sho Autumn doit être gagnée obligatoirement), donc avec des **cartes stamina**. De plus, si vous ne faites pas au moins **2 courses sprint facultative**, vous tomberez sur URA Finale **medium** (pas grave si vous y êtes préparés, mais on tombe systématiquement dans le "piège" la première fois).
+⏩ **King Halo** : sa carrière requiert de courir sur **toutes les distances**, et de _gagner_ en medium avec l'aptitude B medium. La diversité des distances a tendance à confuser les gens, qui ne réalisent pas qu'il faut la build comme une uma **medium** (Tenno Sho Autumn doit être gagnée obligatoirement), donc avec des **cartes stamina**. De plus, si vous ne faites pas au moins **2 courses sprint facultative**, vous tomberez sur URA Finale **medium** (pas grave si vous y êtes préparés, mais on tombe systématiquement dans le "piège" la première fois).
 
-**Haru Urara** : sa carrière est **dirt only**, et y'a pas grand chose comme courses dirt. Elle n'a pas de très bonnes aptitudes overall, son skill unique ne fait absolument (absolument) RIEN dans un certain nombre de courses et +20% guts bonus sans stamina bonus c'est vraiment terrible (mais +10% power c'est bien). La carrière en elle même n'est pas *difficile*, elle est juste, genre, *annoying*. C'est vraiment sauvé par le fait que **Urara est un sucre**, et fun à suivre. Sa carrière se termine sur **Arima Kinen**, qui est -par défaut- **impossible pour elle** (elle n'a pas besoin de gagner). Quand vous serez plus expérimentés vous pourrez monter ses aptitudes pour lui faire gagner Arima Kinen, mais pour le moment oubliez ça.
+⏩ **Haru Urara** : sa carrière est **dirt only**, et y'a pas grand chose comme courses dirt. Elle n'a pas de très bonnes aptitudes overall, son skill unique ne fait absolument (absolument) RIEN dans un certain nombre de courses et +20% guts bonus sans stamina bonus c'est vraiment terrible (mais +10% power c'est bien). La carrière en elle même n'est pas *difficile*, elle est juste, genre, *annoying*. C'est vraiment sauvé par le fait que **Urara est un sucre**, et fun à suivre. Sa carrière se termine sur **Arima Kinen**, qui est -par défaut- **impossible pour elle** (elle n'a pas besoin de gagner). Quand vous serez plus expérimentés vous pourrez monter ses aptitudes pour lui faire gagner Arima Kinen, mais pour le moment oubliez ça.
 
-**Rice Shower** : :currenDevilish: **_TENNO SHO SPRING_** :currenDevilish: C'est la course G1 **la plus longue** du jeu, ma course préférée, et aussi la plus difficile en carrière, car vos chances de victoire sont _très faibles_ si vous n'attaquez pas la course avec au moins **600 stamina** (ou 400 + 1 gold recovery). Il y a quelques uma dans le jeu qui sont obligées de **_gagner_** cette course, et Rice est l'une d'elles. Si vous n'avez pas environ 600 stamina effective fin avril classic year, généralement **votre carrière avec Rice s'arrête ici**. Elle a aussi des bonus de stats vraiment *tristes*, avec +10% stam bonus (ok) et +20% guts bonus (terrible), et un unique qui ne l'aide généralement pas à gagner (la plupart du temps quand il pop c'est que sa victoire est déjà assurée, surtout en carrière).
+⏩ **Rice Shower** : :currenDevilish: **_TENNO SHO SPRING_** :currenDevilish: C'est la course G1 **la plus longue** du jeu, ma course préférée, et aussi la plus difficile en carrière, car vos chances de victoire sont _très faibles_ si vous n'attaquez pas la course avec au moins **600 stamina** (ou 400 + 1 gold recovery). Il y a quelques uma dans le jeu qui sont obligées de **_gagner_** cette course, et Rice est l'une d'elles. Si vous n'avez pas environ 600 stamina effective fin avril classic year, généralement **votre carrière avec Rice s'arrête ici**. Elle a aussi des bonus de stats vraiment *tristes*, avec +10% stam bonus (ok) et +20% guts bonus (terrible), et un unique qui ne l'aide généralement pas à gagner (la plupart du temps quand il pop c'est que sa victoire est déjà assurée, surtout en carrière).
 
-**Mejiro McQueen** : **_TENNO SHO SPRING_**. Au moins elle a des très bons bonus donc ça l'aide bien. L'autre "difficulté" avec elle, c'est qu'elle doit atteindre un certain nombre de fans avant fin décembre junior year, et c'est le jour de **Hopeful Stakes** (Nakayama 2000m, G1). C'est pas dur en soi, Hopeful Stakes se win très facilement. _Mais_. La plupart des gens ne prennent pas la peine de faire Kyoto Junior Stakes (G3 med, deux tours avant), en se disant qu'iels auront les fans sur Hopeful. Du coup, iels arrivent sur Hopeful Stakes en se disant que ce sera du gateau (ils ont raison) et je vous la donne dans le mille : la RNG décide que _**bah non**_. 
+⏩ **Mejiro McQueen** : **_TENNO SHO SPRING_**. Au moins elle a des très bons bonus donc ça l'aide bien. L'autre "difficulté" avec elle, c'est qu'elle doit atteindre un certain nombre de fans avant fin décembre junior year, et c'est le jour de **Hopeful Stakes** (Nakayama 2000m, G1). C'est pas dur en soi, Hopeful Stakes se win très facilement. _Mais_. La plupart des gens ne prennent pas la peine de faire Kyoto Junior Stakes (G3 med, deux tours avant), en se disant qu'iels auront les fans sur Hopeful Stakes. Du coup, iels arrivent sur Hopeful Stakes en se disant que ce sera du gateau (ils ont raison) et je vous la donne dans le mille : la RNG décide que _**bah non**_. 
 
 Blocage, défaite sévère, la course ne peut pas être recommencée car non obligatoire, pas assez de fan, carrière finito fin décembre junior year, GJ shake my hand.
+
+C'est pour ça qu'on aime bien appeler la course "Hopeless Stakes" :currenDevilish: 
 
 ::: tip Les autres uma avec Tenno Sho Spring
 
@@ -432,7 +441,7 @@ Il y a pas mal d'autres uma qui doivent faire top3 ou top5 sur Tenno Sho Spring,
 
 :::
 
-**Narita Taishin** : Après **Kikka Sho**, Taishin subit une sévère **baisse d'humeur**, que vous devrez effacer au plus vite, ce qui vous ruinera plusieurs tours d'entrainement 🙃
+⏩ **Narita Taishin** : Après **Kikka Sho**, Taishin subit une sévère **baisse d'humeur**, que vous devrez effacer au plus vite, ce qui vous ruinera plusieurs tours d'entrainement 🙃
 
 ::::
 
@@ -459,7 +468,7 @@ Si vous jouez **Sakura Bakushin O** :
 - s'il vous reste des skill points (?????????????????????), prenez les skills verts qui sont proches de la fin de la liste.
 - ignorez tous les autres skills (rouges, skills de vision, skills de déplacement latéral)
 
-Si vous jouiez une autre uma que Sakura Bakushin O, allez dans la fiche de stats de votre uma, et choisissez *une* aptitude de **distance** et *une* aptitude de **stratégie** où votre uma est notée "A" ou "S". Ensuite, revenez sur la liste des skills, et choisissez vos skills selon les mêmes directives que pour Sakura Bakushin O, mais en remplaçant "Front Runner" par **la stratégie que vous avez choisi**, et "Sprint" par **la distance que vous avez choisi**. 
+SI vous jouiez **une autre uma** que Sakura Bakushin O, allez dans la fiche de stats de votre uma, et choisissez *une* aptitude de **distance** et *une* aptitude de **stratégie** où votre uma est notée "A" ou "S". Ensuite, revenez sur la liste des skills, et choisissez vos skills selon les mêmes directives que pour Sakura Bakushin O, mais en remplaçant "Front Runner" par **la stratégie que vous avez choisi**, et "Sprint" par **la distance que vous avez choisi**. 
 
 ::: warning Skills gold = good
 
