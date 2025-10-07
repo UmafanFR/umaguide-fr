@@ -222,8 +222,6 @@ _ENVISAGEZ LE :_
 ## #13 - King Halo power SSR et Seiun Sky wits SSR
 ![Image de présentation de la bannière King Halo power SSR et Seiun Sky wits SSR](/public/assets/Gacha-reviews/2025/013_Card-Banner.png)
 
-#### C'est la bannière actuelle
-
 ::: details REVIEW
 
 ⏩ **King Halo power SSR**
@@ -247,5 +245,32 @@ _ENVISAGEZ LE :_
 **Déconseillé**.
 
 King Halo power SSR est -certes- un bon stat stick, avec un gain de power proche de la très bonne Vodka power SSR, mais contrairement à Vodka power, c'est sa _seule_ qualité. Le skill gold n'est ni fiable, ni efficace, ni générique, ses hints sont peu intéressants, et elle a un event très maudit. À côté de ça, Seiun Sky wits SSR n'est pas une très bonne carte wits, et si vous faisiez des pulls pour elle, sa durée de vie se retrouverai particulièrement courte. La carte n'en vaut absolument pas la peine. Il y a des bonnes cartes wits qui arrivent un peu plus tard (Nice Nature wits SSR et Curren Chan wits SSR)
+
+:::
+
+## #14 - Mejiro Ryan guts SSR & Mejiro Ardan wits SR
+![Image de présentation de la bannière Mejiro Ryan guts SSR & Mejiro Ardan wits SR](/public/assets/Gacha-reviews/2025/014_Card-Banner.png)
+
+#### C'est la bannière actuelle
+
+::: details REVIEW
+
+⏩ **Mejiro Ryan guts SSR**
+* La carte est **frontloaded** : à 1LB elle donne déjà la plupart de ses bonus intéressants, et ne débloque que "initial friendship gauge" à 3LB.
+* Mejiro Ryan guts SSR est une carte guts moyenne, assez bonne pour monter guts, et contribuera bien à monter power aussi. Son principal atout est le **skill point bonus** qu'elle vous propose, et ce, **dés 0LB**. Au-delà de ça, il n'y a pas beaucoup à dire sur elle.
+* Sa sélection de hints ❗ est pauvre, avec 2 greens et 2 skills med de vitesse.  
+* Le skill gold obtenu est le skill de vitesse medium **Unyielding**, la version gold de Steadfast. C'est un skill de vitesse s'activant en late-race si vous vous faites **dépasser sur le final corner**. L'activation n'est pas hyper fiable, et comme elle requiert que vous vous fassiez dépasser, ce n'est même pas très désirable. De plus, sur les courses medium le final corner tombe généralement en pleine accel, donc une partie de la puissance du skill sera gâché. Ce n'est donc pas un skill très recommandable.
+* Plusieurs de ses events vous permettent de **récupérer de l'énergie**.
+
+⏩ **Mejiro Ardan wits SR**
+* Mejiro Ardan wits SR est une carte wits assez moyenne ; à MLB elle est un peu moins bonne que Marvelous Sunday wits SR pour monter wits, et légèrement (légèrement) meilleure en cross-training (monter les autres stats).
+* Sa sélection de hints ❗ est pas mal. Elle propose 2 greens, dont **Left-Handed**, 2 white recovery fiables, et Pace Chasers Corners.
+* C'est une des cartes SR qui ne donnent pas de skill sur la fin de son chain event ▶️▶️
+* **Plusieurs** de ses events vous permettent de **récupérer de l'énergie** ou avoir des **mood up**.
+
+#### PULL OU PAS ?
+**Non**.
+
+Ryan SSR n'est pas bonne, et Ardan SR est une SR que vous voudrez pick up sur une autre bannière.
 
 :::

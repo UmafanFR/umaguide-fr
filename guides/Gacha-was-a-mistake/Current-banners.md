@@ -1,5 +1,5 @@
 ---
-title: Gacha review - Bannière actuelle (El Condor Pasa alt et Grass Wonder alt ★★★ // King Halo power SSR et Seiun Sky wits SSR)
+title: Gacha review - Gold City ★★★ // Vodka power SSR et Nishino Flower speed SSR SR)
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -20,7 +20,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/013_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/015_Banners_early_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -78,6 +78,8 @@ Le fait qu'une carte soit frontloaded ou backloaded n'a absolument _rien à voir
 
 :::
 
+**Agemasen :** Toutes les cartes SSR peuvent vous donner un skill gold à la fin de leurs Chain Events ▶️▶️▶️, mais certaines cartes SSR ont une chance de vous donner la version de leur skill gold à la place. On parle donc de "Agemasen" ("won't give"), en référence à la scène de la saison 2 où Teio s'imagine Special Week refuser de faire part de gratitude à McQueen.
+
 ::::
 
 Bonne chance à tous·tes !
@@ -86,73 +88,60 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : El Condor Pasa alt et Grass Wonder alt ★★★
+### Bannière Umamusume : Gold City ★★★
 
-![Image de présentation de la bannière El Condor Pasa alt et Grass Wonder alt](/public/assets/Gacha-reviews/2025/013_Uma-Banner.png)
+![Image de présentation de la bannière Gold City](/public/assets/Gacha-reviews/2025/015_Uma-Banner.png)
 
-#### El Condor Pasa alt ★★★
-
-* El Condor Pasa alt est une Late Surger (1 gold + unique) d'assez bonne qualité, se spécialisant en distance mile (1 gold). Elle sera particulièrement forte dans les courses où le late-race commence dans la 2e moitié du final corner, grâce à l'accel de son skill unique. Son skill gold Rising Dragon induira parfois un carry over dans ces courses là, si le timing est bon.
-* Grâce à ses aptitudes elle peut aussi courir en distance Medium et obtenir des assez bons résultats, mais elle perd un skill gold. Malgré son aptitude B long, en distance long elle perdra l'usage de son skill unique (en plus du skill gold mile), et son skill gold Late sera génériquement average. Il est plus difficile d'activer son skill unique en tant que Pace Chaser, donc ce n'est pas très recommandé non plus.
-* Pasa alt est bien meilleure en dirt que la version originale.
-* Sa sélection de skills gold est plutôt bonne :
-    * **Furious Feat** est une accel gold mile qui s'active aléatoirement en late-race. Les accel aléatoires sont assez souvent plutôt pas trop mal en distance mile, car le late-race est court. La probabilité d'une bonne activation est plutôt correcte. En cas de bonne activation, c'est un puissant atout.
-    * **Rising Dragon** est skill gold de vitesse Late Surger qui s'active sur un dépassement réussi par l'extérieur pendant le final corner. Le timing est un peu hasardeux, à cause du dépassement requis, mais sur les courses dont le late-race commence dans la 2e moitié du final corner, on peut assez bien s'attendre à un carry over. 
-* Son skill unique est une accel qui s'active si elle effectue un dépassement sur le final corner, en étant entre 4e et top75% (en CM : 4e <-> 7e). C'est donc idéal dans les courses où le late-race commence pendant la 2e moitié du final corner, lui laissant ainsi le temps d'effectuer le dépassement. Assez souvent, le skill s'activera un peu tôt, donc il sera assez rare d'obtenir son usage complet.
-* Son skill unique et Rising Dragon s'activeront presque toujours en même temps ; Rising Dragon induira un carry over, et l'accel fera le reste. Mais comme leur activation sera généralement simultanée, ni Rising Dragon ni son unique ne pourront être utilisé à 100% de leur efficacité. Ce qui n'est -en soi- pas très grave, car ce combo restera très puissant dans les courses adéquates.
-
-#### Grass Wonder alt ★★★
-
-* Grass Wonder alt est une Late Surger (1 gold 💀 + unique) pensée uniquement pour être increvable en distance long (1 gold). Elle n'est pas _forte_, MAIS avec 2 bonnes gold recoveries (dont 1 unique) vous n'aurez jamais de difficulté à la build pour les très longues G1 comme Kikka Sho et -surtout- Tenno Sho Spring.
-* Ses aptitudes de distance ont ceci d'amusant qu'elle est moins apte à courir en medium (B) qu'en mile et en long (A). Ce n'est pas un vrai problème.
-* Ses 2 skills gold sont des gold recoveries :
-    * **Cooldown** est une gold recovery qui s'active sur une ligne droite aléatoire sur une course long. Le skill a une solide chance de s'activer à un mauvais timing, mais sera buffé plus tard pour être garantis en mid-race, ce qui le rendra parfaitement fiable et utile.
-    * **Relax** est une très mauvaise gold recovery Late Surger, car elle s'active en late-race, et ne fait jamais rien. Plus tard, après une update du jeu, le skill fera _quelque chose_, et ce sera _quand même_ de la grosse merde.
-* Son skill unique est une "gold" recovery qui s'active en mid-race si Grass se fait dépasser en mid-race, en étant 4e ou pire. La condition d'activation n'est _pas idéale_, mais devrait être suffisamment fiable la grande majorité du temps. C'est rare de ne jamais se faire dépasser en mid-race en med/long après tout. Sauf si elle est la seule de sa stratégie 🙃
-* Plus tard, son skill unique sera buffé, et la puissance de la recovery passera de +5,5% (skill gold habituel) à +7,5% de HP. C'est **très intéressant**, car ce sera une recovery que vous allez pouvoir obtenir par inspiration, et qui rendra **+3,5% de HP**, au lieu de 1,5% pour une white recovery classique. J'appelle généralement ça une "strong white recovery", et ce sera un skill de très bonne valeur (par rapport à son coût) à inspirer pour les uma backline, en Team Trials, sur toutes les distances (et surtout med/long).
+_Gold City est une Late Surger (1 gold + unique) pensée pour la distance mile (1 gold), qui mise beaucoup sur l'aléatoire. Elle sera parfois explosive, et parfois complètement à plat. Sa seule aptitude de distance "A" est mile, mais elle a aussi B medium et long. Elle a une gold recovery Mile -Keen Eye- de fiabilité aléatoire, et la gold accel aléatoire -On Your Left- pour les Late Surger. Son unique est aussi une accel, mais peu contrôlable._ 
+* Avec +20% guts bonus, monter les stats de Gold City sera plutôt pénible en carrière. On se réjouit du +10% power bonus, mais ça reste plutôt insuffisant, et pour une uma qui veut courir en mile, avoir du guts bonus n'est pas hyper avantageux. 
+* Ses aptitudes de distance sont -overall- pas folles, avec F sprint, et B med/long. En mile pas de problème, mais sa carrière est composée majoritairement de **courses med et long** (URA Finale med par défaut), donc il faudra peut-être booster ses aptitudes pour vous aider à sécuriser les courses.
+* Sa sélection de skills gold est plutôt OK :
+    * **On Your Left** est une gold accel qui s'active aléatoirement en late-race. C'est la version évoluée de Slick Surge, et la même gold accel que Grass Wonder. Quand le timing est bon le skill est excellent, mais comme il est aléatoire vous n'avez pas de garanties. Plus la course est longue, moins le skill est fiable.
+    * **Keen Eye** est une gold recovery qui s'active aléatoirement en early-race, à partir de 5 secondes de course. L'activation en early-race fera que parfois le skill sera en partie gaché, et la plupart du temps vous voudrez plutôt une activation après vaguement 10 secondes. Dans une course mile c'est environ 50% chance. 
+        > * Le skill sera buff plus tard, et aura un effet debuff de vitesse assez sympa.
+* Le skill unique de Gold City est une accel de longue durée qui s'active sur une **tentative** de dépassement si elle est dans l'arrière du pack, à partir de la moitié de la course. La condition d'activation n'est pas idéale, et le skill s'activera souvent bien trop tôt. Sa longue durée devrait permettre d'en tirer quelque chose de temps en temps, mais à moins que les Pace / Front en face soient particulièrement compétentes, le skill poppera trop tôt la plupart du temps.
 
 #### PULL OU PAS ?
 
-Peut-être, mais **plutôt déconseillé**.
+**Seulement si vous l'aimez beaucoup et que vous ne comptez pas pull sur la bannière Summer Maruzensky**, qui est la bannière suivante.
 
-On ne peut pas nier la qualité de la bannière. Ce sont des uma _intéressantes_. El Condor Pasa alt sera fore sur la Cancer Cup, qui arrive dans quelques semaines, ainsi que plusieurs autres CMs dans le futur. Grass Wonder alt est un investissement intéressant, mais _**à terme**_. 
+Parfois ses accel la feront exploser mais la qualité de son kit est plutôt moyenne. C'est difficile à recommander quand la très bonne Summer Maruzensky est _right around the corner_.
 
-Ce n'est pas une bannière *recommandée*, mais loin d'être la pire bannière à pull. Gardez en tête que faire des pulls c'est lourd en utilisation de ressources, et qu'on attend d'autres uma intéressantes (Maruzensky alt, pour ne citer qu'elle) dans les bannières "à venir".
+---
+
+### Bannière support : Vodka power SSR et Nishino Flower speed SSR
+
+![Image de présentation de la bannière Vodka power SSR et Nishino Flower speed SSR](/public/assets/Gacha-reviews/2025/015_Card-Banner.png)
 
 
-### Bannière support : King Halo power SSR et Seiun Sky wits SSR
+#### Vodka Power SSR
+* La carte est **particulièrement frontloaded**, et est même réputée pour ça : à 1LB elle donne déjà la plupart de ses bonus intéressants, et ne débloque que hint levels et hint frequency à 3LB. De plus, à 1 LB elle a déjà un **spec prio et un friendship bonus particulièrement élevés**, ce qui fait très vite d'elle une très bonne carte pour monter power.
+* Aujourd'hui encore, sur la version JP du jeu, Vodka power est championne du friendship bonus, avec +48.5% friendship bonus une fois MLB. Certaines cartes SSR MLB ont littéralement _la moitié de ça_.
+* Vodka power est une carte power de qualité, très bonne pour **monter power**. Elle a aussi une petite contribution au cross-training, avec 40 mood bonus.
+* Sa sélection de hints ❗ est large, un peu trop même, avec plusieurs skills de vitesse, plusieurs accels (de fiabilité variable), ainsi que Tokyo Racecourse et une white recovery. Bon courage pour avoir ce qui vous arrange :currenDevilish:
+* Le skill gold obtenu est le skill de vitesse medium **Breath of Fresh Air**, qui s'active aléatoirement sur une ligne droite. La skill est d'autant plus fiable que la course est longue. Mais d'un autre côté, sur les courses de longue distance, c'est pas simple d'intégrer une carte power. Sur les courses mile et sprint, la chance que le skill ne fasse rien ou presque commence à être élevée. 
+    > * Plus tard, le skill sera buff et deviendra **parfaitement fiable**.
 
-![Image de présentation de la bannière King Halo power SSR et Seiun Sky wits SSR](/public/assets/Gacha-reviews/2025/013_Card-Banner.png)
-
-
-#### King Halo power SSR
-* La carte est **frontloaded** : à 1LB elle donne déjà tous ses bonus intéressants, et ne débloque que "initial power" à 3LB.
-* King Halo power SSR est une bonne carte power pour monter power, qui rappelle un peu Vodka power SSR (et c'est une bonne chose). Avec un specialty priority élevé, +1 power bonus et beaucoup de friendship bonus, King Halo power SSR fera assez fréquemment des rainbow de qualité. Elle dispose aussi de 10 training bonus à partir de 3LB, ce qui est génériquement plus désirable que le mood bonus de Vodka power.
-* Sa sélection de hints ❗ n'est pas folle, avec une combinaison de greens moyens, 2 white recoveries, et le white Gap Closer qui n'est pas réputé pour sa qualité ni sa fiabilité.
-* Le skill gold obtenu est le skill de vitesse **Blinding Flash**, la version gold de Gap Closer. C'est un skill de vitesse s'activant aléatoirement en late-race sur les courses sprint, quand vous êtes bottom50%. Si ce skill s'active "tardivement" dans la course, vous avez des solides chances de perdre, car bottom50% en fin de late-race c'est pas fou. Mais si le skill s'active tôt, il a des chances d'être partiellement ou intégralement gaché dans la phase d'accel. Pas fou. Attention, la carte peut vous donner la version white du skill ("agemasen").
-* En tant que carte basée sur King Halo, elle a l'event complètement maudit "**You May Socialize With Me!**", qui vous impose de choisir entre perdre _-20 énergie_, ou prendre un _mood down_ 💀
-* L'illu est super cool
-
-#### Seiun Sky wits SSR
-* *Eeeeeeeeeeh*
-* La carte est _relativement frontloaded_ : à 1LB elle donne la plupart de ses bons bonus, y compris le +2 speed bonus, mais débloque malheureusement Initial Friendship Gauge à 3LB.
-* Seiun Sky wits SSR est une carte wits cocasse ; avec si peu de specialty priority elle ne fera pas beaucoup de rainbows, mais son friendship bonus est solide (35 à MLB). De plus, avec 2 speed bonus et 10 training bonus, elle boostera notablement les entrainements speed et guts (et les rares fois où elle sera en rainbow en wits). Donc techniquement, elle a un assez bon cross-training, mais c'est difficile de recommander une carte wits qui peine à monter wits.
-* Sa sélection de hints ❗ n'est pas folle non plus, avec 2 greens peu fiables, 3 debuff mais aussi le très bon Tail Held High.
-* Son skill gold est le très bon **Vanguard Spirit**, qui est aussi très difficile à activer. C'est un skill de vitesse s'activant aléatoirement pendant le mid-race des courses long, à condition d'être en 1e position et avoir une grosse avance. C'est un très bon skill quand il pop. Mais il faut qu'il pop.
-* Ses 3 Chain Events rendent de l'énergie si vous sélectionnez l'option du bas (⚠️ mais attention, l'option du bas sur le 3e chain event ne vous donne pas le skill gold). Un de ses 2 events normaux peut aussi rendre de l'énergie.
-* **_Vous ne pouvez évidemment pas utiliser Seiun Sky wits SSR si vous jouez Seiun Sky._**
+#### Nishino Flower speed SSR
+* Nishino speed SSR est une carte à la croissance équilibrée : ni frontloaded, ni backloaded.
+* C'est une carte de **cross-training** ; vous ne l'utilisez pas pour monter speed -0 spec prio, 20 friendship bonus MLB- mais pour aider à la **croissance des autres stats**. Elle est plutôt OK en tant que carte de cross training, mais **plutôt à LB élevé**.
+* En revanche, son cross-training est fortement boosté par le fait qu'**elle peut vous donner le buff _Charming_**, qui augmente la croissance des jauges de vos cartes supports ; elle vous permet donc d'avoir des rainbow plus tôt ! 
+* Sa sélection de hints ❗ inclus entres autres choses 3 greens, dont Standard Distance et Firm Conditions (qui sont fréquemment utiles).
+* Le skill gold obtenu est le skill de vitesse universel **Beeline Burst**, qui s'active aléatoirement en ligne droite. Attention, elle peut aussi vous donner la version white ("agemasen").
 
 #### PULL OU PAS ?
-**Déconseillé**.
+**Peu recommandé**. Cette bannière a un problème tout bête : Vodka power SSR est la principale "bonne" raison de pull sur cette bannière, et elle va être rendue un peu (un peu) caduque par **Rice Shower power SSR**, qui arrive sous peu. 
 
-King Halo power SSR est -certes- un bon stat stick, avec un gain de power proche de la très bonne Vodka power SSR, mais contrairement à Vodka power, c'est sa _seule_ qualité. Le skill gold n'est ni fiable, ni efficace, ni générique, ses hints sont peu intéressants, et elle a un event très maudit. À côté de ça, Seiun Sky wits SSR n'est pas une très bonne carte wits, et si vous faisiez des pulls pour elle, sa durée de vie se retrouverai particulièrement courte. La carte n'en vaut absolument pas la peine. Il y a des bonnes cartes wits qui arrivent un peu plus tard (Nice Nature wits SSR et Curren Chan wits SSR)
+Rice Shower power SSR marche un peu sur une partie de la niche de Vodka power, en étant une autre **carte power qui donne une gold recovery universelle**. Mais Rice donne Maestro (et _aussi_ **Cooldown** pendant le scénario Unity Cup), qui est aussi bien **plus fiable** que Breath of Fresh Air. Si on était au début de URA ça aurait plus facile de recommander cette bannière, mais là c'est assez discutable.
+
+**Si vous débutez** et que vous voulez absolument faire des pulls de cartes supports, c'est une bannière OK-ish.
 
 ---
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
-* [Bannières cartes support](/guides/Gacha-was-a-mistake/Support-gacha-reviews-2025.md)
-* [Bannières umamusume ★★★](/guides/Gacha-was-a-mistake/Uma-gacha-reviews-2025.md)
+* [Bannières cartes support de 2025](/guides/Gacha-was-a-mistake/Support-gacha-reviews-2025.md)
+* [Bannières umamusume ★★★ de 2025](/guides/Gacha-was-a-mistake/Uma-gacha-reviews-2025.md)
 
 <br/>
 <br/>
