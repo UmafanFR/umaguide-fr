@@ -16,7 +16,7 @@ hero:
       text: Commencer à lire
       link: /guides
     - theme: brand
-      text: FAQ
+      text: Foire Aux Questions (FAQ)
       link: /guides/FAQ/faq
     - theme: alt
       text: Notre Discord
