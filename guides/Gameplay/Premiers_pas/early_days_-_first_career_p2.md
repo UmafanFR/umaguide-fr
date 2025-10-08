@@ -284,7 +284,7 @@ La vaste majorité du temps, vous pouvez compter sur l'obtention de la **carotte
 
 ::: tip Yep
 
-Oui, j'ai VRAIMENT eu les mouchoirs sur ma run de démonstration 😂
+Oui, j'ai VRAIMENT eu les mouchoirs sur ma carrière de démonstration 😂
 
 :::
 
@@ -322,6 +322,8 @@ _Rien de notable jusqu'à fin décembre senior year !_
 
 Enfin, si.
 
+![Image montrant les 4 principales courses G1 de fin de carrière : Tenno Sho Autumn, Japan Cup, Mile Championship et Arima Kinen](/public/assets/EarlyDays/Scen_Carreer_End.png)
+
 Contrairement à la "plupart" des uma, la carrière de Sakura Bakushin O ne se termine pas fin décembre, mais fin **novembre** senior year. La majorité des uma (toutes les uma ?) finissent leur carrière **sur une course G1** :
 - les uma qui sont aptes à le faire terminent en beauté sur **Arima Kinen** (Nakayama 2500m), fin décembre senior year. 
 - il y en a qui terminent sur **Japan Cup** (Tokyo 2400m) ou **Mile Championship** (Kyoto 1600m), fin novembre senior year
@@ -339,7 +341,6 @@ C'est vraiment _la creatura_ (affectionate :currenDevilish:)
 
 Pas d'inquiétude, même après avoir gagné le dernier objectif de Sakura Bakushin O, vous allez pouvoir vous entrainer jusqu'au lancement de **URA Finale**, dans 2 tours. _Vous ne perdez PAS de tour d'entrainement_ 👌🏿
 
-![Image montrant les 4 principales courses G1 de fin de carrière : Tenno Sho Autumn, Japan Cup, Mile Championship et Arima Kinen](/public/assets/EarlyDays/Scen_Carreer_End.png)
 
 Enfin, arrivé à **fin décembre senior year**, un event obligatoire et identique pour toutes les uma (le texte change) se produira : **Holiday Season**. Pendant cet event, si votre uma a **au moins 120000 fans** (ou 80000 s'il s'agit de Haru Urara ou Smart Falcon), le **skill unique** de votre uma augmentera une dernière fois. Généralement, celui-ci on le loupe pas, car il faut pas mal de défaites en carrière pour finir avec moins de 120k fans. Ça arrive, mais ça devrait être assez rare je pense ! 
 
@@ -356,6 +357,8 @@ Et après ce tour de jeu, vous arrivez sur la dernière partie de la carrière :
 Si vous avez réussi l'objectif final de votre uma, _**bravo**_ ! 👏🏿
 
 À priori, pour Sakura Bakushin O ça ne devrait pas être trop difficile, mais même si vous n'avez pas réussi **ce n'est pas grave**. Vous ferez mieux à votre prochaine carrière, il n'y a **pas de conséquence** notable en cas d'échec (à part le fait de devoir recommencer une carrière du début). Et si vous avez réussi, alors vos nouveaux "objectifs" seront de remporter "URA Finale".
+
+![Image annonçant la partie "étendue" du scénario, avec "URA Finale Start !" écrit en gros sur un magnifique ciel bleu](/public/assets/EarlyDays/Scen_URA_Finale_Start.png)
 
 Il s'agit d'une compétition qui a lieu à la **fin de la carrière de toutes les uma**, et qui se déroule en 3 courses : quart de finale, demi-finale, et finale. 
 
@@ -404,6 +407,9 @@ Comme pour toutes les autres courses obligatoires de la carrière, vous pourrez 
 
 Après avoir remporté le quart de finale, puis la demi-finale, vous allez pouvoir affronter **Happy Meek** lors de la finale ! Meek a ceci de particulier qu'elle a **toutes les aptitudes de terrain et de distance notées "A"** ; ainsi, elle peut courir sur absolument toutes les courses du jeu. C'est un subterfuge nécessaire pour qu'elle puisse vous affronter quelle que soit la distance choisie pour URA Finale. 
 
+![À gauche, Happy Meek et son entraineuse -Aoi Kiryuin-, en préparation pour la dernière course ; à droite, Happy Meek est sur le paddock et on voit ses stats et aptitudes](/public/assets/EarlyDays/Scen_URA_Last_Race.png)
+
+
 _Happy Meek sera légèrement plus forte_ que les autres uma de la course, mais pas suffisamment pour être systématiquement l'adversaire la plus menaçante. Parfois elle va juste se retrouver bloquax en 6e position, et parfois elle vous mettra la misère. Autrement dit, c'est une course comme une autre, juste un peu plus difficile que les 2 précédentes. 
 
 #### 🌟 Je suis sur que vous pouvez gagner URA Finale
@@ -412,6 +418,8 @@ _Happy Meek sera légèrement plus forte_ que les autres uma de la course, mais 
 Dans l'éventualité où vous auriez perdu, dommage, mais **vous l'aurez la prochaine fois**. Selon les deck que vous avez joué (speed/power ou speed/wits si vous avez joué Sakura Bakushin O), je pense que votre power ou votre wits devrait être suffisant pour être utile, mais si la RNG décide que vous allez perdre, **vous allez perdre**. Surtout en sprint. _Plus la course est courte, plus le hasard a de pouvoir_. Retentez votre chance sur une prochaine carrière, avec les connaissances acquises dans ce guide, j'espère que les choses se passeront  différemment !
 
 Si vous avez gagné URA Finale, bravo ! Vous avez terminé la carrière, et atteint le **good ending !** 🎉
+
+> (toujours bitter-sweet de battre Happy Meek car la pauvre n'a jamais SON good ending... Let Happy Meek be HAPPY Cygames !! 😭)
 
 **Sakura Bakushin O** et **Curren Chan** ont actuellement les 2 carrières les plus faciles du jeu pour le moment, car les besoins en stats sont très faibles et elles ont toutes les deux des bons skills uniques. Mais ça ne veut pas dire que ce n'est pas une réussite, et j'espère que tout ce qu'on a abordé ici vous aidera dans vos prochaines carrières. 
 
@@ -427,13 +435,21 @@ La "difficulté" d'une carrière est assez subjective, et dépend de pas mal de 
 
 ⏩ **Rice Shower** : :currenDevilish: **_TENNO SHO SPRING_** :currenDevilish: C'est la course G1 **la plus longue** du jeu, ma course préférée, et aussi la plus difficile en carrière, car vos chances de victoire sont _très faibles_ si vous n'attaquez pas la course avec au moins **600 stamina** (ou 400 + 1 gold recovery). Il y a quelques uma dans le jeu qui sont obligées de **_gagner_** cette course, et Rice est l'une d'elles. Si vous n'avez pas environ 600 stamina effective fin avril classic year, généralement **votre carrière avec Rice s'arrête ici**. Elle a aussi des bonus de stats vraiment *tristes*, avec +10% stam bonus (ok) et +20% guts bonus (terrible), et un unique qui ne l'aide généralement pas à gagner (la plupart du temps quand il pop c'est que sa victoire est déjà assurée, surtout en carrière).
 
-⏩ **Mejiro McQueen** : **_TENNO SHO SPRING_**. Au moins elle a des très bons bonus donc ça l'aide bien. L'autre "difficulté" avec elle, c'est qu'elle doit atteindre un certain nombre de fans avant fin décembre junior year, et c'est le jour de **Hopeful Stakes** (Nakayama 2000m, G1). C'est pas dur en soi, Hopeful Stakes se win très facilement. _Mais_. La plupart des gens ne prennent pas la peine de faire Kyoto Junior Stakes (G3 med, deux tours avant), en se disant qu'iels auront les fans sur Hopeful Stakes. Du coup, iels arrivent sur Hopeful Stakes en se disant que ce sera du gateau (ils ont raison) et je vous la donne dans le mille : la RNG décide que _**bah non**_. 
+⏩ **Mejiro McQueen** : **_TENNO SHO SPRING_**. Au moins elle a des très bons bonus donc ça l'aide bien. L'autre "difficulté" avec elle, c'est qu'elle doit atteindre un certain nombre de fans avant fin décembre junior year, et c'est le jour de **Hopeful Stakes** (Nakayama 2000m, G1). C'est pas dur en soi, Hopeful Stakes se win très facilement. _Mais_. La plupart des gens ne prennent pas la peine de faire Kyoto Junior Stakes (G3 med, deux tours avant), en se disant qu'iels auront les fans sur Hopeful Stakes. Du coup, iels arrivent sur Hopeful Stakes en se disant que ce sera du gateau (ils ont raison) et je vous la donne dans le mille : 
+
+::: details La RNG décide que BAH NON EN FAIT, HA !
+
+[![Résultats catastrophiques de ma Rice Shower qui arrive 14e sur Hopeless Stakes ; la première place a été obtenue par une uma MOB appelée "Quartet Accord", et une autre uma MOB est en 3e position](/public/assets/EarlyDays/Scen_Hopeless_Stakes.png)](/public/assets/EarlyDays/Scen_Hopeless_Stakes.png)
+
+C'est pas une mise en scène, c'est VRAIMENT arrivé pendant cette carrière de démonstration 😂 Mais du coup ça tombait bien : comme vous le voyez à mon besoin de fans, si j'avais joué **Mejiro McQueen**, bah ma carrière aurait été **perdue à cet instant**.
+
+:::
 
 Blocage, défaite sévère, la course ne peut pas être recommencée car non obligatoire, pas assez de fan, carrière finito fin décembre junior year, GJ shake my hand.
 
 C'est pour ça qu'on aime bien appeler la course "Hopeless Stakes" :currenDevilish: 
 
-::: tip Les autres uma avec Tenno Sho Spring
+::: warning Les autres uma avec Tenno Sho Spring
 
 **Narita Brian** doit aussi gagner Tenno Sho Spring, et plus tard il y a aura aussi **Mejiro Bright, Hishi Miracle et Fenomeno**. D'ici leur sortie, la course ne sera plus qu'une formalité cependant.
 
@@ -453,7 +469,7 @@ Après avoir visionné les différentes cutscenes de fin de carrière et reçu l
 
 Je vous le dit tout de suite : **vous n'apprendrez pas à choisir vos skills de manière idéale d'un seul coup**. Ca prend un certain temps, et même après plusieurs mois de jeu, des tas de joueur·euse·s assidues qui jouent depuis le lancement de la globale ont toujours besoin d'un conseil pour départager 2-3 skills. Il y aura des guides pour vous aider à choisir vos skills intelligemment, mais on y est absolument pas. En attendant, voici ce que vous allez faire. 
 
-[IMAGES DES LOGOS DE SKILLS]
+[![Image montrant les 15 principaux logos qui permettent de reconnaître les skills. Sur la première ligne, 4 logos de couleur orange et 1 bleu. Sur la 2e ligne, les skills de couleur verte. Sur la dernière ligne, les skills de couleur rouge](/public/assets/EarlyDays/Scen_Skills_logos.png)](/public/assets/EarlyDays/Scen_Skills_logos.png)
 
 #### 🌟 En fin de carrière, sélectionnez vos skills comme suit
 
@@ -480,4 +496,8 @@ Une fois votre sélection terminée, **vous pouvez mettre fin pour de bon à la 
 
 Votre uma va à présent être **notée**, en fonction de ses **stats** et de ses **skills** (les aptitudes ne comptent pas) ! Le calcul du rank est totalement **déterministe**, et la formule est parfaitement connue. _Ce n'est pas du tout aléatoire_ (vous pourriez sortir une calculatrice, utiliser la bonne formule et tomber sur exactement le même résultat). Si vous avez réussi la carrière, vous aurez peut-être le **rank B, ou même B+**. Si vous aviez échoué, vous dépasserez rarement C+.
 
+![Résultats finaux de ma carrières, avec la note de ma Rice Shower, le nombre de courses auxquelles elle a participé, ses skills, ses stats, et en bas ses sparks d'inspiration](/public/assets/EarlyDays/Scen_End_Results.png)
+
 Après cette évaluation, le jeu vous montrera les **sparks d'inspiration** que votre uma a obtenu.
+
+[FINIR CETTE PARTIE, ET ENSUITE CORRIGER LE GUIDE DE REROLL AND I'M DOOOOOOOOONE]

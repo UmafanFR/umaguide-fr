@@ -57,7 +57,7 @@ Vous pouvez passer direct à la partie sur [vos prochaines carrières](#vos-proc
 
 :::
 
-Si vous avez joué Sakura Bakushin O, vous n'êtes pas très bien préparé pour les Daily Races, mais on va y jeter un oeil quand même, à titre informatif 👍🏾
+Si vous avez joué Sakura Bakushin O, _vous n'êtes pas très bien préparé pour les Daily Races_, mais on va y jeter un oeil quand même, à titre informatif 👍🏾
 Dans le menu "Races", cliquez sur "Daily Races". Tazuna vous présentera alors 2 courses, une en distance **mile** (Moonlight Sho, Kyoto 1600m) et une distance **medium** (Jupiter Cup, Nakayama 2000m). Les Daily Races auront **toujours lieu sur ces 2 courses là**. Chaque jour, vous pouvez participer à 3 Daily Races (3 fois la même, ou alors 2 fois l'une et 1 fois l'autre, au choix) gratuitement, et **même si vous perdez ça vous rapporte des récompenses**. 
 
 ::: tip À titre informatif
@@ -66,62 +66,68 @@ Vous pouvez faire 3 essais supplémentaires en échange d'un ticket qui coute 10
 
 :::
 
-Selon vos uma vétéranes dispo et leurs aptitudes respectives en distance mile ou medium, choisissez la course mile ou medium, et participez-y ! Chaque course peut-être effectuée sous 3 niveaux de difficulté différents, et pour vous qui faites des Daily Race pour la première fois, choisissez "Easy". Vous allez peut-être perdre, mais c'est pas grave. Comme pour les courses de carrière, vous êtes obligé de regarder une course la première fois que vous y participez.
+Selon vos uma vétéranes dispo et leurs aptitudes respectives en distance mile ou medium, choisissez la course mile ou medium, et participez-y ! **Sakura Bakushin O** devrait s'en sortir plutôt pas trop mal sur **Moonlight Sho** (mile), donc je vous recommande celle-ci. Chaque course peut-être effectuée sous **3 niveaux de difficulté** différents, et pour vous qui faites des Daily Race pour la première fois, choisissez "Easy". Vous allez peut-être perdre, mais c'est pas grave. Comme pour les courses de carrière, vous êtes obligé de regarder une course la première fois que vous y participez.
 
 Une fois vos récompenses obtenues, vous pouvez faire les 2 autres courses du jour. Il n'y a pas de mal à recommencer la même si vous n'avez pas de uma dispo pour en faire une différente. Ça viendra à force de jouer.
 
 ## Vos prochaines carrières
 
-Avec les connaissances sur le mode carrière, vous allez pouvoir faire des nouvelles carrières intéressantes avec davantage de uma. Le but sera de compléter votre Team Trials, et d'avoir au moins 2 uma compétentes pour les Daily Races. Je vais donc vous proposer des prochaines carrières à faire à présent.
+Avec les connaissances sur le mode carrière, vous allez pouvoir faire des nouvelles carrières intéressantes avec davantage de uma. Le but sera de **compléter votre Team Trials**, et d'avoir au moins **2 uma compétentes pour les Daily Races** (une mile et une med, donc). Je vais donc vous proposer des prochaines carrières à faire à présent.
 
 ::: tip Concernant les decks
 
 Mes recommandations de decks dans cette partie prennent en compte 2 choses :
-- je pars du principe que vous venez de commencer le jeu, et n'avez donc que très peu de cartes support (même si vous aviez un bon reroll), avec très peu de LB 💠 Si vous avez beaucoup de LB sur les cartes stamina, vous pouvez réduire de 1 le nombre de cartes stam recommandées.
-- j'essaie de vous faire build des uma en pensant au Team Trials derrière ; comme vos stats sont secrètement boostées pendant une carrière, pour que vos uma puissent gagner des courses hors d'une carrière, vous avez besoin de bien plus de stamina en réalité. 
+- je pars du principe que vous venez de commencer le jeu, et n'avez donc que **très peu de cartes support** (même si vous aviez un bon reroll), avec **très peu de LB** 💠 Si vous avez beaucoup de LB sur les cartes **stamina**, vous pouvez réduire de 1 le nombre de cartes stam recommandées.
+- j'essaie de vous faire build des uma en pensant au Team Trials derrière ; comme vos stats sont secrètement boostées pendant une carrière, pour que vos uma puissent gagner des courses hors d'une carrière, vous avez besoin de **bien plus de stamina en réalité**.
 
 :::
 
-#### Carrière pour une coureuse mile
+Je vous propose de faire ces carrières, *dans l'ordre*. Mais vous n'êtes pas obligés !
 
-Vous allez vouloir une coureuse de distance mile pour votre Team Trials et les Daily Races. En partant du principe que vous n'avez pas fait beaucoup de pull sur les gacha uma, vous ne devez pas avoir beaucoup de persos. Je vous propose d'entrainer Vodka, Grass Wonder ou Air Groove en carrière, afin de les faire courir sur distance mile. Pour cela, vous allez vouloir utiliser un deck composé de **3 cartes stamina et 3 cartes speed**. Si une de ces cartes stamina est Super Creek SSR, vous pouvez n'en utiliser que 2 👍🏾
+#### Carrière pour une coureuse MILE
 
-Vous allez vouloir viser **750-800 stamina effective** d'ici la fin de votre carrière. Ça veut dire, 750-800 stamina réelle, OU 550-600 stamina + 1 gold recovery, préférablement **Swinging Maestro**(la gold recovery de Super Creek stam SSR). Ca vous permettra de courir sur toutes les courses mile, et de gagner en Team Trials contre vous adversaires, qui auront certainement une carence en stamina.
+Vous allez vouloir une coureuse de distance **mile** pour votre **Team Trials** et les **Daily Races**. En partant du principe que vous n'avez pas fait beaucoup de pull sur les gacha uma, vous ne devez pas avoir beaucoup de persos. Je vous propose d'entrainer **Vodka**, **Grass Wonder** ou **Air Groove** en carrière, afin de les faire courir sur distance mile. Pour cela, vous allez vouloir utiliser un deck composé de **3 cartes stamina et 3 cartes speed**. Si une de ces cartes stamina est Super Creek SSR, vous pouvez n'en utiliser que 2 👌🏿
 
-Pour les legacy, utilisez la uma que vous venez de build ! Tant pis si l'affinité est mauvaise et qu'elle n'a pas beaucoup de sparks, ce sera toujours mieux que les legacy "offertes" au lancement du jeu 😂
+Vous allez vouloir viser **750-800 stamina effective** d'ici la fin de votre carrière. Ça veut dire, **750-800 stamina réelle**, OU ALORS **550-600 stamina + 1 gold recovery**, préférablement **Swinging Maestro** (la gold recovery de Super Creek stam SSR). Ca vous permettra de courir sur toutes les courses mile, et de gagner en Team Trials contre vos adversaires, qui auront certainement une **carence en stamina**.
+
+Pour les legacy, **utilisez la uma que vous venez de build !** Tant pis si l'affinité est mauvaise et qu'elle n'a pas beaucoup de sparks, ce sera toujours mieux que les legacy "offertes" au lancement du jeu 😂
 
 ::: tip Clarification
 
-On considère généralement qu'une gold recovery fiable vous ajoute environ 200 stamina. Si elle n'est pas fiable, elle peut valoir moins, et parfois 0.
+On considère généralement qu'une gold recovery fiable vous ajoute **environ 200 stamina**. Si elle n'est pas fiable, elle peut valoir moins, et parfois 0.
 
 :::
 
 Cette carrière sera plus difficile que votre première carrière, donc ouvrez l'oeil et soyez attentif·ve·s ! 
 
-#### Carrière pour une coureuse medium
+#### Carrière pour une coureuse MEDIUM
 
-Là aussi, pour le Team Trials et les Daily Races il vous faut une uma compétente en distance medium. Je vous propose d'entrainer Agnes Tachyon si vous l'avez, sinon Nice Nature ou Daiwa Scarlet. Pour cette carrière, si vous choisissez Agnes Tachyon, vous pouvez utiliser **3 cartes stamina et 3 cartes speed** de nouveau. Si ce n'est pas Agnes Tachyon, vous voudrez utiliser 4 cartes stamina.
+Là aussi, pour le **Team Trials** et les **Daily Races** il vous faut une uma compétente en distance **medium**. Je vous propose d'entrainer **Agnes Tachyon** si vous l'avez, sinon **Nice Nature** ou **Daiwa Scarlet**. Pour cette carrière, si vous choisissez **_Agnes Tachyon_**, vous pouvez utiliser **3 cartes stamina et 3 cartes speed** de nouveau. Si ce n'est pas Agnes Tachyon, vous voudrez utiliser **4 cartes stamina**.
 
-Votre cible de stamina en fin de carrière sera environ 1000 stamina effective, ou 800 stam + 1 gold recovery. Agnes Tachyon a un skill unique équivalent à une gold recovery, donc elle peut se contenter de 600 stam + 1 gold recovery. Là aussi, le but c'est de pouvoir battre les débutants qui ne prévoient généralement pas assez de stamina, et se font avoir. En réalité il faut plutôt 1100 stamina effective, mais il faut aussi que vous puissiez finir la carrière donc gardez une place pour des cartes speed 🥲
+Votre cible de stamina en fin de carrière sera environ **1000 stamina effective**, ou 800 stam + 1 gold recovery. **Agnes Tachyon** a un skill unique presque équivalent à une gold recovery, donc elle peut se contenter de environ 700 stam + 1 gold recovery. Là aussi, le but c'est de pouvoir battre les débutants qui ne prévoient généralement pas assez de stamina, et se font avoir. En réalité il faut plutôt 1100 stamina effective, mais il faut aussi que vous puissiez finir la carrière donc gardez une place pour des cartes speed 🥲
 
-#### Carrière pour une coureuse long
+#### Carrière pour une coureuse LONG
 
-Il n'y a pas de Daily Race long, donc votre coureuse long sera uniquement pour le Team Trials. Je vous recommande de jouer Gold Ship, et de l'entrainer en carrière avec 4 cartes stamina de nouveau. Vous allez vouloir genre 1000 stam + 1 gold recovery, mais réalistiquement vous aurez du mal. Faites au mieux ! 
+Il n'y a pas de Daily Race long, donc votre coureuse long sera uniquement pour le **Team Trials**. Je vous recommande de jouer **Gold Ship**, et de l'entrainer en carrière avec **4 cartes stamina** de nouveau. Vous allez vouloir genre **1000 stam + 1 gold recovery**, mais réalistiquement vous aurez du mal. _Faites au mieux !_ 
 
 Vous allez voir que la carrière de Gold Ship a une mécanique qui lui est propre, et ajoute quelques épices à la carrière :currenDevilish:
 
-#### Carrière pour une coureuse dirt
+#### Carrière pour une coureuse DIRT
 
-Les courses dirt sont toutes en distance mile en Team Trials, donc c'est les même recommandations que pour mile. Bien entendu, il vous faut une uma avec les bonnes aptitudes, et pour le coup vous n'avez pas beaucoup de choix : si vous avez Oguri Cap, c'est elle. Si vous ne l'avez pas, El Condor Pasa. Si vous ne l'avez pas non plus, alors jouez Haru Urara. Pour le deck et les stats, c'est comme pour la distance mile : 800 stamina effective !
+Les courses **dirt** sont toutes en **distance mile en _Team Trials_**, donc c'est les mêmes recommandations que pour mile. Bien entendu, il vous faut une uma avec les **bonnes aptitudes dirt**, et pour le coup vous n'avez pas beaucoup de choix : si vous avez **Oguri Cap**, c'est elle. Si vous ne l'avez pas, **El Condor Pasa**. Si vous ne l'avez pas encore non plus, alors jouez **Haru Urara**. Pour le deck et les stats, c'est comme pour la distance mile : **800 stamina effective !**
 
 ## That will do
 
-Alrighty, c'est déjà PAS MAL DE CHOSES. Le reste vous verrez en jouant, en posant des Q°, en lisant d'autres guides ou en regardant des vidéos Youtube. Il y'a beaucoup de guides en anglais ici et là, moins de choses en FR, mais j'espère qu'on parviendra à  vous proposer des ressources pertinentes et compréhensibles sur umaguide.fr. Ça va prendre un certain temps par contre :currenDevilish:
+Alrighty, c'est déjà PAS MAL DE CHOSES. Le reste vous verrez _en jouant_, en _posant des Q°_, en _lisant d'autres guides_ ou en _regardant des vidéos Youtube_. Il y'a beaucoup de guides **en anglais** ici et là, moins de choses en FR, mais j'espère qu'on parviendra à vous proposer des ressources pertinentes et compréhensibles sur umaguide.fr. 
 
-La dernière chose que je peux vous recommander, c'est de jeter un oeil à la Foire Aux Questions si c'est pas déjà fait. Pas besoin de tout lire, mais c'est bien de savoir quelles questions sont déjà répondues ici : ce sont des Q° qui ont été posées en masse par d'autres joueurs, donc vous allez certainement vous les poser aussi. J'espère que ça vous sera utile.
+**Ça va prendre un certain temps par contre** :currenDevilish:
+
+La dernière chose que je peux vous recommander, c'est de jeter un oeil à la [Foire Aux Questions](/guides/FAQ/faq.md) si c'est pas déjà fait. Pas besoin de tout lire, mais c'est bien de savoir quelles questions sont déjà répondues ici : ce sont des **questions qui ont été posées en masse** par d'autres joueurs, donc vous allez certainement vous les poser aussi. J'espère que ça vous sera utile.
 
 -------------------
 
 Voilà voilà, dang, c'était long, mais j'espère que vous en avez tiré des tas de choses ! Bon courage pour la suite, et comme toujours n'hésitez pas à :
-- me faire des retours
+- faire des retours sur ce guide !
 - poser des Q° !
+
+![L'entraineur prends la fuite en courant, et Gold Ship le rattrape en instant, effectuant un magnifique plaquage, sous le regard de Daiwa Scarlet, Special Week et Vodka](/assets/EarlyDays/Come_Back_Here.gif)
