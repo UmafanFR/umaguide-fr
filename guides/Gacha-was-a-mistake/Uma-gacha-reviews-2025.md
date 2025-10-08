@@ -239,8 +239,6 @@ Ce n'est pas une bannière *recommandée*, mais loin d'être la pire bannière �
 
 ![Image de présentation de la bannière Fuji Kiseki](/public/assets/Gacha-reviews/2025/014_Uma-Banner.png)
 
-#### C'est la bannière actuelle
-
 ::: details REVIEW
 
 _Fuji Kiseki est une Pace Chaser (1 gold) génériquement bonne en distance mile (1 gold). Ses aptitudes lui permettent de courir en tant que Front ou Late, et pour tirer parti de son unique vous allez plutôt vouloir envisager de la jouer Pace ou Front, et non pas Late. Elle a une gold recovery Pace -Race Planner- parfaitement fiable, et un skill gold de vitesse de mid-race -Big-Sisterly- génériquement bon._
@@ -260,5 +258,28 @@ Pas forcément conseillé, mais ce serai valide.
 C'est une uma génériquement bonne en Mile, et qui peut courir en sprint et medium sans trop de difficulté (+1* sprint/med requise). Son unique est bon pour elle et les frontline, s'il s'active. Il y'a d'autres bannières uma de qualité qui arrivent, donc c'est difficile de *recommander* Fuji Kiseki (à plus forte raison car elle perd un skill gold hors de la distance mile), mais ce n'est définitivement pas un mauvais choix.
 
 Bonus : elle a l'air assez marrante comme perso.
+
+:::
+
+## #15 - Gold City ★★★ (bannière actuelle)
+
+![Image de présentation de la bannière Gold City](/public/assets/Gacha-reviews/2025/015_Uma-Banner.png)
+
+::: details REVIEW
+
+_Gold City est une Late Surger (1 gold + unique) pensée pour la distance mile (1 gold), qui mise beaucoup sur l'aléatoire. Elle sera parfois explosive, et parfois complètement à plat. Sa seule aptitude de distance "A" est mile, mais elle a aussi B medium et long. Elle a une gold recovery Mile -Keen Eye- de fiabilité aléatoire, et la gold accel aléatoire -On Your Left- pour les Late Surger. Son unique est aussi une accel, mais peu contrôlable._ 
+* Avec +20% guts bonus, monter les stats de Gold City sera plutôt pénible en carrière. On se réjouit du +10% power bonus, mais ça reste plutôt insuffisant, et pour une uma qui veut courir en mile, avoir du guts bonus n'est pas hyper avantageux. 
+* Ses aptitudes de distance sont -overall- pas folles, avec F sprint, et B med/long. En mile pas de problème, mais sa carrière est composée majoritairement de **courses med et long** (URA Finale med par défaut), donc il faudra peut-être booster ses aptitudes pour vous aider à sécuriser les courses.
+* Sa sélection de skills gold est plutôt OK :
+    * **On Your Left** est une gold accel qui s'active aléatoirement en late-race. C'est la version évoluée de Slick Surge, et la même gold accel que Grass Wonder. Quand le timing est bon le skill est excellent, mais comme il est aléatoire vous n'avez pas de garanties. Plus la course est longue, moins le skill est fiable.
+    * **Keen Eye** est une gold recovery qui s'active aléatoirement en early-race, à partir de 5 secondes de course. L'activation en early-race fera que parfois le skill sera en partie gaché, et la plupart du temps vous voudrez plutôt une activation après vaguement 10 secondes. Dans une course mile c'est environ 50% chance. 
+        > * Le skill sera buff plus tard, et aura un effet debuff de vitesse assez sympa.
+* Le skill unique de Gold City est une accel de longue durée qui s'active sur une **tentative** de dépassement si elle est dans l'arrière du pack, à partir de la moitié de la course. La condition d'activation n'est pas idéale, et le skill s'activera souvent bien trop tôt. Sa longue durée devrait permettre d'en tirer quelque chose de temps en temps, mais à moins que les Pace / Front en face soient particulièrement compétentes, le skill poppera trop tôt la plupart du temps.
+
+#### PULL OU PAS ?
+
+**Seulement si vous l'aimez beaucoup et que vous ne comptez pas pull sur la bannière Summer Maruzensky**, qui est la bannière suivante.
+
+Parfois ses accel la feront exploser mais la qualité de son kit est plutôt moyenne. C'est difficile à recommander quand la très bonne Summer Maruzensky est _right around the corner_.
 
 :::
