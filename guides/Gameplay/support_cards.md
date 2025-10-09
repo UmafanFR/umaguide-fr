@@ -1,8 +1,16 @@
 ---
 title: Gameplay - Les cartes supports
 menuTitle: Les cartes supports
-order: 0
+order: 1
 ---
+
+::: warning Ce post n'est pas à jour
+
+Ce guide a été écrit à l'origine pour la version JP du jeu, et ne reflète pas correctement la versions globale. Beaucoup de termes sont incorrectement traduits, et certaines infos numériques (notamment les "maximums") ne correspondent pas à la réalité de la globale.
+
+Ce sera corrigé ultérieurement.
+
+:::
 
 # Comprendre les cartes supports dans Umamusume Pretty Derby
 
