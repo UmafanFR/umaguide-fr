@@ -137,7 +137,7 @@ Inutile de vous embêter à tout lire ; si vous venez de commencer, ça ne fera 
 
 ---
 
-### Dans la prochaine partie, on va [explorer les principaux menus du jeu](/guides/Gameplay/Premiers_pas/early_days_-_menus.md), pour se familiariser avec l'académie.
+### Dans la prochaine partie, on va [explorer les principaux menus du jeu](early_days_-_menus), pour se familiariser avec l'académie.
 
 Sinon vous aurez des problèmes avec Daiwa Scarlet 💦
 

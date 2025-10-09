@@ -117,4 +117,4 @@ Les aptitudes d'une uma évoluent de manière plus rigides que les stats, et ne 
 
 -----------
 
-### Nous allons à présent faire ensemble une [carrière sur le scénario URA Finale](/guides/Gameplay/Premiers_pas/early_days_-_first_career_p1.md)
+### Nous allons à présent faire ensemble une [carrière sur le scénario URA Finale](early_days_-_first_career_p1)

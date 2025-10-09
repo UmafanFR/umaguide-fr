@@ -44,7 +44,7 @@ Mettez vous à l'aise et préparez un snack, il y a fort à faire et à voir. Vo
     * [Menu "Scout"](early_days_-_menus#menu-gacha-was-a-mistake-scout)
 * [Carrière sur le scénario URA Finale - Partie 1](early_days_-_first_career_p1.md)
 * [Carrière sur le scénario URA Finale - Partie 2](early_days_-_first_career_p2.md)
-* [Derniers conseils pour vos premiers jours de jeu]()
+* [Epilogue - Et maintenant ?](early_days_-_what_next.md)
 
 -----
 

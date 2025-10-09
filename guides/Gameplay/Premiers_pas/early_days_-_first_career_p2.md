@@ -498,6 +498,16 @@ Votre uma va à présent être **notée**, en fonction de ses **stats** et de se
 
 ![Résultats finaux de ma carrières, avec la note de ma Rice Shower, le nombre de courses auxquelles elle a participé, ses skills, ses stats, et en bas ses sparks d'inspiration](/public/assets/EarlyDays/Scen_End_Results.png)
 
-Après cette évaluation, le jeu vous montrera les **sparks d'inspiration** que votre uma a obtenu.
+Après cette évaluation, le jeu vous montrera les **sparks d'inspiration** que votre uma a obtenu. Il s'agit des **sparks bleu, rose, verts et gris** que votre uma -en devenant une Veteran- va pouvoir **transmettre à son tour** au prochaines uma que vous allez entrainer en carrière ! 
 
-[FINIR CETTE PARTIE, ET ENSUITE CORRIGER LE GUIDE DE REROLL AND I'M DOOOOOOOOONE]
+Souvenez-vous, avant le lancement de la carrière, juste après avoir choisi un personnage à jouer, vous aviez appuyé sur "auto-select" pour choisir des uma "legacy". Ces legacy avaient des sparks qui ont un peu amélioré vos stats et peut-être vos aptitudes. Ce sont CES SPARKS que vous obtenez en fin de carrière, comme ici. Ainsi, votre nouvelle uma Veteran (Rice Shower en l'occurrence pour moi), fraichement entrainée, a ses propres sparks d'inspiration que vous pourrez **utiliser en tant que LEGACY sur des prochaines carrières**.
+
+Et je vous invite fortement à le faire : il y a des très **grandes probabilités pour que cette legacy soit de meilleure qualité** que celles offertes par le jeu au tout début, et que vous avez utilisé. La barre n'est pas très haute de toutes façons :currenDevilish:
+
+## Dans la [prochaine -et dernière- partie](early_days_-_what_next), on va aborder quelques dernières recommandations sur ce que vous allez vouloir faire pour la suite !
+
+On a fini mais on as pas exactement fini ! On a fait le tour des principaux points d'une carrière, mais il me reste quelques tips à vous filer de vous lâcher dans la nature. Je vous promet après c'est fini. On y évoquera la suite pour vous, maintenant que vous avez une vraie uma veteran, comment aborder vos prochaines carrières, ainsi que de nombreux petits tips importants !
+
+<div align="center">
+    <img src="/assets/EarlyDays/Tazuna_tips.png" alt="Tazuna qui s'apprête à vous donner le conseil ever">
+</div>

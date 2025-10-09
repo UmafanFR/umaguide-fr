@@ -114,7 +114,7 @@ Si par manque de chance vous n'avez pas suffisamment de cartes SSR ou SR pour co
 
 ::: tip Pour vous aider à choisir...
 
-Je ne sais pas quelles cartes vous avez, donc n'hésitez pas à jeter un oeil voir quelles cartes vous possédez parmi les [cartes recommandées pour un bon reroll](02_early_days_-_before_starting.md#bonnes-cartes-a-avoir-dans-un-reroll). Ce n'est pas grave si votre deck n'est pas optimal, vous aurez tout le temps pour l'améliorer plus tard, sur vos multiples prochaines carrières 👍🏾
+Je ne sais pas quelles cartes vous avez, donc n'hésitez pas à jeter un oeil voir quelles cartes vous possédez parmi les [cartes recommandées pour un bon reroll](early_days_-_before_starting.md#bonnes-cartes-a-avoir-dans-un-reroll). Ce n'est pas grave si votre deck n'est pas optimal, vous aurez tout le temps pour l'améliorer plus tard, sur vos multiples prochaines carrières 👍🏾
 
 _**Si**_ (et seulement SI) l'auto-select vous propose une de ces 3 compositions là, vous pouvez vous en contenter.
 
@@ -753,6 +753,6 @@ Je divague, désolé. Faut m'arrêter quand c'est comme ça :currenDevilish:
 
 #### 🌟 Vous pouvez continuer à jouer normalement, jusqu'à l'arrivée de l'évènement "_New Year's Resolutions_".
 
-Quand vous y serez, je vous invite à [me suivre dans la partie 2](/guides/Gameplay/Premiers_pas/early_days_-_first_career_p2.md) du guide pas-à-pas.
+Quand vous y serez, je vous invite à [me suivre dans la partie 2](early_days_-_first_career_p2) du guide pas-à-pas.
 
 ![Rice Shower effectuant un mouvement de rotation sur un banc, et se lève en courant](/assets/EarlyDays/Zeparti.gif)

@@ -47,6 +47,10 @@ Faites moi confiance, **la carence en monnies arrive *très très vite***.
 
 :::
 
+À titre informatif, voici à quoi va commnecer à ressembler vos équipes de Team Trials, à mesure que vous faites des carrières ! N'essayez PAS de refaire exactement ces teams, c'est encore un work in progress, il y a quelques soucis, et pour certaines uma j'ai fait des ajustements d'aptitudes. ~~C'est juste que j'ai pas d'autre image d'illustration à vous montrer et ça commmence à faire beaucoup de texte~~
+
+![Mes teams de Team Trials](/public/assets/EarlyDays/YK_Team_Trials_WIP.png)
+
 ## Daily Races 
 
 ::: warning Euh
@@ -116,13 +120,95 @@ Vous allez voir que la carrière de Gold Ship a une mécanique qui lui est propr
 
 Les courses **dirt** sont toutes en **distance mile en _Team Trials_**, donc c'est les mêmes recommandations que pour mile. Bien entendu, il vous faut une uma avec les **bonnes aptitudes dirt**, et pour le coup vous n'avez pas beaucoup de choix : si vous avez **Oguri Cap**, c'est elle. Si vous ne l'avez pas, **El Condor Pasa**. Si vous ne l'avez pas encore non plus, alors jouez **Haru Urara**. Pour le deck et les stats, c'est comme pour la distance mile : **800 stamina effective !**
 
+## Derniers conseils importants
+
+Désolé si vous pensiez que j'avais terminé, voici enfin quelques recommandations -en _rapid fire_ car j'ai envie d'en finir avec ce guide :currenDevilish:- de choses que je vous conseille de faire très prochainement ! J'en rajouterai plus tard, à mesure que je pense à des tips à ajouter ! 
+
+<div align="center">
+    <img src="/assets/EarlyDays/VivlosYap.gif" alt="Vivlos qui bavarde beaucoup">
+</div>
+
+#### Dés que vous atteignez le rank E3, rejoignez un club ou faites-en un !
+
+N'importe lequel ! Ça n'a pas d'importance pour le moment ! Rejoignez un club avec des randoms, c'est pas grave. À partir du moment où **vous existez dans un club, avant le 15 ou le 16 du mois** en cours, vous êtes **garantis** d'obtenir **AU MOINS 225 carats** au début du mois suivant. Certains clubs sont particulièrement actifs, et vous permettront d'obtenir bien plus de carats, mais TOUS LES CLUBS vous donnent au moins 225 carats par mois, quelle que soit le nombre de joueur·euse·s qui y son, et quelle que soit leur activité.
+
+Le rank d'un club est évalué sur le **nombre de fans obtenus chaque mois**, en carrière et Team Trials. Donc les clubs les plus actifs et les mieux rankés requièrent que vous jouillez abondamment au jeu !
+
+::: tip Ne vous y attachez pas
+
+La seule contrainte liée au fait de rejoindre un club, c'est qu'après avoir quitté un club, vous devez **patienter 24h avant de pouvoir en rejoindre un autre**. C'est tout ! Vous pouvez très bien faire du club-hoping jusqu'à ce que vous trouviez chaussure à votre pied (😌). Vous n'êtes pas supposés rester dans un club trop exigeants ou pas assez bien ranké pour vous, n'hésitez vraiment vraiment pas à changer de club si le votre ne vous convient pas.
+
+Pensez juste à **être et rester dans un même club à l'approche de la moitié du mois**, car vous perdez les récompenses de fin de mois si vous n'êtes pas dans un club **2 semaines avant la fin du mois**.
+
+Sur le serveur discord, il y a plusieurs clubs plus ou moins actifs et avec plus ou moins de place, dans https://discord.com/channels/1349115403615600680/1395327173694324766 
+
+:::
+
+#### Faites les missions AVANT d'utiliser votre ticket selector Umamusume ★★★ ! 
+
+![Release Celebration Missions Part 1](/public/assets/EarlyDays/Release_Celeb_MissP1.png)
+
+Dés que vous avez commencé le jeu, Cygames vous a offert un **ticket selector umamusume ★★★**, qui vous permet de CHOISIR une umamusume ★★★ parmi les uma du lancement.
+
+ ⚠️ **NE L'UTILISEZ PAS TOUT DE SUITE**
+
+Attendez d'abord de compléter les missions "**Release Celebration Missions - Part 1**". Ca prend quelques jours, et à la fin vous obtiendrez **un autre ticket umamusume ★★★**, mais cette fois ci **aléatoire**. Vous voulez utiliser CE ticket aléatoire **AVANT le ticket selector**. Si vous faites l'inverse et que vous utilisez le selector en premier, vous avez une **probabilité très élevée d'avoir LA MÊME UMA avec le ticket aléatoire** (car il y a très peu de uma ★★★ dans ces 2 tickets). Vous ne voulez absolument pas ce résultat, car comme évoqué en début de guide, les doublons de uma ★★★ ont très peu de valeur ajoutée.
+
+Le ticket selector est _hyper précieux_, vous en aurez très rarement, donc soyez prudents en l'utilisant ! **Faites d'abord les missions**, pour obtenir et utiliser **le ticket aléatoire**, puis le selector, afin de garantir l'obtention de 2 uma ★★★ différentes !
+
+Voici des recommandations de uma à choisir avec le ticket selector, APRÈS avoir utilisé le ticket aléatoire des missions.
+
+::: details Chaque recommandation pars du principe que vous n'avez pas eu la uma avec le ticket aléatoire
+
+La liste est dans l'ordre.
+
+1. **Votre uma fav**. Si votre fav est dans la liste, prenez la. J'ai pris Rice Shower, malgré le fait qu'elle soit terrible car c'est ma fav, donc **c'est la meilleure** 😌
+2. **Oguri Cap**. Uma particulièrement **versatile**, et qui va beaucoup vous aider à résoudre le problème de la **team Dirt en Team Trials**.
+3. **Taiki Shuttle**. La même chose, mais moins **versatile**. Elle est *meilleure* pour la team **Dirt**, mais moins versatile.
+4. **Maruzensky**. Assez versatile, et avec un **skill unique très utilisé en PvP** (compétitif et non-compétitif). C'est très confortable de l'avoir vous même.
+5. **Symboli Rudolf**. Une uma avec une assez **bonne affinité** avec plein d'autres uma, et un **skill unique très utile** pour presque toutes les stratégies, donc très bonne pour faire des **legacy** !
+6. **Mejiro McQueen**. Similaire à Rudolf, mais moins bonne affinité générale, et skill moins utile.
+
+Vous n'êtes pas obligé de suivre cette recommandation évidemment. Mais comme toutes les recommandations, son but est de réduire la friction et la frustration plus tard :currenDevilish:
+
+:::
+
+#### Montez Haru Urara guts SSR
+
+La carte est gratuite, et vous en obtenez des doublons en échange d'une monnaie gratuite (mais un peu longue à farm). C'est la meilleure carte SSR guts (pour le gain de stats) pour le moment, et elle gardera ce trône longtemps. C'est pas facile à expliquer, mais en gros elle a des bonnes stats across the board, et participe bien à la croissance de guts et les autres stats où elle tombe.
+
+#### Farmez des carats en début de jeu avec les stories et les courses facultatives !
+
+[J'en reparle dans la FAQ](/guides/FAQ/faq-general.md#comment-accumuler-rapidement-des-carats), mais au début du jeu il y a pas mal de carats à obtenir facilement. Il y a aussi les missions ! En début de partie, vous pouvez farme 30000 carats (un spark) en quelques jours, car il y a beaucoup de carats à obtenir la première vois 👌🏿
+
+#### Essayez -au mieux- d'anticiper les bannières qui vous intéressent ! 
+
+Vous pouvez [jeter un oeil à **uma.moe**](https://uma.moe/timeline) pour avoir un aperçu de l'arrivée des différentes bannières uma et support. C'est une ESTIMATION, uma.moe ne connait pas les dates à l'avance, c'est juste un calcul basé sur l'accélération du jeu sur la version globale. 
+
+Pour aller plus loin, vous pouvez calculer des esimations de l'accumulation de vos carats d'ici une bannière qui vous intéresse, [en utilisant le **Henry Handsome Derby's Banner Timeline Carat Calculator 3.0**](https://www.youtube.com/watch?v=DSXauk_WMgE) ~~featuring Dante from the Devil May Cry series & Knuckles~~. Vous n'avez pas vraiment besoin de vous en préoccuper pour le moment, mais c'est bien de savoir que c'est là !
+
+::: warning À prendre avec des pincettes
+
+Si vous voulez un avis pour savoir sur quelles bannières garder un oeil, j'ai fait quelques brèves recommandations dans [ce post](https://bsolife.fr/blog/post/25_Manuel-de-survie_-_Umamusume_Global/#UMA-BANNERS) !
+
+ATTENTION, ce post a été écrit AVANT la sortie globale, et mériterai quelques updates. Le gros des infos sur la météo des bannières devrait rester plutôt accurate, mais j'ai juste PAS LE TEMPS de l'update pour des ajustements et nuances (et ça n'a pas beaucoup d'intérêt, car il est très peu lu). Prenez ces recommandations avec un grain de sel, car le JP-bias est énorme.
+
+:::
+
+
 ## That will do
+
+![Gold Ship, allongée confortablement sur un gazon verdouillant, avec un énorme oreiller](/assets/EarlyDays/epuisax.jpg)
 
 Alrighty, c'est déjà PAS MAL DE CHOSES. Le reste vous verrez _en jouant_, en _posant des Q°_, en _lisant d'autres guides_ ou en _regardant des vidéos Youtube_. Il y'a beaucoup de guides **en anglais** ici et là, moins de choses en FR, mais j'espère qu'on parviendra à vous proposer des ressources pertinentes et compréhensibles sur umaguide.fr. 
 
 **Ça va prendre un certain temps par contre** :currenDevilish:
 
 La dernière chose que je peux vous recommander, c'est de jeter un oeil à la [Foire Aux Questions](/guides/FAQ/faq.md) si c'est pas déjà fait. Pas besoin de tout lire, mais c'est bien de savoir quelles questions sont déjà répondues ici : ce sont des **questions qui ont été posées en masse** par d'autres joueurs, donc vous allez certainement vous les poser aussi. J'espère que ça vous sera utile.
+
+Mais sinon c'est tout. Le reste vous verrez en jeu, et sur d'autres guides !
+
+Ouvrez les menus, regardez les options, expérimentez un peu, **PARTICIPEZ AUX ÉVÈNEMENTS** ! Surtout ça en fait ! Il y a très très peu d'évènements qui requièrent d'être fort pour avoir des récompense, **la grande majorité vous récompensent simplement en participant !** Et même le [Champion's Meeting](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction) (qui est du PvP compétitif), participez-y tout le temps : vous seriez *surpris* du nombre de joueur·euse·s qui ne s'y préparent pas du tout, et que **vous pouvez facilement battre** car iels inscrivent des uma particulièrement faibles et inadaptées.
 
 -------------------
 
