@@ -37,14 +37,42 @@ Mettez vous à l'aise et préparez un snack, il y a fort à faire et à voir. Vo
     * [Pourquoi faire des rerolls de cartes support](early_days_-_before_starting#pourquoi-faire-des-rerolls-de-cartes-support)
     * [Bonnes cartes à avoir dans un reroll](early_days_-_before_starting.md#bonnes-cartes-a-avoir-dans-un-reroll)
     * [Faites le Data Link avec un mot de passe](early_days_-_before_starting.md#faites-le-data-link-avec-un-mot-de-passe)
+
 * [Exploration rapide des menus du jeu](early_days_-_menus.md)
     * [Écran principal](early_days_-_menus.md#ecran-principal)
     * [Menu "Enhance"](early_days_-_menus#menu-enhance)
     * [Menu "Race"](early_days_-_menus#menu-race)
     * [Menu "Scout"](early_days_-_menus#menu-gacha-was-a-mistake-scout)
-* [Carrière sur le scénario URA Finale - Partie 1](early_days_-_first_career_p1.md)
-* [Carrière sur le scénario URA Finale - Partie 2](early_days_-_first_career_p2.md)
-* [Epilogue - Et maintenant ?](early_days_-_what_next.md)
+
+* [Là où tout se passe : les carrières](early_days_-_scenario_&_stats)
+    * [Le mode carrière et ses scénarios](early_days_-_scenario_&_stats#le-mode-carriere-et-ses-scenarios)
+    * [Stats et aptitudes](early_days_-_scenario_&_stats#stats-et-aptitudes)
+
+* [Carrière sur le scénario URA Finale - Partie 1](early_days_-_first_career_p1)
+    * [Première carrière avec Sakura Bakushin O](early_days_-_first_career_p1#premiere-carriere-avec-sakura-bakushin-o)
+    * [Comment jouer](early_days_-_first_career_p1#comment-jouer)
+    * [Entrainements](early_days_-_first_career_p1#entrainements)
+    * [Évènements pendant le scénario](early_days_-_first_career_p1#evenements-pendant-le-scenario)
+    * [Gestion de votre énergie et votre humeur (mood)](early_days_-_first_career_p1#gestion-de-votre-energie-et-votre-humeur-mood)
+    * [Votre priorité : monter les supports à l'orange](early_days_-_first_career_p1#votre-priorite-monter-les-supports-a-l-orange)
+    * [La Debut Race](early_days_-_first_career_p1#la-debut-race)
+    * [Suite de la carrière, et inscription aux courses](early_days_-_first_career_p1#suite-de-la-carriere-et-inscription-aux-courses)
+
+* [Carrière sur le scénario URA Finale - Partie 2](early_days_-_first_career_p2)
+    * [Début de la Classic Year](early_days_-_first_career_p2#debut-de-la-classic-year)
+    * [Inspiration event](early_days_-_first_career_p2#inspiration-event)
+    * [Summer Camp](early_days_-_first_career_p2#summer-camp)
+    * [Fin de la Classic Year](early_days_-_first_career_p2#fin-de-la-classic-year)
+    * [La Senior Year en quelques mots](early_days_-_first_career_p2#la-senior-year-en-quelques-mots)
+    * [URA Finale](early_days_-_first_career_p2#ura-finale)
+    * [Choisissez vos skills](early_days_-_first_career_p2#choisissez-vos-skills)
+
+* [Epilogue - Et maintenant ?](early_days_-_what_next)
+    * [Team Trials](early_days_-_what_next#team-trials)
+    * [Daily Races](early_days_-_what_next#daily-races)
+    * [Vos prochaines carrieres](early_days_-_what_next#vos-prochaines-carrieres)
+    * [Derniers conseils importants](early_days_-_what_next#derniers-conseils-importants)
+    * [Team Trials](early_days_-_what_next#team-trials)
 
 -----
 

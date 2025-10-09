@@ -9,6 +9,12 @@ order: 6
 
 # Epilogue - Et maintenant ?
 
+::: warning À priori
+
+Je pars du principe que vous êtes familiers avec les principaux menus importants du jeu. [On les a visité dans une partie précédente du guide](early_days_-_menus), si vous aviez skip cette partie, c'est p't'être (?) intéressant de revenir dessus maintenant !
+
+:::
+
 Vous avez terminé votre première carrière, et vu suffisamment de concepts essentiels... pour **en faire d'autres !** Dans umamusume, vous allez faire de très nombreuses carrières afin d'obtenir des uma veteran, que vous allez pouvoir faire courir sur des courses **hors d'une carrière !**
 
 La uma que vous venez d'entrainer est maintenant une **vétérane**, et peut maintenant participer à d'autres courses : **Team Trials**, **Daily Races**, **Legend Race**, **Champion's Meeting**, et d'autres (quand il y en aura d'autres :currenDevilish:) ! Chaque fois que vous terminerez une carrière (succès ou échec), la uma deviendra vétérane, et pourra être utilisée ailleurs. On va y jeter un oeil ensemble.

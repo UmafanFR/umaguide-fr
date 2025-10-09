@@ -129,4 +129,4 @@ Après tout, un grand sage a dit :
 
 -----------
 
-### Dans la prochaine partie, on commencera enfin [vos premières carrières](early_days_-_first_career_p1).
+### Dans la prochaine partie, on commencera enfin [vos premières carrières](early_days_-_scenario_&_stats).

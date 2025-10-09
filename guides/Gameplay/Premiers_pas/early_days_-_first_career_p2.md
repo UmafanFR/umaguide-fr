@@ -463,7 +463,7 @@ Il y a pas mal d'autres uma qui doivent faire top3 ou top5 sur Tenno Sho Spring,
 
 :::::
 
-##  Epilogue - Choisissez vos skills
+## Choisissez vos skills
 
 Après avoir visionné les différentes cutscenes de fin de carrière et reçu les récompenses (stats et skill points), vous arriverez sur la dernière étape de la carrière : **le choix des** skills.
 
@@ -503,6 +503,14 @@ Après cette évaluation, le jeu vous montrera les **sparks d'inspiration** que 
 Souvenez-vous, avant le lancement de la carrière, juste après avoir choisi un personnage à jouer, vous aviez appuyé sur "auto-select" pour choisir des uma "legacy". Ces legacy avaient des sparks qui ont un peu amélioré vos stats et peut-être vos aptitudes. Ce sont CES SPARKS que vous obtenez en fin de carrière, comme ici. Ainsi, votre nouvelle uma Veteran (Rice Shower en l'occurrence pour moi), fraichement entrainée, a ses propres sparks d'inspiration que vous pourrez **utiliser en tant que LEGACY sur des prochaines carrières**.
 
 Et je vous invite fortement à le faire : il y a des très **grandes probabilités pour que cette legacy soit de meilleure qualité** que celles offertes par le jeu au tout début, et que vous avez utilisé. La barre n'est pas très haute de toutes façons :currenDevilish:
+
+::: tip Si vous voulez aller plus loin (mais c'est sans doute trop tôt)
+
+J'explique brièvement comment les sparks sont choisis [dans la FAQ](/guides/FAQ/faq-builds.md#est-ce-que-je-peux-influer-sur-les-sparks-obtenus-en-fin-de-carriere). À mon avis c'est trop tôt pour s'en préoccuper, mais la Q° reviens systématiquement donc c'est bien de savoir qu'il y a des éléments de réponse dans la FAQ.
+
+Il y aura un guide dédié sur le système de legacy. C'est un gros morceau, on s'y plongera plus tard !
+
+:::
 
 ## Dans la [prochaine -et dernière- partie](early_days_-_what_next), on va aborder quelques dernières recommandations sur ce que vous allez vouloir faire pour la suite !
 
