@@ -439,7 +439,7 @@ La "difficulté" d'une carrière est assez subjective, et dépend de pas mal de 
 
 ::: details La RNG décide que BAH NON EN FAIT, HA !
 
-[![Résultats catastrophiques de ma Rice Shower qui arrive 14e sur Hopeless Stakes ; la première place a été obtenue par une uma MOB appelée "Quartet Accord", et une autre uma MOB est en 3e position](/public/assets/EarlyDays/Scen_Hopeless_Stakes.png)](/public/assets/EarlyDays/Scen_Hopeless_Stakes.png)
+[![Résultats catastrophiques de ma Rice Shower qui arrive 14e sur Hopeless Stakes ; la première place a été obtenue par une uma MOB appelée "Quartet Accord", et une autre uma MOB est en 3e position](/public/assets/EarlyDays/Scen_Hopeless_Stakes.png)](/assets/EarlyDays/Scen_Hopeless_Stakes.png)
 
 C'est pas une mise en scène, c'est VRAIMENT arrivé pendant cette carrière de démonstration 😂 Mais du coup ça tombait bien : comme vous le voyez à mon besoin de fans, si j'avais joué **Mejiro McQueen**, bah ma carrière aurait été **perdue à cet instant**.
 
@@ -469,7 +469,7 @@ Après avoir visionné les différentes cutscenes de fin de carrière et reçu l
 
 Je vous le dit tout de suite : **vous n'apprendrez pas à choisir vos skills de manière idéale d'un seul coup**. Ca prend un certain temps, et même après plusieurs mois de jeu, des tas de joueur·euse·s assidues qui jouent depuis le lancement de la globale ont toujours besoin d'un conseil pour départager 2-3 skills. Il y aura des guides pour vous aider à choisir vos skills intelligemment, mais on y est absolument pas. En attendant, voici ce que vous allez faire. 
 
-[![Image montrant les 15 principaux logos qui permettent de reconnaître les skills. Sur la première ligne, 4 logos de couleur orange et 1 bleu. Sur la 2e ligne, les skills de couleur verte. Sur la dernière ligne, les skills de couleur rouge](/public/assets/EarlyDays/Scen_Skills_logos.png)](/public/assets/EarlyDays/Scen_Skills_logos.png)
+[![Image montrant les 15 principaux logos qui permettent de reconnaître les skills. Sur la première ligne, 4 logos de couleur orange et 1 bleu. Sur la 2e ligne, les skills de couleur verte. Sur la dernière ligne, les skills de couleur rouge](/public/assets/EarlyDays/Scen_Skills_logos.png)](/assets/EarlyDays/Scen_Skills_logos.png)
 
 #### 🌟 En fin de carrière, sélectionnez vos skills comme suit
 
