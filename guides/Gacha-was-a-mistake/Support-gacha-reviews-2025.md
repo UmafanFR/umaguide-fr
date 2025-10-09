@@ -251,8 +251,6 @@ King Halo power SSR est -certes- un bon stat stick, avec un gain de power proche
 ## #14 - Mejiro Ryan guts SSR & Mejiro Ardan wits SR
 ![Image de présentation de la bannière Mejiro Ryan guts SSR & Mejiro Ardan wits SR](/public/assets/Gacha-reviews/2025/014_Card-Banner.png)
 
-#### C'est la bannière actuelle
-
 ::: details REVIEW
 
 ⏩ **Mejiro Ryan guts SSR**
@@ -274,3 +272,33 @@ King Halo power SSR est -certes- un bon stat stick, avec un gain de power proche
 Ryan SSR n'est pas bonne, et Ardan SR est une SR que vous voudrez pick up sur une autre bannière.
 
 :::
+
+## #15 - Vodka power SSR et Nishino Flower speed SSR (bannière actuelle)
+
+![Image de présentation de la bannière Vodka power SSR et Nishino Flower speed SSR](/public/assets/Gacha-reviews/2025/015_Card-Banner.png)
+
+::: details REVIEW
+
+⏩ **Vodka Power SSR**
+* La carte est **particulièrement frontloaded**, et est même réputée pour ça : à 1LB elle donne déjà la plupart de ses bonus intéressants, et ne débloque que hint levels et hint frequency à 3LB. De plus, à 1 LB elle a déjà un **spec prio et un friendship bonus particulièrement élevés**, ce qui fait très vite d'elle une très bonne carte pour monter power.
+* Aujourd'hui encore, sur la version JP du jeu, Vodka power est championne du friendship bonus, avec +48.5% friendship bonus une fois MLB. Certaines cartes SSR MLB ont littéralement _la moitié de ça_.
+* Vodka power est une carte power de qualité, très bonne pour **monter power**. Elle a aussi une petite contribution au cross-training, avec 40 mood bonus.
+* Sa sélection de hints ❗ est large, un peu trop même, avec plusieurs skills de vitesse, plusieurs accels (de fiabilité variable), ainsi que Tokyo Racecourse et une white recovery. Bon courage pour avoir ce qui vous arrange :currenDevilish:
+* Le skill gold obtenu est le skill de vitesse medium **Breath of Fresh Air**, qui s'active aléatoirement sur une ligne droite. La skill est d'autant plus fiable que la course est longue. Mais d'un autre côté, sur les courses de longue distance, c'est pas simple d'intégrer une carte power. Sur les courses mile et sprint, la chance que le skill ne fasse rien ou presque commence à être élevée. 
+    > * Plus tard, le skill sera buff et deviendra **parfaitement fiable**.
+
+⏩ **Nishino Flower speed SSR**
+* Nishino speed SSR est une carte à la croissance équilibrée : ni frontloaded, ni backloaded.
+* C'est une carte de **cross-training** ; vous ne l'utilisez pas pour monter speed -0 spec prio, 20 friendship bonus MLB- mais pour aider à la **croissance des autres stats**. Elle est plutôt OK en tant que carte de cross training, mais **plutôt à LB élevé**.
+* En revanche, son cross-training est fortement boosté par le fait qu'**elle peut vous donner le buff _Charming_**, qui augmente la croissance des jauges de vos cartes supports ; elle vous permet donc d'avoir des rainbow plus tôt ! 
+* Sa sélection de hints ❗ inclus entres autres choses 3 greens, dont Standard Distance et Firm Conditions (qui sont fréquemment utiles).
+* Le skill gold obtenu est le skill de vitesse universel **Beeline Burst**, qui s'active aléatoirement en ligne droite. Attention, elle peut aussi vous donner la version white ("agemasen").
+
+#### PULL OU PAS ?
+**Peu recommandé**. Cette bannière a un problème tout bête : Vodka power SSR est la principale "bonne" raison de pull sur cette bannière, et elle va être rendue un peu (un peu) caduque par **Rice Shower power SSR**, qui arrive sous peu. 
+
+Rice Shower power SSR marche un peu sur une partie de la niche de Vodka power, en étant une autre **carte power qui donne une gold recovery universelle**. Mais Rice donne Maestro (et _aussi_ **Cooldown** pendant le scénario Unity Cup), qui est aussi bien **plus fiable** que Breath of Fresh Air. Si on était au début de URA ça aurait plus facile de recommander cette bannière, mais là c'est assez discutable.
+
+**Si vous débutez** et que vous voulez absolument faire des pulls de cartes supports, c'est une bannière OK-ish.
+
+::::
