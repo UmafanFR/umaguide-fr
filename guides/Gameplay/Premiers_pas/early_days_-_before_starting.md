@@ -126,7 +126,7 @@ Vous avez eu Super Creek stam SSR sur un reroll ? Hop, mot de passe. Une Vodka p
 
 <div style="text-align: center;">
 
-**⏩ [FOIRE AUX QUESTIONS](https://umaguide.fr/guides/base_faq.html) ⏪**
+**⏩ [FOIRE AUX QUESTIONS](/guides/FAQ/faq) ⏪**
 
 (Glossaire à venir :9)
 
