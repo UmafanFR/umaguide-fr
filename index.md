@@ -18,6 +18,9 @@ hero:
     - theme: brand
       text: Foire Aux Questions (FAQ)
       link: /guides/FAQ/faq
+    - theme: brand
+      text: Vous débutez ?
+      link: /guides/Gameplay/Premiers_pas/early_days_-_intro
     - theme: alt
       text: Notre Discord
       link: https://discord.gg/cheval
