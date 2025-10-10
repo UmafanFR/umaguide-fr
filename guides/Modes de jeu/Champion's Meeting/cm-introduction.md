@@ -133,7 +133,7 @@ Open League - Group B | 500 | 300 | 200
 
 ::: details Il y a aussi D'AUTRES RÉCOMPENSES comme des support points et des tickets ! 🌟
 
-[![Image montrant les différentes récompenses du CM, en fonction du groupe, de la league, et du résultat](/public/assets/Comp-PvP/CM_rewards_v2.png)](/public/assets/Comp-PvP/CM_rewards_v2.png)
+[![Image montrant les différentes récompenses du CM, en fonction du groupe, de la league, et du résultat](/public/assets/Comp-PvP/CM_rewards_v2.png)](/assets/Comp-PvP/CM_rewards_v2.png)
 _Cliquez sur l'image pour la voir en grand_
 
 :::

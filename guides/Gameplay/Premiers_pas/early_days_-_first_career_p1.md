@@ -97,7 +97,7 @@ Le système d'inspiration est une sorte de mécanisme d'héritage un peu compliq
 
 :::
 
-Une fois vos legacies choisies, vous allez devoir construire un **deck de cartes support**. _C'est loin d'être évident au début_, et c'est normal de se tromper. Au besoin, il y a une partie de la [FAQ](https://umaguide.fr/guides/base_faq.html#How_to_build) qui y dédié, mais pour le moment je vous propose de d'ignorer les longues explications et de simplement utiliser un de ces 3 decks :
+Une fois vos legacies choisies, vous allez devoir construire un **deck de cartes support**. _C'est loin d'être évident au début_, et c'est normal de se tromper. Au besoin, il y a une partie de la [FAQ](/guides/FAQ/faq-carriere.md#quel-deck-utiliser-pour-la-carriere-de-inserez-ici-une-uma) qui y dédié, mais pour le moment je vous propose de d'ignorer les longues explications et de simplement utiliser un de ces 3 decks :
 
 #### 🌟 Si possible, faites un deck avec 3 cartes support **speed** SR/SSR, ainsi que 3 cartes support **wits** SR/SSR
 

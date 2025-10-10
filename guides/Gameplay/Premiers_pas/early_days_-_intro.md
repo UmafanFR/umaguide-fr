@@ -72,7 +72,6 @@ Mettez vous à l'aise et préparez un snack, il y a fort à faire et à voir. Vo
     * [Daily Races](early_days_-_what_next#daily-races)
     * [Vos prochaines carrieres](early_days_-_what_next#vos-prochaines-carrieres)
     * [Derniers conseils importants](early_days_-_what_next#derniers-conseils-importants)
-    * [Team Trials](early_days_-_what_next#team-trials)
 
 -----
 

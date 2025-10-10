@@ -27,7 +27,7 @@ Officiellement, dans le jeu, quand une uma termine une carrière, elle devient u
 
 ## Team Trials
 
-Commencez par aller en Team Trials, pour ajouter votre uma nouvellement entrainée à vos équipes. Depuis l'écran principal du jeu, cliquez en haut à gauche sur la **lettre colorée** pour accéder à vos équipes de Team Trials, et cliquez sur le bouton "**auto-select**". Votre uma vétéran a été placée leader d'une team pertinente (on espère 😂) ! Les autres "vétéranes" offertes par le jeu au lancement ont aussi été intégrées.
+Commencez par aller en Team Trials, pour ajouter votre uma nouvellement entrainée à vos équipes. Depuis l'écran principal du jeu, cliquez en haut à gauche sur la **lettre colorée** pour accéder à vos équipes de Team Trials, et cliquez sur le bouton "**auto-select**". Votre uma vétéran a été placée leader d'une team pertinente (on espère 😂) ! Si c'était Sakura Bakushin O, à priori elle est maintenant leader de la team Sprint (ON ESPÈRE). Les autres "vétéranes" offertes par le jeu au lancement ont aussi été intégrées.
 
 ::: warning C'est une mauvaise habitude
 
@@ -37,9 +37,9 @@ Si vous souhaitez prendre de l'avance et avoir un aperçu de comment build vos t
 
 :::
 
-**Vous pouvez participer à une session de Team Trials !** C'est une compétition basée sur le **score**, et vous obtenez un score plus ou moins élevé selon de nombreux critères (dont l'activation de skills, ou l'obtention de la victoire). Sur l'écran de Team Trials, sélectionnez un adversaire (on préfèré généralement affronter celui du haut, mais peu importe en l'occurrence). Vous verrez vos équipes et les siennes affichées, ainsi que l'humeur des différentes uma (aléatoire). Vous pouvez ensuite lancer la session, et tenter votre chance sur les 5 courses : sur surface **turf** il ya une course **sprint**, une **mile**, une **medium** et une **long**, et sur surface **dirt c'est toujours mile** (en Team Trials). Vous n'êtes pas obligé de regarder les courses (il y'en a 5), mais vous pouvez si ça vous amuse. Autrement, vous pouvez skip et voir direcement les résultats.
+**Vous pouvez participer à une session de Team Trials !** C'est une compétition basée sur le **score**, et vous obtenez un score plus ou moins élevé selon de nombreux critères (dont l'activation de skills, ou l'obtention de la victoire). Sur l'écran de Team Trials, sélectionnez un adversaire (on préfèré généralement affronter celui du haut, mais peu importe en l'occurrence). Vous verrez vos équipes et les siennes affichées, ainsi que l'humeur des différentes uma (aléatoire). Vous pouvez ensuite lancer la session, et tenter votre chance sur les 5 courses : sur surface **turf** il y'a une course **sprint**, une **mile**, une **medium** et une **long**, et sur surface **dirt c'est toujours mile** (en Team Trials). Vous n'êtes pas obligé de regarder les courses (il y'en a 5), mais vous pouvez si ça vous amuse. Autrement, vous pouvez skip et voir direcement les résultats.
 
-Une session de Team Trials consomme **un RP** (Race Point), qui se recharge **toutes les 2 heures**, et vous pouvez en avoir 5 à la fois ! N'hésitez pas à régulièrement jouer en Team Trials, pour monter en classe et obtenir des récompenses chaque semaine !
+Une session de Team Trials consomme **un RP** (Race Point), qui se recharge **toutes les 2 heures**, et vous pouvez en avoir 5 à la fois ! N'hésitez pas à régulièrement jouer en Team Trials, pour **monter en classe** et obtenir des **récompenses chaque semaine** !
 
 ::: warning La boutique de Tazuna ⚠️
 
@@ -47,13 +47,13 @@ Pendant votre Team Trials ou vos Daily Races, vous avez peut-être été (aléat
 
 **POUR LE MOMENT, N'ACHETEZ RIEN.**
 
-Plus tard, vous pourrez acheter quelques star pieces, et les réveils ⏰. Mais pour le moment vous venez de débuter, vos monnies sont encore trop "difficile" à obtenir, et utilisées pour trop de choses pour que vous les utilisiez sur des achats peu importants. Honnêtement, la boutique de Tazuna, vous pouvez très bien ne jamais rien acheter et ne jamais avoir de souci. C'est du bonus, et pas d'inquiétude, vous aurez des tas d'items de plein d'autres manières.
+Plus tard, vous pourrez acheter quelques star pieces, et les **réveils** ⏰. Mais pour le moment vous venez de débuter, vos monnies sont encore trop "difficile" à obtenir, et utilisées pour trop de choses pour que vous les utilisiez sur des achats peu importants. Honnêtement, la boutique de Tazuna, vous pouvez très bien ne jamais rien acheter et ne jamais avoir de souci. C'est du bonus, et pas d'inquiétude, vous aurez des tas d'items de plein d'autres manières.
 
 Faites moi confiance, **la carence en monnies arrive *très très vite***.
 
 :::
 
-À titre informatif, voici à quoi va commnecer à ressembler vos équipes de Team Trials, à mesure que vous faites des carrières ! N'essayez PAS de refaire exactement ces teams, c'est encore un work in progress, il y a quelques soucis, et pour certaines uma j'ai fait des ajustements d'aptitudes. ~~C'est juste que j'ai pas d'autre image d'illustration à vous montrer et ça commmence à faire beaucoup de texte~~
+À titre informatif, voici à quoi va commnecer à ressembler vos équipes de Team Trials, à mesure que vous faites des carrières ! N'essayez pas forcément de refaire exactement ces teams, c'est encore un work in progress, il y a quelques soucis, et pour certaines uma j'ai fait des ajustements d'aptitudes. ~~C'est juste que j'ai pas d'autre image d'illustration à vous montrer et ça commmence à faire beaucoup de texte~~
 
 ![Mes teams de Team Trials](/public/assets/EarlyDays/YK_Team_Trials_WIP.png)
 
@@ -72,7 +72,7 @@ Dans le menu "Races", cliquez sur "Daily Races". Tazuna vous présentera alors 2
 
 ::: tip À titre informatif
 
-Vous pouvez faire 3 essais supplémentaires en échange d'un ticket qui coute 100 carats. Je vous le déconseille très fortement, c'est un usage de carats réservé aux whales. Et encore 🤔
+Vous pouvez faire 3 essais supplémentaires en échange d'un ticket qui coute 100 carats. **Je vous le déconseille très fortement**, c'est un usage de carats réservé aux whales. Et encore 🤔
 
 :::
 
@@ -96,7 +96,7 @@ Je vous propose de faire ces carrières, *dans l'ordre*. Mais vous n'êtes pas o
 
 #### Carrière pour une coureuse MILE
 
-Vous allez vouloir une coureuse de distance **mile** pour votre **Team Trials** et les **Daily Races**. En partant du principe que vous n'avez pas fait beaucoup de pull sur les gacha uma, vous ne devez pas avoir beaucoup de persos. Je vous propose d'entrainer **Vodka**, **Grass Wonder** ou **Air Groove** en carrière, afin de les faire courir sur distance mile. Pour cela, vous allez vouloir utiliser un deck composé de **3 cartes stamina et 3 cartes speed**. Si une de ces cartes stamina est Super Creek SSR, vous pouvez n'en utiliser que 2 👌🏿
+Vous allez vouloir une coureuse de distance **mile** pour votre **Team Trials** et les **Daily Races**. En partant du principe que vous n'avez pas fait beaucoup de pull sur les gacha uma, vous ne devez pas avoir beaucoup de persos. Je vous propose d'entrainer **Vodka**, **Grass Wonder** ou **Air Groove** en carrière, afin de les faire courir sur distance mile. Pour cela, vous allez vouloir utiliser un deck composé de **3 cartes stamina et 3 cartes speed**. Si une de ces cartes stamina est **Super Creek SSR**, vous pouvez n'en utiliser que 2 👌🏿
 
 Vous allez vouloir viser **750-800 stamina effective** d'ici la fin de votre carrière. Ça veut dire, **750-800 stamina réelle**, OU ALORS **550-600 stamina + 1 gold recovery**, préférablement **Swinging Maestro** (la gold recovery de Super Creek stam SSR). Ca vous permettra de courir sur toutes les courses mile, et de gagner en Team Trials contre vos adversaires, qui auront certainement une **carence en stamina**.
 
@@ -118,7 +118,7 @@ Votre cible de stamina en fin de carrière sera environ **1000 stamina effective
 
 #### Carrière pour une coureuse LONG
 
-Il n'y a pas de Daily Race long, donc votre coureuse long sera uniquement pour le **Team Trials**. Je vous recommande de jouer **Gold Ship**, et de l'entrainer en carrière avec **4 cartes stamina** de nouveau. Vous allez vouloir genre **1000 stam + 1 gold recovery**, mais réalistiquement vous aurez du mal. _Faites au mieux !_ 
+Il n'y a pas de Daily Race long (et c'est bien dommage), donc votre coureuse long sera uniquement pour le **Team Trials**. Je vous recommande de jouer **Gold Ship**, et de l'entrainer en carrière avec **4 cartes stamina** de nouveau. Vous allez vouloir genre **1000 stam + 1 gold recovery**, mais réalistiquement vous aurez du mal. _Faites au mieux !_ 
 
 Vous allez voir que la carrière de Gold Ship a une mécanique qui lui est propre, et ajoute quelques épices à la carrière :currenDevilish:
 
@@ -128,7 +128,7 @@ Les courses **dirt** sont toutes en **distance mile en _Team Trials_**, donc c'e
 
 ## Derniers conseils importants
 
-Désolé si vous pensiez que j'avais terminé, voici enfin quelques recommandations -en _rapid fire_ car j'ai envie d'en finir avec ce guide :currenDevilish:- de choses que je vous conseille de faire très prochainement ! J'en rajouterai plus tard, à mesure que je pense à des tips à ajouter ! 
+Désolé si vous pensiez que j'avais terminé, voici des dernières recommandations -en _rapid fire_ car j'ai envie d'en finir avec ce guide :currenDevilish:- de choses que je vous conseille de faire très prochainement ! J'en rajouterai plus tard, à mesure que je pense à des tips à ajouter ! 
 
 <div align="center">
     <img src="/assets/EarlyDays/VivlosYap.gif" alt="Vivlos qui bavarde beaucoup">
@@ -136,17 +136,17 @@ Désolé si vous pensiez que j'avais terminé, voici enfin quelques recommandati
 
 #### Dés que vous atteignez le rank E3, rejoignez un club ou faites-en un !
 
-N'importe lequel ! Ça n'a pas d'importance pour le moment ! Rejoignez un club avec des randoms, c'est pas grave. À partir du moment où **vous existez dans un club, avant le 15 ou le 16 du mois** en cours, vous êtes **garantis** d'obtenir **AU MOINS 225 carats** au début du mois suivant. Certains clubs sont particulièrement actifs, et vous permettront d'obtenir bien plus de carats, mais TOUS LES CLUBS vous donnent au moins 225 carats par mois, quelle que soit le nombre de joueur·euse·s qui y son, et quelle que soit leur activité.
+N'importe lequel ! Ça n'a pas d'importance pour le moment ! Rejoignez un club avec des randoms, c'est pas grave. À partir du moment où **vous existez dans un club, avant le 15 ou le 16 du mois** en cours, vous êtes **garantis** d'obtenir **AU MOINS 225 carats** au début du mois suivant. Certains clubs sont particulièrement actifs, et vous permettront d'obtenir bien plus de carats mensuels (jusqu'à 4500 par mois mais _bon courage hein_), mais TOUS LES CLUBS vous donnent au moins 225 carats par mois, quelle que soit le nombre de joueur·euse·s qui y sont, et quelle que soit leur niveau d'activité.
 
 Le rank d'un club est évalué sur le **nombre de fans obtenus chaque mois**, en carrière et Team Trials. Donc les clubs les plus actifs et les mieux rankés requièrent que vous jouillez abondamment au jeu !
 
 ::: tip Ne vous y attachez pas
 
-La seule contrainte liée au fait de rejoindre un club, c'est qu'après avoir quitté un club, vous devez **patienter 24h avant de pouvoir en rejoindre un autre**. C'est tout ! Vous pouvez très bien faire du club-hoping jusqu'à ce que vous trouviez chaussure à votre pied (😌). Vous n'êtes pas supposés rester dans un club trop exigeants ou pas assez bien ranké pour vous, n'hésitez vraiment vraiment pas à changer de club si le votre ne vous convient pas.
+La seule contrainte liée au fait de rejoindre un club, c'est qu'après avoir quitté un club, vous devez **patienter 24h avant de pouvoir en rejoindre un autre**. C'est tout ! Vous pouvez très bien faire du club-hoping jusqu'à ce que vous trouviez chaussure à votre pied (:currenDevilish:). Vous n'êtes pas supposés rester dans un club trop exigeant pour vous ou trop chill à votre goût, n'hésitez vraiment vraiment pas à changer de club si le votre ne vous convient pas.
 
 Pensez juste à **être et rester dans un même club à l'approche de la moitié du mois**, car vous perdez les récompenses de fin de mois si vous n'êtes pas dans un club **2 semaines avant la fin du mois**.
 
-Sur le serveur discord, il y a plusieurs clubs plus ou moins actifs et avec plus ou moins de place, dans https://discord.com/channels/1349115403615600680/1395327173694324766 
+Sur le serveur discord, il y a plusieurs clubs plus ou moins actifs et avec plus ou moins de place, dans [Recrutement-Club-Glo](https://discord.com/channels/1349115403615600680/1395327173694324766 )
 
 :::
 
@@ -181,11 +181,11 @@ Vous n'êtes pas obligé de suivre cette recommandation évidemment. Mais comme 
 
 #### Montez Haru Urara guts SSR
 
-La carte est gratuite, et vous en obtenez des doublons en échange d'une monnaie gratuite (mais un peu longue à farm). C'est la meilleure carte SSR guts (pour le gain de stats) pour le moment, et elle gardera ce trône longtemps. C'est pas facile à expliquer, mais en gros elle a des bonnes stats across the board, et participe bien à la croissance de guts et les autres stats où elle tombe.
+La carte est gratuite, et vous en obtenez des doublons en échange d'une monnaie gratuite (mais un peu longue à accumuler). C'est la meilleure carte SSR guts (pour le gain de stats) pour le moment, et elle gardera ce trône longtemps. C'est pas facile à expliquer, mais en gros elle a des bonnes stats across the board, et participe bien à la croissance de guts et les autres stats où elle tombe.
 
 #### Farmez des carats en début de jeu avec les stories et les courses facultatives !
 
-[J'en reparle dans la FAQ](/guides/FAQ/faq-general.md#comment-accumuler-rapidement-des-carats), mais au début du jeu il y a pas mal de carats à obtenir facilement. Il y a aussi les missions ! En début de partie, vous pouvez farme 30000 carats (un spark) en quelques jours, car il y a beaucoup de carats à obtenir la première vois 👌🏿
+[J'en reparle dans la FAQ](/guides/FAQ/faq-general.md#comment-accumuler-rapidement-des-carats), mais au début du jeu il y a pas mal de carats à obtenir facilement, grâce aux courses et aux stories. Il y a aussi les missions ! En début de partie, vous pouvez farmer 30000 carats (un spark) en quelques jours, car il y a beaucoup de carats à obtenir la première fois 👌🏿
 
 #### Essayez -au mieux- d'anticiper les bannières qui vous intéressent ! 
 
@@ -201,12 +201,34 @@ ATTENTION, ce post a été écrit AVANT la sortie globale, et mériterai quelque
 
 :::
 
+Je ne le rappelerai jamais assez, mais si vous souhaitez progresser dans le jeu et vous améliorer, c'est votre **collection de cartes support** qu'il faut enrichir ! Vous pouvez bien évidemment pull **vos uma fav** quand elles arrivent, mais si vous dépensez continuellement vos carats sur les bannières umamusue, votre collection de cartes support va en patir, ce qui ralentira votre progression.
+
+Visez sélectivement les bannières de cartes support 👌🏿 Au début du jeu, faites quelques pulls pour avoir des cartes SR, et après **économisez** ! Quand vous avez déjà quelques SRs avec quelques LB, pour avoir une **bonne valeur ajoutée sur vos cartes support**, vous allez vouloir **_spark une bannière_** avec une bonne carte SSR. Ça vous permettra d'avoir des LB supplémentaires pour les cartes SRs, et surtout une **garantie d'obtenir au moins 1 exemplaire de la carte SSR** de la bannière. Autant que raisonnablement possible, évitez les pull par-ci par-là, et essayez d'économiser 30000 carats (un spark) pour pouvoir faire 200 pulls d'un coup sur une bonne bannière !
+
+::: tip Surveillez les review
+
+**Gardez un oeil à [cette page](/guides/Gacha-was-a-mistake/Current-banners.md)** : peu avant ou peu après l'arrivée d'une nouvelle bannière, les **recommandation de pulls sur les bannières gacha** sont mises à jour. Ça vous permet de savoir s'il est judicieux de dépenser des carats sur une bannière pour faire des pulls. Gardez en tête que **même une très bonne bannière ne vaut pas forcément le coût** si vous n'avez _pas beaucoup de pulls_ à faire dessus !
+
+Vous pouvez aussi consulter les archives des précédentes bannières :
+- [archives cartes support 2025](/guides/Gacha-was-a-mistake/Support-gacha-reviews-2025.md)
+- [archives umamusume 2025](/guides/Gacha-was-a-mistake/Uma-gacha-reviews-2025.md)
+
+:::
+
+#### Participez aux évènements !
+
+Vraiment !
+
+Il y a très très peu d'évènements in-game qui requièrent d'être fort ou d'avoir des uma de rank élevé ; la grande majorité des events vous des récompenses pour votre **participation**. Si vous obtenez des bons résultats (exemple : gagner les Legend Race) vous en aurez davantage, mais rien qu'en y participant vous aurez une bonne partie 👌🏿 Même le [Champion's Meeting](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction) (qui est du PvP compétitif), participez-y tout le temps : vous seriez *surpris* du nombre de joueur·euse·s qui ne s'y préparent pas du tout, et que **vous pouvez facilement battre** car iels inscrivent des uma particulièrement faibles et inadaptées.
+
+Et de toutes façons, Umamusume étant un jeu de PvP, c'est bien de participer au Champion's Meeting pour voir comment ça fonctionne ; car **Champion's Meeting est votre principale activité à terme !**
+
 
 ## That will do
 
 ![Gold Ship, allongée confortablement sur un gazon verdouillant, avec un énorme oreiller](/assets/EarlyDays/epuisax.jpg)
 
-Alrighty, c'est déjà PAS MAL DE CHOSES. Le reste vous verrez _en jouant_, en _posant des Q°_, en _lisant d'autres guides_ ou en _regardant des vidéos Youtube_. Il y'a beaucoup de guides **en anglais** ici et là, moins de choses en FR, mais j'espère qu'on parviendra à vous proposer des ressources pertinentes et compréhensibles sur umaguide.fr. 
+Alrighty, c'est déjà PAS MAL DE CHOSES. Le reste vous verrez _en jouant_, en _posant des Q°_, en _lisant d'autres guides_ ou en _regardant des vidéos Youtube_. Il y'a beaucoup de guides **en anglais** ici et là, moins de choses en FR, mais j'espère qu'on parviendra à vous proposer des ressources pertinentes et compréhensibles sur umaguide.fr. Donc gardez le site sous le coude !
 
 **Ça va prendre un certain temps par contre** :currenDevilish:
 
@@ -214,12 +236,12 @@ La dernière chose que je peux vous recommander, c'est de jeter un oeil à la [F
 
 Mais sinon c'est tout. Le reste vous verrez en jeu, et sur d'autres guides !
 
-Ouvrez les menus, regardez les options, expérimentez un peu, **PARTICIPEZ AUX ÉVÈNEMENTS** ! Surtout ça en fait ! Il y a très très peu d'évènements qui requièrent d'être fort pour avoir des récompense, **la grande majorité vous récompensent simplement en participant !** Et même le [Champion's Meeting](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction) (qui est du PvP compétitif), participez-y tout le temps : vous seriez *surpris* du nombre de joueur·euse·s qui ne s'y préparent pas du tout, et que **vous pouvez facilement battre** car iels inscrivent des uma particulièrement faibles et inadaptées.
+::: tip Alrighty, voilà voilà ! 👋🏿
 
--------------------
-
-Voilà voilà, dang, c'était long, mais j'espère que vous en avez tiré des tas de choses ! Bon courage pour la suite, et comme toujours n'hésitez pas à :
+C'était long, mais j'espère que vous en avez tiré des tas de choses ! Bon courage pour la suite, et comme toujours n'hésitez pas à :
 - faire des retours sur ce guide !
 - poser des Q° !
 
 ![L'entraineur prends la fuite en courant, et Gold Ship le rattrape en instant, effectuant un magnifique plaquage, sous le regard de Daiwa Scarlet, Special Week et Vodka](/assets/EarlyDays/Come_Back_Here.gif)
+
+:::
