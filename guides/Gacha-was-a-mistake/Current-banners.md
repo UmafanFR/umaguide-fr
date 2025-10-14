@@ -1,5 +1,5 @@
 ---
-title: Gacha review - Gold City ★★★ // Sweep Tosho speed SSR et Winning Ticket stamina SSR)
+title: Gacha review - Maruzensky alt et Special Week alt ★★★ // Sweep Tosho speed SSR et Winning Ticket stamina SSR)
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
