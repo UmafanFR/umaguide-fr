@@ -20,13 +20,19 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/016_Banners_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/016_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
 # Review des bannières gacha actuelles
 
 Sur cette page nous tenterons d'évaluer la qualité des bannières gacha actuelles ; vous y trouverez une review des **bannières umamusume** et **bannières cartes support**. Le but est de vous aider à faire des pulls pertinents, et à **maximiser la valeur ajoutée des carats que vous dépensez !**
+
+::: warning Gardez en tête
+
+Bien que je fasse de mon mieux pour vous proposer des conseils pertinents, **j'ai aussi des BIAIS, et je fais des erreurs**. N'hésitez pas à double-check ces recommandations auprès d'autres vétérans ; des tas de gens font des recommandations de pull. 
+
+:::
 
 Il est bon de rappeler que **Umamusume est un jeu de cartes**, et que comme tout jeu de cartes, **il faut avoir des cartes** pour bien jouer. Si vous faites abondamment des pulls sur les bannières umamusume, _vous allez ralentir votre progression_. Mais c'est un choix acceptable que vous pouvez faire, chacun ses objectifs. On le rappelle assez peu ces derniers temps, mais il est bon de rappeler que **votre fun est _plus important_ que les recommandations**.
 
@@ -149,7 +155,7 @@ Il y'a d'autres bannières de uma intéressantes à venir un peu plus tard (Meis
 ![Image de présentation de la bannière Sweep Tosho speed SSR et Winning Ticket stamina SSR](/public/assets/Gacha-reviews/2025/016_Card-Banner.png)
 
 
-#### Sweep Tosho speed SSR
+⏩ **Sweep Tosho speed SSR**
 * La carte est **bien frontloaded** : à 1LB elle a déjà un friendship bonus très élevé, 50 spec prio et +1 skill bonus. Elle débloque un peu de mood bonus à 3LB.
 * Aujourd'hui encore, sur la version JP du jeu, Sweep Tosho speed SSR est championne du friendship bonus, avec **+48.5%** friendship bonus une fois MLB. Certaines cartes SSR MLB ont littéralement _la moitié de ça_.
 * Sweep Tosho speed SSR est une carte speed de qualité, très bonne pour **monter speed**. Sa contribution au cross-training est très faible, mais l'avantage du speed bonus c'est qu'il est utile si Tosho tombe sur speed, guts, ou wits. C'est donc quand même du cross-training.
@@ -165,7 +171,7 @@ On peut raisonnablement considérer Tosho SSR meilleure -pour monter speed- que 
 
 :::
 
-#### Winning Ticket stamina SSR
+⏩ **Winning Ticket stamina SSR**
 * Absolute garbage.
 * Winning Ticket stamina SSR est une carte plutôt frontloaded, mais pas de manière notable. Elle débloque guts bonus +1 à 1LB, et Race/Fan Bonus à 3LB.
 * C'est une carte de **cross-training**, et elle est mauvaise à ça. Vous ne l'utilisez pas pour monter stamina -0 spec prio, 20 friendship bonus à MLB- mais pour aider à la **croissance des autres stats**. Elle est plutôt médiocre en tant que carte de cross training, avec seulement 45 mood bonus, et aucun training bonus associé.
@@ -174,7 +180,7 @@ On peut raisonnablement considérer Tosho SSR meilleure -pour monter speed- que 
 * Le skill gold obtenu est l'accel Late **Hard Worker**, qui est useless (accel early/mid-race). Son 2e chain event peut être interrompu en sélectionnant l'option du bas.
 
 #### PULL OU PAS ?
-**Difficile à dire**. Pas parce que Tosho speed SSR n'est pas bonne (elle est *très bonne* si on ignore le skill gold), mais parce que _Winning Ticket stamina SSR est absolument terrible_. La question se pose de savoir si le risque en vaut la chandelle.
+**Difficile à dire**. Pas parce que Tosho speed SSR n'est pas bonne (elle est *bonne* si on ignore le skill gold), mais parce que _Winning Ticket stamina SSR est absolument terrible_. La question se pose de savoir si le risque en vaut la chandelle.
 
 De plus, en même temps il y a bonne bannière uma avec Maruzensky alt (et Special Week alt).
 

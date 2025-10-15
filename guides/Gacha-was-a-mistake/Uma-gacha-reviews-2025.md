@@ -261,7 +261,7 @@ Bonus : elle a l'air assez marrante comme perso.
 
 :::
 
-## #15 - Gold City ★★★ (bannière actuelle)
+## #15 - Gold City ★★★
 
 ![Image de présentation de la bannière Gold City](/public/assets/Gacha-reviews/2025/015_Uma-Banner.png)
 
@@ -283,3 +283,37 @@ _Gold City est une Late Surger (1 gold + unique) pensée pour la distance mile (
 Parfois ses accel la feront exploser mais la qualité de son kit est plutôt moyenne. C'est difficile à recommander quand la très bonne Summer Maruzensky est _right around the corner_.
 
 :::
+
+## #16 - Maruzensky alt et Special Week alt ★★★ (bannière actuelle)
+
+![Image de présentation de la bannière Maruzensky alt et Special Week alt](/public/assets/Gacha-reviews/2025/016_Uma-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Maruzensky alt**
+
+_Summer Maruzensky est une très forte et versatile Front Runner (1 gold), particulièrement bonne en Mile (1 gold). Avec une gold recovery fiable dans certaines courses, et un skill de vitesse gold mile particulièrement désirable pour les frontlines, elle une bonne sélection de skills gold. Sa vraie force cependant, c'est son skill unique de vitesse en mid-race. Similairement à Gold Ship, Maruzensky alt gagne beaucoup de terrain en mid-race sur l'activation de son unique. Comme il se déclenche sur activation d'une recovery, dans de nombreuses courses il est possible de le faire carry over de manière garantie, pour un énorme gain d'avance._
+
+* _La voilà._ **La meilleure™ Front Runner** (jusqu'à Bourbon alt).
+* Avec +15% speed bonus et +15% wits bonus, monter les stats de Maruzensky alt sera confortable. Speed bonus est le bonus qui a le plus d'usage car 3 entrainements montent speed, et wits bonus est simplement très commode, car il n'y a que l'entrainement wits qui monte wits. 
+* Ses aptitudes de distance la rendent très versatile, mais toute autre distance que Mile requiert **un peu d'inspiration** (1* pour sprint/med, 4* pour long). Grâce à son aptitude **D dirt**, elle sera aussi apte à courir en dirt, avec seulement 7* dirt.
+* Sa sélection de skills gold est plutôt bonne :
+    * **Restless** est une gold recovery qui s'active sur la première côte de la course. Sur toutes les courses qui ont une côte tard en early-race (au plus tôt) et avant le début du late-race (au plus tard), cette recovery sera parfaitement fiable.
+    * **Mile Maven** est un des meilleurs skills de vitesse mile frontline. Il pop aléatoirement en early-race, uniquement pour la uma en **1e position**, donc l'activation n'est pas simple. Mais c'est un skill de durée de base 3s, qui permettra de sécuriser un bon lead pour la Front en 1e position.
+        > Le skill sera changé plus tard, et s'activera pour toutes les uma _top50%_
+* Sa grande force c'est son **skill unique**. C'est un unique de vitesse, qui pop sur l'**activation d'une recovery** (white ou gold) après la moitié de la course, si Maru est top3. C'est un grand atout pour 2 raisons.
+    1. C'est un skill unique de **vitesse en mid-race**. Ces uniques là sont encore assez rares, et très désirables ; rappelez-vous, c'est ce qui fait la grande force de **Gold Ship**. L'unique de Maruzensky alt étant meilleur que celui de Golshi, je pense que vous voyez l'idée. C'est -de base- un skill précieux, que toutes les uma voudraient, et qui est particulièrement bénéfique pour une Front, car une Front veut être en 1e position,  se bagarrer pour cette position, et rester _le plus loin possible à l'avant_. Rien que pour ça, c'est déjà un unique particulièrement bon pour une Front.
+    2. C'est un skill unique **contrôlable**, donc qui peut parfois être activé **à un moment qui vous arrange**. C'est le premier de ce type, et  même sur la version JP, ce type de skill unique reste rare. L'intérêt étant bien sur de contrôler l'activation du skill pour induire un **carry over**, et ainsi gagner **plus de 2 longueurs d'avance**, juste avec ce skill unique. Il suffit qu'une recovery s'active à un moment idéal, et c'est banco. Maruzensky est aussi équipée de la white recovery **Triple 7s** (≠ Lucky Seven), qui s'active toujours **777m avant la fin** de la course. Vous savez sur quelles distance l'unique de Maruzensky est garantis de carry over ? 1800m (idéal), 1900m (dirt only), **2000m**, 2100m et 2200m. Sur ces 5 distances là, la Q° de "_quelle recovery utliser pour l'unique de Maruzensky_" est solutionnée par **Triple 7s**. Sur certaines autres courses, il n'y a pas de recovery idéale, et sur d'autres il y'en a mais il faudra être créatif pour trouver la recovery idéale. 
+        > Si la recovery unique de Haru Urara -qui pop sur le final corner- était activable pour une front, je vous raconte pas le massacre sur *encore plus* de courses :currenDevilish:
+
+::: tip Carry over = very good
+
+D'après [umalator](https://alpha123.github.io/uma-tools/umalator-global/), sur Tokyo 1800m (mile), il vous faudrait **4 à 6 skills gold de vitesse** (selon leur durée) pour gagner 2+ longueurs sur la durée de la course. Si on considère des skills gold idéals ("idéaux" ?) de durée de base 3 seconde (assez rare sur la glo), il en faut plus de 3.
+
+![Image d'une simulation sur le "umalator", avec une uma sans carry over en rouge, et une uma avec carry over en rouge](/assets/Comp-PvP/CM01/CM01_Umalator_CarryOver.png)
+
+Pour rappel, voici à quoi ça ressemble : l'idée étant que si votre vitesse est plus élevée que quelqu'un d'autre, **vous gagnez du terrain** par rapport à cette personne.
+
+:::
+
+::::

@@ -273,7 +273,7 @@ Ryan SSR n'est pas bonne, et Ardan SR est une SR que vous voudrez pick up sur un
 
 :::
 
-## #15 - Vodka power SSR et Nishino Flower speed SSR (bannière actuelle)
+## #15 - Vodka power SSR et Nishino Flower speed SSR
 
 ![Image de présentation de la bannière Vodka power SSR et Nishino Flower speed SSR](/public/assets/Gacha-reviews/2025/015_Card-Banner.png)
 
@@ -300,5 +300,56 @@ Ryan SSR n'est pas bonne, et Ardan SR est une SR que vous voudrez pick up sur un
 Rice Shower power SSR marche un peu sur une partie de la niche de Vodka power, en étant une autre **carte power qui donne une gold recovery universelle**. Mais Rice donne Maestro (et _aussi_ **Cooldown** pendant le scénario Unity Cup), qui est aussi bien **plus fiable** que Breath of Fresh Air. Si on était au début de URA ça aurait plus facile de recommander cette bannière, mais là c'est assez discutable.
 
 **Si vous débutez** et que vous voulez absolument faire des pulls de cartes supports, c'est une bannière OK-ish.
+
+::::
+
+## #16 - Maruzensky alt et Special Week alt (bannière actuelle)
+
+![Image de présentation de la bannière Sweep Tosho speed SSR et Winning Ticket stamina SSR](/public/assets/Gacha-reviews/2025/016_Card-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Sweep Tosho speed SSR**
+* La carte est **bien frontloaded** : à 1LB elle a déjà un friendship bonus très élevé, 50 spec prio et +1 skill bonus. Elle débloque un peu de mood bonus à 3LB.
+* Aujourd'hui encore, sur la version JP du jeu, Sweep Tosho speed SSR est championne du friendship bonus, avec **+48.5%** friendship bonus une fois MLB. Certaines cartes SSR MLB ont littéralement _la moitié de ça_.
+* Sweep Tosho speed SSR est une carte speed de qualité, très bonne pour **monter speed**. Sa contribution au cross-training est très faible, mais l'avantage du speed bonus c'est qu'il est utile si Tosho tombe sur speed, guts, ou wits. C'est donc quand même du cross-training.
+* Sa sélection de hints ❗ est identique à Sweep Tosho speed SR, avec 3 debuffs, 2 skills useless, une white recovery, et l'excellent white de vitesse quasi-universel : **Slipstream**. Attention, la version SSR n'a ni Hint Frequency ni Hint level bonus.
+* Le skill gold obtenu -et c'est là que le bat blesse- est un skill gold de **vision** End Closser, parfaitement osef. Vous n'en voulez pas (mais le skill s'active en Team Trials au moins). Sur ses 2 premiers chain events, l'option du haut a une chance d'avoir un effet négatif. L'option du bas est fiable.
+* Comme c'est Sweep Tosho : 
+    - elle peut vous donner le précieux buff **Charming** (option du bas sur l'event "Wonderful☆Mistake")
+    - vous ne pouvez pas utiliser la très bonne Sweep Tosho speed SR en même temps que la version SSR
+
+::: tip Et par rapport à la SR ?
+
+On peut raisonnablement considérer Tosho SSR meilleure -pour monter speed- que la version SR à partir de 1LB. En réalité, leurs forces sont un peu différentes (Tosho SR a un bon cross training), mais si on regarde seulement la croissance de speed, **la SSR 1LB bat la SR MLB**. On pourrait débattre du fait que c'est le cas dés 0LB d'ailleurs.
+
+:::
+
+⏩ **Winning Ticket stamina SSR**
+* Absolute garbage.
+* Winning Ticket stamina SSR est une carte plutôt frontloaded, mais pas de manière notable. Elle débloque guts bonus +1 à 1LB, et Race/Fan Bonus à 3LB.
+* C'est une carte de **cross-training**, et elle est mauvaise à ça. Vous ne l'utilisez pas pour monter stamina -0 spec prio, 20 friendship bonus à MLB- mais pour aider à la **croissance des autres stats**. Elle est plutôt médiocre en tant que carte de cross training, avec seulement 45 mood bonus, et aucun training bonus associé.
+    > à titre de comparaison, Satono Diamond stam SSR a 55 mood bonus et 10 training bonus ; c'est à peu près 2 fois mieux en cross-training
+* Sa sélection de hints ❗ inclus 2 greens parfois utiles, et 3 skills Late Surger, dont l'accel white Slick Surge.
+* Le skill gold obtenu est l'accel Late **Hard Worker**, qui est useless (accel early/mid-race). Son 2e chain event peut être interrompu en sélectionnant l'option du bas.
+
+#### PULL OU PAS ?
+**Difficile à dire**. Pas parce que Tosho speed SSR n'est pas bonne (elle est *bonne* si on ignore le skill gold), mais parce que _Winning Ticket stamina SSR est absolument terrible_. La question se pose de savoir si le risque en vaut la chandelle.
+
+De plus, en même temps il y a bonne bannière uma avec Maruzensky alt (et Special Week alt).
+
+En revanche, c'est **pertinent** (_ça ne veut PAS dire "recommandé"_) de pull si vous validez ***toutes** ces conditions* :
+- vous êtes en sérieux manque de LB sur vos cartes SR
+- vous êtes VRAIMENT préssé·e d'avoir des LB sur vos cartes SR, et vous pouvez pas attendre 2-3 bannières de plus (Nice Nature wits / Riko & Rice)
+- vous n'avez pas Sweep Tosho speed SR, ou vous l'avez à faible LB
+- vous avez de quoi faire au moins **1 spark** (hors de question de faire quelques multi vite fait et finir avec des Winning Ticket stam SSR et aucune Tosho speed SSR 💀)
+- for some reason, vous n'avez aucune intention de pull sur :
+    - Maruzensky alt
+    - La bannière Riko Kashimoto pal SSR / Rice Shower power SSR
+    - La bannière Nice Nature wits SSR
+
+À _toutes ces conditions_, je pense qu'on peut dire que c'est pertinent de pull pour Sweep Tosho speed SSR, car -il faut dire les choses comme elles sont- c'est un très bon **stat stick** pour monter speed.
+
+C'est aussi une très bonne bannière pour _**reroll**_. Donc ok pour les débutant·e·s.
 
 ::::
