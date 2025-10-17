@@ -3,7 +3,7 @@ title: Champion's Meeting - Cancer Cup 12 Octobre 2025 - NHK Mile Cup
 menuTitle: Cancer cup - 12/10/25
 outline: [2, 3]
 description: Recommandations (abrégées) pour le Champion's Meeting - Cancer Cup ;  Tokyo 1600, sens anti-horaire, good (!= firm), sunny
-order: 1
+order: 3
 ---
 
 # Préparation au Champion's Meeting #03 du 12 Octobre 2025 - NHK Miles Cup (Tokyo 1600m)

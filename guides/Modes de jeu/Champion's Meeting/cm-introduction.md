@@ -35,9 +35,9 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ [Champion's Meeting Cancer Cup - **12 Octobre** - Tokyo 1600 turf (NHK Mile Cup)](./cm-cancer-cup-2025.md)
+⏩ Champion's Meeting Leo Cup - 4 Nov 2025 - Hanshin 2200m turf (Takarazuka Kinen) - Recommandations à venir
 
-> À suivre : Champion's Meeting - 4 Nov 2025 - Hanshin 2200m turf (Leo Cup)
+> À suivre : Champion's Meeting Virgo Cup - courant Novembre - Hanshin 1600m turf (Oka Sho)
 > *(recommandations à venir)*
 
 :::
