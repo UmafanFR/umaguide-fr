@@ -21,7 +21,7 @@ Dans Umamusume, il existe 2 types d'évènements de PvP compétitif : **Champion
 
 Environ **une fois toutes les 3 semaines**, un Champion's Meeting à lieu pour faire s'affronter les joueur·euse·s sur des courses aux conditions intégralement connues, et auxquelles vous participerez par **équipe de 3 umamusume** de votre choix. Vous trouverez ici des recommandations pour préparer vos umamusume pour les évènements de PvP compétitif (quand ce sera prêt :9), ainsi qu'une explication pas-à-pas du fonctionnement d'un Champion's Meeting.
 
-Les "archives" des précédentes recommandations (quand il y en aura) seront dispo à gauche, dans la barre de navigation.
+Les "archives" des précédentes recommandations seront dispo à gauche, dans la barre de navigation.
 
 ::: tip Disclaimer habituel
 
@@ -35,9 +35,9 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ [Champion's Meeting Cancer Cup - **12 Octobre** - Tokyo 1600 turf (NHK Mile Cup)](./cm-cancer-cup-2025.md)
+⏩ Champion's Meeting Leo Cup - 4 Nov 2025 - Hanshin 2200m turf (Takarazuka Kinen) - Recommandations à venir
 
-> À suivre : Champion's Meeting - 4 Nov 2025 - Hanshin 2200m turf (Leo Cup)
+> À suivre : Champion's Meeting Virgo Cup - courant Novembre - Hanshin 1600m turf (Oka Sho)
 > *(recommandations à venir)*
 
 :::
