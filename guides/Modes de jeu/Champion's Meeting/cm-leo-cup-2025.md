@@ -8,9 +8,9 @@ order: 1
 
 # Préparation au Champion's Meeting #04 du 3 novembre 2025 - Takarazuka Kinen (Hanshin 2200m)
 
-Inscriptions et choix de league à partir de mercredi **31 Octobre 2025**
+Inscriptions et choix de league à partir de vendredi **31 Octobre 2025**
 
-Début de l'évènement **dimanche 3 novembre 2025**
+Début de l'évènement **lundi 3 novembre 2025**
 
 [![Visualisation de la course complète, comme affiché sur Gametora.com](/public/assets/Comp-PvP/CM04/CM04_Gametora_Race_Full.png)](/assets/Comp-PvP/CM04/CM04_Gametora_Race_Full.png)
 
@@ -72,6 +72,20 @@ Vous n'êtes pas obligés de tout connaître par coeur. C'est surtout pour que j
 
 ## Liens utiles
 
+::: warning ⚠️ Pour aller en Open League
+
+Si vous comptez aller en **Open League** -limité aux uma **rank B** et moins-, vous allez vouloir vérifier que votre build ne dépasse pas le rank B. Pour ça, simulez le rank de votre uma avant l'achat de vos skills, afin de ne pas dépasser accidentellement.
+
+Vous pouvez utiliser **[🇬🇧 ce calculateur](https://docs.google.com/spreadsheets/d/1AAZCVDMiCozDNKte-5JYSm7SWUeVJ0o87i1iDY1bnWM/edit?gid=2001243391#gid=2001243391)** ou alors **[🇯🇵 Umsatei.com](https://umsatei.com/)**
+
+Pour connaître les modalités et récompenses d'Open League en Champion's Meeting, je vous invite à zieuter le [post expliquant le principe du Champion's Meeting](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction.md).
+
+:::
+
+Voici la plupart des liens utiles ou pertinents pour creuser un peu ce Champion's Meeting.
+
+::: details Je pense pas que grand monde les consultes anyways :currenDevilish:
+
 - 🇬🇧 [Annonce officielle](https://x.com/umamusume_eng/status/1973206338265330077) du Champion's Meeting.
 
 - 🇫🇷 Récapitulatif en français du [fonctionnement de Champion's Meeting](https://umaguide.fr/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction)
@@ -98,35 +112,36 @@ Vous n'êtes pas obligés de tout connaître par coeur. C'est surtout pour que j
 
 - 🇬🇧 Explications très détaillées des mécaniques du jeu : [Race Mechanics](https://docs.google.com/document/d/15VzW9W2tXBBTibBRbZ8IVpW6HaMX8H0RP03kq6Az7Xg/edit?tab=t.0#heading=h.xzevcl4r2e9t)
 
+:::
 
 Ce guide est construit à partir de ces ressources et mes propres connaissances, n’hésitez pas à double check les infos et recommandations du guide.
 
 ## RÉSUMÉ très rapide
 
-L’essentiel pour s’en sortir sur ce Champion’s Meeting.
+Je réfléchis à la manière correcte de faire évoluer ces guides de CM pour m'accomoder tu rythme effreiné. 
+
+::: details L’essentiel pour s’en sortir sur ce Champion’s Meeting.
 
 La course est similaire en de nombreux points au Nippon Derby -Taurus Cup-, si vous avez la giga flemme vous pouvez _envisager_ de réutiliser vos aces de la Taurus. Sinon, en 2 mots, il vous faut : 
 - **participer**, même si vous pensez que vous allez perdre. Faites le quand même, pour les récompenses et pour apprendre.
-- **900** stamina effective au _minimum_. Le refdoc recommande des valeurs minimum bien plus élevées, et j'ignore pourquoi. Mes essais basés sur le umalator (qui n'est pas le vrai jeu) indique 900 stam pour les Pace (qui ont le moins de HP).
-- des **gold recovery de secours** ; il y aura assurément de très nombreuses debuffeuses de HP, vous survivrez très rarement avec seulement 900 stam.
+- **900** stamina effective au _minimum_. Le refdoc recommande des valeurs minimum bien plus élevées, et j'ignore pourquoi. Mes essais basés sur le [umalator](https://alpha123.github.io/uma-tools/umalator-global/) (qui n'est pas le vrai jeu) indiquent 900 stam pour les Pace (qui ont le moins de HP). Les autres stratégie peuvent avoir un petit peu moins.
+- des **gold recovery de secours** ; il y aura assurément de très nombreuses debuffeuses de HP, vous survivrez très rarement avec seulement 900 stam. Prenez au moins **1 gold recovery supplémentaire**.
 - Les accels "habituelles", car elles marchent bien sur cette course. Liste non exhaustive :
     - **Red Shift** (Maruzensky) pour **tout le monde**
     - **Angling and Scheming** (Seiun Sky) pour les **Front**
-    - **Victory Shot** (Taiki Shuttle) pour **tout le monde** SAUF les front.
+    - **Shooting for Victory!** (Taiki Shuttle) pour **tout le monde** SAUF les front.
     - **Let's Pump Some Iron** (Mejiro Ryan) pour les backline.
 - En fonction de votre stratégie :
-    - Front Runner → accel **Groundwork** ainsi que 3 skills greens (il faut spécifiquement les 2 : groundwork ET les 3 greens) + Focus/Concentration si possible + accel unique **Angling and Scheming** + accel unique **Red Shift** et éventuellement accel **Final Push / Unrestrained**.
-    - Pace → accel unique **Red Shift** + **Victory Shot** + des skills de vitesse mid-race pour ne pas vous faire distancer par les Front.
-    - Backline → accel unique **Red Shift** + **Victory Shot** + **Let’s Pump Some Iron**
-- Aptitude S Distance.
-
-Bonne chance !
-
-::: warning Pas de "en un peu plus de mots"
-
-Je réfléchis à la manière correcte de faire évoluer ces guides de CM pour m'accoder tu rythme effreiné, et pour le moment ça veut dire réduction pure et simple de leur longueur.
+    - Front Runner → accel **Groundwork** ainsi que 3 skills greens (il faut les 2 : groundwork ET les 3 greens) + Focus/Concentration si possible + accel unique **Angling and Scheming** + accel unique **Red Shift** et éventuellement accel **Final Push / Unrestrained**.
+    - Pace → accel unique **Red Shift** + **Shooting for Victory!** + des skills de vitesse mid-race pour ne pas vous faire distancer par les Front.
+    - Backline → accel unique **Red Shift** + **Shooting for Victory!** + **Let’s Pump Some Iron**
+- Aptitude S medium .
 
 :::
+
+On s'attend à ce que les Front soient de nouveau très présentes et fortes (ce sera le cas très souvent en CM à partir de maintenant). **Seiun Sky** et **Maruzensky alt** vous poseront fortement problème de nouveau.
+
+Bonne chance !
 
 ## La course - Takarazuka Kinen
 
@@ -188,50 +203,182 @@ En réalité, il semble que la consommation de HP **baisse** pendant une côte (
 
 Enfilez vos chaussures, on va parcourir les principales étapes de la course, pour la découvrir, du point de vue des coureuses.
 
-#### Early-race : 0m - 367m
+::: details Early-race : 0m - 367m
 
-La course commence sur une **ligne droite** quelconque, d’une longueur de XXX. Rien de notable.
+La course commence sur une **ligne droite** d’une longueur de 520m, qui se poursuivra en mid-race. Il y a une courte côte en fin de cette ligne droite.
 
-#### Mid-race : 367m - 1467m
+* Les skills de ligne droite s'activent sur ce tronçon.
+* Les Late peuvent utiliser le skill **1,500,000 CC** pour gagner du terrain sur la côte.
+* La côte arrive **beaucoup trop TARD** pour utiliser l'accel Highlander.
+* Si la gold recovery Breath of Fresh s'active après 12 secondes en early-race, son effet sera complet.
 
-Stuff
+:::
 
-#### Late-race : 1467m - 2200m
+::: details Mid-race : 367m - 1467m
 
-Stuff
+La ligne droite se poursuit en début de mid-race, et le terrain de redevient très vite plat. On arrive ensuite sur le 1e corner, puis le 2e corner après quoi Position Keep prend fin immédiatement. S'en suit une ligne droite de 350m, côté opposé aux gradins, puis le 3e corner, à la fin duquel commence le late-race.
 
+* Les skills de ligne droite ou de corners peuvent s'activer sur ce tronçon.
+* La plupart des skills des corner s'activeront dans le 1e corner.
+* **Slipstream**, **Playtime's Over** et **Straightaway adept / Beeline Burst** peuvent être prêts pour une 2e activation en late-race si leur première activation tombe -au plus tard- dans le 1e corner. **Ramp Up / It's On** et **Corner Adept / Professor of Curvature** ne peuvent PAS s'activer 2 fois sur cette course, car leur cooldown sera trop long. 
+* Le skill **Triple 7s** (≠ Lucky Seven) s'active au milieu du 3e corner, environ 2 secondes avant le début du late-race.
+* Le skill unique de Gold Ship a une solide chance de s'activer en ligne droite, ce qui est propice aux dépassements
 
+:::
 
+::: details Late-race : 1467m - 2200m
 
+Le late-race commence sur la fin du 3e corner, et se poursuit 4 secondes plus tard sur le final corner. Le final straight est long de 350m.
 
+* **Angling & Scheming** s'active instantanément en début de late-race, sur le 3e corner.
+* Les skills de final corner s'activent se tronçon. Les accel de final corner qui s'activent très tôt sur le final corner seront efficace, et vous feront gagner presque 2 longueurs. 
+* Les skills de vitesse de final corner qui s'activent avant la moitié du final corner seront partiellement gachés, car en pleine accel.
+* Il y'a une chance faible (mais non nulle) que **Nimble Navigator / No Stopping Me** s'active et sois utile.
+* Les skills de final straight s'activent normalement.
 
+:::
 
-⏬ ---------- À FIX ------------ ⏬
+La probabilité que la gold recovery **Breath of Fresh Air** s'active à un moment où elle est pleinement utile (+5,5% HP récupéré) est de **54%**. C'est la probabilité qu'elle s'active après consommation d'environ 5,5% de HP (premiers 210m, soit après 12s de course) et avant le début du late-race.
+
+## Rappel de circonstances : le CM est un event compétitif
+
+:::: details Si c’est votre premier CM, n’oubliez pas ceci
+    
+Champion’s Meeting est un évènement de **PvP compétitif**.
+
+*C’est très différent du Team Trials*, qui est un event de PvP non compétitif, et ça n’a absolument rien à voir avec les courses en carrière. Vous allez gagner des fois, et vous 
+allez perdre.
+
+Umamusume est un *gacha game* : qui est-ce qui gagne dans les gacha game de PvP ? **Les gens qui dépensent beaucoup d’argent** (et financent donc le jeu pour nous autre f2p/low-spenders 😌). Si vous n’êtes pas une de ces personnes, vous êtes automatiquement **désavantagés**. Et à plus forte raison parce que **le jeu est encore à ses débuts**, et que vous n’avez pas des années d’accumulation de cartes support pour compenser. C’est le 4e CM sur la globale, et **les gens qui ont une MLB 💳 seront meilleurs que vous** la majorité du temps, et vous perdrez contre eux, et c’est **normal**. C'est même *le résultat attendu*.
+
+Je vous dis pas ça pour vous décourager et vous dire que ça n'en vaut pas la peine. Je veux juste que **vous gardiez vos attentes in check** : si vous vous attendez à avoir 50% de victoires, vous risquez d’être déçu. 50% de win c’est déjà beaucoup quand on débute. Pour être déçu il faut avoir des attentes. **Si c'est votre premier CM, n'ayez pas de grandes attentes**. Vous pourrez contester les whales quand vous aurez joué longtemps sur la globale et que vous aurez une grande variété de cartes support. Si vous avez découvert le jeu avec la globale (donc si vous êtes pas un·e vétéran·e de la JP) et que vous n’avez pas fait de lourdes dépenses pour être stacked avec les grosses cartes, alors vous  p't'être **perdre plus souvent** que vous n’allez gagner. **C’est normal, et il faut pas vous en inquiéter.**
+
+Les gens les plus durs à battre sont grosso merdo :
+
+1. Les vétérans de la JP, avec une MLB 💳
+2. Les vétarans de la JP, f2p ou low spender
+3. Les débutants de la globale, (peu importe leur niveau) avec une MLB 💳
+4. Les débutants de la globale, qui prennent la peine d'apprendre le jeu
+5. Les vétarans jouant leur uma fav qui n'est pas bonne pour la course (it's
+me, I'm "Les vétérans jouant leur uma fav qui n'est pas bonne pour la
+course" mdrrrr)
+6. Les débutants de la globale, qui jouent casuellement
+
+Grosso merdo dans cet ordre. Voyez dans quelle catégorie vous vous situez, et **calez vos attentes en fonction de ça**, autrement le CM risque d'être brutal. Et dans tous les cas, n'oubliez pas que **c’est le hasard qui décidé**. Votre préparation au CM sert juste à augmenter les chances que le hasard vous soit favorable.
+
+Si vous n'arrivez pas à faire des uma fortes de rank A ou mieux, envisagez sérieusement d'aller en **Open League** instead. Les récompenses seront moins grandes, mais vous gagnerez 
+p't'être plus souvent. En Open League vous pouvez inscrire des uma dont le rank ne **dépasse pas B**. Si votre uma est rank B, c'est OK. **Si vous voulez jouer des uma B+ et mieux, allez en *Graded League***. Mais attention, en Graded League il y aura des uma A, A+, S et p't'être S+ (sans doute pas). **Votre B+ elle va perdre très souvent en Graded League**. Donc faites plutôt une bonne B et allez en **Open League**. Utilisez un calculateur -comme **[🇯🇵 Umsatei](https://umsatei.com/)** ou **[🇬🇧 ce calculateur](https://docs.google.com/spreadsheets/d/1AAZCVDMiCozDNKte-5JYSm7SWUeVJ0o87i1iDY1bnWM/edit?gid=2001243391#gid=2001243391)**- pour vous assurer que vous ne **dépassez pas le rank B**.
+
+Pensez à régulièrement **regarder les courses**. Hyper important si c'est votre premier CM. Regardez comment votre uma se positionne pendant Position Keep. Regardez quand est-ce qu'elle gagne du terrain ou se fait rattraper. Regardez l'influence de l'activation des skills de vitesse dans la 2e moitié du mid-race. Regardez les debuffs qui pop. Regardez la phase d'accélération. Regardez la uma qui a pris la tête, et voyez si vous arrivez à voir combien de fois elle a eu l'effet "Accel Up". Regardez l'activation du skill unique de votre uma, et de votre adversaire.
+
+Y'a plein de choses intéressantes à observer en regardant des vraies courses, faites avec des vraies uma sérieuses, build par des gens qui savent build, dans un contexte de compétition. Peut-être que vous pensez que ces courses seront comme des courses de carrière ou de Team Trials, auquel cas vous vous trompez. **La qualité des coureuses et leur nombre très réduit change très fortement la philosophie de la course**.
+
+Enfin, comme sur tous les Champion's Meeting, votre objectif le plus important c'est **atteindre la finale**. C'est le plus important, car c'est en **finale** (peu importe votre résultat) que **les récompenses seront juteuses** ! Vous allez p’t’être même la gagner, ce qui serai vraiment hyper réjouissant (il y a déjà des tas de débutant·e·s qui ont gagné en Finale de group A, et chui hyper content de voir ça). Mais gardez en tête qu’en finale vous affrontez 2 autres gens qui ont aussi très envie de gagner.
+
+Il y aura des tas et des tas d’autres CM, et essuyer des défaites sur votre *premier CM* c’est le résultat normal.
+    
+::::
+
+## Préparation au Champion'S Meeting
 
 Le plus important : même si vous pensez que vous allez perdre 100% de vos courses (très très peu probable), inscrivez vous quand même pour apprendre et pour les récompenses. **Votre objectif c'est d'atteindre la finale**. La gagner c'est du bonus.
 
 Pour le reste, voici mes observations et recommandations. :
 
-- ~~Ne vous fiez pas aux bruits de couloir ; il se trouve que~~ **c’est encore et toujours la RNG qui décide**, et la RNG a toujours un caractère de merde. Terrible.
-- Rappel habituel : si jamais c’est votre **premier Champion’s Meeting** *c’est PAS GRAVE* si vous vous y prenez pas hyper bien et que vous vous retrouvez à perdre un peu trop. Si c’est votre premier Champion’s Meeting, c’est aussi la première fois que vous allez faire des courses contre des gens qui build des **uma sérieuses**, et qui -pour certains- **savent build**, donc **regardez les courses**. À la fois des courses que vous **pensez pouvoir gagner**, et des courses que vous êtes quasi **certain·e·s de perdre**. Vous comprendrez pas tout, mais ce qui importe c'est que "les vraies courses" fassent partie de votre mémoire. Vous les comprendrez en temps et en heure (ça prend du temps).
-- Retour en distance medium, et qui dit distance medium dit **DEBUFFEUSES DE HP** (blamez les vétérans et leurs 400 vidéos YT sur les debuffeuses là 💀). Et qui dit debuffs de HP, dit abondance de stam et recovery pour être parfaitement safe. Enfin c'est vous qui voyez, vous pouvez la jouer risqué, je juge pas. Mais ce coup ci, en plus de Nice Nature et ses 2 gold debuffs de HP, il y a maintenant aussi **Mayano Top Gun alt** qui a -elle aussi- le gold debuff de HP **Mistyfying Murmur**. Vous êtes donc à risque de perdre davantage de HP si vous croisez les deux.
-- Cependant c'est aussi parfaitement valide de jouer plusieurs aces et de ne pas faire de debuffeuses, et c'est toujours ce que j'en courage. Pas dit que ce soit le mieux cela dit ; on le sait que les debuffs de HP peuvent être dévastateurs sur une uma peu préparée.
-- **Sauf si une Pace**. Désolé les Pace n’ont rien pour elles ici, et vous allez plutôt vouloir jouer votre Pace comme une autre stratégi, ou alors inhaler _beaucoup de copium_. Rice Shower fans in shambles (~~it's me, I'm Rice Shower fans~~)
-- Avec l’arrivée de **Seiun Sky** -une uma dont le skill unique est *meta defining*-, pour la plupart d’entres vous ce sera le **tout premier CM où vous affronterez des _vraies Front Runner_**. Sous-entedu, des Front Runner qui sont une vraie **menace**. Je pense que ce sera intéressant à observer, et je vous invite à continuer de regarder les courses quand vous affrontez des Front. Pas dit qu’elles seront forcément de particulièrement grande qualité, mais ce sera la première fois que vous devrez les prendre très au sérieux : les Front sont les uma les plus dures à build, mais aussi les uma **les plus dures à contester quand elles sont _bien build_**.
-- Comme beaucoup de uma ont une solide viabilité sur ce CM, on ne s’attend pas à croiser beaucoup de debuffeuses. Et si vous en croisez, ce seront généralement des debuffeuses de vitesse plutôt que de HP, car il est **facile d’avoir et dépasser les HP requis**. Vous ne pouvez pas faire grand chose contre les debuffs de vitesse, donc ne vous en préoccupez juste pas.
-- Il y a aure 2-3 gens qui penseront que "ah mais si personne n'a beaucoup de HP ça veut dire que je peux mettre KO 2-3 uma avec une Nice Nature", et si vous êtes trop ric-rac niveau HP, ces gens là auront **raison**. Svp ne donnez pas raison aux gens qui pensent que les debuffs de HP en mile sont pertinents :currenDevilish:
-- Pour la composition de votre team, c’est un CM où **vous pouvez raisonnablement faire 3 aces** et avoir des solides chances de victoire avec vos 3 aces. Certaines uma de soutien sont possibles, mais for the most part vous ne devriez pas en avoir beaucoup besoin. Pas besoin de s’embêter avec une uma "tank", de type increvable, car là encore le besoin en HP n’est pas très grand et les debuffeuses de HP seront sans doute minoritaires.
-- D’après le Umalator (qui est plus ou moins fiable, rappelons le), les aptitudes S Mile et S Turf sont à peu près aussi utiles les unes que les autres. C’est parce que la course est **courte** ; après tout, courir très vite n’est vraiment utile que quand on peut courir très vite longtemps. Ne pas avoir besoin de S Mile spécifiquement devrait grandement vous faciliter le legacy farm, et vous pourrez vous contenter d’avoir Turf S sans souci aussi. 
-- Ironiquement, **Open League** risque d’être **plus difficile** que les 2 précédents CMs. Sur la Taurus Cup et -surtout- sur la Gemini Cup, la condition de victoire suffisante c’était de **survivre à la course**, tout bêtement car les débutants ou casus qui vont en Open n’étaient absolument pas préparés pour les HP absurdes requis. Là, ce sera pas du tout le cas. Si vous faites du B+, alorq cette fois **c’est pas dit** que descendre à B pour aller en Open League soit *the play* (mais c'est sans doute toujours le cas). Quoi qu’il en soit, **vérifiez toujours le rank de votre build sur [umsatei.com](http://umsatei.com) avant de la valider.**
-- **NIVEAU STATS**. Le plus important c’est toujours d’avoir assez de HP, mais ici la cible est faible ; visez 750 stamina effective pour être safe. Le besoin réel est sans doute plutôt 650 stam effective, mais les simulateurs ne sont pas forcément hyper clairs là-dessus, et vous êtes pas à l'abris de **Jean-Michel Debuffeur**. Par sécurité, je vous invite à avoir une légère marge. Visez bien évidemment 1200 speed si vous pouvez, et après ça vous pouvez décider de **monter power** ou **monter wits**. Davantage de power rendra votre uma plus explosive (meilleure accel), davantage de wits la rendre plus régulière (meilleur positionnement et activation de skills). **Si votre ace est _Front_**, vous voudrez sans doute davantage de **wits** pour **prendre et conserver la tête**, et **activer vos nombreux skills essentiels** (Groundwork, Angling, et d’autres).
-- Comme d’habitude, une gold recovery compte pour environ 200 stamina effective. Les bonnes gold recovery sont **les mêmes que d’habitude**, Swinging Maestro et les autres gold recovery qui s’activent en mid-race (Gourmand, Race Planner, Go-Home).
-- La gold recovery **Breath of Fresh Air** a vaguement **40% chance** d’être pleinement efficace. Si vous pouvez l’éviter, évitez la.
-- **NIVEAU DECK**. Vous voulez atteindre 1200 speed, donc c’est 2 ou 3 cartes speed. Avec du stamina bonus vous pouvez obtenir la stam requise avec 2 ou 3 cartes power. Vous pouvez aussi envisager de jouer avec 1 ou 2 cartes stam, et compléter avec wits. Vous avez des options, n’hésitez pas à expérimenter. **Si vous pouvez éviter les cartes stam, c’est bien**. N’hésitez pas à voir si vous pouvez obtenir votre **stamina via des legacy**. N’hésitez surtout pas à zieuter [chronogenesis.net](https://chronogenesis.net/friend_search), [uma.moe](http://uma.moe) et [umapureDB](https://uma-global.pure-db.com/#/search).
-- Avec le relativement faible besoin en HP pour la course, c'est VIABLE de faire une guts build instead ; vous allez alors vouloir monter guts aussi haut que possible, avec genre 400 stam. Ca vous permettra de **monter passivement speed et power** à une bonne valeur, et compléter avec une carte speed. C'est particulièrement intéressant pour les backlines, et surtout les Late, car les **2 accel gold backline** (mile et Late) **sont sur des SSR guts**. Je dis pas que c'est bien. Je dis juste que c'est *possible*. D'après Umalator, une Pace Chaser (= stratégie qui a le moins de HP) survit à la course avec **350 stamina et 1000 guts**. À vous de voir si vous voulez tenter ça.
-- Le **late-race** commence techniquement sur les **derniers mètres du final corner**, et se poursuit presque immédiatement sur le **final straight**. Ça veut que vous pouvez utiliser une **accel de corner ET une accel de straight**, et les deux peuvent marcher. Ironiquement, les accel de Maruzensky et Taiki Shuttle ne marchent **PAS BIEN** sur cette course, car elles s’activent _beaucoup trop **tôt**_ (les backlines peuvent luck un passage en 5e position au bon moment pour les utiliser, mais ce sera unlikely). **L’accel de Seiun Sky est idéale**, et absolument _**TOUTES**_ les Front Runner la voudront. L’accel de **Mejiro Ryan** est techniquement valide aussi pour les backline, mais **la fenêtre d’activation est absolument minuscule**. Les End peuvent aussi utiliser **Straightaway Spurt** en plus de l’accel de corner, mais l’efficacité ne sera pas immense car la course est courte. Bien entendu, ça veut dire que **Narita Taishin** sera de nouveau une bonne option à jouer grâce à son **Encroaching Shadow**.
-- Parce que le late-race commence en fin de final corner/début de final straight, les **skills de vitesse en final** corner ont une chance de carry over, SI ils s’activent dans le **dernier tiers du final corner**. En cas de carry over réussi, le gain sera **entre 1 et 2 longueurs**, selon la précision du timing pour un skill **gold**, et jusqu'à 1 longueur pour un skill **white**.
-    - Pour reconnaître les skills qui ont une chance non-nulle de carry over, voyez si leur condition inclus **is_finalcorner==1** (final corner ou plus tard) ET **corner!=0** (dans un corner) _**OU**_ **absence** de la condition "**corner**". Attention, ils ne sont pas tous garantis d’avoir une chance (exemple, Mejiro McQueen).
-    - Aucun skill de ligne droite ne peut carry over.
-- Les skills de **vitesse** s’activant tôt dans **final straight** ont une très grande chance de **ne rien faire**. Par exemple, l’unique de **Symboli Rudolf ou Rice Shower**. Pas dit qu’ils soient forcément _mauvais_, mais la chance n’est pas 0. Certains -comme l’unique de Rice- peuvent avoir une **activation retardée** en changeant de stratégie, pour que le skill soit utile.
-- Les **greens speed** qui s’activent dans cette course sont **Left Handed** et **Summer Runner**. Les autres greens qui s’activent sont **Standard Distance**, **Tokyo Racecourse**, **Wet Condition** et **Sunny Days**. Si vous entrainez une **Front Runner**, il vous faut le skill **Groundwork**, et vous pouvez utiliser ces greens (ainsi que **Focus/Concentration**) pour l’activer.
-- Les skills avec cooldown qui s’activent dans les **20 premières secondes** de la course peuvent se réactiver une 2e fois sur le final straight. C’est **Slipstream, Playtime’s Over et Straightaway adept / Beeline Burst**.
+⏩ ~~Ne vous fiez pas aux bruits de couloir ; il se trouve que~~ **c’est encore et toujours la RNG qui décide**, et la RNG a toujours un caractère de merde. Terrible.
+
+⏩ Retour en distance medium, et qui dit distance medium dit **DEBUFFEUSES DE HP** (blamez les vétérans et leurs 400 vidéos YT sur les debuffeuses là 💀). Et qui dit debuffs de HP, dit abondance de stam et recovery pour être parfaitement safe. Enfin c'est vous qui voyez, vous pouvez la jouer risqué, je juge pas. Mais ce coup ci, en plus de **Nice Nature** et ses 2 gold debuffs de HP, il y a maintenant aussi **Mayano Top Gun alt** qui a -elle aussi- le gold debuff de HP **Mistyfying Murmur**. Vous êtes donc à risque de perdre davantage de HP si vous croisez les deux.
+
+Si vous avez la terrible malchance d'affronter une Nice Nature et une Mayano alt parfaitement équipées en debuffs de HP, et qu'elles ont la chance de placer 100% de leurs debuff sur vous, alors vous allez **perdre 14% de HP** en vous prenant 100% de leur desbuffs de HP (8% par Nature, 6% par Mayano). Si vous affrontez 2 joueur·euse·s avec des Nice Nature et Mayano alt parfaites, alors c'est x2, et vous êtes à risque de perdre 28% de HP. Pour rappel, une gold recovery qui s'active bien, c'est **+5,5% HP**.
+
+Je vous laisse décider des risques que vous acceptez de perdre :currenDevilish:
+
+⏩ Cependant c'est aussi parfaitement valide de jouer plusieurs aces et de ne pas faire de debuffeuses, et c'est toujours ce que j'en courage. Pas dit que ce soit le mieux cela dit ; on le sait que les debuffs de HP peuvent être dévastateurs sur une uma peu préparée. Si vous jouez plusieurs aces, le même conseil que pour la Taurus s'applique : envisagez d'avoir au moins une de vos aces qui soit "tank", donc hyper stacked en stamina et gold recovery, pour pouvoir poursuivre la course si votre/vos autre(s) ace(s) tombent KO. **Agnes Tachyon** est toute indiquée, mais c'est pas la seule.
+
+⏩ **Niveau stats !** 
+
+* Je vous invite à la **prudence**. Voyez large si c'est raisonnablement possible. Les Jean-Michel Youtube ont largement fait passer le mot ; la commu est au courant que Mayano alt peut être utilisée en combinaison de Nice Nature pour vous mettre des batons dans les roues. Donc **vous pouvez attendre à croiser des Jean-Michel Debuff fréquemment**.
+* Je vous recommande **1200 stamina effective**. Comme d'hab, comptez 200 stam par gold recovery, donc 1000 stamina et 1 gold recovery, et des greens de stamina si raisonnablement possible. Ça me paraît un minimum raisonnable. La 2e gold recovery pourrait être pénible à obtenir, donc c'est pas dit que vous puissiez l'avoir, mais ce sera une sécurité appréciable. N'oubliez pas que plus vous avez de gold recovery, plus vous dépendez de la RNG pour survivre !
+* Visez 1200 speed si possible bien évidemment.
+* On a davantage d'options d'accel que pour la Taurus, donc vous pouvez éventuellement (éventuellement) faire une concession sur power. Attention, ça vous fera perdre un peu de terrain en mid-race. 600-700 power sera déjà un bon début.
+* Guts va monter à mesure que vous cliquez sur stam et c'est tout :currenDevilish:
+* Niveau wits, une carence sera handicapante pour votre Front Runner (activation de vos nombreux skills importants + prise et conservation du lead), donc vous allez vouloir essayer de viser 500+ voire 600. Ce sont des valeurs arbitraire, si vous pouvez pas vous pouvez pas. C'est difficile, il faut le savoir. Faites aux mieux ! Les autres stratégies peuvent viser 400 wits comme d'habitude, ce sera déjà un bon début !
+
+⏩ Je pense que c'est le premier CM où **toutes les stratégies ont au moins 2 sources d'accel**. Les Front en ont le moins mais l'une d'elle est parfaite, et tout le monde a de quoi faire. Voici une liste -que j'espère exhaustive- des **sources d'accel pertinentes** sur ce CM, _vaguement_ par ordre de fiabilité décroissante.
+
+**Skill** | **Source** | **Pour qui ?** | **Timing ?** | **Note**
+------|--------|------------|-----|-----
+Angling & Scheming | Seiun Sky (unique) | Front Runner | Immédiat | 1e only
+Let's Pump Some Iron | Mejiro Ryan (unique) | Late, End | Immédiat | 6e only
+**Red Shift/LP1211-M** | **Maruzensky (unique)** | **Tout le monde** | **3-4 secs en retard** | Maru c'est un peu la maman de tout le monde :currenDevilish:
+Shooting for Victory! | Taiki Shuttle (unique) | Pace, Late, End | 3-4 secs en retard | 
+Condor's Fury | El Condor Pasa alt (unique) | Late, End (+ Pace si copium) | _Hasardeux™_ | Dépassement sur le final corner, entre 4e et 7e
+Flowery☆Maneuver | Mayano Top Gun alt (unique) | Late, End | _Hasardeux™_ | Dépassement sur le final corner, entre 5e et 7e
+Slick Surge / On Your Left | Winning Ticket guts SSR | Late | Aléatoire | Winning Ticket guts 🙃
+Final Push / Unrestrained | Silence Suzuka speed SSR (gold) | Front Runner | Aléatoire | 1e only
+Nimble Navigator / No Stopping Me | Yukino Bijin wits SSR (gold) | Pace, Late, End | Très aléatoire | High roll
+
+Encore une course où tout le monde veut l'accel de Maruzensky 🌟
+
+⏩ Pour les Front, vous voulez évidemment le sacro-saint **Groundwork**, en guise d'accel early-race, pour prendre le lead. Comme toujours, la Front en 1e position est à peu près la seule qui a une chance de gagner ; vous voulez donc sécuriser cette position et la conserver. Ça commence en early-race. Vous pouvez utiliser **Focus** / **Concentration** pour l'activer (attention, c'est un wit check supplémentaire), et sinon parmi 3 greens les plus "facile" à avoir il y a Non-Standard Distance (Mayano stam SR), Firm Conditions (Creek stam SSR) et Front Runner Savy (Suzuka speed SSR). N'hésitez pas à [checker sur Gametora.com les greens qui sont à votre portée](https://gametora.com/umamusume/skills).
+
+⏩ On est en medium, donc **essayez d'avoir l'aptitude S medium**. C'est important. D'après Umalator, ça représente un gain de terrain d'**environ 1,3 longueurs (3m)**, donc vous allez être en difficulté contre les uma qui l'ont si vous ne l'avez pas. L'aptitude S turf est ok aussi, mais environ 2 fois moins puissante, et comme d'habitude, S stratégie ne fait presque rien.
+
+⏩ Je ne sais pas quoi vous recommander pour Open League, à part **assurer votre survie**. Quelle que soit la league, c'est toujours la grande priorité. Au-delà de ça, je ne sais pas quoi vous recommander, désolé. **Pensez surtout à TOUJOURS (toujours) vérifier le rank de votre build AVANT de choisir vos skills à acheter**. Vous pouvez utiliser **[🇬🇧 ce calculateur](https://docs.google.com/spreadsheets/d/1AAZCVDMiCozDNKte-5JYSm7SWUeVJ0o87i1iDY1bnWM/edit?gid=2001243391#gid=2001243391)** ou alors **[🇯🇵 Umsatei.com](https://umsatei.com/)**.
+
+⏩ Voici la liste des gold recovery pertinentes et **disponibles sur des cartes support** :
+
+| **Gold recovery** | **Source** | **Pour qui** | **Note**
+| ----------------- | ---------- | ------------ | -------
+| Swinging Maestro  | Super Creek stam SSR | Tout le monde | No brainer |
+| Breath of Fresh Air  | Vodka power SSR | Tout le monde | 54% chance d'être top |
+| Gourmand | Special Week speed SSR | Pace |
+| Race Planner | Daiwa Scarlet power SSR | Pace |
+| Restless (Front) | Ines Fujin guts SSR | Front | Parfaitement fiable. P't'être pertinent si vous allez en Open League....? 👀 |
+
+Votre uma a peut-être d'autres gold recovery fiables non listées ici ! Pensez à vérifier si vous pouvez les prendre 👍🏾
+
+⏩ Niveau deck, n'hésitez pas à expérimenter, en commençant part 3 speed 3 stamina. Si vous faites une Front, vous voudrez une legacy wits ou une carte wits ; avec une carte wits ça donne 3 speed 2 stamina 1 wits. Vous pouvez tenter 1 stamina si votre front a une gold recovery, et que vous utilisez Super Creek stam MLB, ce qui fait 3 speed 1 stam 1 wits + un slot pour Tazuna (Concentration) ou une 4e carte wits. Les autres stratégies sont moins contraintes, et peuvent faire 4 speed 2 stamina par exemple. Vous pouvez expérimenter avec des cartes power, en particulier si elles vous donnent des bons skills (Nishino Flower pow SR pour les Pace, Mihono Bourbon pow SR pour les Front) ou des gold recovery (Daiwa/Vodka power SSR). Si vous voulez copium No Stopping Me (gold de Nimble Navigator), c'est forcément **Yukino bijin wits SSR**. 
+
+⏩ N’hésitez pas à voir si vous pouvez obtenir votre **wits ou stamina via des legacy**. N’hésitez surtout pas à zieuter [chronogenesis.net](https://chronogenesis.net/friend_search), [uma.moe](http://uma.moe) et [umapureDB](https://uma-global.pure-db.com/#/search).
+
+⏩ Les skills avec cooldown qui s’activent **avant la fin du 1e corner** (premières 40 secs) peuvent se réactiver une 2e fois en late-race. C’est possible pour **Slipstream, Playtime’s Over et Straightaway adept / Beeline Burst**.
+
+⏩ Voici quelques uma qu'on s'attend à être fortes sur ce CM : 
+
+* Les **Front Runner** menaçantes : Summer Maruzensky (surtout elle), Seiun Sky, Maruzensky, et d'autres.
+* Les **increvables** et leur multiples gold recovery : Agnes Tachyon, Super Creek, Tokai Teio alt.
+* Les **explosives**, et leur accel de fiabilité, euh, *variable* : Meisho Doto, El Condor Pasa alt, Daiwa Scarlet, Gold City, Mayano Top Gun alt
+* Celles avec un unique de final straight puissant qui fera parfois la différence : Oguri Cap, Fuji Kiseki, Symboli Rudolf.
+
+Il y'en aura d'autres bien entendu, comme Gold Ship encore une fois (son unique s'active en ligne droite, ce qui est idéal pour dépasser). 
+
+~~Et puis ma Rice Shower maybe. MAYBE.~~
+
+#### 🌟 Oooooook, ça devrait être tout ! 
+
+Pas grand chose à dire sur ce CM en fin de compte, en plein de points il ressemble à la Taurus. Vous devriez être en terrain connu, sauf si c'est votre premier CM !
+
+::: warning Faites moi des retours
+
+Habituellement, tout ceci est la version "abrégée" des guides de CM, mais par manque de temps, c'est la version "complète" cette fois. Dites moi si ça vous convient que les futurs guides de CM soient comme celui-ci, avec seulement des points de base sans rentré dans les giga détails comme d'habitude !
+
+De mon côté je continue à réfléchir à comment faire évoluer le format de manière pertinente 👍🏾
+
+:::
+
+### Et toi Yamakyu tu vas faire quoi ? T'as une super stratégie pour faire gagner ta Rice Shower cette fois ?
+
+![That's the neat part : I don't](/assets/Comp-PvP/The_Neat_Part_-_I_Dont.png)
+
+La vérité ? Je vais copium sur **Nimble Navigator / No stopping me**. Comme ça quand je vais perdre de nouveau je pourrais me dire que "ptain quand même il serai temps que j'arrête les shenanigans stupides car statistiquement ça marche pas". P't'être qu'après 10 défaites supplémentaires de ce type je vais enfin me réveiller et build correctement...?
+
+# Ouais, non, not happening :currenDevilish:
+
+Voilà en tout cas !
+
+Bon courage tout le monde pour votre préparation au Champion's Meeting ! Pour rappel, vous pouvez vous **inscrire au CM** et choisir votre **league** à partir du **vendredi 31 Octobre**, et l'évènement **commencera lundi 3 novembre !** 
+
+Si vous avez besoin d’un rappel sur le fonctionnement même du Champion’s Meeting et pourquoi c'est important de choisir votre league, [c’est par ici !](https://umaguide.fr/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-introduction)
+
+N’hésitez pas à faire des retours et bonne chance !
