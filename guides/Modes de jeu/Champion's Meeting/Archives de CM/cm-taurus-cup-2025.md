@@ -311,12 +311,7 @@ Je pourrais ressortir le tableau du refdoc où on voit la stam requise _par stra
 
 Voici les principales recovery que vous allez vouloir utiliser
 
-| **Gold recovery** | **Donné par...**                              | **Notes**                                                                                                                                                                    |
-| ----------------- | --------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Swinging Maestro  | Super Creek stam SSR                          | La seule recovery parfaitement universelle, et parfaitement fiable. Super Creek stam SSR est aussi une très bonne carte stam SSR, donc c'est un no brainer                   |
-| Gourmand (Pace)   | Special Week speed SSR (gratuite)             | Parfaitement fiable pour les Pace, et dispo sur une bonne carte speed gratos que beaucoup de monde devrait avoir. Là aussi, no brainer.                                      |
-| Restless (Front)  | Ines Fujin guts SSR                           | Parfaitement fiable, mais sadly dispo seulement sur une carte guts, que vous n'avez absolument pas la place d'utiliser pour le CM. Sauf si vous allez en Open League....? 👀 |
-| Iron Will         | Scénario URA **_ou_** Satono Diamond stam SSR | C'est mauvais. Ça peut éventuellement être un spare, genre si voulez prévoir un excès de HP. Mais Iron Will **ne peut pas** être votre gold recovery de nécessité            |
+
 
 Bon c'est pas la joie hein. Le reste des gold recovery sont direct dans le kit des différentes uma. 
 
