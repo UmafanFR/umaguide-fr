@@ -10,7 +10,7 @@ order: 1
 
 ::: warning Les dates essentielles
 
-Inscriptions et choix de league à partir de vendredi **31 Octobre 2025**
+Inscriptions et choix de league à partir de **vendredi 31 Octobre 2025**
 
 Début de l'évènement **lundi 3 novembre 2025**
 
@@ -167,13 +167,19 @@ Pour rappel, les skills "**greens**" sont les skills qui ont un logo de couleur 
 | **Condition** | **Green skill (stat boostée)** | **Source "recommandée"** | **Note** |
 | --- | --- | --- | --- |
 | Surface turf |  |  |  |
-| Hippodrome de Hanshin | Hanshin Racecourse (stamina) | Nishino Flower (speed SSR et power SR) |  |
+| Hippodrome de Hanshin | Hanshin Racecourse (stamina) | Nishino Flower (speed SSR et power SR) // Marvelous Sunday wits SR (event) |  |
 | Distance 2200m | Non-Standard Distance (stamina) | Mayano Top Gun stam SR // Manhattan Cafe stam SR (event) |  |
-| Sens horaire | Right Handed (speed) | Fine Motion wits SSR, Narita Brian speed SSR |  |
+| Sens horaire | Right Handed (speed) | Fine Motion wits SSR, Narita Brian speed SSR // Matikanefukukitaru wits SR (2nd chain event → option du bas) |  |
 | Saison été | Summer Runner (speed) | Fuji Kiseki wits SR |  |
 | Sol "Firm" | Firm Conditions (power) | Super Creek stam SSR, Nishino Flower speed SSR, et [beaucoup d'autres cartes, checkez Gametora.com pour connaître les sources](https://gametora.com/umamusume/skills) |  |
 | Course en journée |  |  |  |
 | Météo ensoleillé | Sunny Days (guts) | El Condor Pasa power SSR,  Mejiro Dober wits SR, et d'autres | Inutile, sauf pour activer Groundwork (Front Runner) |
+
+::: tip Courses facultatives
+
+Rappel que vous pouvez -aléatoirement- **obtenir des skills en récompenses de courses** gradées pendant une carrière ! Ce sont toujours des skills non universels, **liés à la course** d'une manière ou d'une autre, donc **vous pouvez parfois obtenir des greens**. Par exemple, en faisant une G3/G2/G1 sur l'hippodrome de **Hanshin**, vous avez une chance d'obtenir **Hanshin Racecourse**. 
+
+:::
 
 Enfin, pour savoir comment obtenir les greens "**<stratégie> Savy**", pensez à jeter un oeil à la [liste des skills sur gametora.com](https://gametora.com/umamusume/skills)
 
@@ -325,7 +331,7 @@ Je vous laisse décider des risques que vous acceptez de perdre :currenDevilish:
 
 **Skill** | **Source** | **Pour qui ?** | **Timing ?** | **Note**
 ------|--------|------------|-----|-----
-Angling & Scheming | Seiun Sky (unique) | Front Runner | Parfait | 1e only
+Angling & Scheming | Seiun Sky (unique) | Front Runner | Parfait | 1e only. **_Indispensable_** pour les Front.
 Let's Pump Some Iron | Mejiro Ryan (unique) | Late, End | Parfait | 6e only
 **Red Shift/LP1211-M** | **Maruzensky (unique)** | **Tout le monde** | **3-4 secs en retard** |
 Shooting for Victory! | Taiki Shuttle (unique) | Pace, Late, End | 3-4 secs en retard | 
@@ -336,6 +342,16 @@ Final Push / Unrestrained | Silence Suzuka speed SSR (gold) | Front Runner | Al�
 Nimble Navigator / No Stopping Me | Yukino Bijin wits SSR (gold) | Pace, Late, End | Très aléatoire | High roll
 
 Encore une course où tout le monde veut l'accel de Maruzensky 🌟
+
+::: tip Question de fiabilité et de timing.
+
+Les Front ont l'accel **la plus fiable de toutes** (Angling), et ont donc _moins_ besoin d'une 2e accel que les autres stratégies. Ça reste désirable bien entendu.
+
+Avoir 2 accel c'est intéressant pour les autres stratégies, car plusieurs de ces accel ont un timing _retardé_, donc en avoir plusieurs aide à compenser un peu ce retard. La Front en 1e position a le privilège d'avoir une accel avec timing parfait, donc c'est *moins grave* si elle n'a que cette seule seule accel (par contre c'est terrible si elle ne pop pas).
+
+Essayez d'avoir les 2 pour votre Front, mais si vous ne pouvez en prendre qu'une seule, c'est bien **Angling & Scheming** !
+
+:::
 
 ⏩ Pour les Front, vous voulez évidemment le sacro-saint **Groundwork**, en guise d'accel early-race, pour prendre le lead. Comme toujours, **la Front en 1e position est à peu près la seule qui a une chance de gagner** ; vous voulez donc sécuriser cette position et la conserver. Cette bataille commence dés l'early-race. Vous pouvez utiliser **Focus** / **Concentration** pour l'activer (attention, c'est un wit check supplémentaire), et sinon parmi les greens les plus "facile" à avoir il y a **Non-Standard Distance** (Mayano stam SR), **Firm Conditions** (Creek stam SSR) et **Front Runner Savy** (Suzuka speed SSR). N'hésitez pas à [checker sur Gametora.com les greens qui sont à votre portée](https://gametora.com/umamusume/skills).
 
@@ -373,6 +389,14 @@ Les autres stratégies sont moins contraintes, et peuvent faire **4 speed 2 stam
 Il y'en aura d'autres bien entendu, comme Gold Ship encore une fois (son unique s'active en ligne droite, ce qui est idéal pour dépasser). 
 
 ~~Et puis ma Rice Shower maybe. MAYBE.~~
+
+⏩ Optimisation pour **high-roll** avec votre **Maruzensky alt** : si vous n'utilisez _aucune gold recovery habituelle_ (Maestro / Restless) pour survivre à la course (requiert donc une abondance de stamina), vous pouvez utiliser la white recovery **Triple 7s** pour activer son skill unique. Le **timing** fera que le skill induira toujours un **solide carry over**, de manière garantie ! 
+
+Ça a comme inconvénient que vous ne pouvez donc pas utiliser son skill unique à la moitié de la course pour gagner du terrain, et c'est pour ça que je vois ça comme un high roll : c'est à **double tranchant**, et si ça marche pas vous y perdez au change. En effet, en optant pour cette approche, vous perdez un puissant gain de terrain en mid-race, en échange d'un énorme gain d'avance en late-race. 
+
+C'est au choix : 
+* soit vous optez pour le high roll (high stam + triple 7s) pour faire le carry over, au risque de perdre le lead en mid-race
+* soit vous optez pour le classique (gold recovery habituelles, comme Maestro ou Restless), pour sécuriser le lead avec l'unique de Maru alt en milieu de mid-race.
 
 #### 🌟 Oooooook, ça devrait être tout ! 
 
