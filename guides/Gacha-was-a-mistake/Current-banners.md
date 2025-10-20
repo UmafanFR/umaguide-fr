@@ -1,5 +1,5 @@
 ---
-title: Gacha review - Maruzensky alt et Special Week alt ★★★ // Sweep Tosho speed SSR et Winning Ticket stamina SSR)
+title: Gacha review - Meisho Doto ★★★ // Tokai Teio speed SSR & Special Week guts SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -20,7 +20,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/016_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/017_Banners_early_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -30,7 +30,7 @@ Sur cette page nous tenterons d'évaluer la qualité des bannières gacha actuel
 
 ::: warning Gardez en tête
 
-Bien que je fasse de mon mieux pour vous proposer des conseils pertinents, **j'ai aussi des BIAIS, et je fais des erreurs**. N'hésitez pas à double-check ces recommandations auprès d'autres vétérans ; des tas de gens font des recommandations de pull. 
+Bien que je fasse de mon mieux pour vous proposer des conseils pertinents, **j'ai aussi des BIAIS, et je fais des erreurs**. N'hésitez pas à double-check ces recommandations auprès d'autres vétérans ; des tas de gens font des recommandations de pull, surtout dans la commu anglophone.
 
 :::
 
@@ -94,109 +94,56 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Maruzensky alt et Special Week alt ★★★
+### Bannière Umamusume : Meisho Doto ★★★
 
-![Image de présentation de la bannière Maruzensky alt et Special Week alt](/public/assets/Gacha-reviews/2025/016_Uma-Banner.png)
+![Image de présentation de la bannière Meisho Doto](/public/assets/Gacha-reviews/2025/017_Uma-Banner.png)
 
-⏩ **Maruzensky alt**
+_Meisho Doto est une Pace Chaser (1 gold) génériquement OK, qui peut parfois montrer une performance explosive si son skill unique s'active de manière idéale. Sa gold recovery est plutôt fiable et l'aidera souvent en med et en long, mais elle peut parfois ne pas s'activer. Son skill gold de vitesse a une chance de carry over sur certaines courses. Son skill unique s'active sur un dépassement en corner de late-race, et lui donne de l'accel et un peu de vitesse. Elle sera génériquement bonne en Team Trials, et peut-être jouée en CM sur toutes les med/long, seules distances pour lesquelles elle est apte. Avec son aptitude E dirt, elle peut courir en Dirt avec de l'inspiration (10*)._
 
-_Summer Maruzensky est une très forte et versatile Front Runner (1 gold), particulièrement bonne en Mile (1 gold). Avec une gold recovery fiable dans certaines courses, et un skill de vitesse gold mile particulièrement désirable pour les frontlines, elle une bonne sélection de skills gold. Sa vraie force cependant, c'est son skill unique de vitesse en mid-race. Similairement à Gold Ship, Maruzensky alt gagne beaucoup de terrain en mid-race sur l'activation de son unique. Comme il se déclenche sur activation d'une recovery, dans de nombreuses courses il est possible de le faire carry over de manière garantie, pour un énorme gain d'avance._
-
-* _La voilà._ **La meilleure™ Front Runner** (jusqu'à Bourbon alt).
-* Avec +15% speed bonus et +15% wits bonus, monter les stats de Maruzensky alt sera confortable. Speed bonus est le bonus qui a le plus d'usage car 3 entrainements montent speed, et wits bonus est simplement très commode, car il n'y a que l'entrainement wits qui monte wits. 
-* Ses aptitudes de distance la rendent très versatile, mais toute autre distance que Mile requiert **un peu d'inspiration** (1* pour sprint/med, 4* pour long). Grâce à son aptitude **D dirt**, elle sera aussi apte à courir en dirt, avec seulement 7* dirt.
-* Sa sélection de skills gold est plutôt bonne :
-    * **Restless** est une gold recovery qui s'active sur la première côte de la course. Sur toutes les courses qui ont une côte tard en early-race (au plus tôt) et avant le début du late-race (au plus tard), cette recovery sera parfaitement fiable.
-    * **Mile Maven** est un des meilleurs skills de vitesse mile frontline. Il pop aléatoirement en early-race, uniquement pour la uma en **1e position**, donc l'activation n'est pas simple. Mais c'est un skill de durée de base 3s, qui permettra de sécuriser un bon lead pour la Front en 1e position.
-        > Le skill sera changé plus tard, et s'activera pour toutes les uma _top50%_
-* Sa grande force c'est son **skill unique**. C'est un unique de vitesse, qui pop sur l'**activation d'une recovery** (white ou gold) après la moitié de la course, si Maru est top3. C'est un grand atout pour 2 raisons.
-    1. C'est un skill unique de **vitesse en mid-race**. Ces uniques là sont encore assez rares, et très désirables ; rappelez-vous, c'est ce qui fait la grande force de **Gold Ship**. L'unique de Maruzensky alt étant meilleur que celui de Golshi, je pense que vous voyez l'idée. C'est -de base- un skill précieux, que toutes les uma voudraient, et qui est particulièrement bénéfique pour une Front, car une Front veut être en 1e position,  se bagarrer pour cette position, et rester _le plus loin possible à l'avant_. Rien que pour ça, c'est déjà un unique particulièrement bon pour une Front.
-    2. C'est un skill unique **contrôlable**, donc qui peut parfois être activé **à un moment qui vous arrange**. C'est le premier de ce type, et  même sur la version JP, ce type de skill unique reste rare. L'intérêt étant bien sur de contrôler l'activation du skill pour induire un **carry over**, et ainsi gagner **plus de 2 longueurs d'avance**, juste avec ce skill unique. Il suffit qu'une recovery s'active à un moment idéal, et c'est banco. Maruzensky est aussi équipée de la white recovery **Triple 7s** (≠ Lucky Seven), qui s'active toujours **777m avant la fin** de la course. Vous savez sur quelles distance l'unique de Maruzensky est garantis de carry over ? 1800m (idéal), 1900m (dirt only), **2000m**, 2100m et 2200m. Sur ces 5 distances là, la Q° de "_quelle recovery utliser pour l'unique de Maruzensky_" est solutionnée par **Triple 7s**. Sur certaines autres courses, il n'y a pas de recovery idéale, et sur d'autres il y'en a mais il faudra être créatif pour trouver la recovery idéale. 
-        > Si la recovery unique de Haru Urara -qui pop sur le final corner- était activable pour une front, je vous raconte pas le massacre sur *encore plus* de courses :currenDevilish:
-
-::: tip Carry over = very good
-
-D'après [umalator](https://alpha123.github.io/uma-tools/umalator-global/), sur Tokyo 1800m (mile), il vous faudrait **4 à 6 skills gold de vitesse** (selon leur durée) pour gagner 2+ longueurs sur la durée de la course. Si on considère des skills gold idéals ("idéaux" ?) de durée de base 3 seconde (assez rare sur la glo), il en faut plus de 3.
-
-![Image d'une simulation sur le "umalator", avec une uma sans carry over en rouge, et une uma avec carry over en rouge](/assets/Comp-PvP/CM01/CM01_Umalator_CarryOver.png)
-
-Pour rappel, voici à quoi ça ressemble : l'idée étant que si votre vitesse est plus élevée que quelqu'un d'autre, **vous gagnez du terrain** par rapport à cette personne.
-
-:::
-
-⏩ **Special Week alt**
-
-_Summer Special Week est une Late Surger (1 gold) génériquement bonne, avec un unique de recovery fiable et facile à activer. Elle est apte à courir en med et en long, peut courir en mile avec un peu d'inspiration._
-* Special Week alt a +10% stamina, power et guts. C'est plutôt bon, mais le guts bonus est indésirable. 
-* Ses aptitudes lui permettent de courir en medium et en long, et elle peut aussi courir en mile avec un peu d'inspiration ; il faut seulement 4 étoiles mile pour passer à A mile. Rien dans son kit ne lui empêche de faire une bonne performance en mile, donc vous pouvez la considérer comme une uma mile aussi.
-* Elle a une bonne sélection de skills gold :
-    * **Fast & Furious** est la version gold de Position Pilfer, un skill de vitesse Late Surger qui s'active aléatoirement en mid-race si on est bottom50. Le skill est parfaitement fiable n'a rien de spécial.
-    * **It's On!** est la version gold de Ramp Up, un skill de vitesse universel s'activant en mid-race sur un dépassement réussi en mid-race. Si l'activation est très tôt, il sera possible de l'activer une 2e fois _dans certaines courses_. Le skill est parfaitement fiable aussi.
-* Le skill unique de Special Week alt est une gold recovery s'activant sur activation de 2 skills en mid-race. C'est on ne peut plus fiable comme recovery, et elle ne s'activera jamais ni trop tôt ni trop tard.
-* On aurait souhaité que les pires uma soient de qualité similaire à Special Week alt. Quand le seul défaut du perso c'est d'être -finalement- très vanilla, c'est que le kit a le mérite d'être fonctionnel.
+* Avec +20% stamina bonus, Doto devrait avoir des facilités à atteindre la stamina requise pour les différentes courses med/long pour laquelle vous l'entrainerez. On regrette un peu les +10% guts bonus, mais tant que vous cliquez sur stamina, vous en avez quand même l'usage.
+* Ses aptitudes sont assez claires, elle n'est apte que pour les distances medium et long, en tant que Pace Chaser. Vous pouvez la jouer Late aussi, mais vous perdrez son skill gold Speed Star. Enfin, comme elle a E dirt, vous pourrez la faire courir en Dirt avec 10* Dirt par inspiration (utile pour le CM Dirt medium qui arrive dans très longtemps).
+* Sa sélection de skill gold est assez bonne : 
+    * **Speed Star** est un gold skill de vitesse Pace Chaser qui s'active aléatoirement sur le final corner de la course, si Doto est top50% de la course. Sur les courses où le late-race commence sur la 2e moitié du final corner, il y a une chance solide de carry over.
+    * **Indomitable** est une gold recovery presque universelle, qui s'active si vous subissez un dépassement en mid-race. L'activation est plutôt fiable la plupart du temps, mais si elle est la seule Pace Chaser de la course, ça ne s'activera pas parfois pas. 
+* Son skill unique est un hybride accélération/vitesse, qui s'active sur un dépassement réussi dans un corner de late-race, en étant top3. Ce n'est pas forcément le final corner, mais ça l'inclus ! C'est une condition d'activation trop aléatoire pour être une accel fiable, mais il devrait pop très bien en Team Trials, et s'il pop tôt en CM, ce sera souvent un grand atout vers la victoire.
 
 #### PULL OU PAS ?
 
-Maruzensky est une très bonne uma, et sans doute la meilleure Front Runner pour le moment. C'est un bon usage de carats. Même Special Week alt est -au pire- génériquement bonne.
+**Si vous l'aimez** et que vous n'avez pas de bannière importante à venir.
 
-Donc, **OUI**, cette bannière est recommandée _**SI**_ :
-- vous voulez vous investir en PvP compétitif (Champion's Meeting)
-- vous êtes prêts à entrainer souvent des Front, et avoir à deal avec l'obtention de Groundwork. Très important ça ; si la préparation d'une Front pour la Cancer vous a donné la nausée, vous allez vouloir réfléchir à 2 fois avant de pull Maruzensky, car elle est **exclusivement Front Runner**.
-- vous avez un spark (30000 carats), ou suffisamment -selon vous- pour l'obtenir (rappel : _gacha was a mistake_)
-- vous n'avez pas d'autre bannière très importante en vue avant un ptit moment (rappel : le prochain scénario -et la bannière associée- arrive dans environ 1 mois or so)
-
-Il y'a d'autres bannières de uma intéressantes à venir un peu plus tard (Meisho Doto, Agnes Digital, et d'autres)
-
+Sans être spécialement *bonne*, Doto est génériquement OK par défaut, et parfois très forte si son unique est bien timé. Vous pouvez avoir plein de wins avec un peu d'effort, donc c'est une bonne cible de pulls **si vous l'aimez beaucoup**. Il y aura des tas de uma meilleures qu'elle cependant ; si vous n'y êtes pas particulièrement attaché, gardez vos carats pour autre chose.
 
 ---
 
-### Bannière support : Sweep Tosho speed SSR et Winning Ticket stamina SSR
+### Bannière support : Tokai Teio speed SSR & Special Week guts SSR
 
-![Image de présentation de la bannière Sweep Tosho speed SSR et Winning Ticket stamina SSR](/public/assets/Gacha-reviews/2025/016_Card-Banner.png)
+![Image de présentation de la bannière Tokai Teio speed SSR & Special Week guts SSR](/public/assets/Gacha-reviews/2025/017_Card-Banner.png)
 
 
-⏩ **Sweep Tosho speed SSR**
-* La carte est **bien frontloaded** : à 1LB elle a déjà un friendship bonus très élevé, 50 spec prio et +1 skill bonus. Elle débloque un peu de mood bonus à 3LB.
-* Aujourd'hui encore, sur la version JP du jeu, Sweep Tosho speed SSR est championne du friendship bonus, avec **+48.5%** friendship bonus une fois MLB. Certaines cartes SSR MLB ont littéralement _la moitié de ça_.
-* Sweep Tosho speed SSR est une carte speed de qualité, très bonne pour **monter speed**. Sa contribution au cross-training est très faible, mais l'avantage du speed bonus c'est qu'il est utile si Tosho tombe sur speed, guts, ou wits. C'est donc quand même du cross-training.
-* Sa sélection de hints ❗ est identique à Sweep Tosho speed SR, avec 3 debuffs, 2 skills useless, une white recovery, et l'excellent white de vitesse quasi-universel : **Slipstream**. Attention, la version SSR n'a ni Hint Frequency ni Hint level bonus.
-* Le skill gold obtenu -et c'est là que le bat blesse- est un skill gold de **vision** End Closser, parfaitement osef. Vous n'en voulez pas (mais le skill s'active en Team Trials au moins). Sur ses 2 premiers chain events, l'option du haut a une chance d'avoir un effet négatif. L'option du bas est fiable.
-* Comme c'est Sweep Tosho : 
-    - elle peut vous donner le précieux buff **Charming** (option du bas sur l'event "Wonderful☆Mistake")
-    - vous ne pouvez pas utiliser la très bonne Sweep Tosho speed SR en même temps que la version SSR
+⏩ **Tokai Teio speed SSR**
+* La carte est plutôt **frontloaded** : à 1LB elle a déjà des bonus de stats corrects (incluant power bonus). Elle débloque Race bonus et Fan bonus à 3LB.
+* Tokai Teio speed SSR est une carte speed positivement très quelconque. Ses stats sont OK sans être notablement bonnes, elle a une contribution OK au cross training (60 motiv bonus MLB), et un spec prio peu élevé, mais qu'on apprécie.
+* Sa sélection de hints ❗ laisse à désirer, avec 3 skills de déplacement latéral, 2 accel non fiables, et une white recovery med.
+* Le skill gold obtenu est **Rushing Gale**, la version gold de Straightaway Acceleration, qui est peu utile et très peu fiable.
+* On notera que ses 3 chain events rendent de l'énergie, et l'option du haut sur ses 2 events aléatoires vous donnent un mood up 👌🏿
 
-::: tip Et par rapport à la SR ?
+⏩ **Special Week guts SSR**
+* La carte a une croissance plutôt **équilibrée** : à 1LB elle débloque power bonus, et à 3LB elle obtient un peu de training bonus.
+* Special Week guts SSR est une carte guts plutôt décente, qui -comme la plupart des cartes guts- a le principal défaut d'être inférieure à Haru Urara guts SSR en presque tout points. Sa seule qualité notable par rapport à Urara guts, c'est qu'elle contribue davantage à monter power. C'est tout, et ce n'est pas une raison suffisante pour l'utiliser.
+* Sa sélection de hints ❗ est correcte, avec 3 skills de vitesse, 3 greens (dont Late Surger Savy) et une recovery white.
+* Son skill gold est **In Body and Mind**, la version gold de **Homestretch Haste**, qui n'est pas réputé pour sa grande qualité. Le skill a une chance solide de s'activer bien trop tôt ou bien trop tard, et ne presque rien faire. Attention, elle peut vous donner la version white à la place (authentique "agemasen" :currenDevilish:).
+* Son 2e chain event ▶️▶️ peut être interrompu en sélectionnant l'option du bas, ce qui vous restaure +20 énergie. L'option du haut sur l'event aléatoire "So Many Options!" fait +10 énergie et mood up.
 
-On peut raisonnablement considérer Tosho SSR meilleure -pour monter speed- que la version SR à partir de 1LB. En réalité, leurs forces sont un peu différentes (Tosho SR a un bon cross training), mais si on regarde seulement la croissance de speed, **la SSR 1LB bat la SR MLB**. On pourrait débattre du fait que c'est le cas dés 0LB d'ailleurs.
+::: tip Urara guts 🔥
+
+Être moins bonne que Urara guts SSR n'est pas un signe de mauvaise qualité en soi ; c'est Urara guts SSR qui est *vachement bien* to begin with. Urara guts SSR sera favorisée par rapport à la vaste majorité des cartes guts SSR qui vont sortir pendant plusieurs années.
 
 :::
 
-⏩ **Winning Ticket stamina SSR**
-* Absolute garbage.
-* Winning Ticket stamina SSR est une carte plutôt frontloaded, mais pas de manière notable. Elle débloque guts bonus +1 à 1LB, et Race/Fan Bonus à 3LB.
-* C'est une carte de **cross-training**, et elle est mauvaise à ça. Vous ne l'utilisez pas pour monter stamina -0 spec prio, 20 friendship bonus à MLB- mais pour aider à la **croissance des autres stats**. Elle est plutôt médiocre en tant que carte de cross training, avec seulement 45 mood bonus, et aucun training bonus associé.
-    > à titre de comparaison, Satono Diamond stam SSR a 55 mood bonus et 10 training bonus ; c'est à peu près 2 fois mieux en cross-training
-* Sa sélection de hints ❗ inclus 2 greens parfois utiles, et 3 skills Late Surger, dont l'accel white Slick Surge.
-* Le skill gold obtenu est l'accel Late **Hard Worker**, qui est useless (accel early/mid-race). Son 2e chain event peut être interrompu en sélectionnant l'option du bas.
-
 #### PULL OU PAS ?
-**Difficile à dire**. Pas parce que Tosho speed SSR n'est pas bonne (elle est *bonne* si on ignore le skill gold), mais parce que _Winning Ticket stamina SSR est absolument terrible_. La question se pose de savoir si le risque en vaut la chandelle.
+**Non, easy skip**.
 
-De plus, en même temps il y a bonne bannière uma avec Maruzensky alt (et Special Week alt).
-
-En revanche, c'est **pertinent** (_ça ne veut PAS dire "recommandé"_) de pull si vous validez ***toutes** ces conditions* :
-- vous êtes en sérieux manque de LB sur vos cartes SR
-- vous êtes VRAIMENT préssé·e d'avoir des LB sur vos cartes SR, et vous pouvez pas attendre 2-3 bannières de plus (Nice Nature wits / Riko & Rice)
-- vous n'avez pas Sweep Tosho speed SR, ou vous l'avez à faible LB
-- vous avez de quoi faire au moins **1 spark** (hors de question de faire quelques multi vite fait et finir avec des Winning Ticket stam SSR et aucune Tosho speed SSR 💀)
-- for some reason, vous n'avez aucune intention de pull sur :
-    - Maruzensky alt
-    - La bannière Riko Kashimoto pal SSR / Rice Shower power SSR
-    - La bannière Nice Nature wits SSR
-
-À _toutes ces conditions_, je pense qu'on peut dire que c'est pertinent de pull pour Sweep Tosho speed SSR, car -il faut dire les choses comme elles sont- c'est un très bon **stat stick** pour monter speed.
-
-C'est aussi une très bonne bannière pour _**reroll**_. Donc ok pour les débutant·e·s.
+Aucune des cartes n'est de qualité notable, et des bannières importantes arrivent bientôt.
 
 ---
 
