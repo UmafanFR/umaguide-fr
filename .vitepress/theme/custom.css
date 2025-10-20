@@ -1,5 +1,13 @@
 html {
-  scroll-padding-top: 134px; /* Fix scrolling when arriving on website with an anchor set */
+  scroll-padding-top: 134px;
+}
+
+.vp-doc ul ul {
+  list-style: circle;
+}
+
+.vp-doc ul ul li {
+  margin-left: 1.2em;
 }
 
 :root {
