@@ -284,7 +284,7 @@ Parfois ses accel la feront exploser mais la qualité de son kit est plutôt moy
 
 :::
 
-## #16 - Maruzensky alt et Special Week alt ★★★ (bannière actuelle)
+## #16 - Maruzensky alt et Special Week alt ★★★
 
 ![Image de présentation de la bannière Maruzensky alt et Special Week alt](/public/assets/Gacha-reviews/2025/016_Uma-Banner.png)
 
@@ -316,4 +316,50 @@ Pour rappel, voici à quoi ça ressemble : l'idée étant que si votre vitesse e
 
 :::
 
+⏩ **Special Week alt**
+
+_Summer Special Week est une Late Surger (1 gold) génériquement bonne, avec un unique de recovery fiable et facile à activer. Elle est apte à courir en med et en long, peut courir en mile avec un peu d'inspiration._
+* Special Week alt a +10% stamina, power et guts. C'est plutôt bon, mais le guts bonus est indésirable. 
+* Ses aptitudes lui permettent de courir en medium et en long, et elle peut aussi courir en mile avec un peu d'inspiration ; il faut seulement 4 étoiles mile pour passer à A mile. Rien dans son kit ne lui empêche de faire une bonne performance en mile, donc vous pouvez la considérer comme une uma mile aussi.
+* Elle a une bonne sélection de skills gold :
+    * **Fast & Furious** est la version gold de Position Pilfer, un skill de vitesse Late Surger qui s'active aléatoirement en mid-race si on est bottom50. Le skill est parfaitement fiable n'a rien de spécial.
+    * **It's On!** est la version gold de Ramp Up, un skill de vitesse universel s'activant en mid-race sur un dépassement réussi en mid-race. Si l'activation est très tôt, il sera possible de l'activer une 2e fois _dans certaines courses_. Le skill est parfaitement fiable aussi.
+* Le skill unique de Special Week alt est une gold recovery s'activant sur activation de 2 skills en mid-race. C'est on ne peut plus fiable comme recovery, et elle ne s'activera jamais ni trop tôt ni trop tard.
+* On aurait souhaité que les pires uma soient de qualité similaire à Special Week alt. Quand le seul défaut du perso c'est d'être -finalement- très vanilla, c'est que le kit a le mérite d'être fonctionnel.
+
+#### PULL OU PAS ?
+
+Maruzensky est une très bonne uma, et sans doute la meilleure Front Runner pour le moment. C'est un bon usage de carats. Même Special Week alt est -au pire- génériquement bonne.
+
+Donc, **OUI**, cette bannière est recommandée _**SI**_ :
+- vous voulez vous investir en PvP compétitif (Champion's Meeting)
+- vous êtes prêts à entrainer souvent des Front, et avoir à deal avec l'obtention de Groundwork. Très important ça ; si la préparation d'une Front pour la Cancer vous a donné la nausée, vous allez vouloir réfléchir à 2 fois avant de pull Maruzensky, car elle est **exclusivement Front Runner**.
+- vous avez un spark (30000 carats), ou suffisamment -selon vous- pour l'obtenir (rappel : _gacha was a mistake_)
+- vous n'avez pas d'autre bannière très importante en vue avant un ptit moment (rappel : le prochain scénario -et la bannière associée- arrive dans environ 1 mois or so)
+
+Il y'a d'autres bannières de uma intéressantes à venir un peu plus tard (Meisho Doto, Agnes Digital, et d'autres)
+
 ::::
+
+## #17 - Meisho Doto ★★★ (bannière actuelle)
+
+![Image de présentation de la bannière Meisho Doto](/public/assets/Gacha-reviews/2025/017_Uma-Banner.png)
+
+::: details REVIEW
+
+_Meisho Doto est une Pace Chaser (1 gold) génériquement OK, qui peut parfois montrer une performance explosive si son skill unique s'active de manière idéale. Sa gold recovery est plutôt fiable et l'aidera souvent en med et en long, mais elle peut parfois ne pas s'activer. Son skill gold de vitesse a une chance de carry over sur certaines courses. Son skill unique s'active sur un dépassement en corner de late-race, et lui donne de l'accel et un peu de vitesse. Elle sera génériquement bonne en Team Trials, et peut-être jouée en CM sur toutes les med/long, seules distances pour lesquelles elle est apte. Avec son aptitude E dirt, elle peut courir en Dirt avec de l'inspiration (10*)._
+
+* Avec +20% stamina bonus, Doto devrait avoir des facilités à atteindre la stamina requise pour les différentes courses med/long pour laquelle vous l'entrainerez. On regrette un peu les +10% guts bonus, mais tant que vous cliquez sur stamina, vous en avez quand même l'usage.
+* Ses aptitudes sont assez claires, elle n'est apte que pour les distances medium et long, en tant que Pace Chaser. Vous pouvez la jouer Late aussi, mais vous perdrez son skill gold Speed Star. Enfin, comme elle a E dirt, vous pourrez la faire courir en Dirt avec 10* Dirt par inspiration (utile pour le CM Dirt medium qui arrive dans très longtemps).
+* Sa sélection de skill gold est assez bonne : 
+    * **Speed Star** est un gold skill de vitesse Pace Chaser qui s'active aléatoirement sur le final corner de la course, si Doto est top50% de la course. Sur les courses où le late-race commence sur la 2e moitié du final corner, il y a une chance solide de carry over.
+    * **Indomitable** est une gold recovery presque universelle, qui s'active si vous subissez un dépassement en mid-race. L'activation est plutôt fiable la plupart du temps, mais si elle est la seule Pace Chaser de la course, ça ne s'activera pas parfois pas. 
+* Son skill unique est un hybride accélération/vitesse, qui s'active sur un dépassement réussi dans un corner de late-race, en étant top3. Ce n'est pas forcément le final corner, mais ça l'inclus ! C'est une condition d'activation trop aléatoire pour être une accel fiable, mais il devrait pop très bien en Team Trials, et s'il pop tôt en CM, ce sera souvent un grand atout vers la victoire.
+
+#### PULL OU PAS ?
+
+**Si vous l'aimez** et que vous n'avez pas de bannière importante à venir.
+
+Sans être spécialement *bonne*, Doto est génériquement OK par défaut, et parfois très forte si son unique est bien timé. Vous pouvez avoir plein de wins avec un peu d'effort, donc c'est une bonne cible de pulls **si vous l'aimez beaucoup**. Il y aura des tas de uma meilleures qu'elle cependant ; si vous n'y êtes pas particulièrement attaché, gardez vos carats pour autre chose.
+
+:::
