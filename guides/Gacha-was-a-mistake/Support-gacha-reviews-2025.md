@@ -303,7 +303,7 @@ Rice Shower power SSR marche un peu sur une partie de la niche de Vodka power, e
 
 ::::
 
-## #16 - Maruzensky alt et Special Week alt (bannière actuelle)
+## #16 - Sweep Tosho speed SSR et Winning Ticket stamina SSR
 
 ![Image de présentation de la bannière Sweep Tosho speed SSR et Winning Ticket stamina SSR](/public/assets/Gacha-reviews/2025/016_Card-Banner.png)
 
@@ -351,5 +351,38 @@ En revanche, c'est **pertinent** (_ça ne veut PAS dire "recommandé"_) de pull 
 À _toutes ces conditions_, je pense qu'on peut dire que c'est pertinent de pull pour Sweep Tosho speed SSR, car -il faut dire les choses comme elles sont- c'est un très bon **stat stick** pour monter speed.
 
 C'est aussi une très bonne bannière pour _**reroll**_. Donc ok pour les débutant·e·s.
+
+::::
+
+## #17 - Tokai Teio speed SSR & Special Week guts SSR (bannière actuelle)
+
+![Image de présentation de la bannière Tokai Teio speed SSR & Special Week guts SSR](/public/assets/Gacha-reviews/2025/017_Card-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Tokai Teio speed SSR**
+* La carte est plutôt **frontloaded** : à 1LB elle a déjà des bonus de stats corrects (incluant power bonus). Elle débloque Race bonus et Fan bonus à 3LB.
+* Tokai Teio speed SSR est une carte speed positivement très quelconque. Ses stats sont OK sans être notablement bonnes, elle a une contribution OK au cross training (60 motiv bonus MLB), et un spec prio peu élevé, mais qu'on apprécie.
+* Sa sélection de hints ❗ laisse à désirer, avec 3 skills de déplacement latéral, 2 accel non fiables, et une white recovery med.
+* Le skill gold obtenu est **Rushing Gale**, la version gold de Straightaway Acceleration, qui est peu utile et très peu fiable.
+* On notera que ses 3 chain events rendent de l'énergie, et l'option du haut sur ses 2 events aléatoires vous donnent un mood up 👌🏿
+
+⏩ **Special Week guts SSR**
+* La carte a une croissance plutôt **équilibrée** : à 1LB elle débloque power bonus, et à 3LB elle obtient un peu de training bonus.
+* Special Week guts SSR est une carte guts plutôt décente, qui -comme la plupart des cartes guts- a le principal défaut d'être inférieure à Haru Urara guts SSR en presque tout points. Sa seule qualité notable par rapport à Urara guts, c'est qu'elle contribue davantage à monter power. C'est tout, et ce n'est pas une raison suffisante pour l'utiliser.
+* Sa sélection de hints ❗ est correcte, avec 3 skills de vitesse, 3 greens (dont Late Surger Savy) et une recovery white.
+* Son skill gold est **In Body and Mind**, la version gold de **Homestretch Haste**, qui n'est pas réputé pour sa grande qualité. Le skill a une chance solide de s'activer bien trop tôt ou bien trop tard, et ne presque rien faire. Attention, elle peut vous donner la version white à la place (authentique "agemasen" :currenDevilish:).
+* Son 2e chain event ▶️▶️ peut être interrompu en sélectionnant l'option du bas, ce qui vous restaure +20 énergie. L'option du haut sur l'event aléatoire "So Many Options!" fait +10 énergie et mood up.
+
+::: tip Urara guts 🔥
+
+Être moins bonne que Urara guts SSR n'est pas un signe de mauvaise qualité en soi ; c'est Urara guts SSR qui est *vachement bien* to begin with. Urara guts SSR sera favorisée par rapport à la vaste majorité des cartes guts SSR qui vont sortir pendant plusieurs années.
+
+:::
+
+#### PULL OU PAS ?
+**Non, easy skip**.
+
+Aucune des cartes n'est de qualité notable, et des bannières importantes arrivent bientôt.
 
 ::::
