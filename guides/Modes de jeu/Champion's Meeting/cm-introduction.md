@@ -6,14 +6,6 @@ description: Fonctionnement détaillé et recommandations pour l'évènement PvP
 order: 0
 ---
 
-::: warning  All good now
-
-Depuis la Gemini Cup, l'accès à la finale du groupe B ne requiert plus qu'**une seule win au round 2**. Les récompenses ont aussi été modifiées, incluant les titres obtenus.
- 
-Le post a été mis à jour pour refléter ces changements.
-
-:::
-
 # Le Champion's Meeting (PvP compétitif mensuel)
 
 
@@ -35,7 +27,7 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ Champion's Meeting Leo Cup - 4 Nov 2025 - Hanshin 2200m turf (Takarazuka Kinen) - Recommandations à venir
+⏩ Champion's Meeting Leo Cup - 4 Nov 2025 - Hanshin 2200m turf (Takarazuka Kinen) - [Recommandations](cm-leo-cup-2025.md)
 
 > À suivre : Champion's Meeting Virgo Cup - courant Novembre - Hanshin 1600m turf (Oka Sho)
 > *(recommandations à venir)*
@@ -60,7 +52,15 @@ Vous avez la possibilité de **modifier votre équipe** autant de fois que vous 
 
 Environ 72h avant le début du Champion's Meeting, vous devrez choisir votre **league**, entre "**Open** League" et "**Graded** League". C'est un choix important qui décidera de la force de vos adversaires, et des uma que vous pourrez inscrire.
 
-En **Open League**, vous devrez inscrire exclusivement des uma de **rang inférieur à B+** ; c'est à dire, **B ou moins**. Vous rencontrerez donc uniquement des **adversaires de ranks B ou moins**. En **Graded League** il n'y a **pas de limite**, et il est tout à fait possible de tomber occasionellement sur des uma de rank S. Graded League apporte **plus de récompenses** que Open League.
+::: tip Si vous ne choisissez pas...
+
+Si vous ne sélectionnez pas votre league avant le lancement du CM, vous serez automatiquement inscrit en **Graded League**. 
+
+:::
+
+En **Open League**, vous devrez inscrire exclusivement des uma de **rang -strictement- inférieur à B+** ; c'est à dire, **B ou moins**. Vous rencontrerez donc uniquement des **adversaires de ranks B ou moins**. En **Graded League** il n'y a **pas de limite**, et il est tout à fait possible de tomber occasionellement sur des uma de rank S ou plus (extrêmement rare). Graded League apporte **plus de récompenses** que Open League.
+
+
 
 L'évènement se déroule comme suit.
 
@@ -74,8 +74,14 @@ Les wins indiquées sur l'image en haut sont des wins comptées dans **une même
 
 ### Au round 1 (jours 1 et 2) :
 
-- Si vous n'obtenez **aucune victoire** sur les 40 courses, vous êtes **disqualifiés** et le CM s'arrête à la fin du round pour vous.
-- Si vous remportez ne serait-ce que **1 victoire sur les 40 courses** du round, vous êtes **qualifiés** pour le round 2 en "**groupe B**".
+- Quoi qu'il arrive -et même si vous ne participez pas- vous êtes qualifiés pour le round 2, en group B. Le pré-requis pour accéder au round 2 group B est en effet de **0 (zéro) win**.
+
+::: warning Contrairement à ce qu'on disait jusqu'à présent
+
+Si vous oubliez de sélectionner votre league avant le CM, ET que vous oubliez de participer au round 1 (2 premiers jours du CM), vous passerez automatiquement en **round 2** (quand il commencera), en **Graded League**.
+
+:::
+
 - Si vous obtenez **3 victoires en une même session** de 5 courses, vous êtes **qualifiés** pour participer au round 2 en " **groupe A**".
 - Jusqu'à preuve du contraire, **le matchmaking est aléatoire**, et ne se produit pas toujours en temps réel.
 

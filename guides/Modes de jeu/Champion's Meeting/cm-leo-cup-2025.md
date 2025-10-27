@@ -230,7 +230,7 @@ La course commence sur une **ligne droite** d’une longueur de 520m, qui se pou
 
 * Les skills de ligne droite s'activent sur ce tronçon.
 * Les Late peuvent utiliser le skill **1,500,000 CC** pour gagner du terrain sur la côte.
-* La côte arrive **beaucoup trop TARD** pour utiliser l'accel Highlander.
+* La côte arrive **TARD en early-race**, donc les frontline n'ont pas l'usage de Highlander. En revanche, la côte arrive exactement **au moment où les backline ont leur phase d'accel** (qui est retardée, car c'est des backline) ; ainsi, dans cette course, **les backlines** (et seulement elles) **peuvent utiliser Highlander**, pour gagner au moins une demi-longueur !
 * Si la gold recovery **Breath of Fresh Air** s'active après 12 secondes en early-race, son effet sera total.
 
 :::
@@ -390,13 +390,15 @@ Il y'en aura d'autres bien entendu, comme Gold Ship encore une fois (son unique 
 
 ~~Et puis ma Rice Shower maybe. MAYBE.~~
 
-⏩ Optimisation pour **high-roll** avec votre **Maruzensky alt** : si vous n'utilisez _aucune gold recovery habituelle_ (Maestro / Restless) pour survivre à la course (requiert donc une abondance de stamina), vous pouvez utiliser la white recovery **Triple 7s** pour activer son skill unique. Le **timing** fera que le skill induira toujours un **solide carry over**, de manière garantie ! 
+⏩ Optimisation pour **high-roll** avec votre **Maruzensky alt** : si vous n'utilisez _aucune gold recovery habituelle_ (Maestro / Restless) pour survivre à la course (requiert donc une abondance de stamina), vous pouvez utiliser la white recovery **Triple 7s** pour activer son skill unique. Le **timing** fera que le skill induira toujours un **solide carry over**, de manière garantie ! Ça vous fera gagner beaucoup de terrain, et rendra votre Maruzensky d'autant plus difficile à contester.
 
-Ça a comme inconvénient que vous ne pouvez donc pas utiliser son skill unique à la moitié de la course pour gagner du terrain, et c'est pour ça que je vois ça comme un high roll : c'est à **double tranchant**, et si ça marche pas vous y perdez au change. En effet, en optant pour cette approche, vous perdez un puissant gain de terrain en mid-race, en échange d'un énorme gain d'avance en late-race. 
+Ça a comme inconvénient que vous ne pouvez donc pas utiliser son skill unique à la moitié de la course pour gagner du terrain. Ça veut dire qu'en cas de compétition avec d'autres Front (et ça arrivera souvent), votre Maru gardera cet excellent atout jusqu'en fin de mid-race, au lieu de l'utiliser en mid-race pour sécuriser le lead. C'est donc une sorte de high roll : c'est à **double tranchant**, et si ça marche pas vous y perdez au change (car en essayant de provoquer le carry over, vous perdrez parfois (parfois) le lead).
 
 C'est au choix : 
 * soit vous optez pour le high roll (high stam + triple 7s) pour faire le carry over, au risque de perdre le lead en mid-race
 * soit vous optez pour le classique (gold recovery habituelles, comme Maestro ou Restless), pour sécuriser le lead avec l'unique de Maru alt en milieu de mid-race.
+
+⏩ Au lancement de la course, les Front accélèrent immédiatement pour prendre la tête, les Pace accélèrent quelques secondes peu plus tard pour prendre position, et **les backline ont leur phase d'accel en fin d'early-race**. Sur cette course, la **côte de fin d'early-race** tombe exactement **dans la phase d'accel des backlines** ; elles peuvent donc utiliser l'accel white **Highlander** pour gagner du terrain en early-race ! Ce n'est pas hyper important, car être positionné à l'avant pour une backline n'est pas très prioritaire (et être trop à l'avant augmente le risque de subir le Pace Down de position keep), mais c'est une **optimisation notable**, surtout au coût d'**un seul skill white**. 
 
 #### 🌟 Oooooook, ça devrait être tout ! 
 
@@ -414,13 +416,15 @@ De mon côté je continue à réfléchir à comment faire évoluer le format de 
 
 ![That's the neat part : I don't](/assets/Comp-PvP/The_Neat_Part_-_I_Dont.png)
 
-La vérité ? Je vais copium sur **Nimble Navigator / No stopping me**. En cas de high roll (activation presque instantanée), ce sera certainement une condition de victoire suffisante, si ma Rice survit. Mais la probabilité est très faible donc ça ne marchera pas. Ainsi, quand je vais perdre de nouveau je pourrais me dire que "_ptain quand même il serai temps que j'arrête les shenanigans stupides car statistiquement ça marche pas_". P't'être qu'après 10 défaites supplémentaires de ce type je vais enfin me réveiller et build correctement...?
+~~La vérité ? Je vais copium sur **Nimble Navigator / No stopping me**. En cas de high roll (activation presque instantanée), ce sera certainement une condition de victoire suffisante, si ma Rice survit. Mais la probabilité est très faible donc ça ne marchera pas. Ainsi, quand je vais perdre de nouveau je pourrais me dire que "_ptain quand même il serai temps que j'arrête les shenanigans stupides car statistiquement ça marche pas_". P't'être qu'après 10 défaites supplémentaires de ce type je vais enfin me réveiller et build correctement...?~~
 
-...
+~~...~~
 
-# Ouais, non, not happening :currenDevilish:
+# ~~Ouais, non, not happening :currenDevilish:~~
 
-_Shenanigans full throttle lezgoooooo_
+~~*Shenanigans full throttle lezgoooooo*~~
+
+UPDATE : I fucked around and found out : it fucking doesn't work :currenDevilish:
 
 -------
 
