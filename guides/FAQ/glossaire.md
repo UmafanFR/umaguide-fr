@@ -29,7 +29,19 @@ Les termes sont classés par ordre alphabétiques, donc n'hésitez pas à utilis
 - [ ]  Inspecter le vocabulaire de la FAQ
 - [ ]  Inspecter le vocabulaire utilisé par [Gametora.com](http://Gametora.com)
 
+## Vocabulaire
+
 #### Carry-over
+Le "carry over" est une optimisation importante, consistant à activer un/plusieurs skill(s) de vitesse, avec un timing qui fait que le boost de vitesse sera toujours actif au début du late-race. Ça permet à votre uma d’entamer son accélération finale en partant d’une vitesse plus élevée que les autres. Elle gagne alors beaucoup d’avance. Un skill gold ou unique qui carry over peut vous faire gagner une avance de l’ordre de plusieurs longueurs si le timing est bon. 
+
+::: details Voilà à quoi ça ressemble
+
+Sur cet exemple, chaque instant où la ligne bleue est au-dessus de la rouge, la uma bleue court plus vite que la uma rouge, et gagne donc du terrain.
+
+![Image d'une simulation sur le simulateur "umalator", avec une uma sans carry over en rouge, et une uma avec carry over en bleu](/public/assets/Comp-PvP/CM_Umalator_CarryOver_v2.png)
+
+:::
+
 
 #### Reroll
 Quand vous débutez une nouvelle partie -fraîche-, puis effectuez les pulls gacha offerts au début du jeu après le tutoriel, puis effacez ces données de jeu SI le résultat des pulls n'est pas bon, on dit que vous avez fait un **reroll**. Le rerolling consiste à reroll à répétition, jusqu'à obtenir des très bons pulls au début du jeu, afin de commencer une partie avec des très bonnes ressources dés le début. Dans Umamusume, il y a un bouton dédié, qui permet d'effacer rapidement les données de jeu, afin de faire un reroll, et le tutoriel est ignoré.
@@ -125,20 +137,15 @@ Les évènements enchainés sont les events de cartes support qui se jouent -al�
 #### Hopeless Stakes
 La course G1 Hopeful Stakes, Nakayama 2000m, fin décembre junior year. Elle est parfois appelée Hope**less** Stakes, car pour les uma med/long qui requièrent l'obtention d'un certain nombre de fans avant fin décembre junior year, une défaite -aléatoire- sur cette course peut mettre fin à la carrière (et notamment celle de Mejiro McQueen), si vous n'aviez pas pris de précaution et skip la Kyoto Junior Stakes (fin novembre junior year).
 
------------------ RELECTURE ------------------------
-
 #### Agemasen
-Certaines cartes SSR (et surtout des SSR non-gacha) peuvent refuser de vous donner leur skill en version gold en fin de chain event, et vous donner -aléatoirement- un hint ❗pour sa version white à la place. Dans la commu, on parle alors de "agemasen", en référence à l’épisode dans la saison 2 où Teio s’imagine Special Week refuser de faire part de gratitude à McQueen, en hurlant "AGEMASEN !".
+Certaines cartes SSR (et surtout des SSR non-gacha) peuvent refuser de vous donner leur skill en version gold en fin de chain event, et vous donner -aléatoirement- un hint ❗ pour la version white à la place. Dans la commu, on parle alors de "agemasen", en référence à l’épisode dans la saison 2 où Teio s’imagine Special Week refuser de partager la gratitude de Teio avec McQueen, en hurlant "AGEMASEN !" ("C'est à moi, RIEN QU'À MOI").
 
-#### Haruten
-Le Tenno Sho Spring. En japonais, c’est Tenno Sho "Haru", ou abrégé en "Haru-Ten".
 
-#### Akiten
-Le Tenno Sho Autumn. En japonais, c'est Tenno Sho "Aki", ou abrégé en "Aki-Ten".
+#### RNG, ou "Random Number Generation"
+Le hasard. Le fléau de notre existence.
 
-#### RNG
-Random Number Generation. Le hasard. Le fléau de notre existence.
-Groundwork. Skill d’importance capitale pour les Front Runner, augmentant leur accélération en early-race si elles activent 3 autres skills. Le but est d’activer Groundwork (donc 3 autres skills) immédiatement au lancement de la course, pour bénéficier du boost d’accélération quand votre Front cherche à prendre la tête.
+#### Groundwork
+Skill d’importance capitale pour les Front Runner, augmentant leur accélération en early-race si elles activent 3 autres skills. Le but est d’activer Groundwork (donc 3 autres skills) immédiatement au lancement de la course, pour bénéficier du boost d’accélération quand votre Front cherche à prendre la tête.
 
 #### Early-race, ou "open leg"
 Les premiers 17% de la course (4/24 de la course).
@@ -150,18 +157,42 @@ Les 50% de la course qui suivent l’early-race.
 Le derniers tiers de la course. Au sein du late-race, le "last spurt" est la partie de la course où l’affichage des infos de position disparaissent de l’écran.
 
 #### Phase d’accélération
-Les quelques secondes immédiatement après le départ de la course, et immédiatement au début du late-race, où toutes les uma augmentent fortement leur "target speed" (vitesse cible), et essaient d’accélérer vers cette nouvelle vitesse.
+Les quelques secondes immédiatement après le départ de la course (early-race), et immédiatement au début du late-race, où toutes les uma augmentent fortement leur "target speed" (vitesse cible), et essaient d’accélérer vers cette nouvelle vitesse.
 
 #### Target speed, ou "vitesse cible"
-La vitesse à laquelle une uma veut courir à un instant donné de la course. Si une uma ne court pas à sa target speed, alors elle est en train d’essayer d’accélérer. La plupart des skills de vitesse augmentent la target cible pendant quelques secondes, et n’ont aucun effet réel pendant les phases d’accel (→ votre uma veut juste courir encore plus vite, mais elle n’accélère pas plus vite vers cette nouvelle cible).
+La vitesse à laquelle une uma veut courir à un instant donné de la course. Si une uma ne court pas à sa target speed, alors elle est en train d’essayer d’accélérer. La plupart des skills de vitesse augmentent **target cible** pendant quelques secondes, et n’ont **aucun effet réel pendant les phases d’accel** (→ votre uma veut juste courir encore plus vite, mais elle n’accélère pas plus vite vers cette nouvelle cible).
 
 #### Current speed, ou "vitesse instantanée"
-La vitesse à laquelle votre uma court à l’instant donné. Certains rares skills de vitesse peuvent augmenter la current speed ; ces skills ignorent donc l’accélération, et augmentent donc la vitesse même pendant les phases d’accel.
+La vitesse à laquelle votre uma court à l’instant donné. Certains rares skills de vitesse peuvent augmenter current speed ; **ces skills ignorent donc l’accélération**, et augmentent donc la vitesse même pendant les phases d’accel.
 
 #### Recovery
-Skill de couleur bleue, permettant à une uma de se restaurer instantanément des HP.
+Skill de couleur bleue, permettant à une uma de restaurer instantanément des HP.
 
 #### HP
+Les HP d'une uma sont calculés en début d'une course, à partir de la **stamina** de votre uma, de sa **stratégie** et de la **longueur** de la course. Quand une uma court elle consomme graduellement ses HP, en fonction de sa **current** speed. Au début du late-race, si votre uma voit qu'elle a suffisamment de HP pour terminer la course à pleine vitesse, elle va immédiatement commencer à accélérer vers sa vitesse maximale. Si votre uma subit des debuffs de HP pendant le late-race et tombe KO avant la fin de la course, elle va brutalement ralentir jusqu'à la fin de la course.
+
+::: tip Tomber KO...
+
+Que ce soit avant le late-race ou pendant le late-race, tomber KO pendant une course est généralement éliminatoire. Soyez généreux·euses en stamina et recovery, pour éviter cette situation !
+
+Avoir suffisamment de HP pour terminer la course est généralement la condition de victoire la plus importante.
+
+:::
+
+#### Condition de victoire, ou "win condition"
+Une condition toujours **obligatoire** -mais non suffisante- à valider pour avoir une chance sérieuse de gagner une course. Il y a généralement plusieurs conditions de victoires pour avoir des chances de victoire, et la plupart du temps vos adversaires invalideront vos conditions de victoire en tentant de valider les leurs. 
+* Exemples :
+    * Avoir suffisamment de HP
+    * Activer <une accel spécifique> au timing idéal
+    * Activer le skill unique de votre uma
+    * Prendre la 1e place immédiatement au lancement d'une course
+    * Etc
+
+::: tip Condition de défaite...
+
+Échouer à valider certaines win conditions peut être une condition de défaite suffisante (= qui vous fait perdre instantanément). Typiquement, ne pas avoir assez de HP est éliminatoire la plupart du temps, ne pas réussir à prendre la 1e place est éliminatoire pour les Front Runnern, etc.
+
+:::
 
 #### Debuff
 Skill de couleur rouge, permettant à une uma d’infliger instantanément un effet négatif à une uma adverse. Exemples : Debuff de HP, debuff de vitesse, etc.
@@ -176,14 +207,37 @@ Une ligne droite. Les lignes droite ne sont pas numérotées.
 La dernière occurrence du 4e corner pendant la course. Pour les courses très longues qui se jouent sur plus d’un tour, la première fois que les uma courent sur le 4e corner, ce n’est pas le final corner. Ce n’est qu’au dernier tour que le 4e corner est le final corner.
 
 #### Final straight
-La ligne droite qui suit immédiatement le final corner. La ligne d’arrivée est toujours sur le final straight, sauf sur la course qui n’a pas de corner [À VÉRIFIER].
-Longueur, ou "horse-length", ou "bashin" (JP). Environ 2,4m. Souvent arrondi à 2,5m pour simplifier les calculs de tête.
+La ligne droite qui suit immédiatement le final corner. La ligne d’arrivée est toujours sur le final straight.
+
+::: tip Sauf sur Ibis Summer Dash
+
+Sur la course **Ibis Summer Dash** (Niigata 1000m, G3) il n'y a pas de corner, donc pas de final straight. La ligne d'arrivée n'est donc pas sur le final straight, pour cette course là uniquement.
+
+::: 
+
+#### Longueur, ou "horse-length", ou "bashin" (JP).
+Environ 2,4m. Souvent arrondi à 2,5m pour simplifier les calculs de tête.
 
 #### Rush
 Une uma peut -aléatoirement, en fonction de wits- devenir "rushed" une fois par course. Pendant le rush, elle se met à courir plus aggressivement (= plus vite, la plupart du temps), et consomme ses HP 60% plus vite. Pendant la période de rush, la uma va tenter à répétition de se calmer, avec plus ou moins de succès, en fonction de wits.
 
 #### Cooldown
-Minuteur après lequel un skill peut se réactiver pendant la course (si la condition d’activation est de nouveau validée). Le cooldown de base affiché d’un skill est multiplié par DistanceDeLaCourse/1000 (donc x3 sur Kikka Sho, Kyoto 3000m). Un skill dont le cooldown de base affiché est 30s peut réalistiquement s’activer 2 fois dans une course ; et tous les autres skills ont -implicitement- un cooldown de base de 500s (impossible à réactiver).
+Minuteur après lequel un skill peut se réactiver pendant la course (si la condition d’activation est de nouveau validée). Le cooldown de base affiché d’un skill (sur gametora.com) est multiplié par `DistanceDeLaCourse/1000` (exemple : x3 sur Kikka Sho, Kyoto 3000m). Un skill dont le cooldown de base affiché est 30s peut réalistiquement s’activer 2 fois dans une course ; et tous les autres skills ont -implicitement- un cooldown de base de 500s (impossible à réactiver).
+
+## Surnom de certaines courses
+
+#### Haruten
+Le Tenno Sho Spring. En japonais, c’est Tenno Sho "Haru", ou abrégé en "Haru-Ten".
+
+#### Akiten
+Le Tenno Sho Autumn. En japonais, c'est Tenno Sho "Aki", ou abrégé en "Aki-Ten".
+
+#### Kikka
+Le Kikuka Sho. Le nom de la course est prononcé "Kik-ka sho", mais est officiellement traduit "Kikuka Sho" dans le jeu.
+
+#### Derby
+Le Tokyo Yushun Nippon Derby (Tokyo 2400m, G1). À ne pas confondre avec le Japan Dirt Derby (Ooi 2000m, G1).
+
 
 ## Surnom de certaines Uma
 
