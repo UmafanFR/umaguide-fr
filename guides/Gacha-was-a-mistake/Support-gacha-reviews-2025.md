@@ -354,7 +354,7 @@ C'est aussi une très bonne bannière pour _**reroll**_. Donc ok pour les début
 
 ::::
 
-## #17 - Tokai Teio speed SSR & Special Week guts SSR (bannière actuelle)
+## #17 - Tokai Teio speed SSR & Special Week guts SSR
 
 ![Image de présentation de la bannière Tokai Teio speed SSR & Special Week guts SSR](/public/assets/Gacha-reviews/2025/017_Card-Banner.png)
 
@@ -384,5 +384,44 @@ C'est aussi une très bonne bannière pour _**reroll**_. Donc ok pour les début
 **Non, easy skip**.
 
 Aucune des cartes n'est de qualité notable, et des bannières importantes arrivent bientôt.
+
+::::
+
+## #18 - Nice Nature wits SSR & Tosen Jordan stamina SR (bannière actuelle)
+
+![Image de présentation de la bannière Nice Nature wits SSR & Tosen Jordan stamina SR](/public/assets/Gacha-reviews/2025/018_Card-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Nice Nature wits SSR**
+* La carte a une croissance plutôt équlibrée : on pourrait penser qu'elle est frontloaded, vu qu'à 1LB elle a déjà son 2e wits bonus, mais ce serai ignorer son gain de race bonus à 3LB puis MLB.
+* **Nice Nature wits SSR est une des 3 meilleures cartes wits de la 1e année**. Elle brille part son 15 training bonus élevé, ses 2 points de wits bonus, et son 15 race bonus élevé, particulièrement désirable sur ~~le scénario maudit~~ le 3e scénario : **Make A New Track**.
+* En termes de gain de wits, elle se situe légèrement en dessous de Fine Motion -la meilleure carte wits pendant encore un moment-, mais la différence n'est pas grande. De plus, avec 2 wits bonus, le gain de wits avant arrivée des rainbows sera supérieur. Grâce à son training bonus et son race bonus élevés, sa contribution au cross-training (= monter les autres stats que la sienne) sont notables.
+* Sa sélection de hints ❗ laisse à désirer, avec un mélange de debuffs de stamina, white recovery et autres. 
+* Le skill gold obtenu est **On Your Left**, la version gold de Slick Surge, l'accel aléatoire des Late Surger. Sur les courses sprint et mile le skill est particulièrement désirable, et de manière générale les Late Surger font pas mal de gambling sur les activations d'accel ; On Your Left est très bon à avoir pour elles, dans leur arsenal aux timings variables (plus la distance est longue, moins le skill est fiable cependant).
+* Son premier chain event fait un mood up, le 2e peut guérir un debuff (option du bas), et le dernier rend +10 énergie. Quant à ses events aléatoires, l'un vous rend +20 énergie, et l'autre peut vous faire mood up + max energy up. Pas pour rien qu'elle s'appelle **Nice** Nature 🙏🏿🌟.
+* La carte est "méta" sur le 3e scénario -Make a New Track-, car le race bonus y a beaucoup de valeur (sur ce scénario, une carrière inclus généralement plus de 20-25 courses). Nice Nature wits est non seulement une très bonne carte wits, mais aussi la carte wits avec le race bonus le plus élevé (et c'est toujours le cas, même sur la version JP du jeu). Elle est donc toute indiquée, et contribue bien à la qualité de vos carrières sur ce scénario.
+
+⏩ **Tosen Jordan stamina SR**
+* Tosen Jordan poursuit la tradition des cartes stamina SR, et est elle aussi une carte stam SR de bonne qualité. 
+* La carte est relativment backloaded ; elle a globalement des assez bons bonus dés 0LB, mais son point de stamina bonus est débloqué seulement à MLB.
+* Jordan stam SR est plutôt équilibrée sur ces bonus, avec un bon gain de stamina, et une chouette contribution à monter les autres stats (45 mood bonus).
+* Sa sélection de hints ❗ est bonne, avec le green de vitesse long shot, une white recovery et 4 whites de vitesse ; dont Medium Straightaways et Corner, ainsi que Pace Straightaways (qui est plutôt pénible à obtenir pour le moment).
+* Le skill white obtenu à la fin de son chain event est **Ramp Up**, ce qui est plutôt bien. C'est un skill white de vitesse s'activant sur un dépassement en mid-race. Il est quasiment universel, désirable pour tous le monde, et s'active très bien en Team Trials.
+* Le premier chain event de Jordan stam SR peut aléatoirement provoquer un mood down (option du haut).
+
+#### PULL OU PAS ?
+
+**C'est une bonne bannière, tout à fait recommandable**, mais savoir si ou non vous pouvez pull n'est pas évident. Ça dépend principalement de 2 choses :
+- les prochaines bannières que vous voulez viser
+- vos cartes wits
+- la qualité de votre collection de cartes support
+
+Nice Nature wits est une des 3 meilleures cartes wits du jeu, et le sera pendant encore un bon moment. Les 2 autres sont Fine Motion wits SSR, et Curren Chan wits SSR (qui arrive dans un peu plus d'un mois). Si vous n'avez **pas encore Fine Motion wits SSR** (peu importe le LB), _**ET**_ que vous n'avez pas de bannière notable en vue pour laquelle économiser, vous pouvez **pull _abondamment_ pour obtenir Nice Nature wits**, préférablement à **haut LB**. On parle de _minimum **un spark**_. Son race bonus élevé est obtenu à LB élevé, donc si vous décidez de vous lancer avec Nice Nature wits, **lancez-vous à fond**.
+Si par contre vous zieutez une des (nombreuses) bannières uma à venir pendant le 2e scénario -Unity Cup- (Agnes Digital, Rice Shower alt, Manhattan Cafe, et plus tard Oguri Cap alt, TM Opera O alt, Tamamo Cross, Mihono Bourbon alt), ou la bannière support suivante avec **Riko Kashimoto pal SSR et Rice Shower power SSR**, vous allez vouloir y réfléchir à deux fois. 
+
+Prenez aussi en compte la qualité de votre collection de supports ; si vous êtes ric-rac en cartes SR, au bout d'un moment il faudra faire des pulls pour enrichir cette collection :currenDevilish:
+
+C'est pas évident.
 
 ::::
