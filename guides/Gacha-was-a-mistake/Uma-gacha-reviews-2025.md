@@ -341,7 +341,7 @@ Il y'a d'autres bannières de uma intéressantes à venir un peu plus tard (Meis
 
 ::::
 
-## #17 - Meisho Doto ★★★ (bannière actuelle)
+## #17 - Meisho Doto ★★★
 
 ![Image de présentation de la bannière Meisho Doto](/public/assets/Gacha-reviews/2025/017_Uma-Banner.png)
 
@@ -361,5 +361,27 @@ _Meisho Doto est une Pace Chaser (1 gold) génériquement OK, qui peut parfois m
 **Si vous l'aimez** et que vous n'avez pas de bannière importante à venir.
 
 Sans être spécialement *bonne*, Doto est génériquement OK par défaut, et parfois très forte si son unique est bien timé. Vous pouvez avoir plein de wins avec un peu d'effort, donc c'est une bonne cible de pulls **si vous l'aimez beaucoup**. Il y aura des tas de uma meilleures qu'elle cependant ; si vous n'y êtes pas particulièrement attaché, gardez vos carats pour autre chose.
+
+:::
+
+## #18 - Meisho Doto ★★★ (bannière actuelle)
+
+![Image de présentation de la bannière Meisho Doto](/public/assets/Gacha-reviews/2025/018_Uma-Banner.png)
+
+::: details REVIEW
+
+_Eishin Flash est une Late Surger (2 whites) moyenne/médiocre, qui peut facilement courir en tant que Pace ou End, mais sans nécessairement être meilleure sur ces stratégies. Elle n'a rien de notable, un seul gold qui accomplis quelque chose (et parfois rien), et un unique de fiabilité variable. S'il s'active, son unique est toujours utile en distances medium et long, et presque toujours partiellement/entièrement gaché en distances sprint et mile (pour lesquelles elle n'a pas les aptitudes de toutes façons)._
+
+* Avec +10% power bonus et 20% wits bonus, on peut dire que les bonus de Flash sont plutôt bons. Le wits bonus important peut réduire le nombre de cartes wits à utiliser pour monter wits, et le power bonus est toujours bon à prendre et toujours utile, car 3 des 5 entrainements montent power (speed, power et guts).
+* Pas d'ambiguité sur ses aptitudes de distance et de terrain : elle n'est apte que pour les distances medium et long, en turf. Elle a par contre la flexibilité de courir en tant que Late Chaser (et a 2 skills white Late Surger), mais aussi en Pace Chaser ou End Closer, avec un peu d'inspiration (1* Pace ou 4* End). Sur certains CM où une de ces stratégies est plus favorables, elle peut donc s'y adapter.
+* Sa sélection de skill gold est assez médiocre : 
+    * **Lane Legerdemain** est un gold skill de déplacement latéral qui s'active aléatoirement en late-race. Le skill est garbage et ne fera rien 99% du temps, mais s'active très bien, donc c'est des points fiables en Team Trials.
+    * **In Body and Mind** est un gold skill de vitesse qui s'active aléatoirement en late-race. Le skill a une solide chance de s'activer beaucoup trop tôt (en pleine accel) ou trop tard (à quelques mètres de l'arrivée), et donc ne rien faire. Le reste du temps c'est un skill OK sans plus, mais qui s'active très bien, donc ce sont des points en TT.
+* Son skill unique est un boost de vitesse sur le final straight si Flash n'a pas eu de Late Start ni de Rush, et qu'elle est 3e ou pire. Le besoin de ne pas avoir de Rush *ni* Late Start nuit à la fiabilité du skill, et la condition de position -3e ou pire- sera parfois gênante. En cas d'activation, le skill sera essentiellement toujours pleinement utile en med et en long, car en théorie sur le final straight elle a déjà terminé sa phase d'accel.
+> Son unique sera buff plus tard, et aura une version plus puissante, si elle reste entre top80%-40% jusqu'au final straight. Là aussi, fiabilité discutable.
+
+#### PULL OU PAS ?
+
+**Seulement si vous l'aimez beaucoup**. Ce n'est pas une bonne uma. Elle est très cute et assez marrante par contre.
 
 :::
