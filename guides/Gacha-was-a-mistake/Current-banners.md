@@ -174,6 +174,8 @@ N'hésitez pas à consulter l'opinion d'autres vétérans pour vous aider à dé
 
 Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un peu plus clair, et faire des choix plus pertinents pour vos pulls.
 
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/019_Banners_early_preview.jpg)
+
 ### Bannière Umamusume : Matikanefukukitaru alt ★★★
 
 _Matikanefukukitaru "Full Armor" est une Late Surger (1 white) spécialisée en long distance (2 gold), et plutôt forte dans sa niche. Elle peut facilement courir en tant que Pace, mais sans nécessairement être meilleure sur cette stratégie. Ses 2 skills gold sont fiables et ciblent le late-race, mais l'un des deux a une chance non nulle de s'activer un peu trop tôt. Son skill unique a une solide chance de carry over sur toutes les courses. Bien qu'elle soit spécialisée en long, son manque de gold recovery et son faible stamina bonus n'aident pas à atteindre les HP requis pour les 2 très longues G1 : Kikka Sho et Tenno Sho Spring._
@@ -223,7 +225,7 @@ Grâce au scenario link, Rice peut vous permettre d'obtenir la gold recovery lon
 
 :::
 
-* Rice Showere power SSR est une carte à la **croissance équilibrée** : on pourrait penser qu'elle est frontloaded avec son power bonus à 1LB, mais c'est sans compter la forte augmentation de son training bonus à 3LB et MLB.
+* Rice Shower power SSR est une carte à la **croissance équilibrée** : on pourrait penser qu'elle est frontloaded avec son power bonus à 1LB, mais c'est sans compter la forte augmentation de son training bonus à 3LB et MLB.
 * Niveau gain de stats, Rice power est assez bonne. Ses rainbow sont efficaces, et avec son power bonus et stamina bonus, elle devrait bien contribuer à monter ces 2 stats. Enfin, elle contribue bien au cross-training général grâce à 15 training bonus. On regrette seulement 5 race bonus (avec 10, elle aurait été pertinente aussi sur le 3e scénario).
 * Sa sélection de hints ❗ laisse perplexe, avec 4 debuffs (dont 1 inutile), les accels Highlander et Straight Descent qui sont hyper niche, et 2 greens.
 * Son skill gold est l'excellent **Swinging Maestro**, our lord and savior. On ne présente plus la recovery la plus fiable du jeu. 
