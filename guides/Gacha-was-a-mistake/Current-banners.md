@@ -178,9 +178,11 @@ Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un 
 
 ### Bannière Umamusume : Hishi Akebono ★★★
 
-::: tip A lot to unpack
+::: tip Accrochez vos ceintures
 
-Accrochez vos ceintures :currenDevilish:
+A lot to unpack :currenDevilish:
+
+![Capture d'écran en anglais d'une conversation entre moi et un pote](/public/assets/Gacha-reviews/2025/020_UniqueSkill_Hishi-Akebono_fun-convo.png)
 
 :::
 
@@ -273,6 +275,7 @@ L'estimation "1 gold recovery = 200 stam" se base sur le calcul de HP pour.... *
 Bravo si vous aviez ne serai-ce qu'une légère intuition pour ça. C'est vraiment un truc qu'on ne cherche à savoir que pour optimiser l'unique de Hishi Akebono, donc tout·es celles et ceux qui ne le manipulent pas n'ont pas besoin de visualiser ça. C'est à dire, la vaste majorité des joueur·euse·s.
 
 (oui j'ai beaucoup joué Bono sur la JP, why do you ask ?)
+
 
 :::
 
