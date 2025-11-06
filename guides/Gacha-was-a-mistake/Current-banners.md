@@ -130,7 +130,7 @@ Gardez en tête que Riko Kashimoto est **scenario linked** avec le scénario **U
 
 * Riko Kashimoto pal SSR a une **croissance plutôt équilibrée** : à 1LB elle gagne 5 training bonus, boosté à 10 training bonus dés 2LB, et à parir de 3 LB elle obtient "initial stamina", qui est assez osef. On peut donc imaginer un sweet spot à 2LB.
 * Le rôle d'une carte pal :friends: est de contribuer à la qualité de vos carrières par **cross-training** ; c'est à dire, aider à la croissance de toutes les stats. Les cartes pal ont le privilège de pouvoir réduire la consommation d'énergie et la chance d'échec d'entrainement. Sur ces 2 stats là, _Riko Kashimoto est strictement inférieure à Tazuna_. Riko vous propose par contre un chouette 10 race bonus, qui augmentera vos gains de stats et skill points après des courses.
-> C'est particulièrement désirable sur le 3e scénario, Make a New Track, ce qui rend Riko pertinent pour ce scénario là aussi, augmentant donc sa durée de vie.
+> C'est particulièrement désirable sur le 3e scénario, Make a New Track, ce qui rend Riko pertinente pour ce scénario là aussi, augmentant donc sa durée de vie.
 * Le skill gold de Riko -obtenu à la fin de ses chain events- est l'accel **Rushing Gale**, la version gold de Straightaway Acceleration. Le skill s'active très bien, mais ne fait presque jamais rien, car trop aléatoire. 
 > Rushing Gale sera bon sur le premier CM sprint.
 * En tant que carte Pal, le 2e grand rôle de Riko tourne autour des recreations/outings/dates qui restaurent à la fois de l'énergie et font des mood up. La plupart des ses events vous apportent un gain de **stamina**, y compris son "post-training event", qui peut se produire aléatoirement après un entrainement avec elle. C'est donc une **source de stamina** qui peut être utilisée en complément de cartes power, ou d'une carte stamina.
@@ -299,6 +299,17 @@ Si j'arrive à pull Bono d'ici le CM Arima Kinen, j'essaierai de faire une build
 
 :::::
 
+::: tip Ne vous tuez pas à la tâche
+
+**Vous POUVEZ utiliser le skill unique de Hishi Akebono sans l'optimiser**. C'est pas grave. C'est juste dommage, car sans optimisation c'est juste le skill unique de Golshi, mais strictement *moins bien*. Mais c'est ok quand même.
+
+Avec notre rythme accéléré de jeu, ce sera plus difficile de trouver le temps et l'immense motivation pour faire l'effort d'optimiser son unique en CM sprint et mile. C'est bien de le faire, car ça rend Bono très forte. Pour le moment, notre méta des CM sprint et mile repose sur beaucoup de sources d'accel peu fiables/aléatoires ; l'intérêt d'optimiser Bono c'est que son carry over et son accel deviennent **fiable**.
+
+Mais si c'est trop pénible, c'est trop pénible et c'est tout. Ne vous tuez pas à la tâche.
+
+:::
+
+
 #### PULL OU PAS ?
 
 **Seulement si vous l'aimez beaucoup**, OU si vous tenez vraiment à **tryhard en CM sprint et mile**. C'est une bonne uma sprint pour le Team Trials, elle est forte en CM sprint et mile. Le problème c'est que je pense que vous n'aurez pas grand chose comme :carat: quand sa bannière arrivera, et s'il vous en reste, c'est sans doute pour une autre bannière uma importante à venir (Agnes Digital, ou plus tard XOguri et compagnie).
@@ -313,7 +324,7 @@ Mais c'est une **vraie bonne uma sprint/mile**. Et difficile à optimiser.
 * La carte est assez **frontloaded** : dés 1LB elle a déjà son 1 speed bonus, et 16 training bonus. Elle débloque Initial Friendship Gauge à 3LB.
 * Biko speed est une des bonnes cartes speed SSR qui -sans être *excellente*- **restera bonne très longtemps**. Tout bêtement, c'est difficile de déloger une carte speed avec 20 training bonus, 55 spec prio et 10 race bonus. Ses rainbows sont de bonne qualité, et elle contribue fortement au cross-training. Ce sont juste des bons bonus. On aura des cartes avec des meilleurs bonus, et on aura des tas cartes avec des moins bons bonus. Elle ne sera jamais la meilleure à quoi que ce soit, mais ce ne sera aussi **jamais un mauvais choix**, même à très faible LB. 
 * Sa sélection de hints ❗ est correcte, avec des skills de vitesse sprint, une white recovery et le white de navigation "Meticulous Measures" (sprint), qui a une solide chance d'être plutôt bon. 
-* Le skill gold obtenu est **Plan X**, la version gold de Countermeasure. C'est une accel sprint complètement aléatoire, qui s'active pour les frontlines. C'est un skill désirable, car les courses sprint -étant extrêmement courtes- se jouent très fortement sur l'accel. En cas d'activation en succès, c'est une condition de victoire souvent suffisante.
+* Le skill gold obtenu est **Plan X**, la version gold de Countermeasure. C'est une accel sprint aléatoire en 2e moitié de mid-race, qui s'active pour les **uma top50% mais pas 1e**. C'est un skill très désirable, car les courses sprint -étant extrêmement courtes- se jouent très fortement sur l'accel. En cas d'activation en succès, c'est une condition de victoire souvent suffisante.
 * Ses 2 events aléatoires (non chain event) restaurent tous deux de l'énergie (+15 et +30)
 
 ⏩ **Sakura Bakushin O** :speed: :ssr:
