@@ -98,7 +98,7 @@ Bonne chance à tous·tes !
 
 ![Image de présentation de la bannière Matikanefukukitaru alt](/public/assets/Gacha-reviews/2025/019_Uma-Banner.png)
 
-_Matikanefukukitaru "Full Armor" est une Late Surger (1 white) spécialisée en long distance (2 gold), et plutôt forte dans sa niche. Elle peut facilement courir en tant que Pace, mais sans nécessairement être meilleure sur cette stratégie. Ses 2 skills gold sont fiables et ciblent le late-race, mais l'un des deux a une chance non nulle de s'activer un peu trop tôt. Son skill unique a une solide chance de carry over sur toutes les courses, peu importe la distance. Bien qu'elle soit spécialisée en long, son manque de gold recovery et son faible stamina bonus n'aident pas à atteindre les HP requis pour les 2 très longues G1 : Kikka Sho et Tenno Sho Spring._
+_Matikanefukukitaru "Full Armor" est une Late Surger (1 white) spécialisée en long distance (2 gold), et plutôt forte dans sa niche. Elle peut facilement courir en tant que Pace, mais sans nécessairement être meilleure sur cette stratégie. Ses 2 skills gold sont fiables et ciblent le late-race, mais l'un des deux a une chance non nulle de s'activer un peu trop tôt. Son skill unique a une solide chance de carry over sur toutes les courses, peu importe la distance. Bien qu'elle soit spécialisée en long, son manque de gold recovery et son faible stamina bonus n'aident pas à atteindre les HP requis pour les 2 très longues G1 : Kikuka Sho et Tenno Sho Spring._
 
 * Ses bonus de croissance sont assez bons. On regrette un peu (un peu) les 10% guts bonus de Fuku alt, mais 10% stamina bonus et 10% wits bonus sont des bons bonus. 
 * Niveau aptitudes, Fuku alt est clairement indiquée pour les distances medium et long sur turf. Bien qu'elle puisse facilement courir en tant que Pace -avec 1* d'inspiration-, sa stratégie de prédilection est bien Late Surger, comme suggéré par son skill unique. Avec F dirt, vous pourriez la faire courir en CM dirt avec beaucoup d'inspiration, mais c'est quand même bien déconseillé : il n'y a tout bêtement pas de course dirt longue.
@@ -111,7 +111,7 @@ _Matikanefukukitaru "Full Armor" est une Late Surger (1 white) spécialisée en 
 
 #### PULL OU PAS ?
 
-**Si vous l'aimez**, ou **si vous voulez une bonne spécialiste pour les CM Kikka Sho et Arima Kinen**. C'est la 1e spécialiste de longue distance, et elle est bonne à son job, mais il y aura des tas d'autres spécialistes longues distances *bien meilleures* qu'elle. Elle n'est pas un mauvais choix, mais il y en a des tas de plus pertinents à venir. Elle sera forte sur le 6e CM (Kikka Sho).
+**Si vous l'aimez**, ou **si vous voulez une bonne spécialiste pour les CM Kikuka Sho et Arima Kinen**. C'est la 1e spécialiste de longue distance, et elle est bonne à son job, mais il y aura des tas d'autres spécialistes longues distances *bien meilleures* qu'elle. Elle n'est pas un mauvais choix, mais il y en a des tas de plus pertinents à venir. Elle sera forte sur le 6e CM (Kikuka Sho).
 
 ---
 

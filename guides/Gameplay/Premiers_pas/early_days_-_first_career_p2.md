@@ -117,7 +117,7 @@ Le nom "Satsuki Sho" vous est p't'être familier ; c'est la première course G1 
 
 - **Satsuki Sho** - Nakayama 2000m (medium) - début avril Classic Year
 - **Tokyo Yushun Nippon Derby** - Tokyo 2400m (medium) - fin mai Classic Year
-- **Kikka Sho** - Kyoto 3000m  (long) - fin octobre Classic Year
+- **Kikuka Sho** - Kyoto 3000m  (long) - fin octobre Classic Year
 
 :::
 
@@ -210,7 +210,7 @@ Les principales courses G1 de cette période sont :
 **Course** | Infos | Date
 -----------|-------|-----
 **Sprinters Stakes** | Nakayama 1200m (sprint) | fin septembre Classic Year
-**Kikka Sho** | Kyoto 3000m (long) | fin octobre Classic Year
+**Kikuka Sho** | Kyoto 3000m (long) | fin octobre Classic Year
 **Tenno Sho Autumn** | Tokyo 2000m (med) | fin octobre Classic Year
 **Shuka Sho** | Kyoto 2000m (med) | fin octobre Classic Year
 **Queen Elizabeth II Cup** | Kyoto 2200m (med) | début novembre Classic Year
@@ -457,7 +457,7 @@ Il y a pas mal d'autres uma qui doivent faire top3 ou top5 sur Tenno Sho Spring,
 
 :::
 
-⏩ **Narita Taishin** : Après **Kikka Sho**, Taishin subit une sévère **baisse d'humeur**, que vous devrez effacer au plus vite, ce qui vous ruinera plusieurs tours d'entrainement 🙃
+⏩ **Narita Taishin** : Après **Kikuka Sho**, Taishin subit une sévère **baisse d'humeur**, que vous devrez effacer au plus vite, ce qui vous ruinera plusieurs tours d'entrainement 🙃
 
 ::::
 

@@ -86,8 +86,8 @@ Curren Chan est une Pace Chaser génériquement bonne en Sprint. Elle est équip
 
 ::: details REVIEW
 
-* C'est une End Closer génériquement forte en medium, et **meta sur les courses G1 long** (Arima Kinen, Kikka Sho, Tenno Sho Spring). Elle est aussi occasionnellement très forte sur les quelques courses sprint ou mile dont le Late Race commence sur une ligne droite. 
-* Sa carrière a une difficulté ; elle a un event après Kikka Sho qui lui fait perdre **3 niveaux d'humeur d'un coup**, et obtenir un debuff. Si vous retirez ce debuff, vous aurez une récompense quelques mois plus tard.
+* C'est une End Closer génériquement forte en medium, et **meta sur les courses G1 long** (Arima Kinen, Kikuka Sho, Tenno Sho Spring). Elle est aussi occasionnellement très forte sur les quelques courses sprint ou mile dont le Late Race commence sur une ligne droite. 
+* Sa carrière a une difficulté ; elle a un event après Kikuka Sho qui lui fait perdre **3 niveaux d'humeur d'un coup**, et obtenir un debuff. Si vous retirez ce debuff, vous aurez une récompense quelques mois plus tard.
 #### PULL OU PAS ? 
 Bon usage de vos carats si vous l'aimez bien, ou si vous voulez une uma de qualité pour le Champion's Meeting de *Septembre* : Tenno Sho Spring ([recommandations ici](/guides/Modes%20de%20jeu/Champion's%20Meeting/Archives%20de%20CM/cm-gemini-cup-2025.md))
 
@@ -156,7 +156,7 @@ Si vous les aimez, oui. Si vous aimez jouer des debuffeuse de HP (ew), oui. Sino
 * Mais tout le monde est intéressée par elle, pas parce qu'elle est bien, mais parce que **son skill unique** est -en effet- **meta defining**. Une **accel fiable** qui s'active parfaitement dans toutes les G1 sauf 3, ça ne se refuse pas. Mais il y a un hic : **seule la uma en 1e position peut l'activer**. La condition exacte, c'est d'être en 1e position sur un corner du late-race. C'est tout.
 * On dit que la seule Front qui a une chance de gagner c'est la Front en 1e position. C'est vrai (ça deviendra progressivement un peu moins vrai plus tard). Les Front ne sont généralement pas aptes à **dépasser** une uma adverse en late-race, donc si une Front n'est pas 1e au moment du late-race, elle a déjà perdu. Mais la VRAIE raison pour laquelle la seule Front qui peut gagner c'est la 1e, c'est que c'est la seule qui pop l'unique de Seiun Sky, et  peut donc s'échapper à l'avant pour distancer le reste du peloton. **C'est la stratégie des Front : mettre une distance aux autres et ne pas se faire rattraper**. C'est leur principale **condition de victoire**. L'unique de Seiun Sky est **requis** pour atteindre ce but (sauf dans les 3 G1 où il marche pas), donc une Front qui n'est pas 1e en late-race ne peut pas valider la condition de victoire, et a donc déjà perdu.
 * Cet unique marche dans toutes les G1 sauf 3, et de manière générale la vaste majorité des courses med, la majorité des mile, et une partie des sprint. En long, beaucoup moins, ce qui est ironique quand on voit qu'elle a un gold long.
-* À partir de maintenant, si vous entrainez une Front sérieuse (CM), vous allez **toujours** (toujours) mettre l'unique de Seiun Sky dessus. Toujours, sauf dans les 3 G1 où il marche pas : Tenno Sho Spring (Gemini Cup - [guide de préparation](/guides/Modes%20de%20jeu/Champion's%20Meeting/Archives%20de%20CM/cm-gemini-cup-2025.md)), Kikka Sho et Takamatsunomiya Kinen. Dans tous les autres CM, sans qu'on vous le dise dans un guide, votre Front **doit** avoir l'unique de Seiun Sky.
+* À partir de maintenant, si vous entrainez une Front sérieuse (CM), vous allez **toujours** (toujours) mettre l'unique de Seiun Sky dessus. Toujours, sauf dans les 3 G1 où il marche pas : Tenno Sho Spring (Gemini Cup - [guide de préparation](/guides/Modes%20de%20jeu/Champion's%20Meeting/Archives%20de%20CM/cm-gemini-cup-2025.md)), Kikuka Sho et Takamatsunomiya Kinen. Dans tous les autres CM, sans qu'on vous le dise dans un guide, votre Front **doit** avoir l'unique de Seiun Sky.
 * [Errzy explique brièvement -mais très bien- la Seiun Sky Situation](https://www.youtube.com/watch?v=bykR7co9m2E), et comment en tirer parti. C'est **une des vidéos les plus importantes d'Errzy** je dirai, car Seiun est juste *that important*. Je vous recommande vraiment beaucoup de la regarder.
 
 #### PULL OU PAS ?
@@ -218,7 +218,7 @@ La limite de 3 legacy empruntées par jour est trop faible pour vous permettre d
 
 ⏩ **Grass Wonder alt**
 
-* Grass Wonder alt est une Late Surger (1 gold 💀 + unique) pensée uniquement pour être increvable en distance long (1 gold). Elle n'est pas _forte_, MAIS avec 2 bonnes gold recoveries (dont 1 unique) vous n'aurez jamais de difficulté à la build pour les très longues G1 comme Kikka Sho et -surtout- Tenno Sho Spring.
+* Grass Wonder alt est une Late Surger (1 gold 💀 + unique) pensée uniquement pour être increvable en distance long (1 gold). Elle n'est pas _forte_, MAIS avec 2 bonnes gold recoveries (dont 1 unique) vous n'aurez jamais de difficulté à la build pour les très longues G1 comme Kikuka Sho et -surtout- Tenno Sho Spring.
 * Ses aptitudes de distance ont ceci d'amusant qu'elle est moins apte à courir en medium (B) qu'en mile et en long (A). Ce n'est pas un vrai problème.
 * Ses 2 skills gold sont des gold recoveries :
     * **Cooldown** est une gold recovery qui s'active sur une ligne droite aléatoire sur une course long. Le skill a une solide chance de s'activer à un mauvais timing, mais sera buffé plus tard pour être garantis en mid-race, ce qui le rendra parfaitement fiable et utile.

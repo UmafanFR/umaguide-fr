@@ -27,7 +27,7 @@ Pendant une carrière, il y a assez peu de repères notables à atteindre, alors
 
 Les seuls seuils que je vous invite à essayer de "viser" :
 
-- Vous allez parfois perdre **Kikka Sho** en carrière (Classic Year, fin Octobre) si vous avez moins de **350-400 stamina** effective.
+- Vous allez parfois perdre **Kikuka Sho** en carrière (Classic Year, fin Octobre) si vous avez moins de **350-400 stamina** effective.
 - Vous allez presque systématiquement perdre **Tenno Sho Spring** en carrière (Senior Year, fin Avril) si vous avez moins de **600 stamina** effective. Si vous gagnez cette course, vous avez la stamina pour l'entièreté de la carrière (mais pas forcément pour Team Trials).
 - Visez au moins **600 speed et 450 stamina pour sécuriser Arima Kinen** en fin de carrière (Senior Year, fin Décembre). Vos autres stats doivent suivre, bien entendu. Vous perdrez si vous avez genre 200 power, 150 guts et 200 wits à côté.
 

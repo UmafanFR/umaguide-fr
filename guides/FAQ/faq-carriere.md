@@ -38,7 +38,7 @@ L'info qui vous intéresse, c'est quelles sont les distances sur lesquelles votr
 
 #### Si votre uma court sur des courses **medium et longue distance** : 
 
-Vous avez besoin de **HP en abondance**, donc votre source de HP sera la **stamina**, et des **gold recovery** si nécessaire (1 gold recovery vaut presque 4 white recovery, et peut être approximé à environ +200 stamina). Pour une uma qui ne fait aucune course long (excepté Arima Kinen ~~mais c'est secrètement une course med~~), vous _pouvez_ vous contenter d'une seule carte stamina si elle est bonne (comme Super Creek stam SSR ou -dans une moindre mesure- Mayano Top Gun stam SR avec beaucoup de LB), et compléter au besoin avec des recovery (gold de préférence). Par contre, une uma qui court sur les G1 de longue distance (Kikka Sho et Tenno Sho Spring) voudra certainement une 2e carte stamina pour sécuriser ces courses.
+Vous avez besoin de **HP en abondance**, donc votre source de HP sera la **stamina**, et des **gold recovery** si nécessaire (1 gold recovery vaut presque 4 white recovery, et peut être approximé à environ +200 stamina). Pour une uma qui ne fait aucune course long (excepté Arima Kinen ~~mais c'est secrètement une course med~~), vous _pouvez_ vous contenter d'une seule carte stamina si elle est bonne (comme Super Creek stam SSR ou -dans une moindre mesure- Mayano Top Gun stam SR avec beaucoup de LB), et compléter au besoin avec des recovery (gold de préférence). Par contre, une uma qui court sur les G1 de longue distance (Kikuka Sho et Tenno Sho Spring) voudra certainement une 2e carte stamina pour sécuriser ces courses.
 
 Votre deck devient donc **2speed 2stam 1wits** :speed: :speed: :stamina: :stamina: :wit:. Vous avez alors le choix entre ajouter une **3e carte speed** (plus facile de réussir le scénario), ou éventuellement une 2e carte wits (meilleure performance en Team Trials).
 
@@ -50,7 +50,7 @@ Votre deck devient donc **2speed 2power 1wits** :speed: :speed: :power: :power: 
 
 #### Si votre uma court sur des distance ambigues, comme **mile et medium**, ou si votre uma est comme King Halo et fait **toutes les distances** :
 
-Construisez votre deck pour la distance **la plus grande**. C'est tout bête, mais si vous ne prenez pas en compte la distance la plus grande **vous allez vous retrouver en difficulté pour cette/ces courses de distance medium et long là**. Ainsi, pour une uma qui court en mile et medium, construisez votre deck **comme un deck medium**. Si votre uma n'a _pas besoin de gagner_ ces courses de distance medium/long (exemple : King Halo ne fait que participer à Kikka Sho), vous pouvez ignorer cette distance (mais du coup vous perdrez sans doute la course).
+Construisez votre deck pour la distance **la plus grande**. C'est tout bête, mais si vous ne prenez pas en compte la distance la plus grande **vous allez vous retrouver en difficulté pour cette/ces courses de distance medium et long là**. Ainsi, pour une uma qui court en mile et medium, construisez votre deck **comme un deck medium**. Si votre uma n'a _pas besoin de gagner_ ces courses de distance medium/long (exemple : King Halo ne fait que participer à Kikuka Sho), vous pouvez ignorer cette distance (mais du coup vous perdrez sans doute la course).
 
 Vous pouvez appliquer exactement ce même raisonnement pour toutes les uma.
 
