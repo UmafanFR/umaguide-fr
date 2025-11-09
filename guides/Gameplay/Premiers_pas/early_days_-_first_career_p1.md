@@ -124,7 +124,7 @@ _**Si**_ (et seulement SI) l'auto-select vous propose une de ces 3 compositions 
 
 Je vous conseille de partir sur **3 speed 3 wits** pour votre toute première carrière. Cela dit, ces 2 variantes avec des cartes power deraient être gérables aussi. Maybe :9
 
-La **6e carte** est une carte **empruntée** à un·e de vos follow ; n'hésitez surtout pas à emprunter une **carte puissante**. Si vous n'en avez pas dans vos follow ça ne fait rien, mais il faudra penser à en chercher plus tard (là encore, pas d'urgence). Si vous trouvez une **Kitasan Black speed SSR avec ses 4 cristaux bleus 💠 et lvl 50** (donc "MLB", pour "Max Limit Break"), c'est absolument **idéal**. Il n'y a pas de limite sur le nombre de fois que vous pouvez emprunter une carte, et ça ne coute aucuune ressource. 
+La **6e carte** est une carte **empruntée** à un·e de vos follow ; n'hésitez surtout pas à emprunter une **carte puissante**. Si vous n'en avez pas dans vos follow ça ne fait rien, mais il faudra penser à en chercher plus tard (là encore, pas d'urgence). Si vous trouvez une **Kitasan Black speed SSR avec ses 4 cristaux bleus :lb: et lvl 50** (donc "MLB", pour "Max Limit Break"), c'est absolument **idéal**. Il n'y a pas de limite sur le nombre de fois que vous pouvez emprunter une carte, et ça ne coute aucuune ressource. 
 
 #### 🌟 Une fois que vous avez composé votre deck, vous pouvez **lancer la carrière**.
 

@@ -13,7 +13,7 @@ Voici quelques recommandations sur des bonnes pratiques à considérer, **avant 
 
 ::: tip Vocabulaire important
 
-LB : **Limit Break**. Le niveau maximum d'une carte support peut être augmenté (jusqu'à +20 levels) en fusionnant des **doublons de cette même carte**. Le jeu appelle ça "uncap". Chaque fois que vous faites un uncap, la carte gagne un cristal bleu 💠, qu'on appelle communément (dans le commu internationale) un "LB", pour Limit Break. Une carte 3LB a donc 3 cristaux bleu 💠, sois 3 uncap. Une carte **MLB** "Max Limit Break" a les 4. Quand vous obtenez une carte support, elle est toujours **0LB par défaut**. 
+LB : **Limit Break**. Le niveau maximum d'une carte support peut être augmenté (jusqu'à +20 levels) en fusionnant des **doublons de cette même carte**. Le jeu appelle ça "uncap". Chaque fois que vous faites un uncap, la carte gagne un cristal bleu :lb:, qu'on appelle communément (dans le commu internationale) un "LB", pour Limit Break. Une carte 3LB a donc 3 cristaux bleu :lb:, sois 3 uncap. Une carte **MLB** "Max Limit Break" a les 4. Quand vous obtenez une carte support, elle est toujours **0LB par défaut**. 
 
 :::
 

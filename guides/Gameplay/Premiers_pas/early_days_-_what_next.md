@@ -87,7 +87,7 @@ Avec les connaissances sur le mode carrière, vous allez pouvoir faire des nouve
 ::: tip Concernant les decks
 
 Mes recommandations de decks dans cette partie prennent en compte 2 choses :
-- je pars du principe que vous venez de commencer le jeu, et n'avez donc que **très peu de cartes support** (même si vous aviez un bon reroll), avec **très peu de LB** 💠 Si vous avez beaucoup de LB sur les cartes **stamina**, vous pouvez réduire de 1 le nombre de cartes stam recommandées.
+- je pars du principe que vous venez de commencer le jeu, et n'avez donc que **très peu de cartes support** (même si vous aviez un bon reroll), avec **très peu de LB** :lb: Si vous avez beaucoup de LB sur les cartes **stamina**, vous pouvez réduire de 1 le nombre de cartes stam recommandées.
 - j'essaie de vous faire build des uma en pensant au Team Trials derrière ; comme vos stats sont secrètement boostées pendant une carrière, pour que vos uma puissent gagner des courses hors d'une carrière, vous avez besoin de **bien plus de stamina en réalité**.
 
 :::
