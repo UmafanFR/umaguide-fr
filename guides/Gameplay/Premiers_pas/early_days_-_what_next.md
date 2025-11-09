@@ -134,7 +134,7 @@ Désolé si vous pensiez que j'avais terminé, voici des dernières recommandati
     <img src="/assets/EarlyDays/VivlosYap.gif" alt="Vivlos qui bavarde beaucoup">
 </div>
 
-#### Dés que vous atteignez le rank E3, rejoignez un club ou faites-en un !
+#### dès que vous atteignez le rank E3, rejoignez un club ou faites-en un !
 
 N'importe lequel ! Ça n'a pas d'importance pour le moment ! Rejoignez un club avec des randoms, c'est pas grave. À partir du moment où **vous existez dans un club, avant le 15 ou le 16 du mois** en cours, vous êtes **garantis** d'obtenir **AU MOINS 225 carats** au début du mois suivant. Certains clubs sont particulièrement actifs, et vous permettront d'obtenir bien plus de carats mensuels (jusqu'à 4500 par mois mais _bon courage hein_), mais TOUS LES CLUBS vous donnent au moins 225 carats par mois, quelle que soit le nombre de joueur·euse·s qui y sont, et quelle que soit leur niveau d'activité.
 
@@ -154,7 +154,7 @@ Sur le serveur discord, il y a plusieurs clubs plus ou moins actifs et avec plus
 
 ![Release Celebration Missions Part 1](/public/assets/EarlyDays/Release_Celeb_MissP1.png)
 
-Dés que vous avez commencé le jeu, Cygames vous a offert un **ticket selector umamusume ★★★**, qui vous permet de CHOISIR une umamusume ★★★ parmi les uma du lancement.
+dès que vous avez commencé le jeu, Cygames vous a offert un **ticket selector umamusume ★★★**, qui vous permet de CHOISIR une umamusume ★★★ parmi les uma du lancement.
 
  ⚠️ **NE L'UTILISEZ PAS TOUT DE SUITE**
 

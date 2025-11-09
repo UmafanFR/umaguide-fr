@@ -317,7 +317,7 @@ Votre principal outil pour gérer l'humeur, c'est le bouton jaune "**Recreation*
 
 En début de carrière, il est recommandé d'essayer de **mettre le mood à GREAT assez vite**, pour bénéficier du boost d'entrainement au plus tôt.
 
-#### 🌟 Dés que vous avez un tour d'entrainement avec des stacks médiocres (moins de 2 supports), faites 1 recreation pour monter le mood.
+#### 🌟 dès que vous avez un tour d'entrainement avec des stacks médiocres (moins de 2 supports), faites 1 recreation pour monter le mood.
 
 ![Image montrant une sortie avec Rice Shower, dans un temple, où elle a tiré une fortune "modeste"](/assets/EarlyDays/Scen_Outing.png)
 
@@ -327,7 +327,7 @@ Si -comme moi- vous n'avez pas eu le karaoke (+2 mood up → GREAT), et qu'au to
 
 Je décide arbitrairement que **chaque support** sur un entrainement donné compte **1 point**, et la présence d'un ou plusieurs **hint** ❗ compte comme **+0.5** points (même s'il y a 2+ hints ❗). 
 
-⏩ Si ma jauge d'énergie n'est PAS PLEINE : dés que j'ai un tour d'entrainement à **moins de 2,5 points** (= moins de 2 supports + un ou plusieurs hints ❗), je considère ça comme un mauvais tour d'entrainement, et je fais un **recreation ce tour là**.
+⏩ Si ma jauge d'énergie n'est PAS PLEINE : dès que j'ai un tour d'entrainement à **moins de 2,5 points** (= moins de 2 supports + un ou plusieurs hints ❗), je considère ça comme un mauvais tour d'entrainement, et je fais un **recreation ce tour là**.
 
 ⏩ Si la jauge d'énergie est PLEINE : je fais **un entrainement**, sauf s'il n'y a aucun entrainement avec au moins **1,5 points** (1 support avec son hint ❗). Dans ce cas, je fais quand même un **recreation ce tour là**.
 
@@ -436,7 +436,7 @@ Quand vous arrivez sur un tour avec une **course obligatoire**, l'écran d'actio
 
 ::: warning Ne mettez pas la charue avant l'habit du moine
 
-Le choix des skills est -de manière générale- un _grand sujet_, et qui peut paraître ingérable quand on débute. Pas de panique. Ca viendra avec le temps, à mesure que vous jouez, que vous lisez des guides, et que vous posez de questions. Un bon choix de skills c'est une des choses **à quoi on reconnaît un·e _vétéran·e_ du jeu** ; ne vous attendez pas à tout comprendre dés maintenant, car it's not happening. Ça requiert juste **davantage d'expérience** que vous n'en avez actuellement.
+Le choix des skills est -de manière générale- un _grand sujet_, et qui peut paraître ingérable quand on débute. Pas de panique. Ca viendra avec le temps, à mesure que vous jouez, que vous lisez des guides, et que vous posez de questions. Un bon choix de skills c'est une des choses **à quoi on reconnaît un·e _vétéran·e_ du jeu** ; ne vous attendez pas à tout comprendre dès maintenant, car it's not happening. Ça requiert juste **davantage d'expérience** que vous n'en avez actuellement.
 
 On en reparlera peut-être (peut-être) brièvement à la fin de ce guide pas-à-pas.
 
@@ -512,7 +512,7 @@ Brièvement, voici les stratégies résumées en quelques mots  :
 - **End Closer** → Elles restent à l'arrière en début de course, et remontent progressivement le peloton pendant le "mid-race". Elles ont naturellement la plus grande vitesse max en late-race.
 - **Late Surger** → Comme les End Closer, mais un peu plus à l'avant. Elles restent juste derrière les Pace Chaser, et tentent de les dépasser pour s'avancer en milieu de course. Elles ont naturellement la plus grande accélération en late-race.
 - **Pace Chaser** → Elles tentent de rester à quelques mètres de la Front Runner en 1e position, sans la rattraper. À partir de la moitié de la course, elles tentent de prendre la tête. Elles ont naturellement le moins de HP, mais ça ne fait pas d'elles la moins bonne stratégie.
-- **Front Runner** → Elles cherchent à prendre la 1e place dés le début de la course, et la conserver jusqu'à la fin de la course. Elles ont naturellement la meilleure accélération et la meilleure vitesse en **early-race**.
+- **Front Runner** → Elles cherchent à prendre la 1e place dès le début de la course, et la conserver jusqu'à la fin de la course. Elles ont naturellement la meilleure accélération et la meilleure vitesse en **early-race**.
 
 Plus une stratégie est "**frontline**" (à l'avant), plus sa vitesse max en late-race est **faible**. Les Front Runner sont donc celles qui courent le moins vite en late-race. Mais comme elles mènent la course, elles ont aussi **beaucoup d'avance** sur les autres stratégies, et ont le moins de chance d'être bloquées.
 
@@ -607,7 +607,7 @@ Certaines uma ont parfois pour objectif même d'avoir un certain nombre de fans 
 
 Pour augmenter votre nombre de fans (si votre carrière le requiert), vous devez participer à des **courses supplémentaires**, qui seront alors **facultatives**. Chaque course (obligatoire ou pas) vous apporte des fans, en fonction du **résultat de la course**. La Debut Race n'en donne pas beaucoup, et pour la plupart des uma il suffit alors (mais pas toujours) de faire **une seule course facultative G3** (ou mieux) pour atteindre le nombre de fans requis pour la prochaine course obligatoire. C'est le cas pour Rice Shower : une seule course en G3 apporte bien plus que les 350 fans supplémentaires requis pour l'inscription à Spring Stakes.
 
-Les courses G3 sont les courses "gradées" les moins prestigieuses et les moins difficiles. Il y a aussi les courses **G2** qui sont plus notables, puis les courses **G1** ; les plus renommées (vous en connaissez sans doute certaines de nom, comme le Nippon Derby ou Arima Kinen). Vous y affronterez parfois (parfois) **une uma un peu plus forte que les autres**, qui pourrait vous mettre légèrement en difficulté (si c'est le cas, ce sera souvent (mais pas toujours) la même pendant le reste de votre carrière :currenDevilish:). Mais n'hésitez pas à tenter votre chance malgré tout ; même si elles peuvent paraître **intimidantes**, les G1 sont faciles pour tout·e joueur·euse qui sait un minimum jouer. D'ici 4-5 carrières vous n'aurez pas à vous en inquiéter. Vous n'avez pas à vous en inquiéter dés maintenant anyways.
+Les courses G3 sont les courses "gradées" les moins prestigieuses et les moins difficiles. Il y a aussi les courses **G2** qui sont plus notables, puis les courses **G1** ; les plus renommées (vous en connaissez sans doute certaines de nom, comme le Nippon Derby ou Arima Kinen). Vous y affronterez parfois (parfois) **une uma un peu plus forte que les autres**, qui pourrait vous mettre légèrement en difficulté (si c'est le cas, ce sera souvent (mais pas toujours) la même pendant le reste de votre carrière :currenDevilish:). Mais n'hésitez pas à tenter votre chance malgré tout ; même si elles peuvent paraître **intimidantes**, les G1 sont faciles pour tout·e joueur·euse qui sait un minimum jouer. D'ici 4-5 carrières vous n'aurez pas à vous en inquiéter. Vous n'avez pas à vous en inquiéter dès maintenant anyways.
 
 Plus une course est prestigieuse, plus elle apporte de récompenses :
 - davantage de fans

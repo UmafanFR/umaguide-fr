@@ -128,14 +128,14 @@ Gardez en tête que Riko Kashimoto est **scenario linked** avec le scénario **U
 
 :::
 
-* Riko Kashimoto pal SSR a une **croissance plutôt équilibrée** : à 1LB elle gagne 5 training bonus, boosté à 10 training bonus dés 2LB, et à parir de 3 LB elle obtient "initial stamina", qui est assez osef. On peut donc imaginer un sweet spot à 2LB.
+* Riko Kashimoto pal SSR a une **croissance plutôt équilibrée** : à 1LB elle gagne 5 training bonus, boosté à 10 training bonus dès 2LB, et à parir de 3 LB elle obtient "initial stamina", qui est assez osef. On peut donc imaginer un sweet spot à 2LB.
 * Le rôle d'une carte pal :friends: est de contribuer à la qualité de vos carrières par **cross-training** ; c'est à dire, aider à la croissance de toutes les stats. Les cartes pal ont le privilège de pouvoir réduire la consommation d'énergie et la chance d'échec d'entrainement. Sur ces 2 stats là, _Riko Kashimoto est strictement inférieure à Tazuna_. Riko vous propose par contre un chouette 10 race bonus, qui augmentera vos gains de stats et skill points après des courses.
 > C'est particulièrement désirable sur le 3e scénario, Make a New Track, ce qui rend Riko pertinente pour ce scénario là aussi, augmentant donc sa durée de vie.
 * Le skill gold de Riko -obtenu à la fin de ses chain events- est l'accel **Rushing Gale**, la version gold de Straightaway Acceleration. Le skill s'active très bien, mais ne fait presque jamais rien, car trop aléatoire. 
 > Rushing Gale sera bon sur le premier CM sprint.
 * En tant que carte Pal, le 2e grand rôle de Riko tourne autour des recreations/outings/dates qui restaurent à la fois de l'énergie et font des mood up. La plupart des ses events vous apportent un gain de **stamina**, y compris son "post-training event", qui peut se produire aléatoirement après un entrainement avec elle. C'est donc une **source de stamina** qui peut être utilisée en complément de cartes power, ou d'une carte stamina.
     *  ⚠️ Sur l'évènement de lancement des dates, **l'option du haut à une chance d'échec**. Pour garantir l'obtention des dates spéciaux, sélectionnez l'**option du milieu**.
-* **Dans le cadre du scénario Unity Cup**, vous pouvez l'utiliser dés 0LB sans problème. Vous pouvez aussi la remplacer par Tazuna pal SSR, surtout si vous l'avez avec des LBs, ou utiliser la version :r: (mais avec des LBs).
+* **Dans le cadre du scénario Unity Cup**, vous pouvez l'utiliser dès 0LB sans problème. Vous pouvez aussi la remplacer par Tazuna pal SSR, surtout si vous l'avez avec des LBs, ou utiliser la version :r: (mais avec des LBs).
 
 ::: tip Tazuna pal SSR 🔥
 
@@ -225,7 +225,7 @@ Il y'a essentiellement 3 approches pour optimiser l'activation de ce skill :
 2. **vous contrôlez l'activation pour maximiser le carry over →** vous simulez la stam requise, pour le point d'activation *parfait* : **56% de la course**.
 3. **vous contrôlez l'activation pour maximiser l'accélération →** idem, mais le point d'activation *parfait* est à **exactement 60% de la course** (presque impossible).
 
-Dans le cas 1., la plupart du temps vos HP vont naturellement tomber en-dessous de 70% assez vite, donc à partir de 45% de la course, dés que la condition de position sera validée le skill va pop. Si vous ne contrôlez pas l'activation du skill, ce sera le cas le plus fréquent.
+Dans le cas 1., la plupart du temps vos HP vont naturellement tomber en-dessous de 70% assez vite, donc à partir de 45% de la course, dès que la condition de position sera validée le skill va pop. Si vous ne contrôlez pas l'activation du skill, ce sera le cas le plus fréquent.
 
 Dans le cas 2., vous allez vouloir **simuler la stamina et les recovery nécessaire** pour tomber à 70% de HP _plus tard_ ; à **56% de la course, ou après**. Évidemment, viser un point précis est très dur à cause de la RNG ; faites au mieux, en essayant de viser entre **56% et 60% de la course**. À partir de 56%, le skill fait forcément un carry over, et plus vous serez proche de 56%, plus vous bénéficiez de la composante "vitesse" du skill unique.
 
@@ -321,7 +321,7 @@ Mais c'est une **vraie bonne uma sprint/mile**. Et difficile à optimiser.
 ### Bannière support : Biko Pegasus speed SSR & Sakura Bakushin O speed SSR
 
 ⏩ **Biko Pegasus** :speed: :ssr:
-* La carte est assez **frontloaded** : dés 1LB elle a déjà son 1 speed bonus, et 16 training bonus. Elle débloque Initial Friendship Gauge à 3LB.
+* La carte est assez **frontloaded** : dès 1LB elle a déjà son 1 speed bonus, et 16 training bonus. Elle débloque Initial Friendship Gauge à 3LB.
 * Biko speed est une des bonnes cartes speed SSR qui -sans être *excellente*- **restera bonne très longtemps**. Tout bêtement, c'est difficile de déloger une carte speed avec 20 training bonus, 55 spec prio et 10 race bonus. Ses rainbows sont de bonne qualité, et elle contribue fortement au cross-training. Ce sont juste des bons bonus. On aura des cartes avec des meilleurs bonus, et on aura des tas cartes avec des moins bons bonus. Elle ne sera jamais la meilleure à quoi que ce soit, mais ce ne sera aussi **jamais un mauvais choix**, même à très faible LB. 
 * Sa sélection de hints ❗ est correcte, avec des skills de vitesse sprint, une white recovery et le white de navigation "Meticulous Measures" (sprint), qui a une solide chance d'être plutôt bon. 
 * Le skill gold obtenu est **Plan X**, la version gold de Countermeasure. C'est une accel sprint aléatoire en 2e moitié de mid-race, qui s'active pour les **uma top50% mais pas 1e**. C'est un skill très désirable, car les courses sprint -étant extrêmement courtes- se jouent très fortement sur l'accel. En cas d'activation en succès, c'est une condition de victoire souvent suffisante.

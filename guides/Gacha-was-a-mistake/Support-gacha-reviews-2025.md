@@ -144,7 +144,7 @@ Easy skip. Très peu de valeur ajoutée sur cette bannière, vous pouvez l'ignor
 ::: details REVIEW
 
 ⏩ ***Kawakami Princess speed SSR***
-* Carte assez frontloaded : elle donne la plupart de ses "bons" bonus dés 1LB.
+* Carte assez frontloaded : elle donne la plupart de ses "bons" bonus dès 1LB.
 * Carte speed très oubliable, qui n'a pas grand chose pour elle. À MLB elle est assez proche de Teio speed SSR, qui n'est pas non plus carte de particulièrement bonne qualité. Son gain de stat est OK, mais la carte n'est ni spécialement bonne pour monter speed (spec prio 35), ni spécialement bonne pour monter les autres stats (mood bonus 30, pas de training bonus ??).
 * 4 hints ????? Bro c'est une carte gratuite ou quoi. Pas de hint level ni hint frequency bonus, mais de toutes façons, à part son green Standard Distance (et encore), aucun de ses skills n'est intéressant.
 * Elle donne le skill gold Center Stage, qui est useless right now, mais sa version white deviendra très désirable pour les **Front Runner** (et elles *uniquement*), après l'update "1st anni™", qui arrivera en même temps que le 3e scénario. D'ici là, le skill est useless. Et même quand il deviendra utile, je sais pas si la version gold a un intérêt par rapport au white.
@@ -176,7 +176,7 @@ J'adore Hishi Akebono hein. Mais une carte éclatée au sol reste éclatée au s
 
 ⏩ **Silence Suzuka speed SSR**
 * *Une des meilleures cartes speed actuelles*.
-* La carte est **Frontloaded**, pas parce qu'elle donne des skills de Front Runners (mais elle donne que ça mdr), mais parce qu'elle donne tous ses bons bonus -incluant le skill point bonus- dés **1LB**. C'est ce qu'on appelle une carte "Frontloaded". 
+* La carte est **Frontloaded**, pas parce qu'elle donne des skills de Front Runners (mais elle donne que ça mdr), mais parce qu'elle donne tous ses bons bonus -incluant le skill point bonus- dès **1LB**. C'est ce qu'on appelle une carte "Frontloaded". 
 * Carte équilibrée qui a une bonne contribution à monter speed ET un assez bon cross training, avec en prime un skill point bonus, qui reste un bonus très rare aujourd'hui. Il y'a actuellement 3 cartes SSR qui l'ont, et Suzuka speed est l'une d'elles.
 * Tous ses skills (hints et gold) sont pour les Front, c'est une sélection de qualité avec beaucoup de skills de vitesse et 2 accel souvent utiles. Le skill gold est l'accel gold **Unrestrained**, qui est semi-aléatoire et marche généralement plutôt bien dans les courses où le late-race commence vaguement un peu avant le milieu du Final Corner.
 * Good stuff franchement, si vous n'empruntez ni Kitasan ni Super Creek, Suzuka speed est une très bonne 3e carte speed à emprunter, même si vous n'entrainez pas une Front.
@@ -202,7 +202,7 @@ _ENVISAGEZ LE :_
 
 ⏩ **Bamboo Memory power SSR**
 * _Eeeeeeeeeeh_
-* La carte est **frontloaded** : dés 1LB elle donne la plupart de ses bons bonus, y compris le **skill point bonus**.
+* La carte est **frontloaded** : dès 1LB elle donne la plupart de ses bons bonus, y compris le **skill point bonus**.
 * Bamboo Memory power SSR est une carte power de cross training (spec prio 0), plutôt moyenne (15 training bonus, pas de mood bonus), et qui a des évènement assez terribles.
 * La carte propose une sélection de skill whites de vitesse assez hétérogène, avec un mélange de mile, sprint et Late, ce qui la rend d'autant plus compliqué à intégrer dans un deck. Le skill gold est **Rising Dragon**, la version white de Outer Swell, un skill de vitesse pour Late Surger qui s'active sur un dépassement réussi par l'extérieur sur le final corner. Le skill est bon, et a une assez bonne chance de carry over dans les courses où le late-race commence dans la 2e moitié du final corner. Attention, la carte peut vous donner le white à la place ("agemasen").
 * Plusieurs des events de la carte **baissent votre énergie** (pas obligatoirement). Le 2e chain event rend +30 énergie et mets fin au chain event.
@@ -255,7 +255,7 @@ King Halo power SSR est -certes- un bon stat stick, avec un gain de power proche
 
 ⏩ **Mejiro Ryan guts SSR**
 * La carte est **frontloaded** : à 1LB elle donne déjà la plupart de ses bonus intéressants, et ne débloque que "initial friendship gauge" à 3LB.
-* Mejiro Ryan guts SSR est une carte guts moyenne, assez bonne pour monter guts, et contribuera bien à monter power aussi. Son principal atout est le **skill point bonus** qu'elle vous propose, et ce, **dés 0LB**. Au-delà de ça, il n'y a pas beaucoup à dire sur elle.
+* Mejiro Ryan guts SSR est une carte guts moyenne, assez bonne pour monter guts, et contribuera bien à monter power aussi. Son principal atout est le **skill point bonus** qu'elle vous propose, et ce, **dès 0LB**. Au-delà de ça, il n'y a pas beaucoup à dire sur elle.
 * Sa sélection de hints ❗ est pauvre, avec 2 greens et 2 skills med de vitesse.  
 * Le skill gold obtenu est le skill de vitesse medium **Unyielding**, la version gold de Steadfast. C'est un skill de vitesse s'activant en late-race si vous vous faites **dépasser sur le final corner**. L'activation n'est pas hyper fiable, et comme elle requiert que vous vous fassiez dépasser, ce n'est même pas très désirable. De plus, sur les courses medium le final corner tombe généralement en pleine accel, donc une partie de la puissance du skill sera gâché. Ce n'est donc pas un skill très recommandable.
 * Plusieurs de ses events vous permettent de **récupérer de l'énergie**.
@@ -321,7 +321,7 @@ Rice Shower power SSR marche un peu sur une partie de la niche de Vodka power, e
 
 ::: tip Et par rapport à la SR ?
 
-On peut raisonnablement considérer Tosho SSR meilleure -pour monter speed- que la version SR à partir de 1LB. En réalité, leurs forces sont un peu différentes (Tosho SR a un bon cross training), mais si on regarde seulement la croissance de speed, **la SSR 1LB bat la SR MLB**. On pourrait débattre du fait que c'est le cas dés 0LB d'ailleurs.
+On peut raisonnablement considérer Tosho SSR meilleure -pour monter speed- que la version SR à partir de 1LB. En réalité, leurs forces sont un peu différentes (Tosho SR a un bon cross training), mais si on regarde seulement la croissance de speed, **la SSR 1LB bat la SR MLB**. On pourrait débattre du fait que c'est le cas dès 0LB d'ailleurs.
 
 :::
 
@@ -404,7 +404,7 @@ Aucune des cartes n'est de qualité notable, et des bannières importantes arriv
 
 ⏩ **Tosen Jordan stamina SR**
 * Tosen Jordan poursuit la tradition des cartes stamina SR, et est elle aussi une carte stam SR de bonne qualité. 
-* La carte est relativment backloaded ; elle a globalement des assez bons bonus dés 0LB, mais son point de stamina bonus est débloqué seulement à MLB.
+* La carte est relativment backloaded ; elle a globalement des assez bons bonus dès 0LB, mais son point de stamina bonus est débloqué seulement à MLB.
 * Jordan stam SR est plutôt équilibrée sur ces bonus, avec un bon gain de stamina, et une chouette contribution à monter les autres stats (45 mood bonus).
 * Sa sélection de hints ❗ est bonne, avec le green de vitesse long shot, une white recovery et 4 whites de vitesse ; dont Medium Straightaways et Corner, ainsi que Pace Straightaways (qui est plutôt pénible à obtenir pour le moment).
 * Le skill white obtenu à la fin de son chain event est **Ramp Up**, ce qui est plutôt bien. C'est un skill white de vitesse s'activant sur un dépassement en mid-race. Il est quasiment universel, désirable pour tous le monde, et s'active très bien en Team Trials.

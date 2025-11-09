@@ -434,7 +434,7 @@ L’accel Straightaway Spurt / Encroaching Shadow de Narita Taishin ne marche pa
 
 :::
 
-Les accel seront reines dans la grande majorité des Champion's Meeting à venir. C'est une bonne idée d'apprendre à distinguer les bonnes dés maintenant. For the most part, celles listées dans le tableau sont assez souvent bonnes. Mais pas toujours, car au final **ça dépend de la course**.
+Les accel seront reines dans la grande majorité des Champion's Meeting à venir. C'est une bonne idée d'apprendre à distinguer les bonnes dès maintenant. For the most part, celles listées dans le tableau sont assez souvent bonnes. Mais pas toujours, car au final **ça dépend de la course**.
 
 #### Skills de vitesse qui s'activent = good.
 
@@ -512,7 +512,7 @@ Historiquement, depuis les débuts de la version JP et jusqu'à aujourd'hui -4 a
 
 Pour prendre la 1e place en early-race, les Front Runners ont principalement 2 leviers majeurs :
 
-- **Groundwork** (white accel), pour accélérer -dés la sortie de stalle- vers leur vitesse cible plus vite que les autres front runners.
+- **Groundwork** (white accel), pour accélérer -dès la sortie de stalle- vers leur vitesse cible plus vite que les autres front runners.
 - **Concentration**, pour faire des départs plus vifs.
 
 Ces 2 skills sont d'importances majeure pour votre Front Runner, et vous serez mis en difficulté par les Front Runner qui les ont si vous ne les avez pas.
@@ -523,7 +523,7 @@ Par contre, **Groundwork**... Déjà, le skill est pénible à avoir, car unique
 
 Et ça, c'est seulement _l'obtention du skill_ 💀
 
-Pour **activer Groundwork**, vous devez d'abord **activer 3 autres skills** en early-race. Étant donné que vous voulez bénéficier de l'accel **dés le départ**, vous voulez des skills qui s'activent en **sortie de stalle**. Là vous n'avez pas beaucoup de choix : c'est essentiellement le skill **Focus / Concentration**, et des **skills greens** (listés en [début de post](#conditions-du-cm-et-greens-skills)). Pas d'autre choix. Vous pouvez utiliser **3 greens**, ou alors **2 greens + Focus / Concentration**, mais il faut que le total soit _3 activations de skills en early race_. Attention, Focus / Concentration peut ne pas s'activer si votre uma échoue au **wits check**. Par contre, les **greens** s'activent toujours de manière **garantie** -sans wits check- si **leur condition est validée**. _Sauf Lucky Seven_ (vous ne pouvez donc pas l'utiliser pour activer Groundwork).
+Pour **activer Groundwork**, vous devez d'abord **activer 3 autres skills** en early-race. Étant donné que vous voulez bénéficier de l'accel **dès le départ**, vous voulez des skills qui s'activent en **sortie de stalle**. Là vous n'avez pas beaucoup de choix : c'est essentiellement le skill **Focus / Concentration**, et des **skills greens** (listés en [début de post](#conditions-du-cm-et-greens-skills)). Pas d'autre choix. Vous pouvez utiliser **3 greens**, ou alors **2 greens + Focus / Concentration**, mais il faut que le total soit _3 activations de skills en early race_. Attention, Focus / Concentration peut ne pas s'activer si votre uma échoue au **wits check**. Par contre, les **greens** s'activent toujours de manière **garantie** -sans wits check- si **leur condition est validée**. _Sauf Lucky Seven_ (vous ne pouvez donc pas l'utiliser pour activer Groundwork).
 
 Là aussi, les greens sont assez souvent obtenus par **inspiration**, car comme vous avez pu le voir dans la [liste des greens en début de post](#conditions-du-cm-et-greens-skills), l'utilisation des cartes qui donnent les greens en question... est souvent discutable.
 
