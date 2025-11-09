@@ -133,7 +133,7 @@ La **6e carte** est une carte **empruntée** à un·e de vos follow ; n'hésitez
 Au lancement, l'animation d'inspiration se jouera pour vous montrer les bonus apporté par vos legacies. Ce sont exactement les **mêmes bonus qu'affichés sur l'écran de choix de legacies**, mais vous y verrez aussi l'obtention de **leurs skills uniques**, si elles sont capable de le transmettre. 
 
 Le jeu vous demandera ensuite si vous voulez raccourcir les cutscenes pendant le scénario. La plupart des joueur·euse·s expérimenté·e·s le font, car on connait déjà le contenu du scénario (ou on ne s'y intéresse pas). Avec toutes ses cutscenes, **un scénario peut durer plusieurs heures**, d'où l'intérêt de raccourcir. Vous pouvez changer ce paramètre à tout moment pendant la carrière, en cliquant sur "Quick" en bas de l'écran de jeu. Les 4 options sont :
-- **D'ont use Quick Mode** → toutes les cutscenes sont normales
+- **Don't use Quick Mode** → toutes les cutscenes sont normales
 - **Shorten all events** → toutes les cutscenes qui peuvent l'être sont raccourcies, et vous n'aurez qu'un résumé des dialogues, plutôt que les dialogues complets
 - **Only shorten scenario events** → toutes les cutscenes liées au **scénario de carrière** sont raccourcies (si possible), avec un résumé des events
 - **Only shorten trainee events** → toutes les cutscenes liées à **votre uma** sont raccourcies (si possible), avec un résumé des events.
@@ -164,9 +164,9 @@ Vous pouvez aussi décider de participer à une course, **non obligatoire**, pen
 
 Si vous ne faites ni un entrainement, ni une course, vous avez le choix entre 3 manières de **passer votre tour** : 
 - Le "**rest**", qui est un repos normal, afin de récupérer de l'énergie. Un repos peut aléatoirement se passer :
-    - très bien → event "well rested" → +70 pts d'énergie
+    - très bien → event "well rested" → +70 pts d'énergie, et une chance de clear le debuff **Night Owl** ou **Skin Outbreak**
     - bien → event "all refreshed" → +50 pts d'énergie
-    - mal → event "sleep deprived" → +30 pts d'énergie, et parfois le debuff "Night Owl"
+    - mal → event "sleep deprived" → +30 pts d'énergie, et parfois le debuff **Night Owl**
 - "**Recreation**", qui permet de faire une sortie ludique et relaxante avec votre uma, afin d'**augmenter son niveau d'humeur**. La plupart des _outings_ augmente d'un niveau votre humeur, et redonne un peu d'énergie, mais le **karaoke** montera de 2 niveaux votre humeur (sans gain d'énergie).
 - Et le bouton "**infirmerie**" qui n'est cliquable que si vous avez un debuff à soigner (comme "Night Owl", que vous aurez souvent). L'infirmerie vous restaure toujours 20 pts d'énergie, et a une chance élevée (mais non garantie) de faire disparaître votre debuff.
 
@@ -527,7 +527,7 @@ De manière générale, **il n'y a pas de stratégie meilleure que d'autre**. Le
 - être en 3e, 2e ou 1e position
 - avoir une autre uma immédiatement à côté d'elle pendant 2 secondes
 
-Ce sont des conditions plus facile à valider en tant que **Front Runner**, mais qui peuvent aussi être validées en tant que Pace Chaser sans souci. De son côté, Rice Shower doit dépasser la uma en 4e, 3e, 2e ou 1e position sur le final straight pour activer son unique, donc son unique est plus facile à activer en étant Pace.
+Ce sont des conditions plus facile à valider en tant que **Front Runner**, mais qui peuvent aussi être validées en tant que Pace Chaser sans souci. De son côté, Rice Shower doit dépasser la uma en 4e, 3e, 2e ou 1e position, à partir du final corner (ou plus tard) ; son unique s'activera alors -peu après- sur le final straight. Pour Rice, l'activation est donc plus facile en étant Pace.
 
 ::: tip Toujours sur le paddock...
 
@@ -684,10 +684,14 @@ Pour rappel, vous voulez continuer à monter vos supports jusqu'au niveau **oran
 [![Brève explication de l'évènement Extra Training](/assets/EarlyDays/Scen_Extra_Tore.png)](/assets/EarlyDays/Scen_Extra_Tore.png)
 
 Il est possible qu'après certains entrainements, vous ayez un évènement appelé **Extra Training**. Toutes les uma peuvent avoir cet évènement, et il s'appelle pareil pour toutes. Il se produit aléatoirement après un entrainement ; des fois vous l'aurez plein de fois dans une même carrière, et des fois pas du tout. C'est aléaoire. L'évènement vous propose alors 2 choix :
-* Haut : **-5 énergie**, +5 points sur la dernière stat entrainée et +5 point de jauge avec Yayoi (directrice)
+* Haut : 
+    * **-5 énergie**
+    * +5 points sur la dernière stat entrainée
+    * +5 point de jauge avec Yayoi (directrice)
+    * une **chance** de clear un debuff (si vous en avez)
 * Bas : **+5 énergie**
 
-Dans la vaste majorité des cas, **vous allez vouloir prendre l'option du bas**, car l'option du haut est un peu un gachi de précieuse énergie. Si votre énergie est pleine (totalement pleine), vous pouvez sélectionner celle du haut ; le gain de jauge avec Yayoi Akikawa sera utile plus tard. Mais 99% du temps, gagner **+5 pts d'énergie est bien plus précieux**. Si vous avez un doute, prenez l'option du bas.
+Dans la vaste majorité des cas, **vous allez vouloir prendre l'option du bas**, car l'option du haut est un peu un gachi de précieuse énergie. Cependant, si votre énergie est pleine (totalement pleine), ou si vous avez un **debuff** vous pouvez sélectionner celle du haut : dégager le debuff (non garanti) est bénéfique pour des raisons évidentes, et le gain de jauge avec Yayoi Akikawa ~~est un outil mystère qui~~ sera utile plus tard. Mais 99% du temps, gagner **+5 pts d'énergie est bien plus précieux**. Si vous avez un doute, prenez l'option du bas.
 
 ::::: tip Un autre event similaire
 

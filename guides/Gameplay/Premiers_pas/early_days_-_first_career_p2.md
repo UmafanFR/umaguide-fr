@@ -243,7 +243,7 @@ L'évènement "**New Year's Shrine Visit**" est très similaire à l'event "New 
 
 Et surtout, sur cet event aussi, le choix optimal c'est le **gain d'énergie**. En l'occurrence, sur New Year's Shrine Visit il s'agit de **l'option du haut**. Pour toutes les uma, si votre énergie n'est pas pleine, vous allez vouloir pick l'option du haut, afin de récupérer **+30 points d'énergie**. C'est toujours optimal, sauf si vous êtes -par exemple- seulement 10 points en-dessous du max, ou déjà au maximum. 
 
-#### 🌟 Pendant l'event "New Year's Shrine Visit", choisissez l'option du haut si votre énergie est pleine à au moins 80%
+#### 🌟 Pendant l'event "New Year's Shrine Visit", choisissez l'option du haut si votre barre d'énergie est pleine à moins de 80%
 
 
 Là encore, dans l'éventualité où vous n'avez pas besoin de l'énergie supplémentaire, l'option à choisir est alors **l'option du bas**, pour obtenir **+35 skills points**. 

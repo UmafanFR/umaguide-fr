@@ -45,7 +45,7 @@ Obtenir des uma ★★★ sur un reroll n'a que peu de valeur -sauf si c'est une
 
 Si votre fav est en highlight sur une bannière quand vous commencez le jeu, **by all means go for it**. Avoir votre fav dés le début (ce qui est facilité par une bannière dédiée) rendra le jeu d'autant plus fun 🌟
 
-Vérifiez quand même que votre fav n'est pas obtensible par un des tickets que vous pouvez obtenir très vite au début du jeu (on en reparle dans la dernière partie du guide pas-à-pas).
+Vérifiez quand même que votre fav ne peut pas être obtenue par un des tickets que vous aurez très vite au début du jeu (on en reparle dans la dernière partie du guide pas-à-pas).
 
 :::
 
@@ -80,7 +80,7 @@ Il y a aussi d'autres cartes d'assez bonne qualité parmi les SR et SSR, et qui 
 
 Ni la liste ni l'image ne sont exhaustifs. Mais ce sont les principaux highlights.
 
-Les cartes wits SR sont génériquement bonnes _pour la plupart_, donc elles n'ont pas de valeur particulière dans un reroll (mais leur _absence_ est un peu un problème), sauf si vous arrivez à avoir plusieurs LBs sur 1 ou 2 d'entres elles. Pour le moment, **vous pouvez ignorer les cartes guts, même SSR**.
+Les cartes wits SR sont génériquement bonnes _pour la plupart_, donc elles n'ont pas de valeur particulière dans un reroll (mais leur _absence_ est un peu un problème), sauf si vous arrivez à avoir plusieurs LBs sur 1 ou 2 d'entres elles. Comme vous débutez, **vous pouvez ignorer les cartes guts, même SSR**. Elles auront davantage de pertinence plus tard, mais c'est bien trop tôt pour vous en soucier, car leur usage ne sera pas aussi universel que -par exemple- les cartes speed :speed:, stamina :stamina: ou wits :wit:.
 
 :::: tip On ne le dira jamais assez
 
