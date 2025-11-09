@@ -363,7 +363,7 @@ C'est aussi une très bonne bannière pour _**reroll**_. Donc ok pour les début
 ⏩ **Tokai Teio speed SSR**
 * La carte est plutôt **frontloaded** : à 1LB elle a déjà des bonus de stats corrects (incluant power bonus). Elle débloque Race bonus et Fan bonus à 3LB.
 * Tokai Teio speed SSR est une carte speed positivement très quelconque. Ses stats sont OK sans être notablement bonnes, elle a une contribution OK au cross training (60 motiv bonus MLB), et un spec prio peu élevé, mais qu'on apprécie.
-* Sa sélection de hints ❗ laisse à désirer, avec 3 skills de déplacement latéral, 2 accel non fiables, et une white recovery med.
+* Sa sélection de hints ❗ laisse à désirer, avec 3 skills de navigation, 2 accel non fiables, et une white recovery med.
 * Le skill gold obtenu est **Rushing Gale**, la version gold de Straightaway Acceleration, qui est peu utile et très peu fiable.
 * On notera que ses 3 chain events rendent de l'énergie, et l'option du haut sur ses 2 events aléatoires vous donnent un mood up 👌🏿
 

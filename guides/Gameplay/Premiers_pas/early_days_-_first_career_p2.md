@@ -482,7 +482,7 @@ Si vous jouez **Sakura Bakushin O** :
     - qui n'ont **rien entre parenthèse** à la fin de leur description
 - enfin, après tout ça, s'il vous reste des skills point (sans doute pas), prenez tous les **skills verts** (ils boostent un peu vos stats en début de course, si vous courez sur une course correspondant à la description) qui sont en **début de liste**, et qui ont une **chaussure** 🥾 ou un **coeur** 💗. Inutile de les prendre en version double-cerclée, prenez les une seule fois.
 - s'il vous reste des skill points (?????????????????????), prenez les skills verts qui sont proches de la fin de la liste.
-- ignorez tous les autres skills (rouges, skills de vision, skills de déplacement latéral)
+- ignorez tous les autres skills (rouges, skills de vision, skills de navigation)
 
 SI vous jouiez **une autre uma** que Sakura Bakushin O, allez dans la fiche de stats de votre uma, et choisissez *une* aptitude de **distance** et *une* aptitude de **stratégie** où votre uma est notée "A" ou "S". Ensuite, revenez sur la liste des skills, et choisissez vos skills selon les mêmes directives que pour Sakura Bakushin O, mais en remplaçant "Front Runner" par **la stratégie que vous avez choisi**, et "Sprint" par **la distance que vous avez choisi**. 
 
