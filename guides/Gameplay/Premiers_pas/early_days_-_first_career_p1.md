@@ -7,6 +7,14 @@ description: Guide "pas à pas" sur la "Junior Year" de votre première carrièr
 order: 5
 ---
 
+::: warning ⚠️ Cette page est actuellement en travaux ⚠️
+
+Le jeu a reçu une [**énorme update** ce mardi 11 novembre 2025](/guides/News-majeurs-autres/2025-11-11_Half-anni.md) ! Pour rester raccord avec l'état actuel du jeu, une partie des pages du site sont en train de recevoir progressivement des **mises à jour et correctifs**. C'est un process qui prend un certain temps, et cette page est concernée par ces correctifs. 
+
+**Il est possible que certaines infos soient obsolètes, et que d'autres soient incomplètes/en brouillons. Soyez patient·e·s, ce sera terminé sous peu ~**
+
+:::
+
 # Carrière sur le scénario URA Finale - Partie 1
 
 ![Image montrant le logo du scénario URA Finale](/assets/EarlyDays/Scen_URA_P1.png)
@@ -124,7 +132,7 @@ _**Si**_ (et seulement SI) l'auto-select vous propose une de ces 3 compositions 
 
 Je vous conseille de partir sur **3 speed 3 wits** pour votre toute première carrière. Cela dit, ces 2 variantes avec des cartes power deraient être gérables aussi. Maybe :9
 
-La **6e carte** est une carte **empruntée** à un·e de vos follow ; n'hésitez surtout pas à emprunter une **carte puissante**. Si vous n'en avez pas dans vos follow ça ne fait rien, mais il faudra penser à en chercher plus tard (là encore, pas d'urgence). Si vous trouvez une **Kitasan Black speed SSR avec ses 4 cristaux bleus 💠 et lvl 50** (donc "MLB", pour "Max Limit Break"), c'est absolument **idéal**. Il n'y a pas de limite sur le nombre de fois que vous pouvez emprunter une carte, et ça ne coute aucuune ressource. 
+La **6e carte** est une carte **empruntée** à un·e de vos follow ; n'hésitez surtout pas à emprunter une **carte puissante**. Si vous n'en avez pas dans vos follow ça ne fait rien, mais il faudra penser à en chercher plus tard (là encore, pas d'urgence). Si vous trouvez une **Kitasan Black speed SSR avec ses 4 cristaux bleus :lb: et lvl 50** (donc "MLB", pour "Max Limit Break"), c'est absolument **idéal**. Il n'y a pas de limite sur le nombre de fois que vous pouvez emprunter une carte, et ça ne coute aucuune ressource. 
 
 #### 🌟 Une fois que vous avez composé votre deck, vous pouvez **lancer la carrière**.
 
@@ -133,7 +141,7 @@ La **6e carte** est une carte **empruntée** à un·e de vos follow ; n'hésitez
 Au lancement, l'animation d'inspiration se jouera pour vous montrer les bonus apporté par vos legacies. Ce sont exactement les **mêmes bonus qu'affichés sur l'écran de choix de legacies**, mais vous y verrez aussi l'obtention de **leurs skills uniques**, si elles sont capable de le transmettre. 
 
 Le jeu vous demandera ensuite si vous voulez raccourcir les cutscenes pendant le scénario. La plupart des joueur·euse·s expérimenté·e·s le font, car on connait déjà le contenu du scénario (ou on ne s'y intéresse pas). Avec toutes ses cutscenes, **un scénario peut durer plusieurs heures**, d'où l'intérêt de raccourcir. Vous pouvez changer ce paramètre à tout moment pendant la carrière, en cliquant sur "Quick" en bas de l'écran de jeu. Les 4 options sont :
-- **D'ont use Quick Mode** → toutes les cutscenes sont normales
+- **Don't use Quick Mode** → toutes les cutscenes sont normales
 - **Shorten all events** → toutes les cutscenes qui peuvent l'être sont raccourcies, et vous n'aurez qu'un résumé des dialogues, plutôt que les dialogues complets
 - **Only shorten scenario events** → toutes les cutscenes liées au **scénario de carrière** sont raccourcies (si possible), avec un résumé des events
 - **Only shorten trainee events** → toutes les cutscenes liées à **votre uma** sont raccourcies (si possible), avec un résumé des events.
@@ -164,9 +172,9 @@ Vous pouvez aussi décider de participer à une course, **non obligatoire**, pen
 
 Si vous ne faites ni un entrainement, ni une course, vous avez le choix entre 3 manières de **passer votre tour** : 
 - Le "**rest**", qui est un repos normal, afin de récupérer de l'énergie. Un repos peut aléatoirement se passer :
-    - très bien → event "well rested" → +70 pts d'énergie
+    - très bien → event "well rested" → +70 pts d'énergie, et une chance de clear le debuff **Night Owl** ou **Skin Outbreak**
     - bien → event "all refreshed" → +50 pts d'énergie
-    - mal → event "sleep deprived" → +30 pts d'énergie, et parfois le debuff "Night Owl"
+    - mal → event "sleep deprived" → +30 pts d'énergie, et parfois le debuff **Night Owl**
 - "**Recreation**", qui permet de faire une sortie ludique et relaxante avec votre uma, afin d'**augmenter son niveau d'humeur**. La plupart des _outings_ augmente d'un niveau votre humeur, et redonne un peu d'énergie, mais le **karaoke** montera de 2 niveaux votre humeur (sans gain d'énergie).
 - Et le bouton "**infirmerie**" qui n'est cliquable que si vous avez un debuff à soigner (comme "Night Owl", que vous aurez souvent). L'infirmerie vous restaure toujours 20 pts d'énergie, et a une chance élevée (mais non garantie) de faire disparaître votre debuff.
 
@@ -317,7 +325,7 @@ Votre principal outil pour gérer l'humeur, c'est le bouton jaune "**Recreation*
 
 En début de carrière, il est recommandé d'essayer de **mettre le mood à GREAT assez vite**, pour bénéficier du boost d'entrainement au plus tôt.
 
-#### 🌟 Dés que vous avez un tour d'entrainement avec des stacks médiocres (moins de 2 supports), faites 1 recreation pour monter le mood.
+#### 🌟 dès que vous avez un tour d'entrainement avec des stacks médiocres (moins de 2 supports), faites 1 recreation pour monter le mood.
 
 ![Image montrant une sortie avec Rice Shower, dans un temple, où elle a tiré une fortune "modeste"](/assets/EarlyDays/Scen_Outing.png)
 
@@ -327,7 +335,7 @@ Si -comme moi- vous n'avez pas eu le karaoke (+2 mood up → GREAT), et qu'au to
 
 Je décide arbitrairement que **chaque support** sur un entrainement donné compte **1 point**, et la présence d'un ou plusieurs **hint** ❗ compte comme **+0.5** points (même s'il y a 2+ hints ❗). 
 
-⏩ Si ma jauge d'énergie n'est PAS PLEINE : dés que j'ai un tour d'entrainement à **moins de 2,5 points** (= moins de 2 supports + un ou plusieurs hints ❗), je considère ça comme un mauvais tour d'entrainement, et je fais un **recreation ce tour là**.
+⏩ Si ma jauge d'énergie n'est PAS PLEINE : dès que j'ai un tour d'entrainement à **moins de 2,5 points** (= moins de 2 supports + un ou plusieurs hints ❗), je considère ça comme un mauvais tour d'entrainement, et je fais un **recreation ce tour là**.
 
 ⏩ Si la jauge d'énergie est PLEINE : je fais **un entrainement**, sauf s'il n'y a aucun entrainement avec au moins **1,5 points** (1 support avec son hint ❗). Dans ce cas, je fais quand même un **recreation ce tour là**.
 
@@ -436,7 +444,7 @@ Quand vous arrivez sur un tour avec une **course obligatoire**, l'écran d'actio
 
 ::: warning Ne mettez pas la charue avant l'habit du moine
 
-Le choix des skills est -de manière générale- un _grand sujet_, et qui peut paraître ingérable quand on débute. Pas de panique. Ca viendra avec le temps, à mesure que vous jouez, que vous lisez des guides, et que vous posez de questions. Un bon choix de skills c'est une des choses **à quoi on reconnaît un·e _vétéran·e_ du jeu** ; ne vous attendez pas à tout comprendre dés maintenant, car it's not happening. Ça requiert juste **davantage d'expérience** que vous n'en avez actuellement.
+Le choix des skills est -de manière générale- un _grand sujet_, et qui peut paraître ingérable quand on débute. Pas de panique. Ca viendra avec le temps, à mesure que vous jouez, que vous lisez des guides, et que vous posez de questions. Un bon choix de skills c'est une des choses **à quoi on reconnaît un·e _vétéran·e_ du jeu** ; ne vous attendez pas à tout comprendre dès maintenant, car it's not happening. Ça requiert juste **davantage d'expérience** que vous n'en avez actuellement.
 
 On en reparlera peut-être (peut-être) brièvement à la fin de ce guide pas-à-pas.
 
@@ -512,7 +520,7 @@ Brièvement, voici les stratégies résumées en quelques mots  :
 - **End Closer** → Elles restent à l'arrière en début de course, et remontent progressivement le peloton pendant le "mid-race". Elles ont naturellement la plus grande vitesse max en late-race.
 - **Late Surger** → Comme les End Closer, mais un peu plus à l'avant. Elles restent juste derrière les Pace Chaser, et tentent de les dépasser pour s'avancer en milieu de course. Elles ont naturellement la plus grande accélération en late-race.
 - **Pace Chaser** → Elles tentent de rester à quelques mètres de la Front Runner en 1e position, sans la rattraper. À partir de la moitié de la course, elles tentent de prendre la tête. Elles ont naturellement le moins de HP, mais ça ne fait pas d'elles la moins bonne stratégie.
-- **Front Runner** → Elles cherchent à prendre la 1e place dés le début de la course, et la conserver jusqu'à la fin de la course. Elles ont naturellement la meilleure accélération et la meilleure vitesse en **early-race**.
+- **Front Runner** → Elles cherchent à prendre la 1e place dès le début de la course, et la conserver jusqu'à la fin de la course. Elles ont naturellement la meilleure accélération et la meilleure vitesse en **early-race**.
 
 Plus une stratégie est "**frontline**" (à l'avant), plus sa vitesse max en late-race est **faible**. Les Front Runner sont donc celles qui courent le moins vite en late-race. Mais comme elles mènent la course, elles ont aussi **beaucoup d'avance** sur les autres stratégies, et ont le moins de chance d'être bloquées.
 
@@ -527,7 +535,7 @@ De manière générale, **il n'y a pas de stratégie meilleure que d'autre**. Le
 - être en 3e, 2e ou 1e position
 - avoir une autre uma immédiatement à côté d'elle pendant 2 secondes
 
-Ce sont des conditions plus facile à valider en tant que **Front Runner**, mais qui peuvent aussi être validées en tant que Pace Chaser sans souci. De son côté, Rice Shower doit dépasser la uma en 4e, 3e, 2e ou 1e position sur le final straight pour activer son unique, donc son unique est plus facile à activer en étant Pace.
+Ce sont des conditions plus facile à valider en tant que **Front Runner**, mais qui peuvent aussi être validées en tant que Pace Chaser sans souci. De son côté, Rice Shower doit dépasser la uma en 4e, 3e, 2e ou 1e position, à partir du final corner (ou plus tard) ; son unique s'activera alors -peu après- sur le final straight. Pour Rice, l'activation est donc plus facile en étant Pace.
 
 ::: tip Toujours sur le paddock...
 
@@ -607,7 +615,7 @@ Certaines uma ont parfois pour objectif même d'avoir un certain nombre de fans 
 
 Pour augmenter votre nombre de fans (si votre carrière le requiert), vous devez participer à des **courses supplémentaires**, qui seront alors **facultatives**. Chaque course (obligatoire ou pas) vous apporte des fans, en fonction du **résultat de la course**. La Debut Race n'en donne pas beaucoup, et pour la plupart des uma il suffit alors (mais pas toujours) de faire **une seule course facultative G3** (ou mieux) pour atteindre le nombre de fans requis pour la prochaine course obligatoire. C'est le cas pour Rice Shower : une seule course en G3 apporte bien plus que les 350 fans supplémentaires requis pour l'inscription à Spring Stakes.
 
-Les courses G3 sont les courses "gradées" les moins prestigieuses et les moins difficiles. Il y a aussi les courses **G2** qui sont plus notables, puis les courses **G1** ; les plus renommées (vous en connaissez sans doute certaines de nom, comme le Nippon Derby ou Arima Kinen). Vous y affronterez parfois (parfois) **une uma un peu plus forte que les autres**, qui pourrait vous mettre légèrement en difficulté (si c'est le cas, ce sera souvent (mais pas toujours) la même pendant le reste de votre carrière :currenDevilish:). Mais n'hésitez pas à tenter votre chance malgré tout ; même si elles peuvent paraître **intimidantes**, les G1 sont faciles pour tout·e joueur·euse qui sait un minimum jouer. D'ici 4-5 carrières vous n'aurez pas à vous en inquiéter. Vous n'avez pas à vous en inquiéter dés maintenant anyways.
+Les courses G3 sont les courses "gradées" les moins prestigieuses et les moins difficiles. Il y a aussi les courses **G2** qui sont plus notables, puis les courses **G1** ; les plus renommées (vous en connaissez sans doute certaines de nom, comme le Nippon Derby ou Arima Kinen). Vous y affronterez parfois (parfois) **une uma un peu plus forte que les autres**, qui pourrait vous mettre légèrement en difficulté (si c'est le cas, ce sera souvent (mais pas toujours) la même pendant le reste de votre carrière :currenDevilish:). Mais n'hésitez pas à tenter votre chance malgré tout ; même si elles peuvent paraître **intimidantes**, les G1 sont faciles pour tout·e joueur·euse qui sait un minimum jouer. D'ici 4-5 carrières vous n'aurez pas à vous en inquiéter. Vous n'avez pas à vous en inquiéter dès maintenant anyways.
 
 Plus une course est prestigieuse, plus elle apporte de récompenses :
 - davantage de fans
@@ -684,10 +692,14 @@ Pour rappel, vous voulez continuer à monter vos supports jusqu'au niveau **oran
 [![Brève explication de l'évènement Extra Training](/assets/EarlyDays/Scen_Extra_Tore.png)](/assets/EarlyDays/Scen_Extra_Tore.png)
 
 Il est possible qu'après certains entrainements, vous ayez un évènement appelé **Extra Training**. Toutes les uma peuvent avoir cet évènement, et il s'appelle pareil pour toutes. Il se produit aléatoirement après un entrainement ; des fois vous l'aurez plein de fois dans une même carrière, et des fois pas du tout. C'est aléaoire. L'évènement vous propose alors 2 choix :
-* Haut : **-5 énergie**, +5 points sur la dernière stat entrainée et +5 point de jauge avec Yayoi (directrice)
+* Haut : 
+    * **-5 énergie**
+    * +5 points sur la dernière stat entrainée
+    * +5 point de jauge avec Yayoi (directrice)
+    * une **chance** de clear un debuff (si vous en avez)
 * Bas : **+5 énergie**
 
-Dans la vaste majorité des cas, **vous allez vouloir prendre l'option du bas**, car l'option du haut est un peu un gachi de précieuse énergie. Si votre énergie est pleine (totalement pleine), vous pouvez sélectionner celle du haut ; le gain de jauge avec Yayoi Akikawa sera utile plus tard. Mais 99% du temps, gagner **+5 pts d'énergie est bien plus précieux**. Si vous avez un doute, prenez l'option du bas.
+Dans la vaste majorité des cas, **vous allez vouloir prendre l'option du bas**, car l'option du haut est un peu un gachi de précieuse énergie. Cependant, si votre énergie est pleine (totalement pleine), ou si vous avez un **debuff** vous pouvez sélectionner celle du haut : dégager le debuff (non garanti) est bénéfique pour des raisons évidentes, et le gain de jauge avec Yayoi Akikawa ~~est un outil mystère qui~~ sera utile plus tard. Mais 99% du temps, gagner **+5 pts d'énergie est bien plus précieux**. Si vous avez un doute, prenez l'option du bas.
 
 ::::: tip Un autre event similaire
 

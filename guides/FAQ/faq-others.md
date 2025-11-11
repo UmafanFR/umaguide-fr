@@ -8,6 +8,14 @@ order: 6
 
 # FAQ : Mythes et erreurs courantes
 
+::: warning ⚠️ Cette page est actuellement en travaux ⚠️
+
+Le jeu a reçu une [**énorme update** ce mardi 11 novembre 2025](/guides/News-majeurs-autres/2025-11-11_Half-anni.md) ! Pour rester raccord avec l'état actuel du jeu, une partie des pages du site sont en train de recevoir progressivement des **mises à jour et correctifs**. C'est un process qui prend un certain temps, et cette page est concernée par ces correctifs. 
+
+**Il est possible que certaines infos soient obsolètes, et que d'autres soient incomplètes/en brouillons. Soyez patient·e·s, ce sera terminé sous peu ~**
+
+:::
+
 ### Mon deck doit avoir au moins une carte support par type d'entrainement
 
 ::: details Surtout pas, plus vous avez de cartes de types différents, plus c'est difficile de monter chaque stat :

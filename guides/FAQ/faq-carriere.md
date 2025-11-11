@@ -8,9 +8,19 @@ order: 3
 
 # FAQ : Carrière
 
+::: warning ⚠️ Cette page est actuellement en travaux ⚠️
+
+Le jeu a reçu une [**énorme update** ce mardi 11 novembre 2025](/guides/News-majeurs-autres/2025-11-11_Half-anni.md) ! Pour rester raccord avec l'état actuel du jeu, une partie des pages du site sont en train de recevoir progressivement des **mises à jour et correctifs**. C'est un process qui prend un certain temps, et cette page est concernée par ces correctifs. 
+
+**Il est possible que certaines infos soient obsolètes, et que d'autres soient incomplètes/en brouillons. Soyez patient·e·s, ce sera terminé sous peu ~**
+
+:::
+
 ### Quel deck utiliser pour la carrière de [insérez-ici-une-uma] ?
 
 :::: details Constuisez votre deck en considérant la plus longue distance que votre uma doit courir :
+
+Par souci de simplification, ces recommandations seront pour le scénario **URA Finale**. Les scénarios suivants encourageront plus ou moins l'utilisation de variation de ces decks, mais URA Finale est très "vanilla" et se base sur vos fondamentaux. C'est donc préférable pour apprendre à faire un deck cohérent.
 
 ::: warning Au cas où c'est pas clair
 
@@ -24,35 +34,35 @@ Toutes les uma (sans exception) veulent **courir vite** et **ne pas s'écrouler 
 
 Aucune uma ne peut accomplir quoi que ce soit sans ces 2 points là. Selon la distance "ne pas s'écrouler d'épuisement" demandera d'utiliser des **cartes stamina, power ou guts**, et c'est là dessus que la construction du deck va se nuancer. Vous pouvez considérer que "par défaut", votre deck commence par :
 
-- 2 cartes speed
-- 1 carte wits
+- 2 cartes speed :speed:
+- 1 carte wits :wit:
 
 À cela, vous devez ajouter une "source de HP", et cette source de HP dépend de la distance. Pour savoir pour quelle distance vous voulez build votre deck, vous pouvez :
 
-- checker in game quand vous sélectionnez votre uma pour une carrière, cliquez sur "Career info" pour voir le détail de chaque course obligatoire qu'elle doit faire.
-- checker sur [Gametora.com](https://gametora.com/umamusume/characters) sélectionnez votre personnage, et en bas de page vous pouvez voir son planning de course complet.
+- checker **in game** : quand vous sélectionnez votre uma pour une carrière, cliquez sur "Career info" pour voir le détail de chaque course obligatoire qu'elle doit faire.
+- checker sur [Gametora.com](https://gametora.com/umamusume/characters) : sélectionnez votre personnage, et en bas de page vous pouvez voir son planning de course complet.
 
 L'info qui vous intéresse, c'est quelles sont les distances sur lesquelles votre uma va courir, et notamment, quelle est **la plus longue distance** que votre uma court, et si elle \*besoin de **gagner\*** la course sur cette distance. À partir de là, vous avez plusieurs cas de figure.
 
-⏩ Si votre uma court sur des courses **medium et longue distance** :
+#### Si votre uma court sur des courses **medium et longue distance** : 
 
-Vous avez besoin de **HP en abondance**, donc votre source de HP sera la **stamina**, et des **gold recovery** si nécessaire (rappel 1 gold recovery vaut presque 4 white recovery). Pour une uma qui ne fait aucune course long (excepté Arima Kinen ~~mais c'est secrètement une course med~~), vous pouvez vous contenter d'une seule carte stamina (si elle est très bonne, comme Super Creek stam SSR ou -dans une moindre mesure- Mayano Top Gun stam SR avec beaucoup de LB), et compléter au besoin avec des recovery (gold de préférence). Par contre, une uma qui court sur les G1 de longue distance (Kikka Sho et Tenno Sho Spring) voudra certainement une 2e carte stamina pour sécuriser ces courses.
+Vous avez besoin de **HP en abondance**, donc votre source de HP sera la **stamina**, et des **gold recovery** si nécessaire (1 gold recovery vaut presque 4 white recovery, et peut être approximé à environ +200 stamina). Pour une uma qui ne fait aucune course long (excepté Arima Kinen ~~mais c'est secrètement une course med~~), vous _pouvez_ vous contenter d'une seule carte stamina si elle est bonne (comme Super Creek stam SSR ou -dans une moindre mesure- Mayano Top Gun stam SR avec beaucoup de LB), et compléter au besoin avec des recovery (gold de préférence). Par contre, une uma qui court sur les G1 de longue distance (Kikuka Sho et Tenno Sho Spring) voudra certainement une 2e carte stamina pour sécuriser ces courses.
 
-Votre deck devient donc **2speed 2stam 1wits**. Vous avez alors le choix entre ajouter une 3e carte speed (plus facile de réussir le scénario), ou une 2e carte wits (meilleure performance en Team Trials).
+Votre deck devient donc **2speed 2stam 1wits** :speed: :speed: :stamina: :stamina: :wit:. Vous avez alors le choix entre ajouter une **3e carte speed** (plus facile de réussir le scénario), ou éventuellement une 2e carte wits (meilleure performance en Team Trials).
 
-⏩ Si votre uma court sur des courses **sprint ou mile** :
+#### Si votre uma court sur des courses **sprint ou mile** :
 
-Le besoin en HP est très faible donc inutile de vous embêter avec beaucoup de stamina. Vous pouvez décider d'utiliser des cartes power (préférablement 2 pour être safe) pour avoir un léger apport en stamina, qui sera suffisant pour des courses en mile. Ou alors, vous pouvez aussi (mais c'est peu recommandé pour le moment) utiliser des cartes **guts** (au moins 2, peut-être 3) ; en effet, pendant une carrière le besoin en HP est si faible que vous pouvez compter sur le fait de conserver ces HPs, plutôt que d'en avoir "davantage". Ce sera la stratégie recommandée quand nous auront suffisamment de bonnes cartes guts (et notamment, Haru Urara guts MLB), et que guts sera buffé pour avoir d'autres utilités bonus.
+Le besoin en HP est très faible donc inutile de vous embêter avec beaucoup de stamina. Vous pouvez décider d'utiliser des cartes power (préférablement 2 pour être safe) pour avoir un léger apport en stamina, qui sera suffisant pour des courses en mile. Ou alors, vous pouvez aussi utiliser des cartes **guts** (au moins 3 si vous n'avez pas encore Haru Urara guts SSR MLB) ; en effet, pendant une carrière le besoin en HP est si faible que vous pouvez compter sur le fait de **conserver ces HPs**, plutôt que d'en avoir "davantage". C'est une stratégie valide, et qui sera de plus en plus recommandable à mesure que les scénarios deviennent puissants.
 
-Votre deck devient donc **2speed 2power 1wits**, et vous pouvez décider d'ajouter une 3e carte speed ou une 2e carte wits. Si vous préférez utiliser guts, votre deck devient **2speed 2guts 1wits**, et vous allez vouloir ajouter une 3e carte _guts_ ou une 2e carte wits.
+Votre deck devient donc **2speed 2power 1wits** :speed: :speed: :power: :power: :wit:, et vous pouvez décider d'ajouter une **3e carte speed**, ou éventuellement une 2e carte wits. Si vous préférez utiliser **guts** comme "source de HP", votre deck devient **2speed 3guts 1wits** :speed: :speed: :guts: :guts: :guts: :wit: (si vos cartes guts sont très bonnes, vous pouvez faire 3speed 2guts.)
 
-⏩ Si votre uma court sur des distance ambigues, comme **mile et medium**, ou si votre uma est comme King Halo et fait **toutes les distances** :
+#### Si votre uma court sur des distance ambigues, comme **mile et medium**, ou si votre uma est comme King Halo et fait **toutes les distances** :
 
-Construisez votre deck pour la distance **la plus grande**. C'est tout bête, mais si vous ne prenez pas en compte la distance la plus grande vous allez vous retrouver en difficulté pour cette/ces courses de distance medium et long là. Ainsi, pour une uma qui court en mile et medium, construisez votre deck **comme un deck medium**. Si votre uma n'a _pas besoin de gagner_ ces courses de distance medium/long (exemple : King Halo ne fait que participer à Kikka Sho), vous pouvez ignorer cette distance (mais du coup vous perdrez sans doute la course).
+Construisez votre deck pour la distance **la plus grande**. C'est tout bête, mais si vous ne prenez pas en compte la distance la plus grande **vous allez vous retrouver en difficulté pour cette/ces courses de distance medium et long là**. Ainsi, pour une uma qui court en mile et medium, construisez votre deck **comme un deck medium**. Si votre uma n'a _pas besoin de gagner_ ces courses de distance medium/long (exemple : King Halo ne fait que participer à Kikuka Sho), vous pouvez ignorer cette distance (mais du coup vous perdrez sans doute la course).
 
 Vous pouvez appliquer exactement ce même raisonnement pour toutes les uma.
 
-Vous pouvez aussi faire des variations des decks recommandés, en ajustant le nombre de cartes wits ou speed par exemple. Si vous pensez que vous vous êtes perdu dans vos expérimentations, refaite le raisonnement depuis le début et repartez sur un deck classique.
+Vous pouvez aussi faire des variations des decks recommandés, en ajustant le nombre de cartes wits ou speed par exemple. Si vous pensez que vous vous êtes perdu dans vos expérimentations, refaites le raisonnement depuis le début et repartez sur un deck classique.
 
 ::: warning Un conseil
 
@@ -60,19 +70,30 @@ Si pour une raison ou une autre vous n'utilisez qu'une seule carte d'un type (pa
 
 :::
 
+Vous pouvez aussi très bien jouer des decks avec seulement 2 types de cartes, comme :speed: :speed: :speed: :power: :power: :power: pour du mile, ou :speed: :speed: :speed: :stamina: :stamina: :stamina: en long. Vous aurez des stats finales plus élevées en procédant ainsi, mais c'est pas dit que votre uma soit de bonne qualité pour autant.
+
 ::::
 
-### Comment avoir URA Finals sur X distance ?
+### Comment avoir URA Finals sur X distance à la fin du scénario ?
 
-::: details La distance choisie pour URA finals correspond à la distance sur laquelle vous avez le plus couru pendant une carrière :
+:::: details La distance choisie pour URA finals correspond à la distance sur laquelle vous avez le plus couru pendant une carrière :
+
 
 À la fin de votre carrière, vous participez aux 3 courses de URA Finals, et leur distance correspond au **type de distance sur lequel vous avez le plus couru en carrière**. Pendant votre carrière, si vous faites 5 courses longues, 4 courses medium, 1 mile et 0 sprint, vous aurez URA Finals **long**, car c'est la distance sur laquelle vous avez couru le plus. Ainsi, vous pouvez choisir la distance sur laquelle vous allez participer à URA Finals, en effectuant des courses facultatives qui correspondent à votre préférence.
 
 Si par contre vous vous retrouvez avec un **ex-aequo entre 2 types de distances**, le jeu vous lancera sur URA Finals pour la distance **la plus courte** des deux. Ainsi, si vous faites 5 courses longues, 5 medium, 1 mile et 0 sprint, vous irez en **medium**, car vous avez autant de long que de med, et entre long et medium c'est medium le plus court.
 
-URA Finals dirt est systématiquement en distance **mile**, tout comme en Team Trials.
+::: tip Futurs scénarios
+
+Ceci s'applique à tous les futurs scénarios qui se terminent sur URA Finale ou équivalent. Le scénario Make a New Track se termine sur un équivalen de URA Finale, légèrement différent, et **la même règle s'applique** pour le choix de la distance.
+
+Les scénarios qui ne se terminent pas sur URA Finale (ou équivalent) -comme Project L'Arc, ou The Twinkle Legends- ne sont donc pas concernés.
 
 :::
+
+URA Finals dirt est systématiquement en distance **mile**, tout comme en Team Trials.
+
+::::
 
 ### Comment gérer la carrière de King Halo ?
 
@@ -80,25 +101,28 @@ URA Finals dirt est systématiquement en distance **mile**, tout comme en Team T
 
 Ou 3 mile. Au choix.
 
-Commen mentionné à l'instant, une uma comme King Halo qui court sur toutes les distances va perdre ses courses sur les plus longues distances si vous ne la buildez pas pour ces distances. Concevez votre deck pour qu'elle réussise en med, donc prenez au moins une carte stamina (ou une carte power qui donne une gold recovery, à minima) dans votre deck.
+Commen mentionné à l'instant, une uma comme King Halo qui court sur toutes les distances va perdre ses courses sur les plus longues distances si vous ne la buildez pas pour ces distances. **Concevez votre deck pour qu'elle réussise en med**, donc prenez au moins une carte stamina :stamina: (ou une carte power qui donne une gold recovery, à minima) dans votre deck.
 
-Plus important, votre King Halo sera sans doute un peu en difficulté à cause du URA Finals en distance medium par défaut (4 courses medium). Vous pouvez changer ce destin en l'inscrivant sur au moins **2 courses facultatives en distance sprint**, ou alors 3 courses mile. Au choix. Le but c'est qu'au final vous ayez fait _au moins autant de courses sprint_ (ou mile) que de courses med (donc si vous faites une course med supplémentaire, vous devez ajouter une sprint/mile aussi derrière).
+Plus important, votre King Halo sera sans doute un peu en difficulté à cause du **URA Finals en distance medium par défaut** (4 courses medium). Vous pouvez changer ce destin en l'inscrivant sur au moins **2 courses facultatives en distance _sprint_**, ou alors 3 courses mile. Au choix. Le but c'est qu'au final vous ayez fait _au moins autant de courses sprint_ (ou mile) que de courses med (donc si vous faites une course med supplémentaire, vous devez ajouter une sprint/mile aussi derrière).
 
 En procédant ainsi, votre carrière avec King Halo sera bien plus simple.
 
 :::
 
-### Dois-je utiliser Tazuna Hayakawa SSR (ou Aoi Kiryuin) sur le scénario URA ?
+### Dois-je utiliser Tazuna Hayakawa SSR ?
 
 ::: details Pas vraiment. Mais vous pouvez si vous trouvez ça confortable :
 
-Dans les futurs scénarios, les cartes Pal (comme Tazuna) et les cartes "Group" (qui n'existent pas encore sur la version globale) deviendront "obligatoire" pour jouer un scénario correctement, car **elles boosteront fortement les mécaniques de leur scénarios respectifs**. Mais pour le moment on s'en passe très bien. Le premier scénario où ne pas utiliser la carte Pal/Group du scénario est un véritable handicap, c'est le 4e scénario : Grand Live. D'ici là, ne vous sentez pas obligé d'utiliser une carte Pal si vous n'aimez pas la dynamique, ou si vous préférez utiliser ce slot de carte support pour autre chose.
+Les cartes pal :friends: comme Tazuna pal SSR ou Aoi Kiryuin pal SR **soutiennent un bon deck** ; si vos cartes sont de qualité médiocre (peu de bonnes cartes, et peu de LB sur ces cartes), il sera sans doute plus intéressant d'intégrer une carte "classique" (donc non pal) à la place.
 
 Les cartes Pal sont des cartes qui vous soutiennent et participent indirectement à la croissance de toutes les stats. Elles permettent aussi de faire des "recreations spéciaux", qui restaurent beaucoup d'énergie (et ne peuvent pas échouer (contrairement à un repos classique)) et peuvent monter l'humeur en même temps.
 
-Si vous utilisez une carte Pal, n'oubliez pas de **compléter intégralement les recreations spéciaux**, afin d'obtenir le **gold skill** ! Celui que vous donne Tazuna est universel et très bon pour le Team Trials.
+Si vous utilisez une carte Pal, n'oubliez pas de **compléter intégralement les recreations spéciaux**, afin d'obtenir le **gold skill** ! Celui que vous donne Tazuna est universel et très bon pour toutes les uma stratégies en **Team Trials** ; il s'agit du skill **Concentration**.
 
-De manière générale [Tazuna SSR est une bonne carte](/guides/FAQ/faq-others#tazuna-hayakawa-pal-ssr-est-une-mauvaise-carte-support) à utiliser de toutes façons, n'hésitez pas à expérimenter en l'intégrant dans votre deck.
+De manière générale [Tazuna SSR est une bonne carte](/guides/FAQ/faq-others#tazuna-hayakawa-pal-ssr-est-une-mauvaise-carte-support) à utiliser de toutes façons, n'hésitez pas à expérimenter en l'intégrant dans votre deck. De plus, la carte a des bons bonus, et vieillis assez bien. Vous pouvez l'utiliser jusqu'à la fin du 3e scénario ; à partir de là ce sera plus difficile de l'intégrer au deck.
+
+Dans les futurs scénarios, les cartes Pal et les cartes "Group" :group: (qui n'existent pas encore sur la version globale) deviendront "obligatoire" pour jouer un scénario correctement, car **elles boosteront fortement les mécaniques de leur scénarios respectifs**. Mais pour le moment on s'en passe très bien. Le premier scénario où ne pas utiliser la carte Pal/Group du scénario est un véritable handicap, c'est le 4e scénario : Grand Live. D'ici là, ne vous sentez pas obligé d'utiliser une carte Pal si vous n'aimez pas la dynamique, ou si vous préférez utiliser ce slot de carte support pour autre chose.
+
 
 :::
 
@@ -108,13 +132,13 @@ De manière générale [Tazuna SSR est une bonne carte](/guides/FAQ/faq-others#t
 
 Elle est pratiquement impossible à gagner sans une abondance de stamina. Pendant une carrière, **visez 600 stamina** pour sécuriser la course, ou alors **400 stamina + 1 gold recovery** (comme celle de Super Creek SSR, Swinging Maestro). Bien entendu, vous ne gagnerez pas avec 250 speed. Le reste des stats doivent suivre.
 
-Si vous avez (légitimement) des difficultés à atteindre le besoin en stamina, sachez que les **late surger consomment actuellement le moins de HP**. Donc si vous manquez de stamina, essayez de faire la course en Late Surger.
+Si vous avez (légitimement) des difficultés à atteindre le besoin en stamina, sachez que les **late surger consomment actuellement le moins de HP**. Donc si vous manquez de stamina, essayez de faire la course en Late Surger. Si la RNG vous est favorable, vous pourrez gagner la course avec 450+ stamina.
 
-Jusqu'à présent, seules **Mejiro McQueen et Rice Shower** ont l'obligation de _gagner_ cette course. Plus tard, Narita Brian, Mejiro Bright, Hishi Miracle et Fenomeno auront aussi cet objectif.
+Jusqu'à présent, seules **Mejiro McQueen, Rice Shower et Narita Brian** ont l'obligation de _gagner_ cette course. Plus tard Mejiro Bright, Hishi Miracle et Fenomeno auront aussi cet objectif.
 
 ::: tip **Anecdote amusante :9**
 
-En PvP, pour terminer correctement le Haruten (donc avoir 100% du sprint à vitesse max), il faut.... 1350-1400 stamina. Sous entendu, au dessus de 1200 c'est surtout les gold recovery qui jouent. Ainsi, même avec les +400 stam secrètement ajouté à votre carrière, avec 600 stamina vous êtes loin du compte pour "terminer" la course anyways.
+En PvP, pour terminer correctement le Haruten (donc avoir 100% du sprint à vitesse max), il faut.... 1350-1400 stamina. Sous entendu, au dessus de 1200 c'est surtout les gold recovery qui jouent. Ainsi, même avec les +400 stam secrètement ajouté à votre carrière, avec 600 stamina vous êtes loin du compte pour "terminer" la course anyways. C'est juste qu'aucune autre uma adverse ne la termine non plus :currenDevilish:
 
 :::
 
@@ -128,13 +152,13 @@ Si vous pensez que Tazuna vous propose des recommandations incohérentes, n'hés
 
 :::
 
-### Comment être rank 'Legend' en carrière ? Je n'atteins jamais le bon nombre de fans
+### Comment être rank "Legend" en carrière ? Je n'atteins jamais le bon nombre de fans
 
-::: details La grande majorité des uma n'atteignent pas 'legend' avec juste leur carrière.
+::: details La grande majorité des uma n'atteignent pas "legend" avec juste leur carrière.
 
-Pour accumuler des fans, participez à **des courses supplémentaire**, en plus des courses obligatoires de la carrière de votre uma. Si vous avez un mauvais tour d'entrainement, envisagez de faire une **G3/G2/G1 pour laquelle votre uma a les aptitudes** (= au moins "B" en distance et en surface). Ne faites pas de courses pré-OP ou OP, sauf si vous n'avez pas le choix (objectif de fans non atteint) elles rapportent trop de peu de récompenses compte tenu de l'énergie dépensée. **Les G1 sont particulièrement rentables, car elles rapportent beaucoup de skill points**, en plus de donner quelques stats et des fans.
+Pour accumuler des fans, participez à **des courses supplémentaire**, en plus des courses obligatoires de la carrière de votre uma. Si vous avez un mauvais tour d'entrainement, envisagez de faire une **G3/G2/G1 pour laquelle votre uma a les aptitudes** (= au moins "B" en distance et en surface). Ne faites pas de courses pré-OP ou OP, sauf si vous n'avez pas le choix (objectif de fans non atteint) ; elles rapportent trop de peu de récompenses compte tenu de l'énergie dépensée. **Les :g1: sont particulièrement rentables, car elles rapportent beaucoup de skill points**, en plus de donner quelques stats et des fans.
 
-Chaque 1e victoire sur une course vous donne aussi son trophée, et l'obtention d'un trophée que vous n'aviez pas encore vous rapporte des **carats** ! (cela ne s'applique pas non plus aux pré-OP et OP)
+Chaque 1e victoire sur une course vous donne aussi son trophée, et l'obtention d'un trophée que vous n'aviez pas encore vous rapporte des **carats** :carat: ! (cela ne s'applique pas non plus aux pré-OP et OP)
 
 :::
 
@@ -146,35 +170,35 @@ Si vous êtes en **début de run** (Junior Year, ou début de Classic Year), sé
 
 Voici un résumé des options :
 
-- Option 1 (50% chance de succès ?)
+- Option 1 (faible chance de succès)
 
   - ✅ +20 all stats
   - ❌ **-15 all stats**, -2 mood down, debuff **Night Owl**
   - High risk, high reward, grosse punition en cas d'échec
 
-- Option 2 (60% chance de succès? )
+- Option 2 (faible chance de succès)
 
   - ✅ Skills Straightaway Recovery et Corner Recovery ○
   - ❌ -20 énergie, -2 mood down
   - High risk, reward pas ouf, assez forte punition en cas d'échec
 
-- Option 3 (80% chance de succès ?)
+- Option 3 (bonne chance de succès)
 
   - ✅ +12 énergie max, +40 énergie, soigne tous les debuffs
   - ❌ -20 énergie, -2 mood down, debuff Practice Poor
   - Risque "faible", bon reward, assez forte punition en cas d'échec
 
-- Option 4 (90% chance de succès ?)
+- Option 4 (grande chance de succès)
 
   - ✅ +20 énergie, +1 mood up, buff Charming ○
   - ❌ -10 ou -20 énergie, -1 mood down, parfois aussi le debuff Practice Poor
   - Faible risque, très bon reward, punition modérée en cas d'échec
 
-- Option 5 (100% chance de succès)
+- Option 5 (succès garanti)
   - ✅ +10 énergie
   - Cette option n'a pas d'échec
 
-Réalistiquement, on ne gamble pas trop sur l'option 1, car un échec est possiblement run-ender, et l'option 2 ne donne pas de récompense intéressante anyways.
+Réalistiquement, on ne gamble pas trop sur l'option 1, car un échec ruine essentiellement votre carrière, et l'option 2 ne donne pas de récompense intéressante anyways.
 
 :::
 
@@ -182,7 +206,7 @@ Réalistiquement, on ne gamble pas trop sur l'option 1, car un échec est possib
 
 ::: details C'est normal, on progresse pas mal par à-coups :
 
-C'est normal de se sentir un peu stuck de temps en temps, car on joue à un jeu de cartes aux règles complexes, sans avoir ni les cartes (elles arrivent au fur et à mesure), ni le règlement complet (c'est le [ref doc](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/) et le [doc des mécaniques du jeu](https://docs.google.com/document/d/15VzW9W2tXBBTibBRbZ8IVpW6HaMX8H0RP03kq6Az7Xg/)). Plus vous aurez de cartes support, moins vous aurez de chaînes pour vous retenir de progresser. Cela dit, si vous pensez que vous jouez de manière sous optimale, vous pouvez envisager de zieuter ce [guide pour améliorer un peu vos carrières](https://yamakyu.notion.site/Astuces-pour-am-liorer-vos-runs-d-entrainements-193b1daa914b800ba7a6deb94334d853). Vous y trouverez des tips qui devraient petit à petit faire une belle différence ; l'expérience et les connaissances des mécaniques du jeu sont des atouts de taille pour améliorer vos carrières.
+C'est normal de se sentir un peu stuck de temps en temps, car on joue à un jeu de cartes aux règles complexes, sans avoir ni les cartes (elles arrivent au fur et à mesure), ni le règlement complet (c'est le [ref doc](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/) et le [doc des mécaniques du jeu](https://docs.google.com/document/d/15VzW9W2tXBBTibBRbZ8IVpW6HaMX8H0RP03kq6Az7Xg/)). Plus vous aurez de cartes support, moins vous aurez de chaînes pour vous retenir de progresser. Cela dit, si vous pensez que vous jouez de manière sous-optimale, vous pouvez envisager de zieuter ce [guide pour améliorer un peu vos carrières](https://yamakyu.notion.site/Astuces-pour-am-liorer-vos-runs-d-entrainements-193b1daa914b800ba7a6deb94334d853) (il sera mis à jour et porté ultérieurement sur umaguide.fr). Vous y trouverez des tips qui devraient petit à petit faire une belle différence ; l'expérience et les connaissances des mécaniques du jeu sont des atouts de taille pour améliorer vos carrières.
 
 Votre progression sera très corrélée à :
 
@@ -202,8 +226,8 @@ Inutile de vous embêter à faire des runs avec avec 5 supports speed ou 5 suppo
 
 **C'est juste de la chance**. Il y a 2 choses importantes à noter cela dit :
 
-- il faut que ce soit un entrainement avec **5 supports dont vous utilisez les cartes**. Si vous avez un stack de 4 supports + la directrice/la journaliste, ça ne compte pas comme 5 car vous n'utilisez pas la carte support de la directrice/la journaliste (elles n'en ont pas). Par contre, si vous utilisez Tazuna ou Aoi Kiryiun, et que vous avez un stack de 4 + l'une des deux, alors ça compte comme 5, car vous utilisez effectivement la carte support.
-- quand vous aurez le sacro saint stack de 5 support, à priori il n'est **pas nécessaire que l'entrainement réussisse !** Vous avez juste à cliquer dessus, même si la chance d'échec est élevée.
+- il faut que ce soit un entrainement avec **5 supports dont vous utilisez les cartes**. Si vous avez un stack de 4 supports + la directrice/la journaliste, ça ne compte pas comme 5 car vous n'utilisez pas la carte support de la directrice/la journaliste (elles n'en ont pas). Par contre, si vous utilisez Tazuna ou Riko (ou une autre carte Pal :friends: ou Group :group:), et que vous avez un stack de 4 + la carte pal/group, alors ça compte comme 5, car vous utilisez effectivement la carte support.
+- quand vous aurez le sacro saint stack de 5 support, il n'est **pas nécessaire que l'entrainement réussisse !** Vous avez juste à cliquer dessus, même si la chance d'échec est élevée.
 
 Bonne chance ! C'est vraiment juste du hasard. Ne le forcez pas, et vous serez content·e quand ça arrivera enfin.
 
@@ -217,13 +241,17 @@ Bonne chance ! C'est vraiment juste du hasard. Ne le forcez pas, et vous serez c
 
 Voici une estimation de probabilités d'obtenir le debuff, tiré du [Ref Doc](https://docs.google.com/document/d/11X2P7pLuh-k9E7PhRiD20nDX22rNWtCpC1S4IMx_8pQ/).
 
-| Aucune énergie en commençant la course | 1e course | 2e course consécutive | 2e course consécutive | 2e course consécutive |
+#### Conséquences possible d'une course entamée avec _aucune_ énergie
+
+|  | 1e course | 2e course consécutive | 3e course consécutive | 4e course consécutive |
 | -------------------------------------- | --------- | --------------------- | --------------------- | --------------------- |
 | Baisse d'humeur                        | ~20%      | **~33%**              | **~95%**              | **100%**              |
 | + perte de stats                       | 0%        | 0%                    | 0%                    | **~40%**              |
 | + debuff "Skin outbreak"               | ~5%       | ~10%                  | ~20%                  | **~33%**              |
 
-| Au moins 1 point d'énergie en commençant la course | 1e course | 2e course consécutive | 2e course consécutive | 2e course consécutive |
+#### Conséquences possibles d'une course entamée avec _au moins 1 point d'énergie_
+
+|  | 1e course | 2e course consécutive | 3e course consécutive | 4e course consécutive |
 | -------------------------------------------------- | --------- | --------------------- | --------------------- | --------------------- |
 | Baisse d'humeur                                    | 0%        | 0%                    | **~60%**              | **100%**              |
 | + perte de stats                                   | 0%        | 0%                    | 0%                    | **~40%**              |
@@ -235,9 +263,9 @@ Quoi qu'il en soit, votre quantité d'énergie au début d'une course n'a **aucu
 
 ### Comment level up le skill unique de ma uma ?
 
-::: details Il y'a 3 level up possible dans une carrière :
+:::: details Il y'a 3 level up possible dans une carrière :
 
-Ce sera différent dans certains scénarios, mais sur URA Finale votre skill unique va monter en niveau à 3 moments bien précis de la **Senior Year** :
+Ce sera différent dans certains scénarios, mais sur **URA Finale** votre skill unique va monter en niveau à 3 moments bien précis de la **Senior Year** :
 
 - À la **Saint-Valentin, début février**, à condition d'avoir 60k fans. Haru Urara et Smart Falcon n'en ont besoin que de 40k.
 - Au **Fan Festival, début avril** (immédiatement après le 2e inspiration event), à condition d'avoir 70k fans et d'avoir **monté la jauge de la directrice Yayoi Akikawa jusqu'à 60% (vert)**. Urara et Falcon n'en ont besoin que de 60k.
@@ -250,3 +278,5 @@ Il y a aussi les level up liés à la rareté (en étoiles) de votre uma, bien e
 [J'en reparle ici](/guides/FAQ/faq-others#je-n-ai-pas-eu-le-level-up-du-skill-unique-de-ma-uma-ma-run-est-foutue), mais level up l'unique de votre uma n'augmente que marginalement son efficacité. Par contre, ce sont des chouettes points supplémentaires pour le rank.
 
 :::
+
+::::

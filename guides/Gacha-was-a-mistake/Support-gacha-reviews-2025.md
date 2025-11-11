@@ -18,12 +18,20 @@ Eh oui.
 
 Gardez toujours ceci en tête.
 
+---
+
+⚠️ **Il est possible que la pertinence des review écrites AVANT le 11 novembre 2025 ait changé** ; si un skill gold a subi une modification importante, la valeur des cartes support qui le donnent va avoir changé aussi (exemple : Killer Tune dure est bien meilleur depuis le 11 novembre). 
+
+**CES CHANGEMENTS NE SONT <u>_PAS_</u> MIS À JOUR DANS LES REVIEW basée sur l'état du jeu _AVANT le 11 novembre_**. Les review écrites avant le 11 novembre 2025 restent telles quelles.
+
+Pour vous informer sur les changements qui se sont produits le 11 novembre 2025, vous pouvez [consulter cette page](/guides/News-majeurs-autres/2025-11-11_Half-anni.md) (non exhaustif !!!)
+
 :::
 
 ## #01 - All-Star Lineup
 ![Image de présentation de la bannière initiale du jeu](/public/assets/Gacha-reviews/2025/001_Card-Banner.png)
 
-::: details En bref
+::: details En bref (note basée sur l'état du jeu AVANT le 11 novembre)
 
 Les principales cibles étaient Super Creek stamina SSR, et Fine Motion wits SSR. Silence Suzuka speed SSR, Biko Pegasus speed SSR, Vodka power SSR et d'autres étaient aussi des bonnes cartes à obtenir.
 
@@ -32,7 +40,7 @@ Les principales cibles étaient Super Creek stamina SSR, et Fine Motion wits SSR
 ## #02 - Oguri Cap power SSR & Sweep Tosho speed
 ![Image de présentation de la bannière Oguri Cap power SSR & Sweep Tosho speed SR](/public/assets/Gacha-reviews/2025/002_Card-Banner.png)
 
-::: details En bref
+::: details En bref (note basée sur l'état du jeu AVANT le 11 novembre)
 
 Oguri Cap power SSR est assez quelconque. Sweep Tosho speed SSR est une très bonne carte speed SR, et surpasses certaines cartes speed SSR de qualité moyenne.
 
@@ -41,7 +49,7 @@ Oguri Cap power SSR est assez quelconque. Sweep Tosho speed SSR est une très bo
 ## #03 - Twin Turbo speed SSR & Daitaku Helios power SR
 ![Image de présentation de la bannière Twin Turbo speed SSR & Daitaku Helios power SR](/public/assets/Gacha-reviews/2025/003_Card-Banner.png)
 
-::: details En bref
+::: details En bref (note basée sur l'état du jeu AVANT le 11 novembre)
 
 Twin Turbo speed SSR est une carte speed SSR correcte, surtout pensée pour le cross training. Daitaku Helios power SR est une bonne carte power SR, avec une bonne sélection de skills (mile et universels).
 
@@ -50,7 +58,7 @@ Twin Turbo speed SSR est une carte speed SSR correcte, surtout pensée pour le c
 ## #04 - Mejiro Palmer guts SSR & Ikuno Dictus wits SR
 ![Image de présentation de la bannière Mejiro Palmer guts SSR & Ikuno Dictus wits SR](/public/assets/Gacha-reviews/2025/004_Card-Banner.png)
 
-::: details En bref
+::: details En bref (note basée sur l'état du jeu AVANT le 11 novembre)
 
 Mejiro Palmer guts SSR est une assez bonne carte guts SSR mais difficile à intégrer dans un deck. Son skill gold -Vanguard Spirit- est bon en long, mais difficile à activer la plupart du temps. Ikuno Dictus wits SR est une carte wits assez bonne, qui a la particularité de ne pas avoir de bons de gain d'énergie sur un rainbow wits.
 
@@ -60,7 +68,7 @@ Mejiro Palmer guts SSR est une assez bonne carte guts SSR mais difficile à int�
 ## #05 - Kitasan Black speed SSR & Satono Diamond stamina SSR
 ![Image de présentation de la bannière Kitasan Black speed SSR & Satono Diamond stamina SSR](/public/assets/Gacha-reviews/2025/005_Card-Banner.png)
 
-::: details En bref
+::: details En bref (note basée sur l'état du jeu AVANT le 11 novembre)
  
 Kitasan Black speed SSR est la meilleure carte speed du jeu, pendant des années, une fois MLB (plus d'infos [dans la FAQ](/guides/FAQ/faq-supports.md#pourquoi-kitasan-black-speed-ssr-est-si-importante-)). C'est une des meilleures cartes speed à 3LB, et une assez bonne carte speed SR en dessous de 3LB. À cause de ça, c'est une des cartes les plus backloaded. Son skill gold -Professor of Curvature- est parfaitement universel, et marche très bien pour toutes les uma et plus de 99% des courses. Satono Diamond stamina SSR est une bonne carte stamina, qui a du mal à exister en même temps que Super Creek stamina SSR (plus d'infos [dans la FAQ](/guides/FAQ/faq-supports.md#je-suis-frustré-jai-eu-plein-de-copies-de-satono-diamond-stam-ssr-et-il-paraît-quelle-est-nulle)). Son skill gold -Iron Will- sera amélioré plus tard pour s'activer un peu (un peu) mieux. 
 
@@ -70,7 +78,7 @@ Kitasan Black speed SSR est la meilleure carte speed du jeu, pendant des années
 ## #06 - Yukino Bijin wits SSR & Nishino Flower power SSR
 ![Image de présentation de la bannière Yukino Bijin wits SSR & Nishino Flower power SSR](/public/assets/Gacha-reviews/2025/006_Card-Banner.png)
 
-::: details En bref
+::: details En bref (note basée sur l'état du jeu AVANT le 11 novembre)
 
 En 2 mots : Yukino Bijin wits SSR est une carte wits moyenne, qui donne une accel gold médiocre, mais qui recevra un très solide buff lors de l'update "1st anni ™". À ce moment là, ça deviendra une accel gold solide et utilisable dans de nombreuses courses, par toutes les uma sauf les Front. Nishino Flower power SR est une carte power moyenne, qui aura une niche assez importante sur le 3e scénario, avec son 15 Race Bonus. 
 
@@ -80,7 +88,7 @@ En 2 mots : Yukino Bijin wits SSR est une carte wits moyenne, qui donne une acce
 ## #07 - Yaeno Muteki power SSR & Zenno Rob Roy stamina SR
 ![Image de présentation de la bannière Yaeno Muteki power SSR & Zenno Rob Roy stamina SR](/public/assets/Gacha-reviews/2025/007_Card-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 * Zenno Rob Roy stam SR continue sur la lancée des bonnes cartes stam SR, et n'aura pas de difficultés mal à monter stamina. À MLB elle surpasse strictement Manhattan Cafe stam SR. Sa sélection de skills laisse malheureusement à désirer.
 * Yaeno Muteki power SSR est une carte power plutôt moyenne en termes de gain de stats (inférieure à Oguri Cap power SSR à MLB), avec une contribution moyenne à la croissance de Power. Elle offre par contre une très bonne sélection de skills. Son skill gold est **It's On**, la version gold de "Ramp Up", et est donc presque universellement désirable (ne s'active pas pour la Front en 1e position s'il n'y a pas d'autre Front). Vous pouvez obtenir par hints ❗ 3 autres skills de vitesse universels.
@@ -95,7 +103,7 @@ Easy skip, mais Yaeno Muteki est assez sympa comme carte à emprunter pour **far
 ## #08 - Super Creek stamina SSR & Tazuna Hayakawa pal SSR (rerun)
 ![Image de présentation de la bannière Super Creek stamina SSR & Tazuna Hayakawa pal SSR](/public/assets/Gacha-reviews/2025/008_Card-Banner.png)
 
-:::: details REVIEW
+:::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 * Bon c'est bien je profite de la bannière pour __clarifier__ ça tout de suite : *Tazuna SSR **EST** une bonne carte support*, surtout sur le scénario URA (on reparle d'elle [dans la FAQ](/guides/FAQ/faq-others.md#tazuna-hayakawa-pal-ssr-est-une-mauvaise-carte-support)). Je sais pas d'où vient la rumeur qu'elle est naze, mais c'est incorrect. Sa durée de vie est pas giga longue, car à partir du 2e scénario ce sera pas simple (mais possible) de l'intégrer au deck. Mais sur URA elle est tout à fait bien, et donne l'excellent skill gold Concentration. Ce skill est fondamental pour les Front Runner, et génériquement très bon pour toutes les stratégies en Team Trials (il donne souvent les points bonus de bon départ).
 * Tazuna est une carte qui soutient indirectement votre carrière, en réduisant l'énergie dépensée en entrainement, en réduisant les chances d'échec d'entrainement, en vous offrant des recreations qui font ***Repos + Mood Up** en même temps -qui ne peuvent **pas** échouer-*, et en supprimant un de vos debuffs. De manière générale les cartes Pal servent à stabiliser vos carrières, et apportent une légère contribution aux stats directes (Training bonus 10 - Mood effect 30).
@@ -122,7 +130,7 @@ Si vous avez peu de carats et pas encore de Creek, c'est chaud.
 ## #09 - Sakura Chiyono O stamina SSR & Seeking The Pearl guts SR
 ![Image de présentation de la bannière Sakura Chiyono O stamina SSR & Seeking The Pearl guts SR](/public/assets/Gacha-reviews/2025/009_Card-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 * Chiyono O stam SSR est une carte stamina génériquement moyenne, qui peut être une bonne 2e carte stamina, mais à ne pas utiliser seule. Avec un faible spec priority et beaucoup de mood effect, elle aura surtout tendance à contribuer indirectement aux autres stats (cross-training), et ne sera pas particulièrement efficace pour monter stamina.
 * La carte est plutôt **frontloaded**, et gagne assez peu de valeur entre 1LB et MLB (mais après c'est pas non plus une carte à très grande valeur une fois MLB anyways :CurrenDevilish:)
@@ -141,10 +149,10 @@ Easy skip. Très peu de valeur ajoutée sur cette bannière, vous pouvez l'ignor
 ## #10 - Kawakami Princess speed SSR & Hishi Akebono guts SSR
 ![Image de présentation de la bannière Kawakami Princess speed SSR & Hishi Akebono guts SSR](/public/assets/Gacha-reviews/2025/010_Card-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ ***Kawakami Princess speed SSR***
-* Carte assez frontloaded : elle donne la plupart de ses "bons" bonus dés 1LB.
+* Carte assez frontloaded : elle donne la plupart de ses "bons" bonus dès 1LB.
 * Carte speed très oubliable, qui n'a pas grand chose pour elle. À MLB elle est assez proche de Teio speed SSR, qui n'est pas non plus carte de particulièrement bonne qualité. Son gain de stat est OK, mais la carte n'est ni spécialement bonne pour monter speed (spec prio 35), ni spécialement bonne pour monter les autres stats (mood bonus 30, pas de training bonus ??).
 * 4 hints ????? Bro c'est une carte gratuite ou quoi. Pas de hint level ni hint frequency bonus, mais de toutes façons, à part son green Standard Distance (et encore), aucun de ses skills n'est intéressant.
 * Elle donne le skill gold Center Stage, qui est useless right now, mais sa version white deviendra très désirable pour les **Front Runner** (et elles *uniquement*), après l'update "1st anni™", qui arrivera en même temps que le 3e scénario. D'ici là, le skill est useless. Et même quand il deviendra utile, je sais pas si la version gold a un intérêt par rapport au white.
@@ -166,7 +174,7 @@ J'adore Hishi Akebono hein. Mais une carte éclatée au sol reste éclatée au s
 ## #11 - Silence Suzuka speed SSR et Tamamo Cross stam SSR (rerun)
 ![Image de présentation de la bannière Silence Suzuka speed SSR et Tamamo Cross stam SSR](/public/assets/Gacha-reviews/2025/011_Card-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Tamamo Cross stam SSR**
 * *Eeeeeeeeeeeeh*.
@@ -176,7 +184,7 @@ J'adore Hishi Akebono hein. Mais une carte éclatée au sol reste éclatée au s
 
 ⏩ **Silence Suzuka speed SSR**
 * *Une des meilleures cartes speed actuelles*.
-* La carte est **Frontloaded**, pas parce qu'elle donne des skills de Front Runners (mais elle donne que ça mdr), mais parce qu'elle donne tous ses bons bonus -incluant le skill point bonus- dés **1LB**. C'est ce qu'on appelle une carte "Frontloaded". 
+* La carte est **Frontloaded**, pas parce qu'elle donne des skills de Front Runners (mais elle donne que ça mdr), mais parce qu'elle donne tous ses bons bonus -incluant le skill point bonus- dès **1LB**. C'est ce qu'on appelle une carte "Frontloaded". 
 * Carte équilibrée qui a une bonne contribution à monter speed ET un assez bon cross training, avec en prime un skill point bonus, qui reste un bonus très rare aujourd'hui. Il y'a actuellement 3 cartes SSR qui l'ont, et Suzuka speed est l'une d'elles.
 * Tous ses skills (hints et gold) sont pour les Front, c'est une sélection de qualité avec beaucoup de skills de vitesse et 2 accel souvent utiles. Le skill gold est l'accel gold **Unrestrained**, qui est semi-aléatoire et marche généralement plutôt bien dans les courses où le late-race commence vaguement un peu avant le milieu du Final Corner.
 * Good stuff franchement, si vous n'empruntez ni Kitasan ni Super Creek, Suzuka speed est une très bonne 3e carte speed à emprunter, même si vous n'entrainez pas une Front.
@@ -198,11 +206,11 @@ _ENVISAGEZ LE :_
 ## #12 - Bamboo Memory power SSR & Shinko Windy speed SR
 ![Image de présentation de la bannière Bamboo Memory power SSR & Shinko Windy speed SR](/public/assets/Gacha-reviews/2025/012_Card-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Bamboo Memory power SSR**
 * _Eeeeeeeeeeh_
-* La carte est **frontloaded** : dés 1LB elle donne la plupart de ses bons bonus, y compris le **skill point bonus**.
+* La carte est **frontloaded** : dès 1LB elle donne la plupart de ses bons bonus, y compris le **skill point bonus**.
 * Bamboo Memory power SSR est une carte power de cross training (spec prio 0), plutôt moyenne (15 training bonus, pas de mood bonus), et qui a des évènement assez terribles.
 * La carte propose une sélection de skill whites de vitesse assez hétérogène, avec un mélange de mile, sprint et Late, ce qui la rend d'autant plus compliqué à intégrer dans un deck. Le skill gold est **Rising Dragon**, la version white de Outer Swell, un skill de vitesse pour Late Surger qui s'active sur un dépassement réussi par l'extérieur sur le final corner. Le skill est bon, et a une assez bonne chance de carry over dans les courses où le late-race commence dans la 2e moitié du final corner. Attention, la carte peut vous donner le white à la place ("agemasen").
 * Plusieurs des events de la carte **baissent votre énergie** (pas obligatoirement). Le 2e chain event rend +30 énergie et mets fin au chain event.
@@ -222,7 +230,7 @@ _ENVISAGEZ LE :_
 ## #13 - King Halo power SSR et Seiun Sky wits SSR
 ![Image de présentation de la bannière King Halo power SSR et Seiun Sky wits SSR](/public/assets/Gacha-reviews/2025/013_Card-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **King Halo power SSR**
 * La carte est **frontloaded** : à 1LB elle donne déjà tous ses bonus intéressants, et ne débloque que "initial power" à 3LB.
@@ -251,11 +259,11 @@ King Halo power SSR est -certes- un bon stat stick, avec un gain de power proche
 ## #14 - Mejiro Ryan guts SSR & Mejiro Ardan wits SR
 ![Image de présentation de la bannière Mejiro Ryan guts SSR & Mejiro Ardan wits SR](/public/assets/Gacha-reviews/2025/014_Card-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Mejiro Ryan guts SSR**
 * La carte est **frontloaded** : à 1LB elle donne déjà la plupart de ses bonus intéressants, et ne débloque que "initial friendship gauge" à 3LB.
-* Mejiro Ryan guts SSR est une carte guts moyenne, assez bonne pour monter guts, et contribuera bien à monter power aussi. Son principal atout est le **skill point bonus** qu'elle vous propose, et ce, **dés 0LB**. Au-delà de ça, il n'y a pas beaucoup à dire sur elle.
+* Mejiro Ryan guts SSR est une carte guts moyenne, assez bonne pour monter guts, et contribuera bien à monter power aussi. Son principal atout est le **skill point bonus** qu'elle vous propose, et ce, **dès 0LB**. Au-delà de ça, il n'y a pas beaucoup à dire sur elle.
 * Sa sélection de hints ❗ est pauvre, avec 2 greens et 2 skills med de vitesse.  
 * Le skill gold obtenu est le skill de vitesse medium **Unyielding**, la version gold de Steadfast. C'est un skill de vitesse s'activant en late-race si vous vous faites **dépasser sur le final corner**. L'activation n'est pas hyper fiable, et comme elle requiert que vous vous fassiez dépasser, ce n'est même pas très désirable. De plus, sur les courses medium le final corner tombe généralement en pleine accel, donc une partie de la puissance du skill sera gâché. Ce n'est donc pas un skill très recommandable.
 * Plusieurs de ses events vous permettent de **récupérer de l'énergie**.
@@ -277,7 +285,7 @@ Ryan SSR n'est pas bonne, et Ardan SR est une SR que vous voudrez pick up sur un
 
 ![Image de présentation de la bannière Vodka power SSR et Nishino Flower speed SSR](/public/assets/Gacha-reviews/2025/015_Card-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Vodka Power SSR**
 * La carte est **particulièrement frontloaded**, et est même réputée pour ça : à 1LB elle donne déjà la plupart de ses bonus intéressants, et ne débloque que hint levels et hint frequency à 3LB. De plus, à 1 LB elle a déjà un **spec prio et un friendship bonus particulièrement élevés**, ce qui fait très vite d'elle une très bonne carte pour monter power.
@@ -307,7 +315,7 @@ Rice Shower power SSR marche un peu sur une partie de la niche de Vodka power, e
 
 ![Image de présentation de la bannière Sweep Tosho speed SSR et Winning Ticket stamina SSR](/public/assets/Gacha-reviews/2025/016_Card-Banner.png)
 
-:::: details REVIEW
+:::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Sweep Tosho speed SSR**
 * La carte est **bien frontloaded** : à 1LB elle a déjà un friendship bonus très élevé, 50 spec prio et +1 skill bonus. Elle débloque un peu de mood bonus à 3LB.
@@ -321,7 +329,7 @@ Rice Shower power SSR marche un peu sur une partie de la niche de Vodka power, e
 
 ::: tip Et par rapport à la SR ?
 
-On peut raisonnablement considérer Tosho SSR meilleure -pour monter speed- que la version SR à partir de 1LB. En réalité, leurs forces sont un peu différentes (Tosho SR a un bon cross training), mais si on regarde seulement la croissance de speed, **la SSR 1LB bat la SR MLB**. On pourrait débattre du fait que c'est le cas dés 0LB d'ailleurs.
+On peut raisonnablement considérer Tosho SSR meilleure -pour monter speed- que la version SR à partir de 1LB. En réalité, leurs forces sont un peu différentes (Tosho SR a un bon cross training), mais si on regarde seulement la croissance de speed, **la SSR 1LB bat la SR MLB**. On pourrait débattre du fait que c'est le cas dès 0LB d'ailleurs.
 
 :::
 
@@ -358,12 +366,12 @@ C'est aussi une très bonne bannière pour _**reroll**_. Donc ok pour les début
 
 ![Image de présentation de la bannière Tokai Teio speed SSR & Special Week guts SSR](/public/assets/Gacha-reviews/2025/017_Card-Banner.png)
 
-:::: details REVIEW
+:::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Tokai Teio speed SSR**
 * La carte est plutôt **frontloaded** : à 1LB elle a déjà des bonus de stats corrects (incluant power bonus). Elle débloque Race bonus et Fan bonus à 3LB.
 * Tokai Teio speed SSR est une carte speed positivement très quelconque. Ses stats sont OK sans être notablement bonnes, elle a une contribution OK au cross training (60 motiv bonus MLB), et un spec prio peu élevé, mais qu'on apprécie.
-* Sa sélection de hints ❗ laisse à désirer, avec 3 skills de déplacement latéral, 2 accel non fiables, et une white recovery med.
+* Sa sélection de hints ❗ laisse à désirer, avec 3 skills de navigation, 2 accel non fiables, et une white recovery med.
 * Le skill gold obtenu est **Rushing Gale**, la version gold de Straightaway Acceleration, qui est peu utile et très peu fiable.
 * On notera que ses 3 chain events rendent de l'énergie, et l'option du haut sur ses 2 events aléatoires vous donnent un mood up 👌🏿
 
@@ -387,11 +395,11 @@ Aucune des cartes n'est de qualité notable, et des bannières importantes arriv
 
 ::::
 
-## #18 - Nice Nature wits SSR & Tosen Jordan stamina SR (bannière actuelle)
+## #18 - Nice Nature wits SSR & Tosen Jordan stamina SR
 
 ![Image de présentation de la bannière Nice Nature wits SSR & Tosen Jordan stamina SR](/public/assets/Gacha-reviews/2025/018_Card-Banner.png)
 
-:::: details REVIEW
+:::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Nice Nature wits SSR**
 * La carte a une croissance plutôt équlibrée : on pourrait penser qu'elle est frontloaded, vu qu'à 1LB elle a déjà son 2e wits bonus, mais ce serai ignorer son gain de race bonus à 3LB puis MLB.
@@ -404,7 +412,7 @@ Aucune des cartes n'est de qualité notable, et des bannières importantes arriv
 
 ⏩ **Tosen Jordan stamina SR**
 * Tosen Jordan poursuit la tradition des cartes stamina SR, et est elle aussi une carte stam SR de bonne qualité. 
-* La carte est relativment backloaded ; elle a globalement des assez bons bonus dés 0LB, mais son point de stamina bonus est débloqué seulement à MLB.
+* La carte est relativment backloaded ; elle a globalement des assez bons bonus dès 0LB, mais son point de stamina bonus est débloqué seulement à MLB.
 * Jordan stam SR est plutôt équilibrée sur ces bonus, avec un bon gain de stamina, et une chouette contribution à monter les autres stats (45 mood bonus).
 * Sa sélection de hints ❗ est bonne, avec le green de vitesse long shot, une white recovery et 4 whites de vitesse ; dont Medium Straightaways et Corner, ainsi que Pace Straightaways (qui est plutôt pénible à obtenir pour le moment).
 * Le skill white obtenu à la fin de son chain event est **Ramp Up**, ce qui est plutôt bien. C'est un skill white de vitesse s'activant sur un dépassement en mid-race. Il est quasiment universel, désirable pour tous le monde, et s'active très bien en Team Trials.

@@ -7,6 +7,14 @@ description: Vous avez terminé votre première carrière, bravo ! Et maintenant
 order: 6
 ---
 
+::: warning ⚠️ Cette page est actuellement en travaux ⚠️
+
+Le jeu a reçu une [**énorme update** ce mardi 11 novembre 2025](/guides/News-majeurs-autres/2025-11-11_Half-anni.md) ! Pour rester raccord avec l'état actuel du jeu, une partie des pages du site sont en train de recevoir progressivement des **mises à jour et correctifs**. C'est un process qui prend un certain temps, et cette page est concernée par ces correctifs. 
+
+**Il est possible que certaines infos soient obsolètes, et que d'autres soient incomplètes/en brouillons. Soyez patient·e·s, ce sera terminé sous peu ~**
+
+:::
+
 # Epilogue - Et maintenant ?
 
 ::: warning À priori
@@ -37,7 +45,7 @@ Si vous souhaitez prendre de l'avance et avoir un aperçu de comment build vos t
 
 :::
 
-**Vous pouvez participer à une session de Team Trials !** C'est une compétition basée sur le **score**, et vous obtenez un score plus ou moins élevé selon de nombreux critères (dont l'activation de skills, ou l'obtention de la victoire). Sur l'écran de Team Trials, sélectionnez un adversaire (on préfèré généralement affronter celui du haut, mais peu importe en l'occurrence). Vous verrez vos équipes et les siennes affichées, ainsi que l'humeur des différentes uma (aléatoire). Vous pouvez ensuite lancer la session, et tenter votre chance sur les 5 courses : sur surface **turf** il y'a une course **sprint**, une **mile**, une **medium** et une **long**, et sur surface **dirt c'est toujours mile** (en Team Trials). Vous n'êtes pas obligé de regarder les courses (il y'en a 5), mais vous pouvez si ça vous amuse. Autrement, vous pouvez skip et voir direcement les résultats.
+**Vous pouvez participer à une session de Team Trials !** C'est une compétition basée sur le **score**, et vous obtenez un score plus ou moins élevé selon de nombreux critères (dont l'activation de skills, ou l'obtention de la victoire). Sur l'écran de Team Trials, sélectionnez un adversaire (on préfère généralement affronter celui du haut, mais peu importe en l'occurrence). Vous verrez vos équipes et les siennes affichées, ainsi que l'humeur des différentes uma (aléatoire). Vous pouvez ensuite lancer la session, et tenter votre chance sur les 5 courses : sur surface **turf** il y'a une course **sprint**, une **mile**, une **medium** et une **long**, et sur surface **dirt c'est toujours mile** (en Team Trials). Vous n'êtes pas obligé de regarder les courses (il y'en a 5), mais vous pouvez si ça vous amuse. Autrement, vous pouvez skip et voir directement les résultats.
 
 Une session de Team Trials consomme **un RP** (Race Point), qui se recharge **toutes les 2 heures**, et vous pouvez en avoir 5 à la fois ! N'hésitez pas à régulièrement jouer en Team Trials, pour **monter en classe** et obtenir des **récompenses chaque semaine** !
 
@@ -53,7 +61,7 @@ Faites moi confiance, **la carence en monnies arrive *très très vite***.
 
 :::
 
-À titre informatif, voici à quoi va commnecer à ressembler vos équipes de Team Trials, à mesure que vous faites des carrières ! N'essayez pas forcément de refaire exactement ces teams, c'est encore un work in progress, il y a quelques soucis, et pour certaines uma j'ai fait des ajustements d'aptitudes. ~~C'est juste que j'ai pas d'autre image d'illustration à vous montrer et ça commmence à faire beaucoup de texte~~
+À titre informatif, voici à quoi va commnencer à ressembler vos équipes de Team Trials, à mesure que vous faites des carrières ! N'essayez pas forcément de refaire exactement ces teams, c'est encore un work in progress, il y a quelques soucis, et pour certaines uma j'ai fait des ajustements d'aptitudes. ~~C'est juste que j'ai pas d'autre image d'illustration à vous montrer et ça commmence à faire beaucoup de texte~~
 
 ![Mes teams de Team Trials](/public/assets/EarlyDays/YK_Team_Trials_WIP.png)
 
@@ -87,7 +95,7 @@ Avec les connaissances sur le mode carrière, vous allez pouvoir faire des nouve
 ::: tip Concernant les decks
 
 Mes recommandations de decks dans cette partie prennent en compte 2 choses :
-- je pars du principe que vous venez de commencer le jeu, et n'avez donc que **très peu de cartes support** (même si vous aviez un bon reroll), avec **très peu de LB** 💠 Si vous avez beaucoup de LB sur les cartes **stamina**, vous pouvez réduire de 1 le nombre de cartes stam recommandées.
+- je pars du principe que vous venez de commencer le jeu, et n'avez donc que **très peu de cartes support** (même si vous aviez un bon reroll), avec **très peu de LB** :lb: Si vous avez beaucoup de LB sur les cartes **stamina**, vous pouvez réduire de 1 le nombre de cartes stam recommandées.
 - j'essaie de vous faire build des uma en pensant au Team Trials derrière ; comme vos stats sont secrètement boostées pendant une carrière, pour que vos uma puissent gagner des courses hors d'une carrière, vous avez besoin de **bien plus de stamina en réalité**.
 
 :::
@@ -134,11 +142,11 @@ Désolé si vous pensiez que j'avais terminé, voici des dernières recommandati
     <img src="/assets/EarlyDays/VivlosYap.gif" alt="Vivlos qui bavarde beaucoup">
 </div>
 
-#### Dés que vous atteignez le rank E3, rejoignez un club ou faites-en un !
+#### dès que vous atteignez le rank E3, rejoignez un club ou faites-en un !
 
 N'importe lequel ! Ça n'a pas d'importance pour le moment ! Rejoignez un club avec des randoms, c'est pas grave. À partir du moment où **vous existez dans un club, avant le 15 ou le 16 du mois** en cours, vous êtes **garantis** d'obtenir **AU MOINS 225 carats** au début du mois suivant. Certains clubs sont particulièrement actifs, et vous permettront d'obtenir bien plus de carats mensuels (jusqu'à 4500 par mois mais _bon courage hein_), mais TOUS LES CLUBS vous donnent au moins 225 carats par mois, quelle que soit le nombre de joueur·euse·s qui y sont, et quelle que soit leur niveau d'activité.
 
-Le rank d'un club est évalué sur le **nombre de fans obtenus chaque mois**, en carrière et Team Trials. Donc les clubs les plus actifs et les mieux rankés requièrent que vous jouillez abondamment au jeu !
+Le rank d'un club est évalué sur le **nombre de fans obtenus chaque mois**, en carrière et Team Trials. Donc les clubs les plus actifs et les mieux rankés requièrent que vous jouiez abondamment au jeu !
 
 ::: tip Ne vous y attachez pas
 
@@ -154,7 +162,7 @@ Sur le serveur discord, il y a plusieurs clubs plus ou moins actifs et avec plus
 
 ![Release Celebration Missions Part 1](/public/assets/EarlyDays/Release_Celeb_MissP1.png)
 
-Dés que vous avez commencé le jeu, Cygames vous a offert un **ticket selector umamusume ★★★**, qui vous permet de CHOISIR une umamusume ★★★ parmi les uma du lancement.
+dès que vous avez commencé le jeu, Cygames vous a offert un **ticket selector umamusume ★★★**, qui vous permet de CHOISIR une umamusume ★★★ parmi les uma du lancement.
 
  ⚠️ **NE L'UTILISEZ PAS TOUT DE SUITE**
 
@@ -191,7 +199,7 @@ La carte est gratuite, et vous en obtenez des doublons en échange d'une monnaie
 
 Vous pouvez [jeter un oeil à **uma.moe**](https://uma.moe/timeline) pour avoir un aperçu de l'arrivée des différentes bannières uma et support. C'est une ESTIMATION, uma.moe ne connait pas les dates à l'avance, c'est juste un calcul basé sur l'accélération du jeu sur la version globale. 
 
-Pour aller plus loin, vous pouvez calculer des esimations de l'accumulation de vos carats d'ici une bannière qui vous intéresse, [en utilisant le **Henry Handsome Derby's Banner Timeline Carat Calculator 3.0**](https://www.youtube.com/watch?v=DSXauk_WMgE) ~~featuring Dante from the Devil May Cry series & Knuckles~~. Vous n'avez pas vraiment besoin de vous en préoccuper pour le moment, mais c'est bien de savoir que c'est là !
+Pour aller plus loin, vous pouvez calculer des estimations de l'accumulation de vos carats d'ici une bannière qui vous intéresse, [en utilisant le **Henry Handsome Derby's Banner Timeline Carat Calculator 3.0**](https://www.youtube.com/watch?v=DSXauk_WMgE) ~~featuring Dante from the Devil May Cry series & Knuckles~~. Vous n'avez pas vraiment besoin de vous en préoccuper pour le moment, mais c'est bien de savoir que c'est là !
 
 ::: warning À prendre avec des pincettes
 
@@ -201,7 +209,7 @@ ATTENTION, ce post a été écrit AVANT la sortie globale, et mériterai quelque
 
 :::
 
-Je ne le rappelerai jamais assez, mais si vous souhaitez progresser dans le jeu et vous améliorer, c'est votre **collection de cartes support** qu'il faut enrichir ! Vous pouvez bien évidemment pull **vos uma fav** quand elles arrivent, mais si vous dépensez continuellement vos carats sur les bannières umamusue, votre collection de cartes support va en patir, ce qui ralentira votre progression.
+Je ne le rappelerai jamais assez, mais si vous souhaitez progresser dans le jeu et vous améliorer, c'est votre **collection de cartes support** qu'il faut enrichir ! Vous pouvez bien évidemment pull **vos uma fav** quand elles arrivent, mais si vous dépensez continuellement vos carats sur les bannières umamusume, votre collection de cartes support va en patir, ce qui ralentira votre progression.
 
 Visez sélectivement les bannières de cartes support 👌🏿 Au début du jeu, faites quelques pulls pour avoir des cartes SR, et après **économisez** ! Quand vous avez déjà quelques SRs avec quelques LB, pour avoir une **bonne valeur ajoutée sur vos cartes support**, vous allez vouloir **_spark une bannière_** avec une bonne carte SSR. Ça vous permettra d'avoir des LB supplémentaires pour les cartes SRs, et surtout une **garantie d'obtenir au moins 1 exemplaire de la carte SSR** de la bannière. Autant que raisonnablement possible, évitez les pull par-ci par-là, et essayez d'économiser 30000 carats (un spark) pour pouvoir faire 200 pulls d'un coup sur une bonne bannière !
 

@@ -7,6 +7,14 @@ description: Guide "pas à pas" sur les "Classic Year" et "Senior Year" de votre
 order: 6
 ---
 
+::: warning ⚠️ Cette page est actuellement en travaux ⚠️
+
+Le jeu a reçu une [**énorme update** ce mardi 11 novembre 2025](/guides/News-majeurs-autres/2025-11-11_Half-anni.md) ! Pour rester raccord avec l'état actuel du jeu, une partie des pages du site sont en train de recevoir progressivement des **mises à jour et correctifs**. C'est un process qui prend un certain temps, et cette page est concernée par ces correctifs. 
+
+**Il est possible que certaines infos soient obsolètes, et que d'autres soient incomplètes/en brouillons. Soyez patient·e·s, ce sera terminé sous peu ~**
+
+:::
+
 # Carrière sur le scénario URA Finale - Partie 2
 
 ![Image montrant le logo du scénario URA Finale](/assets/EarlyDays/Scen_URA_P2.png)
@@ -117,7 +125,7 @@ Le nom "Satsuki Sho" vous est p't'être familier ; c'est la première course G1 
 
 - **Satsuki Sho** - Nakayama 2000m (medium) - début avril Classic Year
 - **Tokyo Yushun Nippon Derby** - Tokyo 2400m (medium) - fin mai Classic Year
-- **Kikka Sho** - Kyoto 3000m  (long) - fin octobre Classic Year
+- **Kikuka Sho** - Kyoto 3000m  (long) - fin octobre Classic Year
 
 :::
 
@@ -210,7 +218,7 @@ Les principales courses G1 de cette période sont :
 **Course** | Infos | Date
 -----------|-------|-----
 **Sprinters Stakes** | Nakayama 1200m (sprint) | fin septembre Classic Year
-**Kikka Sho** | Kyoto 3000m (long) | fin octobre Classic Year
+**Kikuka Sho** | Kyoto 3000m (long) | fin octobre Classic Year
 **Tenno Sho Autumn** | Tokyo 2000m (med) | fin octobre Classic Year
 **Shuka Sho** | Kyoto 2000m (med) | fin octobre Classic Year
 **Queen Elizabeth II Cup** | Kyoto 2200m (med) | début novembre Classic Year
@@ -243,7 +251,7 @@ L'évènement "**New Year's Shrine Visit**" est très similaire à l'event "New 
 
 Et surtout, sur cet event aussi, le choix optimal c'est le **gain d'énergie**. En l'occurrence, sur New Year's Shrine Visit il s'agit de **l'option du haut**. Pour toutes les uma, si votre énergie n'est pas pleine, vous allez vouloir pick l'option du haut, afin de récupérer **+30 points d'énergie**. C'est toujours optimal, sauf si vous êtes -par exemple- seulement 10 points en-dessous du max, ou déjà au maximum. 
 
-#### 🌟 Pendant l'event "New Year's Shrine Visit", choisissez l'option du haut si votre énergie est pleine à au moins 80%
+#### 🌟 Pendant l'event "New Year's Shrine Visit", choisissez l'option du haut si votre barre d'énergie est pleine à moins de 80%
 
 
 Là encore, dans l'éventualité où vous n'avez pas besoin de l'énergie supplémentaire, l'option à choisir est alors **l'option du bas**, pour obtenir **+35 skills points**. 
@@ -457,7 +465,7 @@ Il y a pas mal d'autres uma qui doivent faire top3 ou top5 sur Tenno Sho Spring,
 
 :::
 
-⏩ **Narita Taishin** : Après **Kikka Sho**, Taishin subit une sévère **baisse d'humeur**, que vous devrez effacer au plus vite, ce qui vous ruinera plusieurs tours d'entrainement 🙃
+⏩ **Narita Taishin** : Après **Kikuka Sho**, Taishin subit une sévère **baisse d'humeur**, que vous devrez effacer au plus vite, ce qui vous ruinera plusieurs tours d'entrainement 🙃
 
 ::::
 
@@ -482,7 +490,7 @@ Si vous jouez **Sakura Bakushin O** :
     - qui n'ont **rien entre parenthèse** à la fin de leur description
 - enfin, après tout ça, s'il vous reste des skills point (sans doute pas), prenez tous les **skills verts** (ils boostent un peu vos stats en début de course, si vous courez sur une course correspondant à la description) qui sont en **début de liste**, et qui ont une **chaussure** 🥾 ou un **coeur** 💗. Inutile de les prendre en version double-cerclée, prenez les une seule fois.
 - s'il vous reste des skill points (?????????????????????), prenez les skills verts qui sont proches de la fin de la liste.
-- ignorez tous les autres skills (rouges, skills de vision, skills de déplacement latéral)
+- ignorez tous les autres skills (rouges, skills de vision, skills de navigation)
 
 SI vous jouiez **une autre uma** que Sakura Bakushin O, allez dans la fiche de stats de votre uma, et choisissez *une* aptitude de **distance** et *une* aptitude de **stratégie** où votre uma est notée "A" ou "S". Ensuite, revenez sur la liste des skills, et choisissez vos skills selon les mêmes directives que pour Sakura Bakushin O, mais en remplaçant "Front Runner" par **la stratégie que vous avez choisi**, et "Sprint" par **la distance que vous avez choisi**. 
 

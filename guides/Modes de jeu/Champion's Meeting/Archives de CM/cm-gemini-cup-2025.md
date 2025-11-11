@@ -229,7 +229,7 @@ La course **commence** sur une longue **ligne droite**, de 450m, dont la 2e moit
 
 ::: tip Note
 
-Vu la longueur du mid-race, je vais séparer en "position keep" et "fin du position keep", par souci de clarté (même si position keep commence techniquement dés l’early-race).
+Vu la longueur du mid-race, je vais séparer en "position keep" et "fin du position keep", par souci de clarté (même si position keep commence techniquement dès l’early-race).
 
 :::
 
