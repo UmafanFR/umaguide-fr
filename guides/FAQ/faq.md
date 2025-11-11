@@ -8,6 +8,14 @@ order: 1
 
 # Foire aux questions, et clarification des idées reçues
 
+::: warning ⚠️ Cette page est actuellement en travaux ⚠️
+
+Le jeu a reçu une [**énorme update** ce mardi 11 novembre 2025](/guides/News-majeurs-autres/2025-11-11_Half-anni.md) ! Pour rester raccord avec l'état actuel du jeu, une partie des pages du site sont en train de recevoir progressivement des **mises à jour et correctifs**. C'est un process qui prend un certain temps, et cette page est concernée par ces correctifs. 
+
+**Il est possible que certaines infos soient obsolètes, et que d'autres soient incomplètes/en brouillons. Soyez patient·e·s, ce sera terminé sous peu ~**
+
+:::
+
 ::: tip **Préambule**
 
 Cette FAQ sera amenée à être complétée au fur et à mesure que des questions communes reviennent. S'il y a des choses que vous voulez savoir sur le fonctionnement du jeu, nous avons un [salon dédié pour essayer de répondre à vos questions](https://discord.com/channels/1349115403615600680/1356911172573597827) sur le serveur Discord Umamusume FR. N'hésitez pas à demander 👋🏿
@@ -29,6 +37,18 @@ Gardez bien en tête que **pendant le déroulement d'une carrière, toutes vos s
 Les infos de cette FAQ seront basées sur la version globale (internationale) du jeu, et non pas la version JP. Les termes seront donc (la plupart du temps) les traductions officielles, et sauf précision contraire, toute mention à des éléments qui sont différents entre la version JP et la version globale (car la JP a 4 ans et demi d'avance) fera référence à la version globale.
 
 La version globale étant actuellement sur le scénario Unity Cup, **les informations de cette FAQ correspondent au scénario Unity Cup**. La FAQ sera modifiée ultérieurement, pour refléter l'avancement dans les scénarios à venir.
+
+:::
+
+---
+
+# Table des matières
+
+::: warning ⚠️ Liens morts ⚠️
+
+À cause des correctifs effectués dans le cadre de la [mise à jour du 11 novembre](/guides/News-majeurs-autres/2025-11-11_Half-anni.md), plusieurs des liens de cette table des matières sont cassés. **Ce sera fix sous peu**. 
+
+Pas d'inquiétude, **les questions sont toujours là**, mais pour certaines elles ont **changé d'intitulé** ; vous pouvez simplement les retrouver en scrollant un peu dans la partie dédiée. 
 
 :::
 

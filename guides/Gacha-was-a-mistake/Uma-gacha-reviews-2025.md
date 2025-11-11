@@ -18,12 +18,20 @@ Eh oui.
 
 Gardez toujours ceci en tête.
 
+----
+
+⚠️ **Il est possible que la pertinence des review écrites AVANT le 11 novembre 2025 ait changé** ; si un skill gold a subi une modification importante, la valeur des uma qui l'ont va avoir changé aussi (exemple : Killer Tune dure est bien meilleur depuis le 11 novembre). 
+
+**CES CHANGEMENTS NE SONT <u>_PAS_</u> MIS À JOUR DANS LES REVIEW basée sur l'état du jeu _AVANT le 11 novembre_**. Les review écrites avant le 11 novembre 2025 restent telles quelles.
+
+Pour vous informer sur les changements qui se sont produits le 11 novembre 2025, vous pouvez [consulter cette page](/guides/News-majeurs-autres/2025-11-11_Half-anni.md) (non exhaustif !!!)
+
 :::
 
 ## #01 - All-Star Lineup
 ![Image de présentation de la bannière All-Star Lineup](/public/assets/Gacha-reviews/2025/001_Uma-Banner.png)
 
-::: details En 2 mots
+::: details En 2 mots (note basée sur l'état du jeu AVANT le 11 novembre)
 
 Les principales "cibles" étaient Oguri Cap, Maruzensky et Taiki Shuttle, mais il n'était pas recommandé de pull sur cette bannière.
 
@@ -33,7 +41,7 @@ Les principales "cibles" étaient Oguri Cap, Maruzensky et Taiki Shuttle, mais i
 ## #02 - TM Opera O ★★★
 ![Image de présentation de la bannière TM Opera O ★★★](/public/assets/Gacha-reviews/2025/002_Uma-Banner.png)
 
-::: details En 2 mots
+::: details En 2 mots (note basée sur l'état du jeu AVANT le 11 novembre)
 
 TM Opera O est une Pace Chaser génériquement bonne en medium, dont le skill d'activation a une condition d'activation difficile à résumer, mais qui s'active en final corner si elle est 4e ou mieux. 
 
@@ -42,7 +50,7 @@ TM Opera O est une Pace Chaser génériquement bonne en medium, dont le skill d'
 ## #03 - Mihono Bourbon ★★★
 ![Image de présentation de la bannière Mihono Bourbon ★★★](/public/assets/Gacha-reviews/2025/003_Uma-Banner.png)
 
-::: details En 2 mots
+::: details En 2 mots (note basée sur l'état du jeu AVANT le 11 novembre)
 
 Mihono Bourbon est une Front Runner génériquement bonne, et facile à build en medium grâce à sa gold recovery. Son unique est un de boost de vitesse en final straight, si elle n'a eu ni late start, ni rush.
 
@@ -51,7 +59,7 @@ Mihono Bourbon est une Front Runner génériquement bonne, et facile à build en
 ## #04 - Biwa Hayahide ★★★
 ![Image de présentation de la bannière Biwa Hayahide ★★★](/public/assets/Gacha-reviews/2025/004_Uma-Banner.png)
 
-::: details En 2 mots
+::: details En 2 mots (note basée sur l'état du jeu AVANT le 11 novembre)
 
 Biwa Hayahide est une Pace Chaser facile à build pour les courses long, grâce à ses 2 gold recovery. Malheureusement, aucune des deux n'est particulièrement fiable. Son skill unique est un boost de vitesse sur le final corner quand elle dépasse quelqu'un en étant 4e ou mieux.
 
@@ -60,7 +68,7 @@ Biwa Hayahide est une Pace Chaser facile à build pour les courses long, grâce 
 ## #05 - Tokai Teio alt et Mejiro McQueen alt ★★★
 ![Image de présentation de la bannière Tokai Teio alt et Mejiro McQueen alt ★★★](/public/assets/Gacha-reviews/2025/005_Uma-Banner.png)
 
-::: details En 2 mots
+::: details En 2 mots (note basée sur l'état du jeu AVANT le 11 novembre)
 
 Teio alt est une Pace Chaser facile à build pour les courses med, grâce à ses 2 gold recovery très fiables. Son unique est un boost de vitesse sur le final straight, quand elle tente un dépassement en étant 5e ou mieux.
 
@@ -72,7 +80,7 @@ Mejiro McQueen est une uma génériquement décente en tant que Front ou Pace. E
 ![Image de présentation de la bannière Curren Chan ★★★](/public/assets/Gacha-reviews/2025/006_Uma-Banner.png)
 Merci Curren Chan pour cette emote incroyable :currenDevilish:
 
-::: details En 2 mots
+::: details En 2 mots (note basée sur l'état du jeu AVANT le 11 novembre)
 
 :currenDevilish: :currenDevilish: :currenDevilish: :currenDevilish: :currenDevilish: :currenDevilish: :currenDevilish: :currenDevilish:
 
@@ -84,7 +92,7 @@ Curren Chan est une Pace Chaser génériquement bonne en Sprint. Elle est équip
 ## #07 - Narita Taishin ★★★
 ![Image de présentation de la bannière Narita Taishin ★★★](/public/assets/Gacha-reviews/2025/007_Uma-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 * C'est une End Closer génériquement forte en medium, et **meta sur les courses G1 long** (Arima Kinen, Kikuka Sho, Tenno Sho Spring). Elle est aussi occasionnellement très forte sur les quelques courses sprint ou mile dont le Late Race commence sur une ligne droite. 
 * Sa carrière a une difficulté ; elle a un event après Kikuka Sho qui lui fait perdre **3 niveaux d'humeur d'un coup**, et obtenir un debuff. Si vous retirez ce debuff, vous aurez une récompense quelques mois plus tard.
@@ -96,7 +104,7 @@ Bon usage de vos carats si vous l'aimez bien, ou si vous voulez une uma de quali
 ## #08 - Smart Falcon ★★★
 ![Image de présentation de la bannière Smart Falcon ★★★](/public/assets/Gacha-reviews/2025/008_Uma-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 * C'est une Front Runner génériquement bonne en **dirt**, ce qui sera bien pratique pour le Team Trials dirt, et qui peut aussi courir en turf avec de l'inspiration (10* turf). Elle a aussi l'aptitude pour courir en medium -dont elle a plusieurs dans sa carrière- et en short.
 * Son kit est globalement bon. Son unique est un hybride accel + vitesse qui s'active en ligne droite en mid-race, si elle est en 1e position (unique osef à hériter). Sur certaines courses très particulières (et notamment Takamatsunomiya Kinen, qu'on aura en CM dans 6-7 mois) cet unique est très puissant grâce au timing impeccable. Son 1e gold est un skill de navigation qui s'active très bien, mais son effet est assez osef *pour le moment*. Le skill sera **indirectement buffé plus tard**, le transformant en un des skills les plus **désirables pour les Front Runners**. Son 2e gold est un skill de vitesse en mid-race qui s'active quand quelqu'un tente de la dépasser de près. Ça s'active bien, surtout si elle n'est pas la seule Front Runner de la course.
@@ -108,7 +116,7 @@ Bon usage de vos carats si vous l'aimez bien, ou si vous voulez une uma de quali
 ## #09 - Narita Brian ★★★
 ![Image de présentation de la bannière Smart Falcon ★★★](/public/assets/Gacha-reviews/2025/009_Uma-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 * Narita Brian est une Pace Chaser/Late Surger assez générique, qui a les aptitudes pour le medium, le long et aussi le mile (B → requiert 1* mile pour passer à A). Il n'y a rien de très notable à son propos, si ce n'est ses très bons bonus de croissance : +10% speed bonus et +20% stamina bonus ~~(god I wish that was Rice)~~. 
 * Son skill unique booste votre vitesse dans le final corner ; c'est génériquement bon en long, et pour le med et le mile ça dépendra beaucoup de la course. Dans les courses où le late race commence dans la 2e moitié du final corner (ou un peu plus tard) son unique skill sera très bon, car il y aura souvent du **carry over**. Dans les courses où le late race commence très proche du début du final corner (peu avant ou peu après), ce sera plutôt mauvais, car ce sera en pleine phase d'accélération.
@@ -123,7 +131,7 @@ Si vous l'aimez beaucoup. Elle n'a pas d'intérêt particulier qui en fait une b
 ## #10 - Mayano Top Gun alt et Air Groove alt ★★★
 ![Image de présentation de la bannière Mayano Top Gun alt et Air Groove alt ★★★](/public/assets/Gacha-reviews/2025/010_Uma-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ ***Mayano Top Gun alt***
 * Mayano est toujours une uma polyvalente dans sa version alt, mais contrairement à sa version originale, elle est polyvalente d'une assez bonne manière dans version alt. 
@@ -148,7 +156,7 @@ Si vous les aimez, oui. Si vous aimez jouer des debuffeuse de HP (ew), oui. Sino
 ## #11 - Seiun Sky ★★★
 ![Image de présentation de la bannière Smart Falcon ★★★](/public/assets/Gacha-reviews/2025/011_Uma-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 * Certains disent qu'elle est "meta defining", d'autres qu'elle "sauve/carry les Front Runner", ou encore "qu'elle change le jeu pour toujours", ou même qu'elle est "la uma la plus importante du jeu"
 * Tous ces gens ont **raison**. Dans une certaine mesure. Mais l'idée générale est absolument __correcte__.
@@ -183,7 +191,7 @@ La limite de 3 legacy empruntées par jour est trop faible pour vous permettre d
 
 ![Image de présentation de la bannière Hishi Amazon](/public/assets/Gacha-reviews/2025/012_Uma-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 * Hishi Amazon est une End Closer (1 skill gold) génériquement moyenne, dont le kit vise la distance medium (1 skill gold). Dans les courses où le late-race commence dans la 2e moitié du final corner, son unique a des solides de chances de carry over, ce qui sera un atout pour elle.
 * Ses aptitudes de distance sont globalement assez bonnes, et il lui faut peu d'inspiration pour pouvoir courir sur toutes les distances (1* long ou 7* sprint). Mais son skill gold la lock en distance medium.
@@ -203,7 +211,7 @@ La limite de 3 legacy empruntées par jour est trop faible pour vous permettre d
 
 ![Image de présentation de la bannière El Condor Pasa alt et Grass Wonder alt](/public/assets/Gacha-reviews/2025/013_Uma-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **El Condor Pasa alt**
 
@@ -239,7 +247,7 @@ Ce n'est pas une bannière *recommandée*, mais loin d'être la pire bannière �
 
 ![Image de présentation de la bannière Fuji Kiseki](/public/assets/Gacha-reviews/2025/014_Uma-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 _Fuji Kiseki est une Pace Chaser (1 gold) génériquement bonne en distance mile (1 gold). Ses aptitudes lui permettent de courir en tant que Front ou Late, et pour tirer parti de son unique vous allez plutôt vouloir envisager de la jouer Pace ou Front, et non pas Late. Elle a une gold recovery Pace -Race Planner- parfaitement fiable, et un skill gold de vitesse de mid-race -Big-Sisterly- génériquement bon._
 * Pas grand chose à dire sur elle en réalité, c'est une Pace assez vanilla, mais dans le bon sens. Son unique devrait marcher relativement bien, et ses 2 golds n'ont rien de notable et sont fiables :
@@ -265,7 +273,7 @@ Bonus : elle a l'air assez marrante comme perso.
 
 ![Image de présentation de la bannière Gold City](/public/assets/Gacha-reviews/2025/015_Uma-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 _Gold City est une Late Surger (1 gold + unique) pensée pour la distance mile (1 gold), qui mise beaucoup sur l'aléatoire. Elle sera parfois explosive, et parfois complètement à plat. Sa seule aptitude de distance "A" est mile, mais elle a aussi B medium et long. Elle a une gold recovery Mile -Keen Eye- de fiabilité aléatoire, et la gold accel aléatoire -On Your Left- pour les Late Surger. Son unique est aussi une accel, mais peu contrôlable._ 
 * Avec +20% guts bonus, monter les stats de Gold City sera plutôt pénible en carrière. On se réjouit du +10% power bonus, mais ça reste plutôt insuffisant, et pour une uma qui veut courir en mile, avoir du guts bonus n'est pas hyper avantageux. 
@@ -288,7 +296,7 @@ Parfois ses accel la feront exploser mais la qualité de son kit est plutôt moy
 
 ![Image de présentation de la bannière Maruzensky alt et Special Week alt](/public/assets/Gacha-reviews/2025/016_Uma-Banner.png)
 
-:::: details REVIEW
+:::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Maruzensky alt**
 
@@ -345,7 +353,7 @@ Il y'a d'autres bannières de uma intéressantes à venir un peu plus tard (Meis
 
 ![Image de présentation de la bannière Meisho Doto](/public/assets/Gacha-reviews/2025/017_Uma-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 _Meisho Doto est une Pace Chaser (1 gold) génériquement OK, qui peut parfois montrer une performance explosive si son skill unique s'active de manière idéale. Sa gold recovery est plutôt fiable et l'aidera souvent en med et en long, mais elle peut parfois ne pas s'activer. Son skill gold de vitesse a une chance de carry over sur certaines courses. Son skill unique s'active sur un dépassement en corner de late-race, et lui donne de l'accel et un peu de vitesse. Elle sera génériquement bonne en Team Trials, et peut-être jouée en CM sur toutes les med/long, seules distances pour lesquelles elle est apte. Avec son aptitude E dirt, elle peut courir en Dirt avec de l'inspiration (10*)._
 
@@ -368,7 +376,7 @@ Sans être spécialement *bonne*, Doto est génériquement OK par défaut, et pa
 
 ![Image de présentation de la bannière Meisho Doto](/public/assets/Gacha-reviews/2025/018_Uma-Banner.png)
 
-::: details REVIEW
+::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
 _Eishin Flash est une Late Surger (2 whites) moyenne/médiocre, qui peut facilement courir en tant que Pace ou End, mais sans nécessairement être meilleure sur ces stratégies. Elle n'a rien de notable, un seul gold qui accomplis quelque chose (et parfois rien), et un unique de fiabilité variable. S'il s'active, son unique est toujours utile en distances medium et long, et presque toujours partiellement/entièrement gaché en distances sprint et mile (pour lesquelles elle n'a pas les aptitudes de toutes façons)._
 
