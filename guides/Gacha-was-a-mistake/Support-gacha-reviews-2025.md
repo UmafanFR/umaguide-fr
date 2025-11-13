@@ -433,3 +433,94 @@ Prenez aussi en compte la qualité de votre collection de supports ; si vous êt
 C'est pas évident.
 
 ::::
+
+
+## #19 - Rice Shower power SSR & Riko Kashimoto pal SSR
+
+![Image de présentation de la bannière Rice Shower power SSR & Riko Kashimoto pal SSR](/public/assets/Gacha-reviews/2025/019_Card-Banner.png)
+
+:::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+
+⏩ **Riko Kashimoto** :friends: :ssr:
+
+::: warning Scenario Link
+
+Gardez en tête que Riko Kashimoto est **scenario linked** avec le scénario **Unity Cup**. Dans ce scénario, les events de Riko sont plus efficaces qu'ailleurs. Il est difficile d'évaluer l'utilité de Riko hors du contexte du scénario, car sa valeur vient en grande partie de ses events.
+
+:::
+
+* Riko Kashimoto pal SSR a une **croissance plutôt équilibrée** : à 1LB elle gagne 5 training bonus, boosté à 10 training bonus dès 2LB, et à parir de 3 LB elle obtient "initial stamina", qui est assez osef. On peut donc imaginer un sweet spot à 2LB.
+* Le rôle d'une carte pal :friends: est de contribuer à la qualité de vos carrières par **cross-training** ; c'est à dire, aider à la croissance de toutes les stats. Les cartes pal ont le privilège de pouvoir réduire la consommation d'énergie et la chance d'échec d'entrainement. Sur ces 2 stats là, _Riko Kashimoto est strictement inférieure à Tazuna_. Riko vous propose par contre un chouette 10 race bonus, qui augmentera vos gains de stats et skill points après des courses.
+> C'est particulièrement désirable sur le 3e scénario, Make a New Track, ce qui rend Riko pertinente pour ce scénario là aussi, augmentant donc sa durée de vie.
+* Le skill gold de Riko -obtenu à la fin de ses chain events- est l'accel **Rushing Gale**, la version gold de Straightaway Acceleration. Le skill s'active très bien, mais ne fait presque jamais rien, car trop aléatoire. 
+> Rushing Gale sera bon sur le premier CM sprint.
+* En tant que carte Pal, le 2e grand rôle de Riko tourne autour des recreations/outings/dates qui restaurent à la fois de l'énergie et font des mood up. La plupart des ses events vous apportent un gain de **stamina**, y compris son "post-training event", qui peut se produire aléatoirement après un entrainement avec elle. C'est donc une **source de stamina** qui peut être utilisée en complément de cartes power, ou d'une carte stamina.
+    *  ⚠️ Sur l'évènement de lancement des dates, **l'option du haut à une chance d'échec**. Pour garantir l'obtention des dates spéciaux, sélectionnez l'**option du milieu**.
+* **Dans le cadre du scénario Unity Cup**, vous pouvez l'utiliser dès 0LB sans problème. Vous pouvez aussi la remplacer par Tazuna pal SSR, surtout si vous l'avez avec des LBs, ou utiliser la version :r: (mais avec des LBs).
+
+::: tip Tazuna pal SSR 🔥
+
+Avoir moins de Failure Protection et Energy Cost Reduction que Tazuna pal SSR n'est pas un signe de mauvaise qualité ; c'est surtout Tazuna qui a des valeurs _particulièrement élevées_ pour ces 2 stats. **Même sur la version JP du jeu**, avec 4 ans d'avance sur nous, il n'y a toujours aucune carte pal SSR qui _dépasse_ Tazuna sur ces 2 stats. La _carte Pal SSR la plus récente de la JP_ -Kiyoko Hoshina- est la **première** carte pal SSR à faire **jeu égal** avec Tazuna pal SSR sur Energy Cost Reduction.
+
+:::
+
+
+⏩ **Rice Shower** :power: :ssr:
+
+::: warning Scenario Link
+
+Rice Shower power SSR est **scenario linked** sur le scénario **Unity Cup** ; elle a donc davantage de valeur et d'intérêt dans ce scénario que dans les autres. Gardez ça en tête.
+
+Grâce au scenario link, Rice peut vous permettre d'obtenir la gold recovery long distance **Cooldown**.
+
+:::
+
+* Rice Shower power SSR est une carte à la **croissance équilibrée** : on pourrait penser qu'elle est frontloaded avec son power bonus à 1LB, mais c'est sans compter la forte augmentation de son training bonus à 3LB et MLB.
+* Niveau gain de stats, Rice power est bonne, et légèrement meilleures que les bonnes power SR. Ses rainbow sont efficaces, et avec son power bonus et stamina bonus, elle devrait bien contribuer à monter ces 2 stats. Enfin, elle contribue bien au cross-training général grâce à **15 training bonus**. On regrette seulement 5 race bonus (avec 10, elle aurait été pertinente aussi sur le 3e scénario).
+* Sa sélection de hints ❗ laisse perplexe, avec 4 debuffs (dont 1 inutile), les accels Highlander et Straight Descent qui sont assez niche, et 2 greens.
+* Son skill gold est l'excellent **Swinging Maestro**, our lord and savior. On ne présente plus la recovery la plus fiable du jeu. 
+* Son 2e chain event restaure +15 énergie (option du bas). Un de ses events aléatoires fait mood up x2 ! 
+* Superbe illustration.
+* Vous ne pouvez pas utiliser Rice Shower power SSR si vous jouez sa carte. Terrible.
+
+#### PULL OU PAS ?
+
+**Ça dépend**. C'est -là aussi- une vraie **bonne bannière**. Vous allez vouloir décider de pull en fonction des bannières uma qui vous intéressent, et selon votre collection de cartes support actuelle. On s'attend à avoir des free pull sur cette bannière (100 en tout _à priori_) : si la bannière vous fait de l'oeil, **envisagez de terminer le spark**. Grâce aux 100 pulls gratuits, ça ne vous coutera que 15000 :carat: Notez que Riko Kashimoto est utilisable en version R pendant la durée de Unity Cup, mais seulement si vous parvenez à obtenir des LB. Il n'y a donc pas d'obligation d'avoir la SSR, et peut-être que les free pulls seront suffisants.
+
+Enfin, c'est tout à fait raisonnable de pull pour compléter votre collection de SR, en plus de l'obtention de ces 2 cartes.
+
+::::
+
+## #20 - Biko Pegasus speed SSR & Sakura Bakushin O speed SSR
+
+![Image de présentation de la bannière Biko Pegasus speed SSR & Sakura Bakushin O speed SSR](/public/assets/Gacha-reviews/2025/020_Card-Banner.png)
+
+::: details REVIEW
+
+⏩ **Biko Pegasus** :speed: :ssr:
+* La carte est assez **frontloaded** : dès 1LB elle a déjà son 1 speed bonus, et 16 training bonus. Elle débloque Initial Friendship Gauge à 3LB.
+* Biko speed est une des bonnes cartes speed SSR qui -sans être *excellente*- **restera bonne très longtemps**. Tout bêtement, c'est difficile de déloger une carte speed avec 20 training bonus, 55 spec prio et 10 race bonus. Ses rainbows sont de bonne qualité, et elle contribue fortement au cross-training. Ce sont juste des bons bonus. On aura des cartes avec des meilleurs bonus, et on aura des tas cartes avec des moins bons bonus. Elle ne sera jamais la meilleure à quoi que ce soit, mais ce ne sera aussi **jamais un mauvais choix**, même à très faible LB. 
+* Sa sélection de hints ❗ est correcte, avec des skills de vitesse sprint, une white recovery et le white de navigation "Meticulous Measures" (sprint), qui a une solide chance d'être plutôt bon. 
+* Le skill gold obtenu est **Plan X**, la version gold de Countermeasure. C'est une accel sprint aléatoire en 2e moitié de mid-race, qui s'active pour les **uma top50% mais pas 1e**. C'est un skill très désirable, car les courses sprint -étant extrêmement courtes- se jouent très fortement sur l'accel. En cas d'activation en succès, c'est une condition de victoire souvent suffisante.
+* Ses 2 events aléatoires (non chain event) restaurent tous deux de l'énergie (+15 et +30)
+
+⏩ **Sakura Bakushin O** :speed: :ssr:
+* La carte a une croissance plutôt équilibrée : à 1LB elle a son 1 speed bonus, et elle obtient 5 training bonus à 3LB, puis 10 à MLB.
+* Bakushin O speed est une assez bonne carte speed, avec un gain de stats correct, mais une contribution au cross training un peu faible avant 3LB (manque de training bonus). Une fois MLB, elle propose 10 training bonus, 10 race bonus, et 40 mood bonus, ce qui est plutôt bon en cross training.
+* Sa sélection de hints ❗ est bonne, avec les 2 sprint straight et corners, les accel white sprint Countermeasures et Sprinting Gear, et quelques debuffs.
+* Le skill gold obtenu est **Turbo Sprint**, la version gold de Sprinting Gear. C'est une accel sprint s'activant aléatoirement sur une ligne droite. Le skill s'active sur toutes les courses sprint, mais n'est pas bon sur toutes les sprint. Il sera désirable sur le tout premier CM sprint (Takamatsunomiya Kinen), et là aussi ce sera une condition de victoire notable en cas de bonne activation.
+
+#### PULL OU PAS ?
+
+_**Non**_, surtout pas. La bannière n'est pas mauvaise. Les cartes sont chouettes honnêtement, et donnent des skills sprint qui seront bons aux CMs sprint (surtout le premier), ainsi qu'en Team Trials. 
+
+Mais cette bannière a 4 problèmes :
+
+1. vous n'avez sans doute pas beaucoup de :carat:
+2. il y a pas mal de uma désirables à venir
+3. **la bannière rerun Kitasan Black speed SSR arrive dans quelques semaines**
+3. la bannière Mayano Top Gun speed SSR arrive un peu plus tard, et sera bonne aussi.
+
+Bref, cette bannière a 4 problèmes, et ces 4 problèmes ce sont **les autres bannières**. Ne faites pas de pulls sur celle ci, même si vous désespérez pour des cartes speed. Votre patience sera mieux récompensée 🙏🏿
+
+:::
