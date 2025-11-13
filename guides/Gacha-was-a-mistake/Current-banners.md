@@ -1,5 +1,5 @@
 ---
-title: Gacha review - Matikanefukukitaru alt ★★★ // Rice Shower power SSR & Riko Kashimoto pal SSR
+title: Gacha review - Hishi Akebono ★★★ // Biko Pegasus speed SSR & Sakura Bakushin O speed SS
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -18,9 +18,13 @@ Gardez vos attentes in check pour ne pas être blessé·e·s.
 
 Et surtout bonne chance 🌟
 
+----
+
+#### Les review des bannières sont généralement postées entre 48h avant et 48h après la date de sortie des bannières !
+
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/019_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/020_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -94,89 +98,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Matikanefukukitaru alt ★★★
-
-![Image de présentation de la bannière Matikanefukukitaru alt](/public/assets/Gacha-reviews/2025/019_Uma-Banner.png)
-
-_Matikanefukukitaru "Full Armor" est une Late Surger (1 white) spécialisée en long distance (2 gold), et plutôt forte dans sa niche. Elle peut facilement courir en tant que Pace, mais sans nécessairement être meilleure sur cette stratégie. Ses 2 skills gold sont fiables et ciblent le late-race, mais l'un des deux a une chance non nulle de s'activer un peu trop tôt. Son skill unique a une solide chance de carry over sur toutes les courses, peu importe la distance. Bien qu'elle soit spécialisée en long, son manque de gold recovery et son faible stamina bonus n'aident pas à atteindre les HP requis pour les 2 très longues G1 : Kikuka Sho et Tenno Sho Spring._
-
-* Ses bonus de croissance sont assez bons. On regrette un peu (un peu) les 10% guts bonus de Fuku alt, mais 10% stamina bonus et 10% wits bonus sont des bons bonus. 
-* Niveau aptitudes, Fuku alt est clairement indiquée pour les distances medium et long sur turf. Bien qu'elle puisse facilement courir en tant que Pace -avec 1* d'inspiration-, sa stratégie de prédilection est bien Late Surger, comme suggéré par son skill unique. Avec F dirt, vous pourriez la faire courir en CM dirt avec beaucoup d'inspiration, mais c'est quand même bien déconseillé : il n'y a tout bêtement pas de course dirt longue.
-* Ses 2 skills gold sont plutôt bons : 
-    * **Overwhelming Pressure** est la version gold de Pressure. C'est un skill de vitesse long, s'activant sur un dépassement en late-race. Le skill a une chance solide de s'activer un peu trop tôt, pendant la phase d'accel, ce qui le gâcherai en partie. Mais d'un autre côté sa durée de base est 3 secondes (le plus élevé pour un gold actuellement).
-    * **Innate Experience** est la version gold de Inside Scoop. C'est un skill de vitesse long, s'activant sur le final corner, si votre uma court "près de la barrière interne". Cette condition de course près des barrières est un peu confusante ; on penserai qu'à ce stade de la course les uma seraient éparpillées sur les différentes voies, mais en réalité sur le final corner les uma sont encore très serrées sur les 2 voies les plus proches de l'intérieur. Le skill s'active bien en réalité.
-* Son skill unique est un boost de vitesse, s'activant si Fuku est une cible potentielle de dépassement à partir de 50% de la course, et en étant top40% ou pire. Essentiellement, le skill s'active si une uma se rapproche de Fuku par l'arrière et s'apprête à tenter un dépassement. Comme le skill ne s'active qu'à partir de la moitié de la course, il a une solide chance d'induire un carry over, quand les End et Late tentent de remonter le peloton après Position Keep.
-* **Matikanefukukitaru est scenario linked** sur le scénario Unity Cup ; cependant, le seul effet de scenario link sera l'obtention d'un skill gold. Pour Fuku, c'est le skill de vision **Clairvoyance**. C'est un skill de vision, donc osef. Vous ne voudrez jamais le prendre.
-* Son design est vraiment trop cool, et une des ses nouvelles voicelines est plus Fuku que jamais.
-
-#### PULL OU PAS ?
-
-**Si vous l'aimez**, ou **si vous voulez une bonne spécialiste pour les CM Kikuka Sho et Arima Kinen**. C'est la 1e spécialiste de longue distance, et elle est bonne à son job, mais il y aura des tas d'autres spécialistes longues distances *bien meilleures* qu'elle. Elle n'est pas un mauvais choix, mais il y en a des tas de plus pertinents à venir. Elle sera forte sur le 6e CM (Kikuka Sho).
-
----
-
-### Bannière support : Rice Shower power SSR & Riko Kashimoto pal SSR
-
-![Image de présentation de la bannière Rice Shower power SSR & Riko Kashimoto pal SSR](/public/assets/Gacha-reviews/2025/019_Card-Banner.png)
-
-
-⏩ **Riko Kashimoto** :friends: :ssr:
-
-::: warning Scenario Link
-
-Gardez en tête que Riko Kashimoto est **scenario linked** avec le scénario **Unity Cup**. Dans ce scénario, les events de Riko sont plus efficaces qu'ailleurs. Il est difficile d'évaluer l'utilité de Riko hors du contexte du scénario, car sa valeur vient en grande partie de ses events.
-
-:::
-
-* Riko Kashimoto pal SSR a une **croissance plutôt équilibrée** : à 1LB elle gagne 5 training bonus, boosté à 10 training bonus dès 2LB, et à parir de 3 LB elle obtient "initial stamina", qui est assez osef. On peut donc imaginer un sweet spot à 2LB.
-* Le rôle d'une carte pal :friends: est de contribuer à la qualité de vos carrières par **cross-training** ; c'est à dire, aider à la croissance de toutes les stats. Les cartes pal ont le privilège de pouvoir réduire la consommation d'énergie et la chance d'échec d'entrainement. Sur ces 2 stats là, _Riko Kashimoto est strictement inférieure à Tazuna_. Riko vous propose par contre un chouette 10 race bonus, qui augmentera vos gains de stats et skill points après des courses.
-> C'est particulièrement désirable sur le 3e scénario, Make a New Track, ce qui rend Riko pertinente pour ce scénario là aussi, augmentant donc sa durée de vie.
-* Le skill gold de Riko -obtenu à la fin de ses chain events- est l'accel **Rushing Gale**, la version gold de Straightaway Acceleration. Le skill s'active très bien, mais ne fait presque jamais rien, car trop aléatoire. 
-> Rushing Gale sera bon sur le premier CM sprint.
-* En tant que carte Pal, le 2e grand rôle de Riko tourne autour des recreations/outings/dates qui restaurent à la fois de l'énergie et font des mood up. La plupart des ses events vous apportent un gain de **stamina**, y compris son "post-training event", qui peut se produire aléatoirement après un entrainement avec elle. C'est donc une **source de stamina** qui peut être utilisée en complément de cartes power, ou d'une carte stamina.
-    *  ⚠️ Sur l'évènement de lancement des dates, **l'option du haut à une chance d'échec**. Pour garantir l'obtention des dates spéciaux, sélectionnez l'**option du milieu**.
-* **Dans le cadre du scénario Unity Cup**, vous pouvez l'utiliser dès 0LB sans problème. Vous pouvez aussi la remplacer par Tazuna pal SSR, surtout si vous l'avez avec des LBs, ou utiliser la version :r: (mais avec des LBs).
-
-::: tip Tazuna pal SSR 🔥
-
-Avoir moins de Failure Protection et Energy Cost Reduction que Tazuna pal SSR n'est pas un signe de mauvaise qualité ; c'est surtout Tazuna qui a des valeurs _particulièrement élevées_ pour ces 2 stats. **Même sur la version JP du jeu**, avec 4 ans d'avance sur nous, il n'y a toujours aucune carte pal SSR qui _dépasse_ Tazuna sur ces 2 stats. La _carte Pal SSR la plus récente de la JP_ -Kiyoko Hoshina- est la **première** carte pal SSR à faire **jeu égal** avec Tazuna pal SSR sur Energy Cost Reduction.
-
-:::
-
-
-⏩ **Rice Shower** :power: :ssr:
-
-::: warning Scenario Link
-
-Rice Shower power SSR est **scenario linked** sur le scénario **Unity Cup** ; elle a donc davantage de valeur et d'intérêt dans ce scénario que dans les autres. Gardez ça en tête.
-
-Grâce au scenario link, Rice peut vous permettre d'obtenir la gold recovery long distance **Cooldown**.
-
-:::
-
-* Rice Shower power SSR est une carte à la **croissance équilibrée** : on pourrait penser qu'elle est frontloaded avec son power bonus à 1LB, mais c'est sans compter la forte augmentation de son training bonus à 3LB et MLB.
-* Niveau gain de stats, Rice power est bonne, et légèrement meilleures que les bonnes power SR. Ses rainbow sont efficaces, et avec son power bonus et stamina bonus, elle devrait bien contribuer à monter ces 2 stats. Enfin, elle contribue bien au cross-training général grâce à **15 training bonus**. On regrette seulement 5 race bonus (avec 10, elle aurait été pertinente aussi sur le 3e scénario).
-* Sa sélection de hints ❗ laisse perplexe, avec 4 debuffs (dont 1 inutile), les accels Highlander et Straight Descent qui sont assez niche, et 2 greens.
-* Son skill gold est l'excellent **Swinging Maestro**, our lord and savior. On ne présente plus la recovery la plus fiable du jeu. 
-* Son 2e chain event restaure +15 énergie (option du bas). Un de ses events aléatoires fait mood up x2 ! 
-* Superbe illustration.
-* Vous ne pouvez pas utiliser Rice Shower power SSR si vous jouez sa carte. Terrible.
-
-#### PULL OU PAS ?
-
-**Ça dépend**. C'est -là aussi- une vraie **bonne bannière**. Vous allez vouloir décider de pull en fonction des bannières uma qui vous intéressent, et selon votre collection de cartes support actuelle. On s'attend à avoir des free pull sur cette bannière (100 en tout _à priori_) : si la bannière vous fait de l'oeil, **envisagez de terminer le spark**. Grâce aux 100 pulls gratuits, ça ne vous coutera que 15000 :carat: Notez que Riko Kashimoto est utilisable en version R pendant la durée de Unity Cup, mais seulement si vous parvenez à obtenir des LB. Il n'y a donc pas d'obligation d'avoir la SSR, et peut-être que les free pulls seront suffisants.
-
-Enfin, c'est tout à fait raisonnable de pull pour compléter votre collection de SR, en plus de l'obtention de ces 2 cartes.
-
----
-
-# Bannières à suivre - (11 novembre 23h)
-
-Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un peu plus clair, et faire des choix plus pertinents pour vos pulls.
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/020_Banners_early_preview.jpg)
-
 ### Bannière Umamusume : Hishi Akebono ★★★
+
+![Image de présentation de la bannière Hishi Akebono ](/public/assets/Gacha-reviews/2025/020_Uma-Banner.png)
 
 ::: tip Accrochez vos ceintures
 
@@ -250,7 +174,7 @@ Cliquez sur l'image pour la voir en grand.
 
 :::
 
-### Et maintenant : _the elephant in the room_
+#### Et maintenant : _the elephant in the room_
 
 (et je parle pas de la grande taille de Hishi Akebonno :currenDevilish:)
 
@@ -316,9 +240,12 @@ Mais si c'est trop pénible, c'est trop pénible et c'est tout. Ne vous tuez pas
 
 Mais c'est une **vraie bonne uma sprint/mile**. Et difficile à optimiser.
 
+
 ---
 
 ### Bannière support : Biko Pegasus speed SSR & Sakura Bakushin O speed SSR
+
+![Image de présentation de la bannière Biko Pegasus speed SSR & Sakura Bakushin O speed SSR](/public/assets/Gacha-reviews/2025/020_Card-Banner.png)
 
 ⏩ **Biko Pegasus** :speed: :ssr:
 * La carte est assez **frontloaded** : dès 1LB elle a déjà son 1 speed bonus, et 16 training bonus. Elle débloque Initial Friendship Gauge à 3LB.
@@ -345,6 +272,59 @@ Mais cette bannière a 4 problèmes :
 3. la bannière Mayano Top Gun speed SSR arrive un peu plus tard, et sera bonne aussi.
 
 Bref, cette bannière a 4 problèmes, et ces 4 problèmes ce sont **les autres bannières**. Ne faites pas de pulls sur celle ci, même si vous désespérez pour des cartes speed. Votre patience sera mieux récompensée 🙏🏿
+
+---
+
+# Bannières à suivre - (19 novembre 23h)
+
+Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un peu plus clair, et faire des choix plus pertinents pour vos pulls.
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/021_Banners_early_preview.jpg)
+
+### Bannière Umamusume : ~~La creatura (affectionate)~~ Agnes Digital ★★★
+
+_Agnes Digital est une Late Surger (1 white) génériquement compétente, et qui se distingue un peu en dirt. Ses aptitudes lui permettent aussi de courir en tant que Pace Chaser ou End Closer, et elle est tout à fait capable dans ces stratégies là. Elle possède le très bon skill gold **Superstan**, et son skill unique a parfois des chances de "high roll" si le timing est immaculé (dépend de la course)._
+
+* Agnes Digital a... **presque tous les bonus**. C'est inhabituel, mais ce n'est pas une mauvais chose. 8% :speed: 8% :stamina: 7% :power: et 7% :wit:. Elle a le très bon goût de ne pas avoir de guts bonus, mais en même temps cette répartition est un peu déroutante ; de si faibles bonus ont peu d'effet sur des entrainements de grande qualité, mais boostent relativement bien le gain de stats, en début de carrière (107% de 10 c'est arrondi à  11, et 107% de 20 c'est... arrondi à **21**). Les bonus sont sur toutes les stats pertinentes, et presque 10% sur les deux plus importantes : speed et power. Ça devrait contribuer à la croissance de ses stats, mais on aurait quand même préféré autre chose. 
+* Digitan est apte à courir en distances mile et medium, en tant que Pace Chaser, Late Surger ou End Closer (requiert 1⭐ en inspiration), et surtout en **dirt**. Elle est naturellement _aussi capable en turf qu'en dirt_, ce qui la rend **particulièrement flexible**, pour le TT comme le CM. Cette flexibilité n'est au détriment de rien, car elle est à peu près aussi bonne en Pace, qu'en Late, et qu'en End. Son skill unique marche aussi exactement de la même manière sur toutes les distances (ce qui est plutôt rare pour les uniques qui requièrent des dépassements). Mais elle perd un skill gold aléatoire en turf cependant.
+* Sa sélection de skill gold est bonne : 
+    * **Superstan** est la version gold du très bon Umastan ; c'est un skill de vitesse s'activant quand il y'a 3 uma ou plus à proximité. Le skill s'active très bien (depuis le 11 novembre), et généralement en early-race. C'est très favorable pour prendre position, en particulier si elle court en tant que Pace. Ce sera génériquement très bien aussi en Late ou en End.
+    > Le skill Umastan est encore plutôt rare, donc c'est aussi l'occasion de l'avoir en spark.
+    * **Lead the Charge!** est la version gold de "Forward, March!", un skill dirt hybride de navigation + accélération, s'activant aléatoirement en late-race. Le timing aléatoire le rend peu fiable, mais il a deux "bonnes" fenêtres d'activation : la première est immédiatement au lancement du late-race, pour bénéficier de l'accel, et la deuxième est pendant le final corner, pour que Digitant bénéficie du speed boost pendant qu'elle se _spread out_ sur le final corner. Ca reste très aléatoire. Il s'active sans souci en TT.
+* Son skill unique ~~a une description incroyable 💯~~ est un boost de vitesse, après qu'elle ait dépassé 2 uma en late-race. C'est un skill assez fiable, mais qui peut avoir tendance à s'activer un peu tôt (pendant l'accel) si vous avez beaucoup d'accel. Il y a risque que ça arrive souvent si elle court en _late sur distance mile_ (beaucoup de sources d'accel aléatoires). Dans les courses où le late-race commence notablement **avant** le final corner (donc les medium de 2200m et 2400m, assez souvent), vous aurez parfois un **high roll** avec excellent timing : son skill unique pourra peut-être s'activer de manière à ce que l'effet soit actif **pendant que Digitan s'écarte sur une autre voie** (spread en final corner), ce qui lui fera bénéficier d'un speed boost supplémentaire (= déplacement latéral pendant l'effet d'un skill de navigation). En complément des potentielles sources d'accélération, ça lui fait parfois **zoomies**. On se souvient sur la JP des courses qui paraissent gagnées, et soudain "random Agnes Digital qui apparaît de nulle part".
+    > Ce n'est pas un mauvais skill à obtenir par inspiration, pour les courses où le high roll est possible (généralement, distance 2200m et plus), mais pas nécessairement prioritaire.
+* Le perso est assez fun, c'est vraiment un gremlin.
+
+
+#### PULL OU PAS ?
+
+**Envisagez le sérieusement**, selon vos cibles de bannière uma à venir.
+
+Digitan est génériquement compétente. C'est une très bonne addition à votre Team Trials dirt, et de manière générale un bon asset à avoir pour les CM turf-mile, turf-med, dirt-mile, dirt-med. À plus forte raison car son aptitude à courir selon n'importe quelle stratégie (sauf Front) lui permet de **s'adapter à la méta de chaque CM**, et tirer parti des atouts des différentes stratégies. Sa grande flexibilité rappelle **Oguri Cap**, mais Digitan est génériquement plus compétente qu'elle. Il n'existe pas vraiment de course sur laquelle Digitan peut courir, et sur laquelle elle n'est pas au moins génériquement bonne.
+
+---
+
+### Bannière support : Ikuno Dictus guts SSR & Fine Motion power SR
+
+⏩ **Ikuno Dictus** :guts: :ssr:
+* La carte est assez **frontloaded** : dès 1LB elle a déjà son 1 guts bonus, et 10 training bonus. Elle débloque Initial Friendship Gauge à 3LB.
+* Ikudis guts est une carte guts moyenne, qui a des bonus un peu batards. Avec 10 training bonus et 10 race bonus dés 0LB, on penserai que ce serai une carte taillée pour le cross training. Mais elle a aussi un guts bonus, qui suggère qu'il faut qu'elle tombe en guts (ou stam). Là où c'est embêtant, c'est qu'avec 35 spec prio à MLB (20 à 0LB), elle ne semble pas très motivée à aller en guts anyways. De plus, une bonne carte guts qui va souvent en guts, on lui préfère largement speed bonus ou power bonus, et elle n'a aucun des deux. Donc elle a un peu le cul entre 2 chaises.
+* Son 15 race bonus (MLB) sera désirable sur le scénario Make a New Track, mais d'autres bonnes cartes guts seront préférables à la place de celle-ci.
+* Sa sélection de hints ❗ est absolument garbage. Les versions white des recovery Iron Will (bad) et Unruffled (un peu moins naze mais pas ouf quand même hein), 2 skills de vision, et un debuff de HP white. 
+* Le skill gold obtenu est **The Bigger Picture**, la version gold de Studious. C'est un skill de vision late mid-race. Poubelle. 
+* Son premier chain event ajoute +4 énergie maximum, et son 2e peut mettre fin à la chaîne en restaurant +20 énergie ; c'est l'option du bas, et c'est ce que je vous recommande (au lieu de prendre le skill gold).
+* **Inutile de préciser que Haru Urara guts est une bien meilleure carte guts SSR**, mais je le dit quand même.
+
+⏩ **Fine Motion** :power: :sr:
+* La carte est relativement backloaded : son principal atout est le skill point bonus, qu'elle obtient à MLB.
+* Non sérieux, il n'y a rien à dire sur cette carte, elle est très quelconque. Elle a 10 training bonus et 1 skill point bonus une fois MLB, et c'est tout ce qu'il y a d'intéressant à en dire. C'est sympa niveau cross-training, mais on a vu mieux.
+* Sa sélection de hints ❗ est bonne, et identique à Fine Motion wits SSR. 3 greens de vitesse, Nimble Navigator et Straightaway Accel (bad).
+
+#### PULL OU PAS ?
+
+_**Easy skip**_.
+
+Ikuno Dictus guts SSR et Finemo power SSR sont toutes les deux franchement pas terrible.
 
 ---
 
