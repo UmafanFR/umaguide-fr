@@ -490,3 +490,37 @@ Grâce au scenario link, Rice peut vous permettre d'obtenir la gold recovery lon
 Enfin, c'est tout à fait raisonnable de pull pour compléter votre collection de SR, en plus de l'obtention de ces 2 cartes.
 
 ::::
+
+## #20 - Biko Pegasus speed SSR & Sakura Bakushin O speed SSR
+
+![Image de présentation de la bannière Biko Pegasus speed SSR & Sakura Bakushin O speed SSR](/public/assets/Gacha-reviews/2025/020_Card-Banner.png)
+
+::: details REVIEW
+
+⏩ **Biko Pegasus** :speed: :ssr:
+* La carte est assez **frontloaded** : dès 1LB elle a déjà son 1 speed bonus, et 16 training bonus. Elle débloque Initial Friendship Gauge à 3LB.
+* Biko speed est une des bonnes cartes speed SSR qui -sans être *excellente*- **restera bonne très longtemps**. Tout bêtement, c'est difficile de déloger une carte speed avec 20 training bonus, 55 spec prio et 10 race bonus. Ses rainbows sont de bonne qualité, et elle contribue fortement au cross-training. Ce sont juste des bons bonus. On aura des cartes avec des meilleurs bonus, et on aura des tas cartes avec des moins bons bonus. Elle ne sera jamais la meilleure à quoi que ce soit, mais ce ne sera aussi **jamais un mauvais choix**, même à très faible LB. 
+* Sa sélection de hints ❗ est correcte, avec des skills de vitesse sprint, une white recovery et le white de navigation "Meticulous Measures" (sprint), qui a une solide chance d'être plutôt bon. 
+* Le skill gold obtenu est **Plan X**, la version gold de Countermeasure. C'est une accel sprint aléatoire en 2e moitié de mid-race, qui s'active pour les **uma top50% mais pas 1e**. C'est un skill très désirable, car les courses sprint -étant extrêmement courtes- se jouent très fortement sur l'accel. En cas d'activation en succès, c'est une condition de victoire souvent suffisante.
+* Ses 2 events aléatoires (non chain event) restaurent tous deux de l'énergie (+15 et +30)
+
+⏩ **Sakura Bakushin O** :speed: :ssr:
+* La carte a une croissance plutôt équilibrée : à 1LB elle a son 1 speed bonus, et elle obtient 5 training bonus à 3LB, puis 10 à MLB.
+* Bakushin O speed est une assez bonne carte speed, avec un gain de stats correct, mais une contribution au cross training un peu faible avant 3LB (manque de training bonus). Une fois MLB, elle propose 10 training bonus, 10 race bonus, et 40 mood bonus, ce qui est plutôt bon en cross training.
+* Sa sélection de hints ❗ est bonne, avec les 2 sprint straight et corners, les accel white sprint Countermeasures et Sprinting Gear, et quelques debuffs.
+* Le skill gold obtenu est **Turbo Sprint**, la version gold de Sprinting Gear. C'est une accel sprint s'activant aléatoirement sur une ligne droite. Le skill s'active sur toutes les courses sprint, mais n'est pas bon sur toutes les sprint. Il sera désirable sur le tout premier CM sprint (Takamatsunomiya Kinen), et là aussi ce sera une condition de victoire notable en cas de bonne activation.
+
+#### PULL OU PAS ?
+
+_**Non**_, surtout pas. La bannière n'est pas mauvaise. Les cartes sont chouettes honnêtement, et donnent des skills sprint qui seront bons aux CMs sprint (surtout le premier), ainsi qu'en Team Trials. 
+
+Mais cette bannière a 4 problèmes :
+
+1. vous n'avez sans doute pas beaucoup de :carat:
+2. il y a pas mal de uma désirables à venir
+3. **la bannière rerun Kitasan Black speed SSR arrive dans quelques semaines**
+3. la bannière Mayano Top Gun speed SSR arrive un peu plus tard, et sera bonne aussi.
+
+Bref, cette bannière a 4 problèmes, et ces 4 problèmes ce sont **les autres bannières**. Ne faites pas de pulls sur celle ci, même si vous désespérez pour des cartes speed. Votre patience sera mieux récompensée 🙏🏿
+
+:::
