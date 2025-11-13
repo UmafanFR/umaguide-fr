@@ -372,9 +372,9 @@ Sans être spécialement *bonne*, Doto est génériquement OK par défaut, et pa
 
 :::
 
-## #18 - Meisho Doto ★★★ (bannière actuelle)
+## #18 - Eishin Flash ★★★
 
-![Image de présentation de la bannière Meisho Doto](/public/assets/Gacha-reviews/2025/018_Uma-Banner.png)
+![Image de présentation de la bannière Eishin Flash](/public/assets/Gacha-reviews/2025/018_Uma-Banner.png)
 
 ::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
 
@@ -393,3 +393,26 @@ _Eishin Flash est une Late Surger (2 whites) moyenne/médiocre, qui peut facilem
 **Seulement si vous l'aimez beaucoup**. Ce n'est pas une bonne uma. Elle est très cute et assez marrante par contre.
 
 :::
+
+## #19 - Matikanefukukitaru (alt) ★★★
+
+![Image de présentation de la bannière Matikanefukukitaru alt](/public/assets/Gacha-reviews/2025/019_Uma-Banner.png)
+
+:::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+
+_Matikanefukukitaru "Full Armor" est une Late Surger (1 white) spécialisée en long distance (2 gold), et plutôt forte dans sa niche. Elle peut facilement courir en tant que Pace, mais sans nécessairement être meilleure sur cette stratégie. Ses 2 skills gold sont fiables et ciblent le late-race, mais l'un des deux a une chance non nulle de s'activer un peu trop tôt. Son skill unique a une solide chance de carry over sur toutes les courses, peu importe la distance. Bien qu'elle soit spécialisée en long, son manque de gold recovery et son faible stamina bonus n'aident pas à atteindre les HP requis pour les 2 très longues G1 : Kikuka Sho et Tenno Sho Spring._
+
+* Ses bonus de croissance sont assez bons. On regrette un peu (un peu) les 10% guts bonus de Fuku alt, mais 10% stamina bonus et 10% wits bonus sont des bons bonus. 
+* Niveau aptitudes, Fuku alt est clairement indiquée pour les distances medium et long sur turf. Bien qu'elle puisse facilement courir en tant que Pace -avec 1* d'inspiration-, sa stratégie de prédilection est bien Late Surger, comme suggéré par son skill unique. Avec F dirt, vous pourriez la faire courir en CM dirt avec beaucoup d'inspiration, mais c'est quand même bien déconseillé : il n'y a tout bêtement pas de course dirt longue.
+* Ses 2 skills gold sont plutôt bons : 
+    * **Overwhelming Pressure** est la version gold de Pressure. C'est un skill de vitesse long, s'activant sur un dépassement en late-race. Le skill a une chance solide de s'activer un peu trop tôt, pendant la phase d'accel, ce qui le gâcherai en partie. Mais d'un autre côté sa durée de base est 3 secondes (le plus élevé pour un gold actuellement).
+    * **Innate Experience** est la version gold de Inside Scoop. C'est un skill de vitesse long, s'activant sur le final corner, si votre uma court "près de la barrière interne". Cette condition de course près des barrières est un peu confusante ; on penserai qu'à ce stade de la course les uma seraient éparpillées sur les différentes voies, mais en réalité sur le final corner les uma sont encore très serrées sur les 2 voies les plus proches de l'intérieur. Le skill s'active bien en réalité.
+* Son skill unique est un boost de vitesse, s'activant si Fuku est une cible potentielle de dépassement à partir de 50% de la course, et en étant top40% ou pire. Essentiellement, le skill s'active si une uma se rapproche de Fuku par l'arrière et s'apprête à tenter un dépassement. Comme le skill ne s'active qu'à partir de la moitié de la course, il a une solide chance d'induire un carry over, quand les End et Late tentent de remonter le peloton après Position Keep.
+* **Matikanefukukitaru est scenario linked** sur le scénario Unity Cup ; cependant, le seul effet de scenario link sera l'obtention d'un skill gold. Pour Fuku, c'est le skill de vision **Clairvoyance**. C'est un skill de vision, donc osef. Vous ne voudrez jamais le prendre.
+* Son design est vraiment trop cool, et une des ses nouvelles voicelines est plus Fuku que jamais.
+
+#### PULL OU PAS ?
+
+**Si vous l'aimez**, ou **si vous voulez une bonne spécialiste pour les CM Kikuka Sho et Arima Kinen**. C'est la 1e spécialiste de longue distance, et elle est bonne à son job, mais il y aura des tas d'autres spécialistes longues distances *bien meilleures* qu'elle. Elle n'est pas un mauvais choix, mais il y en a des tas de plus pertinents à venir. Elle sera forte sur le 6e CM (Kikuka Sho).
+
+::::
