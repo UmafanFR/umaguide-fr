@@ -524,3 +524,31 @@ Mais cette bannière a 4 problèmes :
 Bref, cette bannière a 4 problèmes, et ces 4 problèmes ce sont **les autres bannières**. Ne faites pas de pulls sur celle ci, même si vous désespérez pour des cartes speed. Votre patience sera mieux récompensée 🙏🏿
 
 :::
+
+## #21 - Ikuno Dictus guts SSR & Fine Motion power SR
+
+![Image de présentation de la bannière Ikuno Dictus guts SSR & Fine Motion power SR](/public/assets/Gacha-reviews/2025/021_Card-Banner.png)
+
+::: details REVIEW
+
+⏩ **Ikuno Dictus** :guts: :ssr:
+* La carte est assez **frontloaded** : dès 1LB elle a déjà son 1 guts bonus, et 10 training bonus. Elle débloque Initial Friendship Gauge à 3LB.
+* Ikudis guts est une carte guts moyenne, qui a des bonus un peu batards. Avec 10 training bonus et 10 race bonus dés 0LB, on penserai que ce serai une carte taillée pour le cross training. Mais elle a aussi un guts bonus, qui suggère qu'il faut qu'elle tombe en guts (ou stam). Là où c'est embêtant, c'est qu'avec 35 spec prio à MLB (20 à 0LB), elle ne semble pas très motivée à aller en guts anyways. De plus, une bonne carte guts qui va souvent en guts, on lui préfère largement speed bonus ou power bonus, et elle n'a aucun des deux. Donc elle a un peu le cul entre 2 chaises.
+* Son 15 race bonus (MLB) sera désirable sur le scénario Make a New Track, mais d'autres bonnes cartes guts seront préférables à la place de celle-ci.
+* Sa sélection de hints ❗ est absolument garbage. Les versions white des recovery Iron Will (bad) et Unruffled (un peu moins naze mais pas ouf quand même hein), 2 skills de vision, et un debuff de HP white. 
+* Le skill gold obtenu est **The Bigger Picture**, la version gold de Studious. C'est un skill de vision late mid-race. Poubelle. 
+* Son premier chain event ajoute +4 énergie maximum, et son 2e peut mettre fin à la chaîne en restaurant +20 énergie ; c'est l'option du bas, et c'est ce que je vous recommande (au lieu de prendre le skill gold).
+* **Inutile de préciser que Haru Urara guts est une bien meilleure carte guts SSR**, mais je le dit quand même.
+
+⏩ **Fine Motion** :power: :sr:
+* La carte est relativement backloaded : son principal atout est le skill point bonus, qu'elle obtient à MLB.
+* Non sérieux, il n'y a rien à dire sur cette carte, elle est très quelconque. Elle a 10 training bonus et 1 skill point bonus une fois MLB, et c'est tout ce qu'il y a d'intéressant à en dire. C'est sympa niveau cross-training, mais on a vu mieux.
+* Sa sélection de hints ❗ est bonne, et identique à Fine Motion wits SSR : 3 greens de vitesse, Nimble Navigator et Straightaway Accel (bad).
+
+#### PULL OU PAS ?
+
+_**Easy skip**_.
+
+Ikuno Dictus guts SSR et Finemo power SR sont toutes les deux franchement pas terrible.
+
+:::

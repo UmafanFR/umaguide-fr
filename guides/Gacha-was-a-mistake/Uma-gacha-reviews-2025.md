@@ -562,3 +562,29 @@ Mais si c'est trop pénible, c'est trop pénible et c'est tout. Ne vous tuez pas
 Mais c'est une **vraie bonne uma sprint/mile**. Et difficile à optimiser.
 
 ::::::
+
+## #21 - ~~La creatura (affectionate)~~ Agnes Digital ★★★
+
+![Image de présentation de la bannière Agnes Digital](/public/assets/Gacha-reviews/2025/021_Uma-Banner.png)
+
+::: details REVIEW
+
+_Agnes Digital est une Late Surger (1 white) génériquement compétente, et qui se distingue un peu en dirt. Ses aptitudes lui permettent aussi de courir en tant que Pace Chaser ou End Closer, et elle est tout à fait capable dans ces stratégies là. Elle possède le très bon skill gold **Superstan**, et son skill unique a parfois des chances de "high roll" si le timing est immaculé (dépend de la course)._
+
+* Agnes Digital a... **presque tous les bonus**. C'est inhabituel, mais ce n'est pas une mauvais chose. 8% :speed: 8% :stamina: 7% :power: et 7% :wit:. Elle a le très bon goût de ne pas avoir de guts bonus, mais en même temps cette répartition est un peu déroutante ; de si faibles bonus ont peu d'effet sur des entrainements de grande qualité, mais boostent relativement bien le gain de stats, en début de carrière (107% de 10 c'est arrondi à  11, et 107% de 20 c'est... arrondi à **21**). Les bonus sont sur toutes les stats pertinentes, et presque 10% sur les deux plus importantes : speed et power. Ça devrait contribuer à la croissance de ses stats, mais on aurait quand même préféré autre chose. 
+* Digitan est apte à courir en distances mile et medium, en tant que Pace Chaser, Late Surger ou End Closer (requiert 1⭐ en inspiration), et surtout en **dirt**. Elle est naturellement _aussi capable en turf qu'en dirt_, ce qui la rend **particulièrement flexible**, pour le TT comme le CM. Cette flexibilité n'est au détriment de rien, car elle est à peu près aussi bonne en Pace, qu'en Late, et qu'en End. Son skill unique marche aussi exactement de la même manière sur toutes les distances (ce qui est plutôt rare pour les uniques qui requièrent des dépassements). Mais elle perd un skill gold aléatoire en turf cependant.
+* Sa sélection de skill gold est bonne : 
+    * **Superstan** est la version gold du très bon Umastan ; c'est un skill de vitesse s'activant quand il y'a 3 uma ou plus à proximité. Le skill s'active très bien (depuis le 11 novembre), et généralement en early-race. C'est très favorable pour prendre position, en particulier si elle court en tant que Pace. Ce sera génériquement très bien aussi en Late ou en End.
+    > Le skill Umastan est encore plutôt rare, donc c'est aussi l'occasion de l'avoir en spark.
+    * **Lead the Charge!** est la version gold de "Forward, March!", un skill dirt hybride de navigation + accélération, s'activant aléatoirement en late-race. Le timing aléatoire le rend peu fiable, mais il a deux "bonnes" fenêtres d'activation : la première est immédiatement au lancement du late-race, pour bénéficier de l'accel, et la deuxième est pendant le final corner, pour que Digitant bénéficie du speed boost pendant qu'elle se _spread out_ sur le final corner. Ca reste très aléatoire. Il s'active sans souci en TT.
+* Son skill unique ~~a une description incroyable 💯~~ est un boost de vitesse, après qu'elle ait dépassé 2 uma en late-race. C'est un skill assez fiable, mais qui peut avoir tendance à s'activer un peu tôt (pendant l'accel) si vous avez beaucoup d'accel. Il y a risque que ça arrive souvent si elle court en _late sur distance mile_ (beaucoup de sources d'accel aléatoires). Dans les courses où le late-race commence notablement **avant** le final corner (donc les medium de 2200m et 2400m, assez souvent), vous aurez parfois un **high roll** avec excellent timing : son skill unique pourra peut-être s'activer de manière à ce que l'effet soit actif **pendant que Digitan s'écarte sur une autre voie** (spread en final corner), ce qui lui fera bénéficier d'un speed boost supplémentaire (= déplacement latéral pendant l'effet d'un skill de navigation). En complément des potentielles sources d'accélération, ça lui fait parfois **zoomies**. On se souvient sur la JP des courses qui paraissent gagnées, et soudain "random Agnes Digital qui apparaît de nulle part".
+    > Ce n'est pas un mauvais skill à obtenir par inspiration, pour les courses où le high roll est possible (généralement, distance 2200m et plus), mais pas nécessairement prioritaire.
+* Le perso est assez fun, c'est vraiment un gremlin.
+
+#### PULL OU PAS ?
+
+**Envisagez le sérieusement**, selon vos cibles de bannière uma à venir.
+
+Digitan est génériquement compétente. C'est une très bonne addition à votre Team Trials dirt, et de manière générale un bon asset à avoir pour les CM turf-mile, turf-med, dirt-mile, dirt-med. À plus forte raison car son aptitude à courir selon n'importe quelle stratégie (sauf Front) lui permet de **s'adapter à la méta de chaque CM**, et tirer parti des atouts des différentes stratégies. Sa grande flexibilité rappelle **Oguri Cap**, mais Digitan est génériquement plus compétente qu'elle. Il n'existe pas vraiment de course sur laquelle Digitan peut courir, et sur laquelle elle n'est pas au moins génériquement bonne.
+
+:::
