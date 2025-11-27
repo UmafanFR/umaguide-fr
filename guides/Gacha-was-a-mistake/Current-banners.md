@@ -1,5 +1,5 @@
 ---
-title: Gacha review - Agnes Digital ★★★ // Ikuno Dictus guts SSR & Fine Motion power SR
+title: Gacha review - Rice Shower (alt) & Super Creek (alt) ★★★ // Tamamo Cross power SSR & Zenno Rob Roy speed SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/021_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/022_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -98,90 +98,34 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : ~~La creatura (affectionate)~~ Agnes Digital ★★★
+### Bannière Umamusume : Rice Shower (alt) & Super Creek (alt) ★★★
 
-![Image de présentation de la bannière Agnes Digital ](/public/assets/Gacha-reviews/2025/021_Uma-Banner.png)
-
-_Agnes Digital est une Late Surger (1 white) génériquement compétente, et qui se distingue un peu en dirt. Ses aptitudes lui permettent aussi de courir en tant que Pace Chaser ou End Closer, et elle est tout à fait capable dans ces stratégies là. Elle possède le très bon skill gold **Superstan**, et son skill unique a parfois des chances de "high roll" si le timing est immaculé (dépend de la course)._
-
-* Agnes Digital a... **presque tous les bonus**. C'est inhabituel, mais ce n'est pas une mauvais chose. 8% :speed: 8% :stamina: 7% :power: et 7% :wit:. Elle a le très bon goût de ne pas avoir de guts bonus, mais en même temps cette répartition est un peu déroutante ; de si faibles bonus ont peu d'effet sur des entrainements de grande qualité, mais boostent relativement bien le gain de stats, en début de carrière (107% de 10 c'est arrondi à  11, et 107% de 20 c'est... arrondi à **21**). Les bonus sont sur toutes les stats pertinentes, et presque 10% sur les deux plus importantes : speed et power. Ça devrait contribuer à la croissance de ses stats, mais on aurait quand même préféré autre chose. 
-* Digitan est apte à courir en distances mile et medium, en tant que Pace Chaser, Late Surger ou End Closer (requiert 1⭐ en inspiration), et surtout en **dirt**. Elle est naturellement _aussi capable en turf qu'en dirt_, ce qui la rend **particulièrement flexible**, pour le TT comme le CM. Cette flexibilité n'est au détriment de rien, car elle est à peu près aussi bonne en Pace, qu'en Late, et qu'en End. Son skill unique marche aussi exactement de la même manière sur toutes les distances (ce qui est plutôt rare pour les uniques qui requièrent des dépassements). Mais elle perd un skill gold aléatoire en turf cependant.
-* Sa sélection de skill gold est bonne : 
-    * **Superstan** est la version gold du très bon Umastan ; c'est un skill de vitesse s'activant quand il y'a 3 uma ou plus à proximité. Le skill s'active très bien (depuis le 11 novembre), et généralement en early-race. C'est très favorable pour prendre position, en particulier si elle court en tant que Pace. Ce sera génériquement très bien aussi en Late ou en End.
-    > Le skill Umastan est encore plutôt rare, donc c'est aussi l'occasion de l'avoir en spark.
-    * **Lead the Charge!** est la version gold de "Forward, March!", un skill dirt hybride de navigation + accélération, s'activant aléatoirement en late-race. Le timing aléatoire le rend peu fiable, mais il a deux "bonnes" fenêtres d'activation : la première est immédiatement au lancement du late-race, pour bénéficier de l'accel, et la deuxième est pendant le final corner, pour que Digitant bénéficie du speed boost pendant qu'elle se _spread out_ sur le final corner. Ca reste très aléatoire. Il s'active sans souci en TT.
-* Son skill unique ~~a une description incroyable 💯~~ est un boost de vitesse, après qu'elle ait dépassé 2 uma en late-race. C'est un skill assez fiable, mais qui peut avoir tendance à s'activer un peu tôt (pendant l'accel) si vous avez beaucoup d'accel. Il y a risque que ça arrive souvent si elle court en _late sur distance mile_ (beaucoup de sources d'accel aléatoires). Dans les courses où le late-race commence notablement **avant** le final corner (donc les medium de 2200m et 2400m, assez souvent), vous aurez parfois un **high roll** avec excellent timing : son skill unique pourra peut-être s'activer de manière à ce que l'effet soit actif **pendant que Digitan s'écarte sur une autre voie** (spread en final corner), ce qui lui fera bénéficier d'un speed boost supplémentaire (= déplacement latéral pendant l'effet d'un skill de navigation). En complément des potentielles sources d'accélération, ça lui fait parfois **zoomies**. On se souvient sur la JP des courses qui paraissent gagnées, et soudain "random Agnes Digital qui apparaît de nulle part".
-    > Ce n'est pas un mauvais skill à obtenir par inspiration, pour les courses où le high roll est possible (généralement, distance 2200m et plus), mais pas nécessairement prioritaire.
-* Le perso est assez fun, c'est vraiment un gremlin.
-
-
-#### PULL OU PAS ?
-
-**Envisagez le sérieusement**, selon vos cibles de bannière uma à venir.
-
-Digitan est génériquement compétente. C'est une très bonne addition à votre Team Trials dirt, et de manière générale un bon asset à avoir pour les CM turf-mile, turf-med, dirt-mile, dirt-med. À plus forte raison car son aptitude à courir selon n'importe quelle stratégie (sauf Front) lui permet de **s'adapter à la méta de chaque CM**, et tirer parti des atouts des différentes stratégies. Sa grande flexibilité rappelle **Oguri Cap**, mais Digitan est génériquement plus compétente qu'elle. Il n'existe pas vraiment de course sur laquelle Digitan peut courir, et sur laquelle elle n'est pas au moins génériquement bonne.
-
-
----
-
-### Bannière support : Ikuno Dictus guts SSR & Fine Motion power SR
-
-![Image de présentation de la bannière Ikuno Dictus guts SSR & Fine Motion power SR](/public/assets/Gacha-reviews/2025/021_Card-Banner.png)
-
-⏩ **Ikuno Dictus** :guts: :ssr:
-* La carte est assez **frontloaded** : dès 1LB elle a déjà son 1 guts bonus, et 10 training bonus. Elle débloque Initial Friendship Gauge à 3LB.
-* Ikudis guts est une carte guts moyenne, qui a des bonus un peu batards. Avec 10 training bonus et 10 race bonus dés 0LB, on penserai que ce serai une carte taillée pour le cross training. Mais elle a aussi un guts bonus, qui suggère qu'il faut qu'elle tombe en guts (ou stam). Là où c'est embêtant, c'est qu'avec 35 spec prio à MLB (20 à 0LB), elle ne semble pas très motivée à aller en guts anyways. De plus, une bonne carte guts qui va souvent en guts, on lui préfère largement speed bonus ou power bonus, et elle n'a aucun des deux. Donc elle a un peu le cul entre 2 chaises.
-* Son 15 race bonus (MLB) sera désirable sur le scénario Make a New Track, mais d'autres bonnes cartes guts seront préférables à la place de celle-ci.
-* Sa sélection de hints ❗ est absolument garbage. Les versions white des recovery Iron Will (bad) et Unruffled (un peu moins naze mais pas ouf quand même hein), 2 skills de vision, et un debuff de HP white. 
-* Le skill gold obtenu est **The Bigger Picture**, la version gold de Studious. C'est un skill de vision late mid-race. Poubelle. 
-* Son premier chain event ajoute +4 énergie maximum, et son 2e peut mettre fin à la chaîne en restaurant +20 énergie ; c'est l'option du bas, et c'est ce que je vous recommande (au lieu de prendre le skill gold).
-* **Inutile de préciser que Haru Urara guts est une bien meilleure carte guts SSR**, mais je le dit quand même.
-
-⏩ **Fine Motion** :power: :sr:
-* La carte est relativement backloaded : son principal atout est le skill point bonus, qu'elle obtient à MLB.
-* Non sérieux, il n'y a rien à dire sur cette carte, elle est très quelconque. Elle a 10 training bonus et 1 skill point bonus une fois MLB, et c'est tout ce qu'il y a d'intéressant à en dire. C'est sympa niveau cross-training, mais on a vu mieux.
-* Sa sélection de hints ❗ est bonne, et identique à Fine Motion wits SSR. 3 greens de vitesse, Nimble Navigator et Straightaway Accel (bad).
-
-#### PULL OU PAS ?
-
-_**Easy skip**_.
-
-Ikuno Dictus guts SSR et Finemo power SSR sont toutes les deux franchement pas terrible.
-
----
-
-# Bannières à suivre - (25 novembre 23h)
-
-Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un peu plus clair, et faire des choix plus pertinents pour vos pulls.
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/022_Banners_early_preview.jpg)
-
-### Bannière Umamusume : Rice Shower alt ★★★ et Super Creek alt ★★★
+![Image de présentation de la bannière Rice Shower (alt) & Super Creek (alt) ](/public/assets/Gacha-reviews/2025/022_Uma-Banner.png)
 
 ⏩ **<u>Rice Shower -Halloween- alt</u>**
 
-_Rice Shower "Halloween" est une Pace Chaser génériquement moyenne, mais facile à build pour les distances medium et long grâce à ses recovery naturelles. Elle n'est pas spécialement forte sur ces distances. Rice alt est parfois considérée comme une debuffeuse, mais son skill unique a un impact, et son skill gold est très peu fiable. En bien des aspects, Rice Shower alt ressemble à Agnes Tachyon, mais cette dernière la surpasse en tous points._
+_Rice Shower "Halloween" est une Pace Chaser génériquement moyenne, mais facile à build pour les distances medium et long grâce à ses recovery naturelles. Elle n'est pas spécialement forte sur ces distances. Rice alt est parfois considérée comme une debuffeuse, mais son skill unique a un impact marginal, et son debuff gold est très peu fiable. En bien des aspects, Rice Shower alt ressemble à Agnes Tachyon, mais pour le moment, cette dernière la surpasse en tous points._
 
-* Rice Shower alt a 15% stamina bonus :stamina: et 15% power bonus :power:. Ce sont 2 vrais bons bonus, ce qui fait plaisir à voir après les tristes bonus de la Rice Shower originelle. Ces bonus là contribueront très bien à la croissance de ses stats, le besoin en legacy power sera notablement réduit, sans pour autant sacrifier le gain de stamina ; important pour une uma pensée pour les distances med et long.
+* Rice Shower alt a 15% stamina bonus :stamina: et 15% power bonus :power:. Ce sont 2 vrais bons bonus, ce qui fait plaisir à voir après les tristes bonus de la Rice Shower originelle. Ces bonus là contribueront très bien à la croissance de ses stats, et le besoin en legacy power sera notablement réduit, sans pour autant sacrifier le gain de stamina ; important pour une uma pensée pour les distances med et long.
 * Comme la plupart des alts, Rice alt a les mêmes aptitudes que la version d'origine. Elle est donc parfaitement apte à courir en tant que Pace Chaser, sur distance med et long. En plus de ça, avec un peu d'inspiration elle peut courir en tant que Front Runner (1*, et seulement si elle n'est pas la seule Front, autrement elle perd son unique) ou Late Surger (4*, elle perd une gold recovery), et sur les distance mile (4*) et short (10*). Elle a donc une certaine flexibilité, mais son kit la pousse fortement vers les distances med et long
 * Sa sélection de skill gold est moyenne : 
     * **Calm and Collected** est la version gold de Stamina to Spare. C'est une gold recovery Pace Chaser, d'autant plus fiable que la distance est longue. Elle s'active aléatoirement sur la 2e moitié du early-race, si elle est top50%. Le skill ne devrait pas avoir le moindre souci à s'activer, mais peut être partiellement gâché sur les courses les plus courtes (car la 2e moitié du early-race arrive plus vite). Sur les courses med et long, aucun problème la grande majorité du temps.
-    * **Tantalizing Trick** est la version gold de Trick (Front). C'est un debuff de HP gold qui s'active en mid-race et cible une ou plusieurs uma en rush derrière Rice, si elle est top50%. La condition d'activation n'est pas très bonne (le rush est aléatoire, et devient de plus en plus rare à mesure que le jeu évolue), le skill ciblera rarissimement plus d'une uma (le rush doit se produire en même temps), et cette uma ne sera pas forcément mise KO par le skill (puissance d'un debuff gold normal). Ce n'est donc pas du tout un debuff de HP fiable ou efficace, comme ceux de Nice Nature.
+    * **Tantalizing Trick** est la version gold de Trick "(Front)". C'est un debuff de HP gold qui s'active en mid-race et cible une ou plusieurs uma en rush derrière Rice, si elle est top50%. La condition d'activation n'est pas très bonne (le rush est aléatoire, et devient de plus en plus rare à mesure que le jeu évolue), le skill ciblera rarissimement plus d'une uma (le rush doit se produire en même temps), et cette uma ne sera pas forcément mise KO par le skill (puissance d'un debuff gold normal). Ce n'est donc pas du tout un debuff de HP fiable ou efficace, comme ceux de Nice Nature.
         > Plus tard, la version pink (évoluée) du skill incluera un gros speed boost, ce qui rendra le skill désirable en Team Trials, ou en CM (requiert un high roll).
-* Son skill unique est une gold recovery qui s'active dans la 2e moitié du mid-race, si elle est top50% mais pas 1e, et qu'elle a une cible de dépassement. Le skill debuff aussi toutes les uma devant elle, à hauteur de 0,5%, soit un **demi debuff white**. L'activation est plutôt fiable, et le skill sera changé plus tard pour être encore plus fiable. Encore plus tard, le skill sera buff, et incluera un speed boost.
-* Rice alt est très similaire à Agnes Tachyon ; elles ont toutes les deux un debuff gold, une gold recovery, et unique qui fait gold recovery supplémentaire. Cependant, le debuff de Tachyon est un debuff de speed, qui accomplis toujours quelque chose et touche beaucoup de uma, alors que le debuff de Rice ne touche qu'une uma (quand même il s'active) et la cible n'est pas toujours pertinente. De plus, le skills unique de Tachyon a été buff le [11 novembre 2025](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#skills), et inclus un speed boost. Rice alt recevra ce même buff, mais plus tard.
+* Son skill unique est une gold recovery qui s'active dans la 2e moitié du mid-race, si elle est top50% mais pas 1e, et qu'elle a une cible de dépassement. Le skill infiligera un très léger debuff de HP sur toutes les uma devant elle, à hauteur de 0,5%, soit un **demi debuff white**. L'activation est plutôt fiable, et le skill sera changé plus tard pour être encore plus fiable. Encore plus tard, le skill sera buff, et incluera un speed boost.
+* Rice alt est très similaire à Agnes Tachyon ; elles ont toutes les deux un debuff gold, une gold recovery, et unique qui fait gold recovery supplémentaire. Cependant, le debuff de Tachyon est un debuff de speed, qui accomplis toujours quelque chose et touche beaucoup de uma, alors que le debuff de Rice ne touche qu'une uma (si même il s'active) et la cible n'est pas toujours pertinente. De plus, le skill unique de Tachyon a été buff le [11 novembre 2025](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#skills), et inclus un speed boost. Rice alt recevra ce même buff, mais plus tard.
 * Elle a l'air de bien s'amuser, c'est tout ce qu'on veut pour elle 🌟
 
 ⏩ <u>**Super Creek -Halloween- alt**</u>
 
-_Super Creek "Halloween" est une Pace Chaser génériquement correcte, mais mal conçue et qui ne peut jamais exploiter son plein potentiel. Elle apte à courir en distances medium et long, sans être spécialement forte sur ces distances, mais elle dispose du puissant debuff de HP Mystifying Murmur, pour distance med. Elle peut donc être une debuffeuse. Le skill unique de Creek est la partie la plus terrible de son kit, car il est presque impossible d'exploiter son accel ; le skill est donc un unique de vitesse au rabais._
+_Super Creek "Halloween" est une Pace Chaser génériquement correcte, mais mal conçue et qui ne peut jamais exploiter son plein potentiel. Elle est apte à courir en distances medium et long, sans être spécialement forte sur ces distances, mais elle dispose du puissant debuff de HP Mystifying Murmur, pour distance med. Elle peut donc être une debuffeuse. Le skill unique de Creek est la partie la plus terrible de son kit, car il est presque impossible d'exploiter son accel ; le skill est donc un unique de vitesse au rabais._
 
 * Super Creek alt a 14% speed bonus :speed:, ainsi que 8% stamina et guts bonus :stamina: :guts:. Le guts bonus fait de la peine à voir, et aurait été largement préférable ailleurs. On appréciera par contre le speed bonus et le stamina bonus, qui seront commodes en carrière. Il aurait p't'être fallu les inverser et booster davantage la stamina, vu que Creek court en med et en long. C'est dommage.
 * Super Creek n'est apte que pour les distances medium et long (G short et mile), et par défaut en tant que Pace Chaser. Avec de l'inspiration elle peut courir en tant que Late Surger (1*) ou Front Runner (7*). Aucune de ces stratégies ne l'empêche d'utiliser son skill unique, ce qui est appréciable.
 * Sa sélection de skill golds est bonne mais un peu triste :
     * **Professor of Curvature**, réellement ? C'est pas un skill qu'on veut en awakening sur une uma, car on utilise systématiquement Kitasan Black, et on obtient ainsi systématiquement le skill en carrière. C'est dommage.
-    * **Mystifying Murmur** est la version gold de Murmur. Vous le connaissez bien, c'est un debuff de HP gold, ciblant toutes les uma devant Creek, pendant le mid-race sur une course medium. Le debuff en lui même est bon, il touche beaucoup de uma et s'active bien. Mais quelle idée de le mettre sur une Pace Chaser ; il y aura des tas de cas où le skill ne touchera qu'une ou deux uma, car Creek sera "trop bien" positionnée. C'est dommage (nique les debuffs de HP cela dit).
-* Son skill unique est un hybride accélération + vitesse... dont vous ne pourrez jamais presque jamais utiliser l'accel. Le skill s'active sur le final straight, si Creek est top 4, avec une uma à moins d'une longueur devant elle (il ne s'actvive donc pas si elle est 1e). Si vous avez très bien suivi, les courses où le late-race tombe proche du final straight... c'est les courses sprint et mile. Distances sur lesquelles Super Creek est notée **<u>G</u>**. Il est donc particulièrement difficile d'exploiter l'accel du skill unique de Creek alt ; son unique sera donc -la majorité du temps- un simple boost de 0.25 de 5 secondes de base, soit le même skill unique que Gold Ship en termes de puissance, mais moins bon en termes de durée. C'est dommage.
+    * **Mystifying Murmur** est la version gold de Murmur. Vous le connaissez bien, c'est un debuff de HP gold, ciblant toutes les uma devant Creek, pendant le mid-race sur une course medium. Le debuff en lui même est bon, il touche plusieurs uma et s'active relativement bien. Mais quelle idée de le mettre sur une Pace Chaser ; il y aura des tas de cas où le skill ne touchera qu'une ou deux uma, car Creek sera "trop bien" positionnée. C'est dommage (nique les debuffs de HP cela dit).
+* Son skill unique est un hybride accélération + vitesse... dont vous ne pourrez presque jamais utiliser l'accel. Le skill s'active sur le final straight, si Creek est top 4, avec une uma à moins d'une longueur devant elle (il ne s'actvive donc pas si elle est 1e). Si vous avez très bien suivi, les courses où le late-race tombe proche du final straight... c'est les courses **sprint et mile**. Distances sur lesquelles Super Creek est notée **<u>G</u>**. Il est donc particulièrement difficile d'exploiter l'accel du skill unique de Creek alt ; son unique sera donc -la majorité du temps- un simple boost de 0.25 de 5 secondes de base, soit le même skill unique que Gold Ship en termes de puissance, mais moins bon en termes de durée. C'est dommage.
 
 
 #### PULL OU PAS ?
@@ -194,20 +138,22 @@ Super Creek alt est vraiment un très bon exemple de comment mal concevoir une u
 
 ---
 
-### Bannière support : Zenno Rob Roy speed SSR & Tamamo Cross power SR
+### Bannière support : Tamamo Cross power SSR & Zenno Rob Roy speed SSR
+
+![Image de présentation de la bannière Tamamo Cross power SSR & Zenno Rob Roy speed SSR](/public/assets/Gacha-reviews/2025/022_Card-Banner.png)
 
 ⏩ **Zenno Rob Roy** :speed: :ssr:
 * La carte est assez **frontloaded** : dès 1LB elle a déjà son 1 speed bonus, et 10 training bonus. Elle débloque Hint Level et Frequency à 3LB. De 0LB à 3LB son friendship bonus ne bouge pas -ce qui est inhabituel-, et est amélioré seulement à MLB.
 * Rob Roy speed SSR est une carte speed avec un bon gain de stats. Ses rainbow sont corrects dés 1LB, et gagnent davantage en puissance à MLB. Grâce à son 10 training bonus, elle a une bonne contribution au cross training général ; on regrette un mood bonus un peu timide, mais il a le mérite d'être existant. À 1LB elle a 40 specialty priority, ce qui est correct pour une carte équilibrée entre solo speed et cross training.
 * Sa sélection de hints ❗ est inégale ; elle propose l'accel Nimble Navigator (cool), ainsi que les greens Pace chaser et Late Surger Savy, et Straightaway Adept. Le reste est un mélange de skills de navigation, mauvaise accel et skill de vision.
-* Le skill gold obtenu est Lie in Wait, la version gold de Be Still. C'est une gold recovery Late Surger qui s'active dans la 2e moitié du early-race. Dans les courses sprint et mile, il est possible que le skill s'active trop tôt et soit partiellement gâché, mais dans les courses med et long la recovery est **fiable**. C'est donc une bonne recovery, dans les courses où elle est pertinente.
+* Le skill gold obtenu est Lie in Wait, la version gold de Be Still. C'est une gold recovery Late Surger qui s'active dans la 2e moitié du early-race. Dans les courses sprint et mile, il est possible que le skill s'active trop tôt et soit partiellement gâché, mais dans les courses med et long la recovery est **fiable**. C'est donc une bonne recovery, dans les courses où elle est pertinente (med et long).
 * La carte est très notable pour un point spécifique : sur le **2e chain event**, vous pouvez **choisir** d'obtenir l'un des greens **Right Handed** ou **Left Handed**. C'est une flexibilité assez précieuse pour le CM, à la fois en legacy farm (plus facile d'obtenir le spark) ou en run de CM directe. 
 
 ⏩ **Tamamo Cross** :power: :ssr:
 * La carte est **frontloaded** : dés 1LB elle a déjà 32 friendship bonus, 1 stamina bonus et plus de 50 specialty prio. À 3LB elle débloque initial power. 
 * Tamamo power SSR est aussi une bonne carte power avec un bon gain stats. Avec un spec prio relativement élevé (65 à MLB) et un bon friendship bonus, ses rainbows seront sa principale force. Ils viendront d'ailleurs assez vite, car la carte a 30 initial friendship gauge dés 0LB. Son stamina bonus permettra de contribuer à la croissance de stam, et le mood bonus est appréciable. Elle est -elle aussi- un peu timide en cross training cela dit, par manque de training bonus. Enfin, grâce à son 10 race bonus, elle pourra être utilisée pendant le scénario Make a New Track (mais sans nécessairement être *recommandée*).
 * Sa sélection de hints ❗ laisse perplexe ; ses seuls 2 bons skills sont les whites de speed Medium Corners et 1,500,000CC. Elle propose également des whites recovery medium, dont les gold ne sont pas encore sur des cartes support (ce qui ruine l'intérêt), des debuffs et un skill de navigation.
-* Son skill gold est le très chouette "15,000,000 CC", qui est la version gold de "1,500,000 CC". C'est un skill gold de vitesse Late Surger s'activant aléatoirement sur une côte aléatoire. Toutes les uma ralentissent pendant une côte, si vous avez ce skill gold vous serez moins impacté, et pourrez généralement gagner un peu de terrain sur vos adversaires. Sur les courses où le final straight est en partie en côte, ça permet des dépassements de dernière minute contre les frontlines. Dans certaines courses, le skill a une chance de carry-over. C'est du cas par cas.
+* Son skill gold est le très chouette "15,000,000 CC", qui est la version gold de "1,500,000 CC". C'est un skill gold de vitesse Late Surger s'activant aléatoirement sur une côte aléatoire. Toutes les uma ralentissent pendant une côte, si vous avez ce skill gold vous serez moins impacté, et pourrez généralement gagner un peu de terrain sur vos adversaires. Sur les courses où le final straight est en partie en côte, ça permet des dépassements de dernière minute contre les frontlines. Dans certaines courses, le skill a une chance de carry-over. C'est du cas par cas. Le skill s'active bien en med et en long, mais plusieurs courses sprint et mile n'ont aucune côte.
 
 
 #### PULL OU PAS ?
@@ -217,6 +163,61 @@ Super Creek alt est vraiment un très bon exemple de comment mal concevoir une u
 Elle n'est pas "*très bonne*", et c'est son principal défaut et la raison pour laquelle les pulls ne sont pas recommandés. Mais les 2 cartes sont de bonne facture, et un bon ajout dans une collection. Il y a d'autres bannières pertinentes (uma et support) à venir, donc ce n'est pas forcément judicieux de pull sur celle-ci. Cependant, c'est une assez bonne bannière si des débutants souhaitent faire des rerolls. 
 
 Notez cependant que la bannière rerun Kitasan Black est dans quelques semaines, et que c'est une bien meilleure bannière pour faire des rerolls.
+
+---
+
+# Bannières à suivre - (2 ou 3 décembre 23h)
+
+Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un peu plus clair, et faire des choix plus pertinents pour vos pulls.
+
+<!---
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/022_Banners_early_preview.jpg)
+-->
+
+### Bannière Umamusume : Kawakami Princess ★★★
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/023_Uma-Banner_JP.png)
+
+_Kawakami Princess est une Late Surger génériquement plutôt compétente, capable de courir sur distance medium. Avec de l'inspiration elle peut facilement courir en mile, en short ou en tant que Pace ou End. Elle possède l'accel gold No Stopping Me, qui marche bien en med et en long, ainsi que Rising Dragon, un skill de vitesse de final corner. Son skill unique est un boost de vitesse de final straight._
+
+* Kawakami a des bonus assez terribles ; 10% power bonus :power: et 20% guts :guts:. Le power bonus est appréciable, mais est fortement gâché par le guts bonus. D'une part car power n'augmente pas guts (donc pas de gain de guts en utilisant des cartes power), et d'autre part car le guts bonus est largement supérieur au power bonus. Pour jouer des cartes guts, on souhaite -au contraire- avoir peu/aucun guts bonus, et du speed + power bonus à la place, afin d'avoir un bon gain de speed et power en cliquant sur guts. Là, avec 20% guts bonus, vous allez atteindre le max de guts très très vite, et speed et power auront du mal à monter. C'est terrible comme bonus.
+* Ses aptitudes sont assez claires ; par défaut elle est apte à courir en tant que Late sur distance med. Avec un peu d'inspiration elle peut courir en tant que Pace (4*) ou End (7*), sur distance Mile (1*) ou Sprint (4*). Aucun de ces changements d'aptitudes n'impacte l'activation de son skill unique.
+* Sa sélection de skill gold est bonne :
+    * **No Stopping Me** est la version gold de Nimble Navigator. C'est un skill hybride accélération + navigation late-race, s'activant si une uma est "devant" pendant 1 seconde. Depuis le [11 novembre 2025](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#skills), le skill s'active bien en med et en long, et est donc une bonne source d'accel sur ces distances là. En Sprint et en Mile, la fiabilité s'écroule en revanche.
+    * **Rising Dragon** est la version gold de Outer Swell. C'est un skill de vitesse final corner. L'activation est plutôt fiable, et sur les distances sprint et mile, le skill a parfois une chance de carry over. Ironiquement, en distance medium le skill s'activera souvent pendant la phase d'accélération, ce qui le gâchera en partie (ce n'est pas hyper grave car il dure -de base- 3s).
+* Son skill unique est un boost de vitesse sur le final straight, si Kawakami est contestée latéralement pendant 2 secondes. L'activation est moyennement fiable, et risque de ne pas s'activer si Kawakami est isolée ou si elle dépasse/se fait dépasser trop vite. En mile et en sprint, le skill a une chance de s'activer en pleine accel, et ainsi être partiellement gâché.
+
+#### PULL OU PAS ?
+
+**Si vous l'aimez**. Elle n'a rien de bien notable, ni positivement ni négativement. Dans les futurs scénarios ce sera "bénéfique" d'avoir No Stopping Me directement, étant donné que Unity Cup ne sera plus là pour nous le donner. C'est tout.
+
+---
+
+### Bannière support : Seiun Sky stamina SSR & Yaeno Muteki power SSR (rerun)
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/023_Card-Banner_JP.png)
+
+⏩ **Seiun Sky** :stamina: :ssr:
+
+* La carte est **frontloaded** : à 1LB elle a déjà 73 spec prio (!), 1 stam bonus, 27 friendship bonus et du mood bonus. Elle gagne Hint Levels et Frequency à 3LB.
+* Seiun Sky stam SSR est une bonne carte stam pour monter stam. Elle fait des rainbow souvent et de bonne qualité, et ce, dés 1LB (utilisable à 0LB aussi). Elle contribuera un peu aux autres stats aussi, grâce à un mood bonus notable.
+* Sa sélection de hints ❗ est inégale : 3 debuffs, 2 whites non fiables, et le très bon Tail Held High.
+* Le skill gold obtenu est **Escape Artist**, la version gold de "Fast-Paced". C'est un excellent skill de vitesse mid-race Front (3s de base !), qui s'active très bien. Il suffit simplement d'être top50% en mid-race, c'est on ne peut plus fiable. Attention, la carte peut vous donner la version white à la place ("agemasen").
+* Vous pouvez interrompre son chain event dés le 1e event, en sélectionnant l'option du bas. Un de ses events aléatoires vous rend 10 énergie.
+
+⏩ **Yaeno Muteki** :power: :ssr:
+
+* On ne peut pas vraiment juger la carte comme étant frontloaded ou backloaded, car le gain de stat est faible dans tous les cas. 
+* L'intérêt de la carte n'est pas vraiment de vous donner des stats, mais de vous donner des skills. On apprécie cependant son 10 training bonus et son mood bonus qui aident au gain de stats quand elle tombe ailleurs qu'en power.
+* **Sa sélection de hints ❗ est particulièrement bonne**, avec 3 skills universels -dont le très bon Tail Held High-, ainsi qu'un skill med et un skill Pace. Grâce à son 60 Hint Frequency et son 4 Hint Level bonus, elle vous donnera ses skills souvent, et **directement au level 5** (max hint) si MLB.
+* Le skill gold obtenu est **It's On**, la version gold de Ramp Up. C'est un bon skill de vitesse mid-race, qui a une rare chance de s'activer 2 fois sur une même course. Le skill s'active sur un dépassement en mid-race, et utile pour tout le monde (un peu moins pour les Front).
+* Son chain event peut être interrompu au 2e event, en sélectionnant l'option du bas : ce faisant, vous obtenez à la place l'excellent skill de vitesse **Playtime's Over**. C'est certainement le meilleur skill white de vitesse non unique actuellement.
+
+#### PULL OU PAS ?
+
+**NON**. Yaeno Muteki vous allez vouloir l'emprunter MLB pour votre legacy farm, mais quasiment jamais pour vos runs sérieuses. Seiun Sky est une bonne carte mais elle ne vieillis pas hyper bien, et de toutes et vu comme elle est frontloaded, ce n'est pas worth it de dépenser beaucoup de carats pour elle. Réjouissez vous quand vous l'obtiendrez aléatoirement en faisant des pulls sur une autre bannière.
+
+Commme la bannière Kitsan rerun (ou autre) par exemple :currenDevilish:
 
 ---
 
