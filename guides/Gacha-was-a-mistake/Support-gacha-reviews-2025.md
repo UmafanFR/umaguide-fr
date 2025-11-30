@@ -552,3 +552,33 @@ _**Easy skip**_.
 Ikuno Dictus guts SSR et Finemo power SR sont toutes les deux franchement pas terrible.
 
 :::
+
+## #22 - Seiun Sky stamina SSR & Yaeno Muteki power SSR (rerun)
+
+![Image de présentation de la bannière Tamamo Cross power SSR & Zenno Rob Roy speed SSR](/public/assets/Gacha-reviews/2025/023_Card-Banner_JP.png)
+
+::: details REVIEW
+
+⏩ **Seiun Sky** :stamina: :ssr:
+
+* La carte est **frontloaded** : à 1LB elle a déjà 73 spec prio (!), 1 stam bonus, 27 friendship bonus et du mood bonus. Elle gagne Hint Levels et Frequency à 3LB.
+* Seiun Sky stam SSR est une bonne carte stam pour monter stam. Elle fait des rainbow souvent et de bonne qualité, et ce, dés 1LB (utilisable à 0LB aussi). Elle contribuera un peu aux autres stats aussi, grâce à un mood bonus notable.
+* Sa sélection de hints ❗ est inégale : 3 debuffs, 2 whites non fiables, et le très bon Tail Held High.
+* Le skill gold obtenu est **Escape Artist**, la version gold de "Fast-Paced". C'est un excellent skill de vitesse mid-race Front (3s de base !), qui s'active très bien. Il suffit simplement d'être top50% en mid-race, c'est on ne peut plus fiable. Attention, la carte peut vous donner la version white à la place ("agemasen").
+* Vous pouvez interrompre son chain event dés le 1e event, en sélectionnant l'option du bas. Un de ses events aléatoires vous rend 10 énergie.
+
+⏩ **Yaeno Muteki** :power: :ssr:
+
+* On ne peut pas vraiment juger la carte comme étant frontloaded ou backloaded, car le gain de stat est faible dans tous les cas. 
+* L'intérêt de la carte n'est pas vraiment de vous donner des stats, mais de vous donner des skills. On apprécie cependant son 10 training bonus et son mood bonus qui aident au gain de stats quand elle tombe ailleurs qu'en power.
+* **Sa sélection de hints ❗ est particulièrement bonne**, avec 3 skills universels -dont le très bon Tail Held High-, ainsi qu'un skill med et un skill Pace. Grâce à son 60 Hint Frequency et son 4 Hint Level bonus, elle vous donnera ses skills souvent, et **directement au level 5** (max hint) si MLB.
+* Le skill gold obtenu est **It's On**, la version gold de Ramp Up. C'est un bon skill de vitesse mid-race, qui a une rare chance de s'activer 2 fois sur une même course. Le skill s'active sur un dépassement en mid-race, et utile pour tout le monde (un peu moins pour les Front).
+* Son chain event peut être interrompu au 2e event, en sélectionnant l'option du bas : ce faisant, vous obtenez à la place l'excellent skill de vitesse **Playtime's Over**. C'est certainement le meilleur skill white de vitesse non unique actuellement.
+
+#### PULL OU PAS ?
+
+**NON**. Yaeno Muteki vous allez vouloir l'emprunter MLB pour votre legacy farm, mais quasiment jamais pour vos runs sérieuses. Seiun Sky est une bonne carte mais elle ne vieillis pas hyper bien, et de toutes et vu comme elle est frontloaded, ce n'est pas worth it de dépenser beaucoup de carats pour elle. Réjouissez vous quand vous l'obtiendrez aléatoirement en faisant des pulls sur une autre bannière.
+
+Commme la bannière Kitsan rerun (ou autre) par exemple :currenDevilish:
+
+::: 
