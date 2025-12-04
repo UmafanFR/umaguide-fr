@@ -27,7 +27,7 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ Champion's Meeting Libra Cup - 11 Déc 2025 - Kyoto 3000m turf (Kikuka Sho) - (Recommandations à venir)
+⏩ [Champion's Meeting Libra Cup](cm-libra-cup-2025.md) - 11 décembre 2025 - Kyoto 3000m turf (Kikuka Sho)
 
 > À suivre : Champion's Meeting Scorpio Cup - 31 décembre - Tokyo 2000m turf (Tenno Sho Aki)
 > *(recommandations à venir)*
