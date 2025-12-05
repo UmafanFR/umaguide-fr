@@ -3,7 +3,7 @@ title: Champion's Meeting - Leo Cup 3 Novembre 2025 - Takarazuka Kinen
 menuTitle: Leo cup - 03/11/25
 outline: [2, 3]
 description: Recommandations (abrégées) pour le Champion's Meeting - Leo Cup ;  Takarazuka Kinen 2200, sens horaire, été, firm, sunny
-order: 1
+order: 4
 ---
 
 # Préparation au Champion's Meeting #04 du 3 novembre 2025 - Takarazuka Kinen (Hanshin 2200m)
