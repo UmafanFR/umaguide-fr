@@ -91,7 +91,7 @@ Pour connaître les modalités et récompenses d'Open League en Champion's Meeti
 
 Voici la plupart des liens utiles ou pertinents pour creuser un peu ce Champion's Meeting.
 
-::: tip Je pense pas que grand monde les consultes anyways :currenDevilish:
+::: details Je pense pas que grand monde les consultes anyways :currenDevilish:
 
 - 🇬🇧 [Annonce officielle](https://x.com/umamusume_eng/status/1995311950658781602) du Champion's Meeting.
 
@@ -138,27 +138,27 @@ Sinon, en 2 mots, pour augmenter vos chances de succès, il vous faut :
 
 - **L'aptitude S long**. Sur une course de cette longueur, avoir S long vous fera gagner en moyenne environ **2 longueurs** (selon votre stratégie), donc c'est vraiment un atout majeur.
 
-- Quelque chose comme **1300 stamina effective** au _minimum_, mais **visez davantage**. Visez 1400 ou 1500 en prenant une gold recovery de secours.
+- Quelque chose comme 1300 stamina effective au _minimum_ (d'après certains guides 🤔), mais **visez davantage**. Vraiment hein, **visez 1400 ou 1500** en prenant une gold recovery de secours.
 
 - Si vous prévoyez de faire une Front, envisagez de prendre de la marge niveau recovery, pour prendre en compte l'éventualité du **Spot Struggle** (malgré le fait que les Front devraient être assez rares). Pour rappel, cette mécanique augmente notablement la consommation de HP en début de course pour les Front impliquées.
 
-- Vous pouvez utiliser les uniques de Grass Wonder alt et Super Creek comme recovery additionnelle, pour respectivement les backlines (Grass alt) ou les Pace (Creek).
+- Vous pouvez utiliser les **skills uniques de Grass Wonder alt et Super Creek** comme recovery additionnelle, pour respectivement les backlines (Grass alt) ou les Pace (Creek). En version white, ces recovery rendent **3,5% de HP**, soit plus du double d'une white recovery classique. C'est donc un peu des "super-white" si on veut.
 
 - Accels uniques :
-    - **Angling and Scheming** (Seiun Sky) pour les **Front**. L'activation sera toujours retardée
-    - **Let's Pump Some Iron** (Mejiro Ryan) pour les backline. L'activation sera toujours retardée
+    - **Angling and Scheming** (Seiun Sky) pour les **Front** ET les **Pace**. L'activation sera toujours retardée
+    - **Let's Pump Some Iron** (Mejiro Ryan) pour les backline, mais le skill est de faible priorité. L'activation sera toujours retardée.
 
 - Accels non uniques :
-    - **Front Runner** → L'accel gold d'early-race **Taking the Lead**, OU ALORS **Groundwork** ainsi que 3 skills "trigger" (il faut les 2 : groundwork ET les 3 trigger). **Focus / Concentration** peut être un trigger, et Concentration est utile au delà de ce rôle. Pas dit que vous ayez besoin de Taking the Lead ET Groundwork, car la course est longue, donc les skills durent longtemps.
+    - **Front Runner** → L'accel gold d'early-race **Taking the Lead**, OU ALORS **Groundwork** ainsi que 3 skills "trigger" (il faut les 2 : groundwork ET les 3 trigger). **Focus / Concentration** peut être un trigger, et Concentration est utile au delà de ce rôle. Pas dit que vous ayez besoin de Taking the Lead ET Groundwork, car la course est longue, donc les skills durent longtemps. De plus, on attend assez peu de Front, donc la bataille pour le lead ne devrait pas être sévère.
     - **End Closer** → Straightaway Spurt. Si vous jouez Narita Taishin, prenez le gold **Encroaching Shadow**. 
     - **Toutes les stratégies** (sauf Front) → L'accel late-race **No Stopping Me!**. La seule accel gold qui marche bien dans cette course (On Your Left (Late) s'activera rarement bien, car on est en long) et qui n'est pas exclusive à une uma.
-
+        - Les Front PEUVENT prendre No Stopping Me, si et seulement si vous faites **plusieurs Front**, ou si une de vos Front est une **Suzuka Runaway**. Dans ce cas c'est ok.
   
-- Si vous avez Silence Suzuka, vous pouvez la jouer sacrificial Runaway pour permettre à votre Front ace d'activer No Stopping Me!, et augmenter ses chances de victoire. 
+- Si vous avez **Silence Suzuka**, vous pouvez la jouer **sacrificial Runaway** pour permettre à votre **Front ace d'activer No Stopping Me!**, et augmenter ses chances de victoire. 
 
 :::
 
-On s'attend à ce que les Front soient plutôt moyennes, voire médiocre. Il sera particulièrement difficile de build une Front compétente, car les pré
+On s'attend à ce que les Front soient plutôt moyennes, voire médiocre. Il sera particulièrement difficile de build une Front compétente, car les prérequis niveau stats et skills sont élevés.
 
 Bonne chance !
 
@@ -181,17 +181,18 @@ Pour rappel, les skills "**greens**" sont les skills qui ont un logo de couleur 
 | Course en journée |  |  |  |
 | Météo ensoleillé | Sunny Days (guts) | El Condor Pasa power SSR,  Mejiro Dober wits SR, et d'autres | Inutile, sauf pour activer Groundwork (Front Runner) |
 
+Enfin, pour savoir comment obtenir les greens "**<stratégie> Savy**", pensez à jeter un oeil à la [liste des skills sur gametora.com](https://gametora.com/umamusume/skills)
+
 ::: tip Courses facultatives
 
-Rappel que vous pouvez -aléatoirement- **obtenir des skills en récompenses de courses** gradées pendant une carrière ! Ce sont toujours des skills non universels, **liés à la course** d'une manière ou d'une autre, donc **vous pouvez parfois obtenir des greens**. Par exemple, en faisant une G3/G2/G1 sur l'hippodrome de **Kyoto**, vous avez une chance d'obtenir **Kyoto Racecourse**. 
+Pour rappel, vous pouvez -aléatoirement- **obtenir des skills en récompenses de courses** gradées pendant une carrière ! Ce sont toujours des skills non universels, **liés à la course** d'une manière ou d'une autre, donc **vous pouvez parfois obtenir des greens**. Par exemple, en faisant une G3/G2/G1 sur l'hippodrome de **Kyoto**, vous avez une chance d'obtenir **Kyoto Racecourse**. 
 
 :::
 
-Enfin, pour savoir comment obtenir les greens "**<stratégie> Savy**", pensez à jeter un oeil à la [liste des skills sur gametora.com](https://gametora.com/umamusume/skills)
 
 ### _Présentation visuelle de la course_
 
-N'hésitez pas à suivre le déroulement de la course en observant une des visualisations, pour **améliorer votre lecture et votre analyse des courses**. Vous n'avez pas besoin de lire tout ça pour vous préparer au CM, mais ça vous aidera à comprendre le jeu davantage.
+N'hésitez pas à suivre le déroulement de la course en observant une des visualisations (sur un autre écran ou une autre fenêtre), pour **améliorer votre lecture et votre analyse des courses**. Vous n'avez pas besoin de lire tout ça pour vous préparer au CM, mais ça vous aidera à comprendre le jeu davantage.
 
 ::: details Voici à quoi ressemble la course
 
@@ -199,7 +200,7 @@ N'hésitez pas à suivre le déroulement de la course en observant une des visua
 
 [![Visualisation de la course Kyoto 3000m, selon Gametora](/assets/Comp-PvP/CM06/CM06_Gametora_Race.png)](/assets/Comp-PvP/CM06/CM06_Gametora_Race.png)
 
-⏬ Visualisation de la course sur le [simulateur "Umalator" de Pecan.](https://alpha123.github.io/uma-tools/umalator-global/#H4sIAAAAAAAACtWOMW7DMAxF78JZg%2BzUae0tY5GlQMYig2DRrhBLFCQKRhDk7hXdFEV7g24k9fX%2Bu8FIJWV8tTA0utd7BSEbHxfMMHRaK8iI9a3dN13f7Z53vYKS8Y3yETHCwKmggmRGtDjBcANPJHEFc6IShKpgRcMfmLY5o8kUtgQ7j4%2BosSj9%2Bl7p3jQCosKTY%2FECqN%2FiptG0mxIb74L5XiOtAn%2BReS5cxZ9kXF225B9L5mQY52ulnTBcqFSmdRUURjxEdlzEAE5SVdJkfl0P8AP4e764ZamN7%2Bcv9fZfqt8%2FAfu3SvoHAgAA)
+⏬ Visualisation de la course sur le [simulateur "Umalator" de Pecan.](https://alpha123.github.io/uma-tools/umalator-global/#H4sIAAAAAAAACtWOu27DMAxF%2F4WzB8up28RbxiJLgYxFB8KiXSHWAyIFowjy7xXdFEX7B90uKercc4Uxlsz0bGEw7d60DQRGnxZiGPq2jkxU37pH0x%2F63dPu0EBheol8IkowSC7UQMaRLE0wXMHHqOcNzDmWoNQGVkJ5p7xlJuQYtgtxnu6naEn721ulezQKikUmJ%2BoFUL%2BlTcN0m5KgdwG%2FxxRXhe81z0Wq%2BIPG1bGN%2Fj6wZBSaPyrtTOESS2VaV0FhpGMSJ0UN4KxVJU%2F4a3uEH8Df9cUtS218fftS7%2F6l%2Bu0T8s72NQcCAAA%3D)
 
 [![Visualisation de la course Kyoto 3000m, selon le simulateur Umalator](/assets/Comp-PvP/CM06/CM06_Umalator_Race.png)](/assets/Comp-PvP/CM06/CM06_Umalator_Race.png)
 
@@ -208,14 +209,14 @@ N'hésitez pas à suivre le déroulement de la course en observant une des visua
 :::: details Juste avant de s'attaquer à la course, rappels de généralités
 
 - Le temps de réaction de votre uma en début de course est strictement **aléatoire**. Le seul moyen de le réduire c'est d'utiliser le skill **Concentration**. Ou Focus, mais en réduisant de seulement 10% votre temps de réaction, Focus n'accomplis vraiment pas grand chose.
-- Pour rappel, les **corners** d'un hippodrome sont **numérotés de manière fixe**. Ici, le **premier** corner parcouru par les uma est le **corner numéro 1**
+- Pour rappel, les **corners** d'un hippodrome sont **numérotés de manière fixe**. Ici, le **premier** corner parcouru par les uma est le **corner numéro 3**
 - Jusqu'à environ la moitié du mid-race (41.6% de la course exactement, soit 10/24e 🤓☝🏾), une mécanique appelée "**Position Keep**" est active. Pendant la durée de position keep, votre uma tente (avec plus ou moins de succès) de se repositionner en fonction de sa position par rapport à la uma "meneuse" (par défaut, une Front Runner s'il y'en a une), et les autres uma participant à la course.
 - Le "**carry over**" est une optimisation importante, consistant à activer un/plusieurs skill(s) de **vitesse**, avec un **timing** qui fait que le **boost de vitesse sera toujours actif au début du late-race**. Ça permet à votre uma d'entamer son accélération finale **en partant d'une vitesse plus élevée** que les autres. Elle gagne alors ***beaucoup d'avance***. Un skill gold ou unique qui carry over peut vous faire gagner une avance de l'ordre de **plusieurs longueurs** si le timing est bon. Voilà à quoi ça ressemble : sur cet exemple, chaque instant où la ligne bleue est au-dessus de la rouge, **la uma bleue court plus vite** que la uma rouge, et gagne donc du terrain.
     
 ![Image d'une simulation sur le "umalator", avec une uma sans carry over en rouge, et une uma avec carry over en bleu](/assets/Comp-PvP/CM_Umalator_CarryOver_v2.png)
 
 - Pendant une **descente**, votre uma a une chance -basée sur wits- de prendre de la **vitesse**, tout en **réduisant sa consommation de HP**.
-- Pendant une **côte** votre uma va **ralentir**, en fonction de son **power**. Plus son power est élevé, **moins elle ralentis**.
+- Pendant une **côte** votre uma va **ralentir**, en fonction de son **power**. Plus son power est élevé, **moins elle ralentis**. Ironiquement, ça réduit aussi sa consommation de HP, même si c'est un peu stupide.
 
 ::::
 
@@ -225,75 +226,77 @@ Enfilez vos chaussures, on va parcourir les principales étapes de la course, po
 
 ::: details Early-race : 0m - 500m
 
-La course commence sur la ligne droite opposée aux gradins, longue d'environ 260m, et est suivi par le 3e corner qui presque aussi long. Les 2/3 du early-race se passent en côte, qui arrive presque instantanément en sortie de stalle. Le dernier tiers du early-race est en descente. L'early-race prend fin quasiment en même temps que le 3e corner et la descente.
+La course commence sur la **ligne droite opposée aux gradins**, longue d'environ 260m, et est suivie par le **3e corner** qui presque aussi long. Les 2/3 du early-race se passent **en côte**, qui arrive presque **instantanément en sortie de stalle**. Le dernier tiers du early-race est en **descente**. L'early-race prend fin quasiment **en même temps que le 3e corner et la descente**.
 
-- Les skills de ligne droite s'activent sur ce tronçon, mais ont une chance de s'activer en pleine accélération.
-- Une carence en power sera handicapante pour prendre position en early-race, car l'entièreté de la phase d'acccel est en côte.
-- Vous pouvez utiliser l'accel white Highlander pour gagner du terrain et prendre position. Le timing est aléatoire, et la chance d'une bonne activation utile est d'autant plus faible que la stratégie est frontline. Pour les Front, la chance de bonne activation est moins de 10% (à supposer que votre Front a *au moins* une autre accel (white ou gold)), et environ 22% pour les Late et End.
-- Les Late peuvent utiliser 1,500,000 CC / 15,000,000 CC pour gagner du terrain ici. Le timing sera aléatoire (environ 50% chance), et il y a une chance que l'activation se fasse en pleine accélération. Le cas échéant, le skill sera partiellement gâché.
-- La gold recovery Front Restless s'activera toujours un peu trop tôt, et rendra toujours environ 4,5% de HP au lieu de 5,5%. C'est fixe car le point d'activation de la recovery est fixe sur cette course.
-- Si les gold recovery Breath of Fresh Air ou Cooldown s'activent en early-race, leur effet sera TOUJOURS en partie gâché. Dans le meilleur des cas, une activation en early-race vous restaurera environ 5% de HP (au lieu de 5,5%), mais c'est vraiment l'activation la plus tardive possible en early-race. En cas d'activation en early-race, vous aurez souvent moins que ça.
-- Les gold recovery Calm and Collected (Pace) et Lie in Wait (Late) seront fiables la vaste majorité du temps. Dans le pire des cas (activation la plus tôt possible) vous récupérerez environ 5% de HP (au lieu de 5,5% HP). La vaste majorité du temps vous aurez la totalité de la récupération (environ 93% chance d'avoir la totalité de la recovery).
-- Les skills de corner s'activent sur ce tronçon, et s'activeront rarement en fin d'accélération pour les backlines.
-- Le skill Corner Adept / Professor of Curvature peut s'activer une 2e fois en late-race si sa première activation est pendant le 3e corner.
+- Les skills de **ligne droite** s'activent sur ce tronçon, mais ont une chance de s'activer **en pleine accélération**. Le cas échéant, ils seront en partie gachés.
+- Une carence en **power** sera handicapante pour prendre position en early-race, car **l'entièreté de la phase d'acccel est en côte**.
+- Vous pouvez utiliser l'accel white **Highlander** pour gagner du terrain et prendre position. Le timing est aléatoire, et la chance d'une bonne activation utile est d'autant plus faible que la stratégie est frontline. Pour les Front, la chance de bonne activation est moins de 10% (à supposer que votre Front a *au moins* une autre accel (white ou gold)), et environ 22% pour les Late et End.
+- Les Late peuvent utiliser **1,500,000 CC / 15,000,000 CC** pour gagner du terrain pendant la côte (environ 50% chance). Le timing sera aléatoire, et il y a une chance que l'activation se fasse **en pleine accélération**. Le cas échéant, le skill sera partiellement gâché.
+- La gold recovery Front **Restless** s'activera toujours un peu _**trop tôt**_, et rendra toujours environ **4 ou 4,5% de HP** au lieu de 5,5%. C'est fixe car le point d'activation de la recovery est fixe sur cette course.
+- Si les gold recovery **Breath of Fresh Air** ou **Cooldown** s'activent en early-race, leur effet sera **TOUJOURS en partie gâché**. Dans le meilleur des cas, une activation en early-race vous restaurera environ 5% de HP (au lieu de 5,5%), mais c'est vraiment l'activation la plus tardive possible en early-race. En cas d'activation en early-race, vous aurez _souvent moins que ça_.
+- Les gold recovery **Calm and Collected** (Pace) et **Lie in Wait** (Late) seront fiables la vaste majorité du temps. Dans le pire des cas (activation la plus tôt possible) vous récupérerez environ 5% de HP (au lieu de 5,5% HP). La vaste majorité du temps vous aurez la totalité de la récupération (environ 93% chance d'avoir la totalité de la recovery).
+- Les skills de **corner** s'activent sur ce tronçon, et s'activeront rarement en fin d'accélération pour les backlines.
+- Le skill **Corner Adept / Professor of Curvature** peut s'activer **une 2e fois** en late-race si sa première activation est pendant le 3e corner.
+- La gold recovery **Go Home Specialist** s'activera toujours suffisamment tard pour restaurer la totalité des 5,5% de HP. Elle est donc fiable.
 
 :::
 
 ::: details Mid-race : 501m - 2000m
 
-Le mid-race commence presque en même temps que le 4e corner, sur du plat, et se poursuit sur la ligne droite côté gradin. Position Keep prend fin immédiatement en arrivant sur le 1e corner. Rien de particulier sur le 2e corner, suivit par -de nouveau- ligne droite opposée aux gradins. La côte arrive à la moitié de la ligne droite, et le mid-race prend fin aux 3/4 de la ligne droite, toujours pendant la côte.
+Le mid-race commence presque en même temps que le **4e corner**, sur du **plat**, et se poursuit sur la **ligne droite côté gradins**. Plus tard, **Position Keep** prendra fin immédiatement en arrivant sur le **1e corner**. Rien de particulier sur le 2e corner, suivit par -de nouveau- **ligne droite opposée aux gradins**. Comme en début de course, la **côte** arrive à la moitié de la ligne droite, et le **mid-race prend fin aux 3/4 de la ligne droite**, toujours pendant la **côte**.
 
-- Les skills de ligne droite s'activent sur ce tronçon. Le timing peut être pendant Position Keep, ou après Position Keep. En cas d'activation après Position Keep, il y a une chance de carry-over.
-- Le skill Straightaway Adept / Beeline Burst peut s'activer une 2e fois en late-race si la première activation est **au plus tard** dans la première moitié de la ligne droite côté gradins, avant 200m avant la fin de Position Keep. De même pour les skills Slipstream et Playtime's Over.
+- Les skills de **ligne droite** s'activent sur ce tronçon. Le timing peut être **pendant Position Keep**, ou **après Position Keep**. En cas d'activation après Position Keep, il y a une **chance de carry-over**.
+- Le skill **Straightaway Adept / Beeline Burst** peut s'activer **une 2e fois** en late-race si la première activation est **au plus tard** dans la première moitié de la ligne droite côté gradins, environ 200m avant la fin de Position Keep. De même pour les skills **Slipstream** et **Playtime's Over**.
     - Ramp Up / It's On! ne peut pas s'activer 2 fois sur cette course, le cooldown sera trop long.
-- Les skills de corner s'activent sur ce tronçon. Le timing peut être pendant Position Keep, ou après Position Keep.
-- La gold recovery Swinging Maestro s'activera toujours sur le 1e corner et sera bien entendu toujours parfaitement fiable et utile à 100%.
-- Le skill Corner Adept / Professor of Curvature peut s'activer une 2e fois en late-race si sa première activation est **au plus tard** pendant le 4e corner.
-- Le skill unique de Gold Ship s'activera la plupart du temps pendant le 3e corner, et il sera plus difficile pour elle d'effectuer des dépassements pendant le corner. Dans ce cas là, la moitié de l'effet de son skill sera pendant la ligne droite qui suit (opposée aux gradins).
-    - Si son skill unique s'active n'importe quand sur la ligne droite opposée aux gradins, il induira toujours un carry-over. Ce sera un grand atout pour elle.
-- Une carence en power sera handicapante à l'approche du late-race, et agira comme un carry-over inversé (= commencer le late-race en ayant une vitesse inférieure), car la fin du mid-race est en côte.
-- Les Late peuvent utiliser 1,500,000 CC / 15,000,000 CC pour gagner du terrain ici, et induire un carry-over sur l'arrivée du late-race. Le timing sera aléatoire, et si l'activation est bel est bien pendant le mid-race, il y a environ 50% chance que l'activation se fasse en pleine accélération, en début de late-race. Le cas échéant, le skill sera partiellement gâché.
-    - Pour clarifier, il y a environ 50% chance que le skill pop en early-race, et 50% en mid-race. Dans le cas où c'est en mid-race, la chance de carry over est environ 50% aussi. Donc c'est environ 25% chance de carry-over au total.
+- Les skills de **corner** s'activent sur ce tronçon. Le timing peut être **pendant Position Keep**, ou **après Position Keep**.
+- La gold recovery **Swinging Maestro** s'activera toujours sur le 1e corner et sera bien entendu toujours parfaitement fiable et utile à 100%.
+- Le skill **Corner Adept / Professor of Curvature** peut s'activer une **2e fois** en late-race si sa première activation est **au plus tard** pendant le 4e corner, en début de mid-race.
+- Le skill unique de **Gold Ship** s'activera la plupart du temps pendant le **2e corner**, et il sera plus difficile pour elle d'effectuer des dépassements pendant le corner. Dans ce cas là, la moitié de l'effet de son skill sera pendant la ligne droite qui suit (opposée aux gradins).
+    - Si son skill unique s'active n'importe quand sur la ligne droite opposée aux gradins, il induira toujours un **carry-over**. Ce sera un grand atout pour elle.
+- Une carence en **power** sera handicapante à l'approche du late-race, et agira comme un **carry-over inversé** (= commencer le late-race en ayant une vitesse inférieure), car la fin du mid-race est en côte.
+- Les Late peuvent utiliser **1,500,000 CC / 15,000,000 CC** pour gagner du terrain ici, et induire un **carry-over** sur l'arrivée du late-race. Le timing sera aléatoire, et si l'activation est bel est bien pendant le mid-race (environ 50% de chance), il y a environ 50% chance que l'activation se fasse **en pleine accélération**, en début de late-race. Le cas échéant, le skill sera partiellement gâché.
+    - Pour clarifier, il y a environ 50% chance que le skill pop **en early-race**, et 50% **en mid-race**. Dans le cas où c'est en mid-race, la chance de carry over est environ 50% aussi. Donc c'est **environ 25% chance de carry-over au total**.
 
 :::
 
 ::: details Late-race : 2001m - 3000m
 
-Le late-race commence sur les derniers 100m de la ligne droite opposée aux gradins, toujours en côte. Après quoi arrive le 3e corner, sur laquelle se termine la côte, avant de repartir en descente. La descente se termine presque en même temps que le 3e corner, et le final corner est sur du plat, tout comme le final straight, côté gradins.
+Le late-race commence sur les **derniers 100m de la ligne droite** opposée aux gradins, toujours en **côte**. Après quoi arrive le **3e corner**, sur laquelle se termine la côte, avant de repartir en **descente**. La descente se termine presque en même temps que le 3e corner, et le **final corner est sur du plat**, tout comme le **final straight**, côté gradins.
 
-- Les skills de ligne droite s'activent sur ce tronçon. Vous ne voulez pas que les skills de vitesse de ligne droite s'activent au début du late-race ; leur efficacité sera fortement/entièrement gâchée par la phase d'accel.
-    - Aucun problème pour les skills de vitesse sur le final straight.
-- L'accel white Highlander a environ 25% chance d'être bonne, et de s'activer peu avant/peu après le lancement du late-race.
-- L'accel End Straightaway Spurt / Encroaching Shadow aura toujours un timing parfait et instantané (à condition que votre uma ait les HP pour survivre à la course), et est donc d'importance essentielle.
-- L'accel Nimble Navigator / No Stopping Me a une solide chance de s'activer avec un bon timing (souvent un peu retardé). Ça reste aléatoire, mais le hasard vous aidera souvent à l'activer.
-- Les skills de corner s'activent sur ce tronçon. Vous ne voulez pas que les skills de vitesse de ligne droite s'activent au début du late-race ; leur efficacité sera fortement/entièrement gâchée par la phase d'accel.
-    - Si vous avez au moins un peu d'accel, vous devriez être à vitesse max avant la moitié du 3e corner, donc les skills de vitesse qui s'activent à ce moment là n'auront pas de problème.
+- Les skills de **ligne droite** s'activent sur ce tronçon. Vous ne voulez pas que les skills de vitesse de ligne droite s'activent au début du late-race ; leur efficacité sera fortement/entièrement gâchée par la **phase d'accel**.
+    - Aucun problème pour les skills de vitesse sur le **final straight**.
+- L'accel white **Highlander** a environ 25% chance d'être bonne, et de s'activer peu avant/peu après le lancement du late-race.
+- L'accel End **Straightaway Spurt / Encroaching Shadow** aura toujours un timing parfait et instantané (à condition que votre uma ait les HP pour survivre à la course), et est donc importante.
+- L'accel **Nimble Navigator / No Stopping Me** a une solide chance de s'activer avec un bon timing (souvent un peu retardé). Ça reste aléatoire, mais le hasard vous aidera souvent à l'activer. Sauf si votre uma est isolée.
+- Les skills de **corner** s'activent sur ce tronçon. Vous ne voulez pas que les skills de vitesse de corner s'activent au début du late-race ; le 3e corner étant toujours en accel, l'efficacité sera partiellement gâchée.
+    - Si vous avez au moins un peu d'accel, vous devriez être à **vitesse max avant la moitié du 3e corner**, donc les skills de vitesse qui s'activent à ce moment là n'auront pas de problème.
     - Aucun problème pour les skills de final corner.
-- Les skills unique Angling & Scheming et Let's Pump Some Iron! s'activeront toujours de manière retardée, environ 5 secondes après le lancement du late-race.
-- Les accel de final corner ne feront jamais rien, car à moins d'être en grande carence de power ET de n'avoir aucune autre accel, vous serez déjà en vitesse max une fois arrivé au final corner.
-    - Juste pour clarifier : forte carence en power + absence d'autre accel = défaite inévitable (sauf si vos 6 adversaires ont un problème éliminatoire similaire).
+- Les skills unique **Angling & Scheming** et **Let's Pump Some Iron!** s'activeront toujours de manière **retardée**, environ 5 secondes après le lancement du late-race.
+    - Pour Pump, c'est bien plus un souci que pour Angling. **Pump est de faible priorité sur ce CM**.
+- **Les accel de final corner ne feront <u>jamais rien</u>**, car à moins d'être en grande carence de power ET de n'avoir aucune autre accel, vous serez déjà en vitesse max une fois arrivé au final corner.
+    - Juste pour clarifier : forte carence en power + absence d'autre accel = **défaite inévitable** (sauf si vos 6 adversaires ont un problème éliminatoire similaire).
 
 :::
 
-La probabilité que les gold recovery Breath of Fresh Air et Cooldown s'activent à un moment où elle sont pleinement utiles (+5,5% HP récupérés) est de 59%. C'est la probabilité que l'activation soit après le early-race (la ligne droite early-race est trop courte) et avant le final straight (en cas d'activation sur la fin de la ligne droite au début du late-race, votre uma ne sera pas encore à vitesse max, et recalculara son last spurt en fonction de cette activation ; ça ne devrait pas beaucoup impacter l'accel). Toute activation en early-race sera partiellement gâchée (sauf si vous avez peu de stamina et beaucoup de gold recovery), et l'activation en final straight est au risque de tomber KO avant.
+La probabilité que les gold recovery **Breath of Fresh Air** et **Cooldown** s'activent à un moment où elles sont pleinement utiles (+5,5% HP récupérés) est de **60%**. C'est la probabilité que l'activation soit **après le early-race** (la ligne droite early-race est trop courte) et **avant le final straight** (en cas d'activation sur la fin de la ligne droite au début du late-race, votre uma ne sera pas encore à vitesse max, et recalculara son last spurt en fonction de cette activation ; ça ne devrait pas beaucoup impacter l'accel). Toute activation en early-race sera partiellement gâchée (sauf si vous avez peu de stamina et beaucoup de gold recovery), et l'activation en final straight est au risque de tomber KO avant.
 
 ### _Préparation au Champion's Meeting_
 
-⏩ Pour que ce guide soit le plus complet possible, j'ai fait une séance de divination avec Matikanefukukitaru, et son verdict est sans appel : c'est bien la RNG qui décide qui gagne et qui perd. 
+⏩ Pour que ce guide soit le plus complet possible, j'ai fait une séance de divination avec Matikanefukukitaru, et son verdict est sans appel : **c'est bien la RNG qui décide qui gagne et qui perd**. 
 
-⏩ S long. Le late-race fait 1km, vous allez être à pleine vitesse pendant plus de 700m, alors vous voulez vraiment que cette "pleine vitesse" soit élevée. La différence entre S long et A long c'est environ 2 longueurs.
+⏩ <u>**S long**</u>. Le late-race fait 1km, vous allez être à pleine vitesse pendant plus de 700m, alors vous voulez vraiment que cette "pleine vitesse" soit élevée. **La différence entre S long et A long c'est environ 2 longueurs.**
 
-⏩ Rappel de circonstances : Kikuka Sho est la 2e course G1 la plus longue du jeu. On revient sur une situation où l'abondance de HP sont une condition de victoire à la fois essentielle et difficile à satisfaire. La quantité de HP recommandée est un peu ambigue, et vous trouverez p't'être des recommandations différentes dans d'autres guides. Voici mes observations sur la stamina requise, en simulant sur le Umalator fork (Kachi-dev), avec 1200 :speed: 800 :power: 400 :guts: 400 :wit:, en ignorant le rush et les wit check d'activation (n'oubliez pas que plus vous avez de gold recoveries, plus vous êtes à risque de perdre la course sur un échec de wit check) :
+⏩ Rappel de circonstances : Kikuka Sho est la 2e course G1 la plus longue du jeu. On revient sur une situation où l'abondance de HP sont une condition de victoire à la fois **essentielle** et **difficile à satisfaire**. La quantité de HP recommandée est un peu ambigue, et vous trouverez p't'être des recommandations différentes dans d'autres guides. Voici mes observations sur la stamina requise, en simulant sur le [Umalator fork (Kachi-dev)](https://kachi-dev.github.io/uma-tools/umalator-global/), avec 1200 :speed: 800 :power: 400 :guts: 400 :wit:, en ignorant le rush et les wit check d'activation (n'oubliez pas que plus vous avez de gold recoveries, plus vous êtes à risque de perdre la course sur un échec de wit check) :
 
 ::: details Front Runner
 
 | Uma | Stamina | Recoveries (% de soin) | Survie ? | Note |
 | --- | --- | --- | --- | --- |
 | Front | 1200 | 1 gold (5,5%) | Oui, si pas d'autre Front (pas de Spot Struggle) |  |
-| Front | 1200 | 1 gold (5,5%) | Non, si autre Front (Spot Struggle) |  |
+| Front | 1200 | 1 gold (5,5%) | Non, si présence d'autre Front (Spot Struggle) |  |
 | Front | 1100 | 1 gold + Restless (10%) | Oui (en théorie) | Sur Umalator, la recovery ne pop pas for some ungoldy reason 🤔 |
 | Front | 1200 | 2 gold (11%) | Oui | Peu importe la présence d'une autre Front |
-| Front | 900 | 2 gold (11%) | Oui, si pas d'autre Front | Sous entendu, Maestro + Cooldown ou BoFA, car Resteless ne compte pas comme une gold recovery complète |
+| Front | 900 | 2 gold (11%) | Oui, si pas d'autre Front | Sous entendu, Maestro + **Cooldown** ou **BoFA**, car Resteless ne compte pas comme une gold recovery complète |
 
 :::
 
@@ -313,11 +316,10 @@ La probabilité que les gold recovery Breath of Fresh Air et Cooldown s'activent
 
 | Uma | Stamina | Recoveries (% soin) | Survie ? |
 | --- | --- | --- | --- |
-| Late | 1200 | 1 "super-white" (3,5%) | Oui |
-| Late | 1100 | 1 gold (5,5%) | Oui la plupart du temps |
-| Late | 1100 | 1 gold (5,5%) | Oui, la plupart du temps |
-| Late | 1100 | 1 gold + 1 "super-white" (9%) | Oui |
-| Grass Wonder alt (Late) | 1025 | Son unique (7,5%) | Oui |
+| Late | 1200 | 1 "super-white" (3,5%) | Souvent |
+| Late | 1140 | 1 gold (5,5%) | Oui, la plupart du temps |
+| Grass Wonder alt (Late) | 1050 | Son unique (7,5%) | Oui |
+| Late | 1000 | 1 gold + 1 "super-white" (9%) | Oui |
 | Late | 875 | 2 gold (11%) | Oui |
 
 :::
@@ -328,21 +330,21 @@ La probabilité que les gold recovery Breath of Fresh Air et Cooldown s'activent
 | --- | --- | --- | --- |
 | End | 1200 | 1 white + 1 "super-white" (5%) | Oui |
 | End | 1200 | 1 gold (5,5%) | Oui |
-| Grass Wonder alt (End) | 1050 | Son unique (7,5%) | Oui |
-| End | 975 | 1 gold + 1 "super-white" (9%) | Oui, la plupart du temps |
-| End | 900 | 2 gold (11%) | Oui |
+| Grass Wonder alt (End) | 1075 | Son unique (7,5%) | Oui |
+| End | 1015 | 1 gold + 1 "super-white" (9%) | Oui, la plupart du temps |
+| End | 925 | 2 gold (11%) | Oui |
 
 :::
 
-On y revient dans un instant, mais les recovery "super-white" sont les version white des uniques de Creek et Grass Wonder, qui rendent 3,5% de HP en version white (7,5% en version unique originelle), au lieu de 1,5% HP pour un white. C'est donc un bon usage de skill points. 
+_**Ces estimations sont calculées sans prendre en compte le rush. Prévoyez une légère marge pour être safe en cas de rush !**_
 
-Les skills greens peuvent aussi être utilisés pour compléter le besoin.
+Les recovery marquées "super-white" sont les **version white** des uniques de **Grass Wonder alt** (Superior Heal) et **Super Creek** (Pure Heart), qui rendent 3,5% de HP en version white (7,5% en version unique originelle), au lieu de 1,5% HP pour un white classique. C'est donc un bon usage de skill points. Les skills **greens** peuvent aussi être utilisés pour compléter le besoin en HP, bien entendu.
 
 Voyez ce que vous voulez viser comme stats !
 
 ::: warning "Oui mais les estimations de HP sont souvent trop grandes"
 
-Aux dernières nouvelles, on ne sait PAS pourquoi certaines uma gagnent des courses en ayant notablement moins que les HP requis recommandés. Vous pouvez décider de viser moins que la recommandation de HP, no prob, mais c'est à vos risques et périls. De toute évidence il existe des circonstances qui font qu'une uma avec moins de HP que nécessaire va gagner des courses, et c'est à vous de voir si vous voulez miser sur ce "et si" sans pour autant savoir comment il fonctionne.
+Aux dernières nouvelles, on ne sait PAS pourquoi certaines uma gagnent des courses en ayant notablement **moins que les HP requis recommandés** 🤷🏾‍♂️ Vous pouvez décider de viser moins que la recommandation de HP, no prob, mais c'est à vos risques et périls. De toute évidence il existe des circonstances qui font qu'une uma avec moins de HP que nécessaire va gagner des courses, et c'est à vous de voir si vous voulez miser sur ce "_et si_" sans pour autant savoir comment il fonctionne.
 
 J'imagine cependant que c'est OK si c'est seulement sur une de vos 3 aces. À vous de voir.
 
@@ -355,7 +357,7 @@ J'imagine cependant que c'est OK si c'est seulement sur une de vos 3 aces. À vo
 | Swinging Maestro | Super Creek stamina SSR // Rice Shower power SSR | Tout le monde | 5,5% | |
 | Cooldown | Mejiro McQueen stamina SSR // Scenario Unity Cup (Rice Shower scenario link) | Tout le monde | 5,5% | 60% chance d'être fiable |
 | Breath of Fresh Air | Vodka power SSR | Tout le monde | 5,5% | 60% chance d'être fiable |
-| Burning Spirit STA | Scenario Unity Cup | Tout le monde | 5,5% mini, jusqu'à 6,6% | Cher si vous n'avez pas de hints. L'efficacité dépend de la somme de la stam de toute votre team |
+| Burning Spirit STA | Scenario Unity Cup | Tout le monde | entre 5,5% et 6,6% | Cher si vous n'avez pas de hints. L'efficacité dépend de la somme de la stam de toute votre team |
 | Restless | Ines Fujin guts SSR | Front (et encore...) | 4,5% | Soin affaiblit car activation trop tôt (also Fujin guts, euh...) |
 | Pure Heart | Super Creek | Pace | 3,5% | Assez fiable |
 | Gourmand | Special Week speed SSR | Pace | 5,5% | |
@@ -367,55 +369,65 @@ J'imagine cependant que c'est OK si c'est seulement sur une de vos 3 aces. À vo
 
 ⏩ On ne s'attend pas à voir beaucoup de débuffeuses, je pense que le message commence à être bien enregistré : les debuffs de HP ne sont pas hyper pertinents en long. Il n'y a que 3 gold debuffs utilisables et ils ont tous les trois une grande faiblesse :
 
-- All Seeing Eyes -exclusif à Nice Nature- a un timing aléatoire en late-race, et requiert que Natie aie ses cibles dans son champ de vision. Il y'a une solide chance de rater les uma très à l'avant, et ce serai justement elles qu'il faut pouvoir cibler.
-- Tantalizing Trick -exclusif à Rice Shower alt- cible une uma qui rush, derrière Rice (si pas de rush, pas d'activation), et uniquement elle (ou elleS si par miracle plusieurs uma rushent en même temps (rare)). Peu de chance de toucher une uma pertinente.
-- Stamina Siphon -exclusif à Manhattan Cafe- n'a que la puissance d'un debuff white (-1% de HP). En échange, ça agit aussi comme recovery (+3,5% de HP, c'est mieux qu'une white recovery classique (ou +5,5HP -soit une gold recovery- si on a la version pré-nerf)).
+- **All Seeing Eyes -exclusif à Nice Nature-** a un timing aléatoire en late-race, et requiert que Natie aie ses cibles dans son champ de vision. En long la taille du peloton est plus grande, et les uma à l'avant auront le temps d'avoir accel loin de Natie, donc il y'a une solide chance de les rater (et ce serai justement elles qu'il faut pouvoir cibler).
+- **Tanta*lizing Trick -exclusif à Rice Shower alt-** cible une uma qui rush, derrière Rice (si pas de rush, pas d'activation), et uniquement elle (ou elleS si par miracle plusieurs uma rushent en même temps (rare)). Peu de chance de toucher une uma pertinente.
+- **Stamina Siphon -exclusif à Manhattan Cafe-** n'a que la puissance d'un debuff white (-1% de HP). En échange, ça agit aussi comme une recovery (+3,5% de HP, c'est mieux qu'une white recovery classique (ou +5,5HP -soit une gold recovery- si on a la version pré-nerf)).
 
 Tous les autres debuffs de HP sont des whites, ou des gold inutilisables. On peut évidemment debuff avec des whites, mais c'est pas tout le monde qui aura le courage de farm les debuff whites. 
 
-⏩ Concernant les autres stats, visez 1200 speed, évidemment. Guts montera avec votre stamina, ou des éventuels spirit burst guts, inutile de vous embêter à cliquer spécifiquement dessus, sauf si vous entrainez une Front (auquel cas armez vous d'une boîte de dolipranes et prenez une semaine de congés : build des Front sur ce CM c'est *dur*). Niveau wits, faites en fonction de votre nombre de gold recoveries ; plus vous en avez, plus vous voulez une abondance de wits. On rappelle que :wit: est utile de bien d'autres manières, et qu'en avoir davantage est une bonne chose (et un luxe aussi, sans doute). Enfin, power va être embêtant, car une carence en power sera assez gênante ici ; l'early-race est entièrement en côte, et le début du late-race est en côte. Ce sera particulièrement pénible pour les frontline, donc essayez de sauver un peu votre power. 
+⏩ Concernant les autres stats, visez **1200 speed**, évidemment. **Guts** montera avec votre stamina, ou des éventuels spirit burst guts ; inutile de vous embêter à cliquer beaucoup sur guts, **sauf si vous entrainez une Front** (auquel cas armez vous d'une boîte de dolipranes et prenez une semaine de congés : build des Front sur ce CM c'est *dur*). Niveau **wits**, faites en fonction de votre nombre de **gold recoveries** ; plus vous en avez, plus vous voulez une **abondance de wits**. On rappelle aussi que :wit: est utile de bien d'autres manières, et qu'en avoir davantage est une **bonne chose** (et un luxe aussi dans ce CM, sans doute, vu les autres prérequis). Enfin, power va être embêtant, car une **carence en power** sera assez **gênante** ici ;  **l'early-race est entièrement en côte**, et le **début du late-race est en côte**. Ce sera particulièrement pénible pour les **frontline**, donc essayez de sauver un peu votre power. 
 
-⏩ Les accel late-race ! C'est facile, c'est No Stopping Me, sauf pour les Front. Si votre Front active No Stopping Me elle a perdu, car ça veut dire qu'elle est déjà submergée. Si votre uma n'a pas No Stopping Me, son winrate va être très bas. No Stopping Me est une puissante accel qui dure longtemps, et qui s'active vachement bien en med et en long, surtout si vous avez une autre source d'accel pour engager un dépassement. Les backlines activent souvent plus facilement No Stopping Me que les frontlines, mais globalement ce qui importe pour pop le skill avec un bon timing, c'est que votre uma ne soit pas isolée au lancement du late-race.
+⏩ Les accel late-race ! C'est facile, c'est **No Stopping Me**, sauf pour les Front. SAUF si vous faites **plusieurs Front** (incluant ou pas une Suzuka Runaway), auquel cas **vos Front veulent effectivement No Stopping Me** :currenDevilish:. Si votre Front est seule et active No Stopping Me elle a perdu, car ça veut dire qu'elle est déjà submergée. Si votre uma non-Front n'a pas No Stopping Me, son winrate va être très bas, car les autres l'auront. No Stopping Me est une puissante accel qui dure longtemps, et qui s'active vachement bien en med et en long, surtout si vous avez une autre source d'accel pour **engager un dépassement**. Les backlines activent souvent No Stopping Me plus facilement que les frontlines, mais globalement ce qui importe pour pop le skill avec un bon timing, c'est que **votre uma ne soit pas isolée au lancement du late-race**.
 
-::: details Pourquoi No Stopping Me est bon en med et en long (et mauvais ailleurs) ?
+:::: details Pourquoi No Stopping Me est bon en med et en long (et mauvais ailleurs) ?
 
-No Stopping Me s'active en late-race, si votre uma a les HP pour survivre, et si une uma est "devant" elle pendant 1 seconde (peu importe si c'est une alliée ou ennemie). Cette dernière condition est ce sur quoi l'activation varie entre sprint/mile (bad) et med/long (good). En réalité, "devant" c'est pas "juste devant" ni même bloqué. C'est :
+No Stopping Me s'active en **late-race**, si votre uma a les **HP pour survivre**, et si **une uma est "devant" elle** pendant 1 seconde (peu importe si c'est une alliée ou ennemie). Cette dernière condition est ce sur quoi **l'activation varie entre sprint/mile** (bad) **et med/long** (good). En réalité, "devant" c'est pas "juste devant", ni même bloqué. C'est :
 
-- au max à 2,5m de distance à l'avant, soit une longueur
-- sur la même voie que vous
-- sur une voie adjacente
+- au max à **2,5m de distance à l'avant**, soit une longueur
+- sur **la même voie** que vous
+- sur une **voie adjacente**
 
-Donc le skill pop en late-race quand une uma est à 2,5m devant vous :
-
-- sur la même voie
-- ou sur une voie juste à côté
+Donc le skill pop en late-race quand une uma est à 2,5m devant vous sur la même voie ou sur une voie juste à côté.
 
 Si vous avez un bon instinct de course (ou si vous avez lu une précédente explication), vous avez alors sans doute deviné que No Stopping Me s'active en late-race :
 
-- si une uma est une longueur juste devant vous sur la même voie
-- si une uma vous dépasse (pas trop vite) sur une voie adjacente
-- si votre uma dépasse (pas trop vite) une autre uma sur une voie adjacente
+- si une uma est **une longueur juste devant vous sur la même voie**
+- si une **autre uma vous dépasse** (pas trop vite) **sur une voie adjacente**
+- si **votre uma dépasse** (pas trop vite) **une autre uma sur une voie adjacente**
 
-Ca, c'est les situations où l'activation est possible. D'où le fait que le skill ne pop pas si votre uma est isolée. 
+Ça, c'est les situations où l'activation est possible. D'où le fait que **le skill ne pop pas si votre uma est <u>isolée</u>**. 
 
-Maintenant, pourquoi ça marche bien en med/long et mal en sprint/mile ?
+::: details Aperçu de l'efficacité en cas de succès 
 
-La différence majeure c'est le final corner. Depuis la mise à jour du 11 novembre, les uma s'étalent latéralement sur toutes les voies, et ce, pendant le final corner. C'est à dire que avant le final corner, les uma sont plus ou moins en "file indienne" (modulo les uma qui tentent un dépassement), alors que pendant et après le final corner, les uma s'éparpillent de plus en plus. Et il est là le problème ; pendant et après le final corner, les uma ont plus de chance de n'avoir personne à dépasser (ou se faire dépasser) sur une voie adjacente (et encore moins juste devant) ; après le final corner votre uma est bien plus isolée. Et sur quelles courses le late-race commence tard pendant le final corner ? Les courses sprint et mile. Du coup, en sprint et mile le late-race arrive quand vos uma sont déjà éparpillées. 
+  Ce jour là il y avait un bug d’affichage qui masquait les skills, mais c’est bien No Stopping Me! qui s'active sur les 3 uma.
 
-En med le late-race commence généralement pendant le 3e corner, et en long c'est presque toujours sur la ligne droite opposée aux gradins. Dans ces situations là, vos uma ne s'écartent que pour faire un dépassement, et cet écart est toujours le plus petit possible (pour éviter de s'ajouter trop de distance à courir) : une voie. Du coup, en med et en long, il est bien plus probable qu'une autre uma se trouve juste devant ou sur une voie adjacente quand le late-race est lancé.
+  ![Gif animé montrant 3 umamusume dépassant vivement tous le peloton](/assets/Comp-PvP/CM01/CM01_NSM.gif)
+
+  * Ayabe et Rice l'activent presque instantanément
+  * Fuku l'active en se faisant dépasser de près par Ayabe
+
+  :::
+
+_**Maintenant, pourquoi ça marche bien en med/long et mal en sprint/mile ?**_
+
+La différence majeure c'est le **final corner**. Depuis la [mise à jour du 11 novembre](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#courses), pendant le final corner de chaque course, **les uma s'étalent latéralement sur les voies disponible**, afin d'avoir le champ libre (la plupart du temps :currenDevilish:) pour leur last spurt. Ainsi, **avant le final corner** les uma sont plus ou moins en "**file indienne**" (modulo les uma qui tentent un dépassement), alors que **pendant et après le final corner**, les uma **s'éparpillent de plus en plus**. Et il est là le problème ; pendant et après le final corner, les uma ont plus de chance de n'avoir **_personne_ à dépasser** (ou se faire dépasser) **sur une voie <u>adjacente</u>** (et encore moins juste devant) ; après le final corner votre uma est bien plus _**isolée**_. 
+
+Et sur quelles courses le late-race commence **tard pendant le final corner** ? Les courses **sprint et mile**. Du coup, en sprint et mile le late-race arrive quand vos uma sont déjà éparpillées, et l'isolement complique fortement l'activation de NSM.
+
+En **medium** le late-race commence généralement pendant le **3e corner** ou au tout début du final corner, et en **long** c'est presque toujours sur la **ligne droite** opposée aux gradins (c'est le cas pour toutes les G1 long). Dans ces situations là, vos uma ne s'écartent que pour faire un dépassement, et cet écart est toujours le **plus petit possible** (pour éviter de s'ajouter trop de distance à courir) : **une voie**. Du coup, en med et en long, il est bien plus probable qu'une autre uma se trouve juste devant ou sur une voie adjacente quand le late-race est lancé, car le plus grand écart que les uma font au lancement du late-race, c'est **un décalage d'une voie**, pour dépasser.
 
 C'est pour ça que NSM s'active bien en med et en long (sauf si votre uma est déjà isolée), et mal sinon.
 
 Avant la mise à jour du 11 novembre 2025, NSM nécessitait un vrai blocage, et était donc bien moins bon.
 
-:::
+::::
 
 | Skill | Activation | Source pertinente | Pour qui ? | Note |
 | --- | --- | --- | --- | --- |
-| Nimble Navigator / No Stopping Me | Uma une longueur "devant" vous en late-race (cf explication) | Skill du scénario Unity Cup // Yukino Bijin wits SSR | TOUT LE MONDE, sauf les Front |  |
-| Highlander | Random pendant une côte random | Rice Shower power SSR // Manhattan Cafe stamina SR | TOUT LE MONDE, surtout les Front (et les Pace). | Environ 40% chance d'être bon pour les Front. 25% pour les autres. Peut parfois faciliter l'activation de NSM.  |
+| Nimble Navigator / No Stopping Me | Uma une longueur "devant" vous en late-race (cf explication) | Skill du scénario Unity Cup // Yukino Bijin wits SSR | TOUT LE MONDE, sauf les **solo** Front |  |
+| Highlander | Random pendant une côte random | Rice Shower power SSR // Manhattan Cafe stamina SR | TOUT LE MONDE, surtout les Front (et les Pace). | Environ 40% chance d'être bon pour les Front (early ou late-race). 25% pour les autres (late-race). Peut parfois faciliter l'activation de NSM.  |
 | Angling & Scheming | 1e position sur un corner en late-race | Seiun Sky unique | Front et Pace | Retardé d'environ 5 secondes. |
-| Let's Pump Some Iron | 6e position sur un corner en late-race | Mejiro Ryan | Backlines | Retardé d'environ 5 secondes. Moins important que NSM |
+| Let's Pump Some Iron | 6e position sur un corner en late-race | Mejiro Ryan | Backlines | Retardé d'environ 5 secondes. _**Faible priorité**_ |
 | Straightaway Spurt / Encroaching Shadow | Ligne droite en late-race | Narita Taishin (legacy) // Hishi Amazon power SR // Sweep Tosho speed SSR (event) | End Closer | Important pour faciliter l'activation de NSM |
 | Straightaway Acceleration / Rushing Gale | Random pendant une ligne droite random | Riko Kashimoto pal SSR // Teio speed SSR | Personne hein (tout le monde I guess) | Hyper copium. Très faible priorité. |
 | I Never Goof Up ! | Dépassement en corner en late-race | Meisho Doto | Elle uniquement, sans doute. Éventuellement les Pace | Pas hyper efficace ni fiable pour le coût en SP. Toujours retardé de 5 secondes *au minimum* (souvent plus) |
@@ -423,60 +435,76 @@ Avant la mise à jour du 11 novembre 2025, NSM nécessitait un vrai blocage, et 
 
 ::: details Angling & Scheming sur une Pace ?
 
-Les Pace peuvent utiliser Angling car on s'attend à peu de Front (elles sont très dures à build sur cette course), ça permet ainsi à la Pace en 1e position d'avoir une chance non nulle de victoire même sans NSM. Une pace prenant la 1e place mais qui n'a pas Angling perd l'instant où elle passe 1e, car en menant la course elle se prive de NSM ; sans autre accel (highlander ?) elle se fera submerger très facilement par les autres backlines. 
+**Les Pace peuvent utiliser Angling car on s'attend à peu de Front** (elles sont très dures à build sur cette course), ça permet ainsi à la Pace en 1e position d'avoir une chance non nulle de victoire, même sans NSM. Tout bêtement, une pace prenant la 1e place mais qui n'a pas Angling perdra faute d'accel (pas de NSM si 1e). Ainsi, pour une Pace sans Angling, **mener la course est un handicap qui la prive de NSM** ; sans autre accel (highlander ?) elle se fera **submerger très facilement** par les autres backlines. 
 
-Attention, le 3e corner arrive 100m après le début du late-race, donc l'activation sera toujours tardive.
+Attention, le 3e corner arrive 100m après le début du late-race, donc **l'activation d'Angling & Scheming sera toujours tardive**.
 
 :::
 
-Les accel purement aléatoires (comme On Your Left), et les accel de final corner sont mauvaises. Les accel aléatoire ont seulement 25% chance  (voire moins) de s'activer à un bon timing, et les accel de final corner (comme Red Shift) arrivent bien trop tard. En théorie, au final corner votre uma est déjà à pleine vitesse. Si votre uma n'est pas à pleine vitesse au final corner vous avez essentiellement déjà perdu, car les autres uma y seront ; même sans accel. Avec une accel je vous raconte pas :currenDevilish: 
+Les **accel purement aléatoires** (comme On Your Left), et les **accel de final corner sont mauvaises**. Les accel aléatoire ont seulement 25% chance (voire moins) de s'activer à un bon timing, et les accel de final corner (comme Red Shift) arrivent _bien trop tard_. En théorie, au final corner votre uma est déjà à **pleine vitesse**. Si votre uma n'est pas à pleine vitesse au final corner _vous avez essentiellement déjà perdu_, car les autres uma y seront ; même sans accel. Avec une accel je vous raconte pas :currenDevilish: 
 
-⏩ Comme on s'attend à assez peu de Front (à cause de leur difficulté), la bataille pour le lead ne devrait pas être féroce. Habituellement il aurait fallu le gold Taking the Lead ET Groundwork, pour non seulement sécuriser le lead MAIS AUSSI pour prendre de l'avance sur les Pace (qui sont dangereuses sur cette course, car NSM est là). Mais sur CM on attend assez peu de Front, donc ne vous cassez pas trop la tête ; Mihono Bourbon wits SSR donne le gold Taking the Lead (garantis !) et des skills Front. Contentez vous de ça pour préserver votre santé mentale.
+::: warning Accel multiples
 
-⏩ J'ignore entièrement les Runaway pour ce CM car elles sont virtuellement impossibles à build correctement. Vous pouvez faire une sacrificial Suzuka si vous le souhaitez.
+Rappel à toutes fins utiles, que **plus vous avez d'accel, moins une accel supplémentaire a de valeur**. Essayez d'en avoir 2.
 
-⏩ Comme les Front sont peu attendues sur le CM, on verra plus fréquemment des Pace Chaser se bagarrer pour le lead. Pour être paré pour ce cas là, c'est pertinent d'essayer d'avoir de l'accel early-race sur votre Pace, afin de l'aider à prendre la tête et devenir pacemaker. Vos 2 options sont essentiellement Groundwork ou Highlander. Highlander est plus facile à obtenir (Rice Shower power SSR // Manhatan Cafe stam SSR) mais peu fiable, et Groundwork est toujours aussi pénible mais sera fiable. Choisissez votre poison :currenDevilish: 
+**Presque tout le monde veut NSM**. Les End veulent aussi **Straightaway Spurt / Encroaching Shadow**, et pour elles euh bah c'est tout. Toute accel supplémentaire en plus de NSM et Spurt/Shadow aura très très peu d'impact. Toutes les autres stratégies n'ont pas d'accel instantanée parfaitement fiable, et ont donc l'usage de **Highlander**, et après c'est plus ou moins tout. Vous pouvez prendre davantage de sources d'accel pour être _safe_ (surtout si vous avez peu de wits), mais ça sera un usage de skill points pas ouf ~
+
+:::
+
+⏩ Comme on s'attend à **assez peu de Front** (à cause de leur difficulté), la **bataille pour le lead** ne devrait pas être féroce. Habituellement il aurait fallu le gold **Taking the Lead _ET_ Groundwork**, pour non seulement sécuriser le lead MAIS AUSSI prendre de l'avance sur les Pace (qui sont dangereuses sur cette course, car NSM est là). Mais sur ce CM on attend assez peu de Front, donc ne vous cassez pas trop la tête ; **Mihono Bourbon wits SSR donne le gold Taking the Lead** (garantis !) et des skills Front. Contentez vous de ça pour préserver votre santé mentale.
+
+⏩ J'ignore entièrement les Runaway pour ce CM car elles sont virtuellement impossibles à build correctement. Vous pouvez faire une sacrificial Suzuka si vous le souhaitez, ça aidera votre Front à activer NSM. Mais c'est tout.
+
+⏩ Comme les Front sont peu attendues sur le CM, on verra plus fréquemment des **Pace Chaser se bagarrer pour le lead**. Pour être paré pour ce cas là, c'est pertinent d'essayer d'avoir de l'**accel early-race sur votre Pace**, afin de l'aider à prendre la tête et devenir pacemaker. Vos 2 options sont essentiellement **Groundwork** ou **Highlander**. Highlander est plus facile à obtenir (Rice Shower power SSR // Manhatan Cafe stam SSR) mais peu fiable, et Groundwork est toujours aussi pénible mais sera fiable. Choisissez votre poison :currenDevilish: 
 
 ⏩ En Open League, vous connaissez la chanson : 
 
-- Le plus important c'est de SURVIVRE. Vous aurez plein de wins gratos contre des uma qui ne survivent pas.
-- Vérifiez toujours le rank de votre build AVANT de valider vos skills. Utilisez ce calculateur ou [umsatei.Com](http://umsatei.Com) pour vérifier que vous ne dépassez pas le rank B.
-- No Stopping Me. Si votre sélection de skills doit être 2 gold recovery + NSM, alors qu'il en soit ainsi :currenDevilish:
+- **Le plus important c'est de SURVIVRE**. Vous aurez plein de wins gratos contre des uma qui ne survivent pas.
+- **Vérifiez toujours le rank de votre build AVANT de valider vos skills**. Utilisez **[🇬🇧 ce calculateur](https://docs.google.com/spreadsheets/d/1AAZCVDMiCozDNKte-5JYSm7SWUeVJ0o87i1iDY1bnWM/edit?gid=2001243391#gid=2001243391)** ou alors **[🇯🇵 Umsatei.com](https://umsatei.com/)** pour vérifier que vous ne dépassez pas le rank B.
+- 👏🏿 **No 👏🏿 Stopping 👏🏿 Me** 👏🏿. Honnêtement, si votre sélection de skills doit être **2 gold recovery + NSM**, alors qu'il en soit ainsi :currenDevilish:
 
-⏩ Niveau deck, commencez par 3 speed et 3 stamina, et ajustez selon vos résultats. Si vos cartes sont très fortes et que vous avez beaucoup de temps devant vous, essayez 3 speed 2 stamina et 1 wits. Ce sera bien plus dur, et c'est pas toutes les uma qui peuvent faire ça (surtout celles qui ont une recovery naturelle). Si possible, n'utilisez pas Yukino Bijin wits SSR, et préférez obtenir NSM directement dans Unity Cup. Si vous avez besoin de la gold recovery Cooldown, utilisez Mejiro McQueen stam SSR, c'est une bonne carte stam. Rice Shower power SSR n'est pas adaptée pour une course de cette longueur, SAUF si jouez Agnes Tachyon et tentez de faire 4 gold recoveries (what the fuck). C'est possible aussi pour Grass Wonder alt j'imagine. Si vous comptez utiliser beaucoup de gold recoveries (et peu de stam), vous pouvez tenter d'utiliser Riko Kashimoto pal SSR, mais je vous le déconseille. Mais si ça se trouve ça donnera un bon résultat, techniquement j'ai pas tenté.
+⏩ Niveau deck, commencez par **3 speed et 3 stamina**, et ajustez selon vos résultats. Si vos cartes sont très fortes et que vous avez beaucoup de temps devant vous, essayez **3 speed 2 stamina et 1 wits**. Ce sera bien plus dur, et c'est pas toutes les uma qui peuvent faire ça (c'est surtout celles qui ont une recovery naturelle). Si possible, n'utilisez pas Yukino Bijin wits SSR, et préférez **obtenir NSM directement dans Unity Cup**. Si vous avez besoin de la gold recovery **Cooldown**, utilisez **Mejiro McQueen stam SSR**, c'est une bonne carte stam. Rice Shower power SSR n'est pas adaptée pour une course de cette longueur, SAUF si jouez **Agnes Tachyon** et tentez de faire 4 gold recoveries (what the fuck 😂). C'est possible aussi pour **Grass Wonder alt** j'imagine. Si vous comptez utiliser beaucoup de gold recoveries (et peu de stam), vous pouvez tenter d'utiliser **Riko Kashimoto pal SSR**. Si ça se trouve ça donnera un bon résultat, techniquement j'ai pas tenté.
 
-⏩ Les besoins en stats étant élevés, n'hésitez surtout pas à aller pick des legacy puissantes sur les sites habituels.
+⏩ Les besoins en stats étant élevés, **n'hésitez surtout pas à aller pick des legacy puissantes** sur les sites habituels : [chronogenesis.net](https://chronogenesis.net/friend_search), [uma.moe](https://uma.moe/inheritance) et [umapureDB](https://uma-global.pure-db.com/#/search).
 
-⏩ Les skills avec cooldown qui s'activent avant la moitié de la 1e ligne droite du mid-race (premières 50 secondes) peuvent se réactiver en late-race. C'est possible pour Slipstream, Playtime's Over, Straightaway Adept / Beeline Burst et Corner Adept / Professor of Curvature.
+⏩ Les skills avec cooldown qui s'activent **avant la moitié de la 1e ligne droite du mid-race** (premières 50 secondes) peuvent **se réactiver en late-race**. C'est possible pour **Slipstream**, **Playtime's Over**, **Straightaway Adept / Beeline Burst** et **Corner Adept / Professor of Curvature**.
 
-⏩ Les skills de ligne droite aident au dépassement, et les skills de corner aident à ne pas se faire dépasser. C'est bien plus difficile de dépasser en corner, donc c'est pas forcément hyper worth (quoi que) de mettre beaucoup de ressources dans <distance/stratégie> corners double cerclé (prenez la version simple par contre, pour ne pas devenir de la Golshi food).
+⏩ De manière générale, les **skills de ligne droite aident au dépassement**, et les **skills de corner aident à ne pas se faire dépasser**. C'est bien plus difficile de dépasser en corner, donc c'est pas forcément hyper worth (quoi que) de mettre beaucoup de ressources dans <distance/stratégie> corners double cerclé ◎. Prenez la version simple ○ par contre, pour ne pas devenir de la Golshi food.
 
 ⏩ Quelques skills uniques utiles (dans aucun ordre particulier) :
 
+- Super Creek → recovery 3,5% HP pour les Paces
+- Grass Wonder alt → recovery 3,5% HP pour les backlines
+- Seiun Sky → accel late-race pour les Front ou Pace
+- Daiwa Scarlet → chance d'accel pour les frontlines (high roll)
+- Silence Suzuka → vitesse mid-race pour les Front
+- Matikanefukukitaru alt → vitesse avec chance de carry over backline (et éventuellement Pace (peu fiable))
 - Mejiro McQueen → vitesse final corner pour tout le monde
 - Narita Brian → grande vitesse final corner pour tout le monde
-- 
+- Tokai Teio → grande vitesse final straight pour les Pace
+- Oguri Cap → grande vitesse fin de final straight pour tout le monde
+- Symboli Rudolf → grande vitesse final straight pour les backlines et Pace
 
-⏩ Au cas où c'était pas clair, ce sera un Narita Golshin festival, comme pour la Gemini Cup. Gold Ship sera dominante, pas de surprise là-dessus. Toute uma capable de courir en tant que End Closer aura une solide chance d'avoir un bon winrate, si vous parvenez à obtenir assez de HP, S Long, Straightaway Spurt et bien entendu NSM.
+⏩ Au cas où c'était pas clair, **le CM sera un Narita Golshin festival**, comme pour la Gemini Cup. **Gold Ship sera dominante**, pas de surprise là-dessus. Toute uma capable de courir en tant que **End Closer** aura une solide chance d'avoir un bon winrate à condition d'avoir assez de HP, S Long, Straightaway Spurt et bien entendu NSM.
 
 ⏩ Quelques uma qu'on attend potentiellement fortes (dans aucun ordre particulier) :
 
 - Front Runner : Seiun Sky, Maruzensky alt, Daiwa Scarlet, Mejiro McQueen. Probablement les seules Front qui ont une chance de victoire solide.
-- Pace Chaser : Anyone en vrai. Les Pace sont ni particulièrement fortes, ni particulièrement faibles. Les Pace peuvent avoir une chance de gagner si elles parviennent (avec difficulté) à distancer les Golshi et activer NSM, ou alors en devenant pacemaker et en activant Angling.
-- Late Surger : Matikanefukukitaru alt est sans doute la seule bonne Late pour la course (carry over + 2 gold de vitesse late-race). Sinon y'a aussi Grass Wonder alt qui sera facile à build avec 4000% de recovery là. Après la plupart des Late seront un peu comme les Late, pas spécialement fortes ni spécialement faibles.
-- End Closer : Gold Ship, Narita Taishin, Mayano Top Gun, et n'importe quelle autre uma capable de courir en tant que End (ou que vous avez la patience de build en End). Golshi et Taishin je pense qu'il n'y a pas besoin d'un dessin. Mayano sera surtout "facile à build" avec son accès naturel à NSM, qui lui permet d'obtenir les 2 gold recoveries données par Rice Shower power SSR.
+- Pace Chaser : Anyone en vrai. Les Pace ne sont ni particulièrement fortes, ni particulièrement faibles. Les Pace peuvent avoir une chance de gagner si elles parviennent (avec difficulté) à **distancer les Golshi** et activer NSM, ou alors en devenant pacemaker et en activant Angling (copium).
+- Late Surger : **Matikanefukukitaru alt est sans doute la seule bonne Late pour la course** (carry over + 2 gold de vitesse late-race), qui n'est pas très disposée à devenir End. Et sadly elle ne sera pas hyper simple à build car elle n'a pas de gold recovery. Les autres Late génériquement bonnes pour la course seront sans doute plus performantes en tant que **End Closer**. Sinon y'a aussi **Grass Wonder alt** qui sera facile à build avec 4000% de recovery là. On peut s'attendre à ce que les Late soient un peu comme les Pace, ni spécialement fortes ni spécialement faibles.
+- End Closer : **Gold Ship, Narita Taishin**, Mayano Top Gun, et n'importe quelle autre uma capable de courir en tant que End (ou que vous avez la patience de build en End). Golshi et Taishin je pense qu'il n'y a pas besoin d'un dessin. **Mayano sera surtout "facile à build"** avec son accès naturel à NSM et la recovery Breath Of Fresh Air ; elle pourra donc avoir l'usage des 2 gold recoveries données par Rice Shower power SSR.
 
-⏩ Pour votre team, le plus évident est de partir sur 3 aces, dont au moins 1 Gold Ship (quite litteraly la meilleure uma pour la course). Envisagez une 2e End Closer. Vous pouvez envisager des Late aussi, mais honnêtement elles sont un peu batardes, et fonctionneront plutôt comme des Pace qui courent vite en late-race que comme des vrais backlines (tout bêtement car les backlines seront les Narita Golshin ; vos Late seront souvent 6e, 5e voire 4e si la room est vraiment full End Closer). Niveau uma support, vous pouvez faire une sacrificial Urara pour emmerder Narita Taishin et désactiver sa gold recovery Sleeping Lion (pas forcément hyper worth sacrifier une potentielle ace pour ça). Notez qu'une sacrificial Front Urara ne ralentira plus la course et n'aura plus l'effet "réduire la consommation de HP et foutre le bordel" ; elle n'embêtera vraiment que Narita Taishin. Vous pouvez aussi faire une sacrificial Front pour avoir une cible à dépasser en late-race, ce qui facilitera l'activation de NSM, tout en empêchant vos adversaires d'avoir des Pace Chaser qui deviennent pacemaker (évidemment, si vous faites vous même une Pace, vous vous retirez aussi cette possibilité). Pour le coup c'est assez facile car Bourbon wits SSR donne direct Taking the Lead, et des skills Front. Ca ne devrait donc pas être très difficile.
+⏩ Pour votre team, le plus évident est de partir sur **3 aces**, dont au moins **1 Gold Ship** (quite litteraly la meilleure uma pour la course). Envisagez une 2e End Closer. Vous pouvez envisager des Late aussi, mais honnêtement elles sont un peu batardes, et fonctionneront plutôt comme des _Pace qui courent vite en late-race_ que comme des vrais backlines (tout bêtement car les backlines seront les Narita Golshin ; les rooms avec 5+ End seront fréquentes, et vos Late seront souvent 5e, 4e voire 3e). Niveau uma support, vous pouvez faire une **sacrificial Urara** pour emmerder **Narita Taishin** et désactiver sa gold recovery **Sleeping Lion** (pas forcément hyper worth sacrifier une potentielle ace pour ça). Notez qu'**une sacrificial Front Urara ne ralentira plus la course et n'aura plus l'effet "réduire la consommation de HP et foutre le bordel"** (depuis l'update du 11 novembre) ; elle n'embêtera vraiment _que Narita Taishin_. Vous pouvez aussi faire une **sacrificial Front** pour avoir une **cible à dépasser en late-race**, ce qui facilitera l'activation de NSM, tout en empêchant vos adversaires d'avoir des Pace Chaser qui deviennent pacemaker (évidemment, si vous faites vous même une Pace, vous vous retirez aussi cette possibilité). Pour le coup c'est assez facile car **Bourbon wits SSR** donne direct Taking the Lead, et des skills Front. Ca ne devrait donc pas être très difficile. Si vous faites une sacrificial Suzuka Runaway, vous pourrez activer NSM sur votre Front ace.
 
 ---
 
-#### 🌟 Alrighty, ça devrait le faire !
+#### 🌟 Alrightyyyy, ça devrait le faire !
 
-Kikuka Sho étant un mini Haruten -et Haruten étant ma course pref- j'ai beaucoup à en dire. C'est d'autant plus intéressant qu'avec la mise à jour du 11 novembre, notre méta est différente de la JP (EVERYBODY GETS NO STOPPING ME). Ca change pas beaucoup le fait que ce sera un Narita Golshin fest, et qu'on va tous se faire bouffer par la creatura. Mais au moins on pourra se défendre ce coup ci, et ce sera pas juste du bullying 
+Kikuka Sho étant un mini Haruten -et Haruten étant ma course pref- j'ai beaucoup à en dire. C'est d'autant plus intéressant qu'avec la mise à jour du 11 novembre, notre méta est différente de la JP (EVERYBODY GETS NO STOPPING ME). Ca change pas beaucoup le fait que ce sera un Narita Golshin fest, et qu'on va tous se faire bouffer par la creatura. Mais au moins **on pourra se défendre ce coup ci**, et ce sera pas juste du bullying 
 
 ### _Et toi Yamakyu ?_
 
-Je vais build Rice alt en Pace, et essayer d'avoir Highlander ou Groundwork pour de l'accel early-race. Il me faut aussi pas mal de wits car ce sera ma seule ace, tout en ne sacrifiant pas power pour ne pas dégringoler sur les côtes. J'ajouterai p't'être aussi Angling, pour l'éventualité où Rice dépasse la sacrificial Front. Car, yes, je vais *évidemment* faire une sacrificial Front. Elle devra être particulièrement compétente (pour ne pas se faire dépasser par Rice). Et plutôt 2 d'ailleurs, pour les garder motivées et les pousser à ne pas se faire rattraper par Rice. Le but étant d'une part de bloquer les Pace qui veulent devenir pacemaker, et d'autre part avoir une trigger pour NSM. 
+Je vais build **Rice Shower alt en Pace**, et essayer d'avoir Highlander ou Groundwork pour de l'accel early-race. Il me faut aussi **pas mal de wits** car ce sera ma seule ace, tout en ne sacrifiant pas power pour ne pas dégringoler sur les côtes. J'ajouterai p't'être aussi **Angling**, pour l'éventualité où Rice dépasse la sacrificial Front. Car, yes, je vais *évidemment* faire une **sacrificial Front**. Elle devra être particulièrement compétente (pour ne pas se faire dépasser par Rice). **Et plutôt 2 d'ailleurs**, pour les garder motivées et les pousser à ne pas se faire rattraper par Rice. Le but étant d'une part de bloquer les Pace qui veulent devenir pacemaker, et d'autre part avoir un trigger facile pour NSM. 
 
 Souhaitez moi bonne chance, car évidemment, la différence entre le plan et l'exécution sera terrible :currenDevilish:
 
