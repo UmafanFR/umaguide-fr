@@ -23,13 +23,13 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ## Prochain PvP compétitif :
 
-### Cancer Cup - "NHK Mile Cup" - Champion's Meeting - 12 octobre 2025
+### Libra Cup - "Kikua Sho" - Champion's Meeting - 12 décembre 2025
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ Champion's Meeting Leo Cup - 4 Nov 2025 - Hanshin 2200m turf (Takarazuka Kinen) - [Recommandations](cm-leo-cup-2025.md)
+⏩ [Champion's Meeting Libra Cup](cm-libra-cup-2025.md) - 11 décembre 2025 - Kyoto 3000m turf (Kikuka Sho)
 
-> À suivre : Champion's Meeting Virgo Cup - courant Novembre - Hanshin 1600m turf (Oka Sho)
+> À suivre : Champion's Meeting Scorpio Cup - 31 décembre - Tokyo 2000m turf (Tenno Sho Aki)
 > *(recommandations à venir)*
 
 :::
