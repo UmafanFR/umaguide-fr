@@ -555,7 +555,7 @@ Ikuno Dictus guts SSR et Finemo power SR sont toutes les deux franchement pas te
 
 ## #22 - Seiun Sky stamina SSR & Yaeno Muteki power SSR (rerun)
 
-![Image de présentation de la bannière Tamamo Cross power SSR & Zenno Rob Roy speed SSR](/public/assets/Gacha-reviews/2025/023_Card-Banner_JP.png)
+![Image de présentation de la bannière Tamamo Cross power SSR & Zenno Rob Roy speed SSR](/public/assets/Gacha-reviews/2025/023_Card-Banner.png)
 
 ::: details REVIEW
 
@@ -580,5 +580,36 @@ Ikuno Dictus guts SSR et Finemo power SR sont toutes les deux franchement pas te
 **NON**. Yaeno Muteki vous allez vouloir l'emprunter MLB pour votre legacy farm, mais quasiment jamais pour vos runs sérieuses. Seiun Sky est une bonne carte mais elle ne vieillis pas hyper bien, et de toutes et vu comme elle est frontloaded, ce n'est pas worth it de dépenser beaucoup de carats pour elle. Réjouissez vous quand vous l'obtiendrez aléatoirement en faisant des pulls sur une autre bannière.
 
 Commme la bannière Kitsan rerun (ou autre) par exemple :currenDevilish:
+
+::: 
+
+## #23 - Tamamo Cross power SSR & Zenno Rob Roy speed SSR
+
+![Image de présentation de la bannière Tamamo Cross power SSR & Zenno Rob Roy speed SSR](/public/assets/Gacha-reviews/2025/022_Card-Banner.png)
+
+::: details REVIEW
+
+
+⏩ **Zenno Rob Roy** :speed: :ssr:
+* La carte est assez **frontloaded** : dès 1LB elle a déjà son 1 speed bonus, et 10 training bonus. Elle débloque Hint Level et Frequency à 3LB. De 0LB à 3LB son friendship bonus ne bouge pas -ce qui est inhabituel-, et est amélioré seulement à MLB.
+* Rob Roy speed SSR est une carte speed avec un bon gain de stats. Ses rainbow sont corrects dés 1LB, et gagnent davantage en puissance à MLB. Grâce à son 10 training bonus, elle a une bonne contribution au cross training général ; on regrette un mood bonus un peu timide, mais il a le mérite d'être existant. À 1LB elle a 40 specialty priority, ce qui est correct pour une carte équilibrée entre solo speed et cross training.
+* Sa sélection de hints ❗ est inégale ; elle propose l'accel Nimble Navigator (cool), ainsi que les greens Pace chaser et Late Surger Savy, et Straightaway Adept. Le reste est un mélange de skills de navigation, mauvaise accel et skill de vision.
+* Le skill gold obtenu est Lie in Wait, la version gold de Be Still. C'est une gold recovery Late Surger qui s'active dans la 2e moitié du early-race. Dans les courses sprint et mile, il est possible que le skill s'active trop tôt et soit partiellement gâché, mais dans les courses med et long la recovery est **fiable**. C'est donc une bonne recovery, dans les courses où elle est pertinente (med et long).
+* La carte est très notable pour un point spécifique : sur le **2e chain event**, vous pouvez **choisir** d'obtenir l'un des greens **Right Handed** ou **Left Handed**. C'est une flexibilité assez précieuse pour le CM, à la fois en legacy farm (plus facile d'obtenir le spark) ou en run de CM directe. 
+
+⏩ **Tamamo Cross** :power: :ssr:
+* La carte est **frontloaded** : dés 1LB elle a déjà 32 friendship bonus, 1 stamina bonus et plus de 50 specialty prio. À 3LB elle débloque initial power. 
+* Tamamo power SSR est aussi une bonne carte power avec un bon gain stats. Avec un spec prio relativement élevé (65 à MLB) et un bon friendship bonus, ses rainbows seront sa principale force. Ils viendront d'ailleurs assez vite, car la carte a 30 initial friendship gauge dés 0LB. Son stamina bonus permettra de contribuer à la croissance de stam, et le mood bonus est appréciable. Elle est -elle aussi- un peu timide en cross training cela dit, par manque de training bonus. Enfin, grâce à son 10 race bonus, elle pourra être utilisée pendant le scénario Make a New Track (mais sans nécessairement être *recommandée*).
+* Sa sélection de hints ❗ laisse perplexe ; ses seuls 2 bons skills sont les whites de speed Medium Corners et 1,500,000CC. Elle propose également des whites recovery medium, dont les gold ne sont pas encore sur des cartes support (ce qui ruine l'intérêt), des debuffs et un skill de navigation.
+* Son skill gold est le très chouette "15,000,000 CC", qui est la version gold de "1,500,000 CC". C'est un skill gold de vitesse Late Surger s'activant aléatoirement sur une côte aléatoire. Toutes les uma ralentissent pendant une côte, si vous avez ce skill gold vous serez moins impacté, et pourrez généralement gagner un peu de terrain sur vos adversaires. Sur les courses où le final straight est en partie en côte, ça permet des dépassements de dernière minute contre les frontlines. Dans certaines courses, le skill a une chance de carry-over. C'est du cas par cas. Le skill s'active bien en med et en long, mais plusieurs courses sprint et mile n'ont aucune côte.
+
+
+#### PULL OU PAS ?
+
+**Non recommandé MAIS** la bannière _est_ assez bonne.
+
+Elle n'est pas "*très bonne*", et c'est son principal défaut et la raison pour laquelle les pulls ne sont pas recommandés. Mais les 2 cartes sont de bonne facture, et un bon ajout dans une collection. Il y a d'autres bannières pertinentes (uma et support) à venir, donc ce n'est pas forcément judicieux de pull sur celle-ci. Cependant, c'est une assez bonne bannière si des débutants souhaitent faire des rerolls. 
+
+Notez cependant que la bannière rerun Kitasan Black est dans quelques semaines, et que c'est une bien meilleure bannière pour faire des rerolls.
 
 ::: 
