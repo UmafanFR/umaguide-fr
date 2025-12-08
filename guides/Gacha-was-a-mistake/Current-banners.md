@@ -1,5 +1,5 @@
 ---
-title: Gacha - Kawakami Princess ★★★ // Seiun Sky stamina SSR & Yaeno Muteki power SSR (rerun)
+title: Gacha - Manhattan Cafe ★★★ // Nakayama Festa stamina SSR & Sirius Symboli guts SR (rerun)
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/022_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/024_Banners_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -98,27 +98,28 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Kawakami Princess ★★★
+### Bannière Umamusume : Manhattan Cafe ★★★
 
-![Image de présentation de la bannière Rice Shower (alt) & Super Creek (alt) ](/public/assets/Gacha-reviews/2025/023_Uma-Banner_JP.png)
+![Image de présentation de la bannière Manhattan Cafe ](/public/assets/Gacha-reviews/2025/024_Uma-Banner_JP.png)
 
-_Kawakami Princess est une Late Surger génériquement plutôt compétente, capable de courir sur distance medium. Avec de l'inspiration elle peut facilement courir en mile, en short ou en tant que Pace ou End. Elle possède l'accel gold No Stopping Me, qui marche bien en med et en long, ainsi que Rising Dragon, un skill de vitesse de final corner. Son skill unique est un boost de vitesse de final straight._
+_Manhattan Cafe est une late Surger compétente en distance Long, et presque tout aussi capable en distance medium. Grâce à ses aptitudes, elle peut aussi courir en tant que Pace Chaser ou End Closer, et être une End Closer sera souvent avantageux en Long. Elle a une gold recovery problématique pour le moment -mais qui sera buff plus tard-, et un debuff gold de stamina qui sert aussi de gold recovery pour le moment -mais qui sera **nerf** plus tard-. Son skill unique est un speed boost en mid-race, de la même puissance et durée que Gold Ship._
 
-* Kawakami a des bonus assez terribles ; 10% power bonus :power: et 20% guts :guts:. Le power bonus est appréciable, mais est fortement gâché par le guts bonus. D'une part car power n'augmente pas guts (donc pas de gain de guts en utilisant des cartes power), et d'autre part car le guts bonus est largement supérieur au power bonus. Pour jouer des cartes guts, on souhaite -au contraire- avoir peu/aucun guts bonus, et du speed + power bonus à la place, afin d'avoir un bon gain de speed et power en cliquant sur guts. Là, avec 20% guts bonus, vous allez atteindre le max de guts très très vite, et speed et power auront du mal à monter. C'est terrible comme bonus.
-* Ses aptitudes sont assez claires ; par défaut elle est apte à courir en tant que Late sur distance med. Avec un peu d'inspiration elle peut courir en tant que Pace (4*) ou End (7*), sur distance Mile (1*) ou Sprint (4*). Aucun de ces changements d'aptitudes n'impacte l'activation de son skill unique.
-* Sa sélection de skill gold est bonne :
-    * **No Stopping Me** est la version gold de Nimble Navigator. C'est un skill hybride accélération + navigation late-race, s'activant si une uma est "devant" pendant 1 seconde. Depuis le [11 novembre 2025](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#skills), le skill s'active bien en med et en long, et est donc une bonne source d'accel sur ces distances là. En Sprint et en Mile, la fiabilité s'écroule en revanche.
-    > Pendant le scénario Unity Cup, toutes les uma peuvent avoir No Stopping Me, mais après ce scénario, le skill sera plus difficile à obtenir, ce qui en fait un atout pour Kawakami.
-    * **Rising Dragon** est la version gold de Outer Swell. C'est un skill de vitesse final corner. L'activation est plutôt fiable, et sur les distances sprint et mile, le skill a parfois une chance de carry over. Ironiquement, en distance medium le skill s'activera souvent pendant la phase d'accélération, ce qui le gâchera en partie (ce n'est pas hyper grave car il dure -de base- 3s).
-* Son skill unique est un boost de vitesse sur le final straight, si Kawakami est contestée latéralement pendant 2 secondes. L'activation est moyennement fiable, et risque de ne pas s'activer si Kawakami est isolée ou si elle dépasse/se fait dépasser trop vite. En mile et en sprint, le skill a une chance de s'activer en pleine accel, et ainsi être partiellement gâché.
+* Cafe est la première uma a avoir un seul bonus de croissance : **30% stamina** :stamina: **bonus**. C'est très bien pour elle, car elle ne court que sur distance medium et long, qui requièrent une solide stamina. Avec un tel bonus, vous pourrez bien plus facilement atteindre la stamina requise avec des cartes power :power: pour les courses medium (et Arima Kinen), et atteindre la stamina requise en long avec une seule carte stamina. Ce qui rend le deck building assez flexible ; c'est typiquement assez facile d'intégrer une ou plusieurs cartes wits sans sacrifier stam. Et on va voir dans un instant que c'est commode.
+* Ses aptitudes sont un peu ambigues. Cafe est notée A seulement pour courir en distance Long en tant que Late. Cependant, sa carrière inclus plusieurs courses medium -pour lesquelles elle est notée B-. D'un autre côté, elle est noteé C End, ce qui est un peu dommage car les End sont notoirement fortes en Long (pour laquelle elle est notée A). Cela dit, C End est suffisant pour courir de manière tout à fait compétente dans la "early meta" du jeu, où la plupart des uma ont une faible valeur de wits. De plus, B medium devrait aussi être tout à fait suffisant pour gagner la plupart (?) des courses med de sa carrière, car en tant que Late/End, elle court naturellement vite. C'est juste un peu dommage qu'elle n'ait pas A Med, Long, Late et End. Enfin, en théorie elle peut aussi courir en tant que Pace, mais ce sera très rarement utile.
+* Sa sélection de skill gold est correcte, mais va changer dans quelques mois :
+    * **Relax** est la version gold de A Small Breather. C'est une mauvaise gold recovery Late Surger qui s'active aléatoirement en late-race, et a donc une chance non-nulle de s'activer trop tard (si l'activation est pendant l'accel, ça va™, mais plus tard c'est nul). <u>IMPORTANT :</u> le skill recevra un buff plus tard, et s'activera pendant le **mid-race**, devenant ainsi **parfaitement fiable**.
+    * **Stamina Siphon** est la version gold de Stamina Eater. C'est un skill gold hybride debuff HP + gold recovery en distance Long. Le skill s'active aléatoirement en mid-race si votre uma est à l'arrière, pire que que top4. Il cible les 5 uma les plus proches, et leur retire 1% de HP (efficacité d'un debuff white), et rend 5,5% HP à l'utilisatrice. C'est donc une gold recovery. <u>IMPORTANT :</u> le skill sera **nerf** plus tard, et rendra seulement 3,5% de HP (plus efficace que 2 recovery white, moins qu'une gold).
+* Son skill unique est un boost de vitesse, s'activant si Cafe est entre 4e et 6e (en CM ; sinon c'est entre les positions top40%-70%) après la moitié de la course. La plupart du temps, ce sera un boost de mid-race, de la même durée (6s de base) et puissance (+0.25 m/s) que Gold Ship. Pour Cafe le skill est cependant plus difficile à activer à cause de la condition de position. Cette activation moins évidente augmente les chances que le skill s'active un peu plus tard (52-55% de la course au lieu de 50%) et induise un **carry over**. Le skill est fiable en Late, mais un peu plus délicat à pop en tant que End, car Cafe sera plus à l'arrière. Pour faciliter l'activation, une abondance de wits et de skills de mid-race seront des bons atouts afin de se positionner un peu plus à l'avant.
+    > Sur le [CM Libra Cup](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-libra-cup-2025.md), l'utilisation de l'accel **Highlander** -qu'elle a naturellement- l'aidera parfois à **prendre position plus à l'avant** en early-race, et est donc très recommandée pour Cafe (exactement comme les Frontline)
+* On notera qu'en gagnant les 4 courses long de sa carrière, Manhattan Cafe obtient des hints ❗ pour le très bon skill **Long Straightaways** en fin de carrière. Ajouter 2 courses long facultatives permet aussi d'obtenir **Long Corners**, mais c'est plutôt déconseillé sur Unity Cup (de plus, Kitasan Black speed SSR donne aussi ce hint).
 
 #### PULL OU PAS ?
 
-**Si vous l'aimez**. Elle n'a rien de bien notable, ni positivement ni négativement. Dans les futurs scénarios ce sera "bénéfique" d'avoir No Stopping Me directement, étant donné que Unity Cup ne sera plus là pour nous le donner. C'est tout.
+**Envisagez le**, surtout si vous l'aimez. Overall c'est une bonne uma, avec des bons atouts, surtout son skill unique. Elle sera forte sur le CM Libra Cup, qui se joue sur **Kikuka Sho**, et une solide option sur tous les CM long. Elle sera aussi tout à fait capable en distance medium une fois que le skill gold **Relax** aura été buff. Enfin, tous ses skills sont fiables en Team Trials. Malgré les bonnes uma qui arrivent prochainement, Cafe est un assez bon usage de vos carats :carat:.
 
 ---
 
-### Bannière support : Seiun Sky stamina SSR & Yaeno Muteki power SSR (rerun)
+### Bannière support : Nakayama Festa stamina SSR & Sirius Symboli guts SR (rerun)
 
 ![Image de présentation de la bannière Tamamo Cross power SSR & Zenno Rob Roy speed SSR](/public/assets/Gacha-reviews/2025/023_Card-Banner_JP.png)
 
