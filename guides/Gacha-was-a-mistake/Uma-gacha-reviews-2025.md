@@ -631,3 +631,26 @@ Super Creek alt est vraiment un très bon exemple de comment mal concevoir une u
 
 :::
 
+## #23 - Kawakami Princess ★★★
+
+![Image de présentation de la bannière Kawakami Princess ](/public/assets/Gacha-reviews/2025/023_Uma-Banner.png)
+
+::: details REVIEW
+
+_Kawakami Princess est une Late Surger génériquement plutôt compétente, capable de courir sur distance medium. Avec de l'inspiration elle peut facilement courir en mile, en short ou en tant que Pace ou End. Elle possède l'accel gold No Stopping Me, qui marche bien en med et en long, ainsi que Rising Dragon, un skill de vitesse de final corner. Son skill unique est un boost de vitesse de final straight._
+
+* Kawakami a des bonus assez terribles ; 10% power bonus :power: et 20% guts :guts:. Le power bonus est appréciable, mais est fortement gâché par le guts bonus. D'une part car power n'augmente pas guts (donc pas de gain de guts en utilisant des cartes power), et d'autre part car le guts bonus est largement supérieur au power bonus. Pour jouer des cartes guts, on souhaite -au contraire- avoir peu/aucun guts bonus, et du speed + power bonus à la place, afin d'avoir un bon gain de speed et power en cliquant sur guts. Là, avec 20% guts bonus, vous allez atteindre le max de guts très très vite, et speed et power auront du mal à monter. C'est terrible comme bonus.
+
+* Ses aptitudes sont assez claires ; par défaut elle est apte à courir en tant que Late sur distance med. Avec un peu d'inspiration elle peut courir en tant que Pace (4*) ou End (7*), sur distance Mile (1*) ou Sprint (4*). Aucun de ces changements d'aptitudes n'impacte l'activation de son skill unique.
+
+* Sa sélection de skill gold est bonne :
+    * **No Stopping Me** est la version gold de Nimble Navigator. C'est un skill hybride accélération + navigation late-race, s'activant si une uma est "devant" pendant 1 seconde. Depuis le [11 novembre 2025](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#skills), le skill s'active bien en med et en long, et est donc une bonne source d'accel sur ces distances là. En Sprint et en Mile, la fiabilité s'écroule en revanche.
+        > Pendant le scénario Unity Cup, toutes les uma peuvent avoir No Stopping Me, mais après ce scénario, le skill sera plus difficile à obtenir, ce qui en fait un atout pour Kawakami.
+    * **Rising Dragon** est la version gold de Outer Swell. C'est un skill de vitesse final corner. L'activation est plutôt fiable, et sur les distances sprint et mile, le skill a parfois une chance de carry over. Ironiquement, en distance medium le skill s'activera souvent pendant la phase d'accélération, ce qui le gâchera en partie (ce n'est pas hyper grave car il dure -de base- 3s).
+* Son skill unique est un boost de vitesse sur le final straight, si Kawakami est contestée latéralement pendant 2 secondes. L'activation est moyennement fiable, et risque de ne pas s'activer si Kawakami est isolée ou si elle dépasse/se fait dépasser trop vite. En mile et en sprint, le skill a une chance de s'activer en pleine accel, et ainsi être partiellement gâché.
+
+#### PULL OU PAS ?
+
+**Si vous l'aimez**. Elle n'a rien de bien notable, ni positivement ni négativement. Dans les futurs scénarios ce sera "bénéfique" d'avoir No Stopping Me directement, étant donné que Unity Cup ne sera plus là pour nous le donner. C'est tout.
+
+:::
