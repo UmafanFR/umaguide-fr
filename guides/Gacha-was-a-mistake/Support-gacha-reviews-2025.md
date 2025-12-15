@@ -8,6 +8,12 @@ order: 2
 
 # Review des anciennes bannières gacha cartes support
 
+::: tip Auteurs
+
+Les review sont écrites par **Yamakyu** et **Kamuisaki**, n'hésitez pas à nous faire des retours 🌟
+
+:::
+
 Ce post a pour but de garder un snapshot de l'évaluation des différentes bannières support qui ont existé en 2025. Il peut vous servir à vous faire une idée de si une carte est intéressante, si vous avez la chance de la pull au hasard plus tard.
 
 ::: warning L'archive des review ne reflète pas l'évolution du jeu.
@@ -22,7 +28,7 @@ Gardez toujours ceci en tête.
 
 ⚠️ **Il est possible que la pertinence des review écrites AVANT le 11 novembre 2025 ait changé** ; si un skill gold a subi une modification importante, la valeur des cartes support qui le donnent va avoir changé aussi (exemple : Killer Tune dure est bien meilleur depuis le 11 novembre). 
 
-**CES CHANGEMENTS NE SONT <u>_PAS_</u> MIS À JOUR DANS LES REVIEW basée sur l'état du jeu _AVANT le 11 novembre_**. Les review écrites avant le 11 novembre 2025 restent telles quelles.
+**CES CHANGEMENTS NE SONT <u>_PAS_</u> MIS À JOUR DANS LES REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_**. Les review écrites avant le 11 novembre 2025 restent telles quelles.
 
 Pour vous informer sur les changements qui se sont produits le 11 novembre 2025, vous pouvez [consulter cette page](/guides/News-majeurs-autres/2025-11-11_Half-anni.md) (non exhaustif !!!)
 
@@ -88,7 +94,7 @@ En 2 mots : Yukino Bijin wits SSR est une carte wits moyenne, qui donne une acce
 ## #07 - Yaeno Muteki power SSR & Zenno Rob Roy stamina SR
 ![Image de présentation de la bannière Yaeno Muteki power SSR & Zenno Rob Roy stamina SR](/public/assets/Gacha-reviews/2025/007_Card-Banner.png)
 
-::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 * Zenno Rob Roy stam SR continue sur la lancée des bonnes cartes stam SR, et n'aura pas de difficultés mal à monter stamina. À MLB elle surpasse strictement Manhattan Cafe stam SR. Sa sélection de skills laisse malheureusement à désirer.
 * Yaeno Muteki power SSR est une carte power plutôt moyenne en termes de gain de stats (inférieure à Oguri Cap power SSR à MLB), avec une contribution moyenne à la croissance de Power. Elle offre par contre une très bonne sélection de skills. Son skill gold est **It's On**, la version gold de "Ramp Up", et est donc presque universellement désirable (ne s'active pas pour la Front en 1e position s'il n'y a pas d'autre Front). Vous pouvez obtenir par hints ❗ 3 autres skills de vitesse universels.
@@ -103,7 +109,7 @@ Easy skip, mais Yaeno Muteki est assez sympa comme carte à emprunter pour **far
 ## #08 - Super Creek stamina SSR & Tazuna Hayakawa pal SSR (rerun)
 ![Image de présentation de la bannière Super Creek stamina SSR & Tazuna Hayakawa pal SSR](/public/assets/Gacha-reviews/2025/008_Card-Banner.png)
 
-:::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+:::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 * Bon c'est bien je profite de la bannière pour __clarifier__ ça tout de suite : *Tazuna SSR **EST** une bonne carte support*, surtout sur le scénario URA (on reparle d'elle [dans la FAQ](/guides/FAQ/faq-others.md#tazuna-hayakawa-pal-ssr-est-une-mauvaise-carte-support)). Je sais pas d'où vient la rumeur qu'elle est naze, mais c'est incorrect. Sa durée de vie est pas giga longue, car à partir du 2e scénario ce sera pas simple (mais possible) de l'intégrer au deck. Mais sur URA elle est tout à fait bien, et donne l'excellent skill gold Concentration. Ce skill est fondamental pour les Front Runner, et génériquement très bon pour toutes les stratégies en Team Trials (il donne souvent les points bonus de bon départ).
 * Tazuna est une carte qui soutient indirectement votre carrière, en réduisant l'énergie dépensée en entrainement, en réduisant les chances d'échec d'entrainement, en vous offrant des recreations qui font ***Repos + Mood Up** en même temps -qui ne peuvent **pas** échouer-*, et en supprimant un de vos debuffs. De manière générale les cartes Pal servent à stabiliser vos carrières, et apportent une légère contribution aux stats directes (Training bonus 10 - Mood effect 30).
@@ -130,7 +136,7 @@ Si vous avez peu de carats et pas encore de Creek, c'est chaud.
 ## #09 - Sakura Chiyono O stamina SSR & Seeking The Pearl guts SR
 ![Image de présentation de la bannière Sakura Chiyono O stamina SSR & Seeking The Pearl guts SR](/public/assets/Gacha-reviews/2025/009_Card-Banner.png)
 
-::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 * Chiyono O stam SSR est une carte stamina génériquement moyenne, qui peut être une bonne 2e carte stamina, mais à ne pas utiliser seule. Avec un faible spec priority et beaucoup de mood effect, elle aura surtout tendance à contribuer indirectement aux autres stats (cross-training), et ne sera pas particulièrement efficace pour monter stamina.
 * La carte est plutôt **frontloaded**, et gagne assez peu de valeur entre 1LB et MLB (mais après c'est pas non plus une carte à très grande valeur une fois MLB anyways :CurrenDevilish:)
@@ -149,7 +155,7 @@ Easy skip. Très peu de valeur ajoutée sur cette bannière, vous pouvez l'ignor
 ## #10 - Kawakami Princess speed SSR & Hishi Akebono guts SSR
 ![Image de présentation de la bannière Kawakami Princess speed SSR & Hishi Akebono guts SSR](/public/assets/Gacha-reviews/2025/010_Card-Banner.png)
 
-::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ ***Kawakami Princess speed SSR***
 * Carte assez frontloaded : elle donne la plupart de ses "bons" bonus dès 1LB.
@@ -174,7 +180,7 @@ J'adore Hishi Akebono hein. Mais une carte éclatée au sol reste éclatée au s
 ## #11 - Silence Suzuka speed SSR et Tamamo Cross stam SSR (rerun)
 ![Image de présentation de la bannière Silence Suzuka speed SSR et Tamamo Cross stam SSR](/public/assets/Gacha-reviews/2025/011_Card-Banner.png)
 
-::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Tamamo Cross stam SSR**
 * *Eeeeeeeeeeeeh*.
@@ -206,7 +212,7 @@ _ENVISAGEZ LE :_
 ## #12 - Bamboo Memory power SSR & Shinko Windy speed SR
 ![Image de présentation de la bannière Bamboo Memory power SSR & Shinko Windy speed SR](/public/assets/Gacha-reviews/2025/012_Card-Banner.png)
 
-::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Bamboo Memory power SSR**
 * _Eeeeeeeeeeh_
@@ -230,7 +236,7 @@ _ENVISAGEZ LE :_
 ## #13 - King Halo power SSR et Seiun Sky wits SSR
 ![Image de présentation de la bannière King Halo power SSR et Seiun Sky wits SSR](/public/assets/Gacha-reviews/2025/013_Card-Banner.png)
 
-::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **King Halo power SSR**
 * La carte est **frontloaded** : à 1LB elle donne déjà tous ses bonus intéressants, et ne débloque que "initial power" à 3LB.
@@ -259,7 +265,7 @@ King Halo power SSR est -certes- un bon stat stick, avec un gain de power proche
 ## #14 - Mejiro Ryan guts SSR & Mejiro Ardan wits SR
 ![Image de présentation de la bannière Mejiro Ryan guts SSR & Mejiro Ardan wits SR](/public/assets/Gacha-reviews/2025/014_Card-Banner.png)
 
-::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Mejiro Ryan guts SSR**
 * La carte est **frontloaded** : à 1LB elle donne déjà la plupart de ses bonus intéressants, et ne débloque que "initial friendship gauge" à 3LB.
@@ -285,7 +291,7 @@ Ryan SSR n'est pas bonne, et Ardan SR est une SR que vous voudrez pick up sur un
 
 ![Image de présentation de la bannière Vodka power SSR et Nishino Flower speed SSR](/public/assets/Gacha-reviews/2025/015_Card-Banner.png)
 
-::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Vodka Power SSR**
 * La carte est **particulièrement frontloaded**, et est même réputée pour ça : à 1LB elle donne déjà la plupart de ses bonus intéressants, et ne débloque que hint levels et hint frequency à 3LB. De plus, à 1 LB elle a déjà un **spec prio et un friendship bonus particulièrement élevés**, ce qui fait très vite d'elle une très bonne carte pour monter power.
@@ -315,7 +321,7 @@ Rice Shower power SSR marche un peu sur une partie de la niche de Vodka power, e
 
 ![Image de présentation de la bannière Sweep Tosho speed SSR et Winning Ticket stamina SSR](/public/assets/Gacha-reviews/2025/016_Card-Banner.png)
 
-:::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+:::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Sweep Tosho speed SSR**
 * La carte est **bien frontloaded** : à 1LB elle a déjà un friendship bonus très élevé, 50 spec prio et +1 skill bonus. Elle débloque un peu de mood bonus à 3LB.
@@ -366,7 +372,7 @@ C'est aussi une très bonne bannière pour _**reroll**_. Donc ok pour les début
 
 ![Image de présentation de la bannière Tokai Teio speed SSR & Special Week guts SSR](/public/assets/Gacha-reviews/2025/017_Card-Banner.png)
 
-:::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+:::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Tokai Teio speed SSR**
 * La carte est plutôt **frontloaded** : à 1LB elle a déjà des bonus de stats corrects (incluant power bonus). Elle débloque Race bonus et Fan bonus à 3LB.
@@ -399,7 +405,7 @@ Aucune des cartes n'est de qualité notable, et des bannières importantes arriv
 
 ![Image de présentation de la bannière Nice Nature wits SSR & Tosen Jordan stamina SR](/public/assets/Gacha-reviews/2025/018_Card-Banner.png)
 
-:::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+:::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Nice Nature wits SSR**
 * La carte a une croissance plutôt équlibrée : on pourrait penser qu'elle est frontloaded, vu qu'à 1LB elle a déjà son 2e wits bonus, mais ce serai ignorer son gain de race bonus à 3LB puis MLB.
@@ -439,7 +445,7 @@ C'est pas évident.
 
 ![Image de présentation de la bannière Rice Shower power SSR & Riko Kashimoto pal SSR](/public/assets/Gacha-reviews/2025/019_Card-Banner.png)
 
-:::: details REVIEW basée sur l'état du jeu _AVANT le 11 novembre_
+:::: details REVIEW (par Yamakyu) basée sur l'état du jeu _AVANT le 11 novembre_
 
 ⏩ **Riko Kashimoto** :friends: :ssr:
 
@@ -495,7 +501,7 @@ Enfin, c'est tout à fait raisonnable de pull pour compléter votre collection d
 
 ![Image de présentation de la bannière Biko Pegasus speed SSR & Sakura Bakushin O speed SSR](/public/assets/Gacha-reviews/2025/020_Card-Banner.png)
 
-::: details REVIEW
+::: details REVIEW (par Yamakyu)
 
 ⏩ **Biko Pegasus** :speed: :ssr:
 * La carte est assez **frontloaded** : dès 1LB elle a déjà son 1 speed bonus, et 16 training bonus. Elle débloque Initial Friendship Gauge à 3LB.
@@ -529,7 +535,7 @@ Bref, cette bannière a 4 problèmes, et ces 4 problèmes ce sont **les autres b
 
 ![Image de présentation de la bannière Ikuno Dictus guts SSR & Fine Motion power SR](/public/assets/Gacha-reviews/2025/021_Card-Banner.png)
 
-::: details REVIEW
+::: details REVIEW (par Yamakyu)
 
 ⏩ **Ikuno Dictus** :guts: :ssr:
 * La carte est assez **frontloaded** : dès 1LB elle a déjà son 1 guts bonus, et 10 training bonus. Elle débloque Initial Friendship Gauge à 3LB.
@@ -557,7 +563,7 @@ Ikuno Dictus guts SSR et Finemo power SR sont toutes les deux franchement pas te
 
 ![Image de présentation de la bannière Tamamo Cross power SSR & Zenno Rob Roy speed SSR](/public/assets/Gacha-reviews/2025/023_Card-Banner.png)
 
-::: details REVIEW
+::: details REVIEW (par Yamakyu)
 
 ⏩ **Seiun Sky** :stamina: :ssr:
 
@@ -587,7 +593,7 @@ Commme la bannière Kitsan rerun (ou autre) par exemple :currenDevilish:
 
 ![Image de présentation de la bannière Tamamo Cross power SSR & Zenno Rob Roy speed SSR](/public/assets/Gacha-reviews/2025/022_Card-Banner.png)
 
-::: details REVIEW
+::: details REVIEW (par Yamakyu)
 
 
 ⏩ **Zenno Rob Roy** :speed: :ssr:
@@ -613,3 +619,33 @@ Elle n'est pas "*très bonne*", et c'est son principal défaut et la raison pour
 Notez cependant que la bannière rerun Kitasan Black est dans quelques semaines, et que c'est une bien meilleure bannière pour faire des rerolls.
 
 ::: 
+
+## #24 - Nakayama Festa stamina SSR & Sirius Symboli guts SR
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/024_Card-Banner.png)
+
+::: details REVIEW (par Yamakyu)
+
+⏩ **Nakayama Festa** :stamina: :ssr:
+
+* La carte a une croissance équilibrée ; à 1LB la carte obtient 1 stamina bonus, et 5 training bonus à 3LB, poussé à 10 une fois MLB.
+* Nakayama Festa stamina SSR est une bonne carte stamina, avec une bonne contribution pour la croissance de stamina, tout comme des autres stats. Fait notable ; elle a 1 stamina bonus **ET** 1 guts bonus. Pour le moment c'est quelque chose de très rare, et ce sera particulièremnt bénéfique aux uma qui ont -malheureusement- du guts bonus. On regrette un peu son manque total de race bonus, mais d'un autre côté 50 Hint Frequency et 3 Hint level bonus, c'est *bien sympa*, vu que plusieurs de ses hints ❗ sont -aussi- _bien sympa_.
+* Sa séléction de hints ❗ est plutôt vaste, et globalement bonne. Il y'a 3 skills greens de fiabilité, euh, *variable* (:currenDevilish:), un white debuff de HP, et 4 skills de vitesse med et late, ainsi que Slick Surge.
+* Le skill gold obtenu est **Come What May**, la version gold de All I've Got. C'est un bon skill gold de vitesse, s'activant sur le final straight en étant top60% mais pas première. La condition correspond à toutes les uma, sauf la Front en 1e position, et le skill s'active généralement très bien et à un bon timing.
+* Le chain event de Festa a ceci de particulier que le **choix que vous faites sur le <u>1e event</u> influe sur la récompense du <u>3e event</u>**. Ainsi, si vous choisissez l'option du haut sur le 1e event, vous obtiendrez -de manière garantie- le très bon skill **Uma Stan**. Si par contre vous choissiez l'option du bas sur le 1e event, vous aurez -au hasard- **Come What May**, ou son white **All I've Got** (agemasen).
+> Ce type de carte support où le choix sur un chain event influe sur la récompense finale au dernier chain deviendra un peu plus commun plus tard, sans pour autant devenir habituel.
+* Un de ses events aléatoire vous restaure 15 énergie, et l'autre vous permet de choisir un green entre Nakayama Racecourse et Hanshin Racecourse.
+
+⏩ **Sirius Symboli** :guts: :sr:
+
+* Sirius Symboli est une carte guts de qualité décente, mais peu impressionnante.
+* La carte est backloaded ; un de ses principaux intérêts est le +1 speed bonus qu'elle ne débloque malheureusement qu'à MLB.
+* Sirius Symboli guts SR est une carte guts avec un bon spec prio et des rainbow plutôt corrects, qui seront surtout utiles pour monter speed :speed:, grâce à son speed bonus. En plus du gain de speed par les rainbow, Sirius Symboli guts sera aussi utile en cross training avec son mood bonus, son training bonus, et aussi son speed bonus si elle tombe en speed ou wits. On regrette son faible race bonus, mais l'absence de Hint Level et Frequency bonus n'est pas bien grave car ses hints ❗ sont assez ignorables.
+* Sa sélection de hints ❗ est assez quelconque, avec Medium Corners, Prepared to Pass, et 2 greens.
+* Le skill white obtenu à la fin de son chain event est **Shrewd Step**, la version white de Technician, une accel complètement osef. Sur son dernier chain event, vous avez la possibilité de choisir l'option du haut pour obtenir _à la place_ +15 speed et +15 power (cette option peut échouer).
+
+#### PULL OU PAS
+
+**Pas vraiment**. Nakayama Festa stam SR est plutôt une carte à emprunter (ça peut être sympa pour une run de TT med), et Sirius Symboli vous n'avez essentiellement aucune raison de vouloir la MLB immédiatement. Ça peut tout à fait attendre une bannière future 👍🏾
+
+:::
