@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/024_Banners_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/025_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -129,7 +129,7 @@ _Gold City (Festival) est une Late Surger en Mile. Elle peut aussi courir en Pac
 * Son skill unique est un hybride de speed / accélération, s'activant entre le 3ème place et la 6ème place en CM (top30% ←→ top70%) dans le final corner, si une uma l'a bloqué sur un côté pendant 2 secondes. Sur les courses mile (et certaines med), le skill pourra induire un carry-over s'il s'active un peu avant la phase d'accélération, ou de l'accel autrement. En revanche, la condition d'activation est un peu glissante ; pendant le final corner les uma s'étalent latéralement pour se libérer le passage, donc le blocage latéral requis n'est pas hyper fiable.
 * Parmi ses skills whites, elle peut obtenir -via des **évènements**- le white speed mile Unyielding Spirit, ainsi que le white speed Late 1,500,000 CC, et la white accel Late Slick Surge. 
 
-__
+---
 
 #### PULL OU PAS
 
@@ -189,9 +189,123 @@ Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un 
 
 ### Bannière Umamusume à suivre : Tosen Jordan ★★★
 
+_Tosen Jordan est une Pace Chaser Medium décente. Avec un peu d'inspiration, elle peut aussi courir en Long, ou en étant une Late Surger (1* pour les 2 aptitudes). Elle possède une gold recovery fiable pour Pace Chaser et un gold d'accélération pour Late Surger, ce qui est un peu dommage. Son unique est un boost de vitesse basique sur le final straight._
+
+* Tosen Jordan a 3 bonus de croissance : 10% en Speed :speed:, 10% en Power :power: et 10% en Guts :guts:. Ce n'est pas un excellent combo de bonus ; le bonus Stamina aurait été préféré à Guts, car elle est apte à courir en distances Medium et potentiellement Long. Mais le speed bonus et power bonus sont très appréciables. Ses decks vont principalement dépendre de la stratégie dans laquelle vous voulez la faire courir, car sa gold recovry Pace Chaser réduira le besoin en samina (en Long, elle sera plus apte à courir en tant que Pace Chaser grâce à ça).
+
+* Ses Gold skills sont :
+    * **Race Planner**, la gold version de Preferred Position. C'est une gold recovery pour Pace Chaser qui s'active en Mid-Race en étant top 50%. C'est une très bonne recovery fiable.
+    * **On Your Left !**, la gold version de Slick Surge. C'est une gold accel pour Late Surger qui s'active en Late-Race, en étant dans le bottom 50%. Le skill est meilleur sur les distances les plus courtes (Sprint, Mile, Medium 2000m).
+
+::: tip Évolutions (skills pink)
+
+Quand les skills évolués (rose) seront implémentés, ces 2 skills pourront être utilisés en Pace Chaser tout comme en Late Surger, réglant ainsi le problème des stratégies incohérentes. 
+
+:::
+
+* Son skill unique est un speed boost basique s'activant dans le final straight si elle est dans le top 40%, après un dépassement réussi ou en étant une cible de dépassement. L'unique s'active bien en Medium et en Long, que ce soit en Pace Chaser ou Late Surger. 
+
+#### PULL OU PAS
+**Si c'est une de vos Oshi, oui**. 
+
+Tosen Jordan est une uma correcte, qui est pour l'instant limitée par les stratégies incohérentes de ses Golds. Quand les skills roses seront sur la version globale, ce défaut sera effacé, ce qui la rendra meilleure.
+
+Si vous n'avez pas Kitasan Black à au moins 3LB non (visez MLB), vous allez plutôt vouloir la favoriser, car sa bannière est en même temps et **bien plus importante**.
+
 ---
 
-### Bannière support à suivre : Kitasan Black speed SSR & El Condor Pasa power SSR
+### Bannière support à suivre : Kitasan Black speed SSR & El Condor Pasa power SSR (rerun)
+
+Je mets les review en "caché", pas parce qu'il y a des spoilers ou quoi, mais parce qu'on SAIT que vous savez pourquoi la bannière Kitasan rerun est attendue. Vous n'apprendrez rien de nouveau, et les review sont déjà assez longues comme ça :currenDevilish: Ce qui vous intéresse c'est vos pulls
+
+:::: details REVIEW (par Kamuisaki)
+
+⏩ **Kitasan Black** :speed: :ssr:
+
+* Bien qu'elle ait plusieurs bons bonus à faible LB, Kitasan Black est en réalité **très backloaded**, et est justement remarquable pour son **specialty priority de 116** une fois MLB.
+
+* Kitasan Black speed est notable pour pas mal de choses, mais est réputée pour ses rainbows fréquents (1 chance sur 3), et de bonne qualité : la combinaison de ses bonus lui feront fortement contribuer à la croissance de speed (et power). Ils arriveront assez rapidement grâce à son Initial Friendship Gauge assez élevé. Elle participera aussi au cross training, avec 15 training effectiveness, mais souffre légèrement de son Race Bonus à 5% : son usage va diminuer pour le prochain scénario (MANT), avant de revenir au top des supports plus tard. Elle reste le choix évident pour les joueur·euse·s free-to-play en particulier, qui n'auront pas forcément les cartes "de luxe" pour MANT.
+
+::: tip 116 Specialty Priority
+
+Bien que Gametora.com affiche son spec prio à 100 -par simplification-, Kitasan Black speed SSR a bel et bien **116 specialty prio**, ce n'est pas une erreur.
+
+Avec 116 specialty priority, Kitasan Black speed SSR est toujours -à ce jour- la carte avec le **2e plus haut specialty priority sur la version JP**.  Il y a 2 cartes qui ont 120 spec prio sur la JP, et plusieurs qui ont 100. 
+
+_116 c'est vraiment vraiment beaucoup_ : ça fait **32,5% chance d'être en rainbow** (contre 25% à 50 spec prio, ou 18,25 à 0 spec prio).
+
+:::
+
+* Elle a une très bonne liste de hints (8 hints) dont seulement 1 est mauvais. Sur les 7 bon skills, elle a 3 skills pour Front Runner. 2 de ces skills hints lui sont uniques pour l'instant (Dodging Danger et Long Corners), et elle sera toute indiquée pour vous donner les 3 autres skills (Front Runner Straightaway, Focus et Corner Adept) grâce à son Hints Level 2 et son Hint Frequency.
+
+* Le skill gold obtenu est **Professor of Culvature**, la version gold de Corner Adept. C'est un speed skill universel, qui s'active aléatoirement sur un corner aléatoire, et pouvant s'activer 2 fois sur certaines courses (surtout en long). Le skill était déjà excellent, et le [patch du 11 novembre](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#skills) l'améliore davantage, en allongeant sa durée et en changeant son activation sur un corner aléatoire. Suite à ce changement, il y a maintenant 3 différentes activations : soit il reste un skill de vitesse basique, soit il peut faire du carry-over sur les courses où la phase d'accélération se trouve en corner, soit il peut s'activer en début de phase d'accélération et perd un peu de son boost de vitesse. Le plus souvent, le skill aura le 1er résultat et le plus rare est le 3ème.
+
+* Plusieurs de ses events vous aident en carrière ! Son 1e chain event vous donne un mood up, son 2e peut vous faire mood up + gain d'énergie, l'un de ses events aléatoires vous donne le choix entre mood up et gain d'énergie, et l'autre vous peut vous donner le buff **Practice Perfect** (pour effacer Bad Practice).
+
+
+⏩ **El Condor Pasa** :power: :ssr:
+
+* La carte est légèrement **backloaded** : à 1LB elle débloque Power Bonus, puis Training Effectiveness à 3LB. On voudra la MLB pour maximiser son Race Bonus (10%), son Specialty Priority (70) et son Training Effectiveness.
+
+* El Condor Pasa power a de bons rainbows, relativement fréquents et pas trop tardifs, et sera aussi plutôt bonne en cross training. Son gain de stats est donc plutôt solide en général. Vous pourrez aussi l'utiliser sur le prochain scénario (MANT), grâce à son 10 Race Bonus. 
+
+* Sa sélection de hints (7 hints) est bonne, avec 2 Greens, 4 skills de Speed et 1 skill de vision. Cependant, le fait qu'elle n'aie pas de Hint Level Bonus et de Hint Frequency Bonus compliquera le hint farming. On préfèrera farm les skills avec des SR qui ont les 2 bonus de Hints.
+
+* Le skill gold obtenu est **Killer Tunes**, la version Gold de Up-Tempo. C'est un skill de speed pour le Medium qui s'active dans le Mid-Race, en étant top 50%. Le skill a été grandement amélioré lors de la [mise à jour du 11 novembre](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#skills) ; sa durée a été fortement augmentée. C'est maintenant un bon skill à prendre pour les courses Medium.
+
+* L'option du haut sur son 2e chain event vous rend **+30 énergie** d'un coup (l'option du bas met fin à la chaîne) !
+
+::::
+
+#### PULL OU PAS
+
+_**La bannière est excellente.**_
+
+Vous connaissiez déjà l'importance de Kitasan Black speed SSR : c'est la **meilleure carte speed** pendant très très longtemps, et un asset essentiel surtout pour les joueur·euse·s free-to-play (et les whales aussi hein). El Condor Pasa power SSR est aussi *très solide*, et grandement aidée par l'amélioration de son skill gold. Bref, ce sont 2 (très) bonnes cartes supports, qui sont devenues meilleures après le 11 novembre (surtout Pasa).
+
+Pour savoir si vous faites des pulls, dites vous que la cible est bien **Kitasan Black speed SSR, 3LB ou MLB**. Pasa power est bonne, mais pas assez pour dépenser vos carats :carat:. C'est en revanche un bon spook. Du coup :
+
+* **Si vous avez déjà MLB Kitasan Black, NON**. Pas de pulls pour Pasa power.
+
+* Si vous n'avez pas de Kitasan Black, OU que vous l'avez 2LB ou moins, ET que vous avez au moins 30000 :carat: (soit un spark) : **<u>OUI</u>**. Pas d'hésitation.
+
+* Vous pouvez aussi envisager de pulls si vous avez moins qu'un spark, mais gardez en tête que GACHA WAS A MISTAKE.
+
+* Si votre Kitasan Black est déjà 3LB, là c'est délicat. Par sureté, on préfèrerai éviter de prendre des risques et garder Kitasan à 3LB (déjà une bonne carte speed). Vous aurez d'autres opportunités de l'avoir, soi sur une future bannière, soi sur un futur ticket. Vous pouvez bien entendu tenter votre chance, mais then again : GACHA WAS A MISTAKE.
+
+::: tip Hésitation ?...
+
+Le ref doc n'est pas aussi tranché sur la nécessité de pull Kitasan Black speed SSR, et les arguments sont bons : bien qu'elle reste la meilleure carte speed pour encore un bon moment, son utilisation sera rendue légèrement moins évidente par le fait qu'il y aura d'autres options intéressantes en speed, et peut-être plus optimales.
+
+* Matikanefukukitaru speed SSR et Narita Top Road speed SSR sont toutes deux désirables pendant le scénario MaNT, et pendant ce scénario vous n'utiliserez pas forcément toujours 3 cartes speed. Cependant, ces 2 cartes ont une très courte durée de vie, et sont bien moins recommandables (surtout Fuku) après MaNT.
+* Plus tard, Maruzensky speed SSR sortira et sera *excellente* pour le cross training. Ce sera une très bonne cible de pulls, en particulier si vous entrainez beaucoup de Front Runners.
+* À la sortie du scénario Grand Live, Agnes Tachyon speed SSR sera particulièrement désirable. 
+
+Kitasan aura donc de la concurrence sur les scénarios MaNT et GL. Pendant le 5e scénario (Grand Masters) elle sera de nouveau un choix très opti, et avec l'arrivée du 6e scénario (L'Arc), elle sera rendue "obsolète" (mais toujours utile) par El Condor Pasa speed SSR.
+
+Pull pour Kitasan ou pas est donc un choix entre longévité (jusqu'au 6e scénario) et optimisation (pour les scénarios MaNT et GL).
+
+Je (Yamakyu) vous recommande de choisir la longévité.
+
+:::
+
+La cible c'est Kitasan <u>**3LB**</u>. La carte est moins bonne que des tas de cartes speed à 0, 1 et 2LB, devient très bonne à 3LB, et est la meilleure à MLB. Après vos pulls, selon vos résultats, vous pouvez décider d'utiliser votre **ticket SSR** _PUIS_ votre cristal (*dans cet ordre* : d'abord le ticket) pour augmenter les LBs de Kitasan, et la monter à au moins **3LB**. C'est valide.
+
+Gardez en tête que l'utilisation du ticket/cristal pour passer Kitasan à <u>1 ou 2LB</u> est un **mauvais usage**. Votre utilisation du ticket/cristal (ou les 2 en même temps) doit absolument vous permettre d'atteindre *au minimum* 3LB, sinon c'est juste du gachis. 
+
+::: warning Nuance importante
+
+Si -par immense chance- vous obtenez Kitasan 2LB ou 3LB en très peu de pulls (genre moins de 80 ~), ET que vous avez encore votre ticket SSR, **ne terminez pas le spark !** Il vaut mieux garder vos :carat: pour une future bonne bannière, et garantir le passage à 3LB ou MLB à moindre coût ! Vous n'avez pas de garantie sur ce que les futurs carats dépensés vous obtiendront (gacha was a mistake).
+
+Prenez donc bien en compte votre ticket et/ou votre cristal pour décider de vos pulls.
+
+Si en revanche vous avez déjà fait beaucoup de pulls quand vous atteignez Kitasan 2LB ou 3LB, **finissez le spark**, quitte à spark El Condor Pasa power SSR (si -et seulement si- votre Kitasan est MLB d'ici le spark). Si vous décidez de terminer le spark, **finissez les 200 absolument AVANT d'utiliser le ticket pour up Kitasan**. Comme ça vous incluez le spark de Kitasan dans votre décision d'utilisation (ou pas) du ticket. Vous pouvez spark Pasa power, mais seulement si votre Kitasan est MLB.
+
+:::
+
+Bonne chance, Gacha was a mistake, et surtout :
+
+# HARIKITTE IKOU
 
 ---
 
