@@ -1,5 +1,5 @@
 ---
-title: Gacha - Manhattan Cafe ★★★ // Nakayama Festa stamina SSR & Sirius Symboli guts SR (rerun)
+title: Gacha - Symboli Rudolf alt et Gold City alt ★★★ // Curren Chan wits & Narita Brian stamina SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/024_Banners_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/025_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -32,9 +32,12 @@ _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
 Sur cette page nous tenterons d'évaluer la qualité des bannières gacha actuelles ; vous y trouverez une review des **bannières umamusume** et **bannières cartes support**. Le but est de vous aider à faire des pulls pertinents, et à **maximiser la valeur ajoutée des carats que vous dépensez !**
 
-::: warning Gardez en tête
 
-Bien que je fasse de mon mieux pour vous proposer des conseils pertinents, **j'ai aussi des BIAIS, et je fais des erreurs**. N'hésitez pas à double-check ces recommandations auprès d'autres vétérans ; des tas de gens font des recommandations de pull, surtout dans la commu anglophone.
+::: warning Auteurs
+
+Les review sont écrites par **Yamakyu** et **Kamuisaki**, n'hésitez pas à nous faire des retours 🌟
+
+Bien que nous fassions de notre mieux pour vous proposer des conseils pertinents, **nous avons aussi des BIAIS, et nous faisons des erreurs**. N'hésitez pas à double-check ces recommandations auprès d'autres vétérans ; des tas de gens font des recommandations de pull, surtout dans la commu anglophone.
 
 :::
 
@@ -98,69 +101,7 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Manhattan Cafe ★★★
-
-![Image de présentation de la bannière Manhattan Cafe ](/public/assets/Gacha-reviews/2025/024_Uma-Banner.png)
-
-_Manhattan Cafe est une late Surger compétente en distance Long, et presque tout aussi capable en distance medium. Grâce à ses aptitudes, elle peut aussi courir en tant que Pace Chaser ou End Closer, et être une End Closer sera souvent avantageux en Long. Elle a une gold recovery problématique pour le moment -mais qui sera buff plus tard-, et un debuff gold de stamina qui sert aussi de gold recovery pour le moment -mais qui sera **nerf** plus tard-. Son skill unique est un speed boost en mid-race, de la même puissance et durée que Gold Ship._
-
-* Cafe est la première uma a avoir un seul bonus de croissance : **30% stamina** :stamina: **bonus**. C'est très bien pour elle, car elle ne court que sur distance medium et long, qui requièrent une solide stamina. Avec un tel bonus, vous pourrez bien plus facilement atteindre la stamina requise avec des cartes power :power: pour les courses medium (et Arima Kinen), et atteindre la stamina requise en long avec une seule carte stamina. Ce qui rend le deck building assez flexible ; c'est typiquement assez facile d'intégrer une ou plusieurs cartes wits sans sacrifier stam. Et on va voir dans un instant que c'est commode.
-* Ses aptitudes sont un peu ambigues. Cafe est notée A seulement pour courir en distance Long en tant que Late. Cependant, sa carrière inclus plusieurs courses medium -pour lesquelles elle est notée B-. D'un autre côté, elle est noteé C End, ce qui est un peu dommage car les End sont notoirement fortes en Long (pour laquelle elle est notée A). Cela dit, C End est suffisant pour courir de manière tout à fait compétente dans la "early meta" du jeu (c'est à dire, maintenant ; ce ne sera p't'être plus le cas dans 1 ans ou 2), où la plupart des uma ont une faible valeur de wits. De plus, B medium devrait aussi être tout à fait suffisant pour gagner la plupart (?) des courses med de sa carrière, car en tant que Late/End, elle court naturellement vite. C'est juste un peu dommage qu'elle n'ait pas A Med, Long, Late et End, vu comme ce que semble suggérer le reste de son kit. Enfin, en théorie elle peut aussi courir en tant que Pace, mais ce sera rarement utile.
-* Sa sélection de skill gold est correcte, mais va changer dans quelques mois :
-    * **Relax** est la version gold de A Small Breather. C'est une mauvaise gold recovery Late Surger qui s'active aléatoirement en late-race, et a donc une chance non-nulle de s'activer trop tard (si l'activation est pendant l'accel, ça va™, mais plus tard c'est mauvais). <u>IMPORTANT :</u> le skill recevra un buff plus tard, et s'activera pendant le **mid-race**, devenant ainsi **parfaitement fiable**.
-    * **Stamina Siphon** est la version gold de Stamina Eater. C'est un skill gold hybride debuff HP + gold recovery en distance Long. Le skill s'active aléatoirement en mid-race si votre uma est à l'arrière, pire que que top4. Il cible les 5 uma les plus proches, et leur retire 1% de HP (efficacité d'un debuff white), et rend 3,5% HP à l'utilisatrice. C'est donc moins qu'une **gold recovery**. 
-
-::: warning Stamina Siphon
-
-On a la version NERF du skill. **Stamina Siphon restaure bien 3,5% de HP** ; plus qu'une white recovery (1,5%), et moins qu'une gold recovery (5,5%).
-
-:::
-
-* Son skill unique est un boost de vitesse, s'activant si Cafe est entre 4e et 6e (en CM ; sinon c'est entre les positions top40%-70%) après la moitié de la course. La plupart du temps, ce sera un boost de mid-race, de la même durée (6s de base) et puissance (+0.25 m/s) que **Gold Ship**. Pour Cafe le skill est cependant plus difficile à activer à cause de la condition de position. Cette activation moins évidente augmente les chances que le skill s'active un peu plus tard (52-55% de la course au lieu de 50%) et induise un **carry over**. Le skill est fiable en Late, mais un peu plus délicat à pop en tant que End, car Cafe sera plus à l'arrière. Pour faciliter l'activation, une **abondance de wits** :wit: et de **skills de mid-race** seront des bons atouts afin de se positionner un peu plus à l'avant.
-    > Sur le [CM Libra Cup](/guides/Modes%20de%20jeu/Champion's%20Meeting/cm-libra-cup-2025.md), l'utilisation de l'accel **Highlander** -qu'elle a naturellement- l'aidera parfois à **prendre position plus à l'avant** en early-race, et est donc très recommandée pour Cafe (exactement comme les Frontline)
-* On notera qu'en gagnant les 4 courses long de sa carrière, Manhattan Cafe obtient des hints ❗ pour le très bon skill **Long Straightaways** en fin de carrière. Ajouter 2 courses long facultatives permet aussi d'obtenir **Long Corners**, mais c'est plutôt déconseillé sur Unity Cup (de plus, Kitasan Black speed SSR donne aussi ce hint).
-
-#### PULL OU PAS ?
-
-**Envisagez le**, surtout si vous l'aimez. Overall c'est une bonne uma, avec des bons atouts, surtout son skill unique. Elle sera forte sur le CM Libra Cup, qui se joue sur **Kikuka Sho**, et une solide option sur tous les CM long. Elle sera aussi tout à fait capable en distance medium une fois que le skill gold **Relax** aura été buff. Enfin, tous ses skills sont fiables en Team Trials. Malgré les bonnes uma qui arrivent prochainement, Cafe est un assez bon usage de vos carats :carat:.
-
----
-
-### Bannière support : Nakayama Festa stamina SSR & Sirius Symboli guts SR
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/024_Card-Banner.png)
-
-⏩ **Nakayama Festa** :stamina: :ssr:
-
-* La carte a une croissance équilibrée ; à 1LB la carte obtient 1 stamina bonus, et 5 training bonus à 3LB, poussé à 10 une fois MLB.
-* Nakayama Festa stamina SSR est une bonne carte stamina, avec une bonne contribution pour la croissance de stamina, tout comme des autres stats. Fait notable ; elle a 1 stamina bonus **ET** 1 guts bonus. Pour le moment c'est quelque chose de très rare, et ce sera particulièremnt bénéfique aux uma qui ont -malheureusement- du guts bonus. On regrette un peu son manque total de race bonus, mais d'un autre côté 50 Hint Frequency et 3 Hint level bonus, c'est *bien sympa*, vu que plusieurs de ses hints ❗ sont -aussi- _bien sympa_.
-* Sa séléction de hints ❗ est plutôt vaste, et globalement bonne. Il y'a 3 skills greens de fiabilité, euh, *variable* (:currenDevilish:), un white debuff de HP, et 4 skills de vitesse med et late, ainsi que Slick Surge.
-* Le skill gold obtenu est **Come What May**, la version gold de All I've Got. C'est un bon skill gold de vitesse, s'activant sur le final straight en étant top60% mais pas première. La condition correspond à toutes les uma, sauf la Front en 1e position, et le skill s'active généralement très bien et à un bon timing.
-* Le chain event de Festa a ceci de particulier que le **choix que vous faites sur le <u>1e event</u> influe sur la récompense du <u>3e event</u>**. Ainsi, si vous choisissez l'option du haut sur le 1e event, vous obtiendrez -de manière garantie- le très bon skill **Uma Stan**. Si par contre vous choissiez l'option du bas sur le 1e event, vous aurez -au hasard- **Come What May**, ou son white **All I've Got** (agemasen).
-> Ce type de carte support où le choix sur un chain event influe sur la récompense finale au dernier chain deviendra un peu plus commun plus tard, sans pour autant devenir habituel.
-* Un de ses events aléatoire vous restaure 15 énergie, et l'autre vous permet de choisir un green entre Nakayama Racecourse et Hanshin Racecourse.
-
-⏩ **Sirius Symboli** :guts: :sr:
-
-* Sirius Symboli est une carte guts de qualité décente, mais peu impressionnante.
-* La carte est backloaded ; un de ses principaux intérêts est le +1 speed bonus qu'elle ne débloque malheureusement qu'à MLB.
-* Sirius Symboli guts SR est une carte guts avec un bon spec prio et des rainbow plutôt corrects, qui seront surtout utiles pour monter speed :speed:, grâce à son speed bonus. En plus du gain de speed par les rainbow, Sirius Symboli guts sera aussi utile en cross training avec son mood bonus, son training bonus, et aussi son speed bonus si elle tombe en speed ou wits. On regrette son faible race bonus, mais l'absence de Hint Level et Frequency bonus n'est pas bien grave car ses hints ❗ sont assez ignorables.
-* Sa sélection de hints ❗ est assez quelconque, avec Medium Corners, Prepared to Pass, et 2 greens.
-* Le skill white obtenu à la fin de son chain event est **Shrewd Step**, la version white de Technician, une accel complètement osef. Sur son dernier chain event, vous avez la possibilité de choisir l'option du haut pour obtenir _à la place_ +15 speed et +15 power (cette option peut échouer).
-
-#### PULL OU PAS
-
-**Pas vraiment**. Nakayama Festa stam SR est plutôt une carte à emprunter (ça peut être sympa pour une run de TT med), et Sirius Symboli vous n'avez essentiellement aucune raison de vouloir la MLB immédiatement. Ça peut tout à fait attendre une bannière future 👍🏾
-
----
-
-# Bannières à suivre (14 décembre 23h)
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/025_Banners_early_preview.jpg)
-
-Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un peu plus clair, et faire des choix plus pertinents pour vos pulls.
-
-### Bannière Umamusume à venir : Symboli Rudolf alt et Gold City alt ★★★
+### Bannière Umamusume : Symboli Rudolf alt et Gold City alt ★★★
 
 ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/025_Uma-Banner_JP.png)
 
@@ -188,7 +129,7 @@ _Gold City (Festival) est une Late Surger en Mile. Elle peut aussi courir en Pac
 * Son skill unique est un hybride de speed / accélération, s'activant entre le 3ème place et la 6ème place en CM (top30% ←→ top70%) dans le final corner, si une uma l'a bloqué sur un côté pendant 2 secondes. Sur les courses mile (et certaines med), le skill pourra induire un carry-over s'il s'active un peu avant la phase d'accélération, ou de l'accel autrement. En revanche, la condition d'activation est un peu glissante ; pendant le final corner les uma s'étalent latéralement pour se libérer le passage, donc le blocage latéral requis n'est pas hyper fiable.
 * Parmi ses skills whites, elle peut obtenir -via des **évènements**- le white speed mile Unyielding Spirit, ainsi que le white speed Late 1,500,000 CC, et la white accel Late Slick Surge. 
 
-__
+---
 
 #### PULL OU PAS
 
@@ -201,10 +142,9 @@ En l'état, Gold City (Festival) est meilleure que sa version orignale, grâce �
 Symboli Rudolf (Festival) a un problème majeur : son Gold Green, qui ne sera pas utile pendant un long moment (fin du 3e scénario, ou début du 4e). Symboli Rudolf (Festival) est une bonne uma qui ne peut démontrer son plein potentiel, que sur des CM précis. Il aurait fallu qu'elle sorte avant le lancement des CMs d'automne;
 
 
-
 ---
 
-### Bannière support à venir : Curren Chan wits & Narita Brian stamina SSR
+### Bannière support : Curren Chan wits & Narita Brian stamina SSR
 
 ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/025_Card-Banner_JP.png)
 
@@ -239,7 +179,133 @@ De plus, Narita Brian stamina SSR est une bonne carte stam, et est même _pas ma
 
 La bannière est bonne.
 
-(Man, ces reviews deviennent longues 🤔)
+---
+
+# Bannières à suivre (18 décembre 23h)
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/026_Banners_early_preview.jpg)
+
+Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un peu plus clair, et faire des choix plus pertinents pour vos pulls.
+
+### Bannière Umamusume à suivre : Tosen Jordan ★★★
+
+_Tosen Jordan est une Pace Chaser Medium décente. Avec un peu d'inspiration, elle peut aussi courir en Long, ou en étant une Late Surger (1* pour les 2 aptitudes). Elle possède une gold recovery fiable pour Pace Chaser et un gold d'accélération pour Late Surger, ce qui est un peu dommage. Son unique est un boost de vitesse basique sur le final straight._
+
+* Tosen Jordan a 3 bonus de croissance : 10% en Speed :speed:, 10% en Power :power: et 10% en Guts :guts:. Ce n'est pas un excellent combo de bonus ; le bonus Stamina aurait été préféré à Guts, car elle est apte à courir en distances Medium et potentiellement Long. Mais le speed bonus et power bonus sont très appréciables. Ses decks vont principalement dépendre de la stratégie dans laquelle vous voulez la faire courir, car sa gold recovry Pace Chaser réduira le besoin en samina (en Long, elle sera plus apte à courir en tant que Pace Chaser grâce à ça).
+
+* Ses Gold skills sont :
+    * **Race Planner**, la gold version de Preferred Position. C'est une gold recovery pour Pace Chaser qui s'active en Mid-Race en étant top 50%. C'est une très bonne recovery fiable.
+    * **On Your Left !**, la gold version de Slick Surge. C'est une gold accel pour Late Surger qui s'active en Late-Race, en étant dans le bottom 50%. Le skill est meilleur sur les distances les plus courtes (Sprint, Mile, Medium 2000m).
+
+::: tip Évolutions (skills pink)
+
+Quand les skills évolués (rose) seront implémentés, ces 2 skills pourront être utilisés en Pace Chaser tout comme en Late Surger, réglant ainsi le problème des stratégies incohérentes. 
+
+:::
+
+* Son skill unique est un speed boost basique s'activant dans le final straight si elle est dans le top 40%, après un dépassement réussi ou en étant une cible de dépassement. L'unique s'active bien en Medium et en Long, que ce soit en Pace Chaser ou Late Surger. 
+
+#### PULL OU PAS
+**Si c'est une de vos Oshi, oui**. 
+
+Tosen Jordan est une uma correcte, qui est pour l'instant limitée par les stratégies incohérentes de ses Golds. Quand les skills roses seront sur la version globale, ce défaut sera effacé, ce qui la rendra meilleure.
+
+Si vous n'avez pas Kitasan Black à au moins 3LB non (visez MLB), vous allez plutôt vouloir la favoriser, car sa bannière est en même temps et **bien plus importante**.
+
+---
+
+### Bannière support à suivre : Kitasan Black speed SSR & El Condor Pasa power SSR (rerun)
+
+Je mets les review en "caché", pas parce qu'il y a des spoilers ou quoi, mais parce qu'on SAIT que vous savez pourquoi la bannière Kitasan rerun est attendue. Vous n'apprendrez rien de nouveau, et les review sont déjà assez longues comme ça :currenDevilish: Ce qui vous intéresse c'est vos pulls
+
+:::: details REVIEW (par Kamuisaki)
+
+⏩ **Kitasan Black** :speed: :ssr:
+
+* Bien qu'elle ait plusieurs bons bonus à faible LB, Kitasan Black est en réalité **très backloaded**, et est justement remarquable pour son **specialty priority de 116** une fois MLB.
+
+* Kitasan Black speed est notable pour pas mal de choses, mais est réputée pour ses rainbows fréquents (1 chance sur 3), et de bonne qualité : la combinaison de ses bonus lui feront fortement contribuer à la croissance de speed (et power). Ils arriveront assez rapidement grâce à son Initial Friendship Gauge assez élevé. Elle participera aussi au cross training, avec 15 training effectiveness, mais souffre légèrement de son Race Bonus à 5% : son usage va diminuer pour le prochain scénario (MANT), avant de revenir au top des supports plus tard. Elle reste le choix évident pour les joueur·euse·s free-to-play en particulier, qui n'auront pas forcément les cartes "de luxe" pour MANT.
+
+::: tip 116 Specialty Priority
+
+Bien que Gametora.com affiche son spec prio à 100 -par simplification-, Kitasan Black speed SSR a bel et bien **116 specialty prio**, ce n'est pas une erreur.
+
+Avec 116 specialty priority, Kitasan Black speed SSR est toujours -à ce jour- la carte avec le **2e plus haut specialty priority sur la version JP**.  Il y a 2 cartes qui ont 120 spec prio sur la JP, et plusieurs qui ont 100. 
+
+_116 c'est vraiment vraiment beaucoup_ : ça fait **32,5% chance d'être en rainbow** (contre 25% à 50 spec prio, ou 18,25 à 0 spec prio).
+
+:::
+
+* Elle a une très bonne liste de hints (8 hints) dont seulement 1 est mauvais. Sur les 7 bon skills, elle a 3 skills pour Front Runner. 2 de ces skills hints lui sont uniques pour l'instant (Dodging Danger et Long Corners), et elle sera toute indiquée pour vous donner les 3 autres skills (Front Runner Straightaway, Focus et Corner Adept) grâce à son Hints Level 2 et son Hint Frequency.
+
+* Le skill gold obtenu est **Professor of Culvature**, la version gold de Corner Adept. C'est un speed skill universel, qui s'active aléatoirement sur un corner aléatoire, et pouvant s'activer 2 fois sur certaines courses (surtout en long). Le skill était déjà excellent, et le [patch du 11 novembre](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#skills) l'améliore davantage, en allongeant sa durée et en changeant son activation sur un corner aléatoire. Suite à ce changement, il y a maintenant 3 différentes activations : soit il reste un skill de vitesse basique, soit il peut faire du carry-over sur les courses où la phase d'accélération se trouve en corner, soit il peut s'activer en début de phase d'accélération et perd un peu de son boost de vitesse. Le plus souvent, le skill aura le 1er résultat et le plus rare est le 3ème.
+
+* Plusieurs de ses events vous aident en carrière ! Son 1e chain event vous donne un mood up, son 2e peut vous faire mood up + gain d'énergie, l'un de ses events aléatoires vous donne le choix entre mood up et gain d'énergie, et l'autre vous peut vous donner le buff **Practice Perfect** (pour effacer Bad Practice).
+
+
+⏩ **El Condor Pasa** :power: :ssr:
+
+* La carte est légèrement **backloaded** : à 1LB elle débloque Power Bonus, puis Training Effectiveness à 3LB. On voudra la MLB pour maximiser son Race Bonus (10%), son Specialty Priority (70) et son Training Effectiveness.
+
+* El Condor Pasa power a de bons rainbows, relativement fréquents et pas trop tardifs, et sera aussi plutôt bonne en cross training. Son gain de stats est donc plutôt solide en général. Vous pourrez aussi l'utiliser sur le prochain scénario (MANT), grâce à son 10 Race Bonus. 
+
+* Sa sélection de hints (7 hints) est bonne, avec 2 Greens, 4 skills de Speed et 1 skill de vision. Cependant, le fait qu'elle n'aie pas de Hint Level Bonus et de Hint Frequency Bonus compliquera le hint farming. On préfèrera farm les skills avec des SR qui ont les 2 bonus de Hints.
+
+* Le skill gold obtenu est **Killer Tunes**, la version Gold de Up-Tempo. C'est un skill de speed pour le Medium qui s'active dans le Mid-Race, en étant top 50%. Le skill a été grandement amélioré lors de la [mise à jour du 11 novembre](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#skills) ; sa durée a été fortement augmentée. C'est maintenant un bon skill à prendre pour les courses Medium.
+
+* L'option du haut sur son 2e chain event vous rend **+30 énergie** d'un coup (l'option du bas met fin à la chaîne) !
+
+::::
+
+#### PULL OU PAS
+
+_**La bannière est excellente.**_
+
+Vous connaissiez déjà l'importance de Kitasan Black speed SSR : c'est la **meilleure carte speed** pendant très très longtemps, et un asset essentiel surtout pour les joueur·euse·s free-to-play (et les whales aussi hein). El Condor Pasa power SSR est aussi *très solide*, et grandement aidée par l'amélioration de son skill gold. Bref, ce sont 2 (très) bonnes cartes supports, qui sont devenues meilleures après le 11 novembre (surtout Pasa).
+
+Pour savoir si vous faites des pulls, dites vous que la cible est bien **Kitasan Black speed SSR, 3LB ou MLB**. Pasa power est bonne, mais pas assez pour dépenser vos carats :carat:. C'est en revanche un bon spook. Du coup :
+
+* **Si vous avez déjà MLB Kitasan Black, NON**. Pas de pulls pour Pasa power.
+
+* Si vous n'avez pas de Kitasan Black, OU que vous l'avez 2LB ou moins, ET que vous avez au moins 30000 :carat: (soit un spark) : **<u>OUI</u>**. Pas d'hésitation.
+
+* Vous pouvez aussi envisager de pulls si vous avez moins qu'un spark, mais gardez en tête que GACHA WAS A MISTAKE.
+
+* Si votre Kitasan Black est déjà 3LB, là c'est délicat. Par sureté, on préfèrerai éviter de prendre des risques et garder Kitasan à 3LB (déjà une bonne carte speed). Vous aurez d'autres opportunités de l'avoir, soi sur une future bannière, soi sur un futur ticket. Vous pouvez bien entendu tenter votre chance, mais then again : GACHA WAS A MISTAKE.
+
+::: tip Hésitation ?...
+
+Le ref doc n'est pas aussi tranché sur la nécessité de pull Kitasan Black speed SSR, et les arguments sont bons : bien qu'elle reste la meilleure carte speed pour encore un bon moment, son utilisation sera rendue légèrement moins évidente par le fait qu'il y aura d'autres options intéressantes en speed, et peut-être plus optimales.
+
+* Matikanefukukitaru speed SSR et Narita Top Road speed SSR sont toutes deux désirables pendant le scénario MaNT, et pendant ce scénario vous n'utiliserez pas forcément toujours 3 cartes speed. Cependant, ces 2 cartes ont une très courte durée de vie, et sont bien moins recommandables (surtout Fuku) après MaNT.
+* Plus tard, Maruzensky speed SSR sortira et sera *excellente* pour le cross training. Ce sera une très bonne cible de pulls, en particulier si vous entrainez beaucoup de Front Runners.
+* À la sortie du scénario Grand Live, Agnes Tachyon speed SSR sera particulièrement désirable. 
+
+Kitasan aura donc de la concurrence sur les scénarios MaNT et GL. Pendant le 5e scénario (Grand Masters) elle sera de nouveau un choix très opti, et avec l'arrivée du 6e scénario (L'Arc), elle sera rendue "obsolète" (mais toujours utile) par El Condor Pasa speed SSR.
+
+Pull pour Kitasan ou pas est donc un choix entre longévité (jusqu'au 6e scénario) et optimisation (pour les scénarios MaNT et GL).
+
+Je (Yamakyu) vous recommande de choisir la longévité.
+
+:::
+
+La cible c'est Kitasan <u>**3LB**</u>. La carte est moins bonne que des tas de cartes speed à 0, 1 et 2LB, devient très bonne à 3LB, et est la meilleure à MLB. Après vos pulls, selon vos résultats, vous pouvez décider d'utiliser votre **ticket SSR** _PUIS_ votre cristal (*dans cet ordre* : d'abord le ticket) pour augmenter les LBs de Kitasan, et la monter à au moins **3LB**. C'est valide.
+
+Gardez en tête que l'utilisation du ticket/cristal pour passer Kitasan à <u>1 ou 2LB</u> est un **mauvais usage**. Votre utilisation du ticket/cristal (ou les 2 en même temps) doit absolument vous permettre d'atteindre *au minimum* 3LB, sinon c'est juste du gachis. 
+
+::: warning Nuance importante
+
+Si -par immense chance- vous obtenez Kitasan 2LB ou 3LB en très peu de pulls (genre moins de 80 ~), ET que vous avez encore votre ticket SSR, **ne terminez pas le spark !** Il vaut mieux garder vos :carat: pour une future bonne bannière, et garantir le passage à 3LB ou MLB à moindre coût ! Vous n'avez pas de garantie sur ce que les futurs carats dépensés vous obtiendront (gacha was a mistake).
+
+Prenez donc bien en compte votre ticket et/ou votre cristal pour décider de vos pulls.
+
+Si en revanche vous avez déjà fait beaucoup de pulls quand vous atteignez Kitasan 2LB ou 3LB, **finissez le spark**, quitte à spark El Condor Pasa power SSR (si -et seulement si- votre Kitasan est MLB d'ici le spark). Si vous décidez de terminer le spark, **finissez les 200 absolument AVANT d'utiliser le ticket pour up Kitasan**. Comme ça vous incluez le spark de Kitasan dans votre décision d'utilisation (ou pas) du ticket. Vous pouvez spark Pasa power, mais seulement si votre Kitasan est MLB.
+
+:::
+
+Bonne chance, Gacha was a mistake, et surtout :
+
+# HARIKITTE IKOU
 
 ---
 
