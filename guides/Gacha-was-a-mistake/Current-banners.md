@@ -191,7 +191,7 @@ Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un 
 
 _Tosen Jordan est une Pace Chaser Medium décente. Avec un peu d'inspiration, elle peut aussi courir en Long, ou en étant une Late Surger (1* pour les 2 aptitudes). Elle possède une gold recovery fiable pour Pace Chaser et un gold d'accélération pour Late Surger, ce qui est un peu dommage. Son unique est un boost de vitesse basique sur le final straight._
 
-* Tosen Jordan a 3 bonus de croissance : 10% en Speed :speed:, 10% en Power :power: et 10% en Guts :guts:. Ce n'est pas un excellent combo de bonus ; le bonus Stamina aurait été préféré à Guts, car elle est apte à courir en distances Medium et potentiellement Long. Mais le speed bonus et power bonus sont très appréciables. Ses decks vont principalement dépendre de la stratégie dans laquelle vous voulez la faire courir, car sa gold recovry Pace Chaser réduira le besoin en samina (en Long, elle sera plus apte à courir en tant que Pace Chaser grâce à ça).
+* Tosen Jordan a 3 bonus de croissance : 10% en Speed :speed:, 10% en Power :power: et 10% en Guts :guts:. Ce n'est pas un excellent combo de bonus ; le bonus Stamina aurait été préféré à Guts, car elle est apte à courir en distances Medium et potentiellement Long. Mais le speed bonus et power bonus sont très appréciables. Ses decks vont principalement dépendre de la stratégie dans laquelle vous voulez la faire courir, car sa gold recovry Pace Chaser réduira le besoin en stamina (en Long, elle sera plus apte à courir en tant que Pace Chaser grâce à ça).
 
 * Ses Gold skills sont :
     * **Race Planner**, la gold version de Preferred Position. C'est une gold recovery pour Pace Chaser qui s'active en Mid-Race en étant top 50%. C'est une très bonne recovery fiable.
