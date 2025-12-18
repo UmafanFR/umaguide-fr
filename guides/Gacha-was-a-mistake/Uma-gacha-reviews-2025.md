@@ -690,3 +690,47 @@ On a la version NERF du skill. **Stamina Siphon restaure bien 3,5% de HP** ; plu
 **Envisagez le**, surtout si vous l'aimez. Overall c'est une bonne uma, avec des bons atouts, surtout son skill unique. Elle sera forte sur le CM Libra Cup, qui se joue sur **Kikuka Sho**, et une solide option sur tous les CM long. Elle sera aussi tout à fait capable en distance medium une fois que le skill gold **Relax** aura été buff. Enfin, tous ses skills sont fiables en Team Trials. Malgré les bonnes uma qui arrivent prochainement, Cafe est un assez bon usage de vos carats :carat:.
 
 ::::
+
+## #25 - Symboli Rudolf alt et Gold City alt ★★★
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/025_Uma-Banner.png)
+
+::: details REVIEW (co-écrites par Yamakyu et Kamuisaki)
+
+⏩ **Symboli Rudolf alt**
+
+_Symboli Rudolf "Festival" est une Pace Chaser génériquement ok en med et en long, et forte sur les courses pendant l'automne, grâce à son green gold. Elle peut aussi courir en tant que End ou Front, ou sur distance mile, avec un peu d'inspiration, mais perd alors l'usgae de plusieurs skills. Elle possède une gold recovery fiable la plupart du temps en med et en long, ainsi qu'un skill green gold de vitesse. Son skill unique est un speed boost de longue durée, sur le final corner ou le final straight._
+
+* Symboli Rudolf alt a 3 bonus de stats : 8% en speed :speed: et wits :wit:, ainsi que 14% stamina bonus :stamina:. Ce sont des bons bonus, on aurait sans doute préféré que le bonus de speed soit en power instead, mais ça reste des bonus assez quali, car sur des stats importantes et qui bénéfécient de nos clics : speed est up par speed et wits, stam est up par power (on clique pas mal sur power pendant Unity Cup), wits est up par wits (on clique pas mal sur wits pendant Unity Cup). Ces bonus la rendent flexible, et ouvre des variations sur son deck en fonction de la distance.
+* Avec ses aptitudes, Rudolf (et son alt) est disposée à courir en distance medium ou long, en tant que Pace ou Late. Courir en tant que Late lui ferai perdre sa gold recovery, mais n'empêche pas du tout l'activation de son unique. Avec un peu d'inspiration elle peut courir sur distance mile (4*), ou en tant que End (4*) dans les courses où c'est commode. 
+* Sa sélection de skills gold est plutôt bonne :
+    - **Calm and Collected** est la version gold Stamina to Spare. C'est une gold recovery Pace qui s'active dans la 2e moitié de l'early-race, en étant top50%. Sur les courses long le skill est presque parfaitement fiable, et reste très fiable en med. Plus la course est courte, moins il est fiable (risque d'activation trop tôt, avec recovery partiellement gachée), mais vous ne devriez pas du tout en avoir besoin en sprint et en mile anyways.
+    - **Fall Frenzy** est la version gold de Fall Runner. C'est le premier skill green gold de la version globale ! En version gold, le skill augmente speed ET power de 60 points, c'est bien sympa, surtout si vous aviez des **hints ❗ pour Fall Runner** (autrement ça reste un peu cher).
+        > Quand nous aurons les stats "overcap" (= au-dessus de 1200) sur la version globale, les skills greens auront davantage de valeur, donc ce green gold sera un atout plus intéressant.
+* Son skill unique est un speed boost de longue durée (6s de base) s'activant en late-race, sur le final corner ou le final straight, si Rudolf est top50% et qu'elle a été une cible de dépassement pendant au moins 2 secondes. Le skill s'activera très bien la plupart du temps (et s'il ne pop jamais vous êtes soit trop à l'arrière en train de perdre, soit loin devant) et l'aidera à ne pas se faire dépasser. Il y a cependant une chance que le skill s'active pendant la phase d'accel, et soit un peu gâché. C'est un skill assez bon à obtenir en inspiration, grâce à sa durée légèrement allongée. Le skill ne pas en aucun cas carry-over.
+
+⏩ **Gold City alt**
+
+_Gold City (Festival) est une Late Surger en Mile. Elle peut aussi courir en Pace Chaser mais perdra alors l'usage de certains de ses skills. Ses aptitudes la rendent flexible, ayant B en Medium et Long mais aussi D en Dirt. Vous pouvez donc la faire courir en Dirt avec 7* Dirt. Elle peut donc combler le slot manquant en Team Trials, si vous n'avez pas de Dirt uma autre que Haru Urara et El Condor Pasa. Son skill unique peut vous permettre d'obtenir de l'accel ou un carry over, mais a une activation incertaine. Ses 2 skills gold awakenings laissent aussi perplexe._
+ 
+* City a 3 bonus de croissance : 8% en Speed :speed: et Power :power:, ainsi que 14% en :wit:. C'est un combo de bonus parfait pour le Mile (et le sprint mais elle est noté F pour cette distance). Elle peut donc avoir l'usage d'un deck avec 2 Speed 3 Wits et Riko, ou 3 Speed 2 Wit et Riko. Alternativement, il est aussi possible d'utiliser des cartes guts, pour tirer parti de ses bonus de speed et power. Sans bonus de croissance en Stamina, son B en Medium et Long sont un peu gênants. En Medium, ça peut aller avec le combo Super Creek et Riko mais le Long la forcerait à prendre 2 Supports Stamina juste pour monter la stat assez haute. En plus, sa carrière contient plus de courses Medium et Long que de courses Mile (et notamment : 3ème à l'affreux Tenno Sho (Spring)).
+* Ses skills Gold sont :
+    - **Battle Formation**, la gold version de Opening Gambit. C'est un debuff d'accel early-race en distance Mile, qui s'active aléatoirement après 3 secondes de course. C'est un **mauvais débuff**, exclusif à Gold City alt. Son principal problème est qu'il ne peut pas s'activer dès le début de la course, mais seulement 3s après. Ainsi, les umas qu'elle voudrait cibler -les Fronts Runner- auront déjà presque terminé leur phase d'accel early-race (si ce n'est pas le cas, c'est qu'elles n'ont pas d'accel, et ne sont pas dangereuses anyways). 
+        > Le skill n'a pas non plus d'intérêt à être utilisé avec le -futur- skill unique de Gold Ship alt, pour l'activer en ignorant ses conditions.
+    - **Lie in Wait**, la gold version de Be Still. C'est une recovery Late qui s'active au hasard dans la 2ème moitié de l'early-race, en étant bottom50%. En distance Mile, la recovery s'activera souvent trop tôt, car la uma aura généralement perdu moins de HP ce que le skill restaure. De plus, une gold recovery n'a pas vraiment d'usage en Mile. Le skill est fiable en long, et assez bon -la plupart du temps- en med.
+* Son skill unique est un hybride de speed / accélération, s'activant entre le 3ème place et la 6ème place en CM (top30% ←→ top70%) dans le final corner, si une uma l'a bloqué sur un côté pendant 2 secondes. Sur les courses mile (et certaines med), le skill pourra induire un carry-over s'il s'active un peu avant la phase d'accélération, ou de l'accel autrement. En revanche, la condition d'activation est un peu glissante ; pendant le final corner les uma s'étalent latéralement pour se libérer le passage, donc le blocage latéral requis n'est pas hyper fiable.
+* Parmi ses skills whites, elle peut obtenir -via des **évènements**- le white speed mile Unyielding Spirit, ainsi que le white speed Late 1,500,000 CC, et la white accel Late Slick Surge. 
+
+__
+
+#### PULL OU PAS
+
+**Si vous les aimez beaucoup**, sinon non.
+
+Tout d'abord, rappel que vous ne pouvez pas utiliser une uma ET son alt en même temps ; en TT comme en CM, vous ne pourrez avoir que l'une ou l'autre. De plus, si vous n'avez pas Kitasan Black SSR Speed MLB, sa bannière sera bien plus importante. 
+
+En l'état, Gold City (Festival) est meilleure que sa version orignale, grâce à ses bonus de croissance et son unique. En revanche, dans le futur, City OG sera grandement aidée par l'arrivée des skills évolués (pink), et son unique recevra un léger buff. À terme, on préfèrera donc utiliser Gold City originale.
+
+Symboli Rudolf (Festival) a un problème majeur : son Gold Green, qui ne sera pas utile pendant un long moment (fin du 3e scénario, ou début du 4e). Symboli Rudolf (Festival) est une bonne uma qui ne peut démontrer son plein potentiel, que sur des CM précis. Il aurait fallu qu'elle sorte avant le lancement des CMs d'automne.
+
+:::

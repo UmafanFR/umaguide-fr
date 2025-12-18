@@ -649,3 +649,42 @@ Notez cependant que la bannière rerun Kitasan Black est dans quelques semaines,
 **Pas vraiment**. Nakayama Festa stam SR est plutôt une carte à emprunter (ça peut être sympa pour une run de TT med), et Sirius Symboli vous n'avez essentiellement aucune raison de vouloir la MLB immédiatement. Ça peut tout à fait attendre une bannière future 👍🏾
 
 :::
+
+## #25 - Curren Chan wits & Narita Brian stamina SSR
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/025_Card-Banner_JP.png)
+
+::: details REVIEW (co-écrite par Yamakyu et Kamuisaki)
+
+⏩ **Curren Chan** :wit: :ssr:
+
+* La carte est notablement **frontloaded** : à 1LB elle a déjà 1 wit bonus, 53 spec prio et 26 friendship bonus, ainsi que d'autres chouettes bonus. À 3LB elle débloque Initial Friendship Gauge (et n'en a donc pas avant 3LB :currenDevilish:).
+* Curren Chan wits SSR est une des 3 notablement bonnes cartes wits du début du jeu. Elle est tout à fait frontloaded et offrirar un bon gain de wits :wit: via ses rainbow assez fréquents et assez bons. Elle a aussi une bonne contribution au cross-training avec 5 training bonus (dés 0LB) et jusqu'à 45 mood bonus (équivalent = 9 training bonus). On apprécie son 10 race bonus à partir de 3LB, ce qui la rend commode pour le 3e scénario -MaNT- aussi.
+* Sa sélection de hints ❗ est pas trop mal : elle propose Sprint Straighteways, ainsi que Meticulous Measures (bon skill hybride navigation + hybride) et Sprinting Gear qui est occasionnellement désirable. Et 2 debuffs un peu osef.
+    > Sprint Straightaways est plus facile à obtenir sur Seeking the Pearl guts SR.
+* Le skill gold obtenu est **Perfect Prep!**, la version gold de Meticulous Measures. C'est un skill hybride de navigation + accel pour courses sprint, qui s'active aléatoirement en mid-race. En cas d'activation pendant Position Keep -en début de mid-race-, il aura une petite contribution à la vitesse, et en cas d'activation en fin de mid-race, il contribuera à l'accel en début de late-race. C'est un bon skill sprint. Attention, elle peut aussi vous **agemasen** et vous filer le white -Meticulous Measures- à la place.
+* Si vous n'avez pas besoin de Perfect Prep!, vous pouvez sélectionner l'option du bas sur son 1e chain event, afin d'interrompre la chaîne et obtenir à la place l'excellent **Playtime's Over!** et +30 énergie 👌🏿
+
+⏩ **Narita Brian** :stamina: :ssr:
+
+* La carte peut sembler frontloaded, mais semble en réalité plutôt **équilibrée** en croissance. On remarque qu'elle a déjà son skill point bonus, 45 spec prio et 10 training bonus dés 1LB (plutôt frontloaded). Mais d'un autre côté son frienship bonus évolue de 25 à 35 entre 0LB et MLB, ce qui est plutôt notable (un peu backloaded). La carte reste tout à fait utlisable à 1LB (27 friendship bonus)
+* Narita Brian stam SSR est une bonne carte stamina pour le gain de stamina comme pour le cross training. En de nombreux aspects, la carte rappelle beaucoup la très bonne Mayano Top Gun stamina SR, et lui est marginalement supérieure. Bons rainbows plutôt fréquents, bon cross training, et surtout le précieux skill point bonus. La différence entre les deux est assez faible, mais on préfèrera bien Brian stam SSR à Mayano stam SR la plupart du temps ; Mayano stam SR n'ayant pas d'initial Gauge et moins de race bonus (5 contre 10).
+* Sa sélection de hints ❗ est très bonne, quoi qu'un peu hétérogène : 2 recovery Pace, 1 green (Right Haned) et 5 skills de vitesse (2 Medium, 2 Long, 1 Late Surger). On aurait préféré une sélection plus "focus", mais cette liste est réellement chouette. 
+* Le skill gold obtenu est le très bon **Beeline Burst**, la version gold de Straightaway Adept. C'est un bon skill de vitesse universel s'activant sur une ligne droite aléatoire de la course, et pouvant parfois **s'activer 2 fois** dans certaines courses (surtout en long). Depuis la [mise à jour du 11 novembre](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#skills), la durée d'effet du skill a été fortement augmentée, rendant le skill _bien bien sympa_. 
+* L'option du haut sur son 2e chain event, ainsi que l'option du bas sur l'un de ses events aléatoires peuvent augmenter de 4 votre énergie max, pour un total de +8. Elle peut aussi vous donner Lone Wolf sur un de ses events aléatoires.
+
+#### PULL OU PAS
+ 
+Eh. **Envisagez le**, mais réfléchissez-y bien. C'est plutôt une bannière à **emprunt**.
+
+Déjà, cette bannière **précède immédiatement le rerun Kitasan Black**. C'est un grand problème, car pour beaucoup vous allez vouloir pull le rerun de Kitasan à la place. Si c'est votre cas, **ne pensez même pas à pull sur cette bannière**. Kitasan est *bien plus importante*.
+
+CEPENDANT.
+
+Si vous avez déjà MLB votre Kitasan Black speed SSR (ou au moins 3LB, et vous ne prévoyez <u>pas</u> de faire des pulls sur le rerun), cette bannière est **bonne**. Pour de vrai. Curren Chan wits SSR est une des 3 très bonnes cartes wits SSR du début du jeu (avec Fine Motion wits SSR et Nice Nature wits SSR) ; la prochaine très bonne _nouvelle_ carte wits SSR sera Mr C.B., qu'on attend _fin avril 2026_. Si vous n'avez NI Finemo wits NI Nice Nature wits, ET que vous avez Kitasan MLB (ou 3LB), c'est une opportunité d'avoir une bonne carte wits SSR (qui donne Playtime's Over 👌🏿). Sinon, avant Mr C.B. wits, Finemo wits SSR aura un rerun juste avant le 3e scénario. Curren Chan wits SSR est aussi notablement bonne pour les CMs sprint ; les CM Sprints étant ceux que l'on voit le moins souvent, il vaut donc mieux l'emprunter.
+
+De plus, Narita Brian stamina SSR est une bonne carte stam, et est même _pas mal utilisée aujourd'hui même sur la version JP_, sans doute (?) pour son bon cross training et son skill point bonus. EN REVANCHE, et c'est très important : avec nos scénarios actuels, il est difficile d'inclure une carte stamina dans un deck si cette carte ne donne pas de **gold recovery**. Si vous obtenez Brian stam SSR, c'est pas dit que vous en ayez l'usage immédiatement. On préfèrera aussi l'emprunter (et encore).
+
+La bannière est bonne.
+
+:::
