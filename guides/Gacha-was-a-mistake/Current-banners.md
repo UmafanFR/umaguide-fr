@@ -103,7 +103,7 @@ Bonne chance à tous·tes !
 
 ### Bannière Umamusume : Symboli Rudolf alt et Gold City alt ★★★
 
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/025_Uma-Banner_JP.png)
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/025_Uma-Banner.png)
 
 ⏩ **Symboli Rudolf alt** (review co-écrite par Yamakyu et Kamuisaki)
 
@@ -146,7 +146,7 @@ Symboli Rudolf (Festival) a un problème majeur : son Gold Green, qui ne sera pa
 
 ### Bannière support : Curren Chan wits & Narita Brian stamina SSR
 
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/025_Card-Banner_JP.png)
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/025_Card-Banner.png)
 
 ⏩ **Curren Chan** :wit: :ssr: (review co-écrite par Yamakyu et Kamuisaki)
 
@@ -183,7 +183,7 @@ La bannière est bonne.
 
 # Bannières à suivre (18 décembre 23h)
 
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/026_Banners_early_preview.jpg)
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/026_Banners_preview.jpg)
 
 Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un peu plus clair, et faire des choix plus pertinents pour vos pulls.
 
