@@ -734,3 +734,34 @@ En l'état, Gold City (Festival) est meilleure que sa version orignale, grâce �
 Symboli Rudolf (Festival) a un problème majeur : son Gold Green, qui ne sera pas utile pendant un long moment (fin du 3e scénario, ou début du 4e). Symboli Rudolf (Festival) est une bonne uma qui ne peut démontrer son plein potentiel, que sur des CM précis. Il aurait fallu qu'elle sorte avant le lancement des CMs d'automne.
 
 :::
+
+## #26 - Tosen Jordan ★★★
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/026_Uma-Banner.png)
+
+:::: details REVIEW (par Kamuisaki)
+
+_Tosen Jordan est une Pace Chaser Medium décente. Avec un peu d'inspiration, elle peut aussi courir en Long, ou en étant une Late Surger (1* pour les 2 aptitudes). Elle possède une gold recovery fiable pour Pace Chaser et un gold d'accélération pour Late Surger, ce qui est un peu dommage. Son unique est un boost de vitesse basique sur le final straight._
+
+* Tosen Jordan a 3 bonus de croissance : 10% en Speed :speed:, 10% en Power :power: et 10% en Guts :guts:. Ce n'est pas un excellent combo de bonus ; le bonus Stamina aurait été préféré à Guts, car elle est apte à courir en distances Medium et potentiellement Long. Mais le speed bonus et power bonus sont très appréciables. Ses decks vont principalement dépendre de la stratégie dans laquelle vous voulez la faire courir, car sa gold recovry Pace Chaser réduira le besoin en stamina (en Long, elle sera plus apte à courir en tant que Pace Chaser grâce à ça).
+
+* Ses Gold skills sont :
+    * **Race Planner**, la gold version de Preferred Position. C'est une gold recovery pour Pace Chaser qui s'active en Mid-Race en étant top 50%. C'est une très bonne recovery fiable.
+    * **On Your Left !**, la gold version de Slick Surge. C'est une gold accel pour Late Surger qui s'active en Late-Race, en étant dans le bottom 50%. Le skill est meilleur sur les distances les plus courtes (Sprint, Mile, Medium 2000m).
+
+::: tip Évolutions (skills pink)
+
+Quand les skills évolués (rose) seront implémentés, ces 2 skills pourront être utilisés en Pace Chaser tout comme en Late Surger, réglant ainsi le problème des stratégies incohérentes. 
+
+:::
+
+* Son skill unique est un speed boost basique s'activant dans le final straight si elle est dans le top 40%, après un dépassement réussi ou en étant une cible de dépassement. L'unique s'active bien en Medium et en Long, que ce soit en Pace Chaser ou Late Surger. 
+
+#### PULL OU PAS
+**Si c'est une de vos Oshi, oui**. 
+
+Tosen Jordan est une uma correcte, qui est pour l'instant limitée par les stratégies incohérentes de ses Golds. Quand les skills roses seront sur la version globale, ce défaut sera effacé, ce qui la rendra meilleure.
+
+Si vous n'avez pas Kitasan Black à au moins 3LB non (visez MLB), vous allez plutôt vouloir la favoriser, car sa bannière est en même temps et **bien plus importante**.
+
+::::
