@@ -219,22 +219,54 @@ Si en revanche vous avez déjà fait beaucoup de pulls quand vous atteignez Kita
 
 ---
 
-# Bannières à suivre (18 décembre 23h)
+# Bannières à suivre (28 décembre 23h)
 
 ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/027_Banners_early_preview.jpg)
 
 Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un peu plus clair, et faire des choix plus pertinents pour vos pulls.
 
-### Bannière Umamusume à suivre : Tosen Jordan ★★★
+### Bannière Umamusume à suivre : Mejiro Dober ★★★
+
+_Mejiro Dober est une Late Surger assez capable en distances Mile et Medium. Avec un peu d'inspiration, elle peut aussi courir en tant que Pace Chaser (1*), Front Runner (4*), et en distance Sprint (10*), mais cette distance demandera une bonne RNG pendant les courses. Sa stratégie de prédilection reste Late Surger. Elle possède un gold de débuff Late Surger et 1 gold Green. Son unique est un boost d'accélération qui s'active dans le final corner, ou en corner en late-race._
+
+* Mejiro Dober a 2 bonus de croissance : 10 % en Speed :speed: et 20 % en Wit :wit:. C'est un combo de bonus corrects, bon pour le Mile et le Medium. Vous pourrez utiliser les decks habituels de Mile et de Medium, mais vous aurez un besoin moindre en carte wits (1 seule au lieu de 2).
+* Ses Gold skills sont :
+    * **All-Seing Eyes**, la gold version de Sharp Gaze. C'est un gold debuff de HP Late Surger, s'activant à un moment aléatoire du Late-Race si elle est à l'arrière. Vous le connaissez plutôt bien, c'est un des skills gold de Nice Nature.
+        > Une des 2 évolutions possible du skill change complètement son effet, devant ainsi un speed boost.
+    * **Yodo Invicta**, la gold version de Kyoto Racecourse. C'est un gold Green augmentant de  60 votre Stamina, Wit et Speed. C'est un gold Green très précis, ce qui rend son utilisation compliquée et situationnelle. Pour l'avoir vous devez d'abord double cercler ◎ Kyoto Racecourse puis l'acheter, donc il sera parfois un peu cher. Plusieurs supports peuvent lui obtenir des hints pour Kyoto Racecourse (ce sera le plus facile avec la Mejiro McQueen SSR Stamina).
+* Son unique est un boost d'accélération s'activant si elle n'a pas rush pendant la course, en étant entre top 50% et top 70% (entre 5e et 6e en CM) en fin de course.  2 timings sont alors possibles : 
+    * Dans la plupart des courses Medium / Long (mais pas pour le CM Scorpio), l'unique s'activera en corner en late-race, et généralement dans le 3ème corner.
+    * Dans les courses Sprint / Mile, l'unique s'activera dans le final corner en Mid-Race. Il y aura une petite perte d'accel dûe à l'activation tôt, mais s'il s'active vers la fin du Mid-Race, le boost d'accel sera quand même utile.
+* Ce skill unique sera particulièrement désirable pour les backlines, dans la grande majorité des courses du jeu. 
+
 
 #### PULL OU PAS
+
+**Si c'est votre Oshi, oui**. 
+
+**Aussi envisageable si vous jouez vraiment beaucoup de backlines**. Mejiro Dober est un très bon parent pour les Late Surger et End Closer, donc si vous utilisez beaucoup ces stratégies, c'est aussi une uma que vous voudrez pull. Le problème est que la bannière arrive entre Kitasan Black Speed SSR et Oguri Cap (Christmas), qui sont respectivement, le meilleur support et la plus forte uma pour l'instant (sur certaines courses).
 
 ---
 
-### Bannière support à suivre : Kitasan Black speed SSR & El Condor Pasa power SSR (rerun)
+### Bannière support à suivre : Daitaku Helios Power SSR et Vodka Speed SR
+
+⏩ **Daitaku Helios** :power: :ssr:
+* La carte est **frontloaded**. A 1LB, elle débloque Skill Point Bonus et à 3LB le combo de Hint Levels et Hint Frequency. Son mood bonus est plutôt élevé, commençant à 40 à 0LB, pour atteindre 50 à MLB.
+* Helios power a des bons rainbows, mais peu fréquents car son Special Priority est un peu faible. Son cross training est assez bon grâce à son haut Mood Effect et son Training Effectiveness, faible mais présent. La qualité de ses entraînements dépendra pas mal du mood, et en cas de baisse le gain de stats perdra un peu en efficacité.
+* Elle a une bonne liste de hints ❗ (7 hints), dont 5 bien sympa (4 skills de vitesse et 1 debuff, dont 3 pour le Mile). Grâce à son Hint Level de 3 et son Hint Frequancy de 40% à MLB, elle sera un peu meilleure que sa SR pour le hints farming. 
+* Le skill gold est **Escape Artist**, la version gold de Fast Paced. C'est un très bon skill de vitesse pour Front Runner, qui s'active aléatoirement dans le Mid-Race, en étant top 50%.
+* Ses chain events sont un peu **énergivores** et vous prendront un total de 20 points d'énergie. Si vous n'avez pas l'usage du skill gold, vous pouvez interrompre la chaîne dès le premier event, en sélectionnant l'option du bas.
+
+⏩ **Vodka** :speed: :sr:
+* La carte à une croissance équilibrée. A 1LB, elle débloque Race Bonus et à 3LB Power Bonus. Son Freindship Bonus et Mood Effect augmentent jusqu'à MLB, pour atteindre respectivement 25 et 50
+* A part son Mood Effect, la valeur de ses bonus sont assez faibles ou dans la moyenne. Le gain de stats repose sur son Mood Effect, il faudra donc maintenir le mood Great.
+* Sa liste de hints ❗ est bonne (9 hints) et tous ses skills sont au moins assez bons. Cependant, son Hint Level et Hint Frequency sont plutôt faibles (moins bon que la version SSR), et la plupart de ces skills peuvent être obtenus ailleurs. Notez que les cartes support de Vodka ont -pour le moment- l'exclusivité sur les hints du skill green **Tokyo Racecourse**.
 
 #### PULL OU PAS
 
+**Non**. 
+
+Bien que Daitaku Helios SSR Power soit un bon support, la principale raison pour laquelle on ne pull pas est le calendrier : la bannière d'avant il y avait Kitasan Black SSR Speed,  la bannière uma qui sort en même temps est Mejiro Dober, un excellent parent pour les Late Surger et End Closer, et la bannière suivante aura XOguri (Oguri Cap alt) et une autre bonne carte support (Mayano Top Gun speed SSR). En plus, Vodka speed SR a de la compétition dans les SR Speed, et elle ne sort pas du lot. Vous obtiendrez des LBs de cette carte sur une bannière future.
 
 ---
 
