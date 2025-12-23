@@ -3,7 +3,7 @@ title: Champion's Meeting - Libra Cup 11 Décembre 2025 - Kikua Sho
 menuTitle: Libra cup - 11/12/25
 outline: [2, 3]
 description: Recommandations (abrégées) pour le Champion's Meeting - Libra Cup ;  Kikuka Sho, Kyoto 3000, sens horaire, automne, firm, sunny
-order: 1
+order: 5
 ---
 
 # Préparation au Champion's Meeting #06 du 11 décembre 2025 - Kikuka Sho (Kyoto 3000m)
