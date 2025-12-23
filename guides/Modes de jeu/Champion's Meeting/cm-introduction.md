@@ -23,14 +23,11 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ## Prochain PvP compétitif :
 
-### Libra Cup - "Kikua Sho" - Champion's Meeting - 12 décembre 2025
+### Scorpio Cup - "Tenno Sho Autumn" - Champion's Meeting - 1er Janvier 2025
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ [Champion's Meeting Libra Cup](cm-libra-cup-2025.md) - 11 décembre 2025 - Kyoto 3000m turf (Kikuka Sho)
-
-> À suivre : Champion's Meeting Scorpio Cup - 31 décembre - Tokyo 2000m turf (Tenno Sho Aki)
-> *(recommandations à venir)*
+⏩ [Champion's Meeting Scorpio Cup](cm-scorpio-cup-2025.md) - 1er Janvier 2025 - Tokyo 2000m turf (Tenno Sho Autmun)
 
 :::
 
