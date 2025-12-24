@@ -12,7 +12,7 @@ order: 1
 
 Inscriptions et choix de league à partir de **dimanche 28 décembre 2025**
 
-Début de l'évènement **jeudi 1er janvier 206** (évidemment je vais me planter d'un jour, comme d'hab :currenDevilish:)
+Début de l'évènement **jeudi 1er janvier 2026** (évidemment je vais me planter d'un jour, comme d'hab :currenDevilish:)
 
 :::
 
