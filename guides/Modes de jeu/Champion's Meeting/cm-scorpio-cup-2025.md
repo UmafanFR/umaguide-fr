@@ -162,8 +162,6 @@ En 2 mots, pour augmenter vos chances de succès, il vous faut :
 
 :::
 
-On s'attend à ce que les Front soient plutôt moyennes, voire médiocre. Il sera particulièrement difficile de build une Front compétente, car les prérequis niveau stats et skills sont élevés.
-
 Bonne chance !
 
 ## La course - Tenno Sho Autumn
