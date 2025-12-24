@@ -267,7 +267,7 @@ Le mid-race commence sur le dernier tiers du 2e corner, puis se poursuit sur la 
 - Le final straight arrive tardivement, et **l'accel white Straightaway Spurt sera assez mauvaise la plupart du temps**. Taishin peut éventuellement utiliser Encroaching Shadow -vu que son effet est plus grand-, mais la plupart du temps ce sera un gâchi de skill points ; à l'arrivée du final straight, vous devriez avoir pop au moins une ou deux accel white au final corner, et le cas échéant, Encroaching Shadow n'aura qu'un faible effet.
     - Autrement dit, si Encroaching Shadow se retrouve à être impactant, c'est que vous avez fail les autres accels au final corner, et c'est plutôt très mauvais (car les autres uma auront pop leurs accel).
 - La côte arrive beaucoup **trop tard** pour utiliser l'accel white Highlander.
-- Les accel de late-rate entièrement aléatoire (Head-On et Slick Surge/On Your Left) ont **environ 25% chance** d'avoir un timing qui leur permet d'accomplir quelque chose.
+- Les accel de late-rate entièrement aléatoire (Head-On, Slick Surge/On Your Left, Unity Cup Power/Guts) ont **environ 25% chance** d'avoir un timing qui leur permet d'accomplir quelque chose.
 - Les skills de vitesse s'activant à partir de la côte du final straight s'activent et fonctionnent normalement.
 
 :::
@@ -315,10 +315,12 @@ Le reste des accel vous les connaissez assez bien :
 
 | **Skill** | **Activation** | **Source pertinente** | **Pour qui ?** | **Note** |
 | --- | --- | --- | --- | --- |
+| Burning/Ignited Spirit PWR | Moment aléatoire en late-race | Scénario Unity Cup | Tout le monde | 25% chance d'être utile |
+| Burning/Ignited Spirit GUTS | Moment aléatoire en late-race | Scénario Unity Cup | Tout le monde | 25% chance d'être utile |
 | Angling & Scheming | 1e position en corner en late-race | Seiun Sky (inspiration) | Front et Runaway Suzuka |  |
 | Final Push / Unrestrained | Moment aléatoire en final corner en étant en 1e position | Silence Suzuka speed SSR | Front et Runaway Suzuka | Timing variable, mais virtuellement **toujours au moins un peu utile**. |
 | Shooting for Victory | 4e ou 3e position sur la 2e moitié du final corner | Taiki Shuttle (inspiration) | Frontlines | Instantané pour la uma en 3-4e position ; dans une meta avec beaucoup de Front, ça peut être une Pace comme une Front. |
-| Head On | Moment aléatoire en late-race | Unity Cup Spirit Burst mdr :currenDevilish:  | Pace | 25% chance d'être utile |
+| Head-On | Moment aléatoire en late-race | Certaines uma (Taiki, Mayano, autres ?) l'ont en récompense de *secret event* // Unity Cup Spirit Burst mdr :currenDevilish:  | Pace | 25% chance d'être utile |
 | Slick Surge / On Your Left | Moment aléatoire en late-race | Nice Nature wits SSR | Late | 25% chance d'être utile |
 | Red Shift LP1121-M | Top5 sur le final corner | Maruzensky (inspiration) | Maruzensky elle même + Backlines | Pour Maru, le skill dure suffisamment longtemps pour être utile. Pour les backlines, le skill doit être délayé de quelques secondes pour marcher. |
 | Condor's Fury | Tentative de dépassement sur le final corner, en étant entre 4e et 7e | El Condor Pasa alt (inspiration) | Backlines (et Pace s'il y a beaucoup de Front) | Fiabilité variable, mais sera partiellement utile la plupart du temps. |
