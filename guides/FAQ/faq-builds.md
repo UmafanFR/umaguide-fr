@@ -208,7 +208,7 @@ Toutes les uma ne sont pas conçues pareil, et le kit de certaines est particuli
 
 ::: tip J'adore Matikanefukukitaru hein
 
-Elle a juste, genre, certainement le pire kit de tout le jeu sadly. [Son alt est bien meilleur](/guides/Gacha-was-a-mistake/Uma-gacha-reviews-2025.md##_19-matikanefukukitaru-alt-★★★).
+Elle a juste, genre, certainement le pire kit de tout le jeu sadly. [Son alt est bien meilleur](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md##_19-matikanefukukitaru-alt-★★★).
 
 :::
 
