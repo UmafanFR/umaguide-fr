@@ -693,7 +693,7 @@ On a la version NERF du skill. **Stamina Siphon restaure bien 3,5% de HP** ; plu
 
 ## #25 - Symboli Rudolf alt et Gold City alt ★★★
 
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/025_Uma-Banner.png)
+![Image de présentation de la bannière Symboli Rudolf alt et Gold City alt](/public/assets/Gacha-reviews/2025/025_Uma-Banner.png)
 
 ::: details REVIEW (co-écrites par Yamakyu et Kamuisaki)
 
@@ -737,7 +737,7 @@ Symboli Rudolf (Festival) a un problème majeur : son Gold Green, qui ne sera pa
 
 ## #26 - Tosen Jordan ★★★
 
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/026_Uma-Banner.png)
+![Image de présentation de la bannière Tosen Jordan](/public/assets/Gacha-reviews/2025/026_Uma-Banner.png)
 
 :::: details REVIEW (par Kamuisaki)
 
@@ -763,5 +763,31 @@ Quand les skills évolués (rose) seront implémentés, ces 2 skills pourront ê
 Tosen Jordan est une uma correcte, qui est pour l'instant limitée par les stratégies incohérentes de ses Golds. Quand les skills roses seront sur la version globale, ce défaut sera effacé, ce qui la rendra meilleure.
 
 Si vous n'avez pas Kitasan Black à au moins 3LB non (visez MLB), vous allez plutôt vouloir la favoriser, car sa bannière est en même temps et **bien plus importante**.
+
+::::
+
+## #27 - Mejiro Dober ★★★
+
+![Image de présentation de la bannière Mejiro Dober](/public/assets/Gacha-reviews/2025/027_Uma-Banner.png)
+
+:::: details REVIEW (par Kamuisaki)
+
+_Mejiro Dober est une Late Surger assez capable en distances Mile et Medium. Avec un peu d'inspiration, elle peut aussi courir en tant que Pace Chaser (1*), Front Runner (4*), et en distance Sprint (10*), mais cette distance demandera une bonne RNG pendant les courses. Sa stratégie de prédilection reste Late Surger. Elle possède un gold de débuff Late Surger et 1 gold Green. Son unique est un boost d'accélération qui s'active dans le final corner, ou en corner en late-race._
+
+* Mejiro Dober a 2 bonus de croissance : 10 % en Speed :speed: et 20 % en Wit :wit:. C'est un combo de bonus corrects, bon pour le Mile et le Medium. Vous pourrez utiliser les decks habituels de Mile et de Medium, mais vous aurez un besoin moindre en carte wits (1 seule au lieu de 2).
+* Ses Gold skills sont :
+    * **All-Seing Eyes**, la gold version de Sharp Gaze. C'est un gold debuff de HP Late Surger, s'activant à un moment aléatoire du Late-Race si elle est à l'arrière. Vous le connaissez plutôt bien, c'est un des skills gold de Nice Nature.
+        > Une des 2 évolutions possible du skill change complètement son effet, devant ainsi un speed boost.
+    * **Yodo Invicta**, la gold version de Kyoto Racecourse. C'est un gold Green augmentant de  60 votre Stamina, Wit et Speed. C'est un gold Green très précis, ce qui rend son utilisation compliquée et situationnelle. Pour l'avoir vous devez d'abord double cercler ◎ Kyoto Racecourse puis l'acheter, donc il sera parfois un peu cher. Plusieurs supports peuvent lui obtenir des hints pour Kyoto Racecourse (ce sera le plus facile avec la Mejiro McQueen SSR Stamina).
+* Son unique est un boost d'accélération s'activant si elle n'a pas rush pendant la course, en étant entre top 50% et top 70% (entre 5e et 6e en CM) en fin de course.  2 timings sont alors possibles : 
+    * Dans la plupart des courses Medium / Long (mais pas pour le CM Scorpio), l'unique s'activera en corner en late-race, et généralement dans le 3ème corner.
+    * Dans les courses Sprint / Mile, l'unique s'activera dans le final corner en Mid-Race. Il y aura une petite perte d'accel dûe à l'activation tôt, mais s'il s'active vers la fin du Mid-Race, le boost d'accel sera quand même utile.
+* Ce skill unique sera particulièrement désirable pour les backlines, dans la grande majorité des courses du jeu.
+
+#### PULL OU PAS
+
+**Si c'est votre Oshi, oui**. 
+
+**Aussi envisageable si vous jouez vraiment beaucoup de backlines**. Mejiro Dober est un très bon parent pour les Late Surger et End Closer, donc si vous utilisez beaucoup ces stratégies, c'est aussi une uma que vous voudrez pull. Le problème est que la bannière arrive entre Kitasan Black Speed SSR et Oguri Cap (Christmas), qui sont respectivement, le meilleur support et la plus forte uma pour l'instant (sur certaines courses).
 
 ::::

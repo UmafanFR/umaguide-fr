@@ -777,3 +777,29 @@ Si en revanche vous avez déjà fait beaucoup de pulls quand vous atteignez Kita
 :::
 
 ::::
+
+## #27 - Daitaku Helios Power SSR et Vodka Speed SR
+
+![Image de présentation de la bannière Daitaku Helios Power SSR et Vodka Speed SR](/public/assets/Gacha-reviews/2025/027_Card-Banner.png)
+
+:::: details REVIEW (par Kamuisaki)
+
+⏩ **Daitaku Helios** :power: :ssr:
+* La carte est **frontloaded**. A 1LB, elle débloque Skill Point Bonus et à 3LB le combo de Hint Levels et Hint Frequency. Son mood bonus est plutôt élevé, commençant à 40 à 0LB, pour atteindre 50 à MLB.
+* Helios power a des bons rainbows, mais peu fréquents car son Special Priority est un peu faible. Son cross training est assez bon grâce à son haut Mood Effect et son Training Effectiveness, faible mais présent. La qualité de ses entraînements dépendra pas mal du mood, et en cas de baisse le gain de stats perdra un peu en efficacité.
+* Elle a une bonne liste de hints ❗ (7 hints), dont 5 bien sympa (4 skills de vitesse et 1 debuff, dont 3 pour le Mile). Grâce à son Hint Level de 3 et son Hint Frequancy de 40% à MLB, elle sera un peu meilleure que sa SR pour le hints farming. 
+* Le skill gold est **Escape Artist**, la version gold de Fast Paced. C'est un très bon skill de vitesse pour Front Runner, qui s'active aléatoirement dans le Mid-Race, en étant top 50%.
+* Ses chain events sont un peu **énergivores** et vous prendront un total de 20 points d'énergie. Si vous n'avez pas l'usage du skill gold, vous pouvez interrompre la chaîne dès le premier event, en sélectionnant l'option du bas.
+
+⏩ **Vodka** :speed: :sr:
+* La carte à une croissance équilibrée. A 1LB, elle débloque Race Bonus et à 3LB Power Bonus. Son Freindship Bonus et Mood Effect augmentent jusqu'à MLB, pour atteindre respectivement 25 et 50
+* A part son Mood Effect, la valeur de ses bonus sont assez faibles ou dans la moyenne. Le gain de stats repose sur son Mood Effect, il faudra donc maintenir le mood Great.
+* Sa liste de hints ❗ est bonne (9 hints) et tous ses skills sont au moins assez bons. Cependant, son Hint Level et Hint Frequency sont plutôt faibles (moins bon que la version SSR), et la plupart de ces skills peuvent être obtenus ailleurs. Notez que les cartes support de Vodka ont -pour le moment- l'exclusivité sur les hints du skill green **Tokyo Racecourse**.
+
+#### PULL OU PAS
+
+**Non**. 
+
+Bien que Daitaku Helios SSR Power soit un bon support, la principale raison pour laquelle on ne pull pas est le calendrier : la bannière d'avant il y avait Kitasan Black SSR Speed,  la bannière uma qui sort en même temps est Mejiro Dober, un excellent parent pour les Late Surger et End Closer, et la bannière suivante aura XOguri (Oguri Cap alt) et une autre bonne carte support (Mayano Top Gun speed SSR). En plus, Vodka speed SR a de la compétition dans les SR Speed, et elle ne sort pas du lot. Vous obtiendrez des LBs de cette carte sur une bannière future.
+
+::::
