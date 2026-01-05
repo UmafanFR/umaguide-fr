@@ -1,6 +1,6 @@
 ---
 title: Gacha review - Archives des bannières umamusume ★★★ 2025
-menuTitle: (archives gacha uma - 2025)
+menuTitle: Bannières UMA - 2025
 outline: [2, 3]
 description: Archives des bannières de umamusume ★★★ sorties en 2025
 order: 3

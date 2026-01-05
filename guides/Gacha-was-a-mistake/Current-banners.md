@@ -272,8 +272,10 @@ Bien que Daitaku Helios SSR Power soit un bon support, la principale raison pour
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
-* [Bannières cartes support de 2025](/guides/Gacha-was-a-mistake/Support-gacha-reviews-2025.md)
-* [Bannières umamusume ★★★ de 2025](/guides/Gacha-was-a-mistake/Uma-gacha-reviews-2025.md)
+* [Bannières cartes support de 2026](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md)
+* [Bannières cartes support de 2025](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md)
+* [Bannières umamusume ★★★ de 2026](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2026.md)
+* [Bannières umamusume ★★★ de 2025](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md)
 
 <br/>
 <br/>

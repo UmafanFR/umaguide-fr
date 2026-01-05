@@ -1,9 +1,9 @@
 ---
 title: Gacha review - Archives des bannières cartes support 2025
-menuTitle: (archives gacha support - 2025)
+menuTitle: Bannières SUPPORT - 2025
 outline: [2, 3]
 description: Archives des bannières de cartes support sorties en 2025
-order: 2
+order: 1
 ---
 
 # Review des anciennes bannières gacha cartes support

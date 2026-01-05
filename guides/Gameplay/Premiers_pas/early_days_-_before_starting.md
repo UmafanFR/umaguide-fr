@@ -57,7 +57,7 @@ Vérifiez quand même que votre fav ne peut pas être obtenue par un des tickets
 
 :::
 
-On va évoquer des cartes de qualité dans un instant, mais au moment où vous allez commencer le jeu, il y aura peut-être des **nouvelles cartes intéressantes qui seront sorties** d'ici là. Si vous voulez avoir une idée de la qualité d'une carte que vous avez obtenue, jetez un oeil aux [reviews des cartes support](/guides/Gacha-was-a-mistake/Support-gacha-reviews-2025.md) !
+On va évoquer des cartes de qualité dans un instant, mais au moment où vous allez commencer le jeu, il y aura peut-être des **nouvelles cartes intéressantes qui seront sorties** d'ici là. Si vous voulez avoir une idée de la qualité d'une carte que vous avez obtenue, jetez un oeil aux [reviews des cartes support](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md) !
 
 ::::
 

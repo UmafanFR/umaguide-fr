@@ -218,8 +218,10 @@ Visez sélectivement les bannières de cartes support 👌🏿 Au début du jeu,
 **Gardez un oeil à [cette page](/guides/Gacha-was-a-mistake/Current-banners.md)** : peu avant ou peu après l'arrivée d'une nouvelle bannière, les **recommandation de pulls sur les bannières gacha** sont mises à jour. Ça vous permet de savoir s'il est judicieux de dépenser des carats sur une bannière pour faire des pulls. Gardez en tête que **même une très bonne bannière ne vaut pas forcément le coût** si vous n'avez _pas beaucoup de pulls_ à faire dessus !
 
 Vous pouvez aussi consulter les archives des précédentes bannières :
-- [archives cartes support 2025](/guides/Gacha-was-a-mistake/Support-gacha-reviews-2025.md)
-- [archives umamusume 2025](/guides/Gacha-was-a-mistake/Uma-gacha-reviews-2025.md)
+- [archives cartes support 2026](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md)
+- [archives cartes support 2025](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md)
+- [archives umamusume 2026](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2026.md)
+- [archives umamusume 2025](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md)
 
 :::
 
