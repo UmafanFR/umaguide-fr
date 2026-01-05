@@ -1,5 +1,5 @@
 ---
-title: Gacha - Tosen Jordan ★★★ // Kitasan Black speed SSR & El Condor Pasa power SSR (rerun)
+title: Gacha - Oguri Cap (alt) & Biwa Hayahide (alt) ★★★ // Mayano Top Gun speed SSR et Narita Taishin wit SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2025/026_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/028_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -35,7 +35,7 @@ Sur cette page nous tenterons d'évaluer la qualité des bannières gacha actuel
 
 ::: warning Auteurs
 
-Les review sont écrites par **Yamakyu** et **Kamuisaki**, n'hésitez pas à nous faire des retours 🌟
+Sauf mention contraire, les reviews sont écrites **Kamuisaki** et checkées par **Yamakyu**, n'hésitez pas à nous faire des retours 🌟
 
 Bien que nous fassions de notre mieux pour vous proposer des conseils pertinents, **nous avons aussi des BIAIS, et nous faisons des erreurs**. N'hésitez pas à double-check ces recommandations auprès d'autres vétérans ; des tas de gens font des recommandations de pull, surtout dans la commu anglophone.
 
@@ -63,37 +63,11 @@ C'est une véritable **épreuve de patience**, c'est normal que ça vous paraiss
 
 ::::
 
-:::: details Bref rappel de VOCABULAIRE
+::: danger Vocabulaire
 
-**Spark :** Chaque pull que vous faites sur une bannière ajoute 1 point à un compteur, et arrivé à 200 vous pouvez **échanger ces 200 points** contre une des uma/carte en highlight sur la bannière, de manière totalement garantie. **"Spark une bannière" c'est réaliser cet échange** ; si vous avez "1 spark", vous avez donc la possibilité de faire au moins 200 pulls.
-
-**LB :** Limit Break. Ce sont les cristaux bleus :lb: qui permettent d'augmenter le level maximum de votre carte support. On dit qu'une carte est 0LB (zéro LB) si elle n'a aucun LB :lb: ; à 0LB une carte R a un lvl max de 20, pour une SR c'est lvl max 25, et une SSR a un lvl max à 30. Chaque LB :lb: augmente de 5 le lvl max de votre carte support, jusqu'à +20. Le niveau d'une carte débloque ses différents bonus de gain de stats, donc c'est très important d'avoir toujours une carte à son **level max possible** au LB actuel.
-
-::: warning Bonne pratique
-
-Par souci de clarté, merci de parler d'une carte en mentionnant son **LB** plutôt que level.
+Si vous avez des doutes sur le vocabulaire utilisé, n'hésitez pas à [**consulter le glossaire**](/guides/FAQ/glossary.md) !
 
 :::
-
-**MLB :** Max Limit Break. Quand votre carte support atteint 4 LB :lb:, on dit qu'elle est MLB. Son niveau max est donc supérieur de 20 niveaux par rapport à sa version 0LB, et tous ses bonus peuvent être débloqués. Une carte MLB est à son potentiel maximum.
-
-**Carte frontloaded :** Une carte est "frontloaded" quand elle vous permet d'avoir la plupart de ses **bonus les plus intéressants** (généralement lié à un gros gain de stats en entrainements) **à _faible_ LB**. Une carte SSR gacha débloque un **bonus supplémentaire à 1LB et à 3LB** ; si une carte est frontloaded, c'est qu'**à 1LB elle a déjà ses meilleurs bonus**. Même si une carte est frontloaded, l'augmentation des LB booste la valeur de ses différents bonus, donc une carte frontloaded **bénéficie quand même d'être montée MLB**. C'est juste qu'elle n'en a pas _besoin_ pour être de (très) bonne qualité.
-
-> → Exemple : **Silence Suzuka speed SSR est frontloaded**. À 1LB elle a déjà tous ses bonus de gain de stats (y compris le précieux skill point bonus), et à 3LB elle ne débloque que "initial speed", qui est assez osef.
-
-**Carte backloaded :** Une carte est "backloaded" quand elle requiert d'avoir beaucoup de LB pour débloquer ses meilleurs bonus. Les cartes backloaded requièrent alors d'atteindre **au moins 3LB** pour débloquer un de leurs bonus important, et pour certaines le passage à MLB -pour booster ce bonus- est requis pour en tirer les bons avantages.
-
-> → Exemple : **Kitasan Black speed SSR est _très_ backloaded**. À 3LB elle débloque enfin son Specialty Priority, qui devient immédiatement assez élevé. Le passage de 3LB à MLB augmente fortement ce Spec Prio, et c'est vraiment à MLB qu'elle devient "la meilleure carte speed". Avant 3LB c'est difficile de justifier de l'utiliser, car ses bonus sont équivalents à une SR. 
-
-::: warning Clarification
-
-Le fait qu'une carte soit frontloaded ou backloaded n'a absolument _rien à voir_ avec le fait que la carte donne des skills pour frontlines (Pace et Front) ou backlines (End et Late).
-
-:::
-
-**Agemasen :** Toutes les cartes SSR peuvent vous donner un skill gold à la fin de leurs Chain Events ▶️▶️▶️, mais certaines cartes SSR ont une chance de vous donner la version de leur skill gold à la place. On parle donc de "Agemasen" ("won't give"), en référence à la scène de la saison 2 où Teio s'imagine Special Week refuser de faire part de gratitude à McQueen.
-
-::::
 
 Bonne chance à tous·tes !
 
@@ -101,179 +75,156 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Tosen Jordan ★★★
+### Bannière Umamusume : Oguri Cap (alt) & Biwa Hayahide (alt) ★★★
 
-_Tosen Jordan est une Pace Chaser Medium décente. Avec un peu d'inspiration, elle peut aussi courir en Long, ou en étant une Late Surger (1* pour les 2 aptitudes). Elle possède une gold recovery fiable pour Pace Chaser et un gold d'accélération pour Late Surger, ce qui est un peu dommage. Son unique est un boost de vitesse basique sur le final straight._
+![Image de présentation de la bannière Oguri Cap (alt) & Biwa Hayahide (alt)](/public/assets/Gacha-reviews/2026/028_Uma-Banner.png)
 
-* Tosen Jordan a 3 bonus de croissance : 10% en Speed :speed:, 10% en Power :power: et 10% en Guts :guts:. Ce n'est pas un excellent combo de bonus ; le bonus Stamina aurait été préféré à Guts, car elle est apte à courir en distances Medium et potentiellement Long. Mais le speed bonus et power bonus sont très appréciables. Ses decks vont principalement dépendre de la stratégie dans laquelle vous voulez la faire courir, car sa gold recovry Pace Chaser réduira le besoin en stamina (en Long, elle sera plus apte à courir en tant que Pace Chaser grâce à ça).
+⏩ **Oguri Cap (alt)**
 
-* Ses Gold skills sont :
-    * **Race Planner**, la gold version de Preferred Position. C'est une gold recovery pour Pace Chaser qui s'active en Mid-Race en étant top 50%. C'est une très bonne recovery fiable.
-    * **On Your Left !**, la gold version de Slick Surge. C'est une gold accel pour Late Surger qui s'active en Late-Race, en étant dans le bottom 50%. Le skill est meilleur sur les distances les plus courtes (Sprint, Mile, Medium 2000m).
+_Oguri Cap (Christmas) -aussi appelée XOguri- est une Pace Chaser (1 gold) capable en Mile, et très forte en Medium. Elle est tout aussi capable en tant que Late Surger. Tout comme sa version originale, elle est très facile à faire courir sur Dirt et en distance Long (dont elle a 1 gold), chacun demandant 1* par inspiration. Il est aussi possible de la faire courir en tant qu'End Closer -quand la meta est favorable- avec 7*. Elle possède 1 gold recovery de Pace Chaser et un skill gold de vitesse pour distance Long. Son unique est un hybride d'accélération et de vitesse, s'activant dans la seconde moitié de course, quand elle a activé 3 recoveries. C'est un skill unique très redoutable dans de nombreuses courses, et en particulier sur distance medium._
 
-::: tip Évolutions (skills pink)
+* Oguri Cap (Christmas) a 2 bonus de croissance : 15% en Speed :speed: et 15% en Stamina :stamina:. C'est un bon combo de bonus pour le Medium et le Long. Le Stamina bonus est gâché pour le Mile dû à son kit, mais la pleine puissance de XOguri se trouve en distance Medium. Vous construirez généralement son deck avec des **cartes Power ou Guts à la place des cartes Stamina**, sauf pour les très longues distances (3000m et 3200m), où elle n'est pas très forte anyways.
+* Ses golds skills sont :
+    - **Gourmand**, la gold version d'Hydrate. C'est une gold recovery de Pace Chaser restaurant des HP en Mid-Race. C'est toujours une recovery parfaitement fiable pour les Pace Chasers.
+    - **Innate Experience**, la gold version d'Inside Scoop. C'est un gold speed boost sur distance Long, s'activant pendant le final corner si on est proche de la barrière. De manière contre-intuitive, l'activation est plus fiable qu'il n'y paraît, et il n'est pas nécessaire d'être collé à la barrière pour l'activer. 
+* Son skill unique s'active dans la seconde moitié de la course, quand elle a activé 3 recoveries (white ou gold). L'unique a 3 effets : de l'**accélération**, de la **vitesse** et de la **recovery**. There's a lot to unpack, donc la suite est en spoiler. 
 
-Quand les skills évolués (rose) seront implémentés, ces 2 skills pourront être utilisés en Pace Chaser tout comme en Late Surger, réglant ainsi le problème des stratégies incohérentes. 
+:::: details Ce skill unique a 4 grandes implications notables ⚠️
 
-:::
+Ce skill unique est vraiment très puissant, mais il faut savoir comment il se contrôle et ce qu'il implique. Ce n'est pas très difficile.
 
-* Son skill unique est un speed boost basique s'activant dans le final straight si elle est dans le top 40%, après un dépassement réussi ou en étant une cible de dépassement. L'unique s'active bien en Medium et en Long, que ce soit en Pace Chaser ou Late Surger. 
+1. **On peut contrôler le skill unique grâce à une de ses white recovery**. La recovery à utiliser dépend de la course, mais dans toutes les courses medium, ce sera essentiellement toujours **Triple 7s**. Ce white skill est la raison de sa grande puissance en Medium ; Triple 7s s'activant un poil avant le Late-Race (le timing exact dépend de la distance). Les 3 effets sont alors pleinement utilisés. Dans les bonnes courses où une recovery peut être timée parfaitement, c'est clairement **le skill unique le plus puissant**, car il propulsera Oguri avec du **carry over ET de l'accélération**, de manière **fiable**. Le skill n'a pas de condition de position particulière, et s'active donc parfaitement pour **toutes les stratégies**, ce qui lui confère -en plus de sa grande puissance- une grande **flexibilité** pour s'adapter à la meta. Pour tirer le maximum de ce skill unique redoutable, vous allez vouloir que la **3e recovery qui s'active dans la course pop très près du mid-race**, afin que le speed boost induise un carry over, et que le reste de l'effet du skill soit de l'accel. C'est la situation idéale. Dans toutes les courses de distance medium, le skill **Triple 7s** a une activation idéale (surtout sur 2200m), et vous voudrez que ce soit votre 3e recovery. Dans les autres courses, il faudra parfois être créatif sur le choix de la 3e recovery, quitte à **changer de stratégie** pour utiliser une recovery ayant un meilleur timing (généralement, Front ou End, pour tirer parti des recoveries s'activant sur les côtes ou descentes).
 
-#### PULL OU PAS
-**Si c'est une de vos Oshi, oui**. 
+::: warning Point d'activation
 
-Tosen Jordan est une uma correcte, qui est pour l'instant limitée par les stratégies incohérentes de ses Golds. Quand les skills roses seront sur la version globale, ce défaut sera effacé, ce qui la rendra meilleure.
+Le skill s'activera à exactement 50% de la course si vous avez utilisé 3 recoveries *avant* la moitié de la course. **C'est un problème. Vous ne voulez pas ça**. Vous voulez ajuster le timing d'activation pour que le skill unique pop en fin de mid-race, pour induire carry over et accélération. En cas d'activation prématurée, vous n'aurez qu'un speed boost inférieur au skill unique de Golshi, et l'accélération n'aura aucun effet.
 
-Si vous n'avez pas Kitasan Black à au moins 3LB non (visez MLB), vous allez plutôt vouloir la favoriser, car sa bannière est en même temps et **bien plus importante**.
-
----
-
-### Bannière support : Kitasan Black speed SSR & El Condor Pasa power SSR (rerun)
-
-Je mets les review en "caché", pas parce qu'il y a des spoilers ou quoi, mais parce qu'on SAIT que vous savez pourquoi la bannière Kitasan rerun est attendue. Vous n'apprendrez rien de nouveau, et les review sont déjà assez longues comme ça :currenDevilish: Ce qui vous intéresse c'est vos pulls
-
-:::: details REVIEW (par Kamuisaki)
-
-⏩ **Kitasan Black** :speed: :ssr:
-
-* Bien qu'elle ait plusieurs bons bonus à faible LB, Kitasan Black est en réalité **très backloaded**, et est justement remarquable pour son **specialty priority de 116** une fois MLB.
-
-* Kitasan Black speed est notable pour pas mal de choses, mais est réputée pour ses rainbows fréquents (1 chance sur 3), et de bonne qualité : la combinaison de ses bonus lui feront fortement contribuer à la croissance de speed (et power). Ils arriveront assez rapidement grâce à son Initial Friendship Gauge assez élevé. Elle participera aussi au cross training, avec 15 training effectiveness, mais souffre légèrement de son Race Bonus à 5% : son usage va diminuer pour le prochain scénario (MANT), avant de revenir au top des supports plus tard. Elle reste le choix évident pour les joueur·euse·s free-to-play en particulier, qui n'auront pas forcément les cartes "de luxe" pour MANT.
-
-::: tip 116 Specialty Priority
-
-Bien que Gametora.com affiche son spec prio à 100 -par simplification-, Kitasan Black speed SSR a bel et bien **116 specialty prio**, ce n'est pas une erreur.
-
-Avec 116 specialty priority, Kitasan Black speed SSR est toujours -à ce jour- la carte avec le **2e plus haut specialty priority sur la version JP**.  Il y a 2 cartes qui ont 120 spec prio sur la JP, et plusieurs qui ont 100. 
-
-_116 c'est vraiment vraiment beaucoup_ : ça fait **32,5% chance d'être en rainbow** (contre 25% à 50 spec prio, ou 18,25 à 0 spec prio).
+Si vous n'avez pas pop vos 3 recoveries avant la moitié de la course, le point d'activation exact du skill unique est le point d'activation exact de la 3e recovery qui s'active pendant la course. Vous voulez donc une recovery qui s'active à un timing favorable. Tous les guides de CM à venir où XOguri est une uma pertinente inclueront une sélection de recovery que vous pouvez utiliser pour activer son unique.
 
 :::
 
-* Elle a une très bonne liste de hints (8 hints) dont seulement 1 est mauvais. Sur les 7 bon skills, elle a 3 skills pour Front Runner. 2 de ces skills hints lui sont uniques pour l'instant (Dodging Danger et Long Corners), et elle sera toute indiquée pour vous donner les 3 autres skills (Front Runner Straightaway, Focus et Corner Adept) grâce à son Hints Level 2 et son Hint Frequency.
+2. Pour sécuriser l'activation de 3 recoveries cruciales, vous allez **toujours** vouloir faire des builds avec une grande valeur de wits pour votre XOguri. Avec 1200 wits, si vous avez exactement 3 recoveries, vous avez **80% chance** d'activer les 3 avec succès (ce qui déclenche le skill unique), et **75% chance avec 1000 wits**.
+3. (ou 3 bis, comme vous voulez) Pour réduire les risques d'échec critique, vous pourrez parfois utiliser une **4e recovery, en backup**, qui pourra être le trigger final si votre 3e recovery échoue. Cette 4e recovery doit s'activer à un **timing proche de la 3e recovery**, mais APRÈS celle-ci. Parfois, cette 4e recovery sera **Shake it Out**, parfois ce sera autre chose (le skill unique d'Agnes Tachyon par exemple). À noter que **vous n'êtes pas obligé d'avoir une recovery backup** ; mais la chance d'activer 3 recovery sur 4, avec 1000 wits c'est **84%** (contre 75% avec exactement 3 recoveries).
+4. XOguri a besoin de notablement **moins de stamina que les autres uma**, à la fois grâce aux 3 recovery white utilisées, et grâce à l'effet recovery de son unique. 3 whites recoveries + son skill unique valent plus ou moins **1,5 gold recovery**. Autrement dit, quel que soit votre build et votre deck, si vous parvenez à build pour activer le skill unique de XOguri, vous avez -de base- environ 1,5 gold recovery worth of HP supplémentaire, ce qui vous facilite les choses.
 
-* Le skill gold obtenu est **Professor of Culvature**, la version gold de Corner Adept. C'est un speed skill universel, qui s'active aléatoirement sur un corner aléatoire, et pouvant s'activer 2 fois sur certaines courses (surtout en long). Le skill était déjà excellent, et le [patch du 11 novembre](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#skills) l'améliore davantage, en allongeant sa durée et en changeant son activation sur un corner aléatoire. Suite à ce changement, il y a maintenant 3 différentes activations : soit il reste un skill de vitesse basique, soit il peut faire du carry-over sur les courses où la phase d'accélération se trouve en corner, soit il peut s'activer en début de phase d'accélération et perd un peu de son boost de vitesse. Le plus souvent, le skill aura le 1er résultat et le plus rare est le 3ème.
-
-* Plusieurs de ses events vous aident en carrière ! Son 1e chain event vous donne un mood up, son 2e peut vous faire mood up + gain d'énergie, l'un de ses events aléatoires vous donne le choix entre mood up et gain d'énergie, et l'autre vous peut vous donner le buff **Practice Perfect** (pour effacer Bad Practice).
+:::: 
 
 
-⏩ **El Condor Pasa** :power: :ssr:
+⏩ **Biwa Hayahide (alt)**
 
-* La carte est légèrement **backloaded** : à 1LB elle débloque Power Bonus, puis Training Effectiveness à 3LB. On voudra la MLB pour maximiser son Race Bonus (10%), son Specialty Priority (70) et son Training Effectiveness.
+_Biwa Hiyahide (Christmas) est une Pace Chaser capable en distances Medium et Long. Avec un peu d'inspiration elle peut aussi courir facilement en Late Surger (1*) et sur distance Mile (4*). Elle possède une gold recovery pour le long et un skill gold de vitesse. Son unique est un boost de vitesse de Mid-Race._
 
-* El Condor Pasa power a de bons rainbows, relativement fréquents et pas trop tardifs, et sera aussi plutôt bonne en cross training. Son gain de stats est donc plutôt solide en général. Vous pourrez aussi l'utiliser sur le prochain scénario (MANT), grâce à son 10 Race Bonus. 
+* Biwa Hiyahide (Christmas) possède 3 bonus de croissance : 12% en Stamina :stamina:, 12% en Power :power: et 6% en Wits :wit:. C'est un bon combo de bonus de croissance pour ses 2 distances principales. Ses decks se feront à base de 3 cartes Speeds ou 2 Speeds / 2 Wits pour atteindre 1200 Speed (plus difficile).
+* Ses golds skills sont :
+    - **VIP Pass**, la gold version de Passing Pro. C'est une gold recovery de distance Long, qui s'active si Biwa tente un dépassement n'importe quand dans la course, mais pas avant les 5 premières secondes. C'est un skill généralement assez fiable, mais qui peut occasionnellement échouer si la meta vous empêche d'avoir une cible de dépassement (exemple : meta full backlines, et votre Biwa est Pace ; quelle cible de dépassement du coup ?).
+    - **In Body and Mind**, la gold version de Homestretch Haste. C'est un gold de vitesse s'activant aléatoirement en late-race (à condition que votre uma ait les HP pour finir la course). C'est un skill de fiabilité variable, qui peut parfois s'activer beaucoup trop tard.
+* Son skill unique est un boost de vitesse en Mid-Race s'activant à partir de la moitié de la course si Biwa est entre 2e et top50%, MAIS à condition que Biwa soit **restée top50% jusqu'à la moitié de la course**, sans faute. Le skill ne s'active pas si Biwa a perdu position même une seule fois. L'activation n'est pas réellement compliquée, mais peut parfois être mise à mal par la meta d'une course : dans une course avec une **abondance de Front Runner**, ce sera difficile de maintenir top50% sans faute. Ainsi, il ne serai pas surprenant que le skill ne pop pas en distance Sprint ou Mile, où les Front sont souvent fortes. Il devrait y avoir moins de mauvaises surprises en Long.
 
-* Sa sélection de hints (7 hints) est bonne, avec 2 Greens, 4 skills de Speed et 1 skill de vision. Cependant, le fait qu'elle n'aie pas de Hint Level Bonus et de Hint Frequency Bonus compliquera le hint farming. On préfèrera farm les skills avec des SR qui ont les 2 bonus de Hints.
+::: tip Clarification sur la position
 
-* Le skill gold obtenu est **Killer Tunes**, la version Gold de Up-Tempo. C'est un skill de speed pour le Medium qui s'active dans le Mid-Race, en étant top 50%. Le skill a été grandement amélioré lors de la [mise à jour du 11 novembre](/guides/News-majeurs-autres/2025-11-11_Half-anni.md#skills) ; sa durée a été fortement augmentée. C'est maintenant un bon skill à prendre pour les courses Medium.
-
-* L'option du haut sur son 2e chain event vous rend **+30 énergie** d'un coup (l'option du bas met fin à la chaîne) !
-
-::::
-
-#### PULL OU PAS
-
-_**La bannière est excellente.**_
-
-Vous connaissiez déjà l'importance de Kitasan Black speed SSR : c'est la **meilleure carte speed** pendant très très longtemps, et un asset essentiel surtout pour les joueur·euse·s free-to-play (et les whales aussi hein). El Condor Pasa power SSR est aussi *très solide*, et grandement aidée par l'amélioration de son skill gold. Bref, ce sont 2 (très) bonnes cartes supports, qui sont devenues meilleures après le 11 novembre (surtout Pasa).
-
-Pour savoir si vous faites des pulls, dites vous que la cible est bien **Kitasan Black speed SSR, 3LB ou MLB**. Pasa power est bonne, mais pas assez pour dépenser vos carats :carat:. C'est en revanche un bon spook. Du coup :
-
-* **Si vous avez déjà MLB Kitasan Black, NON**. Pas de pulls pour Pasa power.
-
-* Si vous n'avez pas de Kitasan Black, OU que vous l'avez 2LB ou moins, ET que vous avez au moins 30000 :carat: (soit un spark) : **<u>OUI</u>**. Pas d'hésitation.
-
-* Vous pouvez aussi envisager de pulls si vous avez moins qu'un spark, mais gardez en tête que GACHA WAS A MISTAKE.
-
-* Si votre Kitasan Black est déjà 3LB, là c'est délicat. Par sureté, on préfèrerai éviter de prendre des risques et garder Kitasan à 3LB (déjà une bonne carte speed). Vous aurez d'autres opportunités de l'avoir, soi sur une future bannière, soi sur un futur ticket. Vous pouvez bien entendu tenter votre chance, mais then again : GACHA WAS A MISTAKE.
-
-::: tip Hésitation ?...
-
-Le ref doc n'est pas aussi tranché sur la nécessité de pull Kitasan Black speed SSR, et les arguments sont bons : bien qu'elle reste la meilleure carte speed pour encore un bon moment, son utilisation sera rendue légèrement moins évidente par le fait qu'il y aura d'autres options intéressantes en speed, et peut-être plus optimales.
-
-* Matikanefukukitaru speed SSR et Narita Top Road speed SSR sont toutes deux désirables pendant le scénario MaNT, et pendant ce scénario vous n'utiliserez pas forcément toujours 3 cartes speed. Cependant, ces 2 cartes ont une très courte durée de vie, et sont bien moins recommandables (surtout Fuku) après MaNT.
-* Plus tard, Maruzensky speed SSR sortira et sera *excellente* pour le cross training. Ce sera une très bonne cible de pulls, en particulier si vous entrainez beaucoup de Front Runners.
-* À la sortie du scénario Grand Live, Agnes Tachyon speed SSR sera particulièrement désirable. 
-
-Kitasan aura donc de la concurrence sur les scénarios MaNT et GL. Pendant le 5e scénario (Grand Masters) elle sera de nouveau un choix très opti, et avec l'arrivée du 6e scénario (L'Arc), elle sera rendue "obsolète" (mais toujours utile) par El Condor Pasa speed SSR.
-
-Pull pour Kitasan ou pas est donc un choix entre longévité (jusqu'au 6e scénario) et optimisation (pour les scénarios MaNT et GL).
-
-Je (Yamakyu) vous recommande de choisir la longévité.
+Le skill ne s'active pas si Biwa est en 1e position, MAIS elle a le droit d'avoir été 1e pendant la première moitié de la course. La condition est "top50% pendant la première moitiée de la course", donc la 1e position est inclue.    Le skill poppera alors quand elle passera de 1e à 2e.
 
 :::
 
-La cible c'est Kitasan <u>**3LB**</u>. La carte est moins bonne que des tas de cartes speed à 0, 1 et 2LB, devient très bonne à 3LB, et est la meilleure à MLB. Après vos pulls, selon vos résultats, vous pouvez décider d'utiliser votre **ticket SSR** _PUIS_ votre cristal (*dans cet ordre* : d'abord le ticket) pour augmenter les LBs de Kitasan, et la monter à au moins **3LB**. C'est valide.
+#### PULL OU PAS
+**Envisagez-le**, surtout si ce sont vos Oshi. 
 
-Gardez en tête que l'utilisation du ticket/cristal pour passer Kitasan à <u>1 ou 2LB</u> est un **mauvais usage**. Votre utilisation du ticket/cristal (ou les 2 en même temps) doit absolument vous permettre d'atteindre *au minimum* 3LB, sinon c'est juste du gachis. 
+On va surtout parler d'Oguri Cap (Christmas) car elle est **très forte**. Biwa Hiyahide (Christmas) est plus classique.
 
-::: warning Nuance importante
+Oguri Cap (Christmas) est **excellente**, surtout en Medium où c'est la meilleure uma. Sa domination baissera avec l'arrivée des **skills roses** (skills évolués, spécifiques chaque Uma) sur la version globale du jeu. Elle restera forte malgré tout, mais d'autres umas gagneront alors en puissance. 
 
-Si -par immense chance- vous obtenez Kitasan 2LB ou 3LB en très peu de pulls (genre moins de 80 ~), ET que vous avez encore votre ticket SSR, **ne terminez pas le spark !** Il vaut mieux garder vos :carat: pour une future bonne bannière, et garantir le passage à 3LB ou MLB à moindre coût ! Vous n'avez pas de garantie sur ce que les futurs carats dépensés vous obtiendront (gacha was a mistake).
+En attendant, XOguri est incontestablement la meilleure uma en distance medium (même dans notre meta différente de la version JP à la même époque), et la meilleure uma sur certaines courses spécifiques où elle peut utiliser une autre recovery comme trigger. L'activation idéale de son skill unique sera **souvent une condition de victoire quasi suffisante**, et vous perdrez très souvent contre elle si elle est build correctement (= 3 recoveries, dont la 3e timée parfaitement), jusqu'à ce qu'elle soit rattrapée par la meta.
 
-Prenez donc bien en compte votre ticket et/ou votre cristal pour décider de vos pulls.
+Enfin, il est bon de garder en tête que si les atouts de XOguri lui sont **exclusifs** (son skill unique est *très mauvais* à transmettre par inspiration), ça ne lui empêche pas d'utiliser les autres puissants outils accessibles dans les différentes courses. **En plus de son accel à timing parfait, XOguri a _toujours accès_ aux autres accels à timing variable.**
 
-Si en revanche vous avez déjà fait beaucoup de pulls quand vous atteignez Kitasan 2LB ou 3LB, **finissez le spark**, quitte à spark El Condor Pasa power SSR (si -et seulement si- votre Kitasan est MLB d'ici le spark). Si vous décidez de terminer le spark, **finissez les 200 absolument AVANT d'utiliser le ticket pour up Kitasan**. Comme ça vous incluez le spark de Kitasan dans votre décision d'utilisation (ou pas) du ticket. Vous pouvez spark Pasa power, mais seulement si votre Kitasan est MLB.
+Contrairement à de très nombreuses uma qui ont de multiples conditions de défaite, sa seule condition de défaite est de rater un des 3 wit check et ne pas pop son unique. Et ce n'est pas forcément une condition de défaite suffisante si elle a aussi une accel backup ou une recovery backup. Au-delà de ça, **vous n'avez aucun moyen de build vos uma pour mettre en échec une XOguri** (à l'inverse -par exemple- des Front qu'on peut mettre en échec en volant la 1e place).
+
+XOguri est une menace.
+
+---
+
+### Bannière support : Mayano Top Gun speed SSR et Narita Taishin wit SSR
+
+![Image de présentation de la bannière Mayano Top Gun speed SSR et Narita Taishin wit SSR](/public/assets/Gacha-reviews/2026/028_Card-Banner.png)
+
+⏩ **Mayano Top Gun** :speed: :ssr:
+
+* La carte est **backloaded**. A 1LB, elle débloque Speed Bonus, puis **Specialty Priority à 3LB**. Exactement comme Kitasan. Une fois MLB, son Spec Prio devient élevé et atteint **80**.
+
+* Son gain de stats est solide dès 1LB, mais sans Special Priority **les rainbows seront rares** (0, 1 et 2LB). Son cross-training est surtout basé sur le Mood Effect, car son Training Effectiveness est faible ; elle perdra donc un peu en efficacité en cas de mood down. On appréciera son speed bonus et power bonus qui contribuent aussi au cross-training.
+
+* Elle propose 6 hints ❗, dont 3 ou 4 skills sympa. Avec son combo de Hint Levels 3 et Hint Frequency de 50% à MLB, **ses hints sont généreux**.
+
+* Le skill gold est **Restless**, la gold version de Moxie. C'est une gold recovery pour les Front Runners s'activant aléatoirement sur une côte après les 10 premières secondes de course. C'est une aubaine pour les Front Runners qui ont parfois des difficultés à obtenir des gold recoveries pour les courses les plus longues. Le skill est très fiable en Long, et marche la plupart du temps en med. En sprint et en mile, c'est plus variable.
+
+* Si le gold skill ne vous intéresse pas, vous pouvez mettre fin au Chain Events et recevoir 20 d'énergie + Competitive Spirit au premier Chain Event. Ce premier Chain Event vous donnera aussi _parfois_ l'accel Pace Chaser **Head On**, si vous sélectionnez l'option du haut.
+
+
+⏩ **Narita Taishin wit SSR** :wit: :ssr:
+
+* La carte est très **frontloaded** : à 1LB, elle débloque Wit Bonus, qui est son dernier bonus. Tous les LBs supplémentaires augmentent la force de ses bonus, jusqu'à des bonnes valeurs overall, sauf pour pour son Specialty Priority qui reste éternellement à **20**. 
+
+* Ses rainbows sont bons dès LB1 et seront très bons à MLB. Elle est un peu faible en cross-training à faible LB, mais est aidée par son speed bonus qu'elle obtient rapidement. On appréciera son 10 Race Bonus, qui la rend utilisable pendant le scénario MaNT.
+
+* Sa liste de 7 hints ❗ est un peu médiocre. Seul le skill End Closer Corners est notablement bon, et on préfèra utiliser Taishin SR pour le farm sur une run de legacy.
+
+* Le skill gold est **Sleeping Lion**, la gold version de Standing By. C'est une recovery End Closer qui s'active aléatoirement en Mid-Race, si elle est positionnée 75% à l'arrière du peloton, ou plus loin. Gardez en tête que c'est une **gold recovery qu'il est possible de saboter**, en faisant appel à une **Haru Urara** (ou autre uma avec une aptitude de surface G). Cette manigance devrait être rare de nos jours, mais gardez en tête que c'est toujours possible. 
+
+::: details Pour rappel, voici comment on sabote Sleeping Lion
+
+[![Explication visuelle de ce qu'il se passe quand une uma n'ayant pas l'aptitude de terrain participe à une course, et comment ça affecte le distance_diff_rate. L'exemple utilise Haru Urara](/assets/Comp-PvP/CM02/CM_02_Urara_End.png)](/assets/Comp-PvP/CM02/CM_02_Urara_End.png)
+
+:::
+
+#### PULL OU PAS
+
+::: warning Avis divergeants
+
+2 recommandations différentes, par **Kamuisaki** puis par **Yamakyu**. Les 2 sont conservées, car fondamentalement les 2 sont valides.  
+
+:::
+
+::: details  Recommandation de *Kamuisaki*
+
+**Non.**
+
+Narita Taishin SSR Wit est juste correcte, et bien que Mayano Top Gun soit très bonne, il y a 2 raisons à pourquoi on ne pull pas sur elle et qu'on l'utilise en borrow :
+
+- Premièrement, comme pour les quelques précédentes bannières, le calendrier de sortie est mauvais pour elle, vu la puissance de certaines uma et support.
+- La deuxième raison sont les futures bannières pour les supports SSR Speed. Peu de temps après elle, **Matikanefukukitaru speed SSR** sort ; c'est une très bonne carte pour le prochain scénario **Make a New Track**. Un peu plus tard, **Narita Top Road speed SSR** sortira, une autre très bonne carte pour le prochain scénario. Et encore plus loin, de meilleures cartes SSR Speed que Mayano Top Gun sortiront à l'approche du 4 ème scénario, **Maruzensky speed SSR** et **Agnes Tachyon speed SSR**. Sa compétition sera très élevée dans le futur, et ce sera pas évident de l'intégrer au deck.
+
+:::
+
+::: details Recommandation de *Yamakyu*
+
+**Envisagez-le**, mais avec un grand MAIS.
+
+Déjà, la recommandation de Kamuisaki est **valide**. Ce qu'il explique est important. C'est une bonne recommandation.
+
+Cependant, je pense qu'il est tout à fait OK de ne pull ni Matikanefukukitaru speed SSR, ni Narita Top Road speed SSR, **à condition** (et c'est très important) d'avoir votre **slot d'emprunt libre**. Si vous n'êtes pas coincé avec l'obligation de borrow Kitasan ou autre carte essentielle, votre slot d'emprunt peut servir à **perma-borrow Fuku speed SSR ou NTRoad speed SSR** pendant la durée de MaNT. On recommande d'utiliser au moins une des 2 dans le deck, et si votre slot d'emprunt est libre, vous pouvez simplement l'emprunter. À plus forte raison car la durée de vie de ces 2 cartes est de 4 mois -la durée de MaNT-, car les deux perdent en valeur (surtout Fuku speed SSR qui s'écrase lourdement) après la fin de MaNT. Mais encore une fois, cette approche requiert de pouvoir utiliser votre slot d'emprunt pour Fuku speed ou NTRoad speed.
+
+À supposer donc que vous ne faites pas de pulls ni pour Fuku speed SSR, ni pour NTRoad speed SSR (car vous êtes très bien équipé niveau cartes speed SSR et SR), Mayano Top Gun speed SSR devient la meilleure _nouvelle_ cible carte speed SSR avant Maruzensky speed SSR, qui sort à la fin de MaNT. Si vous obtenez une Mayano Top Gun speed SSR, alors lors de l'arrivée du 4e scénario -Grand Live-, vous aurez 3 bonnes cartes speed SSR : **Kitasan, MTGun et Agnes Tachyon**. Maruzensky speed SSR peut remplacer une des 3 sans souci. Heck, on peut jouer le scénario Grand Live sans Agnes Tachyon speed SSR, si à la place vous utilisez la très chouette **Agnes Tachyon wits SR**.
+
+Bien entendu, c'est un cas hypothétique, qui ne correspond pas à beaucoup de joueur·euse·s. De plus, la carte est fortement **backloaded** (Spec Prio 0 avant 3LB 💀), donc le **risque sur les pulls est élevé** (à plus forte raison car une partie non négligeable de vos carats :carat: vont partir pour XOguri sans doute). Mais la valeur ajoutée serai assez grande ; en plus d'être une bonne carte à la durée de vie bien sympa, MTGun aide à résoudre le souci de l'accès à une gold recovery supplémentaire pour les Front. C'est donc à prendre en compte aussi si vous entrainez beaucoup de Fronts.
+
+Il est légitime d'hésiter avec cette carte, ou de passer son tour (comme le recommande judicieusement Kamuisaki). Fondamentalement, c'est une carte assez luxueuse, et c'est pas tout le monde qui peut raisonnablement pull pour elle.
 
 :::
 
 ---
 
-# Bannières à suivre (28 décembre 23h)
+# Bannières à suivre (15 janvier 23h)
 
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2025/027_Banners_early_preview.jpg)
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/029_Banners_early_preview.jpg)
 
-Voici la review des bannières suivantes. Ceci, afin de vous aider à y voir un peu plus clair, et faire des choix plus pertinents pour vos pulls.
-
-### Bannière Umamusume à suivre : Mejiro Dober ★★★
-
-_Mejiro Dober est une Late Surger assez capable en distances Mile et Medium. Avec un peu d'inspiration, elle peut aussi courir en tant que Pace Chaser (1*), Front Runner (4*), et en distance Sprint (10*), mais cette distance demandera une bonne RNG pendant les courses. Sa stratégie de prédilection reste Late Surger. Elle possède un gold de débuff Late Surger et 1 gold Green. Son unique est un boost d'accélération qui s'active dans le final corner, ou en corner en late-race._
-
-* Mejiro Dober a 2 bonus de croissance : 10 % en Speed :speed: et 20 % en Wit :wit:. C'est un combo de bonus corrects, bon pour le Mile et le Medium. Vous pourrez utiliser les decks habituels de Mile et de Medium, mais vous aurez un besoin moindre en carte wits (1 seule au lieu de 2).
-* Ses Gold skills sont :
-    * **All-Seing Eyes**, la gold version de Sharp Gaze. C'est un gold debuff de HP Late Surger, s'activant à un moment aléatoire du Late-Race si elle est à l'arrière. Vous le connaissez plutôt bien, c'est un des skills gold de Nice Nature.
-        > Une des 2 évolutions possible du skill change complètement son effet, devant ainsi un speed boost.
-    * **Yodo Invicta**, la gold version de Kyoto Racecourse. C'est un gold Green augmentant de  60 votre Stamina, Wit et Speed. C'est un gold Green très précis, ce qui rend son utilisation compliquée et situationnelle. Pour l'avoir vous devez d'abord double cercler ◎ Kyoto Racecourse puis l'acheter, donc il sera parfois un peu cher. Plusieurs supports peuvent lui obtenir des hints pour Kyoto Racecourse (ce sera le plus facile avec la Mejiro McQueen SSR Stamina).
-* Son unique est un boost d'accélération s'activant si elle n'a pas rush pendant la course, en étant entre top 50% et top 70% (entre 5e et 6e en CM) en fin de course.  2 timings sont alors possibles : 
-    * Dans la plupart des courses Medium / Long (mais pas pour le CM Scorpio), l'unique s'activera en corner en late-race, et généralement dans le 3ème corner.
-    * Dans les courses Sprint / Mile, l'unique s'activera dans le final corner en Mid-Race. Il y aura une petite perte d'accel dûe à l'activation tôt, mais s'il s'active vers la fin du Mid-Race, le boost d'accel sera quand même utile.
-* Ce skill unique sera particulièrement désirable pour les backlines, dans la grande majorité des courses du jeu. 
-
-
-#### PULL OU PAS
-
-**Si c'est votre Oshi, oui**. 
-
-**Aussi envisageable si vous jouez vraiment beaucoup de backlines**. Mejiro Dober est un très bon parent pour les Late Surger et End Closer, donc si vous utilisez beaucoup ces stratégies, c'est aussi une uma que vous voudrez pull. Le problème est que la bannière arrive entre Kitasan Black Speed SSR et Oguri Cap (Christmas), qui sont respectivement, le meilleur support et la plus forte uma pour l'instant (sur certaines courses).
-
----
-
-### Bannière support à suivre : Daitaku Helios Power SSR et Vodka Speed SR
-
-⏩ **Daitaku Helios** :power: :ssr:
-* La carte est **frontloaded**. A 1LB, elle débloque Skill Point Bonus et à 3LB le combo de Hint Levels et Hint Frequency. Son mood bonus est plutôt élevé, commençant à 40 à 0LB, pour atteindre 50 à MLB.
-* Helios power a des bons rainbows, mais peu fréquents car son Special Priority est un peu faible. Son cross training est assez bon grâce à son haut Mood Effect et son Training Effectiveness, faible mais présent. La qualité de ses entraînements dépendra pas mal du mood, et en cas de baisse le gain de stats perdra un peu en efficacité.
-* Elle a une bonne liste de hints ❗ (7 hints), dont 5 bien sympa (4 skills de vitesse et 1 debuff, dont 3 pour le Mile). Grâce à son Hint Level de 3 et son Hint Frequancy de 40% à MLB, elle sera un peu meilleure que sa SR pour le hints farming. 
-* Le skill gold est **Escape Artist**, la version gold de Fast Paced. C'est un très bon skill de vitesse pour Front Runner, qui s'active aléatoirement dans le Mid-Race, en étant top 50%.
-* Ses chain events sont un peu **énergivores** et vous prendront un total de 20 points d'énergie. Si vous n'avez pas l'usage du skill gold, vous pouvez interrompre la chaîne dès le premier event, en sélectionnant l'option du bas.
-
-⏩ **Vodka** :speed: :sr:
-* La carte à une croissance équilibrée. A 1LB, elle débloque Race Bonus et à 3LB Power Bonus. Son Freindship Bonus et Mood Effect augmentent jusqu'à MLB, pour atteindre respectivement 25 et 50
-* A part son Mood Effect, la valeur de ses bonus sont assez faibles ou dans la moyenne. Le gain de stats repose sur son Mood Effect, il faudra donc maintenir le mood Great.
-* Sa liste de hints ❗ est bonne (9 hints) et tous ses skills sont au moins assez bons. Cependant, son Hint Level et Hint Frequency sont plutôt faibles (moins bon que la version SSR), et la plupart de ces skills peuvent être obtenus ailleurs. Notez que les cartes support de Vodka ont -pour le moment- l'exclusivité sur les hints du skill green **Tokyo Racecourse**.
-
-#### PULL OU PAS
-
-**Non**. 
-
-Bien que Daitaku Helios SSR Power soit un bon support, la principale raison pour laquelle on ne pull pas est le calendrier : la bannière d'avant il y avait Kitasan Black SSR Speed,  la bannière uma qui sort en même temps est Mejiro Dober, un excellent parent pour les Late Surger et End Closer, et la bannière suivante aura XOguri (Oguri Cap alt) et une autre bonne carte support (Mayano Top Gun speed SSR). En plus, Vodka speed SR a de la compétition dans les SR Speed, et elle ne sort pas du lot. Vous obtiendrez des LBs de cette carte sur une bannière future.
-
----
+_(review à venir)_
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
-* [Bannières cartes support de 2025](/guides/Gacha-was-a-mistake/Support-gacha-reviews-2025.md)
-* [Bannières umamusume ★★★ de 2025](/guides/Gacha-was-a-mistake/Uma-gacha-reviews-2025.md)
+* [Bannières cartes support de 2026](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md)
+* [Bannières cartes support de 2025](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md)
+* [Bannières umamusume ★★★ de 2026](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2026.md)
+* [Bannières umamusume ★★★ de 2025](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md)
 
 <br/>
 <br/>
