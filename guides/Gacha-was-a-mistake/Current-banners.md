@@ -131,7 +131,7 @@ Le skill ne s'active pas si Biwa est en 1e position, MAIS elle a le droit d'avoi
 #### PULL OU PAS
 **Envisagez-le**, surtout si ce sont vos Oshi. 
 
-On va surtout parler d'Oguri Cap (Christmas) car elle est **très forte**. Biwa Hiyahide (Christmas) est plus classique.
+On va surtout parler d'Oguri Cap (Christmas) car elle est **très forte**. Biwa Hiyahide (Christmas) est plus classique et plus vanilla ; elle n'a pas de force particulière, mais a le mérite d'être génériquement meilleure que sa version de base (la plupart du temps).
 
 Oguri Cap (Christmas) est **excellente**, surtout en Medium où c'est la meilleure uma. Sa domination baissera avec l'arrivée des **skills roses** (skills évolués, spécifiques chaque Uma) sur la version globale du jeu. Elle restera forte malgré tout, mais d'autres umas gagneront alors en puissance. 
 
@@ -179,6 +179,12 @@ XOguri est une menace.
 :::
 
 #### PULL OU PAS
+
+::: danger Note importante
+
+La umamusume **Kitasan Black** sortira sur la bannière 1st anniversary (en même temps que le 3e scénario, Make a New Track), dans environ 1 mois ou 2. **Elle ne PEUT PAS utiliser sa propre carte speed SSR**. Si vous prévoyez de pull pour la uma Kitasan Black, **vous ne pourrez pas utiliser Kita speed SSR sur Kitasan elle-même**, ce qui doit être pris en compte dans votre choix de pull ou pas pour Mayano, étant donné que c'est une **bonne carte speed qui donne une recovery Front, fiable en long** ; distance de prédilection de Kitasan Black.
+
+::: 
 
 ::: warning Avis divergeants
 
