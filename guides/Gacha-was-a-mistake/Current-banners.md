@@ -118,18 +118,20 @@ _Biwa Hiyahide (Christmas) est une Pace Chaser capable en distances Medium et Lo
 * Ses golds skills sont :
     - **VIP Pass**, la gold version de Passing Pro. C'est une gold recovery de distance Long, qui s'active si Biwa tente un dépassement n'importe quand dans la course, mais pas avant les 5 premières secondes. C'est un skill généralement assez fiable, mais qui peut occasionnellement échouer si la meta vous empêche d'avoir une cible de dépassement (exemple : meta full backlines, et votre Biwa est Pace ; quelle cible de dépassement du coup ?).
     - **In Body and Mind**, la gold version de Homestretch Haste. C'est un gold de vitesse s'activant aléatoirement en late-race (à condition que votre uma ait les HP pour finir la course). C'est un skill de fiabilité variable, qui peut parfois s'activer beaucoup trop tard.
-* Son skill unique est un boost de vitesse en Mid-Race s'activant à partir de la moitié de la course si Biwa est entre 2e et top50%, MAIS à condition que Biwa soit **restée top50% jusqu'à la moitié de la course**, sans faute. Le skill ne s'active pas si Biwa a perdu position même une seule fois. L'activation n'est pas réellement compliquée, mais peut parfois être mise à mal par la meta d'une course : dans une course avec une **abondance de Front Runner**, ce sera difficile de maintenir top50% sans faute. Ainsi, il ne serai pas surprenant que le skill ne pop pas en distance Sprint ou Mile, où les Front sont souvent fortes. Il devrait y avoir moins de mauvaises surprises en Long.
+* Son skill unique est un boost de vitesse en Mid-Race s'activant à partir de la moitié de la course si Biwa est entre 2e et top40%, MAIS à condition que Biwa soit **restée top40% jusqu'à la moitié de la course**, sans faute (donc 4e ou mieux). Le skill ne s'active pas si Biwa a perdu position même une seule fois. L'activation n'est pas réellement compliquée, mais peut parfois être mise à mal par la meta d'une course : dans une course avec une **abondance de Front Runner**, ce sera difficile de maintenir top50% sans faute. Ainsi, il ne serai pas surprenant que le skill ne pop pas en distance Sprint ou Mile, où les Front sont souvent fortes. Il devrait y avoir moins de mauvaises surprises en Long.
 
 ::: tip Clarification sur la position
 
-Le skill ne s'active pas si Biwa est en 1e position, MAIS elle a le droit d'avoir été 1e pendant la première moitié de la course. La condition est "top50% pendant la première moitiée de la course", donc la 1e position est inclue.    Le skill poppera alors quand elle passera de 1e à 2e.
+Le skill ne s'active pas si Biwa est en 1e position, MAIS elle a le droit d'avoir été 1e pendant la première moitié de la course. La condition est "top40% pendant la première moitiée de la course", donc la 1e position est inclue. Le skill poppera alors (dans la 2e moitié de la course) quand elle passera de 1e à 2e.
 
 :::
+
+> Le skill sera "buff" plus tard, et la condition changera pour devenir **top40%** au lieu de top50% (à la fois pour la position pendant la 1e moitié de la course, ET pour la position lors de l'activation).
 
 #### PULL OU PAS
 **Envisagez-le**, surtout si ce sont vos Oshi. 
 
-On va surtout parler d'Oguri Cap (Christmas) car elle est **très forte**. Biwa Hiyahide (Christmas) est plus classique.
+On va surtout parler d'Oguri Cap (Christmas) car elle est **très forte**. Biwa Hiyahide (Christmas) est plus classique et plus vanilla ; elle n'a pas de force particulière, mais a le mérite d'être génériquement meilleure que sa version de base (la plupart du temps).
 
 Oguri Cap (Christmas) est **excellente**, surtout en Medium où c'est la meilleure uma. Sa domination baissera avec l'arrivée des **skills roses** (skills évolués, spécifiques chaque Uma) sur la version globale du jeu. Elle restera forte malgré tout, mais d'autres umas gagneront alors en puissance. 
 
@@ -177,6 +179,12 @@ XOguri est une menace.
 :::
 
 #### PULL OU PAS
+
+::: danger Note importante
+
+La umamusume **Kitasan Black** sortira sur la bannière 1st anniversary (en même temps que le 3e scénario, Make a New Track), dans environ 1 mois ou 2. **Elle ne PEUT PAS utiliser sa propre carte speed SSR**. Si vous prévoyez de pull pour la uma Kitasan Black, **vous ne pourrez pas utiliser Kita speed SSR sur Kitasan elle-même**, ce qui doit être pris en compte dans votre choix de pull ou pas pour Mayano, étant donné que c'est une **bonne carte speed qui donne une recovery Front, fiable en long** ; distance de prédilection de Kitasan Black.
+
+::: 
 
 ::: warning Avis divergeants
 
