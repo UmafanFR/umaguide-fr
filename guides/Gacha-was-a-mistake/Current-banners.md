@@ -225,7 +225,55 @@ Il est légitime d'hésiter avec cette carte, ou de passer son tour (comme le re
 
 ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/029_Banners_early_preview.jpg)
 
-_(review à venir)_
+### Bannière Umamusume à suivre : Fine Motion ★★★
+
+_Fine Motion est une Pace Chaser pour distances Mile et Medium. Avec de l'inspiration, elle peut aussi courir facilement en distance Long (4★), et en tant que Front Runner (7★) ou End Closer (4★). Elle possède 2 Golds de Pace Chaser, un de vitesse et un d'accélération. Son unique est un boost de vitesse s'activant dans la deuxième moitié de course, si elle est contestée sur le côté._
+
+* Fine Motion a 2 bonus de croissance : 15% en Power :power: et 15% en Wit :wit:. Un bon combo de bonus, surtout pour le Mile. On peut très bien utiliser les cartes Guts pour elle, surtout en Mile, où son deck pourra être Speed Guts et Wit, avec Riko pour de la stamina. Son deck Medium aura sans doute besoin d'une carte stamina comme Super Creek, pour avoir un Gold Recovery et monter plus fiablement sa stamina.
+* Ses Golds skills sont :
+    * **Speed Star**, la gold version de Prepared to Pass. C'est un gold speed boost de Pace Chaser, qui s'active à un point random du Final Corner, si elle est top 50%. La puissance de ce skill dépend beaucoup d'où commence le late race par rapport au final corner, ainsi le skill a une fiabilité variable en Mile et en Medium, mais marche toujours normalement en Long. En revanche, sur les courses Mile et certaines courses Medium, le skill a une chance de s'activer avec un timing permettant un **carry over**, ce qui le rend explosif en cas de succès (en cas d'échec, l'activation est gachée par l'accélération).
+    * **Determined Descent**, la gold version de Straight Descent. C'est un gold d'accélération de Pace Chaser, s'activant à un point random d'une descente random. Le skill est particulièrement situationnel , et n'a d'intérêt que dans les courses ayant une descente courte au début du late-race (mais pas d'autre descente). Ce n'est pas un skill fiable, mais il peut être occasionnellement très puissant sur certaines courses (typiquement, Kyoto med).
+* Son skill unique est un boost de vitesse s'activant dans la deuxième moitié de la course, si elle est contestée sur le côté pendant 2 secondes, en étant positionnée entre 2e et top 40% (2e <-> 4e en CM). L'unique s'active donc souvent en Mid-Race (ou sinon en Late-race, moins fréquemment), et peut parfois induire un carry over s'il s'active juste avant le Late-Race. C'est un très bon skill unique pour une Pace (et plus efficace que le skill unique de Golshi), car ça l'aide à rattraper les Front Runners. Faute de mieux, c'est un assez bon skill à transmettre par inspiration à vos Pace Chaser.
+* **Son dernier objectif de course est un point important**. Elle a un choix entre 4 courses, qui vous récompensera avec un skill white différent selon votre choix. Les 4 whites skills sont plutôt bons, et ce choix la rend plus flexible. Attention au choix menant à **Arima Kinen** ; Fine Motion n'a -de base- "que" C long (ce sera suffisant si votre carrière s'est bien passée et que vous avez beaucoup de speed, mais soyez quand même prudents).
+
+#### PULL OU PAS
+
+**Si c'est votre Oshi, oui**.
+
+C'est encore une bannière coincée entre d'excellentes bannières, dont la bannière support SSR Fuku Speed dans 2 bannières. Fine Motion est une uma compétente mais gênée par le fait qu'elle dépend beaucoup des courses pour utiliser le plein potentiel de ses golds skills. Elle partage d'ailleurs une niche avec Rice Shower (OG) dans leur spécialisation sur les **courses Kyoto Medium**, mais est meilleure que Rice dans cette niche.
+
+### Bannière Support à suivre : Manhattan Cafe stamina SSR et Inari One power SR
+
+**Manhattan Cafe** :stamina: :SSR:
+
+* La carte est relativement **frontloaded**. Elle débloque un **2ème Stamina Bonus** à 1LB (première carte à avoir 2 stam bonus) et débloque Race Bonus à 3LB. Son Friendship Bonus est excellent, le meilleur du jeu pour une carte stamina.
+
+::: tip 48,5 Friendship Bonus
+
+C'est très élevé. Sur la version globale, seules Manhattan Cafe stam SSR, Sweep Tosho speed SSR et Vodka power SSR ont 48,5 Friendship bonus. Ce sont les championnes du Friendship bonus.
+
+Sur la version JP, Manhattan Cafe stam SSR, Sweep Tosho speed SSR et Vodka power SSR sont **TOUJOURS les 3 seules cartes support à atteindre 48,5 Friendship bonus**, et sont toujours les championnes du Friendship bonus.
+
+:::
+
+* Ses rainbows sont puissants grâce à ses bonus élevés, et son Special Priority plutôt correct vous aidera à obtenir ces rainbows. Cepandant, elle ne participe presque pas au cross training : sa principale contribution est son 10 Race Bonus. C'est une carte qu'on utilise pour **monter stamina**, et uniquement ça.
+* Elle propose 6 hints, dont la moitié sont pour des skills de distance Long. Grâce à son Hints Level 2 et Hint Frequency 30% à 3LB, vous obtiendrez plus facilement ses hints.
+* Le skill gold est **Stamina Siphon**, la gold version de Stamina Eater. C'est un gold debuff de distance Long, qui réduit un peu les HP des uma devant elle, et lui restaure des HP. Ce n'est pas un très bon skill, car **le stamina drain est trop faible** (1 white debuff) et **la recovery est moins forte qu'une Gold Recovery basique**. Vous pouvez l'utiliser en pseudo-recovery si vous êtes **proche de la stamina requise** pour la course. Mais pour les courses les plus longues (Tenno Sho Spring et Kikuka Sho), on préfèrera une vraie gold recovery.
+
+Inari One :power: :sr:
+
+* La carte est **backloaded**. A 1LB, elle débloque Special Priority, puis un Power Bonus à **MLB**.
+* Ses rainbows sont bons grâce à son Friendship Bonus élevé, et le combo de Stamina Bonus et Power Bonus. En revanche, sa contribution au cross training est médiocre, à cause de son Training Effectiveness faible, mais ses 2 Stats Bonus aideront au gain de stats sur les entraînements speed, stamina et guts.
+* Sa liste de hints est large (8 hints), avec 2 très bons skills universels, 2 skills greens saisonniers, et 2 skills pour surface Dirt (la white recovery Famliar Ground est spécifiquement unique à Inari One). Elle a aussi Hint Level 3 et Hint Frequency 50, ses hints sont donc assez généreux.
+* Ses chain events sont un peu énergivores, coûtant un total de 15 d'énergie.
+ 
+#### PULL OU PAS
+
+**Non.**
+
+Manhattan Cafe SSR Stamina a un très bon gain de stats et un Race Bonus suffisant pour MANT (le 3e scénario), mais ce sont les seules forces de la carte. On a eu des bannières plus intéressantes avant, et on aura une bannière plus intéressante très bientôt (Fuku SSR Speed). 
+
+En revanche, Inari One SR Power est très bonne pour une carte power. Elle est un mix entre les 2 top tiers SR Power que sont Mihono Bourbon et Hishi Amazon. Ce sera une bonne SR à avoir sur d'autres bannières. C'est déconseillé de pull juste pour une SR, et vous pourrez la MLB grâce aux autres bannières de très bonne cartes SSR.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
