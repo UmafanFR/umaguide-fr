@@ -23,11 +23,11 @@ Ce post est une synthèse d'infos accumulé·e·s à partir d'**autres ressource
 
 ## Prochain PvP compétitif :
 
-### Scorpio Cup - "Tenno Sho Autumn" - Champion's Meeting - 1er Janvier 2025
+### Scorpio Cup - "Arima Kinen" - Champion's Meeting - 23 Janvier 2026
 
 ::: warning Préparez-vous pour l'évènement !
 
-⏩ [Champion's Meeting Scorpio Cup](cm-scorpio-cup-2025.md) - 1er Janvier 2025 - Tokyo 2000m turf (Tenno Sho Autmun)
+⏩ [Champion's Meeting Scorpio Cup](cm-sagittarius-cup-2026.md) - 23 Janvier 2026 - Nakayama 2500m turf (Arima Kinen)
 
 :::
 
