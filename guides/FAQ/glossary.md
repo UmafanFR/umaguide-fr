@@ -388,7 +388,7 @@ Les 50% de la course qui suivent l'early-race.
 
 **La uma en 1e position**, sur laquelle toutes les autres uma se basent pendant Position Keep. La plupart du temps, la pace maker est une Front Runner. En l'absence de Front Runner, une uma compétente de la stratégie la plus frontline possible va s'avancer pour devenir pace maker (= une Pace s'il n'y a pas de Front, une Late s'il n'y ni Front ni Pace, une End s'il n'y a que des End). Si une ou plusieurs uma Runaway sont présente(s), l'une d'elle devient pace-maker.
 
-Depuis le 11 novembre 2025, il est possible de dépasser la uma pace maker, sans subir un ralentissement ("Pace Down") sévère. Cela invalide complètement l'utilisation de Haru Urara en tant que Front Runner pour ralentir tout le monde ([explication](/guides/Modes%20de%20jeu/Champion's%20Meeting/Archives%20de%20CM/cm-gemini-cup-2025.md#les-uma-de-soutien-ou-comment-contester-les-end-closer)). Cependant, s'approcher trop près de la pace maker sans réussir la dépasser provoque malgré tout le pace down.
+Depuis le 11 novembre 2025, il est possible de dépasser la uma pace maker, sans subir un ralentissement ("Pace Down") sévère. Cela invalide complètement l'utilisation de Haru Urara en tant que Front Runner pour ralentir tout le monde ([explication](/guides/Modes%20de%20jeu/Champion's%20Meeting/ArchivesCM_2025/cm-gemini-cup-2025.md#les-uma-de-soutien-ou-comment-contester-les-end-closer)). Cependant, s'approcher trop près de la pace maker sans réussir la dépasser provoque malgré tout le pace down.
 
 :::
 
