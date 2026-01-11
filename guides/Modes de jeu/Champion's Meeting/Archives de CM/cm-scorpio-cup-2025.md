@@ -3,7 +3,7 @@ title: Champion's Meeting - Scorpio Cup 1er Janvier 2025 - Tenno Sho Autumn
 menuTitle: Scorpio cup - 01/01/26
 outline: [2, 3]
 description: Recommandations (abrégées) pour le Champion's Meeting - Scorpio Cup ;  Tenno Sho Autumn, Tokyo 2000, sens anti-horaire, automne, wet, rainy
-order: 1
+order: 6
 ---
 
 # Préparation au Champion's Meeting #07 du 1e janvier 2026 - Tenno Sho Autumn (Tokyo 2000m)
