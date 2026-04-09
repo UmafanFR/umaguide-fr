@@ -8,9 +8,9 @@ order: 4
 
 # Review des anciennes bannières gacha umamusume ★★★
 
-::: tip Auteurs
+::: tip Auteur
 
-Sauf mention contraire, les reviews sont écrites **Kamuisaki** et checkées / complétées par **Yamakyu**, n'hésitez pas à nous faire des retours 🌟
+Sauf mention contraire, les reviews sont écrites **Kamuisaki**, n'hésitez pas à faire des retours 🌟
 
 :::
 
@@ -98,3 +98,93 @@ Contrairement à de très nombreuses uma qui ont de multiples conditions de déf
 XOguri est une menace.
 
 :::::
+
+
+## #29 - Fine Motion ★★★
+
+![Image de présentation de la bannière Fine Motion](/public/assets/Gacha-reviews/2026/029_Uma-Banner.png)
+
+::: details REVIEW
+
+_Fine Motion est une Pace Chaser pour distances Mile et Medium. Avec de l'inspiration, elle peut aussi courir facilement en distance Long (4★), et en tant que Front Runner (7★) ou End Closer (4★). Elle possède 2 Golds de Pace Chaser, un de vitesse et un d'accélération. Son unique est un boost de vitesse s'activant dans la deuxième moitié de course, si elle est contestée sur le côté._
+
+* Fine Motion a 2 bonus de croissance : 15% en Power :power: et 15% en Wit :wit:. Un bon combo de bonus, surtout pour le Mile. On peut très bien utiliser les cartes Guts pour elle, surtout en Mile, où son deck pourra être Speed Guts et Wit, avec Riko pour de la stamina. Son deck Medium aura sans doute besoin d'une carte stamina comme Super Creek, pour avoir un Gold Recovery et monter plus fiablement sa stamina.
+* Ses Golds skills sont :
+    * **Speed Star**, la gold version de Prepared to Pass. C'est un gold speed boost de Pace Chaser, qui s'active à un point random du Final Corner, si elle est top 50%. La puissance de ce skill dépend beaucoup d'où commence le late race par rapport au final corner, ainsi le skill a une fiabilité variable en Mile et en Medium, mais marche toujours normalement en Long. En revanche, sur les courses Mile et certaines courses Medium, le skill a une chance de s'activer avec un timing permettant un **carry over**, ce qui le rend explosif en cas de succès (en cas d'échec, l'activation est gachée par l'accélération).
+    * **Determined Descent**, la gold version de Straight Descent. C'est un gold d'accélération de Pace Chaser, s'activant à un point random d'une descente random. Le skill est particulièrement situationnel , et n'a d'intérêt que dans les courses ayant une descente courte au début du late-race (mais pas d'autre descente). Ce n'est pas un skill fiable, mais il peut être occasionnellement très puissant sur certaines courses (typiquement, Kyoto med).
+* Son skill unique est un boost de vitesse s'activant dans la deuxième moitié de la course, si elle est contestée sur le côté pendant 2 secondes, en étant positionnée entre 2e et top 40% (2e <-> 4e en CM). L'unique s'active donc souvent en Mid-Race (ou sinon en Late-race, moins fréquemment), et peut parfois induire un carry over s'il s'active juste avant le Late-Race. C'est un très bon skill unique pour une Pace (et plus efficace que le skill unique de Golshi), car ça l'aide à rattraper les Front Runners. Faute de mieux, c'est un assez bon skill à transmettre par inspiration à vos Pace Chaser.
+* **Son dernier objectif de course est un point important**. Elle a un choix entre 4 courses, qui vous récompensera avec un skill white différent selon votre choix. Les 4 whites skills sont plutôt bons, et ce choix la rend plus flexible. Attention au choix menant à **Arima Kinen** ; Fine Motion n'a -de base- "que" C long (ce sera suffisant si votre carrière s'est bien passée et que vous avez beaucoup de speed, mais soyez quand même prudents).
+
+#### PULL OU PAS
+
+**Si c'est votre Oshi, oui**.
+
+C'est encore une bannière coincée entre d'excellentes bannières, dont la bannière support SSR Fuku Speed dans 2 bannières. Fine Motion est une uma compétente mais gênée par le fait qu'elle dépend beaucoup des courses pour utiliser le plein potentiel de ses golds skills. Elle partage d'ailleurs une niche avec Rice Shower (OG) dans leur spécialisation sur les **courses Kyoto Medium**, mais est meilleure que Rice dans cette niche.
+
+:::
+
+## #40 - Seiun Sky (Ballroom) & Fuji Kiseki (Ballroom) ★★★
+
+![Image de présentation de la bannière Seiun Sky (Ballroom) & Fuji Kiseki (Ballroom)](/public/assets/Gacha-reviews/2026/040_Uma-Banner.png)
+
+:::: details REVIEW
+
+⏩**Seiun Sky (Ballroom)** :
+
+_Seiun Sky (Ballroom) est une Front Runner pour le Medium et le Long, mais principalement ce dernier. Avec un peu d’inspiration, elle peut courir en Mile et en tant que Pace Chaser avec respectivement 4 et 1 étoiles. Elle possède 2 gold de vélocité pour Front Runner. Son unique est soit un hybride de vélocité et d’accélération ou un speed boost pur de Late-Race en fonction d’où se trouve la ligne droite nécessaire pour son activation._
+ 
+- Seiun Sky (Ballroom) possède 3 bonus de croissance : 8% en :speed:, 8% en :power: et 14% en :guts:. C’est un combo correct mais qui restreint ses deck pour ça distance maître qu’est le Long. Son deck sera généralement Speed / Wit / Stamina, ce qui lui permettra de bien monter Guts, important pour une Front Runner pour le Spot Struggle.
+
+
+- Ses gold skills sont :
+    - **Escape Artist**, la gold version de _Fast-Paced_. C’est un gold de vélocité pour Front Runner, s’activant aléatoirement en Mid-Race si elle est dans le top 50%. C’est un bon skill de Mid-Race.
+    - **Top Runner**, la gold version de _Leader’s Pride_. C’est un gold de vélocité pour Front Runner qui s’active en Early-Race ou en Mid-Race après 5 secondes de course si elle est soit doublée, soit bloquée sur le côté pendant 2 secondes.<br>
+    C’est un bon skill pour prendre la tête de la course quand il y a d’autres Front Runner, et vu que maintenant Frotn Runner devient une bonne stratégie pour Long, c’est un bon skill à prendre. Sinon le skill ne sert à rien s’il n’y a pas d’autres Front Runner.
+
+
+- Son unique est soit un hybride de vélocité et d’accélération ou soit un speed boost pur s’activant sur une ligne droite du Late-Race si elle est dans le top 2. L’unique devient un hybride si la ligne droite est à l’opposé des gradins.<br>
+C’est un unique similaire à celui de Kitasan Black (plus de vélocité et moins d’accélération pour l’unique de Seiun Sky (Ballroom)) et est donc spécialisé pour certaines courses.<br>
+
+::: tip Essentiel pour les Front Runners en Long
+
+Il est aussi à hérité pour vos Front Runner Long, et plus généralement sur les courses où Angling & Scheming (l’unique de Seiun Sky OG) ne s’active pas. Quand on le prend, on prend aussi Victory Cheer de Kitasan Black pour avoir un bon combo d’accélération vu qu”il s’active sur les mêmes courses.
+
+:::
+
+⏩**Fuji Kiseki (Ballroom)** :
+
+_Fuji Kiseki (Ballroom) est une Pace Chaser pour le Mile. Avec un peu d’inspiration elle peut courir en Sprint et en Medium avec 1 étoile, mais aussi avec 4 étoiles elle peut courir en tant que Front Runner et en tant que Late Surger, dont ce dernier peut être sa meilleure stratégie en Mile. Elle possède un gold de debuff et un gold de vélocité pour Pace Chaser. Son unique est un boost de vélocité de Final Corner._
+ 
+- Fuji Kiseki (Ballroom) possède 3 bonus de croissance : 8% en :speed:, 14% en :power: et 8% en :wit:. C’est un combo parfait pour sa distance maître qu’est le Mile, mais aussi très bien pour les autres distances. Ses decks seront fluides avec soit des decks Power ou des decks Guts en fonction de la distance et de vos cartes.
+
+
+- Ses gold skills sont :
+    - **Tantalizing Trick**, la gold version de _Trick (Front_). C’est un gold debuff, s’activant en Mid-Race si elle est dans le top 50% qui affecte les uma derrières elle qui sont en mécanique de rush. C’est un très mauvais skill.
+    > L’une de ses évolutions transforme le skill en un speed boost de Final Corner, ce qui le rend bon.
+
+    - **Speed Star**, la gold version de _Prepared to Pass_. C’est un gold de vélocité pour Pace Chaser qui s’active aléatoirement en Final Corner si elle est dans le top 50%. C’est un skill correct pour le Medium ou le Long. Il n’est pas très bon en Mile vu que dans une grande partie des courses Mile, le Late-Race commence en Final Corner gâchant le speed boost.
+
+
+- Son unique est un puissant boost de vélocité en Final Corner si elle est dans le top 40% et qu’elle double une uma. Dans beaucoup de courses Mile, le Final Corner est aussi où le Late-Race commence, l’unique perds moins de valeur si elle court en tant que Late Surger vu que l’unique s’activera plus tard qu’en Pace Chaser.<br>
+L’unique a aussi une bonne valeur (0,25 en hérité), elle peut être un grand-parent correcte pour les Late Surger et End Closer (et les Pace Chasers en Medium et Long).
+
+#### Pull ou pas ? :
+
+Si l’une d’elles est votre Oshi, oui. 
+
+Seiun Sky (Ballroom) est une bonne Front Runner pour le Long. Cependant le fait qu’elle n’est pas de gold recovery ni de bonus de croissance en Stamina la rends plus dur à utiliser que ça compétition directe qu’est Kitasan Black.
+
+Seiun Sky (Ballroom) est aussi restreint dans son deck de prendre Mihono Bourbon SSR Wit pour avoir Taking the Lead où Kitasan Black peut prendre une meilleure statstick ou un autre gold skill qui peut lui être utile pour le Mid-Race. Elle peut cependant avoir Professor of Culvature avec la carte Kitasan Black, bien qu’il soit moins fort que le gold skill de ligne droite de Kitasan Black pour le Long.<br>
+Si vous avez déjà Kitasan Black, ne pullez pas pour Seiun Sky (Ballroom).
+
+Fuji Kiseki (Ballroom) est une spécialiste du Final Corner, surtout quand il y aura les skills roses. Son problème est que ses aptitudes ne sont pas optimales pour utiliser à plein potentiel sont kit. On veut la jouer en Late Surger en Mile mais en Pace Chaser en Medium ou Long pour utiliser Speed Star.
+
+ Elle est une bonne uma en général mais peut-être un peu frustrante à faire. Ce n’est pas elle la star de cette bannière.
+ 
+ ::: info Pull pour les prochaines Front Runners 
+ 
+ Je dirais que votre décision de pull va dépendre de si Front Runner sera une de / votre stratégie principale ou si vous avez Kitasan Black ou pas. Si vous ne l’avez pas et que vous voulez jouer Front Runner, avoir Seiun Sky (Ballroom) est un bon choix. Si vous avez déjà Kitasan Black ou que vous ne voulez pas jouer des Front Runner, ne pullez pas sur cette bannière.
+
+ :::
+
+::::
