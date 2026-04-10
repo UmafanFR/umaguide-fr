@@ -8,9 +8,9 @@ order: 2
 
 # Review des anciennes bannières gacha cartes support
 
-::: tip Auteurs
+::: tip Auteur
 
-Sauf mention contraire, les reviews sont écrites **Kamuisaki** et checkées / complétées par **Yamakyu**, n'hésitez pas à nous faire des retours 🌟
+Sauf mention contraire, les reviews sont écrites par **Kamuisaki**, n'hésitez pas à nous faire des retours 🌟
 
 :::
 
@@ -104,3 +104,158 @@ Il est légitime d'hésiter avec cette carte, ou de passer son tour (comme le re
 
 
 ::::
+
+## #29 - Manhattan Cafe Stamina SSR & Inari One Power SR
+
+![Image de présentation de la bannière Manhatann Cafe Stamina SSR et Inari One Power SR](/public/assets/Gacha-reviews/2026/029_Card-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Manhattan Cafe** :stamina: :SSR:
+
+* La carte est relativement **frontloaded**. Elle débloque un **2ème Stamina Bonus** à 1LB (première carte à avoir 2 stam bonus) et débloque Race Bonus à 3LB. Son Friendship Bonus est excellent, le meilleur du jeu pour une carte stamina.
+
+::: tip 48,5 Friendship Bonus
+
+C'est très élevé. Sur la version globale, seules Manhattan Cafe stam SSR, Sweep Tosho speed SSR et Vodka power SSR ont 48,5 Friendship bonus. Ce sont les championnes du Friendship bonus.
+
+Sur la version JP, Manhattan Cafe stam SSR, Sweep Tosho speed SSR et Vodka power SSR sont **TOUJOURS les 3 seules cartes support à atteindre 48,5 Friendship bonus**, et sont toujours les championnes du Friendship bonus.
+
+:::
+
+* Ses rainbows sont puissants grâce à ses bonus élevés, et son Special Priority plutôt correct vous aidera à obtenir ces rainbows. Cepandant, elle ne participe presque pas au cross training : sa principale contribution est son 10 Race Bonus. C'est une carte qu'on utilise pour **monter stamina**, et uniquement ça.
+* Elle propose 6 hints❗, dont la moitié sont pour des skills de distance Long. Grâce à son Hints Level 2 et Hint Frequency 30% à 3LB, vous obtiendrez plus facilement ses hints.
+* Le skill gold est **Stamina Siphon**, la gold version de Stamina Eater. C'est un gold debuff de distance Long, qui réduit un peu les HP des uma devant elle, et lui restaure des HP. Ce n'est pas un très bon skill, car **le stamina drain est trop faible** (1 white debuff) et **la recovery est moins forte qu'une Gold Recovery basique**. Vous pouvez l'utiliser en pseudo-recovery si vous êtes **proche de la stamina requise** pour la course. Mais pour les courses les plus longues (Tenno Sho Spring et Kikuka Sho), on préfèrera une vraie gold recovery.
+
+⏩ **Inari One** :power: :sr:
+
+* La carte est **backloaded**. A 1LB, elle débloque Special Priority, puis un Power Bonus à **MLB**.
+* Ses rainbows sont bons grâce à son Friendship Bonus élevé, et le combo de Stamina Bonus et Power Bonus. En revanche, sa contribution au cross training est médiocre, à cause de son Training Effectiveness faible, mais ses 2 Stats Bonus aideront au gain de stats sur les entraînements speed, stamina et guts.
+* Sa liste de hints est large (8 hints❗), avec 2 très bons skills universels, 2 skills greens saisonniers, et 2 skills pour surface Dirt (la white recovery Famliar Ground est spécifiquement unique à Inari One). Elle a aussi Hint Level 3 et Hint Frequency 50, ses hints sont donc assez généreux.
+* Ses chain events sont un peu énergivores, coûtant un total de 15 d'énergie.
+ 
+#### PULL OU PAS
+
+**Non.**
+
+Manhattan Cafe SSR Stamina a un très bon gain de stats et un Race Bonus suffisant pour MANT (le 3e scénario), mais ce sont les seules forces de la carte. On a eu des bannières plus intéressantes avant, et on aura une bannière plus intéressante très bientôt (Fuku SSR Speed). 
+
+En revanche, Inari One SR Power est très bonne pour une carte power. Elle est un mix entre les 2 top tiers SR Power que sont Mihono Bourbon et Hishi Amazon. Ce sera une bonne SR à avoir sur d'autres bannières. C'est déconseillé de pull juste pour une SR, et vous pourrez la MLB grâce aux autres bannières de très bonne cartes SSR.
+
+::::
+
+## #30 - Nice Nature Wit SSR & Oguri Cap Power SSR
+
+![Image de présentation de la bannière Nice Nature Wit SSR et Oguri Cap Power SSR](/public/assets/Gacha-reviews/2026/030_Card-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Nice Nature** :Wit: :SSR:
+
+[Vous pouvez retrouvez sa review ici, elle n'a pas eu de changement.](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_18-nice-nature-wits-ssr-tosen-jordan-stamina-sr)
+
+
+⏩ **Oguri Cap** :power: :SSR:
+
+- La carte est backloaded. Elle débloque un 2ème Power Bonus à 1LB et débloque Training Effectiveness à 3LB.
+
+- Ses rainbows sont bon grâce au différent bonus qu’elle bien que son Friendship soit juste correct. Son cross training est très bon, surtout dans els training Speed et Guts, grâce au combo de Training Effectiveness et Mood Effect. Ce dernier a une bonne valeur, donc elle dépend pas mal d’être en Mood Great.
+
+- Elle propose 10 hints❗, dont seulement 2 sont mauvais. Ses hints sont généralement universels ou pour les Pace Chasers ou les Front Runners. Elle a aussi Hint Level 2 et Hint Frequency 40, ses hints sont sympas.
+
+- Le skill Gold est **Furious Feat**, la gold version de _Updrafters_. C’est un Gold d’accélération pour le Mile, qui s’active à un point random dans le Late-Race si l’uma est dans le bottom 50% (6e↔️9e en CM). Le skill est correct, il peut être fort tout comme mauvais en fonction de quand il s’active.
+ 
+#### Pull ou pas ? :
+Si vous n’avez pas beaucoup de support avec un Race Bonus élevée ou une des top tier Wit Support, oui sinon non.
+Le support que l’on veut est principalement Nice Nature SSR Wit pour le prochain scénario (MANT) et Oguri Cap SSR Power est correct. Le fait que les 2 soient backloaded est un problème surtout que dans la prochaine bannière, il y a un autre support backloaded pour le prochain scénario.
+
+Je dirais que la Nice Nature est quand même plus importante car une plus grande longévité que la prochaine bannière, donc pull n’est pas un mauvais choix.
+
+Le choix va dépendre de si vous voulez utiliser Matikanefukukitaru SSR Speed ou Narita Top Road SSR Speed pour le prochain scénario. Si vous voulez Fuku, ne pullez pas. Si vous voulez NTR, pull.
+
+::::
+
+## #31 - Admire Vega Power SSR & Matikanefukukitaru SSR Speed
+
+![Image de présentation de la bannière Admire Vega Power SSR & Matikanefukukitaru SSR Speed](/public/assets/Gacha-reviews/2026/031_Card-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Admire Vega** :power: :SSR:
+
+- La carte est relativement frontloaded. A 1LB, elle débloque Power Bonus, puis Race Bonus à 3LB.
+
+- Dès LB 0, ses rainbows sont bons et son cross-training est très bon. C’est dû à son Training Effectiness élevé et a un bon Friendship Bonus. Cependant, elle est plus une carte carte cross-training à cause de son Special Priority faible.
+
+- Elle propose 5 hints❗, dont seulement 2 sont bons et seulement pour les End Closers , dont on a de meilleur moyen pour les avoir. Bien qu’elle ait Hint Levels et Hint Frequency, ses hints restent assez faibles même si assez fréquents.
+
+- Le skill gold est **Daring Strike**, la gold version d’_Early Start_. C’est un gold de vélocité pour End Closer, qui s’active dans le Mid-Race si elle est dans le bottom 50%. C'est un très bon skill dont ça force est dans sa durée. Il permet aussi de bien se placer pour les End Closer.
+
+
+⏩ **Matikanefukukitaru** :speed: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Training Effectiveness, puis Race Bonus à 3LB. C’est important pour elle d’atteindre le maximum de son Race Bonus et c’est pour ça qu’elle est backloaded.
+
+- Ses rainbows sont corrects et son cross training est bon avec son Training Effectiveness et Mood Effect.
+
+- Les particularités de la carte sont la quantité d’initial stats qu’elle donne et 2 bonus de cartes supports (Failure Protection et Energy Cost Reduction, ce qui est sympa). A MLB, elle donne un total de 150 stats (5 x 30) pour le début de carrière.
+
+- Elle donne 7 hints❗, les mêmes que sa version SR Wit, qui est bien meilleure pour le hint farming.
+
+- Le skill gold est **Super Lucky Seven**, la gold version _Lucky Seven_. C’est un gold green qui a 50% de chance de s’activer si elle est dans la gate block n°7. Le skill nous donne 60 stats points dans 3 stats : Speed, Stamina et Power. C'est un mauvais skill.
+
+- Ses Chains Event sont randoms et peuvent donner pas mal de stats mais les 2 premiers Chain Event peuvent casser la chaîne.
+
+ 
+#### Pull ou pas ? :
+La carte importante de la bannière est Matikanefukukitaru SSR Speed, donc on va parler brièvement d’Admire Vega SSR Power avant de passer à la carte importante.
+
+Admire Vega SSR Power est bonne, surtout pour le cross-training. Elle est aussi assez bonne pour le prochain scénario qui est MANT avec son Race Bonus quand elle est MLB. Elle est loin de la meilleure SSR Power qu’est Vodka, mais elle est une bonne stat stick. C’est une carte correcte dans une bannière à 2 SSR.
+
+Matikanefukukitaru SSR Speed est bonne pour un seul scénario, MANT. Elle est cependant la meilleure carte pour MANT, ex-aequo avec un autre futur support, Narita Top Road SSR Speed. Fuku donne plus de stats au départ, ce qui est important pour le scénario pour gagner plus facilement des courses. NTR est meilleur pour les phases de summer training avec son fort Training Effectivenness, son meilleur Friendship Bonus et ses 2 stats Bonus (Speed et Power).
+
+::: info
+
+Fuku va faciliter vos runs et faire que vous faites plus souvent de bonnes runs, NTR va avoir des runs plus durs mais avec un plus haut peak avec de bons entraînements. Un autre point qui va les départager est leur green gold. Celui de Fuku est nul, celui de NTR est très fort.
+
+:::
+
+Pour pull sur cette bannière, comment est votre roster à l’instant T est très important. Si vous avez quelques cartes avec un haut Race Bonus, vous pouvez skip pour Narita Top Road SSR Speed si vous la préférez à Matikanefukukitaru SSR Speed. Si vous n’en avez pas beaucoup, je vous conseille de pull sur cette bannière. Et si votre deck est top tier en Race Bonus / Supports, invoquer sur aucune des 2 et utiliser une des deux en borrow.
+
+::::
+
+## #32 - Sasami Anshinzawa SSR Pal & Tamamo Cross SR Guts
+
+![Image de présentation de la bannière Sasami Anshinzawa SSR Pal & Tamamo Cross SR Guts](/public/assets/Gacha-reviews/2026/032_Card-Banner.png)
+
+::: details REVIEW
+
+⏩ **Sasami Anshinzawa** :friends: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus, puis Event Recovery à 3LB
+
+- Elle a un bon cross training avec son Mood Effect élevé.
+
+- Elle n’a que 3 rendez-vous, dont leur résultat est aléatoire. Le bon résultat donne pas mal d’énergie et de stats grâce Event Effectiveness. Le mauvais résultat donne moins d’énergie et vous fait perdre du Mood.
+
+- Son Unique Effect fait que son événement aléatoire arrive plus souvent. L'événement vous donne soit une bonne quantité de skill points et un skill Malus ou il vous donne un boost dans une stat et potentiellement Fast Learner. Vous pouvez techniquement farmez Fast Learner avec elle…
+
+- Le skill gold est **Nothing Ventured**, la gold version de _Risky Business_. C’est un gold de vélocité qui s’active dans la 2ème moitié de course qui vous draine une quantité aléatoire d’HP.
+
+
+⏩ **Tamamo Cross** :guts: :SR:
+
+- La carte est relativement frontloaded. A 1LB, elle débloque Special Priority, puis Guts Bonus à 3 LB.
+
+- Ses rainbows sont moyens et son cross training est bon dû à son Training Effectiveness élevée.
+
+- Elle propose 7 hints❗, dont 2 sont bons. Elle possède Hints Level et Hint Frequency, ses hints sont plutôt bons. Cependant, sa version SSR Stamina est meilleure qu’elle dès 0 LB pour le Hint Farming.
+
+- Son chain event final permet de soit prendre _Pace Chaser Corners_ ou _Late Surger Corners_.
+
+
+ 
+#### Pull ou pas ? :
+Non, la bannière est encore un plus gros bait que la bannière pour les uma. Tamamo Cross SR Guts est correct mais Sasami Anshinzawa SSR Pal est une mauvaise carte. Ne vous faites pas avoir par le fait que vous pouvez techniquement farm Fast Learner, la carte n’en vaut pas la peine et repose beaucoup trop sur le gamble et l’aléatoire. Elle va juste détruire vos runs.
+
+:::

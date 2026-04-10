@@ -10,7 +10,7 @@ order: 4
 
 ::: tip Auteur
 
-Sauf mention contraire, les reviews sont écrites **Kamuisaki**, n'hésitez pas à faire des retours 🌟
+Sauf mention contraire, les reviews sont écrites par **Kamuisaki**, n'hésitez pas à faire des retours 🌟
 
 :::
 
@@ -123,6 +123,122 @@ C'est encore une bannière coincée entre d'excellentes bannières, dont la bann
 
 :::
 
+## #30 - Tamamo Cross ★★★
+
+![Image de présentation de la bannière Tamamo Cross](/public/assets/Gacha-reviews/2026/030_Uma-Banner.png)
+
+:::: details REVIEW
+
+⏩**Tamamo Cross** :
+
+_Tamamo Cross est une uma qui peut courir parfaitement dans 3 stratégies autres que Front Runner pour les distances Medium et Long. Elle possède un Gold de vitesse pour Late Surger et un Gold de vitesse universel. Son unique est un boost de vitesse, avec un peu d’accélération, s’activant dans un corner de 2ème moitié de course. L’unique a 2 activations différentes, ce qui lui donne de la fluidité sur sa stratégie de course mais aussi des stratégies des umas adverses._
+
+- Tamamo Cross a 2 bonus de croissance : 20% :stamina: et 10% :power:. Un bon combo de bonus pour le Medium et le Long, identique à Gold Ship. Ces decks seront similaires à ceux de Gold Ship dans leur composition, mais aura besoin de plus de Stamina ou de Gold Recovery vu qu’elle n’en a pas dans son kit.
+
+- Ses Gold skills sont :
+    - **Fast&Furious**, la gold version de _Position Pilfer_. C’est un gold speed boost de Late Surger, qui s’active à un point random dans le Mid-Race si elle est bottom 50% (6e <-> 9e en CM). C’est un bon skill, qui sera toujours fiable. Il peut techniquement créer du carry-over mais repose beaucoup trop sur la chance pour ce faire.
+    >Ce skill a 2 variantes : **Stormstrider** et **Let’s Get Cracking !** Le premier est une amélioration pure du skill. Le deuxième est cependant une perte de puissance mais qui gagne de la recovery de la même valeur que Stamina Siphon.
+
+    - **Tail Nine**, la gold version de _Tail Held High_. C’est un gold speed boost universel, qui s’active si l’uma utilise 3 skills en Mid-Race. C’est un bon skill qui est très fiable. Une puissance du skill est que vous pouvez contrôler son activation en fonction des skills de Mid-Race que vous prenez. Cela fait que vous pouvez faire du carry-over si vous prenez un skill qui s’active sur la fin du Mid-Race. Dans le futur, on perdra ce contrôle d’activation avec la quantité de skill qu’on pourra prendre mais le skill sera toujours excellent.
+
+- Son skill unique est un boost de vitesse, avec un peu d’accélération, s’activant dans un corner de 2ème moitié de course. Elle a 2 variations d’activations : soit d’être dans le top 70% et 75% (6e <-> 7e en CM) en ayant une overtake target, soit en étant dans le top 20% et 30% (2e <-> 3e en CM).<br> Bien que son activation soit fiable dans les 3 stratégies qu’elle maîtrise, son résultat a beaucoup de variations possibles. Il peut s’activer en 2ème partie de Mid-Race, en Late-Race ou en Final Corner et va soit aider à mieux se positionner pour le Late-Race, à dépasser ou à récupérer sa position (s’il s’active en Final Corner).
+
+::: info Des activations différentes
+
+ Son résultat va dépendre de la stratégie de Tamamo Cross mais aussi des umas de la course. Si vous la jouez Pace Chaser et qu’il y presque que des End Closer ou Late Surger, l’unique s’activera dans le Final Corner et servira à essayer de reprendre la 1ère place par exemple avec les End Closers qui la dépassent.
+
+ Bien que l’unique est de l’accel, c’est bien un unique de vitesse et non un hybride. Si l’accel est gâché, ce n’est pas un problème, voyez-le comme un bonus qu’une nécessité.
+
+:::
+
+- Elle a un white skill important pour la stratégie End Closer dans ses awakening skills, le très puissant Straighaway Spurt. Sa carrière est très atypique et beaucoup de ses hints sont bloqués derrière des courses annexes.
+
+#### Pull ou pas ? :
+Si c’est votre Oshi, oui.
+Tamamo Cross est compétente dans toutes ses stratégies et à une grande fluidité. Cette fluidité est à la fois un point fort pour les différents CM comme un point négatif pour le scénario actuel, Unity Cup. Le fait qu’elle est 5 aptitudes A rends les Spirit Burst extrêment RNG et cela devient plus dure de lui donner les skills que l’on souhaite. Elle est beaucoup plus dépendante d’avoir de bon événement d’inhéritance et donc de bons parents que les autres uma.
+
+Tamamo Cross est bonne si vous avez peu d’uma, sa flexibilité vous aidera pour les CM, mais aussi les Team Trials, où vous pouvez l'adapter au uma que vous avez.
+
+::::
+
+## #31 - Haru Urara (New Year) & TM Opera O (New Year) ★★★
+
+![Image de présentation de la bannière Haru Urara (New Year) & TM Opera O (New Year)](/public/assets/Gacha-reviews/2026/031_Uma-Banner.png)
+
+::::: details REVIEW
+
+⏩**Haru Urara (New Year)** :
+
+_Haru Urara (New Year) est une Late Surger (1 gold) de Dirt pour les distances Sprint et Mile. Elle peut aussi courir en tant qu’End Closer avec 1 étoile. Elle possède un gold de mouvement et un gold d’accélération. Son unique est un boost de vitesse de Final Corner dont sa durée varie en fonction de son écart avec la première place._
+
+- Haru Urara (New Year) a 2 bonus de croissance : 20% :power: et 10% :guts:. Le combo est correct, son Power bonus est très bien mais le Guts c’est toujours le bonus qu’on veut le moins. Son deck est basique, à base de 3 cartes Speed ou 2 si vous prenez au moins 3 Wits dans Unity Cup.
+
+- Ses gold skills sont :
+    - **Center Stage**, la gold version de _Prudent Positioning_. C’est un boost de mouvement pour l’Early-Race. Le skill est inutile pour elle. On utilise premièrement la version white si on veut utiliser le skill et surtout c’est un skill qui peut être utile pour les Front Runners si vous le combinez avec Dodging Danger. Sinon le skill est mauvais.
+    >L’une de ces évolutions / skills roses, I Really Wanna Win ! est très bien et lui est utile car le skill s’active en Late-Race et lui donne de l’accélération.
+
+    - **Hard Worker**, la gold version de _Fighter_. C’est un boost d’accélération pour Late Surger qui peut s’activer qu’après 5 secondes de course, si elle a une overtake target. Le skill est mauvais.
+
+Son unique est un boost de vitesse qui s’active en Final Corner si elle est au moins 7 mètres / 3L derrière l’uma en 1ère place. On doit parler en détail des valeurs de son unique. La puissance du boost est identique à celui de Gold Ship mais la durée varie. 
+
+:::: info
+
+La durée de base peut aller de 4 secondes (7 mètres d’écart / 3L ) à 8 secondes (57 mètres d’écart / 23L) en fonction de l’écart entre Haru Urara (New Year) et l’uma en première place. Il y a une grande marge ou l’unique est juste moins puissant que les uniques de types Gold Ship et encore moins puissants que les uniques plus classiques. 
+
+::: warning
+
+Un autre défaut est que l’unique s’active en phase d’accélération dans beaucoup de courses Sprint et Mile, si vous avez une grande durée l’unique sera quand même utile. Cela fait que sa meilleure stratégie serait l’End Closer, pour avoir le plus d’écart avec la première place, c’est cependant une mauvaise stratégie généralement en Sprint et Mile.
+
+:::
+::::
+
+⏩**TM Opera O (New Year)** :
+
+_TM Opera O (New Year) est une Pace Chaser pour les distances Medium et Long (1 Gold). Elle peut aussi parfaitement courir en Late Surger et facilement en tant que Front Runner avec 4 étoiles. Elle possède un gold de recovery et un gold de vélocité pour le Long. Son unique est un boost de vitesse pour les 400 derniers mètres avec 2 variations de puissance._
+
+- TM Opera O (New Year) a 3 bonus de croissance : 14% en :speed:, 8% en :stamina: et 8% en :wit:. C’est un bon combo de bonus pour ses distances Medium et Long. Ses decks se feront à base de 2 supports Speed avec soit Riko + 1 Stamina et des Wits ou 2 Power (dont Rice Shower) + Riko et 1 Wit.
+
+- Ses golds skills sont :
+    - **Swinging Maestro**, la gold version de _Corner Recovery_. C’est un recovery qui s’active au premier corner possible, qui sont généralement dans le Mid-Race. C’est un excellent skill.
+    >Ce skill a 2 variantes : **Waltz Maestro** et **Opera King’s Corner Theatrics**. Le premier est une amélioration de recovery simple alors que le deuxième modifie un peu ses conditions et réduit son recovery à la puissance d’un white pour gagner un bon speed boost.   
+
+    - **Headliner**, la gold version de _Feature Act_. C’est un skill de vélocité pour le Long, qui s’active si elle est dans le top 50% dans la deuxième moitié du Mid-Race. Le skill peut créer du carry-over mais la part de hasard est grande. Le skill est au minimum bon et très bon s’il s’active bien.
+
+Son unique est un boost de vitesse qui s’active entre les 401 et 399 derniers mètres de la course si elle est dans le top 40% et qu’elle a utilisé jusqu'à 6 skills pendant la course. L’unique a une variation où il devient un peu plus fort si elle a activé au moins 7 skills. 
+
+L’unique est très bon mais aussi facile d’avoir la bonne variable de l’unique. TM Opera O (New Year) outre d’être une bonne Ace, elle est aussi un bon parent pour les Pace Chasers (et généralement toutes les stratégies de courses mais on met en avance pour les Pace Chasers vu qu’ils n’ont pas de parents Meta comme les autres stratégies) grâce à son unique.
+
+
+#### Pull ou pas ? :
+
+Si l’une d’elles est votre Oshi, oui.
+Haru Urara (New Year) est meilleure que son original mais elle reste plutôt mauvaise même si les skills roses la rendront un peu plus forte. La star de la bannière est TM Opera O (New Year), qui est une très bonne Ace mais aussi un bon parent généraliste, très important pour les Pace Chasers. Si vous utilisez beaucoup de Pace Chasers, elle devient très importante et est une bonne idée de pull.
+ C’est une bonne bannière.
+
+
+:::::
+
+## #32 - All Uma ★★★
+
+![Image de présentation de la bannière All Uma)](/public/assets/Gacha-reviews/2026/032_Uma-Banner.png)
+
+:::: details REVIEW
+
+Si vous voulez les reviews des uma, vous pouvez allez sur [l'archive Uma 2025 d'Umaguide FR](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md) et sur [l'archive Uma 2026 d'Umaguide FR](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2026.md)
+
+La bannière n’a aucune uma mise en avant, mais toutes les uma du début du Global, jusqu’à la dernière bannière sortie (Haru Urara (New Year) et TM Opera O (New Year)) sont toutes obtenables dans la sélection d’un Spark.
+
+#### Pull ou pas ? :
+
+Cette bannière est à la fois un énorme bait mais aussi une très bonne bannière. Selon moi, elle devient bonne si vous pouvez au moins 3 Sparks (90 000 :carat:) et qu’ils vous manquent des oshi et/ou des uma stratégiques. En dessous de 3 Sparks ou que vous n’ayez pas d’uma que vous voulez plus que ça, c’est un bait.
+
+::: warning
+
+C’est quand même une bannière bait avant tout, pullez dessus seulement si c’est rentable et que vous n’ayez pas de support ou uma que vous désirez proches de cette bannière.
+
+:::
+::::
+
 ## #40 - Seiun Sky (Ballroom) & Fuji Kiseki (Ballroom) ★★★
 
 ![Image de présentation de la bannière Seiun Sky (Ballroom) & Fuji Kiseki (Ballroom)](/public/assets/Gacha-reviews/2026/040_Uma-Banner.png)
@@ -179,12 +295,12 @@ Si vous avez déjà Kitasan Black, ne pullez pas pour Seiun Sky (Ballroom).
 
 Fuji Kiseki (Ballroom) est une spécialiste du Final Corner, surtout quand il y aura les skills roses. Son problème est que ses aptitudes ne sont pas optimales pour utiliser à plein potentiel sont kit. On veut la jouer en Late Surger en Mile mais en Pace Chaser en Medium ou Long pour utiliser Speed Star.
 
- Elle est une bonne uma en général mais peut-être un peu frustrante à faire. Ce n’est pas elle la star de cette bannière.
+Elle est une bonne uma en général mais peut-être un peu frustrante à faire. Ce n’est pas elle la star de cette bannière.
  
- ::: info Pull pour les prochaines Front Runners 
+::: info Pull pour les prochaines Front Runners 
  
- Je dirais que votre décision de pull va dépendre de si Front Runner sera une de / votre stratégie principale ou si vous avez Kitasan Black ou pas. Si vous ne l’avez pas et que vous voulez jouer Front Runner, avoir Seiun Sky (Ballroom) est un bon choix. Si vous avez déjà Kitasan Black ou que vous ne voulez pas jouer des Front Runner, ne pullez pas sur cette bannière.
+Je dirais que votre décision de pull va dépendre de si Front Runner sera une de / votre stratégie principale ou si vous avez Kitasan Black ou pas. Si vous ne l’avez pas et que vous voulez jouer Front Runner, avoir Seiun Sky (Ballroom) est un bon choix. Si vous avez déjà Kitasan Black ou que vous ne voulez pas jouer des Front Runner, ne pullez pas sur cette bannière.
 
- :::
+:::
 
 ::::
