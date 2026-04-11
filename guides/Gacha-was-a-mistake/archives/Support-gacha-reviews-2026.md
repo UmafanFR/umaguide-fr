@@ -144,7 +144,7 @@ En revanche, Inari One SR Power est très bonne pour une carte power. Elle est u
 
 ::::
 
-## #30 - Nice Nature Wit SSR & Oguri Cap Power SSR
+## #30 - Nice Nature Wit SSR & Oguri Cap Power SSR (rerun)
 
 ![Image de présentation de la bannière Nice Nature Wit SSR et Oguri Cap Power SSR](/public/assets/Gacha-reviews/2026/030_Card-Banner.png)
 
@@ -159,7 +159,7 @@ En revanche, Inari One SR Power est très bonne pour une carte power. Elle est u
 
 - La carte est backloaded. Elle débloque un 2ème Power Bonus à 1LB et débloque Training Effectiveness à 3LB.
 
-- Ses rainbows sont bon grâce au différent bonus qu’elle bien que son Friendship soit juste correct. Son cross training est très bon, surtout dans els training Speed et Guts, grâce au combo de Training Effectiveness et Mood Effect. Ce dernier a une bonne valeur, donc elle dépend pas mal d’être en Mood Great.
+- Ses rainbows sont bons grâce aux différents bonus qu’elle a, bien que son Friendship Bonus soit juste correct. Son cross training est très bon, surtout dans els training Speed et Guts, grâce au combo de Training Effectiveness et Mood Effect. Ce dernier a une bonne valeur, donc elle dépend pas mal d’être en Mood Great.
 
 - Elle propose 10 hints❗, dont seulement 2 sont mauvais. Ses hints sont généralement universels ou pour les Pace Chasers ou les Front Runners. Elle a aussi Hint Level 2 et Hint Frequency 40, ses hints sont sympas.
 
@@ -189,7 +189,7 @@ Le choix va dépendre de si vous voulez utiliser Matikanefukukitaru SSR Speed ou
 
 - Elle propose 5 hints❗, dont seulement 2 sont bons et seulement pour les End Closers , dont on a de meilleur moyen pour les avoir. Bien qu’elle ait Hint Levels et Hint Frequency, ses hints restent assez faibles même si assez fréquents.
 
-- Le skill gold est **Daring Strike**, la gold version d’_Early Start_. C’est un gold de vélocité pour End Closer, qui s’active dans le Mid-Race si elle est dans le bottom 50%. C'est un très bon skill dont ça force est dans sa durée. Il permet aussi de bien se placer pour les End Closer.
+- Le skill gold est **Daring Strike**, la gold version d’_Early Start_. C’est un gold de vélocité pour End Closer, qui s’active dans le Mid-Race si elle est dans le bottom 50%. C'est un très bon skill dont la force est dans sa durée. Il permet aussi de bien se placer pour les End Closer.
 
 
 ⏩ **Matikanefukukitaru** :speed: :SSR:
@@ -198,7 +198,7 @@ Le choix va dépendre de si vous voulez utiliser Matikanefukukitaru SSR Speed ou
 
 - Ses rainbows sont corrects et son cross training est bon avec son Training Effectiveness et Mood Effect.
 
-- Les particularités de la carte sont la quantité d’initial stats qu’elle donne et 2 bonus de cartes supports (Failure Protection et Energy Cost Reduction, ce qui est sympa). A MLB, elle donne un total de 150 stats (5 x 30) pour le début de carrière.
+- Les particularités de la carte sont la quantité d’initial stats qu’elle donne et 2 bonus de cartes supports Pal :friends: (Failure Protection et Energy Cost Reduction, ce qui est sympa). A MLB, elle donne un total de 150 stats (5 x 30) pour le début de carrière.
 
 - Elle donne 7 hints❗, les mêmes que sa version SR Wit, qui est bien meilleure pour le hint farming.
 
@@ -214,7 +214,7 @@ Admire Vega SSR Power est bonne, surtout pour le cross-training. Elle est aussi 
 
 Matikanefukukitaru SSR Speed est bonne pour un seul scénario, MANT. Elle est cependant la meilleure carte pour MANT, ex-aequo avec un autre futur support, Narita Top Road SSR Speed. Fuku donne plus de stats au départ, ce qui est important pour le scénario pour gagner plus facilement des courses. NTR est meilleur pour les phases de summer training avec son fort Training Effectivenness, son meilleur Friendship Bonus et ses 2 stats Bonus (Speed et Power).
 
-::: info
+::: info Quelle carte entre Fuku ou NTRoad ?
 
 Fuku va faciliter vos runs et faire que vous faites plus souvent de bonnes runs, NTR va avoir des runs plus durs mais avec un plus haut peak avec de bons entraînements. Un autre point qui va les départager est leur green gold. Celui de Fuku est nul, celui de NTR est très fort.
 

@@ -137,7 +137,7 @@ _Tamamo Cross est une uma qui peut courir parfaitement dans 3 stratégies autres
 
 - Ses Gold skills sont :
     - **Fast&Furious**, la gold version de _Position Pilfer_. C’est un gold speed boost de Late Surger, qui s’active à un point random dans le Mid-Race si elle est bottom 50% (6e <-> 9e en CM). C’est un bon skill, qui sera toujours fiable. Il peut techniquement créer du carry-over mais repose beaucoup trop sur la chance pour ce faire.
-    >Ce skill a 2 variantes : **Stormstrider** et **Let’s Get Cracking !** Le premier est une amélioration pure du skill. Le deuxième est cependant une perte de puissance mais qui gagne de la recovery de la même valeur que Stamina Siphon.
+    >Ce skill a 2 variantes évoluées : **Stormstrider** et **Let’s Get Cracking !** Le premier est une amélioration pure du skill. Le deuxième est cependant une perte de puissance mais qui gagne de la recovery de la même valeur que Stamina Siphon.
 
     - **Tail Nine**, la gold version de _Tail Held High_. C’est un gold speed boost universel, qui s’active si l’uma utilise 3 skills en Mid-Race. C’est un bon skill qui est très fiable. Une puissance du skill est que vous pouvez contrôler son activation en fonction des skills de Mid-Race que vous prenez. Cela fait que vous pouvez faire du carry-over si vous prenez un skill qui s’active sur la fin du Mid-Race. Dans le futur, on perdra ce contrôle d’activation avec la quantité de skill qu’on pourra prendre mais le skill sera toujours excellent.
 
@@ -147,7 +147,7 @@ _Tamamo Cross est une uma qui peut courir parfaitement dans 3 stratégies autres
 
  Son résultat va dépendre de la stratégie de Tamamo Cross mais aussi des umas de la course. Si vous la jouez Pace Chaser et qu’il y presque que des End Closer ou Late Surger, l’unique s’activera dans le Final Corner et servira à essayer de reprendre la 1ère place par exemple avec les End Closers qui la dépassent.
 
- Bien que l’unique est de l’accel, c’est bien un unique de vitesse et non un hybride. Si l’accel est gâché, ce n’est pas un problème, voyez-le comme un bonus qu’une nécessité.
+ Bien que l’unique aie de l’accel, c’est bien un unique de vitesse et non un hybride. Si l’accel est gâché, ce n’est pas un problème, voyez-le plus comme un bonus qu’une nécessité.
 
 :::
 
@@ -155,7 +155,7 @@ _Tamamo Cross est une uma qui peut courir parfaitement dans 3 stratégies autres
 
 #### Pull ou pas ? :
 Si c’est votre Oshi, oui.
-Tamamo Cross est compétente dans toutes ses stratégies et à une grande fluidité. Cette fluidité est à la fois un point fort pour les différents CM comme un point négatif pour le scénario actuel, Unity Cup. Le fait qu’elle est 5 aptitudes A rends les Spirit Burst extrêment RNG et cela devient plus dure de lui donner les skills que l’on souhaite. Elle est beaucoup plus dépendante d’avoir de bon événement d’inhéritance et donc de bons parents que les autres uma.
+Tamamo Cross est compétente dans toutes ses stratégies et à une grande fluidité. Cette fluidité est à la fois un point fort pour les différents CM comme un point négatif pour le scénario actuel, Unity Cup. Le fait qu’elle aie 5 aptitudes A rends les Spirit Burst extrêment RNG et cela devient plus dure de lui donner les skills que l’on souhaite. Elle est beaucoup plus dépendante d’avoir de bon événement d’inhéritance et donc de bons parents que les autres uma.
 
 Tamamo Cross est bonne si vous avez peu d’uma, sa flexibilité vous aidera pour les CM, mais aussi les Team Trials, où vous pouvez l'adapter au uma que vous avez.
 
@@ -165,7 +165,7 @@ Tamamo Cross est bonne si vous avez peu d’uma, sa flexibilité vous aidera pou
 
 ![Image de présentation de la bannière Haru Urara (New Year) & TM Opera O (New Year)](/public/assets/Gacha-reviews/2026/031_Uma-Banner.png)
 
-::::: details REVIEW
+:::: details REVIEW
 
 ⏩**Haru Urara (New Year)** :
 
@@ -181,16 +181,14 @@ _Haru Urara (New Year) est une Late Surger (1 gold) de Dirt pour les distances S
 
 Son unique est un boost de vitesse qui s’active en Final Corner si elle est au moins 7 mètres / 3L derrière l’uma en 1ère place. On doit parler en détail des valeurs de son unique. La puissance du boost est identique à celui de Gold Ship mais la durée varie. 
 
-:::: info
+::: details A propos de la durée du skill
 
 La durée de base peut aller de 4 secondes (7 mètres d’écart / 3L ) à 8 secondes (57 mètres d’écart / 23L) en fonction de l’écart entre Haru Urara (New Year) et l’uma en première place. Il y a une grande marge ou l’unique est juste moins puissant que les uniques de types Gold Ship et encore moins puissants que les uniques plus classiques. 
 
-::: warning
 
-Un autre défaut est que l’unique s’active en phase d’accélération dans beaucoup de courses Sprint et Mile, si vous avez une grande durée l’unique sera quand même utile. Cela fait que sa meilleure stratégie serait l’End Closer, pour avoir le plus d’écart avec la première place, c’est cependant une mauvaise stratégie généralement en Sprint et Mile.
+Un autre défaut est que l’unique s’active en phase d’accélération dans beaucoup de courses Sprint et Mile, mais si vous avez une grande durée l’unique sera quand même utile. Cela fait que sa meilleure stratégie serait l’End Closer, pour avoir le plus d’écart avec la première place, c’est cependant une mauvaise stratégie généralement en Sprint et Mile.
 
 :::
-::::
 
 ⏩**TM Opera O (New Year)** :
 
@@ -200,13 +198,13 @@ _TM Opera O (New Year) est une Pace Chaser pour les distances Medium et Long (1 
 
 - Ses golds skills sont :
     - **Swinging Maestro**, la gold version de _Corner Recovery_. C’est un recovery qui s’active au premier corner possible, qui sont généralement dans le Mid-Race. C’est un excellent skill.
-    >Ce skill a 2 variantes : **Waltz Maestro** et **Opera King’s Corner Theatrics**. Le premier est une amélioration de recovery simple alors que le deuxième modifie un peu ses conditions et réduit son recovery à la puissance d’un white pour gagner un bon speed boost.   
+    >Ce skill a 2 variantes évoluées: **Waltz Maestro** et **Opera King’s Corner Theatrics**. Le premier est une amélioration de recovery simple alors que le deuxième modifie un peu ses conditions et réduit son recovery à la puissance d’un white pour gagner un bon speed boost.   
 
     - **Headliner**, la gold version de _Feature Act_. C’est un skill de vélocité pour le Long, qui s’active si elle est dans le top 50% dans la deuxième moitié du Mid-Race. Le skill peut créer du carry-over mais la part de hasard est grande. Le skill est au minimum bon et très bon s’il s’active bien.
 
-Son unique est un boost de vitesse qui s’active entre les 401 et 399 derniers mètres de la course si elle est dans le top 40% et qu’elle a utilisé jusqu'à 6 skills pendant la course. L’unique a une variation où il devient un peu plus fort si elle a activé au moins 7 skills. 
+Son unique est un boost de vitesse qui s’active à exactement 400m de la fin de la course si elle est dans le top 40% et qu’elle a utilisé jusqu'à 6 skills pendant la course. L’unique a une variation où il devient un peu plus fort si elle a activé au moins 7 skills. 
 
-L’unique est très bon mais aussi facile d’avoir la bonne variable de l’unique. TM Opera O (New Year) outre d’être une bonne Ace, elle est aussi un bon parent pour les Pace Chasers (et généralement toutes les stratégies de courses mais on met en avance pour les Pace Chasers vu qu’ils n’ont pas de parents Meta comme les autres stratégies) grâce à son unique.
+L’unique est très bon mais aussi facile d’avoir version plus puissante de l’unique. TM Opera O (New Year) outre d’être une bonne Ace, elle est aussi un bon parent pour les Pace Chasers (et généralement toutes les stratégies de courses mais on met en avance pour les Pace Chasers vu qu’ils n’ont pas de parents Meta comme les autres stratégies) grâce à son unique.
 
 
 #### Pull ou pas ? :
@@ -216,7 +214,7 @@ Haru Urara (New Year) est meilleure que son original mais elle reste plutôt mau
  C’est une bonne bannière.
 
 
-:::::
+::::
 
 ## #32 - All Uma ★★★
 
@@ -232,7 +230,7 @@ La bannière n’a aucune uma mise en avant, mais toutes les uma du début du Gl
 
 Cette bannière est à la fois un énorme bait mais aussi une très bonne bannière. Selon moi, elle devient bonne si vous pouvez au moins 3 Sparks (90 000 :carat:) et qu’ils vous manquent des oshi et/ou des uma stratégiques. En dessous de 3 Sparks ou que vous n’ayez pas d’uma que vous voulez plus que ça, c’est un bait.
 
-::: warning
+::: warning Attention au priorité
 
 C’est quand même une bannière bait avant tout, pullez dessus seulement si c’est rentable et que vous n’ayez pas de support ou uma que vous désirez proches de cette bannière.
 
