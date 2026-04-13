@@ -601,3 +601,42 @@ Sirius Symboli SSR Wit n’est pas à pleine puissance dès le départ et est pl
 Ne pullez pas sur cette bannière, au mieux utilisez- les en borrows si vous en avez besoin.
 
 ::::
+
+## ## - 41 Daiwa Scarlet Power SSR & Sweep Tosho Wit SR
+
+![Image de présentation de la bannière Daiwa Scarlet Power SSR & Sweep Tosho Wit SR](/public/assets/Gacha-reviews/2026/041_Card-Banner.png)
+
+::: details REVIEW
+
+⏩ **Daiwa Scarlet** :power: :ssr:
+
+- La carte est frontloaded. A 1LB, elle débloque Stamina Bonus puis Initial Power à 3LB.
+
+- Son Unique Effect lui donne 2 Power Bonus quand sa gauge atteint 80 (orange)
+
+- Ses rainbows sont moyens, avec un bon Friendship Bonus et son combo de Power Bonus et Stamina Bonus. Son manque de Special Priority est ce qui rendra ses rainbows moyens. Son cross-training est quasiment inexistant avec seulement du Race Bonus et son combo de stat bonus.
+
+- Elle propose une liste de 5 hints, dont 4 pour les Pace Chasers. Elle possède Hint Level et Hints Frequency, bien que ce dernier soit faible. Ses hints seront sympas.
+
+- Son gold skill est **Neck and Neck**, la gold version de _Head-On_. C’est un gold d’accélération de Pace Chaser qui s’active dans la première partie du Late-Race si elle est dans le top 50% (≤5 en CM). Ce n’est pas un skill fiable mais intéressant avec le manque de skills d’accélération que les Pace Chasers peuvent bien utiliser.
+
+
+⏩ **Sweep Tosho** :wit: :ssr:
+
+- La carte est backloaded. A 1LB, elle débloque Training Effectiveness puis Wit Bonus à 3LB.
+
+- Ses rainbows sont bons, avec un Friendship Bonus correct, un Special Priority correct, le Wit Bonus et son bon Training Effectiveness. Son cross-training est bon avec un bon Training Effectiveness et son bon Race Bonus.
+
+- Elle propose une liste de 7 skills. Tout comme ses autres versions, ses hints restent faibles.
+
+- Son dernier Chain Event nous permet de choisir _Subdued End Closers_ ou de choisir _End Closers Straightaway_.
+
+#### PULL OU PAS
+
+Non, ce n’est pas une bonne bannière. 
+
+Il n’y a pas vraiment grand-chose à dire, Daiwa Scarlet SSR Power est mauvaise, surtout quand on la compare avec d’autres cartes Power, même avec les SR. Sweep Tosho SR Wit est moins forte que les autres cartes SR Wit  qu’elle serait en compétition, donc elle n’est pas un bon pull non plus.
+
+Ne pullez pas sur cette bannière.
+
+:::

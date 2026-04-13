@@ -589,3 +589,45 @@ Je dirais que votre décision de pull va dépendre de si Front Runner sera une d
 :::
 
 ::::
+
+## ##41 - Nishino Flower ★★★
+
+![Image de présentation de la bannière Nishino Flower](/public/assets/Gacha-reviews/2026/041_Uma-Banner.png)
+
+::::details REVIEW
+
+⏩**Nishino Flower** :
+
+_Nishino Flower est une Pace Chaser pour le Sprint et le Mile. Elle peut aussi courir en tant que Late Surger. Elle possède un gold de vélocité et un gold d’accélération pour Pace Chaser. Son unique est un boost d’accélération de Final Corner._
+
+- Nishino Flower possède 2 bonus de croissances : 15% en :speed: et 15% en :power:. C’est un bon combo de bonus, surtout pour la faire avec un deck Guts vu qu’elle n’a pas besoin de beaucoup de Stamina pour ses 2 distances préférées.
+
+- Ses gold skills sont :
+
+    - **Beeline Burst**, la gold version de _Straightaway Adept_. C’est un gold vélocité de ligne droite qui peut se relancer sur les courses Long. C’est un bon skill en Medium et très bon en Long, mais pour les 2 distances de Nishino Flower, le skill devient correct. Il coûte bien trop cher pour le Sprint et le Mile.
+
+    - **Determined Descent**, la gold version de _Straight Descent_. C’est un gold d’accélération de Pace Chaser qui s’active dans une descente. C’est un skill qui est dépendant de la course pour être utile. 
+
+- 2 de ses Secret Events sont liés à gagner une G1 Medium (Queen Elizabeth II Cup et Takarazuka Kinen). Son dernier Secret Event lui demandera de gagner les 2 Mile Championship quand les Secrets Event seront réactivés.
+
+- Son unique est un boost d’accélération de Final Corner. Il possède une précondition qui est d’être bloqué pendant 2 secondes sur un corner aléatoire en Mid-Race. L’unique a 2 activations possibles. Soit en Late-Race, quand l’uma est dans la seconde moitié du Final Corner si elle est entre le top 3 et le top 40% (≥3 / ≤ 4 en CM). Soit en Late-Race, quand l’uma est en Final Corner et qu’elle n’est pas dans un corner si elle est entre le top 3 et le top 40% (≥3 / ≤ 4 en CM). Final Corner prend en compte plus loin que le dernier corner compté et c’est pour ça qu’il peut l’activer en ligne droite (qui est généralement la Final Straight)
+
+::: info En tant que Parent
+
+C’est un unique qui est bon en Sprint et Mile, mais mauvais en Medium (peut y avoir des exceptions) et Long. On veut aussi Shooting for Victory !, l’unique de Taiki Shuttle, vu qu’ils se complètent bien. C’est un bon unique à hérité pour les Pace Chaser pour le Sprint et le Mile.
+
+:::
+
+#### Pull ou pas ? :
+
+Si Nishino Flower est votre Oshi, oui. 
+
+En Sprint et Mile, elle peut être soit très bonne, soit presque imbattable si vous n’avez pas de stratégie pour la gêner. C’est un bon parent pour ces 2 distances, surtout quand on la complète avec l’unique de Taiki Shuttle. Ces gold skills restent son problème majeur, vu qu’ils peuvent être inutilisables ou moyen. Il y a aussi le fait qu’elle soit assez dure à bien faire sur Trackblazer car il faut aller lui chercher au moins Medium B pour faire la voie Tiara alors qu’elle a de base Medium E. 
+
+::: tip En fonction de Taiki Shuttle
+
+Si vous ne comptez pas la jouer en Ace, il sera mieux de la borrow pour l’utiliser en tant que parent que d’essayer de la pull, surtout si vous avez déjà Taiki Shuttle ou que vous êtes proche de l’avoir avec le Daily Legend Race. Si vous n’avez pas Taiki Shuttle ou que vous en êtes loin, c’est un très bon parent/Ace à avoir.
+
+:::
+
+::::
