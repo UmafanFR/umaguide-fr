@@ -268,7 +268,7 @@ Non, la bannière est encore un plus gros bait que la bannière pour les uma. Ta
 
 ⏩ **Riko Kashimoto et Tazuna Hayakawa** :friends: :SSR:
 
-[Vous pouvez retrouvez la review de Riko Kashimoto SSR Pal ici. Il y a aussi un commentaire sur Tazuna Hayakawa SSR Pal](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_19-rice-shower-power-ssr-riko-kashimoto-pal-ssr)
+[Vous pouvez retrouver la review de Riko Kashimoto SSR Pal ici. Il y a aussi un commentaire sur Tazuna Hayakawa SSR Pal](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_19-rice-shower-power-ssr-riko-kashimoto-pal-ssr)
  
 #### Pull ou pas ? :
 Non, ce n’est pas une bonne bannière. Tazuna n’est plus vraiment utilisé à part pour les deck à 2 Pals et bien que Riko soit bonne pour Unity, ce rerun est bien trop tard. On est bientôt au prochain scénario et bien que Riko SSR MLB soit correct, on va préférer d’autres cartes bien plus intéressantes. Ne pullez pas sur cette bannière.
@@ -295,7 +295,7 @@ Non, ce n’est pas une bonne bannière. Tazuna n’est plus vraiment utilisé �
 
 - Son premier event nous donne _Groundwork_ si on le souhaite.
 
-⏩ **Nishino Flower** :wit: :sSR:
+⏩ **Nishino Flower** :wit: :SSR:
 
 - Nishino Flower SSR Wit est frontloaded. A 1LB, elle débloque Speed Bonus puis Initial Wit à 3LB.
 
@@ -305,7 +305,7 @@ Non, ce n’est pas une bonne bannière. Tazuna n’est plus vraiment utilisé �
 
 - Elle propose une liste de 5 hints❗très utiles. Elle possède Hint Level et Hint Frequency bien que les 2 soient très faibles. Ses hints seront sympa mais sa version SSR Speed et SR Power sont meilleures pour le hint farming.
 
-- Le skill gold est **Determined Descent**, la gold version de _Straight Descent_. C’est un gold d’accélération pour les Pace Chasers qui s’activent dans une descente aléatoire. C’est un skill dure à utiliser car il dépend énormément de la course. Ce n’est pas un bon skill en général.
+- Le skill gold est **Determined Descent**, la gold version de _Straight Descent_. C’est un gold d’accélération pour les Pace Chasers qui s’activent dans une descente aléatoire. C’est un skill difficile à utiliser car il dépend énormément de la course. Ce n’est pas un bon skill en général.
 
 - Un de ses randoms event peut nous donner Charming et elle peut casser sa chaîne au 2ème Chain Event si vous ne voulez pas de Determined Descent et de 20 énergies
 
@@ -317,7 +317,7 @@ Non,
 
 Sakura Bakushin O SSR Guts est un peu bizarre, elle est techniquement bonne avec un bon cross-training et des bons rainbows quand elle tombe dans son training. Cependant, elle ne monte pas tant que ça Guts vu qu’elle n’aura pas Training Effectiveness dessus. Pour son cross-training, le fait que sa seule stat bonus est Guts est embêtant, on aurait préféré un Speed et / ou Power. Elle est très bonne pour le Hint Farming. Elle a un fort potentiel de highroll mais elle n’améliore pas la base de vos runs comme Matikanefukukitaru SSR Speed. Après elle est bonne dès LB0 et elle a un bon Gold skill.
 
-Nishino Flower SSR Wit est plus simple. Le fait que ses Wit Bonus soient bloqués derrière sa full gauge est un peu dérangeant. Son cross-training est quasi inexistant mais ses rainbows sont bons. Son Gold skill n’est pas très bon mais son Hints Farming est sympa, surtout si vous la prenez pour faire une Ace. Le fait qu’elle n’est pas de Race Bonus la rendra inutilisable pour le prochain scénario. Au contraire de la Bakushin où LB 0 est suffisant, c’est obligatoire de l’avoir à 1LB pour Speed Bonus.
+Nishino Flower SSR Wit est plus simple. Le fait que ses Wit Bonus soient bloqués derrière sa full gauge est un peu dérangeant. Son cross-training est quasi inexistant mais ses rainbows sont bons. Son Gold skill n’est pas très bon mais son Hints Farming est sympa, surtout si vous la prenez pour faire une Ace. Le fait qu’elle n’aie pas de Race Bonus la rendra inutilisable pour le prochain scénario. Au contraire de la Bakushin où LB 0 est suffisant, c’est obligatoire de l’avoir à 1LB pour Speed Bonus.
 
 Nishino Flower SSR Wit ne sort pas à un bon moment et n’est donc pas très forte, surtout que sa version SR Power sera plus utile avec son haut Race Bonus. Sakura Bakushin O SSR Guts ne sera presque pas utilisé car la meilleure carte Guts pour MANT / Trackblazer, Admire Vega SR Guts, sortira en même temps que le scénario. Et elle est moins bien que la Haru Urara SSR Guts gratuite et certaines autres cartes Guts qui ont Speed ou Power Bonus.
 
@@ -386,7 +386,7 @@ Elle n'a pas 35 de Friendship Bonus, mais bien 37,5. Avoir Frienship Bonus (mais
 
 - Elle propose une liste de 5 hints❗ assez bons. Elle ne possède pas Hint Level et Hint Frequency, ses hints sont faibles
 
-- Le skill gold est **Speed Star**, la gold version de _Prepared to Pass_. C’est un gold de vélocité pour Pace Chaser qui s’active aléatoirement en Final Corner si elle est dans le top 50%. C’est un skill correct pour le Medium ou le Long. Il n’est pas très bon en Mile vu que dans une grande partie des courses Mile, le Late-Race commence en Final Corner gâchant le speed boost. Cependant le skill est **AGEMASEN**.
+- Le skill gold est **Speed Star**, la gold version de _Prepared to Pass_. C’est un gold de vélocité pour Pace Chaser qui s’active aléatoirement en Final Corner si elle est dans le top 50%. C’est un skill correct pour le Medium ou le Long. Il est quitte ou double en Sprint et Mile car il peut soit créer du carry-over, soit s'activer dans la phase d'accéléraion. Cependant l'évènement est **AGEMASEN**.
 
 ⏩ **Kawakami Princess** :speed: :SSR:
 
@@ -394,9 +394,9 @@ Elle n'a pas 35 de Friendship Bonus, mais bien 37,5. Avoir Frienship Bonus (mais
 
 - Ses rainbows sont bons avec un bon Friendship Bonus, son combo de Speed Bonus et Powwer Bonus et son Special Priority correct. Son cross training est assez bon avec un peu de Mood Effect, du Race Bonus et son combo de stat bonus.
 
-- Elle possède une liste de 4 hints❗mais tous mauvais dont le seul bien est trouvable assez facilement. Elle ne possède pas Hint Level et Hint Frequency, ses hints sont faibles.
+- Elle possède une liste de 4 hints❗mais tous mauvais, et dont le seul bien (Standard Distance) est trouvable assez facilement. Elle ne possède pas Hint Level et Hint Frequency, ses hints sont faibles.
 
-- Le skill gold est Center Stage, la gold version de Prudent Positioning. C'est un gold de mouvement d'Early Race. C'est un skill intéressant que pour les Front Runners et seulement si vous pouvez aussi prendre Dodging Danger. Mais on va préférer prendre la version white pour la mécanique, donc c'est un gold plutôt mauvais pour une carte.
+- Le skill gold est Center Stage, la gold version de Prudent Positioning. C'est un gold de mouvement d'Early Race. C'est un skill intéressant uniquement pour les Front Runners et seulement si vous pouvez aussi prendre Dodging Danger. Mais on va préférer prendre la version white pour la mécanique, donc c'est un gold plutôt mauvais pour une carte.
  
 #### Pull ou pas ? :
 
@@ -430,17 +430,17 @@ Si vous n’avez pas une des top tiers SSR Wit, c’est une bonne bannière à p
 
 ::: tip Meilleur quand les stats sont à au moins à 1200
 
-Dès qu'une stat à atteind 1200, il sera plus dure de la montée quand on aura une limite plus haute. Cela fait que les boosts de stats deviennent très fort dès qu'on atteind 1200 dans la stat de leur boost.
+Plus tard, quand on aura une limite de stats plus haute, alors lorsqu'une stat atteindra 1200 il sera plus difficile de la monter davantage. Cela fait que les boosts de stats des skills greens deviennent plus intéressants au-delà de 1200 dans la stat de leur boost.
 
 :::
 
-- Ses Chain Events sont cependant énergivores prenant un total de 30 énergies mais ils donnent aussi une bonne qunatité de stats.
+- Ses Chain Events sont cependant énergivores, prenant un total de 30 énergies, mais ils donnent aussi une bonne quantité de stats.
 
-⏩ **Sakura Bakushi O** :power: :SR:
+⏩ **Sakura Bakushin O** :power: :SR:
 
 - La carte est backloaded. A 1LB, elle débloque Initial Friendship Gauge puis Power Bonus à MLB. Elle possède Friendship Bonus dans son Unique Effect, il sera donc plus haut que ce que la carte montre.
 
-- Ses rainbows sont bons avec un bon Friendship Bonus (32 est non 30), Power Bonus et un bon Special Priority. Son cross-training est correct avec un bon Race Bonus et un faible Training Effectiveness.
+- Ses rainbows sont bons avec un bon Friendship Bonus (32 et non 30), Power Bonus et un bon Special Priority. Son cross-training est correct avec un bon Race Bonus et un faible Training Effectiveness.
 
 - Elle propose une liste de 8 hints généralement pour le Sprint.
 
@@ -448,9 +448,9 @@ Dès qu'une stat à atteind 1200, il sera plus dure de la montée quand on aura 
 
 ⏩ **Admire Vega** :guts: :SR:
 
-- La carte est backloaded. A 1LB, elle débloque Initial Guts puis Power Bonus à MLB. Ce Power Bonus est la raison à pourquoi elle est backloaded
+- La carte est backloaded. A 1LB, elle débloque Initial Guts puis Power Bonus à MLB. Ce Power Bonus est la raison à pourquoi elle est backloaded. Son Unique Effect lui donne un bon Race Bonus dès LB0
 
-- Ses rainbows sont très bons avec un bon Friendship Bonus, le duo de Speed Bonus et Power Bonus et un Special Priority correct. Son cross-training est bon avec Mood Effect, un bon Race Bonus et son duo de Stat Bonus. Pour une carte Guts, le combo de Speed Bonus et Power Bonus est vraiment fort, cela lui permet d’avoir de la valeur sur 4/5 Training en étant parfait en Guts et Speed, et bon en Power et Wit.
+- Ses rainbows sont très bons avec un bon Friendship Bonus, le duo de Speed Bonus et Power Bonus et un Special Priority correct. Son cross-training est bon avec Mood Effect, un très bon Race Bonus et son duo de Stat Bonus. Pour une carte Guts, le combo de Speed Bonus et Power Bonus est vraiment fort, cela lui permet d’avoir de la valeur sur 4/5 Training en étant parfait en Guts et Speed, et bon en Power et Wit.
 
 - Elle propose 5 hints, dont seulement 2 sont bons et seulement pour les End Closers. On a de meilleur moyen pour les avoir cependant.
 
@@ -460,17 +460,17 @@ Dès qu'une stat à atteind 1200, il sera plus dure de la montée quand on aura 
 
 - La carte est backloaded. A 1LB, elle débloque Initial Friendship Gauge puis Stamina Bonus à MLB. Elle possède Fiendship Bonus dans son Unique Effect, il sera donc plus haut que ce que la carte montre.
 
-- Ses rainbows sont bons avec un bon Friendship Bonus (32 est non 30), le duo de Guts Bonus et Stamina Bonus et un Special Priority correct. Son cross-training est correct mais dépendant de son bon Mood Effect et avec un faible Race Bonus.
+- Ses rainbows sont bons avec un bon Friendship Bonus (32 et non 30), le duo de Guts Bonus et Stamina Bonus et un Special Priority correct. Son cross-training est correct mais dépendant de son bon Mood Effect et avec un faible Race Bonus.
 
 - Elle propose une liste de 3 hints qui sont assez sympas.
 
-- Son dernier Chain Event nous donne soit de l’énergie ou _Late Surger Straightaways_.
+- Son dernier Chain Event nous donne soit de l’énergie, soit _Late Surger Straightaways_.
  
 #### Pull ou pas ? :
 
 ::: warning Comment voulez-vous jouer ?
 
-Si vous ne voulez pas jouer deck Guts sur Trackblazer, que vous allez donc jouer un deck plus classiques et si vous avez déjà Matikanefukukitaru SSR Speed MLB, ou que vous avez tous les autres cartes du deck sauf Fuku ou NTR et que vous comptez borrow l’une des 2, ne pullez pas sur cette bannière.
+Si vous ne voulez pas jouer deck Guts sur Trackblazer, vous allez donc jouer un deck plus classique et si vous avez déjà Matikanefukukitaru SSR Speed MLB, ou alors toutes les autres cartes du deck sauf Fuku ou NTR, et en partant du principe que vous comptez borrow l’une des 2, ne pullez pas sur cette bannière.
 
 Si vous comptez jouer deck Guts ou que vous préférez Narita Top Road SSR Speed à Fuku, pullez au moins jusqu’au moment où vous pouvez MLB Admire Vega SR Guts avec les cristaux SR.
 
@@ -548,13 +548,13 @@ Si vous n’avez pas l’une des fortes SSR Wit, pullez dessus jusqu’à vous l
 
 :::
 
-## #40 - Symboli Rudolph Stamina SSR & Sirius Symboli Wit SSR
+## #40 - Symboli Rudolf Stamina SSR & Sirius Symboli Wit SSR
 
-![Image de présentation de la bannière Symboli Rudolph Stamina SSR & Sirius Symboli Wit SSR](/public/assets/Gacha-reviews/2026/040_Card-Banner.png)
+![Image de présentation de la bannière Symboli Rudolf Stamina SSR & Sirius Symboli Wit SSR](/public/assets/Gacha-reviews/2026/040_Card-Banner.png)
 
 :::: details REVIEW
 
-⏩ **Symboli Rudolph** :Stamina: :SSR:
+⏩ **Symboli Rudolf** :Stamina: :SSR:
 
 - La carte est backloaded. A 1LB, elle débloque Guts Bonus puis Race Bonus et Fans Bonus à 3LB.
 
@@ -572,7 +572,7 @@ J’ai un deck 2 Speed / 2 Stamina / 2 Wit, je reçois +20 au début de la run d
 
 - Son gold skill est **Burnig Soul**, la gold version de _Fighting Spirit_. C’est un gold de vélocité et de reovery pour le Medium, s’activant en Mid-Race entre le top 30% et le bottom 20% ( 4e <-> 7e en CM) si elle est bloquée sur le côté. C’est un bon skill pour les Pace Chaser et les Late Surger, bien que moins fiables que les top skills de recovery si vous le prenez pour le heal.
 
-- On peut arrêter son Chain Events au 2ème évènement pour 50 stats pour un coût de 10 énergies.
+- On peut arrêter son Chain Events au 2ème évènement pour 50 stats pour une perte de 10 énergies.
 
 ⏩ **Sirius Symboli** :wit: :SSR:
 
@@ -594,7 +594,7 @@ Non.
 
 Les 2 sont des cartes correctes, mais ne sont pas des cartes que l’on veut pull.
 
-Symboli Rudolph SSR Stamina est bonne pour faire des débuffeuses et la puissance du recovery de son gold peut-être suffisant pour du Medium ce qui la rends intéressante en tant que borrow.
+Symboli Rudolf SSR Stamina est bonne pour faire des débuffeuses et la puissance du recovery de son gold peut-être suffisant pour du Medium ce qui la rends intéressante en tant que borrow.
 
 Sirius Symboli SSR Wit n’est pas à pleine puissance dès le départ et est plus dure à avoir à pleine puissance sur un scénario comme Trackblazer où on s'entraîne moins que Narita Top Road SSR Speed en comparaison. La carte deviendra meilleure dans les autres scénarios mais sera soit power creep ou on préférera utiliser les top SSR Wit que l’on a déjà. Elle peut-être un borrow intéressant pour les Late Surger et End Closer en Medium, pour avoir un skill d’accélération plus fiables qu’On Your Left si vous n'activez pas _**Let’s Pump Some Iron !**_ ou _**Moving Past, and Beyond**_.
 
@@ -602,7 +602,7 @@ Ne pullez pas sur cette bannière, au mieux utilisez- les en borrows si vous en 
 
 ::::
 
-## ## - 41 Daiwa Scarlet Power SSR & Sweep Tosho Wit SR
+## #41 - Daiwa Scarlet Power SSR & Sweep Tosho Wit SR
 
 ![Image de présentation de la bannière Daiwa Scarlet Power SSR & Sweep Tosho Wit SR](/public/assets/Gacha-reviews/2026/041_Card-Banner.png)
 

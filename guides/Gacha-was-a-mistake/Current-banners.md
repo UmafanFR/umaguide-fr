@@ -87,23 +87,23 @@ _Nishino Flower est une Pace Chaser pour le Sprint et le Mile. Elle peut aussi c
 
 - Ses gold skills sont :
 
-    - **Beeline Burst**, la gold version de _Straightaway Adept_. C’est un gold vélocité de ligne droite qui peut se relancer sur les courses Long. C’est un bon skill en Medium et très bon en Long, mais pour les 2 distances de Nishino Flower, le skill devient correct. Il coûte bien trop cher pour le Sprint et le Mile.
+    - **Beeline Burst**, la gold version de _Straightaway Adept_. C’est un gold vélocité de ligne droite qui peut s'activer 2 fois sur les courses Long. C’est un bon skill en Medium et très bon en Long, mais pour les 2 distances de Nishino Flower, le skill perd en nécessité. Cela fait qu'il coûte trop cher sur ce type de course où les corners sont plus puissant que les lignes droites.
 
     - **Determined Descent**, la gold version de _Straight Descent_. C’est un gold d’accélération de Pace Chaser qui s’active dans une descente. C’est un skill qui est dépendant de la course pour être utile. 
 
-- 2 de ses Secret Events sont liés à gagner une G1 Medium (Queen Elizabeth II Cup et Takarazuka Kinen). Son dernier Secret Event lui demandera de gagner les 2 Mile Championship quand les Secrets Event seront réactivés.
+- 2 de ses Secret Events sont liés à gagner une G1 Medium (Queen Elizabeth II Cup et Takarazuka Kinen). Son dernier Secret Event lui demandera de gagner les 2 Mile Championship dans les scénarios où les secret event sont actifs.
 
-- Son unique est un boost d’accélération de Final Corner. Il possède une précondition qui est d’être bloqué pendant 2 secondes sur un corner aléatoire en Mid-Race. L’unique a 2 activations possibles. Soit en Late-Race, quand l’uma est dans la seconde moitié du Final Corner si elle est entre le top 3 et le top 40% (≥3 / ≤ 4 en CM). Soit en Late-Race, quand l’uma est en Final Corner et qu’elle n’est pas dans un corner si elle est entre le top 3 et le top 40% (≥3 / ≤ 4 en CM). Final Corner prend en compte plus loin que le dernier corner compté et c’est pour ça qu’il peut l’activer en ligne droite (qui est généralement la Final Straight)
+- Son unique est un boost d’accélération de Final Corner. Il possède une précondition qui est d’être contesté sur le côté pendant 2 secondes sur un corner aléatoire en Mid-Race. L’unique a 2 activations possibles. Soit en Late-Race, quand l’uma est dans la seconde moitié du Final Corner si elle est entre le top 3 et le top 40% (≥3 / ≤ 4 en CM). Soit en Late-Race, quand l’uma n'est pas sur le Final Corner mais sur un straight en late-race (Final Straight) si elle est entre le top 3 et le top 40% (≥3 / ≤ 4 en CM). Final Corner prend en compte plus loin que le dernier corner compté et c’est pour ça qu’il peut l’activer en ligne droite (qui est généralement la Final Straight)
 
 ::: info En tant que Parent
 
-C’est un unique qui est bon en Sprint et Mile, mais mauvais en Medium (peut y avoir des exceptions) et Long. On veut aussi Shooting for Victory !, l’unique de Taiki Shuttle, vu qu’ils se complètent bien. C’est un bon unique à hérité pour les Pace Chaser pour le Sprint et le Mile.
+C’est un unique qui est surpuissant en Sprint et Mile, mais mauvais en Medium (excepté sur Akiten Tokyo 2000m et l'Arc de Tromphe (Longchamp 2400m)) et Long. On veut aussi Shooting for Victory !, l’unique de Taiki Shuttle, vu qu’ils se complètent bien. C’est un bon unique à hérité pour les Pace Chaser pour le Sprint et le Mile.
 
 :::
 
 #### Pull ou pas ? :
 
-Si Nishino Flower est votre Oshi, oui. 
+Si Nishino Flower est votre Oshi, oui. En tant que parent, c'est aussi un oui.
 
 En Sprint et Mile, elle peut être soit très bonne, soit presque imbattable si vous n’avez pas de stratégie pour la gêner. C’est un bon parent pour ces 2 distances, surtout quand on la complète avec l’unique de Taiki Shuttle. Ces gold skills restent son problème majeur, vu qu’ils peuvent être inutilisables ou moyen. Il y a aussi le fait qu’elle soit assez dure à bien faire sur Trackblazer car il faut aller lui chercher au moins Medium B pour faire la voie Tiara alors qu’elle a de base Medium E. 
 
@@ -167,13 +167,7 @@ _Yaeno Muteki est une Pace Chaser Medium. Elle peut aussi courir en tant que Lat
     - **It’s On !**, la gold version de _Ramp Up_. C’est un gold de vélocité universelle qui s’active en Mid-Race si elle double une uma. Le skill peut se réactiver potentiellement en Long si elle l’active une première fois au début du Mid-Race, puis vers la fin du Mid-Race. C’est un bon skill.
 
     - **Unyielding**, la gold version de _Steadfast_. C'est un gold hybride de vélocité et d’accélération faible pour le Medium. Le skill s’active dans le Final Corner si elle est dans un corner et qu’elle se soit doublée une fois. C’est un skill moyen, car on ne veut pas se faire doubler généralement vers la fin de la course.
-    >L’une de ses évolutions transforme le boost hybride en un boost de Current Speed tout en modifiant un peu les conditions. Le skill s’activera en Late-Race, dans le Final Corner des courses Medium si elle a une uma qu’elle peut overtake.
-
-::: info Importance de spécifié corner dans le Final Corner
-
-Final Corner prend en compte plus loin que le dernier corner, le fait de spécifier que le skill s’active en corner est donc important et c’est pour ça que c’est mentionné.
-
-:::
+    >L’une de ses évolutions transforme le boost hybride en un boost de Current Speed tout en modifiant un peu les conditions. Le skill s’activera en Late-Race, pendant le Final Corner des courses Medium si elle a une uma qu’elle peut overtake.
 
 ::: details Petit spoil d'un élément de la prochaine saison de Cinderella Gray
 
@@ -181,7 +175,7 @@ Final Corner prend en compte plus loin que le dernier corner, le fait de spécif
 
 :::
 
-- Son unique est un boost de vélocité dans les 300 derniers mètres de la course. Il s’active si elle a préemptivement doublé une uma dans le Final Corner et que dans les 300 derniers mètres elle soit dans le top 40%. C’est un unique sympa.
+- Son unique est un boost de vélocité dans les 300 derniers mètres de la course. L'activation requiert qu'elle ait d'abord dépassé une uma dans le Final Corner et que dans les 300 derniers mètres elle soit dans le top 40%. C’est un unique sympa.
 
 #### Pull ou pas ? :
 
@@ -198,31 +192,30 @@ Ce n’est pas une bannière à pull si elle n’est pas votre Oshi.
 
 - La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Special Priority à 3LB.
 
-- Ses rainbows sont assez bons bien que son Friendship Bonus soit faible grâce à son Special Priority élevé, son excellent Training Effectiveness, son Mood Effect et le Speed Bonus. Son cross-trainnig est très bon avec son Training Effectiveness, son Mood Effect, le Speed Bonus et son faible Race Bonus.
+- Ses rainbows sont assez bons, bien que son Friendship Bonus soit faible, grâce à son Special Priority élevé, son excellent Training Effectiveness, son Mood Effect et le Speed Bonus. Son cross-trainnig est très bon avec son Training Effectiveness, son Mood Effect, le Speed Bonus et son faible Race Bonus.
 
-- Elle possède une liste de 5 hints, dont 3 sont excellents. Elle possède Hint Level et Hint Frequency, Ses hints seront très puissants et fréquents.
+- Elle possède une liste de 5 hints, dont 3 sont excellents (Speed Eater / Slipsteram / Playtime's Over !). Elle possède Hint Level et Hint Frequency, Ses hints seront très puissants et fréquents.
 
-- Son gold skill est **Restless**, la gold version de _Moxie_. C’est un gold heal pour les Front Runner qui s’active dans une descente après les 10 premières secondes de course. C’est un heal dont sa puissance va dépendre de la course on veut que les heals s’active en Mid-Race généralement. C’est un skill moyen. Cependant l’évènement est **AGEMASEN**.
+- Son gold skill est **Restless**, la gold version de _Moxie_. C’est un gold heal pour les Front Runner qui s’active dans une descente après les 10 premières secondes de course. C’est un heal dont sa puissance va dépendre de la course on veut que les heals s’active en Mid-Race, ou suffisamment tard en Early-Race. C’est un skill bon. Mais situationnellment inutilisable. Cependant l’évènement est **AGEMASEN**.
 
 **Twin Turbo** :speed: :ssr:
 
 - La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Training Effectiveness à 3LB.
 
-- Ses rainbows sont moyens avec son faible Friendship Bonus et Special Priority. Ce qui ne les rends pas trop faibles sont le Speed Bonus, son bon Training Effectiveness et son excellent Mood Effect. Son cross-training est très bon bien que dépendant du Mood avec son haut Mood Effect combiné avec un bon Training Effectiveness et son faible Race Bonus.
+- Ses rainbows sont moyens avec son faible Friendship Bonus et Special Priority, mais elle a au moins du Speed Bonus, Training Effectiveness et un très grand Mood Effect pour compenser un peu. Son cross-training est très bon bien que dépendant du Mood car son Mood Effect et très haut, combiné à un bon Training Effectiveness. Dommage pour son faible Race Bonus.
 
 - Elle possède une liste de 6 skills, dont 3 bons. Elle possède Hint Level et Hint Frequency. Ses hints seront puissants et fréquents.
 
 - Son gold skill est Taking the Lead, la gold version d’Early Lead. C’est un gold d’accélération pour les Front Runners qui s’active dès le début de la course. C’est un excellent skill, obligatoire pour les Front Runners. Cependant l'évènement est AGEMASEN et les 2 évènements avant peuvent briser la chaîne.
 
-- Il est possible de briser la chaîne manuellement 2 fois pour respectivement 20 énergies et 25 énergies.
-
+- Il est possible de briser la chaîne manuellement 2 fois pour un gain d'énergie.
  
 #### PULL OU PAS
 **Non.**
 
 Ines Fujin Guts SSR n’est pas mauvaise mais n’est pas une carte que l’on veut pull plus que ça. Si vous l’avez à 3LB et que vous l’utilisez beaucoup, cela peut être intéressant mais pas plus que ça.
 
-Twin Turbo Speed SSR ne sert plus à rien. On a Mihono Bourbon Wit SSR pour avoir T**aking the Lead**, en étant tout simplement meilleur dû au fait qu’elle soit une carte Wit et que son **Taking the Lead** ne soit pas **AGEMASEN**. Elle n’est plus utile pour le Hint Farming vu que Silence Suzuka Speed SSR de l’histoire principale est là, qu’elle possède les bons hints que Twin Turbo possède tout en ayant plein d’aurtes qui sont très utiles.
+Twin Turbo Speed SSR ne sert plus à rien. On a Mihono Bourbon Wit SSR pour avoir **Taking the Lead**, en étant tout simplement meilleur dû au fait qu’elle soit une carte Wit et que son **Taking the Lead** ne soit pas **AGEMASEN**. Elle n’est plus utile pour le Hint Farming vu que Silence Suzuka Speed SSR de l’histoire principale est là, qu’elle possède les bons hints que Twin Turbo possède, tout en ayant plein d’aurtes qui sont très utiles.
 
 Ne pullez pas sur cette bannière.
 

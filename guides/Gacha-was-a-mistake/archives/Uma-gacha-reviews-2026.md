@@ -253,16 +253,16 @@ _Sakura Chiyono O est une Pace Chaser pour distance Mile et Medium. Avec un peu 
 
     - **Speed Star**, la gold version de _Prepared to Pass_. C'est un gold speed boost de Pace Chaser, qui s'active à un point random du Final Corner, si elle est top 50%. La puissance de ce skill dépend beaucoup d'où commence le late race par rapport au final corner, ainsi le skill a une fiabilité variable en Mile et en Medium, mais marche toujours normalement en Long. En revanche, sur les courses Mile et certaines courses Medium, le skill a une chance de s'activer avec un timing permettant un carry over, ce qui le rend explosif en cas de succès (en cas d'échec, l'activation est gâchée par l'accélération).
 
-    - Spring Spectacle, la gold version de Spring Runner. C’est un Green gold qui lui donne 60 de stats en Speed et Power. C’est sympa surtout avec des hints de Spring Runner. Quand nous aurons les stats "overcap" (= au-dessus de 1200) sur la version globale, les skills greens auront davantage de valeur, donc ce green gold sera un atout plus intéressant.
+    - **Spring Spectacle**, la gold version de _Spring Runner_. C’est un Green gold qui lui donne 60 de stats en Speed et Power. C’est sympa surtout avec des hints de Spring Runner. Quand nous aurons les stats "overcap" (= au-dessus de 1200) sur la version globale, les skills greens auront davantage de valeur, donc ce green gold sera un atout plus intéressant.
 
-Son skill unique est un boost de vélocité s’activant dans les 300 derniers mètres de la course si elle est dans le top 40% (<= 4ème en CM) et qu’il y a une uma devant elle avec une distance maximale d’1L. L’unique est correct mais pas forcément fiable. Si elle est 2ème et que l’uma devant elle est un poil trop loin, elle ne pourra pas utiliser son unique pour rattraper.
+Son skill unique est un boost de vélocité s’activant dans les 300 derniers mètres de la course si elle est dans le top 40% (<= 4ème en CM) et qu’il y a une uma 1 longueur (ou moins) devant elle. L’unique est correct mais pas forcément fiable. Si elle est 2ème et que l’uma devant elle est un poil trop loin, elle ne pourra pas utiliser son unique pour rattraper.
 
 
 #### Pull ou pas ? :
 
 Si c’est votre Oshi, oui sinon non.
 
-Sakura Chiyono O est une uma moyenne qui ne sort pas particulièrement du lot. Elle sera plus puissante pour les CM Spring, qui au contraire de Symboli Rudolph (Festival) ne sont pas encore arrivés. Mais bien qu’elle soit plus puissante en CM Spring, elle reste moins forte que les autres choix d’uma possible. Cependant, elle sera avantagée pour le prochain scénario qui est MANT, grâce à son A en Mile et Medium et sera donc plus facile à bien faire.
+Sakura Chiyono O est une uma moyenne qui ne sort pas particulièrement du lot. Elle sera plus puissante pour les CM Spring. Mais bien qu’elle soit plus puissante en CM Spring, elle reste moins forte que les autres choix d’uma possible. Cependant, elle sera avantagée pour le prochain scénario qui est MANT, grâce à son A en Mile et Medium et sera donc plus facile à bien faire.
 
 :::
 
@@ -282,7 +282,7 @@ _Mihono Bourbon (Valentine) est une Front Runner (1 Gold) pour le Medium. Avec u
 
     - **Escape Artist**, la gold version de _Fast-paced_. C’est un gold de vélocité pour Front Runner qui s’active à un point random du Mid-Race si elle est dans le top 50% (<= 5ème en CM). C’est un bon gold pour que les Front Runner se positionnent pour la première place.
 
-    - **Concentration**, la gold version de _Focus_. C’est un gold généraliste principalement utilisé que sur les Front Runner qui empêche de Late Start s’il s’active et de faire de meilleur départ. C’est un skill obligatoire pour les Front Runner dû à leur besoin d’être à la 1ère position et que les autres Front Runners auront.
+    - **Concentration**, la gold version de _Focus_. C’est un gold universel, utilisé principalement sur les Front Runner qui empêche de Late Start s’il s’active et de faire de meilleur départ. C’est un skill obligatoire pour les Front Runner dû à leur besoin d’être à la 1ère position. Les autres Front Runners adverses l'auront sans doute.
 
 - Elle possède de nombreux skills utiles pour la faire en Front Runner, surtout le très important Groundwork, lui laissant le slot pris par Smart Falcon :SSR: :power: de libre.
 
@@ -293,16 +293,16 @@ _Mihono Bourbon (Valentine) est une Front Runner (1 Gold) pour le Medium. Avec u
 ⏩**Eishin Flash (Valentine)** :
 
 _Eishin Flash (Valentine) est une Late Surger pour le Medium (2 Gold) et Long. Avec un peu d’inspiration, elle peut courir en tant que Pace Chaser (1 Star) et en tant qu’End Closer (4 Star). Bien qu’elle puisse courir en Long, Eishin Flash (Valentine) est une spécialiste du Medium avec ses 2 Gold. Son unique est un boost de vélocité s’activant dans le Last Straight si elle a doublé au moins 3 umas depuis le début du Final Corner._ 
->L’unique sera buff dans le futur oú elle n’aura qu'à doublé 2 umas
+>L’unique sera buff dans le futur oú elle n’aura à doubler que 2 umas
 
 - Eishin Flash (Valentine) a trois bonus de croissance : 8% en :stamina:, 8% en :power: et 14% en :wit:. C’est un excellent combo de bonus, surtout pour sa distance préférée qu’est le Medium. Ces decks se feront à partir de 2 / 3 supports Speed et 1 ou 2 cartes Wit combler par 1 carte Stamina ou des cartes Power. La variation du deck, à l'arrivée des skills roses sur la global, sera grandement affectée par quelle évolution vous prendrez pour un de ces gold skills.
 
 - Ses gold skills sont :
 
     - **Dominator**, la gold version de _Tether_. C’est un gold skill pour le Medium qui réduit la Current Speed des umas devant elle, s’activant à un point random du Late-Race si elle est dans le bottom 50% (> 5ème en CM). C’est un bon debuff, qui aura toujours une utilité s’il touche.
-    >Ce skill a 2 variations évoluées: **Recipe of Victory** et **Perfect Preparation**. Le premier transforme le debuff en un boost de Current Speed qui s’active de la même manière que Dominator sans être restreint par la position. Le deuxième transforme le debuff en un puissant Heal (Plus fort qu’un Gold Heal) s’activant en Mid-Race. Votre deck changera en fonction de quelle pink skills vous voudriez prendre.
+    >Ce skill a 2 variations évoluées: Le premier transforme le debuff en un boost de Current Speed qui s’active de la même manière que Dominator sans être restreint par la position. Le deuxième transforme le debuff en un puissant Heal (Plus fort qu’un Gold Heal) s’activant en Mid-Race. Votre deck changera en fonction de quelle pink skills vous voudriez prendre.
 
-    - **Flash Forward**, la gold version de _Medium Straightaway_. C’est un gold de vélocité pour le Medium qui s’active dans une ligne droite random. C’est un bon skill, qui devient plus puissant plus les lignes droites sont longue. Son coût peut cependant être élevé si vous n’avez pas de hints sur Medium Straightaway.
+    - **Flash Forward**, la gold version de _Medium Straightaway_. C’est un gold de vélocité pour le Medium qui s’active dans une ligne droite random. C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur Medium Straightaway.
 
 - Son unique est un boost de vélocité s’activant dans le Last Straight si elle a doublé au moins 3 umas depuis le début du Final Corner. C’est un bon unique vu qu’il mélange la durée des uniques types Gold Ship avec la puissance des uniques basiques. C’est un unique correct si vous l'utilisez en tant que parent / grand-parent.
 
@@ -332,11 +332,11 @@ _Mejiro Ardan est une Pace Chaser Medium. Elle peut courir dans les distances Mi
 
     - **Race Planner** est la gold version de _Preferred Position_. C’est un gold recovery pour Pace Chaser qui s’active en Mid-Race en étant top 50%. C’est un très bon heal.
 
-    - **Come What May**, la gold version de _All I’ve Got_. C’est un gold de vélocité pour le Medium, s’activant sur une ligne droite si elle est entre le top 20% et le top 60% (2e <-> 5e en CM) et qu’elle entre en Last Spurt Mode. Sur certaines 2400m Medium, le skill peut créer du carry-over et sur les autres Medium le skill est équivalent à un meilleur **In Body and Mind**. C’est un bon skill.
+    - **Come What May**, la gold version de _All I’ve Got_. C’est un gold de vélocité pour le Medium, s’activant sur une ligne droite si elle est entre le top 20% et le top 60% (2e <-> 5e en CM) et qu’elle entre en Last Spurt Mode. Le skill est équivalent à un meilleur **In Body and Mind**. C’est un bon skill.
 
 - Elle possède un effet qui lui est propre, _Leg of Glass_. Cet effet améliore les récompenses des goals races tant qu’elle n’a pas Practice Poor. Cet effet s’active après avoir participé au Make Debut et se soigne après avoir soit participé au Kikuka Sho ou d’avoir fait au moins 3ème au Tenno Sho (Autumn) (Classic). Leg of Glass ne pourra pas s'activer sur Trackblazer.
 
-- Son unique est un boost de vélocité de Final Straight si elle a une uma jusqu’à 1L derrière elle. Son boost dure un peu moins longtemps que les uniques basiques mais à une puissance similaire à celui de Symboli Rudolph. L’unique va aussi lui aussi consommer des HPs, de la même valeur que le stamina drain de Stamina Siphon. Vous aurez donc besoin d’un peu plus d’HP que les autres umas en général.
+- Son unique est un boost de vélocité de Final Straight si elle a une uma jusqu’à 1L derrière elle. Son boost dure un peu moins longtemps que les uniques basiques mais à une puissance similaire à celui de Symboli Rudolf. L’unique va aussi lui aussi consommer 1% d'HPs, soit l'équivalent de 1 debuff de HP white classique. Vous aurez donc besoin d’un peu plus d’HP que les autres umas en général.
 
 #### Pull ou pas ? :
 
@@ -367,7 +367,7 @@ _Admire Vega est une End Closer pour le Medium. Elle peut courir en Mile et Long
     - **Sturm und Drang**, la gold version de _Masterful Gambit_. C’est un gold de vélocité pour End Closer qui s’active aléatoirement en Late-Race si elle est positionnée 50% à l’arrière du peloton, ou plus loin. C’est identique à une des conditions de **Sleeping Lion** mais en plus simple. Le skill est assez random vu que c’est un speed boost qui s’active en Late-Race. S’il s’active au début du Late-Race, il sera gâché. Ce n’est pas un très bon skill pour l’instant.
     >Le skill sera modifié dans le futur pour qu’il puisse être cohérent et bon. Le boost arrivera dans la première moitié du Last Spurt si Admire Vega est en mécanique de Last Spurt, et garde le reste de ses anciennes conditions.
 
-- Elle a un événement qui peut lui donner _Straightaway Spurt_ mais le choix à un résultat random. Son Secret Event est bon vu qu’il lui donne en fonction de ses victoires contre certaines uma _End Closer Corners_ et potentiellement _End Closer Straightaways_.
+- Elle a un événement qui peut lui donner _Straightaway Spurt_ mais le choix à un résultat random. Son Secret Event est bon vu qu’il lui donne _End Closer Corners_ et potentiellement _End Closer Straightaways_, en fonction de ses victoires contre certaines uma.
 
 - Son unique est un speed boost s’activant dans le Last Straight s’il y a au moins 7 mètres d’écart entre la première place et elle. L’unique gagne en puissance si elle est dans le bottom 20% (≥ 7 en CM). L’unique est correct de base, mais sa version améliorée voudra que le Late-Race finisse en Final Straight ou que la deuxième moitié soit dans le Final Straight pour qu’il puisse être activable.
 
@@ -381,7 +381,7 @@ La version améliorée s’activera généralement en Medium et en Mile, très p
 
 Si c’est votre Oshi, oui sinon non.
 
-Bien qu’Admire Vega puisse courir en Mile et Long assez facilement, sa meilleure distance reste le Medium pour son unique. Ses golds skills sont presque inutiles voir inutiles si elle a suffisamment de d’HP en Medium et que **Sturm und Drung** ne soit pas encore améliorer. C’est une uma qui n’a pas grand-chose pour elle dans son kit et dépend énormément des supports et des évènements d’inspirations pour avoir des skills.
+Bien qu’Admire Vega puisse courir en Mile et Long assez facilement, sa meilleure distance reste le Medium pour son unique. Sa gold recovery est utilisable en cas de besoin de HP, et **Sturm und Drung** est presque inutile avant son buff. C’est une uma qui n’a pas grand-chose pour elle dans son kit et dépend énormément des supports et des évènements d’inspirations pour avoir des skills.
 
 Admire Vega possède un autre défaut pour Trackblazer, elle ne peut pas utiliser sa carte SSR Power ou sa carte SR Guts. Elle ne peut donc pas jouer le deck Guts ou au mieux elle aura une version moins forte et elle ne peut pas recevoir **Daring Strike**, un très bon gold de vélocité pour End Closer, qui pour l’instant est restreint sur sa carte Admire Vega SSR Power. Elle devra attendre Mr C.B. SSR Wit pour obtenir **Daring Strike**.
 
@@ -409,7 +409,7 @@ _Kitasan Black est une Front Runner pour le Long. Elle court aussi très bien en
     - **Blast Forward**, la gold version de _Long Straightaways_. C’est un gold de vélocité pour le Long, s’activant dans une ligne droite random. C’est un bon skill, les skills de ligne droite sont très forts sur les courses Long. Il dure un peu plus longtemps que Beeline Burst mais ne peut pas se réactiver comme ce dernier.
     >L’une des évolutions de ce skill, change son activation pour les courses Medium et transforme le speed boost en un boost de Current Speed. Cela la rend très forte sur certaines courses Medium où son unique est de la version hybride.
 
-- Elle a 2 Secret Event lié à gagner le Triple Crown pour obtenir une bonne quantité de stats mais aussi 2 bons hints, _Keeping the Lead_ et _Prudent Positioning_. Cependant, les Secret Events ne peuvent pas être accompli sur Trackblazer.
+- 2 de ses secret events sont liés aux victoires sur la Triple Crown, et permettent d'obtenir 2 bons hints (et des stats) : Keeping the Lead et Prudent Positioning. Cependant, les Secret Events ne peuvent pas être accompli sur Trackblazer.
 
 - Son unique à 2 variations, il est soit un hybride d’accélération et de vélocité ou un unique de vélocité. La variation que vous aurez dépendra de la course, si le Late-Race commence sur une ligne droite opposée au gradin ou pas.
 
@@ -435,7 +435,7 @@ _Matikanetannhauser est une Late Surger pour le Long, bien qu’elle puisse auss
 
     - **Unruffled**, la gold version de _Calm in a Crowd_. C’est un gold recovery qui s’active en Mid-Race si elle est complètement encerclée. Le skill a besoin qu’il y ait une uma devant, derrière et sur le côté de l’utilisateur. Ce n’est pas un bon skill en CM car il n’y a pas forcément un nombre suffisant d’uma ou elles ne sont pas dans les positions exactes.
 
-    - **Overwhelming Pressure**, la gold version de _Pressure_. C’est un gold de vélocité pour le Long, s’activant en Late-Race si elle double une uma. C’est un mauvais skill. Il sera un peu amélioré dans le futur en gagnant un peu d’accélération mais le skill reste assez mauvais.
+    - **Overwhelming Pressure**, la gold version de _Pressure_. C’est un gold de vélocité pour le Long, s’activant en Late-Race si elle double une uma. C’est un mauvais skill. Il sera un peu amélioré dans le futur en gagnant un peu d’accélération mais le skill reste assez mauvais par lui même. Avec suffisament d'accélération, vous pouvez rendre ce skill bon si vous atteignez votre vitesse maximale rapidement. Il devient un skill rentable pour son coût.
 
 - Son unique est un recovery avec un speed boost qui s’active dans la 2ème moitié de course en Mid-Race si elle est entre le top 3 et le bottom 70% (6e <-> 9e en CM). C’est un bon unique.
 
@@ -460,29 +460,29 @@ Si vous aimez jouer Front Runner en Long, c’est une bonne bannière Ace / Pare
 
 ⏩**Satono Diamond** :
 
-Satono Diamon est une Late Surger Medium et Long. Elle peut courir assez facilement en Mile et dans les stratégies Pace Chaser et End Closer avec 4, 1 et 7 étoiles respectivement. Elle possède un gold recovery de Late Surger et un gold green. L’unique est un speed boost avec 2 variations de puissance de Last Straight.
+Satono Diamon est une Late Surger Medium et Long. Elle peut courir assez facilement en Mile et dans les stratégies Pace Chaser et End Closer avec 4, 1 et 7 étoiles d'inspirations respectivement. Elle possède un gold recovery de Late Surger et un gold green. L’unique est un speed boost avec 2 variations de puissance de Last Straight.
 
 - Satono Diamond possède 2 bonus de croissance : 15% en :stamina: et 15% en :wit:. C’est un bon combo de bonus, surtout sur Trackblazer où on va généralement utiliser des cartes Power pour monter Stamina. Son meilleur deck sera le deck 2 Speed 2 Power et 2 Wit. Elle est bonne pour Trackblazer avec son A en Medium et Long et son C en Mile.
 
 - Ses gold skills sont :
-    - **Lie in Wait**, la gold version de _Be Still_. C’est un gold recovery pour Late Surger qui s’active dans la 2ème moitié de l’Early-Race si elle est dans le bottom 50% (5e <-> 9e en CM). C’est une recovery correct, surtout pour le Long où il y aura moins de gâchis d’HP récupéré.
+    - **Lie in Wait**, la gold version de _Be Still_. C’est un gold recovery pour Late Surger qui s’active dans la 2ème moitié de l’Early-Race si elle est dans le bottom 50% (5e <-> 9e en CM). C’est une recovery correct, surtout pour le Long où il y aura virtuellement pas de gâchis d’HP récupéré.
 
-    - **Right-Handed Demon**, la gold version de _Right Handed_. C’est un gold green s’active sur les courses clockwises et donne une augmentation de 60 Speed et 60 Power.  C’est un très bon skill pour sa simplicité d’usage mais aussi pour le fait que les distances préférées de Satono Diamond sont le Medium mais surtout le Long. La moitié des racetracks pour le Medium Turf sont clockwise et 11/13 des Long Turf sont aussi clockwise.
+    - **Right-Handed Demon**, la gold version de _Right Handed_. C’est un gold green s’active sur les courses sens horaire et donne une augmentation de 60 Speed et 60 Power.  C’est un très bon skill pour sa simplicité d’usage mais aussi pour le fait que les distances préférées de Satono Diamond sont le Medium mais surtout le Long. La moitié des racetracks pour le Medium Turf sont sens horaire et 11/13 des Long Turf sont aussi sens horaire.
 
 ::: tip Meilleur quand les stats sont à au moins à 1200
 
-Dès qu'une stat à atteind 1200, il sera plus dure de la montée quand on aura une limite plus haute. Cela fait que les boosts de stats deviennent très fort dès qu'on atteind 1200 dans la stat de leur boost.
+Plus tard, quand on aura une limite de stats plus haute, alors lorsqu'une stat atteindra 1200 il sera plus difficile de la monter davantage. Cela fait que les boosts de stats des skills greens deviennent plus intéressants au-delà de 1200 dans la stat de leur boost.
 
 :::
 
-- Son unique est un boost de vélocité qui s’active à l’entrée du Last Straight si elle est entre le top 2 et le top 5. La variation de puissance va dépendre de l’écart entre elle et la première place. Jusqu’à 5 mètres d’écart, l’unique gagne en puissance. C’est un bon unique surtout en Long même dans sa variation moins puissante. Le seul cas où l’unique serait mauvais serait si le Late-Race est trop proche du Last Straight.<br>
+- Son unique est un boost de vélocité qui s’active à l’entrée du Final Straight si elle est entre le top 2 et le top 5. La variation de puissance va dépendre de l’écart entre elle et la première place. Jusqu’à 5 mètres d’écart, l’unique gagne en puissance. C’est un bon unique surtout en Long même dans sa variation moins puissante. Le seul cas où l’unique serait mauvais serait si le Late-Race est trop proche du Last Straight.<br>
 C’est un bon unique à inherit pour toutes les stratégies autres que Front Runner en Long. En Medium, l’unique sera bon surtout pour les Pace Chasers qui pourront plus facilement utiliser la variation puissante de l’unique.
 
 #### Pull ou pas ? :
 
 Si Satono Diamond est votre Oshi, oui.
 
-Satono Diamond est plutôt bonne en tant qu’Ace mais aussi un parent / grand-parent intéressant. Elle est facile à faire sur Trackblazer ce qui est bénéfique, surtout pour le Long où beaucoup d’umas sont mauvais en Mile. Elle ne sort pas particulièrement du lot mais reste une bonne uma. Il lui faudra atteindre Symboli Kirs S SSR Stamina pour être vraiment fort en Long en tant que Late Surger.
+Satono Diamond est plutôt bonne en tant qu’Ace mais aussi un parent / grand-parent intéressant. Elle est facile à build sur Trackblazer ce qui est bénéfique, surtout pour une uma Long, car elles sont souvent mauvaises en Mile. Elle ne sort pas particulièrement du lot mais reste une bonne uma. Comme la plupart des Late Surger, il lui faudra attendre Symboli Kirs S SSR Stamina pour être vraiment fort en Long en tant que Late Surger.
 
 Pullez si vous l’aimez bien est le meilleur conseil qu’on peut donner. Si vous ne l'appréciez pas plus que ça, ne pullez pas.
 
@@ -496,7 +496,7 @@ Pullez si vous l’aimez bien est le meilleur conseil qu’on peut donner. Si vo
 
 ⏩**Mejiro Bright** :
 
-_Mejiro Bright est une End Closer pour le Long. Elle peut aussi parfaitement courir en Medium et en tant que Late Surger. Avec un peu d’aspiration, elle peut courir en Mile et en tant que Pace Chaser avec respectivement 4 et 7 étoiles. Elle possède 2 gold de recovery, dont 1 pour le Long. Son unique est un speed boost assez faible mais sa durée est liée à la quantité d’HP qu’elle possède. L’unique à une durée de base entre 5s et 20s, ce qui est impressionnant._
+_Mejiro Bright est une End Closer pour le Long. Elle peut aussi parfaitement courir en Medium et en tant que Late Surger. Avec un peu d’inspiration, elle peut courir en Mile et en tant que Pace Chaser avec respectivement 4 et 7 étoiles. Elle possède 2 gold de recovery, dont 1 pour le Long. Son unique est un speed boost assez faible mais sa durée est liée à la quantité d’HP qu’elle possède. L’unique à une durée de base entre 5s et 20s, ce qui est impressionnant._
 
 - Mejiro Bright possède 3 bonus de croissances : 14% en :stamina:, 8% en :guts: et 8% en :wit:. C’est un excellent combo pour elle, car cela lui permet de mieux monter les 3 stats qui sont liées au HP ou la consommation d’HPs. Elle utilise très bien les deck 2 Speed / 2 Wit / 2 Power ou 1 Stamina et Riko en fonction des parents. Il sera préférable d’avoir des legacy power pour prendre le deck avec Stamina pour bien monter Guts.
 
@@ -510,7 +510,7 @@ _Mejiro Bright est une End Closer pour le Long. Elle peut aussi parfaitement cou
 
 ::: info Duréé maximale
 
-Sur une course de 3 200m, le skill peut avoir une durée de 64s au maximum bien que cela soit dur à atteindre pour l'instant.
+Sur une course de 3 200m, le skill peut avoir une durée de 64s au maximum, bien que cela soit dur à atteindre pour l'instant.
 
 :::
 
@@ -518,7 +518,7 @@ Sur une course de 3 200m, le skill peut avoir une durée de 64s au maximum bien 
 
 Si Mejiro Bright est votre Oshi, oui sinon non.
 
-Mejiro Bright est une bonne uma pour le Long et assez facile à faire sur Trackblazer. Cependant, son kit entre ses gold skills et son unique est un peu bizarre. L’unique veux que ses 2 skills de recovery soit activé avant lui, mais un de ses gold peut rendre l’utilisation de l’autre gold plus compliqué. Ce qui serait optimal est qu’elle fasse son dépassement de la 8ème place à la 7ème place avant qu’**Of Calm Mind** s’active pour pouvoir activer ses 2 gold skills.
+Mejiro Bright est une bonne uma pour le Long et assez facile à faire sur Trackblazer. Cependant, entre ses gold skills et son unique, son kit est un peu bizarre. L’unique veux que ses 2 skills de recovery soient activé avant lui, mais un de ses gold peut rendre l’utilisation de l’autre gold plus compliqué. Ce qui serait optimal est qu’elle fasse son dépassement de la 8ème place à la 7ème place avant qu’**Of Calm Mind** s’active pour pouvoir activer ses 2 gold skills.
 
 Mais il est aussi possible de ne pas prendre Indomitable et de prendre un autre gold recovery, comme **Swinging Maestro**, pour qu’il n’y ait plus de problème d’optimisation.
 
@@ -590,7 +590,7 @@ Je dirais que votre décision de pull va dépendre de si Front Runner sera une d
 
 ::::
 
-## ##41 - Nishino Flower ★★★
+## #41 - Nishino Flower ★★★
 
 ![Image de présentation de la bannière Nishino Flower](/public/assets/Gacha-reviews/2026/041_Uma-Banner.png)
 
@@ -604,23 +604,23 @@ _Nishino Flower est une Pace Chaser pour le Sprint et le Mile. Elle peut aussi c
 
 - Ses gold skills sont :
 
-    - **Beeline Burst**, la gold version de _Straightaway Adept_. C’est un gold vélocité de ligne droite qui peut se relancer sur les courses Long. C’est un bon skill en Medium et très bon en Long, mais pour les 2 distances de Nishino Flower, le skill devient correct. Il coûte bien trop cher pour le Sprint et le Mile.
+    - **Beeline Burst**, la gold version de _Straightaway Adept_. C’est un gold vélocité de ligne droite qui peut s'activer 2 fois sur les courses Long. C’est un bon skill en Medium et très bon en Long, mais pour les 2 distances de Nishino Flower, le skill perd en nécessité. Cela fait qu'il coûte trop cher sur ce type de course où les corners sont plus puissant que les lignes droites.
 
     - **Determined Descent**, la gold version de _Straight Descent_. C’est un gold d’accélération de Pace Chaser qui s’active dans une descente. C’est un skill qui est dépendant de la course pour être utile. 
 
-- 2 de ses Secret Events sont liés à gagner une G1 Medium (Queen Elizabeth II Cup et Takarazuka Kinen). Son dernier Secret Event lui demandera de gagner les 2 Mile Championship quand les Secrets Event seront réactivés.
+- 2 de ses Secret Events sont liés à gagner une G1 Medium (Queen Elizabeth II Cup et Takarazuka Kinen). Son dernier Secret Event lui demandera de gagner les 2 Mile Championship dans les scénarios où les secret event sont actifs.
 
-- Son unique est un boost d’accélération de Final Corner. Il possède une précondition qui est d’être bloqué pendant 2 secondes sur un corner aléatoire en Mid-Race. L’unique a 2 activations possibles. Soit en Late-Race, quand l’uma est dans la seconde moitié du Final Corner si elle est entre le top 3 et le top 40% (≥3 / ≤ 4 en CM). Soit en Late-Race, quand l’uma est en Final Corner et qu’elle n’est pas dans un corner si elle est entre le top 3 et le top 40% (≥3 / ≤ 4 en CM). Final Corner prend en compte plus loin que le dernier corner compté et c’est pour ça qu’il peut l’activer en ligne droite (qui est généralement la Final Straight)
+- Son unique est un boost d’accélération de Final Corner. Il possède une précondition qui est d’être contesté sur le côté pendant 2 secondes sur un corner aléatoire en Mid-Race. L’unique a 2 activations possibles. Soit en Late-Race, quand l’uma est dans la seconde moitié du Final Corner si elle est entre le top 3 et le top 40% (≥3 / ≤ 4 en CM). Soit en Late-Race, quand l’uma n'est pas sur le Final Corner mais sur un straight en late-race (Final Straight) si elle est entre le top 3 et le top 40% (≥3 / ≤ 4 en CM). Final Corner prend en compte plus loin que le dernier corner compté et c’est pour ça qu’il peut l’activer en ligne droite (qui est généralement la Final Straight)
 
 ::: info En tant que Parent
 
-C’est un unique qui est bon en Sprint et Mile, mais mauvais en Medium (peut y avoir des exceptions) et Long. On veut aussi Shooting for Victory !, l’unique de Taiki Shuttle, vu qu’ils se complètent bien. C’est un bon unique à hérité pour les Pace Chaser pour le Sprint et le Mile.
+C’est un unique qui est surpuissant en Sprint et Mile, mais mauvais en Medium (excepté sur Akiten Tokyo 2000m et l'Arc de Tromphe (Longchamp 2400m)) et Long. On veut aussi Shooting for Victory !, l’unique de Taiki Shuttle, vu qu’ils se complètent bien. C’est un bon unique à hérité pour les Pace Chaser pour le Sprint et le Mile.
 
 :::
 
 #### Pull ou pas ? :
 
-Si Nishino Flower est votre Oshi, oui. 
+Si Nishino Flower est votre Oshi, oui. En tant que parent, c'est aussi un oui.
 
 En Sprint et Mile, elle peut être soit très bonne, soit presque imbattable si vous n’avez pas de stratégie pour la gêner. C’est un bon parent pour ces 2 distances, surtout quand on la complète avec l’unique de Taiki Shuttle. Ces gold skills restent son problème majeur, vu qu’ils peuvent être inutilisables ou moyen. Il y a aussi le fait qu’elle soit assez dure à bien faire sur Trackblazer car il faut aller lui chercher au moins Medium B pour faire la voie Tiara alors qu’elle a de base Medium E. 
 
