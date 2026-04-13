@@ -407,7 +407,6 @@ _Kitasan Black est une Front Runner pour le Long. Elle court aussi très bien en
     - **Taking the Lead**, la gold version d’_Early Lead_. C’est un gold d’accélération pour Front Runner. Il s’active dès le début de la course. C’est un très bon skill, les Front Runners ont besoin de beaucoup d’accélération au début de la course pour prendre la première place. Cela lui libère aussi le fait de devoir prendre Mihono Bourbon Wit pour soit prendre une meilleure stats stick ou un autre skill gold.
 
     - **Blast Forward**, la gold version de _Long Straightaways_. C’est un gold de vélocité pour le Long, s’activant dans une ligne droite random. C’est un bon skill, les skills de ligne droite sont très forts sur les courses Long. Il dure un peu plus longtemps que Beeline Burst mais ne peut pas se réactiver comme ce dernier.
-    >L’une des évolutions de ce skill, change son activation pour les courses Medium et transforme le speed boost en un boost de Current Speed. Cela la rend très forte sur certaines courses Medium où son unique est de la version hybride.
 
 - 2 de ses secret events sont liés aux victoires sur la Triple Crown, et permettent d'obtenir 2 bons hints (et des stats) : Keeping the Lead et Prudent Positioning. Cependant, les Secret Events ne peuvent pas être accompli sur Trackblazer.
 
@@ -415,7 +414,7 @@ _Kitasan Black est une Front Runner pour le Long. Elle court aussi très bien en
 
 ::: info Les 2 variations
 
-La version hybride s’active si le Late-Race commence sur une ligne droite opposée au gradin et que Kitasan Black soit dans le top 2 dans le Late-Race. C’est la meilleure version de l’unique s’activant en Long et dans certains Medium.
+La version hybride s’active si le Late-Race commence sur une ligne droite opposée au gradin et que Kitasan Black soit dans le top 2 dans le Late-Race. C’est la meilleure version de l’unique s’activant en Long.
 
 La version vélocité pure, qui est plus faible que les uniques de vélocité classique, s'active dans la 2ème moitié de course, sur le Corner 3 si elle est dans le top 2. Il s’active sur presque le reste des courses. Son utilité va encore dépendre de pas mal des courses et où se trouve le corner 3.
 C’est un unique à inherit si vous faites d’autres Front Runner en Long.
@@ -446,7 +445,7 @@ Si ce sont vos Oshi, oui.
 
 Matikanetannhauser est une uma 2 Star, vous n’aurez donc pas son vrai unique ou son costume de course débloqué de base. C’est une bonne utilisation des statues des déesses. Ce n’est pas une bonne uma, donc si vous n’êtes pas intéressé par Kitasan Black, ne pullez pas sur cette bannière.
 
-Kitasan Black est très forte en Long mais aussi un parent obligatoire pour les Front Runner en Long (et certain Medium). Elle permet de rendre les Front Runner fiables sur les courses Long, et ces courses ne seront plus juste des End Closers fest. Le fait qu’elle ne puisse pas utiliser sa propre carte n’est pas forcément un problème pour le scénario qui arrive vu qu’elle n’était de base pas la meilleure carte pour. Cela sera gênant quand on arrivera au 4ème scénario où Kitasan SSR Speed redeviendra la meilleure carte Speed, mais on aura reçu de très bonnes cartes dans ce temps (Maruzensky SSR Speed et Agnes Tachyon SSR Speed).
+Kitasan Black est très forte en Long mais aussi un parent obligatoire pour les Front Runner en Long. Elle permet de rendre les Front Runner fiables sur les courses Long, et ces courses ne seront plus juste des End Closers fest. Le fait qu’elle ne puisse pas utiliser sa propre carte n’est pas forcément un problème pour le scénario qui arrive vu qu’elle n’était de base pas la meilleure carte pour. Cela sera gênant quand on arrivera au 4ème scénario où Kitasan SSR Speed redeviendra la meilleure carte Speed, mais on aura reçu de très bonnes cartes dans ce temps (Maruzensky SSR Speed et Agnes Tachyon SSR Speed).
 
 Si vous aimez jouer Front Runner en Long, c’est une bonne bannière Ace / Parent.
 
