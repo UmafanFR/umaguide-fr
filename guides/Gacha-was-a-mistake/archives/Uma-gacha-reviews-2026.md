@@ -8,9 +8,9 @@ order: 4
 
 # Review des anciennes bannières gacha umamusume ★★★
 
-::: tip Auteur
+::: tip Auteurs
 
-Sauf mention contraire, les reviews sont écrites par **Kamuisaki**, n'hésitez pas à faire des retours 🌟
+Sauf mention contraire, les reviews sont écrites par **Kamuisaki** et vérifié par **Yamakyu**, n'hésitez pas à faire des retours 🌟
 
 :::
 
@@ -468,7 +468,7 @@ Satono Diamon est une Late Surger Medium et Long. Elle peut courir assez facilem
 
     - **Right-Handed Demon**, la gold version de _Right Handed_. C’est un gold green s’active sur les courses sens horaire et donne une augmentation de 60 Speed et 60 Power.  C’est un très bon skill pour sa simplicité d’usage mais aussi pour le fait que les distances préférées de Satono Diamond sont le Medium mais surtout le Long. La moitié des racetracks pour le Medium Turf sont sens horaire et 11/13 des Long Turf sont aussi sens horaire.
 
-::: tip Meilleur quand les stats sont à au moins à 1200
+::: tip Meilleur quand les stats seront à au moins à 1200
 
 Plus tard, quand on aura une limite de stats plus haute, alors lorsqu'une stat atteindra 1200 il sera plus difficile de la monter davantage. Cela fait que les boosts de stats des skills greens deviennent plus intéressants au-delà de 1200 dans la stat de leur boost.
 

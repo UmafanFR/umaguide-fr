@@ -8,9 +8,9 @@ order: 2
 
 # Review des anciennes bannières gacha cartes support
 
-::: tip Auteur
+::: tip Auteurs
 
-Sauf mention contraire, les reviews sont écrites par **Kamuisaki**, n'hésitez pas à nous faire des retours 🌟
+Sauf mention contraire, les reviews sont écrites par **Kamuisaki** et vérifié par **Yamakyu**, n'hésitez pas à nous faire des retours 🌟
 
 :::
 
@@ -428,7 +428,7 @@ Si vous n’avez pas une des top tiers SSR Wit, c’est une bonne bannière à p
 
 - Le skill gold est **Firm Course Menace**, la gold version de _Firm Conditions_. C’est un gold green qui s’active sur les courses de condition Firm et donne une augmentation de 60 Speed et 60 Power. C’est un très bon skill qui est facile à utiliser comparé à d’autres gold green. Ce skill peut être l’une des raisons de l'utiliser à la place de Matikanefukukitaru SSR Speed pour Trackblazer.
 
-::: tip Meilleur quand les stats sont à au moins à 1200
+::: tip Meilleur quand les stats seront à au moins à 1200
 
 Plus tard, quand on aura une limite de stats plus haute, alors lorsqu'une stat atteindra 1200 il sera plus difficile de la monter davantage. Cela fait que les boosts de stats des skills greens deviennent plus intéressants au-delà de 1200 dans la stat de leur boost.
 
@@ -618,7 +618,7 @@ Ne pullez pas sur cette bannière, au mieux utilisez- les en borrows si vous en 
 
 - Elle propose une liste de 5 hints, dont 4 pour les Pace Chasers. Elle possède Hint Level et Hints Frequency, bien que ce dernier soit faible. Ses hints seront sympas.
 
-- Son gold skill est **Neck and Neck**, la gold version de _Head-On_. C’est un gold d’accélération de Pace Chaser qui s’active dans la première partie du Late-Race si elle est dans le top 50% (≤5 en CM). Ce n’est pas un skill fiable mais intéressant avec le manque de skills d’accélération que les Pace Chasers peuvent bien utiliser.
+- Son gold skill est **Neck and Neck**, la gold version de _Head-On_. C’est un gold d’accélération de Pace Chaser qui s’active dans la première partie du Late-Race si la uma est dans le top 50% (≤5 en CM). Ce n’est pas un skill fiable mais intéressant avec le manque de skills d’accélération que les Pace Chasers peuvent bien utiliser.
 
 
 ⏩ **Sweep Tosho** :wit: :ssr:
@@ -629,13 +629,13 @@ Ne pullez pas sur cette bannière, au mieux utilisez- les en borrows si vous en 
 
 - Elle propose une liste de 7 skills. Tout comme ses autres versions, ses hints restent faibles.
 
-- Son dernier Chain Event nous permet de choisir _Subdued End Closers_ ou de choisir _End Closers Straightaway_.
+- Son dernier Chain Event nous permet de choisir entre _Subdued End Closers_ ou _End Closers Straightaway_.
 
 #### PULL OU PAS
 
 Non, ce n’est pas une bonne bannière. 
 
-Il n’y a pas vraiment grand-chose à dire, Daiwa Scarlet SSR Power est mauvaise, surtout quand on la compare avec d’autres cartes Power, même avec les SR. Sweep Tosho SR Wit est moins forte que les autres cartes SR Wit  qu’elle serait en compétition, donc elle n’est pas un bon pull non plus.
+Il n’y a pas vraiment grand-chose à dire, Daiwa Scarlet SSR Power est mauvaise, surtout quand on la compare avec d’autres cartes Power, même avec les SR. Sweep Tosho SR Wit est moins forte que les autres cartes SR Wit, donc elle n’est pas un bon pull non plus.
 
 Ne pullez pas sur cette bannière.
 

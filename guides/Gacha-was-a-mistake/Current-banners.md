@@ -33,9 +33,9 @@ _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 Sur cette page nous tenterons d'évaluer la qualité des bannières gacha actuelles ; vous y trouverez une review des **bannières umamusume** et **bannières cartes support**. Le but est de vous aider à faire des pulls pertinents, et à **maximiser la valeur ajoutée des carats que vous dépensez !**
 
 
-::: warning Auteur
+::: warning Auteurs
 
-Sauf mention contraire, les reviews sont écrites **Kamuisaki**, n'hésitez pas à nous faire des retours 🌟
+Sauf mention contraire, les reviews sont écrites **Kamuisaki** et vérifié par **Yamakyu**, n'hésitez pas à nous faire des retours 🌟
 
 Bien que nous fassions de notre mieux pour vous proposer des conseils pertinents, **nous avons aussi des BIAIS, et nous faisons des erreurs**. N'hésitez pas à double-check ces recommandations auprès d'autres vétérans ; des tas de gens font des recommandations de pull, surtout dans la commu anglophone.
 
@@ -129,7 +129,7 @@ Si vous ne comptez pas la jouer en Ace, il sera mieux de la borrow pour l’util
 
 - Elle propose une liste de 5 hints, dont 4 pour les Pace Chasers. Elle possède Hint Level et Hints Frequency, bien que ce dernier soit faible. Ses hints seront sympas.
 
-- Son gold skill est **Neck and Neck**, la gold version de _Head-On_. C’est un gold d’accélération de Pace Chaser qui s’active dans la première partie du Late-Race si elle est dans le top 50% (≤5 en CM). Ce n’est pas un skill fiable mais intéressant avec le manque de skills d’accélération que les Pace Chasers peuvent bien utiliser.
+- Son gold skill est **Neck and Neck**, la gold version de _Head-On_. C’est un gold d’accélération de Pace Chaser qui s’active dans la première partie du Late-Race si la uma est dans le top 50% (≤5 en CM). Ce n’est pas un skill fiable mais intéressant avec le manque de skills d’accélération que les Pace Chasers peuvent bien utiliser.
 
 
 ⏩ **Sweep Tosho** :wit: :ssr:
@@ -140,13 +140,13 @@ Si vous ne comptez pas la jouer en Ace, il sera mieux de la borrow pour l’util
 
 - Elle propose une liste de 7 skills. Tout comme ses autres versions, ses hints restent faibles.
 
-- Son dernier Chain Event nous permet de choisir _Subdued End Closers_ ou de choisir _End Closers Straightaway_.
+- Son dernier Chain Event nous permet de choisir entre _Subdued End Closers_ ou _End Closers Straightaway_.
 
 #### PULL OU PAS
 
 Non, ce n’est pas une bonne bannière. 
 
-Il n’y a pas vraiment grand-chose à dire, Daiwa Scarlet SSR Power est mauvaise, surtout quand on la compare avec d’autres cartes Power, même avec les SR. Sweep Tosho SR Wit est moins forte que les autres cartes SR Wit  qu’elle serait en compétition, donc elle n’est pas un bon pull non plus.
+Il n’y a pas vraiment grand-chose à dire, Daiwa Scarlet SSR Power est mauvaise, surtout quand on la compare avec d’autres cartes Power, même avec les SR. Sweep Tosho SR Wit est moins forte que les autres cartes SR Wit, donc elle n’est pas un bon pull non plus.
 
 Ne pullez pas sur cette bannière.
 
