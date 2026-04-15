@@ -613,7 +613,7 @@ _Nishino Flower est une Pace Chaser pour le Sprint et le Mile. Elle peut aussi c
 
 ::: info En tant que Parent
 
-C’est un unique qui est surpuissant en Sprint et Mile, mais mauvais en Medium (excepté sur Akiten Tokyo 2000m et l'Arc de Tromphe (Longchamp 2400m)) et Long. On veut aussi Shooting for Victory !, l’unique de Taiki Shuttle, vu qu’ils se complètent bien. C’est un bon unique à hérité pour les Pace Chaser pour le Sprint et le Mile.
+C’est un unique qui est surpuissant en Sprint et Mile, mais mauvais en Medium (excepté sur Akiten Tokyo 2000m et l'Arc de Triomphe (Longchamp 2400m)) et Long. On veut aussi Shooting for Victory !, l’unique de Taiki Shuttle, vu qu’ils se complètent bien. C’est un bon unique à hérité pour les Pace Chaser pour le Sprint et le Mile.
 
 :::
 

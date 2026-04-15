@@ -97,7 +97,7 @@ _Nishino Flower est une Pace Chaser pour le Sprint et le Mile. Elle peut aussi c
 
 ::: info En tant que Parent
 
-C’est un unique qui est surpuissant en Sprint et Mile, mais mauvais en Medium (excepté sur Akiten Tokyo 2000m et l'Arc de Tromphe (Longchamp 2400m)) et Long. On veut aussi Shooting for Victory !, l’unique de Taiki Shuttle, vu qu’ils se complètent bien. C’est un bon unique à hérité pour les Pace Chaser pour le Sprint et le Mile.
+C’est un unique qui est surpuissant en Sprint et Mile, mais mauvais en Medium (excepté sur Akiten Tokyo 2000m et l'Arc de Triomphe (Longchamp 2400m)) et Long. On veut aussi Shooting for Victory !, l’unique de Taiki Shuttle, vu qu’ils se complètent bien. C’est un bon unique à hérité pour les Pace Chaser pour le Sprint et le Mile.
 
 :::
 
@@ -215,7 +215,7 @@ Ce n’est pas une bannière à pull si elle n’est pas votre Oshi.
 
 Ines Fujin Guts SSR n’est pas mauvaise mais n’est pas une carte que l’on veut pull plus que ça. Si vous l’avez à 3LB et que vous l’utilisez beaucoup, cela peut être intéressant mais pas plus que ça.
 
-Twin Turbo Speed SSR ne sert plus à rien. On a Mihono Bourbon Wit SSR pour avoir **Taking the Lead**, en étant tout simplement meilleur dû au fait qu’elle soit une carte Wit et que son **Taking the Lead** ne soit pas **AGEMASEN**. Elle n’est plus utile pour le Hint Farming vu que Silence Suzuka Speed SSR de l’histoire principale est là, qu’elle possède les bons hints que Twin Turbo possède, tout en ayant plein d’aurtes qui sont très utiles.
+Twin Turbo Speed SSR ne sert plus à rien. On a Mihono Bourbon Wit SSR pour avoir **Taking the Lead**, en étant tout simplement meilleur dû au fait qu’elle soit une carte Wit et que son **Taking the Lead** ne soit pas **AGEMASEN**. Elle n’est plus utile pour le Hint Farming vu que Silence Suzuka Speed SSR de l’histoire principale est là, qu’elle possède les bons hints que Twin Turbo possède, tout en ayant plein d’autres qui sont très utiles.
 
 Ne pullez pas sur cette bannière.
 
