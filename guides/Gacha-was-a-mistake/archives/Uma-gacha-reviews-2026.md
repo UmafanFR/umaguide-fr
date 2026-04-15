@@ -609,7 +609,7 @@ _Nishino Flower est une Pace Chaser pour le Sprint et le Mile. Elle peut aussi c
 
 - 2 de ses Secret Events sont liés à gagner une G1 Medium (Queen Elizabeth II Cup et Takarazuka Kinen). Son dernier Secret Event lui demandera de gagner les 2 Mile Championship dans les scénarios où les secret event sont actifs.
 
-- Son unique est un boost d’accélération de Final Corner. Il possède une précondition qui est d’être contesté sur le côté pendant 2 secondes sur un corner aléatoire en Mid-Race. L'unique s'active en Late-Race sur la deuxième moitié du Final Corner si elle est entre le top 3 et le top 40% (≥3 / ≤ 4 en CM). Final Corner prend en compte plus loin que le dernier corner compté et c’est pour ça que pour le Sprint, son unique peut s’activer en Final Straight.
+- Son unique est un boost d’accélération de Final Corner. Il possède une précondition qui est d’être contesté sur le côté pendant 2 secondes sur un corner aléatoire en Mid-Race. L'unique s'active en Late-Race sur la deuxième moitié du Final Corner (et au-delà) si elle est entre le top 3 et le top 40% (≥3 / ≤ 4 en CM).
 
 ::: info En tant que Parent
 
