@@ -8,9 +8,9 @@ order: 2
 
 # Review des anciennes bannières gacha cartes support
 
-::: tip Auteur
+::: tip Auteurs
 
-Sauf mention contraire, les reviews sont écrites par **Kamuisaki**, n'hésitez pas à nous faire des retours 🌟
+Sauf mention contraire, les reviews sont écrites par **Kamuisaki** et vérifié par **Yamakyu**, n'hésitez pas à nous faire des retours 🌟
 
 :::
 
@@ -224,9 +224,9 @@ Pour pull sur cette bannière, comment est votre roster à l’instant T est tr�
 
 ::::
 
-## #32 - Sasami Anshinzawa SSR Pal & Tamamo Cross SR Guts
+## #32 - Sasami Anshinzawa Pal SSR & Tamamo Cross Guts SR
 
-![Image de présentation de la bannière Sasami Anshinzawa SSR Pal & Tamamo Cross SR Guts](/public/assets/Gacha-reviews/2026/032_Card-Banner.png)
+![Image de présentation de la bannière Sasami Anshinzawa Pal SSR & Tamamo Cross Guts SR](/public/assets/Gacha-reviews/2026/032_Card-Banner.png)
 
 ::: details REVIEW
 
@@ -257,5 +257,386 @@ Pour pull sur cette bannière, comment est votre roster à l’instant T est tr�
  
 #### Pull ou pas ? :
 Non, la bannière est encore un plus gros bait que la bannière pour les uma. Tamamo Cross SR Guts est correct mais Sasami Anshinzawa SSR Pal est une mauvaise carte. Ne vous faites pas avoir par le fait que vous pouvez techniquement farm Fast Learner, la carte n’en vaut pas la peine et repose beaucoup trop sur le gamble et l’aléatoire. Elle va juste détruire vos runs.
+
+:::
+
+## #33 - Tazuna Hayakawa Pal SSR et Riko Kashimoto Pal SSR (rerun)
+
+![Image de présentation de la bannière Tazuna Hayakawa Pal SSR et Riko Kashimoto Pal SSR](/public/assets/Gacha-reviews/2026/033_Card-Banner.png)
+
+::: details REVIEW
+
+⏩ **Riko Kashimoto et Tazuna Hayakawa** :friends: :SSR:
+
+[Vous pouvez retrouver la review de Riko Kashimoto SSR Pal ici. Il y a aussi un commentaire sur Tazuna Hayakawa SSR Pal](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_19-rice-shower-power-ssr-riko-kashimoto-pal-ssr)
+ 
+#### Pull ou pas ? :
+Non, ce n’est pas une bonne bannière. Tazuna n’est plus vraiment utilisé à part pour les deck à 2 Pals et bien que Riko soit bonne pour Unity, ce rerun est bien trop tard. On est bientôt au prochain scénario et bien que Riko SSR MLB soit correct, on va préférer d’autres cartes bien plus intéressantes. Ne pullez pas sur cette bannière.
+
+:::
+
+## #34 - Sakura Bakushin O Guts SSR & Nishino Flower Wit SSR
+
+![Image de présentation de la bannière Sakura Bakushin O Guts SSR & Nishino Flower Wit SSR](/public/assets/Gacha-reviews/2026/034_Card-Banner.png)
+
+::: details REVIEW
+
+⏩ **Sakura Bakushin O** :guts: :SSR:
+
+- Sakura Bakushin O SSR Guts est relativement frontloaded. A 1LB, elle débloque Guts Bonus puis Initial Guts à 3LB.
+
+- Son Unique Effect est spécial. Quand elle a 80 de bond gauge (Orange) et que la carte se trouve dans un training autre que Guts, elle obtient un très bon Training Effectiveness. Avec ceci, elle ne possède pas de Special Priority.
+
+- Son cross-training est excellent avec son Unique Effect et son Mood Effect (meilleure cross training que Biko Pegasus SSR Speed) et ses rainbows sont aussi plutôt fort avec un haut Friendship Bonus à MLB (Il est déjà bon dès LB0). La carte possède aussi un bon Race Bonus
+
+- Elle propose une liste de 8 hints❗généralement pour le Sprint. Elle possède aussi un très bon Hints Level et Hint Frequency, ses hints seront donc puissants et fréquents.
+
+- Le skill gold est **In High Spirit**, la gold version de _Light as a Feather_. C’est un gold de vélocité pour le Sprint qui s’active dans la deuxième partie du Mid-Race si l’uma est dans le top 50% (<= 5ème en CM). C’est un bon skill qui peut créer du carry-over. Ce Gold Skill est cependant **Agemasen**.
+
+- Son premier event nous donne _Groundwork_ si on le souhaite.
+
+⏩ **Nishino Flower** :wit: :SSR:
+
+- Nishino Flower SSR Wit est frontloaded. A 1LB, elle débloque Speed Bonus puis Initial Wit à 3LB.
+
+- Son Unique Effect nous donne 3 Wit Bonus quand sa gauge est pleine.
+
+- Ses rainbows sont très bons, avec un bon Friendship Bonus, son Unique Effect, le Speed Bonus et un Special Priority correct. Son cross training est cependant médiocre avec un faible Training Effectiveness et elle ne possède pas Race Bonus.
+
+- Elle propose une liste de 5 hints❗très utiles. Elle possède Hint Level et Hint Frequency bien que les 2 soient très faibles. Ses hints seront sympa mais sa version SSR Speed et SR Power sont meilleures pour le hint farming.
+
+- Le skill gold est **Determined Descent**, la gold version de _Straight Descent_. C’est un gold d’accélération pour les Pace Chasers qui s’activent dans une descente aléatoire. C’est un skill difficile à utiliser car il dépend énormément de la course. Ce n’est pas un bon skill en général.
+
+- Un de ses randoms event peut nous donner Charming et elle peut casser sa chaîne au 2ème Chain Event si vous ne voulez pas de Determined Descent et de 20 énergies
+
+
+ 
+#### Pull ou pas ? :
+
+Non,
+
+Sakura Bakushin O SSR Guts est un peu bizarre, elle est techniquement bonne avec un bon cross-training et des bons rainbows quand elle tombe dans son training. Cependant, elle ne monte pas tant que ça Guts vu qu’elle n’aura pas Training Effectiveness dessus. Pour son cross-training, le fait que sa seule stat bonus est Guts est embêtant, on aurait préféré un Speed et / ou Power. Elle est très bonne pour le Hint Farming. Elle a un fort potentiel de highroll mais elle n’améliore pas la base de vos runs comme Matikanefukukitaru SSR Speed. Après elle est bonne dès LB0 et elle a un bon Gold skill.
+
+Nishino Flower SSR Wit est plus simple. Le fait que ses Wit Bonus soient bloqués derrière sa full gauge est un peu dérangeant. Son cross-training est quasi inexistant mais ses rainbows sont bons. Son Gold skill n’est pas très bon mais son Hints Farming est sympa, surtout si vous la prenez pour faire une Ace. Le fait qu’elle n’aie pas de Race Bonus la rendra inutilisable pour le prochain scénario. Au contraire de la Bakushin où LB 0 est suffisant, c’est obligatoire de l’avoir à 1LB pour Speed Bonus.
+
+Nishino Flower SSR Wit ne sort pas à un bon moment et n’est donc pas très forte, surtout que sa version SR Power sera plus utile avec son haut Race Bonus. Sakura Bakushin O SSR Guts ne sera presque pas utilisé car la meilleure carte Guts pour MANT / Trackblazer, Admire Vega SR Guts, sortira en même temps que le scénario. Et elle est moins bien que la Haru Urara SSR Guts gratuite et certaines autres cartes Guts qui ont Speed ou Power Bonus.
+
+Ne pullez pas sur cette bannière, et si vous le faites, arrêtez-vous à LB0 Sakura Bakushin O SSR Guts.
+
+
+:::
+
+## #35 - Agnes Digital Power SSR & Ines Fujin Wit SR
+
+![Image de présentation de la bannière Agnes Digital Power SSR & Ines Fujin Wit SR](/public/assets/Gacha-reviews/2026/035_Card-Banner.png)
+
+::: details REVIEW
+
+⏩ **Agnes Digital** :power: :SSR:
+
+- Agnes Difital SSR Power est équilibré. A 1LB, elle débloque Stamina Bonus puis Mood Effect à 3LB.
+
+- Son Unique Effect est spécial. S’il y a au moins 5 types de cartes différentes dans votre deck, elle obtient un très bon Training Effectiveness. Cependant ce n’est pas envisageable comme deck pour l’instant. Dans de futurs scénarios, où cela sera la norme de prendre au moins 5 types différents de cartes, l’unique effect serait bien, mais elle sera complètement powercreep avant qu’elle puisse devenir utile.
+
+- Ses rainbows sont bons avec un Frienship Bonus correct, Stamina Bonus et Power Bonus et un peu de Special Priority. Son cross-training est correct avec un peu de Mood Effect et les 2 stats bonus. Son Race Bonus est faible.
+
+- Elle propose une liste de 6 hints❗ généralement bons, dont Uma Stan. Elle possède aussi un bon Hint Level et Hint Frequency, ses hints sont puissants et fréquents. C’est une bonne carte pour le hint farming.
+
+- Le skill gold est **Lead the Charge !** , la gold version de _Forward, March !_ C’est un gold de mouvement possédant de l'accélération qui s’active à un point aléatoire du Late-Race des courses Dirt. C’est un bon skill d’accélération pour les courses Dirt.
+
+- Son dernier Chain Event peut soit lui donner **Lead the Charge !** ou _Uma Stan_ en fonction de votre choix.
+
+⏩ **Ines Fujin** :wit: :SR:
+
+- Ignes Fujin SR Wit est relativement backloaded. A 1LB, elle débloque Mood Effect puis Wit Bonus à MLB.
+
+- Ses rainbows sont bons avec un Friendship Bonus correct, son Wit Bouns et son bon Special Priority. Son cross training est faible avec un peu de Mood Effect et un faible Race Bonus.
+
+- Elle possède une liste de 5 hints❗ assez bons. Elle possède aussi un bon Hint Level et Hint Frequency, ses hints sont puissants et fréquents. C’est une bonne carte pour le hint farming.
+
+- Son dernier Chain Event nous donne soit _Medium Straightaway_ et _Sympathy_ ou _Standard Distance_ et _Final Push_.
+ 
+#### Pull ou pas ? :
+
+Non.
+
+Ignes Fujin SR Wit n’est pas très bonne comparé aux autres SR Wits. Agnes Digital SSR Power est rendue inutile à cause de son Unique Effect. La seule raison que l’on voudrait au moins l'avoir LB0 serait pour le hint farming ou son Gold skill.
+
+Ne pullez pas sur cette bannière, on va avoir 2 bonnes bannières juste après.
+
+:::
+
+## #36 - Fine Motion Wit SSR & Kawakimi Princess Speed SSR (rerun)
+
+![Image de présentation de la bannière Fine Motion Wit SSR & Kawakimi Princess Speed SSR](/public/assets/Gacha-reviews/2026/036_Card-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Fine Motion** :wit: :SSR:
+
+- Fine Motion Wit SSR est équilibré. A 1LB, elle débloque Wit Bonus puis Mood Effect à 3LB. Elle possède Friendship Bonus dans son Unique Effect, il sera donc plus élevé que ce que la carte montre
+
+- Ses rainbows sont très bons avec un bon Frienship Bonus, Wit Bonus, un Special Priority correct, son excellent Training Effectiveness et son Mood Effect. Son cross-training est excellent avec du Mood Effect et un excellent Training Effectiveness. Son Race Bonus est aussi bon.
+
+::: tip Frienship Bonus
+
+Elle n'a pas 35 de Friendship Bonus, mais bien 37,5. Avoir Frienship Bonus (mais aussi Special Priority) dans l'Unique Effect est toujours très sympa.
+
+:::
+
+- Elle propose une liste de 5 hints❗ assez bons. Elle ne possède pas Hint Level et Hint Frequency, ses hints sont faibles
+
+- Le skill gold est **Speed Star**, la gold version de _Prepared to Pass_. C’est un gold de vélocité pour Pace Chaser qui s’active aléatoirement en Final Corner si elle est dans le top 50%. C’est un skill correct pour le Medium ou le Long. Il est quitte ou double en Sprint et Mile car il peut soit créer du carry-over, soit s'activer dans la phase d'accéléraion. Cependant l'évènement est **AGEMASEN**.
+
+⏩ **Kawakami Princess** :speed: :SSR:
+
+- Kawakami Princess est assez frontloaded. a 1LB, elle débloque Power Bonus puis Initial Friendship Gauge à 3LB
+
+- Ses rainbows sont bons avec un bon Friendship Bonus, son combo de Speed Bonus et Powwer Bonus et son Special Priority correct. Son cross training est assez bon avec un peu de Mood Effect, du Race Bonus et son combo de stat bonus.
+
+- Elle possède une liste de 4 hints❗mais tous mauvais, et dont le seul bien (Standard Distance) est trouvable assez facilement. Elle ne possède pas Hint Level et Hint Frequency, ses hints sont faibles.
+
+- Le skill gold est Center Stage, la gold version de Prudent Positioning. C'est un gold de mouvement d'Early Race. C'est un skill intéressant uniquement pour les Front Runners et seulement si vous pouvez aussi prendre Dodging Danger. Mais on va préférer prendre la version white pour la mécanique, donc c'est un gold plutôt mauvais pour une carte.
+ 
+#### Pull ou pas ? :
+
+C’est une bonne bannière grâce à Fine Motion. 
+
+Fine Motion SSR Wit est très forte, c’est pour l’instant la meilleure carte Wit. Même quand il y aura une meilleure carte Wit à la fin de l’année (Mejiro Ramonu), elle sera toujours utilisée et est donc toujours un bon support à avoir. Kawakami Princess SSR Speed est une carte Speed correct. Mais elle ne sera pas utilisée sur les prochains scénarios vus qu’on a soit déjà de meilleures cartes (Kitasan Black SSR Speed et Matikanefukukitaru SSR Speed) ou on en aura de meilleures cartes qu’elle (Narita Top Road SSR Speed et Maruzensky SSR Speed).
+
+Si vous pullez pour cette bannière, c’est pour Fine Motion SSR Wit. Il est possible d’attendre une bannière dans environ 6 mois où elle revient accompagnée avec Maruzensky SSR Speed, ce qui en fait une excellente bannière. Cette bannière est bonne si votre Fine Motion SSR Wit est déjà à un haut niveau de Limit Break (LB2 et LB3) pour finir de la MLB.
+ 
+Si vous n’avez pas une des top tiers SSR Wit, c’est une bonne bannière à pull. Si vous avez une des top tiers, surtout Nice Natura SSR Wit pour Trackblazer, vous pouvez skip pour la prochaine bannière si vous comptez repousser aussi Maruzensky SSR Speed.
+
+::::
+
+## #37 - Narita Top Road Speed SSR, Sakura Bakushin O Power SR, Admire Vega Guts SR & Mejiro Ryan Stamina SR
+
+![Image de présentation de la bannière Narita Top Road Speed SSR, Sakura Bakushin O Power SR, Admire Vega Guts SR & Mejiro Ryan Stamina SR](/public/assets/Gacha-reviews/2026/037_Card-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Narita Top Road** :speed: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Power Bonus puis Race Bonus et Fans Bonus à 3LB. C’est important pour elle d’atteindre le maximum de son Race Bonus et c’est pour ça qu’elle est backloaded.
+
+- Son Unique Effect est spécial. Tous les 10 000 fans, elle gagne 1 de Training Effectiveness et va jusqu’à 200 000 fans et donc 20 de Training Effectiveness. C’est grâce et à cause de cet unique effect que Narita Top Road SSR Speed est très forte sur Trackblazer mais seulement sur ce scénario.
+
+- Ses rainbows sont très bons avec un bon Friendship Bonus, le duo de Speed Bonus et Power Bonus et un Special Priority correct. Son cross-training est aussi excellent grâce à son Unique Effect, le duo de Stat Bonus et un bon Race Bonus.
+
+- Elle propose une liste de 7 hints de skills correct. Elle a aussi Hint Level et Hint Frequency, ses hints seront bons et assez fréquents.
+
+- Le skill gold est **Firm Course Menace**, la gold version de _Firm Conditions_. C’est un gold green qui s’active sur les courses de condition Firm et donne une augmentation de 60 Speed et 60 Power. C’est un très bon skill qui est facile à utiliser comparé à d’autres gold green. Ce skill peut être l’une des raisons de l'utiliser à la place de Matikanefukukitaru SSR Speed pour Trackblazer.
+
+::: tip Meilleur quand les stats seront à au moins à 1200
+
+Plus tard, quand on aura une limite de stats plus haute, alors lorsqu'une stat atteindra 1200 il sera plus difficile de la monter davantage. Cela fait que les boosts de stats des skills greens deviennent plus intéressants au-delà de 1200 dans la stat de leur boost.
+
+:::
+
+- Ses Chain Events sont cependant énergivores, prenant un total de 30 énergies, mais ils donnent aussi une bonne quantité de stats.
+
+⏩ **Sakura Bakushin O** :power: :SR:
+
+- La carte est backloaded. A 1LB, elle débloque Initial Friendship Gauge puis Power Bonus à MLB. Elle possède Friendship Bonus dans son Unique Effect, il sera donc plus haut que ce que la carte montre.
+
+- Ses rainbows sont bons avec un bon Friendship Bonus (32 et non 30), Power Bonus et un bon Special Priority. Son cross-training est correct avec un bon Race Bonus et un faible Training Effectiveness.
+
+- Elle propose une liste de 8 hints généralement pour le Sprint.
+
+- Son dernier Chain Event donne _Tail Held High_, mais les événements sont énergivores.
+
+⏩ **Admire Vega** :guts: :SR:
+
+- La carte est backloaded. A 1LB, elle débloque Initial Guts puis Power Bonus à MLB. Ce Power Bonus est la raison à pourquoi elle est backloaded. Son Unique Effect lui donne un bon Race Bonus dès LB0
+
+- Ses rainbows sont très bons avec un bon Friendship Bonus, le duo de Speed Bonus et Power Bonus et un Special Priority correct. Son cross-training est bon avec Mood Effect, un très bon Race Bonus et son duo de Stat Bonus. Pour une carte Guts, le combo de Speed Bonus et Power Bonus est vraiment fort, cela lui permet d’avoir de la valeur sur 4/5 Training en étant parfait en Guts et Speed, et bon en Power et Wit.
+
+- Elle propose 5 hints, dont seulement 2 sont bons et seulement pour les End Closers. On a de meilleur moyen pour les avoir cependant.
+
+- Son dernier Chain Event donne **End Closer Savy**. Son premier Chain Event donne de l’énergie.
+
+⏩ **Mejiro Ryan** :stamina: :SR:
+
+- La carte est backloaded. A 1LB, elle débloque Initial Friendship Gauge puis Stamina Bonus à MLB. Elle possède Fiendship Bonus dans son Unique Effect, il sera donc plus haut que ce que la carte montre.
+
+- Ses rainbows sont bons avec un bon Friendship Bonus (32 et non 30), le duo de Guts Bonus et Stamina Bonus et un Special Priority correct. Son cross-training est correct mais dépendant de son bon Mood Effect et avec un faible Race Bonus.
+
+- Elle propose une liste de 3 hints qui sont assez sympas.
+
+- Son dernier Chain Event nous donne soit de l’énergie, soit _Late Surger Straightaways_.
+ 
+#### Pull ou pas ? :
+
+::: warning Comment voulez-vous jouer ?
+
+Si vous ne voulez pas jouer deck Guts sur Trackblazer, vous allez donc jouer un deck plus classique et si vous avez déjà Matikanefukukitaru SSR Speed MLB, ou alors toutes les autres cartes du deck sauf Fuku ou NTR, et en partant du principe que vous comptez borrow l’une des 2, ne pullez pas sur cette bannière.
+
+Si vous comptez jouer deck Guts ou que vous préférez Narita Top Road SSR Speed à Fuku, pullez au moins jusqu’au moment où vous pouvez MLB Admire Vega SR Guts avec les cristaux SR.
+
+:::
+
+Concentrons-nous sur chaque carte maintenant. Narita Top Road est très bonne seulement pour Trackblazer. Sa durée de vie est très courte. Pour les personnes qui jouent peu au jeu, ce n’est pas une carte à pull. En la comparant avec Matikanefukukitaru SSR Speed, ses débuts de carrières sont plus durs mais le reste est meilleur vu qu’elle donne plus de stats que Fuku en training et surtout un bien meilleur gold. L’avoir elle ou Fuku vous donne de la flexibilité dans vos decks.
+
+Sakura Bakushin O SR Power est bonne, mais sa compétition est très relevée avec Hishi Amazon et Nishino Flower pour Trackblazer mais aussi Mihono Bourbon et Inari One pour les autres scénarios. Ce n’est pas pour elle qu’on pull, mais ce n’est pas un mauvais spook.
+
+Mejiro Ryan SR Stamina est du même niveau que les autres SR Stamina. Le problème est qu’elle est une carte Stamina. Bien que ce soit la stat la plus importante pour bien courir les courses, c’est le type de carte qu’on veut le moins utilisé. On va préférer utiliser des cartes Power + les parents pour monter Stam ou prendre une SSR Stamina avec un gold recovery. C’est la carte qu’on veut le moins des 4.
+
+Admire Vega SR Guts est la vraie star de la bannière. C’est elle qui permet au deck Guts d’être viable sur Trackblazer, surtout à cause de la qualité des cartes Guts pour l’instant. C’est pour elle qu’on pull. S’il y a une carte SR à MLB avec les cristaux SR, c’est elle. Il y a une seule carte Guts qui est à son niveau pour l’instant et c’est Haru Urara SSR Guts, les autres SSR Guts sont un rang en dessous des 2. 
+
+::::
+
+## #38 - Marvelous Sunday Guts SSR & Curren Chan Speed SR
+
+![Image de présentation de la bannière Marvelous Sunday Guts SSR & Curren Chan Speed SR](/public/assets/Gacha-reviews/2026/038_Card-Banner.png)
+
+::: details REVIEW
+
+⏩ **Marvelous Sunday** :guts: :SSR:
+
+- La carte est frontloaded. A 1LB, elle débloque Guts Bonus puis Initial Speed à 3LB.
+
+- Son Unique Effect lui donne 60 de Mood Effect quand son bond gauge est au maximum.
+
+- Ses rainbows sont bons avec un bon Friendship Bonus et Special Priority. Son cross-training est correct mais dépendant du mood avec son Unique Effect, son faible Training Effectiveness et son faible Race Bonus.
+
+- Elle propose une liste de 5 hints, dont 3 très bons. Cependant pour le Hint Farming, sa SR version est meilleure.
+
+- Son gold skill est **Adrenaline Rush**, la gold version d’_Extra Tank_. C’est un gold recovery pour le Long s’activant quand il reste 30% d’HP à l’uma. C’est un mauvais skill.
+
+⏩ **Curren Chan** :speed: :SR:
+
+- La carte à une croissance équilibrée. A 1LB, elle débloque Hint Levels et Hint Frequency puis Speed Bonus à 3 LB. Elle possède Fiendship Bonus dans son Unique Effect, il sera donc plus haut que ce que la carte montre.
+
+- Ses rainbows sont bons avec un bon Friendship Bonus (32 est non 30), un bon Special Priority, du Training Effectiveness et le Speed Bonus. Son cross-training est bon avec un bon Training Effectiveness et un faible Race Bonus.
+
+- Elle propose une liste de 5 skills, principalement pour le Sprint. Elle a aussi Hint Level et Hint Frequency, ses hints seront bons et un peu plus fréquents.
+
+- Son dernier Chain Event donne _Sprint Corners_.
+ 
+#### Pull ou pas ? :
+
+Non.
+
+Les 2 ne sont pas bonnes pour Trackblazer, et ne sont pas très bonnes comparé à leur compétition. En plus, elles ont toutes les 2 une variante bien meilleure en tout point et bien plus utiles pour Trackblazer ou les autres scénarios.
+
+Ce n’est pas une bonne bannière, ne pullez pas dessus.
+
+:::
+
+## #39 - Zenno Rob Roy Speed SSR & Curren Chan Wit SSR (rerun)
+
+![Image de présentation de la bannière Zenno Rob Roy Speed SSR & Curren Chan Wit SSR](/public/assets/Gacha-reviews/2026/039_Card-Banner.png)
+
+::: details REVIEW
+
+⏩ **Zenno Rob Roy** :speed: :SSR:
+
+[Vous pouvez retrouvez sa review ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_23-tamamo-cross-power-ssr-zenno-rob-roy-speed-ssr)
+
+⏩ **Curren Chan** :wit: :SSR:
+
+[Vous pouvez retrouvez sa review ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_25-curren-chan-wits-narita-brian-stamina-ssr)
+ 
+#### Pull ou pas ? :
+
+La carte que l’on veut entre les 2 est Curren Chan SSR Wit. Zenno Rob Roy SSR Speed est obsolète avec les cartes Speed qu’on a, surtout qu’elle n’a pas de Race Bonus pour Trackblazer. 
+
+Curren Chan SSR Speed fait partie du top 3 des cartes SSR Wit qu'on a pour l'instant, et elle n’a besoin que d’être à 1LB. Bien qu’elle reste plus faible que les 2 autres cartes du top 3, surtout pour Trackblazer, si vous ne les avez pas ou pas à assez haut LB, c’est une bonne idée d’essayer de l’avoir LB1. C’est une très bonne carte pour vos umas Sprint et elle peut vous donner le très bon Playtime’s Over, si vous ne voulez pas de gold skill pour le Sprint.
+
+Si vous n’avez pas l’une des fortes SSR Wit, pullez dessus jusqu’à vous l’ayez à 1LB.
+
+:::
+
+## #40 - Symboli Rudolf Stamina SSR & Sirius Symboli Wit SSR
+
+![Image de présentation de la bannière Symboli Rudolf Stamina SSR & Sirius Symboli Wit SSR](/public/assets/Gacha-reviews/2026/040_Card-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Symboli Rudolf** :Stamina: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Guts Bonus puis Race Bonus et Fans Bonus à 3LB.
+
+- Son Unique Effect donne 10 stats dans la stat respective de chaque carte du deck
+
+::: info Explications
+
+J’ai un deck 2 Speed / 2 Stamina / 2 Wit, je reçois +20 au début de la run dans ces 3 stats. Les cartes Pal ou Groupe donnent +2 dans chaque stats.
+
+:::
+
+- Ses rainbows sont corrects avec un Friendship Bonus et Special Priority correct en plus du Guts Bonus et le Training Effectiveness. Son cross-training est bon avec son bon Training Effectivenness et son bon Race Bonus.
+
+- Elle propose une liste de 8 skills, principalement pour le Medium ou pour les debuffs. Elle a aussi Hints Level et Hint Frequency dont les 2 sont très bons. Ses hints sont fréquents et puissants.
+
+- Son gold skill est **Burnig Soul**, la gold version de _Fighting Spirit_. C’est un gold de vélocité et de reovery pour le Medium, s’activant en Mid-Race entre le top 30% et le bottom 20% ( 4e <-> 7e en CM) si elle est bloquée sur le côté. C’est un bon skill pour les Pace Chaser et les Late Surger, bien que moins fiables que les top skills de recovery si vous le prenez pour le heal.
+
+- On peut arrêter son Chain Events au 2ème évènement pour 50 stats pour une perte de 10 énergies.
+
+⏩ **Sirius Symboli** :wit: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Wit Bonus puis Race Bonus et Fans Bonus à 3LB.
+
+- Son Unique Effect améliore son Friendship Bonus quand elle fait un Friendship Training jusqu’à 5 fois (20 -> 35 de Friendship Bonus).
+
+- Ses rainbows passent de bon à très bon avec son Unique Effect. Elle possède de base un Friendship Bonus faible mais un bon Special Priority et le combo de Speed Bonus et Wit Bonus. Son cross-training est correct, dépendant d’un bon Mood Bonus et de son bon Race Bonus.
+
+- Elle propose une liste de 5 skills qui sont sympas. Elle a aussi Hint Level et Hint Frequency mais tellement faibles qu’ils ne servent à rien.
+
+- Son gold skill est **From the Brink**, la gold version de _Take the Chance_. C’est un gold d’accélération pour le Medium qui s’active dans la première partie du Late-Race si elle est dans le bottom 60% ( 4e en CM). C’est un gold d’accélération similaire mais meilleur que **Furious Feat** et **On Your Left** pour comparaison en termes d’activation. Cependant l'événement est **AGEMASEN**.
+
+- On peut arrêter son Chain Events au 1er évènement pour Playtime’s Over !
+
+#### Pull ou pas ? :
+
+Non.
+
+Les 2 sont des cartes correctes, mais ne sont pas des cartes que l’on veut pull.
+
+Symboli Rudolf SSR Stamina est bonne pour faire des débuffeuses et la puissance du recovery de son gold peut-être suffisant pour du Medium ce qui la rends intéressante en tant que borrow.
+
+Sirius Symboli SSR Wit n’est pas à pleine puissance dès le départ et est plus dure à avoir à pleine puissance sur un scénario comme Trackblazer où on s'entraîne moins que Narita Top Road SSR Speed en comparaison. La carte deviendra meilleure dans les autres scénarios mais sera soit power creep ou on préférera utiliser les top SSR Wit que l’on a déjà. Elle peut-être un borrow intéressant pour les Late Surger et End Closer en Medium, pour avoir un skill d’accélération plus fiables qu’On Your Left si vous n'activez pas _**Let’s Pump Some Iron !**_ ou _**Moving Past, and Beyond**_.
+
+Ne pullez pas sur cette bannière, au mieux utilisez- les en borrows si vous en avez besoin.
+
+::::
+
+## #41 - Daiwa Scarlet Power SSR & Sweep Tosho Wit SR
+
+![Image de présentation de la bannière Daiwa Scarlet Power SSR & Sweep Tosho Wit SR](/public/assets/Gacha-reviews/2026/041_Card-Banner.png)
+
+::: details REVIEW
+
+⏩ **Daiwa Scarlet** :power: :ssr:
+
+- La carte est frontloaded. A 1LB, elle débloque Stamina Bonus puis Initial Power à 3LB.
+
+- Son Unique Effect lui donne 2 Power Bonus quand sa gauge atteint 80 (orange)
+
+- Ses rainbows sont moyens, avec un bon Friendship Bonus et son combo de Power Bonus et Stamina Bonus. Son manque de Special Priority est ce qui rendra ses rainbows moyens. Son cross-training est quasiment inexistant avec seulement du Race Bonus et son combo de stat bonus.
+
+- Elle propose une liste de 5 hints, dont 4 pour les Pace Chasers. Elle possède Hint Level et Hints Frequency, bien que ce dernier soit faible. Ses hints seront sympas.
+
+- Son gold skill est **Neck and Neck**, la gold version de _Head-On_. C’est un gold d’accélération de Pace Chaser qui s’active dans la première partie du Late-Race si la uma est dans le top 50% (≤5 en CM). Ce n’est pas un skill fiable mais intéressant avec le manque de skills d’accélération que les Pace Chasers peuvent bien utiliser.
+
+
+⏩ **Sweep Tosho** :wit: :ssr:
+
+- La carte est backloaded. A 1LB, elle débloque Training Effectiveness puis Wit Bonus à 3LB.
+
+- Ses rainbows sont bons, avec un Friendship Bonus correct, un Special Priority correct, le Wit Bonus et son bon Training Effectiveness. Son cross-training est bon avec un bon Training Effectiveness et son bon Race Bonus.
+
+- Elle propose une liste de 7 skills. Tout comme ses autres versions, ses hints restent faibles.
+
+- Son dernier Chain Event nous permet de choisir entre _Subdued End Closers_ ou _End Closers Straightaway_.
+
+#### PULL OU PAS
+
+Non, ce n’est pas une bonne bannière. 
+
+Il n’y a pas vraiment grand-chose à dire, Daiwa Scarlet SSR Power est mauvaise, surtout quand on la compare avec d’autres cartes Power, même avec les SR. Sweep Tosho SR Wit est moins forte que les autres cartes SR Wit, donc elle n’est pas un bon pull non plus.
+
+Ne pullez pas sur cette bannière.
 
 :::
