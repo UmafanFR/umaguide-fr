@@ -633,7 +633,7 @@ Si vous ne comptez pas la jouer en Ace, il sera mieux de la borrow pour l’util
 
 ## #42 - Yaeno Muteki ★★★
 
-![Image de présentation de la bannière Yaeno Muteki](/public/assets/Gacha-reviews/2026/042_Uma-Banner_JP.png)
+![Image de présentation de la bannière Yaeno Muteki](/public/assets/Gacha-reviews/2026/042_Uma-Banner.png)
 
 ⏩**Yaeno Muteki** :
 

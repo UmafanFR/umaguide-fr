@@ -77,7 +77,7 @@ Bonne chance à tous·tes !
 
 ### Bannière Umamusume : Yaeno Muteki ★★★
 
-![Image de présentation de la bannière Yaeno Muteki](/public/assets/Gacha-reviews/2026/042_Uma-Banner_JP.png)
+![Image de présentation de la bannière Yaeno Muteki](/public/assets/Gacha-reviews/2026/042_Uma-Banner.png)
 
 ⏩**Yaeno Muteki** :
 
@@ -112,7 +112,7 @@ Ce n’est pas une bannière à pull si elle n’est pas votre Oshi.
 
 ### Bannière support : Ines Fujin Guts SSR & Twin Speed SSR
 
-![Image de présentation de la bannière Ines Fujin Guts SSR & Twin Speed SSR](/public/assets/Gacha-reviews/2026/042_Card-Banner_JP.png)
+![Image de présentation de la bannière Ines Fujin Guts SSR & Twin Speed SSR](/public/assets/Gacha-reviews/2026/042_Card-Banner.png)
 
 **Ines Fujin** :guts: :SSR:
 

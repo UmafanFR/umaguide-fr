@@ -643,7 +643,7 @@ Ne pullez pas sur cette bannière.
 
 ## #42 - Ines Fujin Guts SSR & Twin Speed SSR
 
-![Image de présentation de la bannière Ines Fujin Guts SSR & Twin Speed SSR](/public/assets/Gacha-reviews/2026/042_Card-Banner_JP.png)
+![Image de présentation de la bannière Ines Fujin Guts SSR & Twin Speed SSR](/public/assets/Gacha-reviews/2026/042_Card-Banner.png)
 
 ::: details REVIEW
 
