@@ -613,7 +613,7 @@ _Nishino Flower est une Pace Chaser pour le Sprint et le Mile. Elle peut aussi c
 
 ::: info En tant que Parent
 
-C’est un unique qui est surpuissant en Sprint et Mile, mais mauvais en Medium (excepté sur Akiten Tokyo 2000m et l'Arc de Tromphe (Longchamp 2400m)) et Long. On veut aussi Shooting for Victory !, l’unique de Taiki Shuttle, vu qu’ils se complètent bien. C’est un bon unique à hérité pour les Pace Chaser pour le Sprint et le Mile.
+C’est un unique qui est surpuissant en Sprint et Mile, mais mauvais en Medium (excepté sur Akiten Tokyo 2000m et l'Arc de Triomphe (Longchamp 2400m)) et Long. On veut aussi Shooting for Victory !, l’unique de Taiki Shuttle, vu qu’ils se complètent bien. C’est un bon unique à hérité pour les Pace Chaser pour le Sprint et le Mile.
 
 :::
 
@@ -628,5 +628,42 @@ En Sprint et Mile, elle peut être soit très bonne, soit presque imbattable si 
 Si vous ne comptez pas la jouer en Ace, il sera mieux de la borrow pour l’utiliser en tant que parent que d’essayer de la pull, surtout si vous avez déjà Taiki Shuttle ou que vous êtes proche de l’avoir avec le Daily Legend Race. Si vous n’avez pas Taiki Shuttle ou que vous en êtes loin, c’est un très bon parent/Ace à avoir.
 
 :::
+
+::::
+
+## #42 - Yaeno Muteki ★★★
+
+![Image de présentation de la bannière Yaeno Muteki](/public/assets/Gacha-reviews/2026/042_Uma-Banner_JP.png)
+
+⏩**Yaeno Muteki** :
+
+:::: details REVIEW
+
+_Yaeno Muteki est une Pace Chaser Medium. Elle peut aussi courir en tant que Late Surger. Avec un peu d’inspiration, elle peut courir en Mile (1 :star:). Avec beaucoup d’inspiration, elle peut courir en Dirt et Long (10 :star: pour les 2). Elle possède un gold de vélocité universelle et un gold hybride de vélocité et d’accélération pour le Medium. Son unique est un boost de vélocité dans les 300 derniers mètres de la course._
+ 
+- Yaeno Muteki possède 2 bonus de croissances : 20% en :power: et 10% en :guts:. C’est un combo correct, sans plus. Ses decks seront les decks basiques.
+
+- Ses gold skills sont :
+
+    - **It’s On !**, la gold version de _Ramp Up_. C’est un gold de vélocité universelle qui s’active en Mid-Race si elle double une uma. Le skill peut se réactiver potentiellement en Long si elle l’active une première fois au début du Mid-Race, puis vers la fin du Mid-Race. C’est un bon skill.
+
+    - **Unyielding**, la gold version de _Steadfast_. C'est un gold hybride de vélocité et d’accélération faible pour le Medium. Le skill s’active dans le Final Corner si elle est dans un corner et qu’elle se soit doublée une fois. C’est un skill moyen, car on ne veut pas se faire doubler généralement vers la fin de la course.
+    >L’une de ses évolutions transforme le boost hybride en un boost de Current Speed tout en modifiant un peu les conditions. Le skill s’activera en Late-Race, pendant le Final Corner des courses Medium si elle a une uma qu’elle peut overtake.
+
+::: details Petit spoil d'un élément de la prochaine saison de Cinderella Gray
+
+- Son Secret Event lui donne 2 hints sympas et +10 dans toutes les stats si elle bat le Eisei Strongest Three (Oguri Cap / Super Creek / Inari One) 8 fois.
+
+:::
+
+- Son unique est un boost de vélocité dans les 300 derniers mètres de la course. L'activation requiert qu'elle ait d'abord dépassé une uma dans le Final Corner et que dans les 300 derniers mètres elle soit dans le top 40%. C’est un unique sympa.
+
+#### Pull ou pas ? :
+
+Si Yaeno Muteki est votre Oshi, oui.
+
+C’est une uma correct et assez spécialisé pour le Medium. Cependant, elle ne sort pas plus du lot que ça, surtout avec la quantité d’uma forte qui peuvent courir en Medium.
+
+Ce n’est pas une bannière à pull si elle n’est pas votre Oshi.
 
 ::::
