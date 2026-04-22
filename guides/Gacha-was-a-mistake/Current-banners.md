@@ -164,9 +164,9 @@ _Nice Nature (Cheerleader) est une Late Surger pour le Medium et le Long. Avec u
     - **Dominator**, la gold version de _Tether_. C’est un gold de debuff de Current Speed pour le Medium, qui s’active aléatoirement en Late-Race si l’uma dans le bottom 50%. C’est toujours un bon skill.
     >L’évolution de son skill est plutôt mauvaise, il sera généralement mieux de garder **Dominator**.
 
-    - **No Stopping Me** !, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant quand l’uma est en Last Spurt Mode, qu’il lui reste plus qu’un pourcent d’HPs et qu’il y a une autre uma devant elle pendant 1 seconde. C’est un très bon skill universel (sauf pour les Front Runner).
+    - **No Stopping Me !**, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant en Late Race si votre uma a assez de HP pour finir la course, et qu'une uma adverse se trouve devant elle (en face, ou sur une voie adjacente) pendant 1 seconde. C’est un très bon skill universel (sauf pour les Front Runner).
 
-- Son unique est un boost de vélocité de Final Straight. L’activation requiert qu’elle ait d’abord doublé une uma dans le Final Corner et que dans le Final Straight, qu’elle soit entre le bottom 60% et le top 70% (≥ 4 en CM // ≤ 6 en CM). Si Nice Nature (Cheerleader) est dans le top 4 de la popularité au début de la course, l’unique gagne une seconde de durée de base.
+- Son unique est un boost de vélocité de Final Straight. L'unique s'active si elle est entre bottom 60% et top 70% (≥ 4 en CM // ≤ 6 en CM) sur le final straight, à condition d'avoir dépassé au moins une uma pendant le Final Corner. Si Nice Nature (Cheerleader) est top 4 plus populaire, le skill dure un peu plus longtemps.
  
 ⏩ **King Halo (Cheerleader)** :
 
@@ -193,7 +193,7 @@ Pull ou pas ? :
 
 Si l’une des 2 est votre Oshi, oui sinon non.
  
-Nice Nature (Cheerleader) est pour l’instant meilleur que sa version OG en tant qu’Ace, mais les skills roses rendent la OG au moins aussi forte. En tant que debuffeuse, Nice Nature (Cheerleader) est aussi meilleur que sa version OG, dû au fait que les debuff d’HPs vont perdent en utilité comparé au debuff de Current Speed, qui reste toujours fort. Son unique est aussi meilleur que sa version OG.
+Nice Nature (Cheerleader) est pour l’instant meilleur que sa version OG en tant qu’Ace, mais les skills roses rendent la OG au moins aussi forte. En tant que debuffeuse, Nice Nature (Cheerleader) est aussi meilleur que sa version OG, dû au fait que les debuff d’HPs vont perdent en utilité comparé au debuff de Current Speed, qui reste toujours fort. Son unique est meilleur que sa version OG.
 
 Nice Nature (Cheerleader) est une bonne uma qui aura toujours un peu d’utilité grâce à **Dominator**. C’est une bonne alt.
  
