@@ -647,7 +647,7 @@ Ne pullez pas sur cette bannière.
 
 ::: details REVIEW
 
-**Ines Fujin** :guts: :SSR:
+⏩**Ines Fujin** :guts: :SSR:
 
 - La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Special Priority à 3LB.
 
@@ -657,7 +657,7 @@ Ne pullez pas sur cette bannière.
 
 - Son gold skill est **Restless**, la gold version de _Moxie_. C’est un gold heal pour les Front Runner qui s’active dans une descente après les 10 premières secondes de course. C’est un heal dont sa puissance va dépendre de la course on veut que les heals s’active en Mid-Race, ou suffisamment tard en Early-Race. C’est un skill bon. Mais situationnellment inutilisable. Cependant l’évènement est **AGEMASEN**.
 
-**Twin Turbo** :speed: :ssr:
+⏩**Twin Turbo** :speed: :ssr:
 
 - La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Training Effectiveness à 3LB.
 

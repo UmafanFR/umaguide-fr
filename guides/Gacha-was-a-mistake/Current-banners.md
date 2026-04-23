@@ -114,7 +114,7 @@ Ce n’est pas une bannière à pull si elle n’est pas votre Oshi.
 
 ![Image de présentation de la bannière Ines Fujin Guts SSR & Twin Speed SSR](/public/assets/Gacha-reviews/2026/042_Card-Banner.png)
 
-**Ines Fujin** :guts: :SSR:
+⏩**Ines Fujin** :guts: :SSR:
 
 - La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Special Priority à 3LB.
 
@@ -124,7 +124,7 @@ Ce n’est pas une bannière à pull si elle n’est pas votre Oshi.
 
 - Son gold skill est **Restless**, la gold version de _Moxie_. C’est un gold heal pour les Front Runner qui s’active dans une descente après les 10 premières secondes de course. C’est un heal dont sa puissance va dépendre de la course on veut que les heals s’active en Mid-Race, ou suffisamment tard en Early-Race. C’est un skill bon. Mais situationnellment inutilisable. Cependant l’évènement est **AGEMASEN**.
 
-**Twin Turbo** :speed: :ssr:
+⏩**Twin Turbo** :speed: :ssr:
 
 - La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Training Effectiveness à 3LB.
 
@@ -204,7 +204,7 @@ King Halo (Cheerleader) est une uma spécialiste de certaines courses, mais qui 
 
 ### Bannière Support à suivre : Bamboo Memory Guts SSR & Seeking the Pearl Speed SSR
 
-**Bamboo Memory** :guts: :SSR:
+⏩**Bamboo Memory** :guts: :SSR:
 
 - La carte est backloaded. A 1LB, elle débloque Guts Bonus puis Training Effectiveness à 3LB
 
@@ -226,7 +226,7 @@ Le skill a une chance de s'activer avec un timing permettant un carry over, ce q
 - Ses Chain Events sont cependant énergivores. Il est possible de briser la chaîne dès le premier Chain Event pour 30 skills points. Son dernier Chain Event est **Agemasen**.
 
 
-**Seeking the Pearl** :speed: :ssr:
+⏩**Seeking the Pearl** :speed: :ssr:
 
 - La carte est frontloaded. A 1LB, elle débloque Speed Bonus puis Initial Power à 3LB.
 
