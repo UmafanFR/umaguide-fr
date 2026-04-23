@@ -186,7 +186,7 @@ Plus tard, quand on aura une limite de stats plus haute, alors lorsqu'une stat a
 
 :::
 
-- Son unique est un boost d’accélération de Final Straight. L’activation requiert d’abord que jusqu’à la 2ème moitié de course, King Halo (Cheerleader) est était constamment dans le bottom 30% (≥6 en CM) et qu’elle n’est pas rush. Puis l’unique s’active en Final Straight.
+- Son unique est un boost d’accélération de Final Straight. L'unique s'active sur le Final Straight, à condition que King n'ait jamais rush pendant la course, et qu'elle soit restée constamment bottom 30% (≥6 en CM) pendant la première moitiée.
 >L’unique est fort sur 5 courses en Turf (Niigata 1000 m / Niigata 1600m / Niigata 1800m / Tokyo 1400m / Chukyo 1200m).
  
 Pull ou pas ? :
@@ -208,7 +208,7 @@ King Halo (Cheerleader) est une uma spécialiste de certaines courses, mais qui 
 
 - La carte est backloaded. A 1LB, elle débloque Guts Bonus puis Training Effectiveness à 3LB
 
-- Son Unique Effect est spécial. Le moins d’énergie qu’elle a, le plus de Friendship Bonus elle gagne. Ce bonus va de 5 de Friendship Bonus jusqu’à 15. Le fait que son Unique Effect donne du Friendship Bonus fait que son Friendship Bonus réel est plus haut que ce que la carte affiche. A 3LB, le Friendship Bonus va de 26 à 38.
+- Son Unique Effect est spécial. Moins votre uma a d’énergie, plus cette carte gagne en Friendship Bonus (de +5 à +15). Son Unique Effect donne du Friendship Bonus. Ainsi, son Friendship Bonus réel est plus élevé que le nombre affiché. A 3LB, le Friendship Bonus va de 26 à 38.
 
 - Ses rainbows sont bons, avec son Friendship Bonus, son bon Special Priority, son combo de Speed et Guts Bonus et son bon Training Effectiveness. Son cross-training est assez bon avec son Training Efefctiveness, son Race Bonus et son combo de stats bonus.
  
@@ -218,12 +218,12 @@ Ses rainbows sur Trackblazer peuvent être enchaînés à pleine puissance avec 
 
 :::
  
-- Elle propose une liste de 6 hints❗.
+- Elle propose une liste de 6 hints❗assez sympas
 
 - Son gold skill est **Full of Vigor**, la gold version de _Pumped_. C’est un boost de vélocité pour le Mile, qui s’active aléatoirement en Final Corner si elle est dans le bottom 50% (≥5 en CM). C’est un skill qui est très similaire à **Speed Star**, juste spécifique au Mile et aux umas de la backline.<br>
 Le skill a une chance de s'activer avec un timing permettant un carry over, ce qui le rend explosif en cas de succès (en cas d'échec, l'activation est gâchée par l'accélération). C’est un skill qui est gamble.
 
-- Ses Chain Events sont cependant énergivores. Il est possible de briser la chaîne dès le premier Chain Event pour 30 skills points.
+- Ses Chain Events sont cependant énergivores. Il est possible de briser la chaîne dès le premier Chain Event pour 30 skills points. Son dernier Chain Event est **Agemasen**.
 
 
 **Seeking the Pearl** :speed: :ssr:
@@ -234,7 +234,7 @@ Le skill a une chance de s'activer avec un timing permettant un carry over, ce q
  
 ::: info Sur Trackblazer
 
-Les objets qui augmentent l’énergie maximum rendent la carte plus forte. Mais ces objets restent mauvais et pas rentables.
+Les objets qui augmentent l’énergie maximum rendent la carte plus forte. Mais ces objets restent mauvais et pas rentables. La carte perdra encore plus en valeur dans les futurs scénarios, car il ne sera pas aussi simple de monter l'énergie max.
 
 :::
  
