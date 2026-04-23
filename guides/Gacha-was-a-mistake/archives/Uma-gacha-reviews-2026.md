@@ -635,9 +635,9 @@ Si vous ne comptez pas la jouer en Ace, il sera mieux de la borrow pour l’util
 
 ![Image de présentation de la bannière Yaeno Muteki](/public/assets/Gacha-reviews/2026/042_Uma-Banner.png)
 
-⏩**Yaeno Muteki** :
-
 :::: details REVIEW
+
+⏩**Yaeno Muteki** :
 
 _Yaeno Muteki est une Pace Chaser Medium. Elle peut aussi courir en tant que Late Surger. Avec un peu d’inspiration, elle peut courir en Mile (1 :star:). Avec beaucoup d’inspiration, elle peut courir en Dirt et Long (10 :star: pour les 2). Elle possède un gold de vélocité universelle et un gold hybride de vélocité et d’accélération pour le Medium. Son unique est un boost de vélocité dans les 300 derniers mètres de la course._
  
