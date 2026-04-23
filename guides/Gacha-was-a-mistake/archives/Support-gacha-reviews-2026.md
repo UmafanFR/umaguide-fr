@@ -640,3 +640,42 @@ Il n’y a pas vraiment grand-chose à dire, Daiwa Scarlet SSR Power est mauvais
 Ne pullez pas sur cette bannière.
 
 :::
+
+## #42 - Ines Fujin Guts SSR & Twin Speed SSR
+
+![Image de présentation de la bannière Ines Fujin Guts SSR & Twin Speed SSR](/public/assets/Gacha-reviews/2026/042_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Ines Fujin** :guts: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Special Priority à 3LB.
+
+- Ses rainbows sont assez bons, bien que son Friendship Bonus soit faible, grâce à son Special Priority élevé, son excellent Training Effectiveness, son Mood Effect et le Speed Bonus. Son cross-trainnig est très bon avec son Training Effectiveness, son Mood Effect, le Speed Bonus et son faible Race Bonus.
+
+- Elle possède une liste de 5 hints, dont 3 sont excellents (Speed Eater / Slipsteram / Playtime's Over !). Elle possède Hint Level et Hint Frequency, Ses hints seront très puissants et fréquents.
+
+- Son gold skill est **Restless**, la gold version de _Moxie_. C’est un gold heal pour les Front Runner qui s’active dans une descente après les 10 premières secondes de course. C’est un heal dont sa puissance va dépendre de la course on veut que les heals s’active en Mid-Race, ou suffisamment tard en Early-Race. C’est un skill bon. Mais situationnellment inutilisable. Cependant l’évènement est **AGEMASEN**.
+
+⏩**Twin Turbo** :speed: :ssr:
+
+- La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Training Effectiveness à 3LB.
+
+- Ses rainbows sont moyens avec son faible Friendship Bonus et Special Priority, mais elle a au moins du Speed Bonus, Training Effectiveness et un très grand Mood Effect pour compenser un peu. Son cross-training est très bon bien que dépendant du Mood car son Mood Effect et très haut, combiné à un bon Training Effectiveness. Dommage pour son faible Race Bonus.
+
+- Elle possède une liste de 6 skills, dont 3 bons. Elle possède Hint Level et Hint Frequency. Ses hints seront puissants et fréquents.
+
+- Son gold skill est Taking the Lead, la gold version d’Early Lead. C’est un gold d’accélération pour les Front Runners qui s’active dès le début de la course. C’est un excellent skill, obligatoire pour les Front Runners. Cependant l'évènement est AGEMASEN et les 2 évènements avant peuvent briser la chaîne.
+
+- Il est possible de briser la chaîne manuellement 2 fois pour un gain d'énergie.
+ 
+#### PULL OU PAS
+**Non.**
+
+Ines Fujin Guts SSR n’est pas mauvaise mais n’est pas une carte que l’on veut pull plus que ça. Si vous l’avez à 3LB et que vous l’utilisez beaucoup, cela peut être intéressant mais pas plus que ça.
+
+Twin Turbo Speed SSR ne sert plus à rien. On a Mihono Bourbon Wit SSR pour avoir **Taking the Lead**, en étant tout simplement meilleur dû au fait qu’elle soit une carte Wit et que son **Taking the Lead** ne soit pas **AGEMASEN**. Elle n’est plus utile pour le Hint Farming vu que Silence Suzuka Speed SSR de l’histoire principale est là, qu’elle possède les bons hints que Twin Turbo possède, tout en ayant plein d’autres qui sont très utiles.
+
+Ne pullez pas sur cette bannière.
+
+:::
