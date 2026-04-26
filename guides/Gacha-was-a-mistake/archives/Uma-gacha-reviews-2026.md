@@ -667,3 +667,65 @@ C’est une uma correct et assez spécialisé pour le Medium. Cependant, elle ne
 Ce n’est pas une bannière à pull si elle n’est pas votre Oshi.
 
 ::::
+
+## #43 - Nice Nature (Cheerleader) & King Halo (Cheerleader) ★★★
+
+![Image de présentation de la bannière Nice Nature (Cheerleader) & King Halo (Cheerleader)](/public/assets/Gacha-reviews/2026/043_Uma-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Nice Nature (Cheerleader)** :
+
+_Nice Nature (Cheerleader) est une Late Surger pour le Medium et le Long. Avec un peu d’inspiration, elle peut courir en Mile (4 :star:) mais aussi en tant que Pace Chaser (1 :star:) et en tant qu’End Closer (7 :star:). Elle possède un gold de debuff pour le Medium et un gold d’accélération universel. Son unique est un boost de vélocité de Final Straight._
+ 
+- Nice Nature (Cheerleader) possède 3 bonus de croissances : 10% en :stamina:, 10% en :power: et 10% en :wit:. C’est un excellent combo de bonus, parfait pour ses 2 distances maîtres. Ses decks seront assez basiques à base de Speed / Power / Wit.
+
+- Ses gold skills sont :
+
+    - **Dominator**, la gold version de _Tether_. C’est un gold de debuff de Current Speed pour le Medium, qui s’active aléatoirement en Late-Race si l’uma dans le bottom 50%. C’est toujours un bon skill.
+    >L’évolution de son skill est plutôt mauvaise, il sera généralement mieux de garder **Dominator**.
+
+    - **No Stopping Me !**, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant en Late Race si votre uma a assez de HP pour finir la course, et qu'une uma adverse se trouve devant elle (en face, ou sur une voie adjacente) pendant 1 seconde. C’est un très bon skill universel (sauf pour les Front Runner).
+
+- Son unique est un boost de vélocité de Final Straight. L'unique s'active si elle est entre bottom 60% et top 70% (≥ 4 en CM // ≤ 6 en CM) sur le final straight, à condition d'avoir dépassé au moins une uma pendant le Final Corner. Si Nice Nature (Cheerleader) est top 4 plus populaire, le skill dure un peu plus longtemps.
+ 
+⏩ **King Halo (Cheerleader)** :
+
+_King Halo (Cheelearder) est une Late Surger pour le Sprint. Avec un peu d’inspiration, elle peut courir dans toutes les distances (1 :star: pour le Mile et le Medium et 4 :star: pour le Long). Elle peut aussi courir en tant que Pace Chaser et End Closer pour respectivement 1 et 7 :star:. Elle possède un gold skill de vélocité et un gold green. Son unique est un boost d’accélération de Final Straight._
+ 
+- King Halo (Cheerleader) possède 3 bonus de croissances : 10% en :speed:, 10% en :power: et 10% en :guts:. C’est un très bon combo de bonus pour une uma Sprint. Elle utilisera soit des deck Guts ou Power.
+
+- Ses gold skills sont :
+
+    - **Rising Dragon**, la gold version d’_Outer Swell_. C’est un gold de vélocité de Late Surger, qui s’active en Final Corner si elle double une autre uma et que l’uma qui est derrière elle soit plus proche de la barrière que King Halo (Cheeleader). C’est un skill assez bon. En Sprint, il peut créer du carry-over, surtout pour les courses où son unique sera fort.
+
+    - **Spring Spectacle**, la gold version de _Spring Runner_. C’est un Green gold qui lui donne 60 de stats en Speed et Power. C’est sympa surtout avec des hints de Spring Runner. Le fait qu'il soit restraint au courses en Spring, le rends moins fort que d'autres gold green.
+
+::: tip Meilleur quand les stats seront à au moins à 1200
+
+Plus tard, quand on aura une limite de stats plus haute, alors lorsqu'une stat atteindra 1200 il sera plus difficile de la monter davantage. Cela fait que les boosts de stats des skills greens deviennent plus intéressants au-delà de 1200 dans la stat de leur boost.
+
+:::
+
+- Son unique est un boost d’accélération de Final Straight. L'unique s'active sur le Final Straight, à condition que King n'ait jamais rush pendant la course, et qu'elle soit restée constamment bottom 30% (≥6 en CM) pendant la première moitiée.
+>L’unique est fort sur 5 courses en Turf (Niigata 1000 m / Niigata 1600m / Niigata 1800m / Tokyo 1400m / Chukyo 1200m).
+ 
+::: info En tant que parent
+
+Sur les courses mentionnées plus haut, mais aussi Tokyo 1300m Dirt / Tokyo 1400m Dirt / Chukyo 1200m Dirt, elle est un excellent parent pour la backline. Surtout que ce sont des courses où Mejiro Dober et Mejiro Ryan ne sont pas de bons parents. Elle permet de rendre la backline plus fiables au lieu d'êtres restreint à l'ancien combo d'El Condor Pasa et Hallowwen Creek, ou que ce soit un Pace Chaser fest avec l'unique de Nishino Flower.
+
+:::
+
+Pull ou pas ? :
+
+Si l’une des 2 est votre Oshi, oui sinon non.
+ 
+Nice Nature (Cheerleader) est pour l’instant meilleur que sa version OG en tant qu’Ace, mais les skills roses rendent la OG au moins aussi forte. En tant que debuffeuse, Nice Nature (Cheerleader) est aussi meilleur que sa version OG, dû au fait que les debuff d’HPs vont perdent en utilité comparé au debuff de Current Speed, qui reste toujours fort. Son unique est meilleur que sa version OG.
+
+Nice Nature (Cheerleader) est une bonne uma qui aura toujours un peu d’utilité grâce à **Dominator**. C’est une bonne alt.
+ 
+King Halo (Cheerleader) est très forte sur certaines courses spécifiques où son unique s’active et que son gold skill Rising Dragon peut créer du carry-over. En dehors de ces courses, elle est au mieux équivalente à sa version OG, mais elle est généralement moins bonne si vous arrivez à activer l’unique de la OG.
+
+King Halo (Cheerleader) est une uma spécialiste de certaines courses, mais qui est assez mauvaise sur les autres courses. C’est une alt moyenne.
+
+::::
