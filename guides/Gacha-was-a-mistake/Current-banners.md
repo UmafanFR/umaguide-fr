@@ -1,5 +1,5 @@
 ---
-title: Gacha - Yaeno Muteki ★★★ // Ines Fujin Guts SSR & Twin Speed SSR
+title: Gacha - Nice Nature (Cheerleader) & King Halo (Cheerleader) ★★★ // Bamboo Memory Guts SSR & Seeking the Pearl Speed SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/042_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/043_Banners_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -75,83 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Yaeno Muteki ★★★
+### Bannière Umamusume : Nice Nature (Cheerleader) & King Halo (Cheerleader) ★★★
 
-![Image de présentation de la bannière Yaeno Muteki](/public/assets/Gacha-reviews/2026/042_Uma-Banner.png)
-
-⏩**Yaeno Muteki** :
-
-_Yaeno Muteki est une Pace Chaser Medium. Elle peut aussi courir en tant que Late Surger. Avec un peu d’inspiration, elle peut courir en Mile (1 :star:). Avec beaucoup d’inspiration, elle peut courir en Dirt et Long (10 :star: pour les 2). Elle possède un gold de vélocité universelle et un gold hybride de vélocité et d’accélération pour le Medium. Son unique est un boost de vélocité dans les 300 derniers mètres de la course._
- 
-- Yaeno Muteki possède 2 bonus de croissances : 20% en :power: et 10% en :guts:. C’est un combo correct, sans plus. Ses decks seront les decks basiques.
-
-- Ses gold skills sont :
-
-    - **It’s On !**, la gold version de _Ramp Up_. C’est un gold de vélocité universelle qui s’active en Mid-Race si elle double une uma. Le skill peut se réactiver potentiellement en Long si elle l’active une première fois au début du Mid-Race, puis vers la fin du Mid-Race. C’est un bon skill.
-
-    - **Unyielding**, la gold version de _Steadfast_. C'est un gold hybride de vélocité et d’accélération faible pour le Medium. Le skill s’active dans le Final Corner si elle est dans un corner et qu’elle se soit doublée une fois. C’est un skill moyen, car on ne veut pas se faire doubler généralement vers la fin de la course.
-    >L’une de ses évolutions transforme le boost hybride en un boost de Current Speed tout en modifiant un peu les conditions. Le skill s’activera en Late-Race, pendant le Final Corner des courses Medium si elle a une uma qu’elle peut overtake.
-
-::: details Petit spoil d'un élément de la prochaine saison de Cinderella Gray
-
-- Son Secret Event lui donne 2 hints sympas et +10 dans toutes les stats si elle bat le Eisei Strongest Three (Oguri Cap / Super Creek / Inari One) 8 fois.
-
-:::
-
-- Son unique est un boost de vélocité dans les 300 derniers mètres de la course. L'activation requiert qu'elle ait d'abord dépassé une uma dans le Final Corner et que dans les 300 derniers mètres elle soit dans le top 40%. C’est un unique sympa.
-
-#### Pull ou pas ? :
-
-Si Yaeno Muteki est votre Oshi, oui.
-
-C’est une uma correct et assez spécialisé pour le Medium. Cependant, elle ne sort pas plus du lot que ça, surtout avec la quantité d’uma forte qui peuvent courir en Medium.
-
-Ce n’est pas une bannière à pull si elle n’est pas votre Oshi.
-
----
-
-### Bannière support : Ines Fujin Guts SSR & Twin Speed SSR
-
-![Image de présentation de la bannière Ines Fujin Guts SSR & Twin Speed SSR](/public/assets/Gacha-reviews/2026/042_Card-Banner.png)
-
-⏩**Ines Fujin** :guts: :SSR:
-
-- La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Special Priority à 3LB.
-
-- Ses rainbows sont assez bons, bien que son Friendship Bonus soit faible, grâce à son Special Priority élevé, son excellent Training Effectiveness, son Mood Effect et le Speed Bonus. Son cross-trainnig est très bon avec son Training Effectiveness, son Mood Effect, le Speed Bonus et son faible Race Bonus.
-
-- Elle possède une liste de 5 hints, dont 3 sont excellents (Speed Eater / Slipsteram / Playtime's Over !). Elle possède Hint Level et Hint Frequency, Ses hints seront très puissants et fréquents.
-
-- Son gold skill est **Restless**, la gold version de _Moxie_. C’est un gold heal pour les Front Runner qui s’active dans une descente après les 10 premières secondes de course. C’est un heal dont sa puissance va dépendre de la course on veut que les heals s’active en Mid-Race, ou suffisamment tard en Early-Race. C’est un skill bon. Mais situationnellment inutilisable. Cependant l’évènement est **AGEMASEN**.
-
-⏩**Twin Turbo** :speed: :ssr:
-
-- La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Training Effectiveness à 3LB.
-
-- Ses rainbows sont moyens avec son faible Friendship Bonus et Special Priority, mais elle a au moins du Speed Bonus, Training Effectiveness et un très grand Mood Effect pour compenser un peu. Son cross-training est très bon bien que dépendant du Mood car son Mood Effect et très haut, combiné à un bon Training Effectiveness. Dommage pour son faible Race Bonus.
-
-- Elle possède une liste de 6 skills, dont 3 bons. Elle possède Hint Level et Hint Frequency. Ses hints seront puissants et fréquents.
-
-- Son gold skill est Taking the Lead, la gold version d’Early Lead. C’est un gold d’accélération pour les Front Runners qui s’active dès le début de la course. C’est un excellent skill, obligatoire pour les Front Runners. Cependant l'évènement est AGEMASEN et les 2 évènements avant peuvent briser la chaîne.
-
-- Il est possible de briser la chaîne manuellement 2 fois pour un gain d'énergie.
- 
-#### PULL OU PAS
-**Non.**
-
-Ines Fujin Guts SSR n’est pas mauvaise mais n’est pas une carte que l’on veut pull plus que ça. Si vous l’avez à 3LB et que vous l’utilisez beaucoup, cela peut être intéressant mais pas plus que ça.
-
-Twin Turbo Speed SSR ne sert plus à rien. On a Mihono Bourbon Wit SSR pour avoir **Taking the Lead**, en étant tout simplement meilleur dû au fait qu’elle soit une carte Wit et que son **Taking the Lead** ne soit pas **AGEMASEN**. Elle n’est plus utile pour le Hint Farming vu que Silence Suzuka Speed SSR de l’histoire principale est là, qu’elle possède les bons hints que Twin Turbo possède, tout en ayant plein d’autres qui sont très utiles.
-
-Ne pullez pas sur cette bannière.
-
----
-
-# Bannières à suivre (26 Avril 23h)
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/043_Banners_early_preview.jpg) -->
-
-### Bannière Umamusume à suivre : Nice Nature (Cheerleader) & King Halo (Cheerleader) ★★★
+![Image de présentation de la bannière Nice Nature (Cheerleader) & King Halo (Cheerleader)](/public/assets/Gacha-reviews/2026/043_Uma-Banner.png)
 
 ⏩ **Nice Nature (Cheerleader)** :
 
@@ -189,6 +115,12 @@ Plus tard, quand on aura une limite de stats plus haute, alors lorsqu'une stat a
 - Son unique est un boost d’accélération de Final Straight. L'unique s'active sur le Final Straight, à condition que King n'ait jamais rush pendant la course, et qu'elle soit restée constamment bottom 30% (≥6 en CM) pendant la première moitiée.
 >L’unique est fort sur 5 courses en Turf (Niigata 1000 m / Niigata 1600m / Niigata 1800m / Tokyo 1400m / Chukyo 1200m).
  
+::: info En tant que parent
+
+Sur les courses mentionnées plus haut, mais aussi Tokyo 1300m Dirt / Tokyo 1400m Dirt / Chukyo 1200m Dirt, elle est un excellent parent pour la backline. Surtout que ce sont des courses où Mejiro Dober et Mejiro Ryan ne sont pas de bons parents. Elle permet de rendre la backline plus fiables au lieu d'êtres restreint à l'ancien combo d'El Condor Pasa et Hallowwen Creek, ou que ce soit un Pace Chaser fest avec l'unique de Nishino Flower.
+
+:::
+
 Pull ou pas ? :
 
 Si l’une des 2 est votre Oshi, oui sinon non.
@@ -201,8 +133,11 @@ King Halo (Cheerleader) est très forte sur certaines courses spécifiques où s
 
 King Halo (Cheerleader) est une uma spécialiste de certaines courses, mais qui est assez mauvaise sur les autres courses. C’est une alt moyenne.
 
+---
 
-### Bannière Support à suivre : Bamboo Memory Guts SSR & Seeking the Pearl Speed SSR
+### Bannière support : Bamboo Memory Guts SSR & Seeking the Pearl Speed SSR
+
+![Image de présentation de la bannière Bamboo Memory Guts SSR & Seeking the Pearl Speed SSR](/public/assets/Gacha-reviews/2026/043_Card-Banner.png)
 
 ⏩**Bamboo Memory** :guts: :SSR:
 
@@ -256,6 +191,83 @@ Seeking the Pearl Speed SSR n’est pas une bonne carte. Son seul bon point est 
  
 Ne pullez pas sur cette bannière.
 
+---
+
+# Bannières à suivre (30 Avril 23h)
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/044_Banners_early_preview.jpg) -->
+
+### Bannière Umamusume à suivre : Ines Fujin ★★★
+
+⏩ **Ines Fujin** :
+
+_Ines Fujin est une Front Runner pour le Mile et le Medium (1 gold). Avec un peu d’inspiration, elle peut courir en Long et en tant que Pace Chaser (4 :star: pour les 2). Elle possède un gold de recovery de Front Runner et un gold de vélocité et de debuff de Current Speed pour le Medium. Son unique est un boost de vélocité sur les 297 (entre 299 et 295) derniers mètres de course._
+
+- Ines Fujin possède 2 bonus de croissances : 15% en :speed: et 15% en :guts:. C’est un combo correct pour une Front Runner. Dans les distances comme le Mile ou les Medium courts, elle peut utiliser un deck Guts. Dans les autres cas, il sera préférable d’utiliser un deck basique avec Stamina ou Power, en fonction de vos parents et des HPs nécessaires.
+
+- Ses gold skills sont :
+
+    - **Restless**, la gold version de _Moxie_. C’est un gold recovery de Front Runner qui s’active sur la première côte possible après les 10 premières secondes de course. Le skill est très fiable en Long, et marche la plupart du temps en Medium. En Sprint et en Mile, c'est plus variable.
+
+    - **Wild Wind**, la gold version de _With All My Soul_. C’est un gold de vélocité et de debuff de Current Speed pour le Medium. Il s’active aléatoirement en Mid-Race si l’uma est dans le top 3. Le boost de vélocité est assez classique, bien que sa durée de base soit assez basse. Le debuff touche les 5 umas les plus proches d’Ines Fujin.<br>
+    C’est un très bon skill pour les Front Runner, qui est assez similaire à _Speed Eater_ (**Greed for Speed** en Gold) avec un debuff moins fort et un boost de vélocité plus fort.
+    >L’évolution de ce skill est très forte, en réglant son seul problème qu’est la durée de base du speed boost.
+
+- Son unique est un boost de vélocité sur les 297 (entre 299 et 295) derniers mètres de course si elle est dans le top 2. L’unique devient beaucoup plus puissant si elle sort d’une montée juste avant d’entrer dans sa phase d’activation. La variation puissante ne s’active qu’à Tokyo, la rendant une Tokyo Racetrack spécialiste.
+
+::: info En tant que Parent
+
+Elle est un bon parent pour les Front Runners seulement sur les courses sur le racetrack de Tokyo.
+
+:::
+
+Pull ou pas ? :
+
+Non, sauf si elle est votre Oshi.
+ 
+Ines Fujin est une Front Runner correct sur tous les racetracks sauf Tokyo, où elle est plutôt forte.
+
+Sur les racetracks autre que Tokyo, son unique possède une valeur faible, même si elle garde une zone d’activation intéressante. Son unique ne l’aide pas à battre les Front Runner. Au contraire d’autres Front Runner qui ont un unique qui s’active en Mid-Race pour battre les autres Front Runner afin d'activer _**Angling & Scheming**_, l’unique d’Ines Fujin est là pour ne pas perdre contre la backline sur la fin de la course. Mais ce n’est pas forcément suffisant vu que l’unique est faible sur ces racetracks.
+
+Au racetrack de Tokyo, son unique lui permet d’être encore plus forte contre la backline.
+ 
+Son outil pour battre les autres Front Runner est son gold **Wild Wind**. La combinaison des 2 fait qu’elle est assez forte sur toute la longueur de la course en Medium.
+
+
+### Bannière Support à suivre : Mr. C.B. Wit SSR & Tokai Teio Stamina SR
+
+⏩**Mr. C.B.** :Wit: :SSR:
+
+- Mr. C.B. Wit SSR est frontloaded / équilibré. A 1LB, elle débloque Wit Bonus puis Mood Effect à 3LB.
+
+- Son Unique Effect lui donne Wit Bonus et Skill Point Bonus quand son bond gauge est à 80 (orange).
+
+- Ses rainbows sont bons avec un bon Friendship Bonus, du Special Priority correct, son double Wit Bonus et son Speed Bonus, son faible Training Effectivennes et potentiellement son Mood Effect. Son cross-training est correct bien que son Training Effectivenness et son Race Bonus soient faibles grâce à son Skill Point Bonus. Le Mood Effect rendra son cross-training un peu meilleur.
+
+- Elle propose une liste de 7 hints, dont les très bons _Straightaway Spurt_ et _Tail Held High_. Elle possède Hint Level et Hint Frequency, ses hint seront assez forts et fréquents.
+
+- Le skill gold est **Daring Strike**, la gold version d’_Early Start_. C’est un gold de vélocité pour End Closer, qui s’active dans le Mid-Race si elle est dans le bottom 50%. C'est un très bon skill dont la force est dans sa durée. Il permet aussi de bien se placer pour les End Closer avant le Late-Race.
+
+⏩**Tokai Teio** :stamina: :sr:
+
+- Tokai Teio Stamina SR est backloaded. A 1LB, elle débloque Initial Friendship Gauge puis Skill Point Bonus à 3LB.
+
+- Ses rainbows sont mauvais avec un faible Friendship Bonus, son absence de Special Priority, un peu compenser par son Training Effectivennes correct. Son cross-training est bon avec son Training Effectiveness et son Race Bonus mais aussi le Skill Point Bonus.
+
+- Elle propose une liste de 6 hints peu intéressants. Elle possède un très bon Hint Level et Hint Frequency. Ses hints seront puissants et fréquents.
+
+- Son dernier Chain Event donne **Medium Corners**.
+ 
+#### PULL OU PAS
+
+Si vous n’avez pas de top tiers Wit SSR support ou que vous jouez pas mal d’End Closer, oui.
+ 
+Mr. C.B. Wit SSR est un très bon support dès LB1. Bien que son Race Bonus soit faible pour Trackblazer, elle rentre bien dans les decks pour les End Closer, libérant la potentielle place que prenait Admire Vega Power SSR et de l’utiliser pour faire des decks Guts.
+Le fait qu’elle soit Wit lui donne de la flexibilité d’usage mais aussi de la longévité qu’Admire Vega Power SSR ne possède pas. C’est tout simplement une bonne carte à pull.
+
+Je dirais qu’elle peut être considérée comme la seconde meilleure carte Wit qu’on à pour l’instant, avec Nice Nature Wit SSR en 3ème  Sur Trackblazer, il est possible que cela soit inversé entre Mr.C.B. et Nice Nature.
+ 
+Tokai Teio Stamina SR est mauvaise et n’est pas une carte intéressante.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
