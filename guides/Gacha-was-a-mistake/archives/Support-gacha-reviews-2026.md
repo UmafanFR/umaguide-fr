@@ -679,3 +679,63 @@ Twin Turbo Speed SSR ne sert plus à rien. On a Mihono Bourbon Wit SSR pour avoi
 Ne pullez pas sur cette bannière.
 
 :::
+
+## #43 - Bamboo Memory Guts SSR & Seeking the Pearl Speed SSR
+
+![Image de présentation de la bannière Bamboo Memory Guts SSR & Seeking the Pearl Speed SSR](/public/assets/Gacha-reviews/2026/043_Card-Banner.png)
+
+:::: details REVIEW
+
+⏩**Bamboo Memory** :guts: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Guts Bonus puis Training Effectiveness à 3LB
+
+- Son Unique Effect est spécial. Moins votre uma a d’énergie, plus cette carte gagne en Friendship Bonus (de +5 à +15). Son Unique Effect donne du Friendship Bonus. Ainsi, son Friendship Bonus réel est plus élevé que le nombre affiché. A 3LB, le Friendship Bonus va de 26 à 38.
+
+- Ses rainbows sont bons, avec son Friendship Bonus, son bon Special Priority, son combo de Speed et Guts Bonus et son bon Training Effectiveness. Son cross-training est assez bon avec son Training Efefctiveness, son Race Bonus et son combo de stats bonus.
+ 
+::: info Sur Trackblazer
+
+Ses rainbows sur Trackblazer peuvent être enchaînés à pleine puissance avec l’objet Good-Luck Charm. Si vous utilisez Bamboo Memory Guts SSR, cet objet prend en valeur.
+
+:::
+ 
+- Elle propose une liste de 6 hints❗assez sympas
+
+- Son gold skill est **Full of Vigor**, la gold version de _Pumped_. C’est un boost de vélocité pour le Mile, qui s’active aléatoirement en Final Corner si elle est dans le bottom 50% (≥5 en CM). C’est un skill qui est très similaire à **Speed Star**, juste spécifique au Mile et aux umas de la backline.<br>
+Le skill a une chance de s'activer avec un timing permettant un carry over, ce qui le rend explosif en cas de succès (en cas d'échec, l'activation est gâchée par l'accélération). C’est un skill qui est gamble.
+
+- Ses Chain Events sont cependant énergivores. Il est possible de briser la chaîne dès le premier Chain Event pour 30 skills points. Son dernier Chain Event est **Agemasen**.
+
+
+⏩**Seeking the Pearl** :speed: :ssr:
+
+- La carte est frontloaded. A 1LB, elle débloque Speed Bonus puis Initial Power à 3LB.
+
+- Son Unique Effect est spécial. Plus la quantité d’énergie maximum est élevée, plus son gain de Training Effectivennes sera élevé. Ce bonus va de 5 à 20 de Training Effectiveness.
+ 
+::: info Sur Trackblazer
+
+Les objets qui augmentent l’énergie maximum rendent la carte plus forte. Mais ces objets restent mauvais et pas rentables. La carte perdra encore plus en valeur dans les futurs scénarios, car il ne sera pas aussi simple de monter l'énergie max.
+
+:::
+ 
+- Ses rainbows sont corrects, avec un assez bon Friendship Bonus, un bon Special Priority et le Speed Bonus. Son cross-training est généralement faible, jusqu’à très bon si vous maximisez son Unique Effect vu qu’elle ne possède qu’un faible Race Bonus et son Speed Bonus.
+
+- Elle possède l’incroyable Skill Point Bonus, ce qui la rend un peu meilleure que ses autres stats démontrent.
+
+- Elle propose une liste de 9 hints❗, dont le seul qui sort du lot est _Head-On_ pour sa rareté. Elle possède Hint Level et Hint Frequency mais les 2 sont faibles. Ses hints restent faibles.
+
+- Son gold skill est **Dauntless**, la gold version de _Fearless_. C’est un gold hybride de vélocité et d’une faible accélération de Late Surger. Il s’active à un point random de la 2ème moitié de course si l’uma est entre le bottom 70% et le top 80% (≥ 3 en CM // ≤ 7 en CM). Si le skill s’active juste avant le Late-Race, il sera très fort, s’il s’active ailleurs, il reste correct.
+
+ 
+#### PULL OU PAS
+**Non**.
+ 
+Bamboo Memory Guts SSR n’est pas mauvaise, surtout sur Trackblazer où il est possible de maximiser sa puissance, mais elle reste backloaded. Elle n’est pas assez forte et importante pour qu’on dépense autant de carats. Si vous voulez l'utiliser, empruntez là, c’est une bonne carte d’emprunt.
+ 
+Seeking the Pearl Speed SSR n’est pas une bonne carte. Son seul bon point est son Skill Point Bonus et qu’elle soit Frontloaded. Mais posséder Skill Point Bonus n’est pas suffisant pour la rendre bonne, surtout quand on a des bonnes cartes qui possèdent aussi ce bonus.
+ 
+Ne pullez pas sur cette bannière.
+
+::::
