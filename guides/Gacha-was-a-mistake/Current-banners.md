@@ -121,7 +121,7 @@ Sur les courses mentionnées plus haut, mais aussi Tokyo 1300m Dirt / Tokyo 1400
 
 :::
 
-Pull ou pas ? :
+#### Pull ou pas ? :
 
 Si l’une des 2 est votre Oshi, oui sinon non.
  
@@ -195,13 +195,13 @@ Ne pullez pas sur cette bannière.
 
 # Bannières à suivre (30 Avril 23h)
 
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/044_Banners_early_preview.jpg) -->
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/044_Banners_early_preview.jpg)
 
 ### Bannière Umamusume à suivre : Ines Fujin ★★★
 
 ⏩ **Ines Fujin** :
 
-_Ines Fujin est une Front Runner pour le Mile et le Medium (1 gold). Avec un peu d’inspiration, elle peut courir en Long et en tant que Pace Chaser (4 :star: pour les 2). Elle possède un gold de recovery de Front Runner et un gold de vélocité et de debuff de Current Speed pour le Medium. Son unique est un boost de vélocité sur les 297 (entre 299 et 295) derniers mètres de course._
+_Ines Fujin est une Front Runner pour le Mile et le Medium (1 gold). Avec un peu d’inspiration, elle peut courir en Long et en tant que Pace Chaser (4 :star: pour les 2). Elle possède un gold de recovery de Front Runner et un gold de vélocité et de debuff de Current Speed pour le Medium. Son unique est un boost de vélocité qui s'active à environ 300 m de la ligne d'arrivée._
 
 - Ines Fujin possède 2 bonus de croissances : 15% en :speed: et 15% en :guts:. C’est un combo correct pour une Front Runner. Dans les distances comme le Mile ou les Medium courts, elle peut utiliser un deck Guts. Dans les autres cas, il sera préférable d’utiliser un deck basique avec Stamina ou Power, en fonction de vos parents et des HPs nécessaires.
 
@@ -213,25 +213,31 @@ _Ines Fujin est une Front Runner pour le Mile et le Medium (1 gold). Avec un peu
     C’est un très bon skill pour les Front Runner, qui est assez similaire à _Speed Eater_ (**Greed for Speed** en Gold) avec un debuff moins fort et un boost de vélocité plus fort.
     >L’évolution de ce skill est très forte, en réglant son seul problème qu’est la durée de base du speed boost.
 
-- Son unique est un boost de vélocité sur les 297 (entre 299 et 295) derniers mètres de course si elle est dans le top 2. L’unique devient beaucoup plus puissant si elle sort d’une montée juste avant d’entrer dans sa phase d’activation. La variation puissante ne s’active qu’à Tokyo, la rendant une Tokyo Racetrack spécialiste.
+- Son unique est un boost de vélocité s'activant à environ 300m de la ligne d'arrivée (la zone d'activation exacte est à 299-295m de la ligne d'arrivée), si elle est dans le top 2. L’unique devient bien plus puissant si elle sort d’une côte immédiatement avant la zone d’activation (la côte doit être au plus tard à 300m de la ligne d'arrivée). La variation puissante ne s’active qu’à Tokyo, faisant d'elle une spécialiste de cet hippodrome.
 
 ::: info En tant que Parent
 
-Elle est un bon parent pour les Front Runners seulement sur les courses sur le racetrack de Tokyo.
+Elle est un bon parent pour les Front Runners seulement sur les courses sur l'hippodrome de Tokyo.
 
 :::
 
-Pull ou pas ? :
+#### Pull ou pas ? :
 
 Non, sauf si elle est votre Oshi.
  
-Ines Fujin est une Front Runner correct sur tous les racetracks sauf Tokyo, où elle est plutôt forte.
+Ines Fujin est une Front Runner génériquement correcte la plupart du temps, et qui sera plus redoutable à Tokyo en particulier.
 
-Sur les racetracks autre que Tokyo, son unique possède une valeur faible, même si elle garde une zone d’activation intéressante. Son unique ne l’aide pas à battre les Front Runner. Au contraire d’autres Front Runner qui ont un unique qui s’active en Mid-Race pour battre les autres Front Runner afin d'activer _**Angling & Scheming**_, l’unique d’Ines Fujin est là pour ne pas perdre contre la backline sur la fin de la course. Mais ce n’est pas forcément suffisant vu que l’unique est faible sur ces racetracks.
+Sur les hippodromes autre que Tokyo, son unique possède une valeur faible, même si elle garde une zone d’activation intéressante. Son unique ne l’aide pas à battre les Front Runner. Contrairement à d’autres Front Runner qui ont un unique qui s’active en Mid-Race pour battre les autres Front Runner afin d'activer _**Angling & Scheming**_, l’unique d’Ines Fujin est là pour ne pas perdre contre la backline sur la fin de la course. Mais sa faible puissance ne suffira pas.
 
-Au racetrack de Tokyo, son unique lui permet d’être encore plus forte contre la backline.
+A l'hippodrome de Tokyo, son unique lui permet de résister la backline.
+
+::: info Un peu plus de details
+
+Les Front Runner possède le multiplicateur de vélocité le plus faible en Final Straight. Si votre Front Runner n'a pas pris assez d'avance sur les autres parties de courses, surtout l'Early-Race et le Mid-Race, elle se fera rattraper par la backline. Les skills deviennent donc important pour leur résister. Son unique devient un boost de vélocité en plus pour leur résister.
+
+:::
  
-Son outil pour battre les autres Front Runner est son gold **Wild Wind**. La combinaison des 2 fait qu’elle est assez forte sur toute la longueur de la course en Medium.
+Son outil pour battre les autres Front Runner est son gold **Wild Wind**. La combinaison de son unique et de ce gold fait qu’elle est assez forte sur toute la longueur de la course en Medium.
 
 
 ### Bannière Support à suivre : Mr. C.B. Wit SSR & Tokai Teio Stamina SR
@@ -242,7 +248,7 @@ Son outil pour battre les autres Front Runner est son gold **Wild Wind**. La com
 
 - Son Unique Effect lui donne Wit Bonus et Skill Point Bonus quand son bond gauge est à 80 (orange).
 
-- Ses rainbows sont bons avec un bon Friendship Bonus, du Special Priority correct, son double Wit Bonus et son Speed Bonus, son faible Training Effectivennes et potentiellement son Mood Effect. Son cross-training est correct bien que son Training Effectivenness et son Race Bonus soient faibles grâce à son Skill Point Bonus. Le Mood Effect rendra son cross-training un peu meilleur.
+- Ses rainbows sont bons avec un bon Friendship Bonus, du Special Priority correct, son double Wit Bonus et son Speed Bonus. Son cross-training est moyen avec ses Training Effectivenness et Race Bonus, mais on appréciera Skill Point Bonus et son Speed Bonus. Si vous l'avez en MLB, l'ajout du Mood Effect rendra son cross-training correct.
 
 - Elle propose une liste de 7 hints, dont les très bons _Straightaway Spurt_ et _Tail Held High_. Elle possède Hint Level et Hint Frequency, ses hint seront assez forts et fréquents.
 
@@ -262,7 +268,7 @@ Son outil pour battre les autres Front Runner est son gold **Wild Wind**. La com
 
 Si vous n’avez pas de top tiers Wit SSR support ou que vous jouez pas mal d’End Closer, oui.
  
-Mr. C.B. Wit SSR est un très bon support dès LB1. Bien que son Race Bonus soit faible pour Trackblazer, elle rentre bien dans les decks pour les End Closer, libérant la potentielle place que prenait Admire Vega Power SSR et de l’utiliser pour faire des decks Guts.
+Mr. C.B. Wit SSR est un très bon support dès LB1. Bien que son Race Bonus soit faible pour Trackblazer, elle rentre bien dans les decks pour les End Closer, libérant la potentielle place que prenait Admire Vega Power SSR, afin d’utiliser sa version Guts à la place.
 Le fait qu’elle soit Wit lui donne de la flexibilité d’usage mais aussi de la longévité qu’Admire Vega Power SSR ne possède pas. C’est tout simplement une bonne carte à pull.
 
 Je dirais qu’elle peut être considérée comme la seconde meilleure carte Wit qu’on à pour l’instant, avec Nice Nature Wit SSR en 3ème  Sur Trackblazer, il est possible que cela soit inversé entre Mr.C.B. et Nice Nature.

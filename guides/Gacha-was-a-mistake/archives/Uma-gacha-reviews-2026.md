@@ -716,7 +716,7 @@ Sur les courses mentionnées plus haut, mais aussi Tokyo 1300m Dirt / Tokyo 1400
 
 :::
 
-Pull ou pas ? :
+##### Pull ou pas ? :
 
 Si l’une des 2 est votre Oshi, oui sinon non.
  
