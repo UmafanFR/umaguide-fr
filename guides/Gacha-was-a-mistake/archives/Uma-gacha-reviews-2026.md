@@ -729,3 +729,51 @@ King Halo (Cheerleader) est très forte sur certaines courses spécifiques où s
 King Halo (Cheerleader) est une uma spécialiste de certaines courses, mais qui est assez mauvaise sur les autres courses. C’est une alt moyenne.
 
 ::::
+
+## #44 - Ines Fujin ★★★
+
+![Image de présentation de la bannière Ines Fujin](/public/assets/Gacha-reviews/2026/044_Uma-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Ines Fujin** :
+
+_Ines Fujin est une Front Runner pour le Mile et le Medium (1 gold). Avec un peu d’inspiration, elle peut courir en Long et en tant que Pace Chaser (4 :star: pour les 2). Elle possède un gold de recovery de Front Runner et un gold de vélocité et de debuff de Current Speed pour le Medium. Son unique est un boost de vélocité qui s'active à environ 300 m de la ligne d'arrivée._
+
+- Ines Fujin possède 2 bonus de croissances : 15% en :speed: et 15% en :guts:. C’est un combo correct pour une Front Runner. Dans les distances comme le Mile ou les Medium courts, elle peut utiliser un deck Guts. Dans les autres cas, il sera préférable d’utiliser un deck basique avec Stamina ou Power, en fonction de vos parents et des HPs nécessaires.
+
+- Ses gold skills sont :
+
+    - **Restless**, la gold version de _Moxie_. C’est un gold recovery de Front Runner qui s’active sur la première côte possible après les 10 premières secondes de course. Le skill est très fiable en Long, et marche la plupart du temps en Medium. En Sprint et en Mile, c'est plus variable.
+
+    - **Wild Wind**, la gold version de _With All My Soul_. C’est un gold de vélocité et de debuff de Current Speed pour le Medium. Il s’active aléatoirement en Mid-Race si l’uma est dans le top 3. Le boost de vélocité est assez classique, bien que sa durée de base soit assez basse. Le debuff touche les 5 umas les plus proches d’Ines Fujin.<br>
+    C’est un très bon skill pour les Front Runner, qui est assez similaire à _Speed Eater_ (**Greed for Speed** en Gold) avec un debuff moins fort et un boost de vélocité plus fort.
+    >L’évolution de ce skill est très forte, en réglant son seul problème qu’est la durée de base du speed boost.
+
+- Son unique est un boost de vélocité s'activant à environ 300m de la ligne d'arrivée (la zone d'activation exacte est à 299-295m de la ligne d'arrivée), si elle est dans le top 2. L’unique devient bien plus puissant si elle sort d’une côte immédiatement avant la zone d’activation (la côte doit être au plus tard à 300m de la ligne d'arrivée). La variation puissante ne s’active qu’à Tokyo, faisant d'elle une spécialiste de cet hippodrome.
+
+::: info En tant que Parent
+
+Elle est un bon parent pour les Front Runners seulement sur les courses sur l'hippodrome de Tokyo.
+
+:::
+
+#### Pull ou pas ? :
+
+Non, sauf si elle est votre Oshi.
+ 
+Ines Fujin est une Front Runner génériquement correcte la plupart du temps, et qui sera plus redoutable à Tokyo en particulier.
+
+Sur les hippodromes autre que Tokyo, son unique possède une valeur faible, même si elle garde une zone d’activation intéressante. Son unique ne l’aide pas à battre les Front Runner. Contrairement à d’autres Front Runner qui ont un unique qui s’active en Mid-Race pour battre les autres Front Runner afin d'activer _**Angling & Scheming**_, l’unique d’Ines Fujin est là pour ne pas perdre contre la backline sur la fin de la course. Mais sa faible puissance ne suffira pas.
+
+A l'hippodrome de Tokyo, son unique lui permet de résister la backline.
+
+::: info Un peu plus de details
+
+Les Front Runner possède le multiplicateur de vélocité le plus faible en Final Straight. Si votre Front Runner n'a pas pris assez d'avance sur les autres parties de courses, surtout l'Early-Race et le Mid-Race, elle se fera rattraper par la backline. Les skills deviennent donc important pour leur résister. Son unique devient un boost de vélocité en plus pour leur résister.
+
+:::
+ 
+Son outil pour battre les autres Front Runner est son gold **Wild Wind**. La combinaison de son unique et de ce gold fait qu’elle est assez forte sur toute la longueur de la course en Medium.
+
+::::
