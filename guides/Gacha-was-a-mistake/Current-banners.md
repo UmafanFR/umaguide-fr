@@ -170,28 +170,27 @@ Tokai Teio Stamina SR est mauvaise et n’est pas une carte intéressante.
 
 _Mejiro Palmer est une Front Runner pour le Medium et le Long (1 gold). Elle possède un gold de vélocité universelle et un gold de vélocité pour le Long. Son unique est un hybride de recovery et de vélocité de moitié de course._
  
-- Mejiro Palmer possède 3 bonus de croissances : 10% en :speed:, 10% en :stamina: et 10% en :guts:. C’est un bon combo pour une Front Runner en Long, sa distance de prédilection. Il est techniquement possible de la jouer Guts en Medium, mais cela peut être compliqué à la mettre réellement en place à cause de son unique qui est difficile à activer sur Trackblazer. Ses decks seront principalement des decks avec Power tant qu’on est sur ce scénario.
+- Mejiro Palmer possède 3 bonus de croissances : 10% en :speed:, 10% en :stamina: et 10% en :guts:. C’est un bon combo pour une Front Runner en Long, sa distance de prédilection. Il est techniquement possible de la jouer Guts en Medium, mais cela peut être compliqué à la mettre réellement en place à cause de son unique qui est difficile à activer sur Trackblazer (où les build basées sur guts sont souvent favorables). Ses decks seront principalement des decks avec Power tant qu’on est sur ce scénario.
 
 - Ses gold skills sont :
 
-    - **See Ya Later !**, la gold version de **Playtime’s Over !**. C’est un gold de vélocité universelle, s’activant après au moins 10 secondes de course si elle a une uma derrière elle pendant 3 secondes. Les 2 lanes juste à côté fonctionnent pour être considéré derrière. C’est un très bon skill.
+    - **See Ya Later !**, la gold version de **Playtime’s Over !**. C’est un gold de vélocité universelle, s’activant après au moins 10 secondes de course si elle a une uma derrière elle pendant 3 secondes. Les 2 lanes juste à côté fonctionnent pour être considéré derrière. C’est un très bon skill, qui à la possibilité de s'activer 2 fois. C'est un skill parfait pour sa distance de prédilection qu'est le Long.
 
-    - **Vanguard Spirit**, la gold version de _Keeping the Lead_. C’est un gold de vélocité pour le Long, qui s’active aléatoirement en Mid-Race, si elle est première et qu’il y a au moins un écart d’1L entre elle et la seconde uma. C’est un bon skill pour garder la tête pour pouvoir activer les skills d’accélération en Late-Race.
+    - **Vanguard Spirit**, la gold version de _Keeping the Lead_. C’est un gold de vélocité pour le Long, qui s’active aléatoirement en Mid-Race, si elle est première avec au moins une longueur d'avance. C’est un bon skill pour garder la tête pour pouvoir activer les skills d’accélération en Late-Race.
 
-- Si elle gagne les 2 Arima Kinen et le Takarazuka Kinen (Senior), elle obtient le skill **Runaway** grâce à un Secret Event. C’est un skill qui lui permet de courir dans une autre stratégie. Elle est notre seconde Runaway en Global avec Silence Suzuka.
+- Si elle gagne les 2 Arima Kinen et le Takarazuka Kinen (Senior), elle obtient le skill **Runaway** grâce à un Secret Event. C’est un skill qui lui permet de courir dans une autre stratégie. Elle est notre seconde Runaway en Global avec Silence Suzuka. (L'évènement ne se déclenche pas sur Trackblazer).
 
 [Voici l'explication de la stratégie Runaway](/guides/FAQ/glossary.md#runaway-ou-great-escape-ou-oonige-jp)
 
-- Son unique est un hybride de recovery et de vélocité de moitié de course. Il s’active si Mejiro Palmer est constamment dans le top 20% après les 5 premières secondes de course.
-Sur Trackblazer, ce n’est pas un bon unique en Medium. Les Secret Events sont désactivés sur Trackblazer et elle est donc dans l’impossibilité d’obtenir Runaway. En Long, il s’active bien s’il n’y a pas trop de Front Runner.
-Sur les autres scénarios, c’est un bon unique pour une Runaway. Cela lui permet de régler un peu le problème que les Runaway ont, qui est la consommation d’HPs et la quantité de Stamina nécessaire. Cela lui permet d’être la première Runaway possible sur la distance Long.
+- Son unique est un hybride de recovery et de vélocité s'activant à la moitié de la course. Pour cela, Mejiro Palmer doit être restée constamment top20%, depuis les 5 premières secondes, et jusqu'à la moitié de la course (point d'activation).
+L'unique est bon, même très bon en Runaway, mais il est difficile à activer dans les courses Medium et même les Long si vous êtes dans une room avec beaucoup de Front Runner. Quand elle pourra obtenir Runaway, l'unique sera bien plus facile à activer car les  seules umas qui pourront l'en empêcher seront Silence Suzuka ou d'autres Mejiro Palmer. La raison que je la trouve mauvaise en Medium sans Runaway est qu'il y a pas mal de Front Runner dans les rooms en Medium et surtout des Front Runners très forte comme Seiun Sky ou Mihono Bourbon (Valentine).
 
 
 #### Pull ou pas ? :
 
 Non, sauf si elle est votre Oshi.
  
-Mejiro Palmer est une Runaway et si vous voulez la pull, il faut que faire une Runaway vous intéresse. En tant que Front Runner, elle est médiocre. Le problème est que faire une Front Runner est déjà compliqué, une Runaway capable de gagner, surtout en Long, le sera encore plus.
+Mejiro Palmer est une Runaway et si vous voulez la pull, il faut que faire une Runaway vous intéresse. En tant que Front Runner, elle est médiocre dû à la difficulté d'activé son unique. Le problème est que faire une Front Runner est déjà compliqué, une Runaway capable de gagner, surtout en Long, le sera encore plus. Mais Mejiro Palmer à les outils pour réussir. Et même si elle ne gagne pas la course, elle va géner les autres Front Runners dû au fait qu'elle soit une Runaway. C'est l'uma qui va vous permettre de contrer les Kitasan Black et Seiun Sky (Ballroom) dans les courses Long.
  
 Cela veut aussi dire d’attendre le prochain scénario, Grand Live, pour pouvoir vraiment la jouer.
 
