@@ -182,15 +182,15 @@ _Mejiro Palmer est une Front Runner pour le Medium et le Long (1 gold). Elle pos
 
 [Voici l'explication de la stratégie Runaway](/guides/FAQ/glossary.md#runaway-ou-great-escape-ou-oonige-jp)
 
-- Son unique est un hybride de recovery et de vélocité s'activant à la moitié de la course. Pour cela, Mejiro Palmer doit être restée constamment top20%, depuis les 5 premières secondes, et jusqu'à la moitié de la course (point d'activation).
-L'unique est bon, même très bon en Runaway, mais il est difficile à activer dans les courses Medium et même les Long si vous êtes dans une room avec beaucoup de Front Runner. Quand elle pourra obtenir Runaway, l'unique sera bien plus facile à activer car les  seules umas qui pourront l'en empêcher seront Silence Suzuka ou d'autres Mejiro Palmer. La raison que je la trouve mauvaise en Medium sans Runaway est qu'il y a pas mal de Front Runner dans les rooms en Medium et surtout des Front Runners très forte comme Seiun Sky ou Mihono Bourbon (Valentine).
+- Son unique est un hybride de recovery et de vélocité s'activant à la moitié de la course. Pour cela, Mejiro Palmer doit être restée constamment top 20%, depuis les 5 premières secondes, et jusqu'à la moitié de la course (point d'activation).
+L'unique est bon, même très bon en Runaway, mais il est difficile à activer dans les courses Medium et même les Long si vous êtes dans une room avec beaucoup de Front Runner. Quand elle pourra obtenir Runaway, l'unique sera bien plus facile à activer car les  seules umas qui pourront l'en empêcher seront Silence Suzuka ou d'autres Mejiro Palmer. La raison que l'unique pose problème en Medium sans Runaway, est qu'il y a pas mal de Front Runner dans les rooms en Medium et surtout des Front Runners très forte comme Seiun Sky ou Mihono Bourbon (Valentine).
 
 
 #### Pull ou pas ? :
 
 Non, sauf si elle est votre Oshi.
  
-Mejiro Palmer est une Runaway et si vous voulez la pull, il faut que faire une Runaway vous intéresse. En tant que Front Runner, elle est médiocre dû à la difficulté d'activé son unique. Le problème est que faire une Front Runner est déjà compliqué, une Runaway capable de gagner, surtout en Long, le sera encore plus. Mais Mejiro Palmer à les outils pour réussir. Et même si elle ne gagne pas la course, elle va géner les autres Front Runners dû au fait qu'elle soit une Runaway. C'est l'uma qui va vous permettre de contrer les Kitasan Black et Seiun Sky (Ballroom) dans les courses Long.
+Mejiro Palmer est une Runaway et si vous voulez la pull, il faut que faire une Runaway vous intéresse. En tant que Front Runner, elle est peut exceptionnelle dû à la difficulté d'activé son unique. Le problème est que faire une Front Runner est déjà compliqué, une Runaway capable de gagner, surtout en Long, le sera encore plus. Mais Mejiro Palmer à les outils pour réussir. Et même si elle ne gagne pas la course, elle va géner les autres Front Runners dû au fait qu'elle soit une Runaway. C'est l'uma qui va vous permettre de contrer les Kitasan Black et Seiun Sky (Ballroom) dans les courses Long.
  
 Cela veut aussi dire d’attendre le prochain scénario, Grand Live, pour pouvoir vraiment la jouer.
 
