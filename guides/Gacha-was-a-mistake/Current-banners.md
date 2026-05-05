@@ -1,5 +1,5 @@
 ---
-title: Gacha - Nice Nature (Cheerleader) & King Halo (Cheerleader) ★★★ // Bamboo Memory Guts SSR & Seeking the Pearl Speed SSR
+title: Gacha - Ines Fujin ★★★ // Mr. C.B. Wit SSR & Tokai Teio Stamina SR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/043_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/044_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -75,129 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Nice Nature (Cheerleader) & King Halo (Cheerleader) ★★★
+### Bannière Umamusume : Ines Fujin ★★★
 
-![Image de présentation de la bannière Nice Nature (Cheerleader) & King Halo (Cheerleader)](/public/assets/Gacha-reviews/2026/043_Uma-Banner.png)
-
-⏩ **Nice Nature (Cheerleader)** :
-
-_Nice Nature (Cheerleader) est une Late Surger pour le Medium et le Long. Avec un peu d’inspiration, elle peut courir en Mile (4 :star:) mais aussi en tant que Pace Chaser (1 :star:) et en tant qu’End Closer (7 :star:). Elle possède un gold de debuff pour le Medium et un gold d’accélération universel. Son unique est un boost de vélocité de Final Straight._
- 
-- Nice Nature (Cheerleader) possède 3 bonus de croissances : 10% en :stamina:, 10% en :power: et 10% en :wit:. C’est un excellent combo de bonus, parfait pour ses 2 distances maîtres. Ses decks seront assez basiques à base de Speed / Power / Wit.
-
-- Ses gold skills sont :
-
-    - **Dominator**, la gold version de _Tether_. C’est un gold de debuff de Current Speed pour le Medium, qui s’active aléatoirement en Late-Race si l’uma dans le bottom 50%. C’est toujours un bon skill.
-    >L’évolution de son skill est plutôt mauvaise, il sera généralement mieux de garder **Dominator**.
-
-    - **No Stopping Me !**, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant en Late Race si votre uma a assez de HP pour finir la course, et qu'une uma adverse se trouve devant elle (en face, ou sur une voie adjacente) pendant 1 seconde. C’est un très bon skill universel (sauf pour les Front Runner).
-
-- Son unique est un boost de vélocité de Final Straight. L'unique s'active si elle est entre bottom 60% et top 70% (≥ 4 en CM // ≤ 6 en CM) sur le final straight, à condition d'avoir dépassé au moins une uma pendant le Final Corner. Si Nice Nature (Cheerleader) est top 4 plus populaire, le skill dure un peu plus longtemps.
- 
-⏩ **King Halo (Cheerleader)** :
-
-_King Halo (Cheelearder) est une Late Surger pour le Sprint. Avec un peu d’inspiration, elle peut courir dans toutes les distances (1 :star: pour le Mile et le Medium et 4 :star: pour le Long). Elle peut aussi courir en tant que Pace Chaser et End Closer pour respectivement 1 et 7 :star:. Elle possède un gold skill de vélocité et un gold green. Son unique est un boost d’accélération de Final Straight._
- 
-- King Halo (Cheerleader) possède 3 bonus de croissances : 10% en :speed:, 10% en :power: et 10% en :guts:. C’est un très bon combo de bonus pour une uma Sprint. Elle utilisera soit des deck Guts ou Power.
-
-- Ses gold skills sont :
-
-    - **Rising Dragon**, la gold version d’_Outer Swell_. C’est un gold de vélocité de Late Surger, qui s’active en Final Corner si elle double une autre uma et que l’uma qui est derrière elle soit plus proche de la barrière que King Halo (Cheeleader). C’est un skill assez bon. En Sprint, il peut créer du carry-over, surtout pour les courses où son unique sera fort.
-
-    - **Spring Spectacle**, la gold version de _Spring Runner_. C’est un Green gold qui lui donne 60 de stats en Speed et Power. C’est sympa surtout avec des hints de Spring Runner. Le fait qu'il soit restraint au courses en Spring, le rends moins fort que d'autres gold green.
-
-::: tip Meilleur quand les stats seront à au moins à 1200
-
-Plus tard, quand on aura une limite de stats plus haute, alors lorsqu'une stat atteindra 1200 il sera plus difficile de la monter davantage. Cela fait que les boosts de stats des skills greens deviennent plus intéressants au-delà de 1200 dans la stat de leur boost.
-
-:::
-
-- Son unique est un boost d’accélération de Final Straight. L'unique s'active sur le Final Straight, à condition que King n'ait jamais rush pendant la course, et qu'elle soit restée constamment bottom 30% (≥6 en CM) pendant la première moitiée.
->L’unique est fort sur 5 courses en Turf (Niigata 1000 m / Niigata 1600m / Niigata 1800m / Tokyo 1400m / Chukyo 1200m).
- 
-::: info En tant que parent
-
-Sur les courses mentionnées plus haut, mais aussi Tokyo 1300m Dirt / Tokyo 1400m Dirt / Chukyo 1200m Dirt, elle est un excellent parent pour la backline. Surtout que ce sont des courses où Mejiro Dober et Mejiro Ryan ne sont pas de bons parents. Elle permet de rendre la backline plus fiables au lieu d'êtres restreint à l'ancien combo d'El Condor Pasa et Hallowwen Creek, ou que ce soit un Pace Chaser fest avec l'unique de Nishino Flower.
-
-:::
-
-#### Pull ou pas ? :
-
-Si l’une des 2 est votre Oshi, oui sinon non.
- 
-Nice Nature (Cheerleader) est pour l’instant meilleur que sa version OG en tant qu’Ace, mais les skills roses rendent la OG au moins aussi forte. En tant que debuffeuse, Nice Nature (Cheerleader) est aussi meilleur que sa version OG, dû au fait que les debuff d’HPs vont perdent en utilité comparé au debuff de Current Speed, qui reste toujours fort. Son unique est meilleur que sa version OG.
-
-Nice Nature (Cheerleader) est une bonne uma qui aura toujours un peu d’utilité grâce à **Dominator**. C’est une bonne alt.
- 
-King Halo (Cheerleader) est très forte sur certaines courses spécifiques où son unique s’active et que son gold skill Rising Dragon peut créer du carry-over. En dehors de ces courses, elle est au mieux équivalente à sa version OG, mais elle est généralement moins bonne si vous arrivez à activer l’unique de la OG.
-
-King Halo (Cheerleader) est une uma spécialiste de certaines courses, mais qui est assez mauvaise sur les autres courses. C’est une alt moyenne.
-
----
-
-### Bannière support : Bamboo Memory Guts SSR & Seeking the Pearl Speed SSR
-
-![Image de présentation de la bannière Bamboo Memory Guts SSR & Seeking the Pearl Speed SSR](/public/assets/Gacha-reviews/2026/043_Card-Banner.png)
-
-⏩**Bamboo Memory** :guts: :SSR:
-
-- La carte est backloaded. A 1LB, elle débloque Guts Bonus puis Training Effectiveness à 3LB
-
-- Son Unique Effect est spécial. Moins votre uma a d’énergie, plus cette carte gagne en Friendship Bonus (de +5 à +15). Son Unique Effect donne du Friendship Bonus. Ainsi, son Friendship Bonus réel est plus élevé que le nombre affiché. A 3LB, le Friendship Bonus va de 26 à 38.
-
-- Ses rainbows sont bons, avec son Friendship Bonus, son bon Special Priority, son combo de Speed et Guts Bonus et son bon Training Effectiveness. Son cross-training est assez bon avec son Training Efefctiveness, son Race Bonus et son combo de stats bonus.
- 
-::: info Sur Trackblazer
-
-Ses rainbows sur Trackblazer peuvent être enchaînés à pleine puissance avec l’objet Good-Luck Charm. Si vous utilisez Bamboo Memory Guts SSR, cet objet prend en valeur.
-
-:::
- 
-- Elle propose une liste de 6 hints❗assez sympas
-
-- Son gold skill est **Full of Vigor**, la gold version de _Pumped_. C’est un boost de vélocité pour le Mile, qui s’active aléatoirement en Final Corner si elle est dans le bottom 50% (≥5 en CM). C’est un skill qui est très similaire à **Speed Star**, juste spécifique au Mile et aux umas de la backline.<br>
-Le skill a une chance de s'activer avec un timing permettant un carry over, ce qui le rend explosif en cas de succès (en cas d'échec, l'activation est gâchée par l'accélération). C’est un skill qui est gamble.
-
-- Ses Chain Events sont cependant énergivores. Il est possible de briser la chaîne dès le premier Chain Event pour 30 skills points. Son dernier Chain Event est **Agemasen**.
-
-
-⏩**Seeking the Pearl** :speed: :ssr:
-
-- La carte est frontloaded. A 1LB, elle débloque Speed Bonus puis Initial Power à 3LB.
-
-- Son Unique Effect est spécial. Plus la quantité d’énergie maximum est élevée, plus son gain de Training Effectivennes sera élevé. Ce bonus va de 5 à 20 de Training Effectiveness.
- 
-::: info Sur Trackblazer
-
-Les objets qui augmentent l’énergie maximum rendent la carte plus forte. Mais ces objets restent mauvais et pas rentables. La carte perdra encore plus en valeur dans les futurs scénarios, car il ne sera pas aussi simple de monter l'énergie max.
-
-:::
- 
-- Ses rainbows sont corrects, avec un assez bon Friendship Bonus, un bon Special Priority et le Speed Bonus. Son cross-training est généralement faible, jusqu’à très bon si vous maximisez son Unique Effect vu qu’elle ne possède qu’un faible Race Bonus et son Speed Bonus.
-
-- Elle possède l’incroyable Skill Point Bonus, ce qui la rend un peu meilleure que ses autres stats démontrent.
-
-- Elle propose une liste de 9 hints❗, dont le seul qui sort du lot est _Head-On_ pour sa rareté. Elle possède Hint Level et Hint Frequency mais les 2 sont faibles. Ses hints restent faibles.
-
-- Son gold skill est **Dauntless**, la gold version de _Fearless_. C’est un gold hybride de vélocité et d’une faible accélération de Late Surger. Il s’active à un point random de la 2ème moitié de course si l’uma est entre le bottom 70% et le top 80% (≥ 3 en CM // ≤ 7 en CM). Si le skill s’active juste avant le Late-Race, il sera très fort, s’il s’active ailleurs, il reste correct.
-
- 
-#### PULL OU PAS
-**Non**.
- 
-Bamboo Memory Guts SSR n’est pas mauvaise, surtout sur Trackblazer où il est possible de maximiser sa puissance, mais elle reste backloaded. Elle n’est pas assez forte et importante pour qu’on dépense autant de carats. Si vous voulez l'utiliser, empruntez là, c’est une bonne carte d’emprunt.
- 
-Seeking the Pearl Speed SSR n’est pas une bonne carte. Son seul bon point est son Skill Point Bonus et qu’elle soit Frontloaded. Mais posséder Skill Point Bonus n’est pas suffisant pour la rendre bonne, surtout quand on a des bonnes cartes qui possèdent aussi ce bonus.
- 
-Ne pullez pas sur cette bannière.
-
----
-
-# Bannières à suivre (30 Avril 23h)
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/044_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Ines Fujin ★★★
+![Image de présentation de la bannière Ines Fujin](/public/assets/Gacha-reviews/2026/044_Uma-Banner.png)
 
 ⏩ **Ines Fujin** :
 
@@ -239,8 +119,11 @@ Les Front Runner possède le multiplicateur de vélocité le plus faible en Fina
  
 Son outil pour battre les autres Front Runner est son gold **Wild Wind**. La combinaison de son unique et de ce gold fait qu’elle est assez forte sur toute la longueur de la course en Medium.
 
+---
 
-### Bannière Support à suivre : Mr. C.B. Wit SSR & Tokai Teio Stamina SR
+### Bannière support : Mr. C.B. Wit SSR & Tokai Teio Stamina SR
+
+![Image de présentation de la bannière Mr. C.B. Wit SSR & Tokai Teio Stamina SR](/public/assets/Gacha-reviews/2026/044_Card-Banner.png)
 
 ⏩**Mr. C.B.** :Wit: :SSR:
 
@@ -274,6 +157,62 @@ Le fait qu’elle soit Wit lui donne de la flexibilité d’usage mais aussi de 
 Je dirais qu’elle peut être considérée comme la seconde meilleure carte Wit qu’on à pour l’instant, avec Nice Nature Wit SSR en 3ème  Sur Trackblazer, il est possible que cela soit inversé entre Mr.C.B. et Nice Nature.
  
 Tokai Teio Stamina SR est mauvaise et n’est pas une carte intéressante.
+
+---
+
+# Bannières à suivre (10 Mai 23h)
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/045_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Mejiro Palmer ★★★
+
+⏩ **Mejiro Palmer** :
+
+_Mejiro Palmer est une Front Runner pour le Medium et le Long (1 gold). Elle possède un gold de vélocité universelle et un gold de vélocité pour le Long. Son unique est un hybride de recovery et de vélocité de moitié de course._
+ 
+- Mejiro Palmer possède 3 bonus de croissances : 10% en :speed:, 10% en :stamina: et 10% en :guts:. C’est un bon combo pour une Front Runner en Long, sa distance de prédilection. Il est techniquement possible de la jouer Guts en Medium, mais cela peut être compliqué à la mettre réellement en place à cause de son unique qui est difficile à activer sur Trackblazer (où les build basées sur guts sont souvent favorables). Ses decks seront principalement des decks avec Power tant qu’on est sur ce scénario.
+
+- Ses gold skills sont :
+
+    - **See Ya Later !**, la gold version de **Playtime’s Over !**. C’est un gold de vélocité universelle, s’activant après au moins 10 secondes de course si elle a une uma derrière elle pendant 3 secondes. Les 2 lanes juste à côté fonctionnent pour être considéré derrière. C’est un très bon skill, qui à la possibilité de s'activer 2 fois. C'est un skill parfait pour sa distance de prédilection qu'est le Long.
+
+    - **Vanguard Spirit**, la gold version de _Keeping the Lead_. C’est un gold de vélocité pour le Long, qui s’active aléatoirement en Mid-Race, si elle est première avec au moins une longueur d'avance. C’est un bon skill pour garder la tête pour pouvoir activer les skills d’accélération en Late-Race.
+
+- Si elle gagne les 2 Arima Kinen et le Takarazuka Kinen (Senior), elle obtient le skill **Runaway** grâce à un Secret Event. C’est un skill qui lui permet de courir dans une autre stratégie. Elle est notre seconde Runaway en Global avec Silence Suzuka. (L'évènement ne se déclenche pas sur Trackblazer).
+
+[Voici l'explication de la stratégie Runaway](/guides/FAQ/glossary.md#runaway-ou-great-escape-ou-oonige-jp)
+
+- Son unique est un hybride de recovery et de vélocité s'activant à la moitié de la course. Pour cela, Mejiro Palmer doit être restée constamment top 20%, depuis les 5 premières secondes, et jusqu'à la moitié de la course (point d'activation).
+L'unique est bon, même très bon en Runaway, mais il est difficile à activer dans les courses Medium et même les Long si vous êtes dans une room avec beaucoup de Front Runner. Quand elle pourra obtenir Runaway, l'unique sera bien plus facile à activer car les  seules umas qui pourront l'en empêcher seront Silence Suzuka ou d'autres Mejiro Palmer. La raison que l'unique pose problème en Medium sans Runaway, est qu'il y a pas mal de Front Runner dans les rooms en Medium et surtout des Front Runners très forte comme Seiun Sky ou Mihono Bourbon (Valentine).
+
+
+#### Pull ou pas ? :
+
+Non, sauf si elle est votre Oshi.
+ 
+Mejiro Palmer est une Runaway et si vous voulez la pull, il faut que faire une Runaway vous intéresse. En tant que Front Runner, elle est peut exceptionnelle dû à la difficulté d'activé son unique. Le problème est que faire une Front Runner est déjà compliqué, une Runaway capable de gagner, surtout en Long, le sera encore plus. Mais Mejiro Palmer à les outils pour réussir. Et même si elle ne gagne pas la course, elle va géner les autres Front Runners dû au fait qu'elle soit une Runaway. C'est l'uma qui va vous permettre de contrer les Kitasan Black et Seiun Sky (Ballroom) dans les courses Long.
+ 
+Cela veut aussi dire d’attendre le prochain scénario, Grand Live, pour pouvoir vraiment la jouer.
+
+### Bannière Support à suivre : Rice Shower Power SSR & Matikanefukukitaru Speed SSR (rerun)
+
+⏩**Rice Shower** :power: :SSR:
+
+[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_19-rice-shower-power-ssr-riko-kashimoto-pal-ssr)
+
+⏩**Matikanefukukitaru** :speed: :ssr:
+
+[Vous pouvez retourver sa bannière ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_31-admire-vega-power-ssr-matikanefukukitaru-ssr-speed)
+ 
+#### PULL OU PAS
+
+**Non**.
+
+Rice Shower Power SSR est obsolète maintenant qu'on est plus sur **Unity Cup**. Matikanefukukitaru Speed SSR est à moitié de vie. Elle ne sera plus utilisé dès que le prochain scénario, **Grand Live**, sortira.
+
+Une carte qui sera utile seulement pour un scénario est à prendre avant ou à la sortie du scénario, pas pendant le scénario. Elle ne sera pas assez rentable.
+
+Ne pullez pas sur cette bannière.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 

@@ -739,3 +739,44 @@ Seeking the Pearl Speed SSR n’est pas une bonne carte. Son seul bon point est 
 Ne pullez pas sur cette bannière.
 
 ::::
+
+## #44 - Mr. C.B. Wit SSR & Tokai Teio Stamina SR
+
+![Image de présentation de la bannière Mr. C.B. Wit SSR & Tokai Teio Stamina SR](/public/assets/Gacha-reviews/2026/044_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Mr. C.B.** :Wit: :SSR:
+
+- Mr. C.B. Wit SSR est frontloaded / équilibré. A 1LB, elle débloque Wit Bonus puis Mood Effect à 3LB.
+
+- Son Unique Effect lui donne Wit Bonus et Skill Point Bonus quand son bond gauge est à 80 (orange).
+
+- Ses rainbows sont bons avec un bon Friendship Bonus, du Special Priority correct, son double Wit Bonus et son Speed Bonus. Son cross-training est moyen avec ses Training Effectivenness et Race Bonus, mais on appréciera Skill Point Bonus et son Speed Bonus. Si vous l'avez en MLB, l'ajout du Mood Effect rendra son cross-training correct.
+
+- Elle propose une liste de 7 hints, dont les très bons _Straightaway Spurt_ et _Tail Held High_. Elle possède Hint Level et Hint Frequency, ses hint seront assez forts et fréquents.
+
+- Le skill gold est **Daring Strike**, la gold version d’_Early Start_. C’est un gold de vélocité pour End Closer, qui s’active dans le Mid-Race si elle est dans le bottom 50%. C'est un très bon skill dont la force est dans sa durée. Il permet aussi de bien se placer pour les End Closer avant le Late-Race.
+
+⏩**Tokai Teio** :stamina: :sr:
+
+- Tokai Teio Stamina SR est backloaded. A 1LB, elle débloque Initial Friendship Gauge puis Skill Point Bonus à 3LB.
+
+- Ses rainbows sont mauvais avec un faible Friendship Bonus, son absence de Special Priority, un peu compenser par son Training Effectivennes correct. Son cross-training est bon avec son Training Effectiveness et son Race Bonus mais aussi le Skill Point Bonus.
+
+- Elle propose une liste de 6 hints peu intéressants. Elle possède un très bon Hint Level et Hint Frequency. Ses hints seront puissants et fréquents.
+
+- Son dernier Chain Event donne **Medium Corners**.
+ 
+#### PULL OU PAS
+
+Si vous n’avez pas de top tiers Wit SSR support ou que vous jouez pas mal d’End Closer, oui.
+ 
+Mr. C.B. Wit SSR est un très bon support dès LB1. Bien que son Race Bonus soit faible pour Trackblazer, elle rentre bien dans les decks pour les End Closer, libérant la potentielle place que prenait Admire Vega Power SSR, afin d’utiliser sa version Guts à la place.
+Le fait qu’elle soit Wit lui donne de la flexibilité d’usage mais aussi de la longévité qu’Admire Vega Power SSR ne possède pas. C’est tout simplement une bonne carte à pull.
+
+Je dirais qu’elle peut être considérée comme la seconde meilleure carte Wit qu’on à pour l’instant, avec Nice Nature Wit SSR en 3ème  Sur Trackblazer, il est possible que cela soit inversé entre Mr.C.B. et Nice Nature.
+ 
+Tokai Teio Stamina SR est mauvaise et n’est pas une carte intéressante.
+
+:::
