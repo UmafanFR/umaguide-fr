@@ -1,5 +1,5 @@
 ---
-title: Gacha - Ines Fujin ★★★ // Mr. C.B. Wit SSR & Tokai Teio Stamina SR
+title: Gacha - Mejiro Palmer ★★★ // Rice Shower Power SSR & Matikanefukukitaru Speed SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -75,96 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Ines Fujin ★★★
+### Bannière Umamusume : Mejiro Palmer ★★★
 
-![Image de présentation de la bannière Ines Fujin](/public/assets/Gacha-reviews/2026/044_Uma-Banner.png)
-
-⏩ **Ines Fujin** :
-
-_Ines Fujin est une Front Runner pour le Mile et le Medium (1 gold). Avec un peu d’inspiration, elle peut courir en Long et en tant que Pace Chaser (4 :star: pour les 2). Elle possède un gold de recovery de Front Runner et un gold de vélocité et de debuff de Current Speed pour le Medium. Son unique est un boost de vélocité qui s'active à environ 300 m de la ligne d'arrivée._
-
-- Ines Fujin possède 2 bonus de croissances : 15% en :speed: et 15% en :guts:. C’est un combo correct pour une Front Runner. Dans les distances comme le Mile ou les Medium courts, elle peut utiliser un deck Guts. Dans les autres cas, il sera préférable d’utiliser un deck basique avec Stamina ou Power, en fonction de vos parents et des HPs nécessaires.
-
-- Ses gold skills sont :
-
-    - **Restless**, la gold version de _Moxie_. C’est un gold recovery de Front Runner qui s’active sur la première côte possible après les 10 premières secondes de course. Le skill est très fiable en Long, et marche la plupart du temps en Medium. En Sprint et en Mile, c'est plus variable.
-
-    - **Wild Wind**, la gold version de _With All My Soul_. C’est un gold de vélocité et de debuff de Current Speed pour le Medium. Il s’active aléatoirement en Mid-Race si l’uma est dans le top 3. Le boost de vélocité est assez classique, bien que sa durée de base soit assez basse. Le debuff touche les 5 umas les plus proches d’Ines Fujin.<br>
-    C’est un très bon skill pour les Front Runner, qui est assez similaire à _Speed Eater_ (**Greed for Speed** en Gold) avec un debuff moins fort et un boost de vélocité plus fort.
-    >L’évolution de ce skill est très forte, en réglant son seul problème qu’est la durée de base du speed boost.
-
-- Son unique est un boost de vélocité s'activant à environ 300m de la ligne d'arrivée (la zone d'activation exacte est à 299-295m de la ligne d'arrivée), si elle est dans le top 2. L’unique devient bien plus puissant si elle sort d’une côte immédiatement avant la zone d’activation (la côte doit être au plus tard à 300m de la ligne d'arrivée). La variation puissante ne s’active qu’à Tokyo, faisant d'elle une spécialiste de cet hippodrome.
-
-::: info En tant que Parent
-
-Elle est un bon parent pour les Front Runners seulement sur les courses sur l'hippodrome de Tokyo.
-
-:::
-
-#### Pull ou pas ? :
-
-Non, sauf si elle est votre Oshi.
- 
-Ines Fujin est une Front Runner génériquement correcte la plupart du temps, et qui sera plus redoutable à Tokyo en particulier.
-
-Sur les hippodromes autre que Tokyo, son unique possède une valeur faible, même si elle garde une zone d’activation intéressante. Son unique ne l’aide pas à battre les Front Runner. Contrairement à d’autres Front Runner qui ont un unique qui s’active en Mid-Race pour battre les autres Front Runner afin d'activer _**Angling & Scheming**_, l’unique d’Ines Fujin est là pour ne pas perdre contre la backline sur la fin de la course. Mais sa faible puissance ne suffira pas.
-
-A l'hippodrome de Tokyo, son unique lui permet de résister la backline.
-
-::: info Un peu plus de details
-
-Les Front Runner possède le multiplicateur de vélocité le plus faible en Final Straight. Si votre Front Runner n'a pas pris assez d'avance sur les autres parties de courses, surtout l'Early-Race et le Mid-Race, elle se fera rattraper par la backline. Les skills deviennent donc important pour leur résister. Son unique devient un boost de vélocité en plus pour leur résister.
-
-:::
- 
-Son outil pour battre les autres Front Runner est son gold **Wild Wind**. La combinaison de son unique et de ce gold fait qu’elle est assez forte sur toute la longueur de la course en Medium.
-
----
-
-### Bannière support : Mr. C.B. Wit SSR & Tokai Teio Stamina SR
-
-![Image de présentation de la bannière Mr. C.B. Wit SSR & Tokai Teio Stamina SR](/public/assets/Gacha-reviews/2026/044_Card-Banner.png)
-
-⏩**Mr. C.B.** :Wit: :SSR:
-
-- Mr. C.B. Wit SSR est frontloaded / équilibré. A 1LB, elle débloque Wit Bonus puis Mood Effect à 3LB.
-
-- Son Unique Effect lui donne Wit Bonus et Skill Point Bonus quand son bond gauge est à 80 (orange).
-
-- Ses rainbows sont bons avec un bon Friendship Bonus, du Special Priority correct, son double Wit Bonus et son Speed Bonus. Son cross-training est moyen avec ses Training Effectivenness et Race Bonus, mais on appréciera Skill Point Bonus et son Speed Bonus. Si vous l'avez en MLB, l'ajout du Mood Effect rendra son cross-training correct.
-
-- Elle propose une liste de 7 hints, dont les très bons _Straightaway Spurt_ et _Tail Held High_. Elle possède Hint Level et Hint Frequency, ses hint seront assez forts et fréquents.
-
-- Le skill gold est **Daring Strike**, la gold version d’_Early Start_. C’est un gold de vélocité pour End Closer, qui s’active dans le Mid-Race si elle est dans le bottom 50%. C'est un très bon skill dont la force est dans sa durée. Il permet aussi de bien se placer pour les End Closer avant le Late-Race.
-
-⏩**Tokai Teio** :stamina: :sr:
-
-- Tokai Teio Stamina SR est backloaded. A 1LB, elle débloque Initial Friendship Gauge puis Skill Point Bonus à 3LB.
-
-- Ses rainbows sont mauvais avec un faible Friendship Bonus, son absence de Special Priority, un peu compenser par son Training Effectivennes correct. Son cross-training est bon avec son Training Effectiveness et son Race Bonus mais aussi le Skill Point Bonus.
-
-- Elle propose une liste de 6 hints peu intéressants. Elle possède un très bon Hint Level et Hint Frequency. Ses hints seront puissants et fréquents.
-
-- Son dernier Chain Event donne **Medium Corners**.
- 
-#### PULL OU PAS
-
-Si vous n’avez pas de top tiers Wit SSR support ou que vous jouez pas mal d’End Closer, oui.
- 
-Mr. C.B. Wit SSR est un très bon support dès LB1. Bien que son Race Bonus soit faible pour Trackblazer, elle rentre bien dans les decks pour les End Closer, libérant la potentielle place que prenait Admire Vega Power SSR, afin d’utiliser sa version Guts à la place.
-Le fait qu’elle soit Wit lui donne de la flexibilité d’usage mais aussi de la longévité qu’Admire Vega Power SSR ne possède pas. C’est tout simplement une bonne carte à pull.
-
-Je dirais qu’elle peut être considérée comme la seconde meilleure carte Wit qu’on à pour l’instant, avec Nice Nature Wit SSR en 3ème  Sur Trackblazer, il est possible que cela soit inversé entre Mr.C.B. et Nice Nature.
- 
-Tokai Teio Stamina SR est mauvaise et n’est pas une carte intéressante.
-
----
-
-# Bannières à suivre (10 Mai 23h)
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/045_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Mejiro Palmer ★★★
+![Image de présentation de la bannière Mejiro Palmer](/public/assets/Gacha-reviews/2026/045_Uma-Banner.png)
 
 ⏩ **Mejiro Palmer** :
 
@@ -182,7 +95,7 @@ _Mejiro Palmer est une Front Runner pour le Medium et le Long (1 gold). Elle pos
 
 [Voici l'explication de la stratégie Runaway](/guides/FAQ/glossary.md#runaway-ou-great-escape-ou-oonige-jp)
 
-- Son unique est un hybride de recovery et de vélocité s'activant à la moitié de la course. Pour cela, Mejiro Palmer doit être restée constamment top 20%, depuis les 5 premières secondes, et jusqu'à la moitié de la course (point d'activation).
+- Son unique est un hybride de recovery et de vélocité s'activant à la moitié de la course. Pour cela, Mejiro Palmer doit être restée constamment top 20%, depuis les 5 premières secondes, et jusqu'à la moitié de la course (point d'activation).<br>
 L'unique est bon, même très bon en Runaway, mais il est difficile à activer dans les courses Medium et même les Long si vous êtes dans une room avec beaucoup de Front Runner. Quand elle pourra obtenir Runaway, l'unique sera bien plus facile à activer car les  seules umas qui pourront l'en empêcher seront Silence Suzuka ou d'autres Mejiro Palmer. La raison que l'unique pose problème en Medium sans Runaway, est qu'il y a pas mal de Front Runner dans les rooms en Medium et surtout des Front Runners très forte comme Seiun Sky ou Mihono Bourbon (Valentine).
 
 
@@ -190,11 +103,15 @@ L'unique est bon, même très bon en Runaway, mais il est difficile à activer d
 
 Non, sauf si elle est votre Oshi.
  
-Mejiro Palmer est une Runaway et si vous voulez la pull, il faut que faire une Runaway vous intéresse. En tant que Front Runner, elle est peut exceptionnelle dû à la difficulté d'activé son unique. Le problème est que faire une Front Runner est déjà compliqué, une Runaway capable de gagner, surtout en Long, le sera encore plus. Mais Mejiro Palmer à les outils pour réussir. Et même si elle ne gagne pas la course, elle va géner les autres Front Runners dû au fait qu'elle soit une Runaway. C'est l'uma qui va vous permettre de contrer les Kitasan Black et Seiun Sky (Ballroom) dans les courses Long.
+Mejiro Palmer est une Runaway et si vous voulez la pull, il faut que faire une Runaway vous intéresse. En tant que Front Runner, elle est peu exceptionnelle dû à la difficulté d'activé son unique. Le problème est que faire une Front Runner est déjà compliqué, une Runaway capable de gagner, surtout en Long, le sera encore plus. Mais Mejiro Palmer à les outils pour réussir. Et même si elle ne gagne pas la course, elle va géner les autres Front Runners dû au fait qu'elle soit une Runaway. C'est l'uma qui va vous permettre de contrer les Kitasan Black et Seiun Sky (Ballroom) dans les courses Long.
  
 Cela veut aussi dire d’attendre le prochain scénario, Grand Live, pour pouvoir vraiment la jouer.
 
-### Bannière Support à suivre : Rice Shower Power SSR & Matikanefukukitaru Speed SSR (rerun)
+---
+
+### Bannière support : Rice Shower Power SSR & Matikanefukukitaru Speed SSR
+
+![Image de présentation de la bannière Rice Shower Power SSR & Matikanefukukitaru Speed SSR](/public/assets/Gacha-reviews/2026/045_Card-Banner.png)
 
 ⏩**Rice Shower** :power: :SSR:
 
@@ -212,6 +129,96 @@ Rice Shower Power SSR est obsolète maintenant qu'on est plus sur **Unity Cup**.
 
 Une carte qui sera utile seulement pour un scénario est à prendre avant ou à la sortie du scénario, pas pendant le scénario. Elle ne sera pas assez rentable.
 
+Ne pullez pas sur cette bannière.
+
+---
+
+# Bannières à suivre (18 Mai 23h)
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/046_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Fine Motion (Wedding) & Curren Chan (Wedding) ★★★
+
+⏩ **Fine Motion (Wedding)** :
+
+_Fine Motion (Wedding) est une Pace Chaser pour le Mile (1 gold) et le Medium. Avec un peu d’inspiration, elle peut courir en Long (4 :star:), mais aussi en tant qu’End Closer et Front Runner (pour respectivement 4 :star: et 7 :star:). Elle possède un gold de vélocité pour le Mile et un gold d’accélération de Pace Chaser. Son unique est un boost de vélocité de Late-Race en Final Corner._
+ 
+- Fine Motion possède 2 bonus de croissances : 10% :guts: et 20% :wit:. C’est un combo de bonus médiocre. Ses decks seront assez basiques à base de 2 Speed / 2 Wit / 2 Power.
+
+- Ses gold bonus sont :
+
+    - **Changing Gears**, la gold version de _Shifting Gears_. C’est un gold de vélocité pour le Mile, qui s’active aléatoirement en Mid-Race si elle est dans le top 50%. C’est un skill correct.
+
+    - **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération de Pace Chaser, s’activant aléatoirement en Late-Race si elle est dans le top 50%. C’est un skill moyen, mais dû au fait que les Pace Chaser possèdent peu de skills d’accélération (très peu de bon skill d’accélération pour être plus précis), il est pour l’instant sympa.
+
+- Son unique est un boost de vélocité de Late-Race en Final Corner si Fine Motion (Wedding) est entre le bottom 80% et le top 40% (≥ 2 <-> ≤ 4 en CM). S’il reste au moins 401 mètres de course quand son unique s’active, il obtient un petit boost d’accélération.
+
+
+- C’est un unique assez spécial. Si le Final Corner se trouve dans le milieu / fin du Late-Race, l’unique sera un boost de vélocité basique. S’il se trouve au début du Late-Race, il est gâché dans sa version de vélocité pur mais bon dans sa version avec de l’accélération. C’est un unique où vous devez faire attention à la course pour visualiser s’il aura de l’utilité ou pas.
+
+⏩ **Curren Chan (Wedding)** :currenDevilish: :
+
+_Curren Chan (Wedding) est une Pace Chaser pour le Sprint. Avec un peu d’inspiration, elle peut courir en tant que Front Runner et pour le Mile (pour respectivement 1 :star: et 7 :star:). Elle possède un gold de debuff et un gold d’accélération, les 2 sont pour le Sprint. Son unique est un hybride de vélocité et d’accélération qui peut s’activer à partir des 350 derniers mètres._
+ 
+- Curren Chan (Wedding) possède 3 bonus de croissances : 10% en :speed:, 10% en :power:, 10% en :wit:. C’est un excellent combo de bonus, surtout pour le Sprint. Ses meilleurs deck seront les decks Guts avec son combo de bonus parfait pour ces derniers. Les decks basiques sont toujours aussi bons.
+
+- Ses gold skills sont :
+
+    - **Adored by All**, la gold version d’_Intimidate_. C’est un gold de debuff de Current Speed pour le Sprint. Il s’active à un point random dans l’Early-Race après 5 secondes de course si Curren Chan est dans le top 50%. Le debuff affecte toutes les umas derrière l’utilisatrice. C’est un bon skill, qui permet à Curren Chan de bien se placer dans la masse des Pace Chaser au début de la course.
+
+    - **Turbo Sprint**, la gold version de _Sprinting Gear_. C’est un gold d’accélération pour le Sprint. Il s’active sur une ligne droite aléatoire. C’est un skill techniquement médiocre, mais qui peut fonctionner en Sprint.
+    > L’évolution rend le skill plus fiable en s’activant en Late-Race et non en ligne droite.
+
+- Un de ses Secret Events (pas activable sur Trackblazer) est bon. Il lui donne un total de 45 stats, de l’énergie et des hints pour Sprinting Gear. Afin de l’obtenir, Curren Chan aura besoin de gagner _**Hakodate Sprint Stakes (Senior), Keeneland Cup (Senior) et Centaur Stakes (Senior)**_. Ce ne sont que des courses qui ne sont pas dans ses objectifs.
+
+- Son unique est un hybride de vélocité et d’accélération des 350 derniers mètres si Curren Chan (Wedding) est entre le bottom 80% et le top 40% (≥2 <-> ≤4 en CM) et si elle a une uma derrière elle d’une longueur d’écart au maximum. C’est un bon unique pour le Sprint.
+
+#### Pull ou pas ? :
+
+Curren Chan (Wedding) est une bonnne Ace pour le Sprint et si vous la voulez, cela peut-être un bon choix. Fine Motion (Wedding) n'est à pull seulement si elle est votre Oshi.
+ 
+Fine Motion (Wedding) est une uma moyenne. Tout comme son OG, sa pleine puissance va dépendre de la course. Il y aura des moments où elle sera mauvaise, des moments où elle sera forte et d’autres correct. Si elle avait été seule sur la bannière, je vous aurais dit directement de ne pas pull sur cette bannière.
+ 
+Curren Chan (Wedding) est une bonne uma sprint. Elle est meilleure que sa version OG ce qui est un bon point. Tout dans son kit la rends excellente pour le Sprint. Si vous n’avez pas de bonne Ace pour le Sprint, c’est potentiellement une bonne idée de pull pour elle. Elle le sait que c'est elle la GOAT de cette bannière :currenDevilish:
+ 
+Pullez sur cette bannière seulement si l'une d'entre elles est une de vos Oshi ou que vous avez besoin d'une bonne Ace pour le Sprint.
+
+### Bannière Support à suivre : Ikuno Dictus Stamina SSR & Haru Urara Power SSR
+
+⏩**Ikuno Dictus** :stamina: :SSR:
+
+- La carte est frontloaded. A 1LB, elle débloque Stamina Bonus puis le combo de Hint Levels et Frequancy à 3 LB.
+
+- Son Unique Effect est spécial. Plus la quantité totale de bonds sur tous vos supports est élevée, plus le gain de Training Effectivenness est élevé.
+
+- Ses rainbows sont moyens dû à son manque de Special Priority. Ce qui est dommage avec son bon Friendship Bonus et son Stamina Bonus. Son cross-training est très bon, avec son haut Training Effectivenness de son Unique Effect, de son Mood Effect et de son bon Race Bonus.
+
+- Elle propose une liste de 7 hints, dont seulement _Position Plifer_ et _Late Surger Corners_ sont intéressants. Elle possède un bon Hints Level et Frequency en MLB, ses hints seront puissants et fréquents.
+
+- Son gold skill est **Keep Going !**, la gold version de _Full Throttle_. C’est un gold de vélocité de Late Surger qui s’active aléatoirement en Mid-Race pour un coût d’HPs équivalent à 2 white debuff. Le skill a une bonne puissance et la perte de Stamina n’est pas un gros problème. C’est un bon skill.
+
+- Son dernier Chain Event est **Agemasen**.
+
+⏩**Haru Urara** :power: :ssr:
+
+- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus puis Training Effectivenness à 3LB.
+
+- Son Unique Effect lui donne un autre Skill Point Bonus.
+
+- Ses rainbows sont mauvais avec son faible Friendship Bonus mais surtout avec l’absence de Special Priority et de Stat Bonus. Son cross-training est très bon avec ses bons Training Effectivenness, Mood Effect et Race Bonus, mais surtout ses 2 Skills Point Bonus.
+
+- La carte ne propose pas de hints.
+
+- Son gold skill est **Hard Worker**, la gold version de _Fighter_. C’est un gold d’accélération de Late Surger si elle dépasse une uma après 5 secondes de course. C’est un mauvais skill.
+
+- Ses Chain Events donnent beaucoup d’énergie.
+ 
+#### PULL OU PAS
+
+**Non**.
+
+Les 2 sont de mauvaises cartes, surtout la Haru Urara Power SSR. Je pense que c'est la pire SSR du jeu.
+ 
 Ne pullez pas sur cette bannière.
 
 ### Vous pouvez consulter les archives des précédentes bannières
