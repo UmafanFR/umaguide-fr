@@ -156,7 +156,7 @@ _Fine Motion (Wedding) est une Pace Chaser pour le Mile (1 gold) et le Medium. A
 
 - C’est un unique assez spécial. Si le Final Corner se trouve dans le milieu / fin du Late-Race, l’unique sera un boost de vélocité basique. S’il se trouve au début du Late-Race, il est gâché dans sa version de vélocité pur mais bon dans sa version avec de l’accélération. C’est un unique où vous devez faire attention à la course pour visualiser s’il aura de l’utilité ou pas.
 
-⏩ **Curren Chan (Wedding)** :currenDevilish: 😌😌😌😌😌😌😌😌👌🏿👌🏿👌🏿👌🏿👌🏿👌🏿👌🏿👌🏿 :
+⏩ **Curren Chan (Wedding)** :currenDevilish: :
 
 _Curren Chan (Wedding) est une Pace Chaser pour le Sprint. Avec un peu d’inspiration, elle peut courir en tant que Front Runner et pour le Mile (pour respectivement 1 :star: et 7 :star:). Elle possède un gold de debuff et un gold d’accélération, les 2 sont pour le Sprint. Son unique est un hybride de vélocité et d’accélération qui peut s’activer à partir des 350 derniers mètres._
  
@@ -169,9 +169,9 @@ _Curren Chan (Wedding) est une Pace Chaser pour le Sprint. Avec un peu d’inspi
     - **Turbo Sprint**, la gold version de _Sprinting Gear_. C’est un gold d’accélération pour le Sprint. Il s’active sur une ligne droite aléatoire. C’est un skill techniquement médiocre, mais qui peut fonctionner en Sprint. Le skill reste quand même très dépendant de la course (Takamatsunomiya Kinen est un exemple de course où il peut être utile, bien qu'il est toujours une possibilité d'être gaché).
     > L’évolution rend le skill plus fiable en s’activant en Late-Race et non en ligne droite.
 
-- Un de ses Secret Events (pas activable sur Trackblazer) est bon. Il lui donne un total de 45 stats, de l’énergie et des hints pour Sprinting Gear. Afin de l’obtenir, Curren Chan aura besoin de gagner _**Hakodate Sprint Stakes (Senior) en Late June, Keeneland Cup (Senior) en Late August et Centaur Stakes (Senior) en Early Spetember**_. Ce ne sont que des courses qui ne sont pas dans ses objectifs, dont une qui pendant le dernière entrainement du Summer (Senior).
+- Un de ses Secret Events (pas activable sur Trackblazer) est bon. Il lui donne un total de 45 stats, de l’énergie et des hints pour Sprinting Gear. Afin de l’obtenir, Curren Chan aura besoin de gagner _**Hakodate Sprint Stakes (Senior) en Late June, Keeneland Cup (Senior) en Late August et Centaur Stakes (Senior) en Early Spetember**_. Ce ne sont que des courses qui ne sont pas dans ses objectifs, dont une qu est pendant le dernier entrainement du Summer (Senior).
 
-- Son unique est un hybride de vélocité et d’accélération , s'activant à partir des 350 derniers mètres , si Curren Chan (Wedding) est suivie par une uma à 1 longueur, ou moins, en étant entre le bottom 80% et le top 40% (≥2 <-> ≤4 en CM) C’est un bon unique pour le Sprint car elle bénéficie souvent de l'accélération de son unique.
+- Son unique est un hybride de vélocité et d’accélération , s'activant à partir des 350 derniers mètres , si Curren Chan (Wedding) est suivie par une uma à 1 longueur, ou moins, en étant entre le bottom 80% et le top 40% (≥2 <-> ≤4 en CM). C’est un bon unique pour le Sprint car elle bénéficie souvent de l'accélération de son unique.
 
 #### Pull ou pas ? :
 
@@ -207,9 +207,9 @@ Pullez sur cette bannière seulement si l'une d'entre elles est une de vos Oshi 
 
 - Ses rainbows sont mauvais avec son faible Friendship Bonus mais surtout avec l’absence de Special Priority et de Stat Bonus. Son cross-training est très bon avec ses bons Training Effectivenness, Mood Effect et Race Bonus, mais surtout ses 2 Skills Point Bonus.
 
-- La carte ne propose pas de skills. Ses hints donnent Stamina +2 et Power +6, ou alors Stamina +4, Power +12 et Skill Points +2. 
+- La carte ne propose pas de skills. Ses hints donnent aléatoirement Stamina +2 et Power +6, ou alors Stamina +4, Power +12 et Skill Points +2. 
 
-- Son gold skill est **Hard Worker**, la gold version de _Fighter_. C’est un gold d’accélération de Late Surger si elle dépasse une uma après 5 secondes de course. C’est un mauvais skill. C'est un skill d'accélération, il a donc besoin d'un bon timming pour être fonctionnel (Tout début d'Early-Race ou Late-Race). Hard Worker possde une condition qui le rends extrêmement rare d'avoir un bon timing. Il faut que la permier dépassement arrive juste avant le Late-Race, ce qui n'arrive jamais.
+- Son gold skill est **Hard Worker**, la gold version de _Fighter_. C’est un gold d’accélération de Late Surger si elle dépasse une uma après 5 secondes de course. C’est un mauvais skill, car c'est un skill d'accélération, il a donc besoin d'un bon timming pour être fonctionnel (Tout début d'Early-Race ou Late-Race). Hard Worker possde une condition qui le rends extrêmement rare d'avoir un bon timing. Il faut que la permier dépassement arrive juste avant le Late-Race, ce qui n'arrive jamais.
 
 - Ses Chain Events donnent beaucoup d’énergie.
  
