@@ -780,3 +780,29 @@ Je dirais qu’elle peut être considérée comme la seconde meilleure carte Wit
 Tokai Teio Stamina SR est mauvaise et n’est pas une carte intéressante.
 
 :::
+
+## #45 - Rice Shower Power SSR & Matikanefukukitaru Speed SSR (rerun)
+
+![Image de présentation de la bannière Rice Shower Power SSR & Matikanefukukitaru Speed SSR](/public/assets/Gacha-reviews/2026/045_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Rice Shower** :power: :SSR:
+
+[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_19-rice-shower-power-ssr-riko-kashimoto-pal-ssr)
+
+⏩**Matikanefukukitaru** :speed: :ssr:
+
+[Vous pouvez retourver sa bannière ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_31-admire-vega-power-ssr-matikanefukukitaru-ssr-speed)
+ 
+#### PULL OU PAS
+
+**Non**.
+
+Rice Shower Power SSR est obsolète maintenant qu'on est plus sur **Unity Cup**. Matikanefukukitaru Speed SSR est à moitié de vie. Elle ne sera plus utilisé dès que le prochain scénario, **Grand Live**, sortira.
+
+Une carte qui sera utile seulement pour un scénario est à prendre avant ou à la sortie du scénario, pas pendant le scénario. Elle ne sera pas assez rentable.
+
+Ne pullez pas sur cette bannière.
+
+:::
