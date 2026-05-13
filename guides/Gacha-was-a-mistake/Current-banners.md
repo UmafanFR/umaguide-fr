@@ -1,5 +1,5 @@
 ---
-title: Gacha - Mejiro Palmer ★★★ // Rice Shower Power SSR & Matikanefukukitaru Speed SSR
+title: Gacha - Fine Motion (Wedding) & Curren Chan (Wedding) ★★★ // Ikuno Dictus Stamina SSR & Haru Urara Power SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -75,69 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Mejiro Palmer ★★★
+### Bannière Umamusume : Fine Motion (Wedding) & Curren Chan (Wedding) ★★★
 
-![Image de présentation de la bannière Mejiro Palmer](/public/assets/Gacha-reviews/2026/045_Uma-Banner.png)
-
-⏩ **Mejiro Palmer** :
-
-_Mejiro Palmer est une Front Runner pour le Medium et le Long (1 gold). Elle possède un gold de vélocité universelle et un gold de vélocité pour le Long. Son unique est un hybride de recovery et de vélocité de moitié de course._
- 
-- Mejiro Palmer possède 3 bonus de croissances : 10% en :speed:, 10% en :stamina: et 10% en :guts:. C’est un bon combo pour une Front Runner en Long, sa distance de prédilection. Il est techniquement possible de la jouer Guts en Medium, mais cela peut être compliqué à la mettre réellement en place à cause de son unique qui est difficile à activer sur Trackblazer (où les build basées sur guts sont souvent favorables). Ses decks seront principalement des decks avec Power tant qu’on est sur ce scénario.
-
-- Ses gold skills sont :
-
-    - **See Ya Later !**, la gold version de **Playtime’s Over !**. C’est un gold de vélocité universelle, s’activant après au moins 10 secondes de course si elle a une uma derrière elle pendant 3 secondes. Les 2 lanes juste à côté fonctionnent pour être considéré derrière. C’est un très bon skill, qui à la possibilité de s'activer 2 fois. C'est un skill parfait pour sa distance de prédilection qu'est le Long.
-
-    - **Vanguard Spirit**, la gold version de _Keeping the Lead_. C’est un gold de vélocité pour le Long, qui s’active aléatoirement en Mid-Race, si elle est première avec au moins une longueur d'avance. C’est un bon skill pour garder la tête pour pouvoir activer les skills d’accélération en Late-Race.
-
-- Si elle gagne les 2 Arima Kinen et le Takarazuka Kinen (Senior), elle obtient le skill **Runaway** grâce à un Secret Event. C’est un skill qui lui permet de courir dans une autre stratégie. Elle est notre seconde Runaway en Global avec Silence Suzuka. (L'évènement ne se déclenche pas sur Trackblazer).
-
-[Voici l'explication de la stratégie Runaway](/guides/FAQ/glossary.md#runaway-ou-great-escape-ou-oonige-jp)
-
-- Son unique est un hybride de recovery et de vélocité s'activant à la moitié de la course. Pour cela, Mejiro Palmer doit être restée constamment top 20%, depuis les 5 premières secondes, et jusqu'à la moitié de la course (point d'activation).<br>
-L'unique est bon, même très bon en Runaway, mais il est difficile à activer dans les courses Medium et même les Long si vous êtes dans une room avec beaucoup de Front Runner. Quand elle pourra obtenir Runaway, l'unique sera bien plus facile à activer car les  seules umas qui pourront l'en empêcher seront Silence Suzuka ou d'autres Mejiro Palmer. La raison que l'unique pose problème en Medium sans Runaway, est qu'il y a pas mal de Front Runner dans les rooms en Medium et surtout des Front Runners très forte comme Seiun Sky ou Mihono Bourbon (Valentine).
-
-
-#### Pull ou pas ? :
-
-Non, sauf si elle est votre Oshi.
- 
-Mejiro Palmer est une Runaway et si vous voulez la pull, il faut que faire une Runaway vous intéresse. En tant que Front Runner, elle est peu exceptionnelle dû à la difficulté d'activé son unique. Le problème est que faire une Front Runner est déjà compliqué, une Runaway capable de gagner, surtout en Long, le sera encore plus. Mais Mejiro Palmer à les outils pour réussir. Et même si elle ne gagne pas la course, elle va géner les autres Front Runners dû au fait qu'elle soit une Runaway. C'est l'uma qui va vous permettre de contrer les Kitasan Black et Seiun Sky (Ballroom) dans les courses Long.
- 
-Cela veut aussi dire d’attendre le prochain scénario, Grand Live, pour pouvoir vraiment la jouer.
-
----
-
-### Bannière support : Rice Shower Power SSR & Matikanefukukitaru Speed SSR
-
-![Image de présentation de la bannière Rice Shower Power SSR & Matikanefukukitaru Speed SSR](/public/assets/Gacha-reviews/2026/045_Card-Banner.png)
-
-⏩**Rice Shower** :power: :SSR:
-
-[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_19-rice-shower-power-ssr-riko-kashimoto-pal-ssr)
-
-⏩**Matikanefukukitaru** :speed: :ssr:
-
-[Vous pouvez retourver sa bannière ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_31-admire-vega-power-ssr-matikanefukukitaru-ssr-speed)
- 
-#### PULL OU PAS
-
-**Non**.
-
-Rice Shower Power SSR est obsolète maintenant qu'on est plus sur **Unity Cup**. Matikanefukukitaru Speed SSR est à moitié de vie. Elle ne sera plus utilisé dès que le prochain scénario, **Grand Live**, sortira.
-
-Une carte qui sera utile seulement pour un scénario est à prendre avant ou à la sortie du scénario, pas pendant le scénario. Elle ne sera pas assez rentable.
-
-Ne pullez pas sur cette bannière.
-
----
-
-# Bannières à suivre (18 Mai 23h)
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/046_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Fine Motion (Wedding) & Curren Chan (Wedding) ★★★
+![Image de présentation de la bannière Fine Motion (Wedding) & Curren Chan (Wedding)](/public/assets/Gacha-reviews/2026/046_Uma-Banner.png)
 
 ⏩ **Fine Motion (Wedding)** :
 
@@ -183,7 +123,11 @@ Curren Chan (Wedding) est une bonne uma sprint. Elle est meilleure que sa versio
  
 Pullez sur cette bannière seulement si l'une d'entre elles est une de vos Oshi ou que vous avez besoin d'une bonne Ace pour le Sprint.
 
-### Bannière Support à suivre : Ikuno Dictus Stamina SSR & Haru Urara Power SSR
+---
+
+### Bannière support : Ikuno Dictus Stamina SSR & Haru Urara Power SSR
+
+![Image de présentation de la bannière Ikuno Dictus Stamina SSR & Haru Urara Power SSR](/public/assets/Gacha-reviews/2026/046_Card-Banner.png)
 
 ⏩**Ikuno Dictus** :stamina: :SSR:
 
@@ -219,6 +163,74 @@ Pullez sur cette bannière seulement si l'une d'entre elles est une de vos Oshi 
 
 Les 2 sont de mauvaises cartes, surtout la Haru Urara Power SSR. Je pense que c'est la pire SSR du jeu.
  
+Ne pullez pas sur cette bannière.
+
+---
+
+# Bannières à suivre (28 Mai 23h)
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/047_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Inari One ★★★
+
+⏩ **Inari One** :
+
+_Inari One est une End Closer pour le Medium et le Long, que ce soit sur le Turf ou le Dirt. Avec un peu d’inspiration, elle peut courir en Mile, mais aussi en tant que Pace Chaser et Late Surger (1 étoile pour les 3). Elle possède un gold de vélocité universelle et un gold hybride de recovery et de vélocité pour le Dirt. Son unique est un puissant boost de vélocité de Final Straight._
+ 
+- Inari One possède 2 bonus de croissances : 10% en :stamina: et 20% en :power:. C’est un bon combo de bonus pour le Medium et le Long. En Dirt, le PVP se joue principalement sur des courses de distance Mile, le bonus de Stamina perd en utilité mais le bonus de Power reste très bon. Elle se joue avec des decks basiques.
+
+- Ses gold skills sont :
+
+    - **Tail Nine**, la gold version de _Tail Held High_. C’est un gold speed boost universel, qui s’active si l’uma utilise 3 skills en Mid-Race. C’est un bon skill qui est très fiable. Une puissance du skill est que vous pouvez contrôler son activation en fonction des skills de Mid-Race que vous prenez. Cela fait que vous pouvez faire du carry-over si vous prenez un skill qui s’active sur la fin du Mid-Race. Dans le futur, on perdra ce contrôle d’activation avec la quantité de skill qu’on pourra prendre mais le skill sera toujours excellent.
+
+    - **Master of the Sands**, la gold version de _Familiar Ground_. C’est un gold hybride de recovery et de vélocité pour le Dirt. Il s’active aléatoirement en Mid-Race si l’uma est dans le bottom 50%. Le heal n’est pas nécessaire si vous êtes sur des distances Mile mais le speed boost reste bon. C’est un bon skill.
+    > Le skill a une évolution qui le rend utilisable dans les courses Medium en Turf, tout en améliorant le speed boost.
+
+- Elle ne possède pas de Secret Event mais elle possède plein de white skills excellent dans ses autres évènements ou dans son kit de base _(Straightaway Spurt, Ramp Up, Eager, All I‘ve Got et Fighting Spirit)_
+
+- Son unique est un puissant boost de vélocité de Final Straight si elle a constamment été hors du top 40% et qu’elle entre en _**Dueling**_ au moins 1 fois. En tant qu’End Closer elle ne devrait pas avoir trop de mal à rentrer dans la mécanique de Dueling. Elle devrait donc l’utiliser dans la majorité des cas. Elle peut être un bon parent pour les End Closers (sauf Gold Ship, qui remonte trop tôt).
+
+::: tip Rappel de Dueling
+
+Le dueling peut se produire sur le final straight d'une course, si 2 uma semblent être de performance similaire. Pendant le dueling, les uma impliquées augmentent alors leur vitesse et accélération en fonction de leur guts.
+
+:::
+
+#### Pull ou pas ? :
+
+Si elle est votre Oshi ou que vous n’avez pas assez d’uma Dirt, oui.
+ 
+Inari One est une bonne uma. Surtout pour le Dirt où on a peu d’uma. Le seul réel problème de son kit est qu’un de ses gold soit spécialisé pour une surface et non une distance ou une stratégie alors qu’elle court parfaitement sur les 2 surfaces. Mais outre ça, elle n’a pas de défaut majeur et il n’y a pas grand-chose à dire sur elle.
+ 
+Une des raisons pour ne pas pull sur elle, est juste que le Monstre du Dirt qu’est **Copano Rickey** arrive bientôt (fin de Trackblazer). Copano Rickey est au moins aussi dominante que xOguri, voire plus dominante vu qu’elle a peu de compétition sur le Dirt.
+ 
+Finalement, je dirais que ce n’est pas une mauvaise bannière à pull.
+
+### Bannière Support à suivre : Sakura Chiyono O Stamina SSR & Admire Vega Power SSR (rerun)
+
+⏩**Sakura Chiyono O** :stamina: :SSR:
+
+- La carte est équilibrée. A 1LB, elle débloque Stamina Bonus puis Race Bonus et Fan Bonus à 3LB.
+
+- Ses rainbows sont faibles dû à ses faibles Friendship Bonus et Special Priority. Son cross-training est correct avec un bon Mood Effect et un faible Training Effectiveness. Son Race Bonus est excellent.
+
+- Elle propose une liste de 4 hints, dont seul Medium Corners sort réellement du lot. Elle possède Hint Level et Hint Frequency, ses hints seront puissants et fréquents.
+
+- Son gold skill est **Speed Star**, la gold version de _Prepared to Pass_. C’est un gold de vélocité pour Pace Chaser qui s’active aléatoirement en Final Corner si elle est dans le top 50%. C’est un skill correct pour le Medium ou le Long. Il n’est pas très bon en Mile vu que dans une grande partie des courses Mile, le Late-Race commence en Final Corner gâchant le speed boost.
+
+- Ses évènements sont énergivores.
+
+
+⏩**Admire Vega** :power: :ssr:
+
+[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_31-admire-vega-power-ssr-matikanefukukitaru-ssr-speed)
+ 
+#### PULL OU PAS
+
+**Non**.
+ 
+Les deux ne sont utilisables que sur Trackblazer et il y a des cartes qui vont bien mieux faire le rôle qu’elles essayent d’accomplir.
+
 Ne pullez pas sur cette bannière.
 
 ### Vous pouvez consulter les archives des précédentes bannières
