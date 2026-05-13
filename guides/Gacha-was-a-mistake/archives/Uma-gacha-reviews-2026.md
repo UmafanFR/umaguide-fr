@@ -813,3 +813,55 @@ Mejiro Palmer est une Runaway et si vous voulez la pull, il faut que faire une R
 Cela veut aussi dire d’attendre le prochain scénario, Grand Live, pour pouvoir vraiment la jouer.
 
 :::
+
+## #46 - Fine Motion (Wedding) & Curren Chan (Wedding) ★★★
+
+![Image de présentation de la bannière Fine Motion (Wedding) & Curren Chan (Wedding)](/public/assets/Gacha-reviews/2026/046_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Fine Motion (Wedding)** :
+
+_Fine Motion (Wedding) est une Pace Chaser pour le Mile (1 gold) et le Medium. Avec un peu d’inspiration, elle peut courir en Long (4 :star:), mais aussi en tant qu’End Closer et Front Runner (pour respectivement 4 :star: et 7 :star:). Elle possède un gold de vélocité pour le Mile et un gold d’accélération de Pace Chaser. Son unique est un boost de vélocité de Late-Race en Final Corner._
+ 
+- Fine Motion possède 2 bonus de croissances : 10% :guts: et 20% :wit:. C’est un combo de bonus médiocre. Ses decks seront assez basiques à base de 2 Speed / 2 Wit / 2 Power.
+
+- Ses gold bonus sont :
+
+    - **Changing Gears**, la gold version de _Shifting Gears_. C’est un gold de vélocité pour le Mile, qui s’active aléatoirement en Mid-Race si elle est dans le top 50%. C’est un skill correct.
+
+    - **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération de Pace Chaser, s’activant aléatoirement en Late-Race si elle est dans le top 50%. C’est un skill moyen, surtout dû aufait que le skill perds en valeur à mesure que la longueur des courses s'allonge. Les Pace Chaser possèdent peu de skills d’accélération (très peu de bon skill d’accélération pour être plus précis), cela fait qu'il est pour l’instant sympa.
+
+- Son unique est un boost de vélocité de Late-Race en Final Corner si Fine Motion (Wedding) est entre le bottom 80% et le top 40% (≥ 2 <-> ≤ 4 en CM). S’il reste au moins 401 mètres de course quand son unique s’active, il obtient un petit boost d’accélération.
+
+
+- C’est un unique assez spécial. Si le Final Corner se trouve dans le milieu / fin du Late-Race, l’unique sera un boost de vélocité basique. S’il se trouve au début du Late-Race, il est gâché dans sa version de vélocité pur mais bon dans sa version avec de l’accélération. C’est un unique où vous devez faire attention à la course pour visualiser s’il aura de l’utilité ou pas.
+
+⏩ **Curren Chan (Wedding)** :currenDevilish: :
+
+_Curren Chan (Wedding) est une Pace Chaser pour le Sprint. Avec un peu d’inspiration, elle peut courir en tant que Front Runner et pour le Mile (pour respectivement 1 :star: et 7 :star:). Elle possède un gold de debuff et un gold d’accélération, les 2 sont pour le Sprint. Son unique est un hybride de vélocité et d’accélération qui peut s’activer à partir des 350 derniers mètres._
+ 
+- Curren Chan (Wedding) possède 3 bonus de croissances : 10% en :speed:, 10% en :power:, 10% en :wit:. C’est un excellent combo de bonus, surtout pour le Sprint. Ses meilleurs deck seront les decks Guts avec son combo de bonus parfait pour ces derniers. Les decks basiques sont toujours aussi bons.
+
+- Ses gold skills sont :
+
+    - **Adored by All**, la gold version d’_Intimidate_. C’est un gold de debuff de Current Speed pour le Sprint. Il s’active à un point random dans l’Early-Race après 5 secondes de course si Curren Chan est dans le top 50%. Le debuff affecte toutes les umas derrière l’utilisatrice. C’est un bon skill, qui permet à Curren Chan de bien se placer dans la masse des Pace Chaser au début de la course.
+
+    - **Turbo Sprint**, la gold version de _Sprinting Gear_. C’est un gold d’accélération pour le Sprint. Il s’active sur une ligne droite aléatoire. C’est un skill techniquement médiocre, mais qui peut fonctionner en Sprint. Le skill reste quand même très dépendant de la course (Takamatsunomiya Kinen est un exemple de course où il peut être utile, bien qu'il est toujours une possibilité d'être gaché).
+    > L’évolution rend le skill plus fiable en s’activant en Late-Race et non en ligne droite.
+
+- Un de ses Secret Events (pas activable sur Trackblazer) est bon. Il lui donne un total de 45 stats, de l’énergie et des hints pour Sprinting Gear. Afin de l’obtenir, Curren Chan aura besoin de gagner _**Hakodate Sprint Stakes (Senior) en Late June, Keeneland Cup (Senior) en Late August et Centaur Stakes (Senior) en Early Spetember**_. Ce ne sont que des courses qui ne sont pas dans ses objectifs, dont une qu est pendant le dernier entrainement du Summer (Senior).
+
+- Son unique est un hybride de vélocité et d’accélération , s'activant à partir des 350 derniers mètres , si Curren Chan (Wedding) est suivie par une uma à 1 longueur, ou moins, en étant entre le bottom 80% et le top 40% (≥2 <-> ≤4 en CM). C’est un bon unique pour le Sprint car elle bénéficie souvent de l'accélération de son unique.
+
+#### Pull ou pas ? :
+
+Curren Chan (Wedding) est une bonnne Ace pour le Sprint et si vous la voulez, cela peut-être un bon choix. Fine Motion (Wedding) n'est à pull seulement si elle est votre Oshi.
+ 
+Fine Motion (Wedding) est une uma moyenne. Tout comme son OG, sa pleine puissance va dépendre de la course. Il y aura des moments où elle sera mauvaise, des moments où elle sera forte et d’autres correct. Si elle avait été seule sur la bannière, je vous aurais dit directement de ne pas pull sur cette bannière.
+ 
+Curren Chan (Wedding) est une bonne uma sprint. Elle est meilleure que sa version OG ce qui est un bon point. Tout dans son kit la rends excellente pour le Sprint. Si vous n’avez pas de bonne Ace pour le Sprint, c’est potentiellement une bonne idée de pull pour elle. Elle le sait que c'est elle la GOAT de cette bannière :currenDevilish:
+ 
+Pullez sur cette bannière seulement si l'une d'entre elles est une de vos Oshi ou que vous avez besoin d'une bonne Ace pour le Sprint.
+
+:::

@@ -806,3 +806,47 @@ Une carte qui sera utile seulement pour un scénario est à prendre avant ou à 
 Ne pullez pas sur cette bannière.
 
 :::
+
+## #46 - Ikuno Dictus Stamina SSR & Haru Urara Power SSR
+
+![Image de présentation de la bannière Ikuno Dictus Stamina SSR & Haru Urara Power SSR](/public/assets/Gacha-reviews/2026/046_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Ikuno Dictus** :stamina: :SSR:
+
+- La carte est frontloaded. A 1LB, elle débloque Stamina Bonus puis le combo de Hint Levels et Frequancy à 3 LB.
+
+- Son Unique Effect est spécial. Plus la quantité totale de bonds sur tous vos supports est élevée, plus le gain de Training Effectivenness est élevé.
+
+- Ses rainbows sont moyens dû à son manque de Special Priority. Ce qui est dommage avec son bon Friendship Bonus et son Stamina Bonus. Son cross-training est très bon, avec son haut Training Effectivenness de son Unique Effect, de son Mood Effect et de son bon Race Bonus.
+
+- Elle propose une liste de 7 hints, dont seulement _Position Plifer_ et _Late Surger Corners_ sont intéressants. Elle possède un bon Hints Level et Frequency en MLB, ses hints seront puissants et fréquents.
+
+- Son gold skill est **Keep Going !**, la gold version de _Full Throttle_. C’est un gold de vélocité de Late Surger qui s’active aléatoirement en Mid-Race pour un coût d’HPs équivalent à 2 white debuff. Le skill a une bonne puissance et la perte de Stamina n’est pas un gros problème. C’est un bon skill.
+
+- Son dernier Chain Event est **Agemasen**.
+
+⏩**Haru Urara** :power: :ssr:
+
+- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus puis Training Effectivenness à 3LB.
+
+- Son Unique Effect lui donne un autre Skill Point Bonus.
+
+- Ses rainbows sont mauvais avec son faible Friendship Bonus mais surtout avec l’absence de Special Priority et de Stat Bonus. Son cross-training est très bon avec ses bons Training Effectivenness, Mood Effect et Race Bonus, mais surtout ses 2 Skills Point Bonus.
+
+- La carte ne propose pas de skills. Ses hints donnent aléatoirement Stamina +2 et Power +6, ou alors Stamina +4, Power +12 et Skill Points +2. 
+
+- Son gold skill est **Hard Worker**, la gold version de _Fighter_. C’est un gold d’accélération de Late Surger si elle dépasse une uma après 5 secondes de course. C’est un mauvais skill, car c'est un skill d'accélération, il a donc besoin d'un bon timming pour être fonctionnel (Tout début d'Early-Race ou Late-Race). Hard Worker possde une condition qui le rends extrêmement rare d'avoir un bon timing. Il faut que la permier dépassement arrive juste avant le Late-Race, ce qui n'arrive jamais.
+
+- Ses Chain Events donnent beaucoup d’énergie.
+ 
+#### PULL OU PAS
+
+**Non**.
+
+Les 2 sont de mauvaises cartes, surtout la Haru Urara Power SSR. Je pense que c'est la pire SSR du jeu.
+ 
+Ne pullez pas sur cette bannière.
+
+:::
