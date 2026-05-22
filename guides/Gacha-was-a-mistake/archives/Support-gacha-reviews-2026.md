@@ -850,3 +850,36 @@ Les 2 sont de mauvaises cartes, surtout la Haru Urara Power SSR. Je pense que c'
 Ne pullez pas sur cette bannière.
 
 :::
+
+## #47 - Sakura Chiyono O Stamina SSR & Admire Vega Power SSR (rerun)
+
+![Image de présentation de la bannière Sakura Chiyono O Stamina SSR & Admire Vega Power SSR (rerun)](/public/assets/Gacha-reviews/2026/047_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Sakura Chiyono O** :stamina: :SSR:
+
+- La carte est équilibrée. A 1LB, elle débloque Stamina Bonus puis Race Bonus et Fan Bonus à 3LB.
+
+- Ses rainbows sont faibles dû à ses faibles Friendship Bonus et Special Priority. Son cross-training est correct avec un bon Mood Effect et un faible Training Effectiveness. Son Race Bonus est excellent.
+
+- Elle propose une liste de 4 hints, dont seul Medium Corners sort réellement du lot. Elle possède Hint Level et Hint Frequency, ses hints seront puissants et fréquents.
+
+- Son gold skill est **Speed Star**, la gold version de _Prepared to Pass_. C’est un gold de vélocité pour Pace Chaser qui s’active aléatoirement en Final Corner si elle est dans le top 50%. C’est un skill correct pour le Medium ou le Long. Il n’est pas très bon en Mile vu que dans une grande partie des courses Mile, le Late-Race commence en Final Corner gâchant le speed boost. Cela veut aussi dire qu'il y a des courses où le skill peut créer du carry-over (plus ou moins facilement). Cela fait que c'est un skill quitte ou double en Mile.
+
+- Ses évènements sont énergivores.
+
+
+⏩**Admire Vega** :power: :ssr:
+
+[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_31-admire-vega-power-ssr-matikanefukukitaru-ssr-speed)
+ 
+#### PULL OU PAS
+
+**Non**.
+ 
+Les deux ne sont utilisables que sur Trackblazer et il y a des cartes qui vont bien mieux faire le rôle qu’elles essayent d’accomplir.
+
+Ne pullez pas sur cette bannière.
+
+:::
