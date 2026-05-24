@@ -177,11 +177,23 @@ C’est un skill important pour les umas qui ont un unique qui requiert de ne pa
 
 - Son unique est un boost de vélocité qui peut s’activer à partir des 300 derniers mètres si Sweep Tosho à constamment été dans le bottom 50% et qu’elle n’est pas rush. L’unique a une durée de base un peu plus longue que les uniques communs, mais il reste assez basique.
 
-::: info Pour plus de précision
+::::: info Pour plus de précision
 
 Afin qu’il s’active dans les 300 derniers mètres, ces 300 mètres doivent être compris entre le Final Corner et la ligne d'arrivée. Si les 300 derniers mètres commencent avant le Final Corner, l’unique va attendre d’entrer en Final Corner avant de se lancer.
 
+:::: tip Lié au positionnement
+
+Les 5 premières secondes de course ne compte pas pour la condition d'être constamment bottom 50%, donc ce n'est pas un problème si elle n'est pas derrière au tout début. 
+
+::: warning Uma Stan peut être un mauvais skill pour Sweep Tosho
+
+_Uma Stan_ peut être dangereux pour elle. Si elle est dans un salon où le reste de la backline est affecté par le Pace Down Mode et qu'elle ne l'est pas à cause d'Uma Stan + autres skills de vélocité, Sweep Tosho peut être au dessus du bottom 50% après 5 secondes de course. Vous pouvez compenser ça en ayant des bons Front Runners ou Pace Chasers comme autres Ace.
+
 :::
+
+::::
+
+:::::
 
 #### Pull ou pas ? :
 
