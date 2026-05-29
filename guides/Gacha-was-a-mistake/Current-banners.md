@@ -145,9 +145,9 @@ Ne pullez pas sur cette bannière.
 
 ---
 
-# Bannières à suivre (06 Juiin 23h)
+# Bannières à suivre (06 Juin 23h)
 
-    ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/047_Banners_early_preview.jpg)
+<!-- ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/047_Banners_early_preview.jpg) -->
 
 ### Bannière Umamusume à suivre : Sweep Tosho ★★★
 
@@ -163,11 +163,12 @@ _Sweep Tosho est une End Closer pour le Mile et le Medium. Elle peut aussi couri
     >En Mile, les descentes peuvent être mal placées pour un skill de recovery. Normalement vous n’en aurez pas besoin pour cette distance mais c’est un détail.
     - **Petrifying Gaze**, la gold version d’_Intense Gaze_. C’est un gold debuff de Current Speed pour End Closer qui s’active en Late-Race si Sweep Tosho n’est pas dans le top 2 et affecte les umas dans son champ de vision. C’est un bon skill. Ce n’est pas aussi puissant que **Dominator**, car ce dernier n’est pas restreint par le champ de vision, mais vous pouvez l’utiliser partout en contrepartie.
 
-- Elle possède _Straightaway Spurt_ dans ses skills à éveillés, elle ne pose pas beaucoup de problème à faire en tant qu’Ace.
+- Elle possède _Straightaway Spurt_ dans ses skills à éveillés, donc elle ne posera pas beaucoup de problème à faire en tant qu’Ace.
 
 - Tout comme certaines umas (Super Creek, Mejiro Ardan…), Sweep Tosho possède un malus en carrière qui se soigne avec la réussite d’un de ses Secret Events. Au contraire des autres, sa récompense est un skill qui lui est unique à elle, pour l’instant, **Restraint**.
 
-    Après le Debut Race, l’évènement **_Bring the Brat_** lui donne le malus **_You’re Not the Boss of Me !_**, un malus qui lui baisse sa stat de Wit et qui lui donne un toujours un Late-Start. Afin de le soigner, elle doit gagner le Takarazuka Kinen (Senior), ce qui est assez loin dans la carrière et obtient **Restraint**. <br>Restraint augmente la Wit autant que les autres green skills double cercle pour un coût plus faible, mais surtout réduit la possibilité de rush.
+    Après le Debut Race, l’évènement **_Bring the Brat_** lui donne le malus **_You’re Not the Boss of Me !_**, un malus qui lui baisse sa stat de Wit et qui lui donne un toujours un Late-Start. Afin de le soigner, elle doit gagner le Takarazuka Kinen (Senior), ce qui est assez loin dans la carrière. En cas de succès, elle obtient **Restraint** en récompense. 
+    <br>Restraint augmente la Wit autant que les autres green skills double cercle pour un coût plus faible, mais surtout réduit la possibilité de rush.
 
 ::: tip Utilitié pour les autres umas
 
@@ -183,7 +184,7 @@ Afin qu’il s’active dans les 300 derniers mètres, ces 300 mètres doivent �
 
 :::: tip Lié au positionnement
 
-Les 5 premières secondes de course ne compte pas pour la condition d'être constamment bottom 50%, donc ce n'est pas un problème si elle n'est pas derrière au tout début. 
+Les 5 premières secondes de course ne comptent pas pour la condition d'être constamment bottom 50%, donc ce n'est pas un problème si elle n'est pas derrière au tout début. 
 
 ::: warning Uma Stan peut être un mauvais skill pour Sweep Tosho
 
@@ -212,7 +213,7 @@ Sweep Tosho est une uma qui a pas mal d’utilité en général, ce n’est pas 
 
 - Ses rainbows sont bons avec ses Friendship Bonus et Special Priority correct, ses stats bonus. Son cross-training est aussi bon avec son Training Effectiveness, le Skll Point Bonus, les stats bonus. Son faible Race Bonus n’est pas un gros problème, même si elle est plus dure à utiliser pour l’instant.
 
-- Elle propose une liste de 6 skills, dont 5 sont pour le Mile. Elle possède un excellent Hint Level et Hint Frequency. Ses hints auront la réduction maximale si elle est MLB, et à un très bon niveau dès LB0. C’est une bonne carte pour les hints Mile.
+- Elle propose une liste de 6 skills, dont 5 sont pour le Mile. Elle possède un excellent Hint Level et Hint Frequency. **Ses hints auront la réduction maximale si elle est MLB**, et à un très bon niveau dès LB0. C’est une bonne carte pour les hints Mile.
 
 - Son gold skill est **Mile Haven**, la gold version de _Productive Plan_. C’est un gold de vélocité pour le Mile, s’activant en Early-Race, après 5 secondes de course si l’uma est dans le top 50%. C’est un assez bon skill.
 
