@@ -865,3 +865,44 @@ Curren Chan (Wedding) est une bonne uma sprint. Elle est meilleure que sa versio
 Pullez sur cette bannière seulement si l'une d'entre elles est une de vos Oshi ou que vous avez besoin d'une bonne Ace pour le Sprint.
 
 :::
+
+## #47 - Inari One ★★★
+
+![Image de présentation de la bannière Inari One](/public/assets/Gacha-reviews/2026/047_Uma-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Inari One** :
+
+_Inari One est une End Closer pour le Medium et le Long, que ce soit sur le Turf ou le Dirt. Avec un peu d’inspiration, elle peut courir en Mile, mais aussi en tant que Pace Chaser et Late Surger (1 étoile pour les 3). Elle possède un gold de vélocité universelle et un gold hybride de recovery et de vélocité pour le Dirt. Son unique est un puissant boost de vélocité de Final Straight._
+ 
+- Inari One possède 2 bonus de croissances : 10% en :stamina: et 20% en :power:. C’est un bon combo de bonus pour le Medium et le Long. En Dirt, le PVP se joue principalement sur des courses de distance Mile, le bonus de Stamina perd en utilité mais le bonus de Power reste très bon. Elle se joue avec des decks basiques.
+
+- Ses gold skills sont :
+
+    - **Tail Nine**, la gold version de _Tail Held High_. C’est un gold speed boost universel, qui s’active si l’uma utilise 3 skills en Mid-Race. C’est un bon skill qui est très fiable. Une puissance du skill est que vous pouvez contrôler son activation en fonction des skills de Mid-Race que vous prenez. Cela fait que vous pouvez faire du carry-over si vous prenez un skill qui s’active sur la fin du Mid-Race. Dans le futur, on perdra ce contrôle d’activation avec la quantité de skill qu’on pourra prendre mais le skill sera toujours excellent.
+
+    - **Master of the Sands**, la gold version de _Familiar Ground_. C’est un gold hybride de recovery et de vélocité pour le Dirt. Il s’active aléatoirement en Mid-Race si l’uma est dans le bottom 50%. Le heal n’est pas nécessaire si vous êtes sur des distances Mile mais le speed boost reste bon. C’est un bon skill.
+    > Le skill a une évolution qui le rend utilisable dans les courses Medium en Turf, tout en améliorant le speed boost.
+
+- Elle ne possède pas de Secret Event mais elle possède plein de white skills excellent dans ses autres évènements ou dans son kit de base _(Straightaway Spurt, Ramp Up, Eager, All I‘ve Got et Fighting Spirit)_
+
+- Son unique est un puissant boost de vélocité de Final Straight si elle a constamment été hors du top 40% et qu’elle entre en _**Dueling**_ au moins 1 fois. En tant qu’End Closer elle ne devrait pas avoir trop de mal à rentrer dans la mécanique de Dueling. Elle devrait donc l’utiliser dans la majorité des cas. Elle peut être un bon parent pour les End Closers (sauf Gold Ship, qui remonte trop tôt).
+
+::: tip Rappel de Dueling
+
+Le dueling peut se produire sur le final straight d'une course, si 2 uma semblent être de performance similaire. Pendant le dueling, les uma impliquées augmentent alors leur vitesse et accélération en fonction de leur guts.
+
+:::
+
+#### Pull ou pas ? :
+
+Si elle est votre Oshi ou que vous n’avez pas assez d’uma Dirt, oui.
+ 
+Inari One est une bonne uma. Surtout pour le Dirt où on a peu d’uma. Le seul réel problème de son kit est qu’un de ses gold soit spécialisé pour une surface et non une distance ou une stratégie alors qu’elle court parfaitement sur les 2 surfaces. Mais outre ça, elle n’a pas de défaut majeur et il n’y a pas grand-chose à dire sur elle.
+ 
+Une des raisons pour ne pas pull sur elle, est juste que le Monstre du Dirt qu’est **Copano Rickey** arrive bientôt (fin de Trackblazer). Copano Rickey est au moins aussi dominante que xOguri, voire plus dominante vu qu’elle a peu de compétition sur le Dirt.
+ 
+Finalement, je dirais que ce n’est pas une mauvaise bannière à pull.
+
+::::

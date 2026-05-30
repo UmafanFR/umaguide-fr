@@ -1,5 +1,5 @@
 ---
-title: Gacha - Fine Motion (Wedding) & Curren Chan (Wedding) ★★★ // Ikuno Dictus Stamina SSR & Haru Urara Power SSR
+title: Gacha - Inari One ★★★ // Sakura Chiyono O Stamina SSR & Admire Vega Power SSR (rerun)
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/046_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/047_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -75,103 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Fine Motion (Wedding) & Curren Chan (Wedding) ★★★
+### Bannière Umamusume : Inari One ★★★
 
-![Image de présentation de la bannière Fine Motion (Wedding) & Curren Chan (Wedding)](/public/assets/Gacha-reviews/2026/046_Uma-Banner.png)
-
-⏩ **Fine Motion (Wedding)** :
-
-_Fine Motion (Wedding) est une Pace Chaser pour le Mile (1 gold) et le Medium. Avec un peu d’inspiration, elle peut courir en Long (4 :star:), mais aussi en tant qu’End Closer et Front Runner (pour respectivement 4 :star: et 7 :star:). Elle possède un gold de vélocité pour le Mile et un gold d’accélération de Pace Chaser. Son unique est un boost de vélocité de Late-Race en Final Corner._
- 
-- Fine Motion possède 2 bonus de croissances : 10% :guts: et 20% :wit:. C’est un combo de bonus médiocre. Ses decks seront assez basiques à base de 2 Speed / 2 Wit / 2 Power.
-
-- Ses gold bonus sont :
-
-    - **Changing Gears**, la gold version de _Shifting Gears_. C’est un gold de vélocité pour le Mile, qui s’active aléatoirement en Mid-Race si elle est dans le top 50%. C’est un skill correct.
-
-    - **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération de Pace Chaser, s’activant aléatoirement en Late-Race si elle est dans le top 50%. C’est un skill moyen, surtout dû aufait que le skill perds en valeur à mesure que la longueur des courses s'allonge. Les Pace Chaser possèdent peu de skills d’accélération (très peu de bon skill d’accélération pour être plus précis), cela fait qu'il est pour l’instant sympa.
-
-- Son unique est un boost de vélocité de Late-Race en Final Corner si Fine Motion (Wedding) est entre le bottom 80% et le top 40% (≥ 2 <-> ≤ 4 en CM). S’il reste au moins 401 mètres de course quand son unique s’active, il obtient un petit boost d’accélération.
-
-
-- C’est un unique assez spécial. Si le Final Corner se trouve dans le milieu / fin du Late-Race, l’unique sera un boost de vélocité basique. S’il se trouve au début du Late-Race, il est gâché dans sa version de vélocité pur mais bon dans sa version avec de l’accélération. C’est un unique où vous devez faire attention à la course pour visualiser s’il aura de l’utilité ou pas.
-
-⏩ **Curren Chan (Wedding)** :currenDevilish: :
-
-_Curren Chan (Wedding) est une Pace Chaser pour le Sprint. Avec un peu d’inspiration, elle peut courir en tant que Front Runner et pour le Mile (pour respectivement 1 :star: et 7 :star:). Elle possède un gold de debuff et un gold d’accélération, les 2 sont pour le Sprint. Son unique est un hybride de vélocité et d’accélération qui peut s’activer à partir des 350 derniers mètres._
- 
-- Curren Chan (Wedding) possède 3 bonus de croissances : 10% en :speed:, 10% en :power:, 10% en :wit:. C’est un excellent combo de bonus, surtout pour le Sprint. Ses meilleurs deck seront les decks Guts avec son combo de bonus parfait pour ces derniers. Les decks basiques sont toujours aussi bons.
-
-- Ses gold skills sont :
-
-    - **Adored by All**, la gold version d’_Intimidate_. C’est un gold de debuff de Current Speed pour le Sprint. Il s’active à un point random dans l’Early-Race après 5 secondes de course si Curren Chan est dans le top 50%. Le debuff affecte toutes les umas derrière l’utilisatrice. C’est un bon skill, qui permet à Curren Chan de bien se placer dans la masse des Pace Chaser au début de la course.
-
-    - **Turbo Sprint**, la gold version de _Sprinting Gear_. C’est un gold d’accélération pour le Sprint. Il s’active sur une ligne droite aléatoire. C’est un skill techniquement médiocre, mais qui peut fonctionner en Sprint. Le skill reste quand même très dépendant de la course (Takamatsunomiya Kinen est un exemple de course où il peut être utile, bien qu'il est toujours une possibilité d'être gaché).
-    > L’évolution rend le skill plus fiable en s’activant en Late-Race et non en ligne droite.
-
-- Un de ses Secret Events (pas activable sur Trackblazer) est bon. Il lui donne un total de 45 stats, de l’énergie et des hints pour Sprinting Gear. Afin de l’obtenir, Curren Chan aura besoin de gagner _**Hakodate Sprint Stakes (Senior) en Late June, Keeneland Cup (Senior) en Late August et Centaur Stakes (Senior) en Early Spetember**_. Ce ne sont que des courses qui ne sont pas dans ses objectifs, dont une qu est pendant le dernier entrainement du Summer (Senior).
-
-- Son unique est un hybride de vélocité et d’accélération , s'activant à partir des 350 derniers mètres , si Curren Chan (Wedding) est suivie par une uma à 1 longueur, ou moins, en étant entre le bottom 80% et le top 40% (≥2 <-> ≤4 en CM). C’est un bon unique pour le Sprint car elle bénéficie souvent de l'accélération de son unique.
-
-#### Pull ou pas ? :
-
-Curren Chan (Wedding) est une bonnne Ace pour le Sprint et si vous la voulez, cela peut-être un bon choix. Fine Motion (Wedding) n'est à pull seulement si elle est votre Oshi.
- 
-Fine Motion (Wedding) est une uma moyenne. Tout comme son OG, sa pleine puissance va dépendre de la course. Il y aura des moments où elle sera mauvaise, des moments où elle sera forte et d’autres correct. Si elle avait été seule sur la bannière, je vous aurais dit directement de ne pas pull sur cette bannière.
- 
-Curren Chan (Wedding) est une bonne uma sprint. Elle est meilleure que sa version OG ce qui est un bon point. Tout dans son kit la rends excellente pour le Sprint. Si vous n’avez pas de bonne Ace pour le Sprint, c’est potentiellement une bonne idée de pull pour elle. Elle le sait que c'est elle la GOAT de cette bannière :currenDevilish:
- 
-Pullez sur cette bannière seulement si l'une d'entre elles est une de vos Oshi ou que vous avez besoin d'une bonne Ace pour le Sprint.
-
----
-
-### Bannière support : Ikuno Dictus Stamina SSR & Haru Urara Power SSR
-
-![Image de présentation de la bannière Ikuno Dictus Stamina SSR & Haru Urara Power SSR](/public/assets/Gacha-reviews/2026/046_Card-Banner.png)
-
-⏩**Ikuno Dictus** :stamina: :SSR:
-
-- La carte est frontloaded. A 1LB, elle débloque Stamina Bonus puis le combo de Hint Levels et Frequancy à 3 LB.
-
-- Son Unique Effect est spécial. Plus la quantité totale de bonds sur tous vos supports est élevée, plus le gain de Training Effectivenness est élevé.
-
-- Ses rainbows sont moyens dû à son manque de Special Priority. Ce qui est dommage avec son bon Friendship Bonus et son Stamina Bonus. Son cross-training est très bon, avec son haut Training Effectivenness de son Unique Effect, de son Mood Effect et de son bon Race Bonus.
-
-- Elle propose une liste de 7 hints, dont seulement _Position Plifer_ et _Late Surger Corners_ sont intéressants. Elle possède un bon Hints Level et Frequency en MLB, ses hints seront puissants et fréquents.
-
-- Son gold skill est **Keep Going !**, la gold version de _Full Throttle_. C’est un gold de vélocité de Late Surger qui s’active aléatoirement en Mid-Race pour un coût d’HPs équivalent à 2 white debuff. Le skill a une bonne puissance et la perte de Stamina n’est pas un gros problème. C’est un bon skill.
-
-- Son dernier Chain Event est **Agemasen**.
-
-⏩**Haru Urara** :power: :ssr:
-
-- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus puis Training Effectivenness à 3LB.
-
-- Son Unique Effect lui donne un autre Skill Point Bonus.
-
-- Ses rainbows sont mauvais avec son faible Friendship Bonus mais surtout avec l’absence de Special Priority et de Stat Bonus. Son cross-training est très bon avec ses bons Training Effectivenness, Mood Effect et Race Bonus, mais surtout ses 2 Skills Point Bonus.
-
-- La carte ne propose pas de skills. Ses hints donnent aléatoirement Stamina +2 et Power +6, ou alors Stamina +4, Power +12 et Skill Points +2. 
-
-- Son gold skill est **Hard Worker**, la gold version de _Fighter_. C’est un gold d’accélération de Late Surger si elle dépasse une uma après 5 secondes de course. C’est un mauvais skill, car c'est un skill d'accélération, il a donc besoin d'un bon timming pour être fonctionnel (Tout début d'Early-Race ou Late-Race). Hard Worker possde une condition qui le rends extrêmement rare d'avoir un bon timing. Il faut que la permier dépassement arrive juste avant le Late-Race, ce qui n'arrive jamais.
-
-- Ses Chain Events donnent beaucoup d’énergie.
- 
-#### PULL OU PAS
-
-**Non**.
-
-Les 2 sont de mauvaises cartes, surtout la Haru Urara Power SSR. Je pense que c'est la pire SSR du jeu.
- 
-Ne pullez pas sur cette bannière.
-
----
-
-# Bannières à suivre (28 Mai 23h)
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/047_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Inari One ★★★
+![Image de présentation de la bannière Inari One](/public/assets/Gacha-reviews/2026/047_Uma-Banner.png)
 
 ⏩ **Inari One** :
 
@@ -206,7 +112,11 @@ Une des raisons pour ne pas pull sur elle, est juste que le Monstre du Dirt qu�
  
 Finalement, je dirais que ce n’est pas une mauvaise bannière à pull.
 
-### Bannière Support à suivre : Sakura Chiyono O Stamina SSR & Admire Vega Power SSR (rerun)
+---
+
+### Bannière support : Sakura Chiyono O Stamina SSR & Admire Vega Power SSR (rerun)
+
+![Image de présentation de la bannière Sakura Chiyono O Stamina SSR & Admire Vega Power SSR (rerun)](/public/assets/Gacha-reviews/2026/047_Card-Banner.png)
 
 ⏩**Sakura Chiyono O** :stamina: :SSR:
 
@@ -232,6 +142,101 @@ Finalement, je dirais que ce n’est pas une mauvaise bannière à pull.
 Les deux ne sont utilisables que sur Trackblazer et il y a des cartes qui vont bien mieux faire le rôle qu’elles essayent d’accomplir.
 
 Ne pullez pas sur cette bannière.
+
+---
+
+# Bannières à suivre (06 Juin 23h)
+
+<!-- ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/047_Banners_early_preview.jpg) -->
+
+### Bannière Umamusume à suivre : Sweep Tosho ★★★
+
+⏩ **Sweep Tosho** :
+
+_Sweep Tosho est une End Closer pour le Mile et le Medium. Elle peut aussi courir parfaitement en tant que Late Surger mais End Closer sera toujours préféré. Avec un peu d’inspiration, elle peut courir en Long (7 :star:). Elle possède un gold de recovery pour End Closer et un gold debuff de Current Speed pour End Closer unique à elle. Son unique est un boost de vélocité qui peut s’activer à partir des 300 derniers mètres._
+ 
+- Sweep Tosho possède 2 bonus de croissances : 10% en :speed: et 20% en :power:. C’est un très bon combo de bonus, surtout pour les fans des decks Guts. Elle se joue très bien avec des decks classiques ou des decks Guts.
+
+- Ses gold skills sont :
+
+    - **Go-Home Specialist**, la gold version d’_After-School Stroll_. C’est un gold de recovery pour End Closer, s’activant dans une descente après les 10 premières secondes de course. C’est un bon skill, bien que pas forcément très utile pour Sweep Tosho, surtout si vous décidez de la faire courir en Mile. En Medium ou si vous voulez la jouez en Long, là le skill aura de l’utilité.
+    >En Mile, les descentes peuvent être mal placées pour un skill de recovery. Normalement vous n’en aurez pas besoin pour cette distance mais c’est un détail.
+    - **Petrifying Gaze**, la gold version d’_Intense Gaze_. C’est un gold debuff de Current Speed pour End Closer qui s’active en Late-Race si Sweep Tosho n’est pas dans le top 2 et affecte les umas dans son champ de vision. C’est un bon skill. Ce n’est pas aussi puissant que **Dominator**, car ce dernier n’est pas restreint par le champ de vision, mais vous pouvez l’utiliser partout en contrepartie.
+
+- Elle possède _Straightaway Spurt_ dans ses skills à éveillés, donc elle ne posera pas beaucoup de problème à faire en tant qu’Ace.
+
+- Tout comme certaines umas (Super Creek, Mejiro Ardan…), Sweep Tosho possède un malus en carrière qui se soigne avec la réussite d’un de ses Secret Events. Au contraire des autres, sa récompense est un skill qui lui est unique à elle, pour l’instant, **Restraint**.
+
+    Après le Debut Race, l’évènement **_Bring the Brat_** lui donne le malus **_You’re Not the Boss of Me !_**, un malus qui lui baisse sa stat de Wit et qui lui donne un toujours un Late-Start. Afin de le soigner, elle doit gagner le Takarazuka Kinen (Senior), ce qui est assez loin dans la carrière. En cas de succès, elle obtient **Restraint** en récompense. 
+    <br>Restraint augmente la Wit autant que les autres green skills double cercle pour un coût plus faible, mais surtout réduit la possibilité de rush.
+
+::: tip Utilitié pour les autres umas
+
+C’est un skill important pour les umas qui ont un unique qui requiert de ne pas rush. Et il y a 2 umas qui ont des uniques importants à hérités dedans. Les umas pour qui le skill est important sont : King Halo OG, Mihono Bourbon OG, Eishin Flash OG, Sweep Tosho, **King Halo (Cheerleader)** et **Mejiro Dober**. Les 2 dernières ont d'excellent unique pour un parent, Restraint permet d’avoir moins de courses gâchées par le fait de rush. Cela fait que Sweep Tosho est un bon grand-parent (grand-grand parent) pour la backline.
+
+:::
+
+- Son unique est un boost de vélocité qui peut s’activer à partir des 300 derniers mètres si Sweep Tosho à constamment été dans le bottom 50% et qu’elle n’est pas rush. L’unique a une durée de base un peu plus longue que les uniques communs, mais il reste assez basique.
+
+::::: info Pour plus de précision
+
+Afin qu’il s’active dans les 300 derniers mètres, ces 300 mètres doivent être compris entre le Final Corner et la ligne d'arrivée. Si les 300 derniers mètres commencent avant le Final Corner, l’unique va attendre d’entrer en Final Corner avant de se lancer.
+
+:::: tip Lié au positionnement
+
+Les 5 premières secondes de course ne comptent pas pour la condition d'être constamment bottom 50%, donc ce n'est pas un problème si elle n'est pas derrière au tout début. 
+
+::: warning Uma Stan peut être un mauvais skill pour Sweep Tosho
+
+_Uma Stan_ peut être dangereux pour elle. Si elle est dans un salon où le reste de la backline est affecté par le Pace Down Mode et qu'elle ne l'est pas à cause d'Uma Stan + autres skills de vélocité, Sweep Tosho peut être au dessus du bottom 50% après 5 secondes de course. Vous pouvez compenser ça en ayant des bons Front Runners ou Pace Chasers comme autres Ace.
+
+:::
+
+::::
+
+:::::
+
+#### Pull ou pas ? :
+
+Sweep Tosho aura toujours de l’utilité, que ce soit pour Restraint (bien que vous puissiez juste l’emprunter à quelqu’un d’autre pour essayer de faire hériter le skill) mais aussi pour Petrifying Gaze. Le reste de son kit est bon aussi tout simplement pour en faire une Ace.
+ 
+Si elle est votre Oshi, oui, pullez dessus. Si vous trouvez que Restraint est trop important pour vos Late Surger / End Closer et que vous ne voulez pas dépendre des autres joueurs, c’est une bonne idée de pull sur elle en attendant que le skill soit plus simple d’accès. Si vous trouvez que les debuffeusses de Current Speed sont fortes / importantes, elle sera constamment intéressante avec Petrifying Gaze.<br>
+Sweep Tosho est une uma qui a pas mal d’utilité en général, ce n’est pas une mauvaise idée de la pull.
+
+### Bannière Support à suivre : Taiki Shuttle Speed SSR & Oguri Cap Guts SR
+
+⏩**Taiki Shuttle** :speed: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Power Bonus puis Training Effectiveness à 3LB.
+
+- Son Unique Effect lui donne Speed Bonus et Skill Point Bonus quand sa gauge atteint 80 (oraange)
+
+- Ses rainbows sont bons avec ses Friendship Bonus et Special Priority correct, ses stats bonus. Son cross-training est aussi bon avec son Training Effectiveness, le Skll Point Bonus, les stats bonus. Son faible Race Bonus n’est pas un gros problème, même si elle est plus dure à utiliser pour l’instant.
+
+- Elle propose une liste de 6 skills, dont 5 sont pour le Mile. Elle possède un excellent Hint Level et Hint Frequency. **Ses hints auront la réduction maximale si elle est MLB**, et à un très bon niveau dès LB0. C’est une bonne carte pour les hints Mile.
+
+- Son gold skill est **Mile Haven**, la gold version de _Productive Plan_. C’est un gold de vélocité pour le Mile, s’activant en Early-Race, après 5 secondes de course si l’uma est dans le top 50%. C’est un assez bon skill.
+
+⏩**Oguri Cap** :guts: :sr:
+
+- La carte est backloaded. A 1LB, elle débloque Initial Friendship Gauge, puis Speed Bonus à MLB. Ce Speed Bonus est important est une carte Guts, et est la raison pour laquelle elle est backloaded.
+
+- Son Unique Effect donne Power Bonus et un peu de Race Bonus.
+
+- Ses rainbows sont assez bons avec son bon Friendship Bonus, son correct Special Priority et les 2 Stats Bonus. Son cross-training est faible avec un faible Training Effectiveness et son bon Race Bonus.
+
+- Elle propose une liste de 8 skills. Sa liste est un peu différente de sa version Power SSR, c’est une assez bonne liste. Elle possède Hint Level et Hint Frequency, ses hints seront puissants et fréquents.
+
+- Son dernier Chain Event donne _Wet Conditions_.
+
+ 
+#### PULL OU PAS
+
+Non.
+ 
+Taiki Shuttle Speed SSR est une bonne carte à emprunter. C’est dommage qu’elle sorte maintenant, et pas pour le scénario où elle est un scénario-link. Hein, Unity Cup. C’est une bonne carte, mais un peu comme Yaeno Muteki Power SSR, empruntez là. Elle sera utile pour le CM qui arrive.
+ 
+Oguri Cap Guts SR est une moins bonne version d’Admire Vega Guts SR en tout point (sauf les hints). Elle peut rentrer dans les decks en tant que 3ème carte Guts, cela serait la meilleure façon de l’utiliser. Le problème est qu’être moins bon qu’Admire Vega fait que c’est difficile de vouloir la mettre dans vos decks. C’est pour l’instant le problème des cartes Guts, où aucune n’est complètement bonne, seulement sur certains aspects. 
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
