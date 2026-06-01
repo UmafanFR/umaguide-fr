@@ -1,5 +1,5 @@
 ---
-title: Gacha - Inari One ★★★ // Sakura Chiyono O Stamina SSR & Admire Vega Power SSR (rerun)
+title: Gacha - Sweep Tosho ★★★ // Taiki Shuttle Speed SSR & Oguri Cap Guts SR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -75,81 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Inari One ★★★
+### Bannière Umamusume : Sweep Tosho ★★★
 
-![Image de présentation de la bannière Inari One](/public/assets/Gacha-reviews/2026/047_Uma-Banner.png)
-
-⏩ **Inari One** :
-
-_Inari One est une End Closer pour le Medium et le Long, que ce soit sur le Turf ou le Dirt. Avec un peu d’inspiration, elle peut courir en Mile, mais aussi en tant que Pace Chaser et Late Surger (1 étoile pour les 3). Elle possède un gold de vélocité universelle et un gold hybride de recovery et de vélocité pour le Dirt. Son unique est un puissant boost de vélocité de Final Straight._
- 
-- Inari One possède 2 bonus de croissances : 10% en :stamina: et 20% en :power:. C’est un bon combo de bonus pour le Medium et le Long. En Dirt, le PVP se joue principalement sur des courses de distance Mile, le bonus de Stamina perd en utilité mais le bonus de Power reste très bon. Elle se joue avec des decks basiques.
-
-- Ses gold skills sont :
-
-    - **Tail Nine**, la gold version de _Tail Held High_. C’est un gold speed boost universel, qui s’active si l’uma utilise 3 skills en Mid-Race. C’est un bon skill qui est très fiable. Une puissance du skill est que vous pouvez contrôler son activation en fonction des skills de Mid-Race que vous prenez. Cela fait que vous pouvez faire du carry-over si vous prenez un skill qui s’active sur la fin du Mid-Race. Dans le futur, on perdra ce contrôle d’activation avec la quantité de skill qu’on pourra prendre mais le skill sera toujours excellent.
-
-    - **Master of the Sands**, la gold version de _Familiar Ground_. C’est un gold hybride de recovery et de vélocité pour le Dirt. Il s’active aléatoirement en Mid-Race si l’uma est dans le bottom 50%. Le heal n’est pas nécessaire si vous êtes sur des distances Mile mais le speed boost reste bon. C’est un bon skill.
-    > Le skill a une évolution qui le rend utilisable dans les courses Medium en Turf, tout en améliorant le speed boost.
-
-- Elle ne possède pas de Secret Event mais elle possède plein de white skills excellent dans ses autres évènements ou dans son kit de base _(Straightaway Spurt, Ramp Up, Eager, All I‘ve Got et Fighting Spirit)_
-
-- Son unique est un puissant boost de vélocité de Final Straight si elle a constamment été hors du top 40% et qu’elle entre en _**Dueling**_ au moins 1 fois. En tant qu’End Closer elle ne devrait pas avoir trop de mal à rentrer dans la mécanique de Dueling. Elle devrait donc l’utiliser dans la majorité des cas. Elle peut être un bon parent pour les End Closers (sauf Gold Ship, qui remonte trop tôt).
-
-::: tip Rappel de Dueling
-
-Le dueling peut se produire sur le final straight d'une course, si 2 uma semblent être de performance similaire. Pendant le dueling, les uma impliquées augmentent alors leur vitesse et accélération en fonction de leur guts.
-
-:::
-
-#### Pull ou pas ? :
-
-Si elle est votre Oshi ou que vous n’avez pas assez d’uma Dirt, oui.
- 
-Inari One est une bonne uma. Surtout pour le Dirt où on a peu d’uma. Le seul réel problème de son kit est qu’un de ses gold soit spécialisé pour une surface et non une distance ou une stratégie alors qu’elle court parfaitement sur les 2 surfaces. Mais outre ça, elle n’a pas de défaut majeur et il n’y a pas grand-chose à dire sur elle.
- 
-Une des raisons pour ne pas pull sur elle, est juste que le Monstre du Dirt qu’est **Copano Rickey** arrive bientôt (fin de Trackblazer). Copano Rickey est au moins aussi dominante que xOguri, voire plus dominante vu qu’elle a peu de compétition sur le Dirt.
- 
-Finalement, je dirais que ce n’est pas une mauvaise bannière à pull.
-
----
-
-### Bannière support : Sakura Chiyono O Stamina SSR & Admire Vega Power SSR (rerun)
-
-![Image de présentation de la bannière Sakura Chiyono O Stamina SSR & Admire Vega Power SSR (rerun)](/public/assets/Gacha-reviews/2026/047_Card-Banner.png)
-
-⏩**Sakura Chiyono O** :stamina: :SSR:
-
-- La carte est équilibrée. A 1LB, elle débloque Stamina Bonus puis Race Bonus et Fan Bonus à 3LB.
-
-- Ses rainbows sont faibles dû à ses faibles Friendship Bonus et Special Priority. Son cross-training est correct avec un bon Mood Effect et un faible Training Effectiveness. Son Race Bonus est excellent.
-
-- Elle propose une liste de 4 hints, dont seul Medium Corners sort réellement du lot. Elle possède Hint Level et Hint Frequency, ses hints seront puissants et fréquents.
-
-- Son gold skill est **Speed Star**, la gold version de _Prepared to Pass_. C’est un gold de vélocité pour Pace Chaser qui s’active aléatoirement en Final Corner si elle est dans le top 50%. C’est un skill correct pour le Medium ou le Long. Il n’est pas très bon en Mile vu que dans une grande partie des courses Mile, le Late-Race commence en Final Corner gâchant le speed boost. Cela veut aussi dire qu'il y a des courses où le skill peut créer du carry-over (plus ou moins facilement). Cela fait que c'est un skill quitte ou double en Mile.
-
-- Ses évènements sont énergivores.
-
-
-⏩**Admire Vega** :power: :ssr:
-
-[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_31-admire-vega-power-ssr-matikanefukukitaru-ssr-speed)
- 
-#### PULL OU PAS
-
-**Non**.
- 
-Les deux ne sont utilisables que sur Trackblazer et il y a des cartes qui vont bien mieux faire le rôle qu’elles essayent d’accomplir.
-
-Ne pullez pas sur cette bannière.
-
----
-
-# Bannières à suivre (06 Juin 23h)
-
-<!-- ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/047_Banners_early_preview.jpg) -->
-
-### Bannière Umamusume à suivre : Sweep Tosho ★★★
+![Image de présentation de la bannière Sweep Tosho](/public/assets/Gacha-reviews/2026/048_Uma-Banner.png)
 
 ⏩ **Sweep Tosho** :
 
@@ -203,7 +131,11 @@ Sweep Tosho aura toujours de l’utilité, que ce soit pour Restraint (bien que 
 Si elle est votre Oshi, oui, pullez dessus. Si vous trouvez que Restraint est trop important pour vos Late Surger / End Closer et que vous ne voulez pas dépendre des autres joueurs, c’est une bonne idée de pull sur elle en attendant que le skill soit plus simple d’accès. Si vous trouvez que les debuffeusses de Current Speed sont fortes / importantes, elle sera constamment intéressante avec Petrifying Gaze.<br>
 Sweep Tosho est une uma qui a pas mal d’utilité en général, ce n’est pas une mauvaise idée de la pull.
 
-### Bannière Support à suivre : Taiki Shuttle Speed SSR & Oguri Cap Guts SR
+---
+
+### Bannière support : Taiki Shuttle Speed SSR & Oguri Cap Guts SR
+
+![Image de présentation de la bannière Taiki Shuttle Speed SSR & Oguri Cap Guts SR](/public/assets/Gacha-reviews/2026/048_Card-Banner.png)
 
 ⏩**Taiki Shuttle** :speed: :SSR:
 
@@ -237,6 +169,95 @@ Non.
 Taiki Shuttle Speed SSR est une bonne carte à emprunter. C’est dommage qu’elle sorte maintenant, et pas pour le scénario où elle est un scénario-link. Hein, Unity Cup. C’est une bonne carte, mais un peu comme Yaeno Muteki Power SSR, empruntez là. Elle sera utile pour le CM qui arrive.
  
 Oguri Cap Guts SR est une moins bonne version d’Admire Vega Guts SR en tout point (sauf les hints). Elle peut rentrer dans les decks en tant que 3ème carte Guts, cela serait la meilleure façon de l’utiliser. Le problème est qu’être moins bon qu’Admire Vega fait que c’est difficile de vouloir la mettre dans vos decks. C’est pour l’instant le problème des cartes Guts, où aucune n’est complètement bonne, seulement sur certains aspects. 
+
+---
+
+# Bannières à suivre (06 Juin 23h)
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/049_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Taiki Shuttle (Camping) & Mejiro Dober (Camping) ★★★
+
+⏩ **Taiki Shuttle (Camping)** :
+
+_Taiki Shuttle (Camping) est une Pace Chaser pour le Sprint et le Mile (1 gold). Avec un peu d’inspiration, elle peut courir sur le Dirt et en tant que Front Runner (respectivement 1 :star: et 4 :star:). Elle possède un gold de vélocité pour le Mile et un gold d’accélération de Pace Chaser. Son unique est un boost de vélocité pour les 200 derniers mètres, avec une variation qui lui donne un boost de Current Speed en plus._
+ 
+- Taiki Shuttle (Camping) possède 1 SEUL bonus de croissance : 30% en :power:. C’est notre seconde Uma qui possède un unique bonus de croissance. C’est plutôt correct, cela lui permet de jouer les decks Guts ou des decks 2 Speed et 4 Wit.
+
+- Ses gold skills sont :
+
+    - **Mile Haven**, la gold version de _Productive Plan_. C’est un gold de vélocité pour le Mile, s’activant en Early-Race, après 5 secondes de course si l’uma est dans le top 50%. C’est un assez bon skill.
+    >Le skill recevra un buff dans le futur pour le rendre plus simple d’utilisation et une zone d’activation plus précise.
+
+    - **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération de Pace Chaser, s’activant aléatoirement en Late-Race si elle est dans le top 50%. C’est un skill moyen, surtout dû au fait que le skill perd en valeur à mesure que la longueur des courses s'allonge. Les Pace Chaser possèdent peu de skills d’accélération (très peu de bon skill d’accélération pour être plus précis), cela fait qu'il est pour l’instant sympa.
+    >Le skill recevra un buff dans le futur pour le rendre plus fiable.
+
+- Son unique est un boost de vélocité pour les 200 derniers mètres si Taiki Shuttle (Camping) est entre le top 2 et le top 40%. Si elle est à moins de 5 mètres d’écart (2L) de l’uma en première place, l’unique lui donne aussi un boost de Current Speed.<br>
+Le fait que l’unique est 2 variations n’est pas réellement important vu qu’il s’active pour les 200 derniers mètres. S’il y a une distance plus grande que 2L entre elle et la première place, elle aura déjà très peu de chances de gagner. Donc seule la variation avec le boost de Current Speed est importante.<br>
+Avec le boost de Current Speed, c’est un meilleur unique que _**Triumphant Pulse**_ pour comparaison. C’est un bon unique de fin de course.
+
+⏩ **Mejiro Dober (Camping)** :
+
+_Mejiro Dober (Camping) est une Late Surger pour le Mile et le Medium (1 gold). Avec un peu d’inspiration, elle peut courir en tant que Front Runner et en tant que Pace Chaser (respectivement 4 :star: et 1 :star:). Elle possède un gold de vélocité de Late Surger et un gold d’accélération pour le Medium. Son unique est un boost de vélocité de Mid-Race très spécifique (mais il s’active plutôt bien)._
+ 
+- Mejiro Dober (Camping) possède 2 bonus de croissances : 20% en :speed: et 10% en :wit:, l’inverse de son OG. C’est toujours un bon combo de bonus bien que je préfère celui de la OG. Elle va utiliser les decks basiques Power.
+
+- Ses gold skills sont :
+
+    - **Dauntless**, la gold version de _Fearless_. C’est un gold hybride de vélocité et d’une faible accélération de Late Surger. Il s’active à un point random de la 2ème moitié de course si l’uma est entre le bottom 70% et le top 80% (≥ 3 en CM // ≤ 7 en CM). Si le skill s’active juste avant le Late-Race, il sera très fort avec une possibilité de carry-over. S’il s’active ailleurs, il reste bon.
+    >Le skill recevra un buff dans le futur pour le rendre plus simple à activé et qu’il soit plus puissant.
+
+    - **From the Brink**, la gold version de _Take the Chance_. C’est un gold d’accélération pour le Medium qui s’active dans la première partie du Late-Race si elle est dans le bottom 60% ( 4e en CM).
+    >Le skill recevra un buff dans le futur. Le buff le rend plus puissant, plus facile à activer et plus fiable.
+
+- Son unique est un boost de vélocité de Mid-Race. Il s’active dans une pente qui doit se trouver après 60% de la course, tout en ayant besoin qu’il reste au moins 500m de course. Il faut aussi que Mejiro Dober (Camping) soit entre le top 80% et le bottom 60% (≥4 <-> ≤8 en CM) pour s’activer.<br>
+Bien qu’il y ait pas mal de conditions, l’unique s’active plutôt bien. Il est surtout dépendant de l’hippodrome.  L’unique s’active sur le tracet extérieur pour les hippodromes Nakayama et Niigate (seulement en Medium pour ce dernier), 2300m et plus pour l’hippodorme de Tokyo, et s’active bien sur les hippodromes Kyoto, Hanshin et Chukyo (ce dernier a une très longue pente qui lui permet de l’activer).<br>
+L’unique reste basique mais il peut potentiellement créer du carry-over sur les hippodromes de Kyoto et Hanshin.
+
+#### Pull ou pas ? :
+
+Si l’une d’entre elles est votre Oshi, oui.
+ 
+Taiki Shuttle (Camping) est je dirais équivalent ou un peu meilleur que sa version OG. Son unique est plus fiable et je préfère son unique bonus de croissance que ceux de la OG pour mieux jouer deck Guts ou Speed + Wit. Le point important est qu’elle n’aura pas une course où son unique sera mauvais comparer à sa version OG. Le fait qu’elle puisse courir aussi en Dirt est toujours un bon point
+ 
+Mejiro Dober (Camping), tout comme pour Taiki Shuttle, est l’équivalent ou un peu meilleur que sa version OG. L’Alt possède de meilleurs skills gold, mais l’unique de la OG est bien plus dominant pour gagner. Les 2 sont assez dépendant de l’hippodrome pour savoir si elles vont être fortes ou pas.
+ 
+Ce n’est pas une bannière à pull si aucune d’entre elles est l’une de vos Oshi. Je mettrais juste Taiki Shuttle (Camping) un peu en avant juste pour le fait qu’elle puisse courir en Dirt et quel reste une puissante uma.
+
+### Bannière Support à suivre : Matikanetannhauser Wit SSR & El Condor Pasa Guts SSR
+
+⏩**Matikanetannhauser** :wit: :SSR:
+
+- La carte est frontloaded. A 1LB, elle débloque Wit Bonus puis Initial Wit à 3LB.
+
+- Son Unique Effect lui donne 5 de Wit Friendship Recovery. Ce n’est pas un bon Unique Effect.
+
+- Ses rainbows sont assez bons, malgré un faible Special Priority, grâce à son bon Friendship Bonus et son combo de Speed et Wit Bonus. Son cross-training est inexistant, juste un faible Race Bonus.
+
+- Elle propose une liste de 6 hints dont les seuls bons sont très communs.
+
+- Son gold skill est **It’s On !**, la gold version _Ramp Up_. C’est un gold de vélocité universel qui s’active en Mid-Race si vous doublez une uma. Le skill peut aussi se réactiver sur les courses Long. C’est un bon skill et très bon en Long.
+
+⏩**El Condor Pasa** :guts: :ssr:
+
+- La carte est backloaded. A 1LB, elle débloque Guts Bonus puis le combo de Race et Fans Bonus à 3LB.
+
+- Son Unique Effect lui donne du Training Effectiveness en fonction du nombre de cartes dans un training. Cela va de 5 à 30 au max, mais repose beaucoup sur la RNG.
+
+- Ses rainbows sont faibles dû à ses faibles Friendship Bonus et Special Priority. Son cross-training est correct avec son Unique Effect et son bon Race Bonus.
+
+- Elle propose une liste de 7 hints, principalement pour Pace Chaser. Elle possède le combo de Hint Level et Hint Frequency, ses hints seront puissants et assez fréquents.
+
+- Son gold skill est **Speed Star**, la gold version de _Prepared to Pass_. C’est un gold de vélocité pour Pace Chaser qui s’active aléatoirement en Final Corner si elle est dans le top 50%. C’est un skill correct pour le Medium ou le Long. Il n’est pas très bon en Mile vu que dans une grande partie des courses Mile, le Late-Race commence en Final Corner gâchant le speed boost. Cela veut aussi dire qu'il y a des courses où le skill peut créer du carry-over (plus ou moins facilement). Cela fait que c'est un skill quitte ou double en Mile.
+ 
+#### PULL OU PAS
+
+**Non**.
+ 
+Les 2 cartes sont mauvaises, surtout la Matikanetannhauser Wit SSR. Bien que El Condor Pasa Guts SSR puisse avoir un bon Training Effectiveness, elle reste plus faible que les 2-3 cartes un peu intéressantes à borrow pour Guts.
+Vivement Agnes Tachyon Speed SSR pour avoir un autre skill gold de vélocité pour Pace Chaser que Speed Star.
+ 
+Ne pullez pas sur cette bannière.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
