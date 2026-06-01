@@ -883,3 +883,44 @@ Les deux ne sont utilisables que sur Trackblazer et il y a des cartes qui vont b
 Ne pullez pas sur cette bannière.
 
 :::
+
+## #48 - Taiki Shuttle Speed SSR & Oguri Cap Guts SR
+
+![Image de présentation de la bannière Taiki Shuttle Speed SSR & Oguri Cap Guts SR](/public/assets/Gacha-reviews/2026/048_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Taiki Shuttle** :speed: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Power Bonus puis Training Effectiveness à 3LB.
+
+- Son Unique Effect lui donne Speed Bonus et Skill Point Bonus quand sa gauge atteint 80 (oraange)
+
+- Ses rainbows sont bons avec ses Friendship Bonus et Special Priority correct, ses stats bonus. Son cross-training est aussi bon avec son Training Effectiveness, le Skll Point Bonus, les stats bonus. Son faible Race Bonus n’est pas un gros problème, même si elle est plus dure à utiliser pour l’instant.
+
+- Elle propose une liste de 6 skills, dont 5 sont pour le Mile. Elle possède un excellent Hint Level et Hint Frequency. **Ses hints auront la réduction maximale si elle est MLB**, et à un très bon niveau dès LB0. C’est une bonne carte pour les hints Mile.
+
+- Son gold skill est **Mile Haven**, la gold version de _Productive Plan_. C’est un gold de vélocité pour le Mile, s’activant en Early-Race, après 5 secondes de course si l’uma est dans le top 50%. C’est un assez bon skill.
+
+⏩**Oguri Cap** :guts: :sr:
+
+- La carte est backloaded. A 1LB, elle débloque Initial Friendship Gauge, puis Speed Bonus à MLB. Ce Speed Bonus est important est une carte Guts, et est la raison pour laquelle elle est backloaded.
+
+- Son Unique Effect donne Power Bonus et un peu de Race Bonus.
+
+- Ses rainbows sont assez bons avec son bon Friendship Bonus, son correct Special Priority et les 2 Stats Bonus. Son cross-training est faible avec un faible Training Effectiveness et son bon Race Bonus.
+
+- Elle propose une liste de 8 skills. Sa liste est un peu différente de sa version Power SSR, c’est une assez bonne liste. Elle possède Hint Level et Hint Frequency, ses hints seront puissants et fréquents.
+
+- Son dernier Chain Event donne _Wet Conditions_.
+
+ 
+#### PULL OU PAS
+
+Non.
+ 
+Taiki Shuttle Speed SSR est une bonne carte à emprunter. C’est dommage qu’elle sorte maintenant, et pas pour le scénario où elle est un scénario-link. Hein, Unity Cup. C’est une bonne carte, mais un peu comme Yaeno Muteki Power SSR, empruntez là. Elle sera utile pour le CM qui arrive.
+ 
+Oguri Cap Guts SR est une moins bonne version d’Admire Vega Guts SR en tout point (sauf les hints). Elle peut rentrer dans les decks en tant que 3ème carte Guts, cela serait la meilleure façon de l’utiliser. Le problème est qu’être moins bon qu’Admire Vega fait que c’est difficile de vouloir la mettre dans vos decks. C’est pour l’instant le problème des cartes Guts, où aucune n’est complètement bonne, seulement sur certains aspects. 
+
+:::
