@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/047_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/048_Banners_early_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -172,7 +172,7 @@ Oguri Cap Guts SR est une moins bonne version d’Admire Vega Guts SR en tout po
 
 ---
 
-# Bannières à suivre (06 Juin 23h)
+# Bannières à suivre (11 Juin 23h)  
 
 ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/049_Banners_early_preview.jpg)
 
@@ -211,7 +211,7 @@ _Mejiro Dober (Camping) est une Late Surger pour le Mile et le Medium (1 gold). 
     >Le skill recevra un buff dans le futur. Le buff le rend plus puissant, plus facile à activer et plus fiable.
 
 - Son unique est un boost de vélocité de Mid-Race. Il s’active dans une pente qui doit se trouver après 60% de la course, tout en ayant besoin qu’il reste au moins 500m de course. Il faut aussi que Mejiro Dober (Camping) soit entre le top 80% et le bottom 60% (≥4 <-> ≤8 en CM) pour s’activer.<br>
-Bien qu’il y ait pas mal de conditions, l’unique s’active plutôt bien. Il est surtout dépendant de l’hippodrome.  L’unique s’active sur le tracet extérieur pour les hippodromes Nakayama et Niigate (seulement en Medium pour ce dernier), 2300m et plus pour l’hippodorme de Tokyo, et s’active bien sur les hippodromes Kyoto, Hanshin et Chukyo (ce dernier a une très longue pente qui lui permet de l’activer).<br>
+Bien qu’il y ait pas mal de conditions, l’unique s’active plutôt bien. Il est surtout dépendant de l’hippodrome.  L’unique s’active sur le tracé extérieur pour les hippodromes Nakayama et Niigate (seulement en Medium pour ce dernier), 2300m et plus pour l’hippodorme de Tokyo, et s’active bien sur les hippodromes Kyoto, Hanshin et Chukyo (ce dernier a une très longue pente qui lui permet de l’activer).<br>
 L’unique reste basique mais il peut potentiellement créer du carry-over sur les hippodromes de Kyoto et Hanshin.
 
 #### Pull ou pas ? :
@@ -230,19 +230,21 @@ Ce n’est pas une bannière à pull si aucune d’entre elles est l’une de vo
 
 - La carte est frontloaded. A 1LB, elle débloque Wit Bonus puis Initial Wit à 3LB.
 
-- Son Unique Effect lui donne 5 de Wit Friendship Recovery. Ce n’est pas un bon Unique Effect.
+- Son Unique Effect lui donne 5 de Wit Friendship Recovery. C'est la première fois que l'on voit cet effet avoir de l'importance, il faut donc l'expliquer.Les cartes Wit ont naturellement une récuparation de 5 énergie sur les entrainemnts Wit. Aussi, les cartes Wit possèdent toutes cet effet (il y a en réalité 3 exceptions : Ikuno Dictus R et SR & Win Variation R) dans leur kit de base. Cela fait qu'en étant MLB, leur Rainbows nous redonnent entre 8 à 10 énergies. C'est un point important sur la puissance des cartes Wit et de leur utilité.
+Matikanetannhauser Wit SSR, avec cet Unique Effect redonnent 15 d'énergie à chaque fois qu'elle fait un rainbow. Bien que cela semble excellent pour la gestion d'énergie, elle n'est que très peu utile pour Trackblazer avec le peu d'entrainement que l'on fait. Même pour les scénarios futures, on préfère prendre des cartes plus puissantes ou avec des skills utiles. Dans Grand Live, les decks seront généralement à base de 2 :speed: 3 :wit: et Light Halo :friends: (une carte stam peut rentrer en fonction de la stamina nécessaire à la place d'une carte Wit), ont aura généralement aucun problème d'énergie.
+Bien que cela soit un effet important pour la puissance des cartes wit, en tant qu'Unique Effect, il n'est pas bon..
 
 - Ses rainbows sont assez bons, malgré un faible Special Priority, grâce à son bon Friendship Bonus et son combo de Speed et Wit Bonus. Son cross-training est inexistant, juste un faible Race Bonus.
 
-- Elle propose une liste de 6 hints dont les seuls bons sont très communs.
+- Elle propose une liste de 6 hints dont les seuls bons, Nimble Navigator et Homestretch Haste, sont très communs.
 
 - Son gold skill est **It’s On !**, la gold version _Ramp Up_. C’est un gold de vélocité universel qui s’active en Mid-Race si vous doublez une uma. Le skill peut aussi se réactiver sur les courses Long. C’est un bon skill et très bon en Long.
 
 ⏩**El Condor Pasa** :guts: :ssr:
 
-- La carte est backloaded. A 1LB, elle débloque Guts Bonus puis le combo de Race et Fans Bonus à 3LB.
+- La carte est équilibré. A 1LB, elle débloque Guts Bonus puis le combo de Race et Fans Bonus à 3LB. Afin de bien l'utiliser pour Trackblazer, il faudrait au moins la 3LB, mais pour les prochains scénarios, son Unique Effect est disponible dès 0LB. 3LB reste la zone de confort, car bien que le Race Bonus ne soit plus aussi important, cela reste du confort.
 
-- Son Unique Effect lui donne du Training Effectiveness en fonction du nombre de cartes dans un training. Cela va de 5 à 30 au max, mais repose beaucoup sur la RNG.
+- Son Unique Effect lui donne du Training Effectiveness en fonction du nombre de cartes dans un training. Cela va de 5 à 25 au max (elle ne se compte pas dedans), mais repose beaucoup sur la RNG.
 
 - Ses rainbows sont faibles dû à ses faibles Friendship Bonus et Special Priority. Son cross-training est correct avec son Unique Effect et son bon Race Bonus.
 
