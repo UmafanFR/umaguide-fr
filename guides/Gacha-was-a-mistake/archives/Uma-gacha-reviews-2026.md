@@ -906,3 +906,63 @@ Une des raisons pour ne pas pull sur elle, est juste que le Monstre du Dirt qu�
 Finalement, je dirais que ce n’est pas une mauvaise bannière à pull.
 
 ::::
+
+## #48 - Sweep Tosho ★★★
+
+![Image de présentation de la bannière Sweep Tosho](/public/assets/Gacha-reviews/2026/048_Uma-Banner.png)
+
+:::::: details REVIEW
+
+⏩ **Sweep Tosho** :
+
+_Sweep Tosho est une End Closer pour le Mile et le Medium. Elle peut aussi courir parfaitement en tant que Late Surger mais End Closer sera toujours préféré. Avec un peu d’inspiration, elle peut courir en Long (7 :star:). Elle possède un gold de recovery pour End Closer et un gold debuff de Current Speed pour End Closer unique à elle. Son unique est un boost de vélocité qui peut s’activer à partir des 300 derniers mètres._
+ 
+- Sweep Tosho possède 2 bonus de croissances : 10% en :speed: et 20% en :power:. C’est un très bon combo de bonus, surtout pour les fans des decks Guts. Elle se joue très bien avec des decks classiques ou des decks Guts.
+
+- Ses gold skills sont :
+
+    - **Go-Home Specialist**, la gold version d’_After-School Stroll_. C’est un gold de recovery pour End Closer, s’activant dans une descente après les 10 premières secondes de course. C’est un bon skill, bien que pas forcément très utile pour Sweep Tosho, surtout si vous décidez de la faire courir en Mile. En Medium ou si vous voulez la jouez en Long, là le skill aura de l’utilité.
+    >En Mile, les descentes peuvent être mal placées pour un skill de recovery. Normalement vous n’en aurez pas besoin pour cette distance mais c’est un détail.
+    - **Petrifying Gaze**, la gold version d’_Intense Gaze_. C’est un gold debuff de Current Speed pour End Closer qui s’active en Late-Race si Sweep Tosho n’est pas dans le top 2 et affecte les umas dans son champ de vision. C’est un bon skill. Ce n’est pas aussi puissant que **Dominator**, car ce dernier n’est pas restreint par le champ de vision, mais vous pouvez l’utiliser partout en contrepartie.
+
+- Elle possède _Straightaway Spurt_ dans ses skills à éveillés, donc elle ne posera pas beaucoup de problème à faire en tant qu’Ace.
+
+- Tout comme certaines umas (Super Creek, Mejiro Ardan…), Sweep Tosho possède un malus en carrière qui se soigne avec la réussite d’un de ses Secret Events. Au contraire des autres, sa récompense est un skill qui lui est unique à elle, pour l’instant, **Restraint**.
+
+    Après le Debut Race, l’évènement **_Bring the Brat_** lui donne le malus **_You’re Not the Boss of Me !_**, un malus qui lui baisse sa stat de Wit et qui lui donne un toujours un Late-Start. Afin de le soigner, elle doit gagner le Takarazuka Kinen (Senior), ce qui est assez loin dans la carrière. En cas de succès, elle obtient **Restraint** en récompense. 
+    <br>Restraint augmente la Wit autant que les autres green skills double cercle pour un coût plus faible, mais surtout réduit la possibilité de rush.
+
+::: tip Utilitié pour les autres umas
+
+C’est un skill important pour les umas qui ont un unique qui requiert de ne pas rush. Et il y a 2 umas qui ont des uniques importants à hérités dedans. Les umas pour qui le skill est important sont : King Halo OG, Mihono Bourbon OG, Eishin Flash OG, Sweep Tosho, **King Halo (Cheerleader)** et **Mejiro Dober**. Les 2 dernières ont d'excellent unique pour un parent, Restraint permet d’avoir moins de courses gâchées par le fait de rush. Cela fait que Sweep Tosho est un bon grand-parent (grand-grand parent) pour la backline.
+
+:::
+
+- Son unique est un boost de vélocité qui peut s’activer à partir des 300 derniers mètres si Sweep Tosho à constamment été dans le bottom 50% et qu’elle n’est pas rush. L’unique a une durée de base un peu plus longue que les uniques communs, mais il reste assez basique.
+
+::::: info Pour plus de précision
+
+Afin qu’il s’active dans les 300 derniers mètres, ces 300 mètres doivent être compris entre le Final Corner et la ligne d'arrivée. Si les 300 derniers mètres commencent avant le Final Corner, l’unique va attendre d’entrer en Final Corner avant de se lancer.
+
+:::: tip Lié au positionnement
+
+Les 5 premières secondes de course ne comptent pas pour la condition d'être constamment bottom 50%, donc ce n'est pas un problème si elle n'est pas derrière au tout début. 
+
+::: warning Uma Stan peut être un mauvais skill pour Sweep Tosho
+
+_Uma Stan_ peut être dangereux pour elle. Si elle est dans un salon où le reste de la backline est affecté par le Pace Down Mode et qu'elle ne l'est pas à cause d'Uma Stan + autres skills de vélocité, Sweep Tosho peut être au dessus du bottom 50% après 5 secondes de course. Vous pouvez compenser ça en ayant des bons Front Runners ou Pace Chasers comme autres Ace.
+
+:::
+
+::::
+
+:::::
+
+#### Pull ou pas ? :
+
+Sweep Tosho aura toujours de l’utilité, que ce soit pour Restraint (bien que vous puissiez juste l’emprunter à quelqu’un d’autre pour essayer de faire hériter le skill) mais aussi pour Petrifying Gaze. Le reste de son kit est bon aussi tout simplement pour en faire une Ace.
+ 
+Si elle est votre Oshi, oui, pullez dessus. Si vous trouvez que Restraint est trop important pour vos Late Surger / End Closer et que vous ne voulez pas dépendre des autres joueurs, c’est une bonne idée de pull sur elle en attendant que le skill soit plus simple d’accès. Si vous trouvez que les debuffeusses de Current Speed sont fortes / importantes, elle sera constamment intéressante avec Petrifying Gaze.<br>
+Sweep Tosho est une uma qui a pas mal d’utilité en général, ce n’est pas une mauvaise idée de la pull.
+
+::::::
