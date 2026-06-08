@@ -966,3 +966,57 @@ Si elle est votre Oshi, oui, pullez dessus. Si vous trouvez que Restraint est tr
 Sweep Tosho est une uma qui a pas mal d’utilité en général, ce n’est pas une mauvaise idée de la pull.
 
 ::::::
+
+## #49 - Taiki Shuttle (Camping) & Mejiro Dober (Camping) ★★★
+
+![Image de présentation de la bannière Taiki Shuttle (Camping) & Mejiro Dober (Camping)](/public/assets/Gacha-reviews/2026/049_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Taiki Shuttle (Camping)** :
+
+_Taiki Shuttle (Camping) est une Pace Chaser pour le Sprint et le Mile (1 gold). Avec un peu d’inspiration, elle peut courir sur le Dirt et en tant que Front Runner (respectivement 1 :star: et 4 :star:). Elle possède un gold de vélocité pour le Mile et un gold d’accélération de Pace Chaser. Son unique est un boost de vélocité pour les 200 derniers mètres, avec une variation qui lui donne un boost de Current Speed en plus._
+ 
+- Taiki Shuttle (Camping) possède 1 SEUL bonus de croissance : 30% en :power:. C’est notre seconde Uma qui possède un unique bonus de croissance. C’est plutôt correct, cela lui permet de jouer les decks Guts ou des decks 2 Speed et 4 Wit.
+
+- Ses gold skills sont :
+
+    - **Mile Haven**, la gold version de _Productive Plan_. C’est un gold de vélocité pour le Mile, s’activant en Early-Race, après 5 secondes de course si l’uma est dans le top 50%. C’est un assez bon skill.
+    >Le skill recevra un buff dans le futur pour le rendre plus simple d’utilisation et une zone d’activation plus précise.
+
+    - **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération de Pace Chaser, s’activant aléatoirement en Late-Race si elle est dans le top 50%. C’est un skill moyen, surtout dû au fait que le skill perd en valeur à mesure que la longueur des courses s'allonge. Les Pace Chaser possèdent peu de skills d’accélération (très peu de bon skill d’accélération pour être plus précis), cela fait qu'il est pour l’instant sympa.
+    >Le skill recevra un buff dans le futur pour le rendre plus fiable.
+
+- Son unique est un boost de vélocité pour les 200 derniers mètres si Taiki Shuttle (Camping) est entre le top 2 et le top 40%. Si elle est à moins de 5 mètres d’écart (2L) de l’uma en première place, l’unique lui donne aussi un boost de Current Speed.<br>
+Le fait que l’unique est 2 variations n’est pas réellement important vu qu’il s’active pour les 200 derniers mètres. S’il y a une distance plus grande que 2L entre elle et la première place, elle aura déjà très peu de chances de gagner. Donc seule la variation avec le boost de Current Speed est importante.<br>
+Avec le boost de Current Speed, c’est un meilleur unique que _**Triumphant Pulse**_ pour comparaison. C’est un bon unique de fin de course.
+
+⏩ **Mejiro Dober (Camping)** :
+
+_Mejiro Dober (Camping) est une Late Surger pour le Mile et le Medium (1 gold). Avec un peu d’inspiration, elle peut courir en tant que Front Runner et en tant que Pace Chaser (respectivement 4 :star: et 1 :star:). Elle possède un gold de vélocité de Late Surger et un gold d’accélération pour le Medium. Son unique est un boost de vélocité de Mid-Race très spécifique (mais il s’active plutôt bien)._
+ 
+- Mejiro Dober (Camping) possède 2 bonus de croissances : 20% en :speed: et 10% en :wit:, l’inverse de son OG. C’est toujours un bon combo de bonus bien que je préfère celui de la OG. Elle va utiliser les decks basiques Power.
+
+- Ses gold skills sont :
+
+    - **Dauntless**, la gold version de _Fearless_. C’est un gold hybride de vélocité et d’une faible accélération de Late Surger. Il s’active à un point random de la 2ème moitié de course si l’uma est entre le bottom 70% et le top 80% (≥ 3 en CM // ≤ 7 en CM). Si le skill s’active juste avant le Late-Race, il sera très fort avec une possibilité de carry-over. S’il s’active ailleurs, il reste bon.
+    >Le skill recevra un buff dans le futur pour le rendre plus simple à activé et qu’il soit plus puissant.
+
+    - **From the Brink**, la gold version de _Take the Chance_. C’est un gold d’accélération pour le Medium qui s’active dans la première partie du Late-Race si elle est dans le bottom 60% ( 4e en CM).
+    >Le skill recevra un buff dans le futur. Le buff le rend plus puissant, plus facile à activer et plus fiable.
+
+- Son unique est un boost de vélocité de Mid-Race. Il s’active dans une pente qui doit se trouver après 60% de la course, tout en ayant besoin qu’il reste au moins 500m de course. Il faut aussi que Mejiro Dober (Camping) soit entre le top 80% et le bottom 60% (≥4 <-> ≤8 en CM) pour s’activer.<br>
+Bien qu’il y ait pas mal de conditions, l’unique s’active plutôt bien. Il est surtout dépendant de l’hippodrome.  L’unique s’active sur le tracé extérieur pour les hippodromes Nakayama et Niigate (seulement en Medium pour ce dernier), 2300m et plus pour l’hippodorme de Tokyo, et s’active bien sur les hippodromes Kyoto, Hanshin et Chukyo (ce dernier a une très longue pente qui lui permet de l’activer).<br>
+L’unique reste basique mais il peut potentiellement créer du carry-over sur les hippodromes de Kyoto et Hanshin.
+
+#### Pull ou pas ? :
+
+Si l’une d’entre elles est votre Oshi, oui.
+ 
+Taiki Shuttle (Camping) est je dirais équivalent ou un peu meilleur que sa version OG. Son unique est plus fiable et je préfère son unique bonus de croissance que ceux de la OG pour mieux jouer deck Guts ou Speed + Wit. Le point important est qu’elle n’aura pas une course où son unique sera mauvais comparer à sa version OG. Le fait qu’elle puisse courir aussi en Dirt est toujours un bon point
+ 
+Mejiro Dober (Camping), tout comme pour Taiki Shuttle, est l’équivalent ou un peu meilleur que sa version OG. L’Alt possède de meilleurs skills gold, mais l’unique de la OG est bien plus dominant pour gagner. Les 2 sont assez dépendant de l’hippodrome pour savoir si elles vont être fortes ou pas.
+ 
+Ce n’est pas une bannière à pull si aucune d’entre elles est l’une de vos Oshi. Je mettrais juste Taiki Shuttle (Camping) un peu en avant juste pour le fait qu’elle puisse courir en Dirt et quel reste une puissante uma.
+
+:::
