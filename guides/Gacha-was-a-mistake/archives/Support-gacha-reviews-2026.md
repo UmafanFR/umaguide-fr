@@ -424,7 +424,7 @@ Si vous n’avez pas une des top tiers SSR Wit, c’est une bonne bannière à p
 
 - Ses rainbows sont très bons avec un bon Friendship Bonus, le duo de Speed Bonus et Power Bonus et un Special Priority correct. Son cross-training est aussi excellent grâce à son Unique Effect, le duo de Stat Bonus et un bon Race Bonus.
 
-- Elle propose une liste de 7 hints de skills correct. Elle a aussi Hint Level et Hint Frequency, ses hints seront bons et assez fréquents.
+- Elle propose une liste de 7 hints❗ de skills correct. Elle a aussi Hint Level et Hint Frequency, ses hints seront bons et assez fréquents.
 
 - Le skill gold est **Firm Course Menace**, la gold version de _Firm Conditions_. C’est un gold green qui s’active sur les courses de condition Firm et donne une augmentation de 60 Speed et 60 Power. C’est un très bon skill qui est facile à utiliser comparé à d’autres gold green. Ce skill peut être l’une des raisons de l'utiliser à la place de Matikanefukukitaru SSR Speed pour Trackblazer.
 
@@ -442,7 +442,7 @@ Plus tard, quand on aura une limite de stats plus haute, alors lorsqu'une stat a
 
 - Ses rainbows sont bons avec un bon Friendship Bonus (32 et non 30), Power Bonus et un bon Special Priority. Son cross-training est correct avec un bon Race Bonus et un faible Training Effectiveness.
 
-- Elle propose une liste de 8 hints généralement pour le Sprint.
+- Elle propose une liste de 8 hint❗ généralement pour le Sprint.
 
 - Son dernier Chain Event donne _Tail Held High_, mais les événements sont énergivores.
 
@@ -452,7 +452,7 @@ Plus tard, quand on aura une limite de stats plus haute, alors lorsqu'une stat a
 
 - Ses rainbows sont très bons avec un bon Friendship Bonus, le duo de Speed Bonus et Power Bonus et un Special Priority correct. Son cross-training est bon avec Mood Effect, un très bon Race Bonus et son duo de Stat Bonus. Pour une carte Guts, le combo de Speed Bonus et Power Bonus est vraiment fort, cela lui permet d’avoir de la valeur sur 4/5 Training en étant parfait en Guts et Speed, et bon en Power et Wit.
 
-- Elle propose 5 hints, dont seulement 2 sont bons et seulement pour les End Closers. On a de meilleur moyen pour les avoir cependant.
+- Elle propose 5 hints❗, dont seulement 2 sont bons et seulement pour les End Closers. On a de meilleur moyen pour les avoir cependant.
 
 - Son dernier Chain Event donne **End Closer Savy**. Son premier Chain Event donne de l’énergie.
 
@@ -462,7 +462,7 @@ Plus tard, quand on aura une limite de stats plus haute, alors lorsqu'une stat a
 
 - Ses rainbows sont bons avec un bon Friendship Bonus (32 et non 30), le duo de Guts Bonus et Stamina Bonus et un Special Priority correct. Son cross-training est correct mais dépendant de son bon Mood Effect et avec un faible Race Bonus.
 
-- Elle propose une liste de 3 hints qui sont assez sympas.
+- Elle propose une liste de 3 hints❗ qui sont assez sympas.
 
 - Son dernier Chain Event nous donne soit de l’énergie, soit _Late Surger Straightaways_.
  
@@ -500,7 +500,7 @@ Admire Vega SR Guts est la vraie star de la bannière. C’est elle qui permet a
 
 - Ses rainbows sont bons avec un bon Friendship Bonus et Special Priority. Son cross-training est correct mais dépendant du mood avec son Unique Effect, son faible Training Effectiveness et son faible Race Bonus.
 
-- Elle propose une liste de 5 hints, dont 3 très bons. Cependant pour le Hint Farming, sa SR version est meilleure.
+- Elle propose une liste de 5 hints❗, dont 3 très bons. Cependant pour le Hint Farming, sa SR version est meilleure.
 
 - Son gold skill est **Adrenaline Rush**, la gold version d’_Extra Tank_. C’est un gold recovery pour le Long s’activant quand il reste 30% d’HP à l’uma. C’est un mauvais skill.
 
@@ -510,7 +510,7 @@ Admire Vega SR Guts est la vraie star de la bannière. C’est elle qui permet a
 
 - Ses rainbows sont bons avec un bon Friendship Bonus (32 est non 30), un bon Special Priority, du Training Effectiveness et le Speed Bonus. Son cross-training est bon avec un bon Training Effectiveness et un faible Race Bonus.
 
-- Elle propose une liste de 5 skills, principalement pour le Sprint. Elle a aussi Hint Level et Hint Frequency, ses hints seront bons et un peu plus fréquents.
+- Elle propose une liste de 5 hints❗, principalement pour le Sprint. Elle a aussi Hint Level et Hint Frequency, ses hints seront bons et un peu plus fréquents.
 
 - Son dernier Chain Event donne _Sprint Corners_.
  
@@ -568,7 +568,7 @@ J’ai un deck 2 Speed / 2 Stamina / 2 Wit, je reçois +20 au début de la run d
 
 - Ses rainbows sont corrects avec un Friendship Bonus et Special Priority correct en plus du Guts Bonus et le Training Effectiveness. Son cross-training est bon avec son bon Training Effectivenness et son bon Race Bonus.
 
-- Elle propose une liste de 8 skills, principalement pour le Medium ou pour les debuffs. Elle a aussi Hints Level et Hint Frequency dont les 2 sont très bons. Ses hints sont fréquents et puissants.
+- Elle propose une liste de 8 hints❗, principalement pour le Medium ou pour les debuffs. Elle a aussi Hints Level et Hint Frequency dont les 2 sont très bons. Ses hints sont fréquents et puissants.
 
 - Son gold skill est **Burnig Soul**, la gold version de _Fighting Spirit_. C’est un gold de vélocité et de reovery pour le Medium, s’activant en Mid-Race entre le top 30% et le bottom 20% ( 4e <-> 7e en CM) si elle est bloquée sur le côté. C’est un bon skill pour les Pace Chaser et les Late Surger, bien que moins fiables que les top skills de recovery si vous le prenez pour le heal.
 
@@ -582,7 +582,7 @@ J’ai un deck 2 Speed / 2 Stamina / 2 Wit, je reçois +20 au début de la run d
 
 - Ses rainbows passent de bon à très bon avec son Unique Effect. Elle possède de base un Friendship Bonus faible mais un bon Special Priority et le combo de Speed Bonus et Wit Bonus. Son cross-training est correct, dépendant d’un bon Mood Bonus et de son bon Race Bonus.
 
-- Elle propose une liste de 5 skills qui sont sympas. Elle a aussi Hint Level et Hint Frequency mais tellement faibles qu’ils ne servent à rien.
+- Elle propose une liste de 5 hints❗ qui sont sympas. Elle a aussi Hint Level et Hint Frequency mais tellement faibles qu’ils ne servent à rien.
 
 - Son gold skill est **From the Brink**, la gold version de _Take the Chance_. C’est un gold d’accélération pour le Medium qui s’active dans la première partie du Late-Race si elle est dans le bottom 60% ( 4e en CM). C’est un gold d’accélération similaire mais meilleur que **Furious Feat** et **On Your Left** pour comparaison en termes d’activation. Cependant l'événement est **AGEMASEN**.
 
@@ -616,7 +616,7 @@ Ne pullez pas sur cette bannière, au mieux utilisez- les en borrows si vous en 
 
 - Ses rainbows sont moyens, avec un bon Friendship Bonus et son combo de Power Bonus et Stamina Bonus. Son manque de Special Priority est ce qui rendra ses rainbows moyens. Son cross-training est quasiment inexistant avec seulement du Race Bonus et son combo de stat bonus.
 
-- Elle propose une liste de 5 hints, dont 4 pour les Pace Chasers. Elle possède Hint Level et Hints Frequency, bien que ce dernier soit faible. Ses hints seront sympas.
+- Elle propose une liste de 5 hints❗, dont 4 pour les Pace Chasers. Elle possède Hint Level et Hints Frequency, bien que ce dernier soit faible. Ses hints seront sympas.
 
 - Son gold skill est **Neck and Neck**, la gold version de _Head-On_. C’est un gold d’accélération de Pace Chaser qui s’active dans la première partie du Late-Race si la uma est dans le top 50% (≤5 en CM). Ce n’est pas un skill fiable mais intéressant avec le manque de skills d’accélération que les Pace Chasers peuvent bien utiliser.
 
@@ -627,7 +627,7 @@ Ne pullez pas sur cette bannière, au mieux utilisez- les en borrows si vous en 
 
 - Ses rainbows sont bons, avec un Friendship Bonus correct, un Special Priority correct, le Wit Bonus et son bon Training Effectiveness. Son cross-training est bon avec un bon Training Effectiveness et son bon Race Bonus.
 
-- Elle propose une liste de 7 skills. Tout comme ses autres versions, ses hints restent faibles.
+- Elle propose une liste de 7 hints❗. Tout comme ses autres versions, ses hints restent faibles.
 
 - Son dernier Chain Event nous permet de choisir entre _Subdued End Closers_ ou _End Closers Straightaway_.
 
@@ -653,7 +653,7 @@ Ne pullez pas sur cette bannière.
 
 - Ses rainbows sont assez bons, bien que son Friendship Bonus soit faible, grâce à son Special Priority élevé, son excellent Training Effectiveness, son Mood Effect et le Speed Bonus. Son cross-trainnig est très bon avec son Training Effectiveness, son Mood Effect, le Speed Bonus et son faible Race Bonus.
 
-- Elle possède une liste de 5 hints, dont 3 sont excellents (Speed Eater / Slipsteram / Playtime's Over !). Elle possède Hint Level et Hint Frequency, Ses hints seront très puissants et fréquents.
+- Elle possède une liste de 5 hint❗, dont 3 sont excellents (Speed Eater / Slipsteram / Playtime's Over !). Elle possède Hint Level et Hint Frequency, Ses hints seront très puissants et fréquents.
 
 - Son gold skill est **Restless**, la gold version de _Moxie_. C’est un gold heal pour les Front Runner qui s’active dans une descente après les 10 premières secondes de course. C’est un heal dont sa puissance va dépendre de la course on veut que les heals s’active en Mid-Race, ou suffisamment tard en Early-Race. C’est un skill bon. Mais situationnellment inutilisable. Cependant l’évènement est **AGEMASEN**.
 
@@ -663,7 +663,7 @@ Ne pullez pas sur cette bannière.
 
 - Ses rainbows sont moyens avec son faible Friendship Bonus et Special Priority, mais elle a au moins du Speed Bonus, Training Effectiveness et un très grand Mood Effect pour compenser un peu. Son cross-training est très bon bien que dépendant du Mood car son Mood Effect et très haut, combiné à un bon Training Effectiveness. Dommage pour son faible Race Bonus.
 
-- Elle possède une liste de 6 skills, dont 3 bons. Elle possède Hint Level et Hint Frequency. Ses hints seront puissants et fréquents.
+- Elle possède une liste de 6 hints❗, dont 3 bons. Elle possède Hint Level et Hint Frequency. Ses hints seront puissants et fréquents.
 
 - Son gold skill est Taking the Lead, la gold version d’Early Lead. C’est un gold d’accélération pour les Front Runners qui s’active dès le début de la course. C’est un excellent skill, obligatoire pour les Front Runners. Cependant l'évènement est AGEMASEN et les 2 évènements avant peuvent briser la chaîne.
 
@@ -754,7 +754,7 @@ Ne pullez pas sur cette bannière.
 
 - Ses rainbows sont bons avec un bon Friendship Bonus, du Special Priority correct, son double Wit Bonus et son Speed Bonus. Son cross-training est moyen avec ses Training Effectivenness et Race Bonus, mais on appréciera Skill Point Bonus et son Speed Bonus. Si vous l'avez en MLB, l'ajout du Mood Effect rendra son cross-training correct.
 
-- Elle propose une liste de 7 hints, dont les très bons _Straightaway Spurt_ et _Tail Held High_. Elle possède Hint Level et Hint Frequency, ses hint seront assez forts et fréquents.
+- Elle propose une liste de 7 hints❗, dont les très bons _Straightaway Spurt_ et _Tail Held High_. Elle possède Hint Level et Hint Frequency, ses hint seront assez forts et fréquents.
 
 - Le skill gold est **Daring Strike**, la gold version d’_Early Start_. C’est un gold de vélocité pour End Closer, qui s’active dans le Mid-Race si elle est dans le bottom 50%. C'est un très bon skill dont la force est dans sa durée. Il permet aussi de bien se placer pour les End Closer avant le Late-Race.
 
@@ -764,7 +764,7 @@ Ne pullez pas sur cette bannière.
 
 - Ses rainbows sont mauvais avec un faible Friendship Bonus, son absence de Special Priority, un peu compenser par son Training Effectivennes correct. Son cross-training est bon avec son Training Effectiveness et son Race Bonus mais aussi le Skill Point Bonus.
 
-- Elle propose une liste de 6 hints peu intéressants. Elle possède un très bon Hint Level et Hint Frequency. Ses hints seront puissants et fréquents.
+- Elle propose une liste de 6 hints❗ peu intéressants. Elle possède un très bon Hint Level et Hint Frequency. Ses hints seront puissants et fréquents.
 
 - Son dernier Chain Event donne **Medium Corners**.
  
@@ -821,7 +821,7 @@ Ne pullez pas sur cette bannière.
 
 - Ses rainbows sont moyens dû à son manque de Special Priority. Ce qui est dommage avec son bon Friendship Bonus et son Stamina Bonus. Son cross-training est très bon, avec son haut Training Effectivenness de son Unique Effect, de son Mood Effect et de son bon Race Bonus.
 
-- Elle propose une liste de 7 hints, dont seulement _Position Plifer_ et _Late Surger Corners_ sont intéressants. Elle possède un bon Hints Level et Frequency en MLB, ses hints seront puissants et fréquents.
+- Elle propose une liste de 7 hints❗, dont seulement _Position Plifer_ et _Late Surger Corners_ sont intéressants. Elle possède un bon Hints Level et Frequency en MLB, ses hints seront puissants et fréquents.
 
 - Son gold skill est **Keep Going !**, la gold version de _Full Throttle_. C’est un gold de vélocité de Late Surger qui s’active aléatoirement en Mid-Race pour un coût d’HPs équivalent à 2 white debuff. Le skill a une bonne puissance et la perte de Stamina n’est pas un gros problème. C’est un bon skill.
 
@@ -863,7 +863,7 @@ Ne pullez pas sur cette bannière.
 
 - Ses rainbows sont faibles dû à ses faibles Friendship Bonus et Special Priority. Son cross-training est correct avec un bon Mood Effect et un faible Training Effectiveness. Son Race Bonus est excellent.
 
-- Elle propose une liste de 4 hints, dont seul Medium Corners sort réellement du lot. Elle possède Hint Level et Hint Frequency, ses hints seront puissants et fréquents.
+- Elle propose une liste de 4 hints❗, dont seul Medium Corners sort réellement du lot. Elle possède Hint Level et Hint Frequency, ses hints seront puissants et fréquents.
 
 - Son gold skill est **Speed Star**, la gold version de _Prepared to Pass_. C’est un gold de vélocité pour Pace Chaser qui s’active aléatoirement en Final Corner si elle est dans le top 50%. C’est un skill correct pour le Medium ou le Long. Il n’est pas très bon en Mile vu que dans une grande partie des courses Mile, le Late-Race commence en Final Corner gâchant le speed boost. Cela veut aussi dire qu'il y a des courses où le skill peut créer du carry-over (plus ou moins facilement). Cela fait que c'est un skill quitte ou double en Mile.
 
@@ -898,7 +898,7 @@ Ne pullez pas sur cette bannière.
 
 - Ses rainbows sont bons avec ses Friendship Bonus et Special Priority correct, ses stats bonus. Son cross-training est aussi bon avec son Training Effectiveness, le Skll Point Bonus, les stats bonus. Son faible Race Bonus n’est pas un gros problème, même si elle est plus dure à utiliser pour l’instant.
 
-- Elle propose une liste de 6 skills, dont 5 sont pour le Mile. Elle possède un excellent Hint Level et Hint Frequency. **Ses hints auront la réduction maximale si elle est MLB**, et à un très bon niveau dès LB0. C’est une bonne carte pour les hints Mile.
+- Elle propose une liste de 6 hints❗, dont 5 sont pour le Mile. Elle possède un excellent Hint Level et Hint Frequency. **Ses hints auront la réduction maximale si elle est MLB**, et à un très bon niveau dès LB0. C’est une bonne carte pour les hints Mile.
 
 - Son gold skill est **Mile Haven**, la gold version de _Productive Plan_. C’est un gold de vélocité pour le Mile, s’activant en Early-Race, après 5 secondes de course si l’uma est dans le top 50%. C’est un assez bon skill.
 
@@ -910,7 +910,7 @@ Ne pullez pas sur cette bannière.
 
 - Ses rainbows sont assez bons avec son bon Friendship Bonus, son correct Special Priority et les 2 Stats Bonus. Son cross-training est faible avec un faible Training Effectiveness et son bon Race Bonus.
 
-- Elle propose une liste de 8 skills. Sa liste est un peu différente de sa version Power SSR, c’est une assez bonne liste. Elle possède Hint Level et Hint Frequency, ses hints seront puissants et fréquents.
+- Elle propose une liste de 8 hints❗. Sa liste est un peu différente de sa version Power SSR, c’est une assez bonne liste. Elle possède Hint Level et Hint Frequency, ses hints seront puissants et fréquents.
 
 - Son dernier Chain Event donne _Wet Conditions_.
 
@@ -922,5 +922,48 @@ Non.
 Taiki Shuttle Speed SSR est une bonne carte à emprunter. C’est dommage qu’elle sorte maintenant, et pas pour le scénario où elle est un scénario-link. Hein, Unity Cup. C’est une bonne carte, mais un peu comme Yaeno Muteki Power SSR, empruntez là. Elle sera utile pour le CM qui arrive.
  
 Oguri Cap Guts SR est une moins bonne version d’Admire Vega Guts SR en tout point (sauf les hints). Elle peut rentrer dans les decks en tant que 3ème carte Guts, cela serait la meilleure façon de l’utiliser. Le problème est qu’être moins bon qu’Admire Vega fait que c’est difficile de vouloir la mettre dans vos decks. C’est pour l’instant le problème des cartes Guts, où aucune n’est complètement bonne, seulement sur certains aspects. 
+
+:::
+
+## #49 - Matikanetannhauser Wit SSR & El Condor Pasa Guts SSR
+
+![Image de présentation de la bannière Matikanetannhauser Wit SSR & El Condor Pasa Guts SSR](/public/assets/Gacha-reviews/2026/049_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Matikanetannhauser** :wit: :SSR:
+
+- La carte est frontloaded. A 1LB, elle débloque Wit Bonus puis Initial Wit à 3LB.
+
+- Son Unique Effect lui donne 5 de Wit Friendship Recovery. C'est la première fois que l'on voit cet effet avoir de l'importance, il faut donc l'expliquer.Les cartes Wit ont naturellement une récuparation de 5 énergie sur les entrainemnts Wit. Aussi, les cartes Wit possèdent toutes cet effet (il y a en réalité 3 exceptions : Ikuno Dictus R et SR & Win Variation R) dans leur kit de base. Cela fait qu'en étant MLB, leur Rainbows nous redonnent entre 8 à 10 énergies. C'est un point important sur la puissance des cartes Wit et de leur utilité.
+Matikanetannhauser Wit SSR, avec cet Unique Effect redonnent 15 d'énergie à chaque fois qu'elle fait un rainbow. Bien que cela semble excellent pour la gestion d'énergie, elle n'est que très peu utile pour Trackblazer avec le peu d'entrainement que l'on fait. Même pour les scénarios futures, on préfère prendre des cartes plus puissantes ou avec des skills utiles. Dans Grand Live, les decks seront généralement à base de 2 :speed: 3 :wit: et Light Halo :friends: (une carte stam peut rentrer en fonction de la stamina nécessaire à la place d'une carte Wit), ont aura généralement aucun problème d'énergie.
+Bien que cela soit un effet important pour la puissance des cartes wit, en tant qu'Unique Effect, il n'est pas bon..
+
+- Ses rainbows sont assez bons, malgré un faible Special Priority, grâce à son bon Friendship Bonus et son combo de Speed et Wit Bonus. Son cross-training est inexistant, juste un faible Race Bonus.
+
+- Elle propose une liste de 6 hints❗ dont les seuls bons, Nimble Navigator et Homestretch Haste, sont très communs.
+
+- Son gold skill est **It’s On !**, la gold version _Ramp Up_. C’est un gold de vélocité universel qui s’active en Mid-Race si vous doublez une uma. Le skill peut aussi se réactiver sur les courses Long. C’est un bon skill et très bon en Long.
+
+⏩**El Condor Pasa** :guts: :ssr:
+
+- La carte est équilibré. A 1LB, elle débloque Guts Bonus puis le combo de Race et Fans Bonus à 3LB. Afin de bien l'utiliser pour Trackblazer, il faudrait au moins la 3LB, mais pour les prochains scénarios, son Unique Effect est disponible dès 0LB. 3LB reste la zone de confort, car bien que le Race Bonus ne soit plus aussi important, cela reste du confort.
+
+- Son Unique Effect lui donne du Training Effectiveness en fonction du nombre de cartes dans un training. Cela va de 5 à 25 au max (elle ne se compte pas dedans), mais repose beaucoup sur la RNG.
+
+- Ses rainbows sont faibles dû à ses faibles Friendship Bonus et Special Priority. Son cross-training est correct avec son Unique Effect et son bon Race Bonus.
+
+- Elle propose une liste de 7 hints❗, principalement pour Pace Chaser. Elle possède le combo de Hint Level et Hint Frequency, ses hints seront puissants et assez fréquents.
+
+- Son gold skill est **Speed Star**, la gold version de _Prepared to Pass_. C’est un gold de vélocité pour Pace Chaser qui s’active aléatoirement en Final Corner si elle est dans le top 50%. C’est un skill correct pour le Medium ou le Long. Il n’est pas très bon en Mile vu que dans une grande partie des courses Mile, le Late-Race commence en Final Corner gâchant le speed boost. Cela veut aussi dire qu'il y a des courses où le skill peut créer du carry-over (plus ou moins facilement). Cela fait que c'est un skill quitte ou double en Mile.
+ 
+#### PULL OU PAS
+
+**Non**.
+ 
+Les 2 cartes sont mauvaises, surtout la Matikanetannhauser Wit SSR. Bien que El Condor Pasa Guts SSR puisse avoir un bon Training Effectiveness, elle reste plus faible que les 2-3 cartes un peu intéressantes à borrow pour Guts.
+Vivement Agnes Tachyon Speed SSR pour avoir un autre skill gold de vélocité pour Pace Chaser que Speed Star.
+ 
+Ne pullez pas sur cette bannière.
 
 :::

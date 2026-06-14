@@ -1,5 +1,5 @@
 ---
-title: Gacha - Sweep Tosho ★★★ // Taiki Shuttle Speed SSR & Oguri Cap Guts SR
+title: Gacha - Taiki Shuttle (Camping) & Mejiro Dober (Camping) ★★★ // Matikanetannhauser Wit SSR & El Condor Pasa Guts SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/048_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/049_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -75,108 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Sweep Tosho ★★★
+### Bannière Umamusume : Taiki Shuttle (Camping) & Mejiro Dober (Camping) ★★★
 
-![Image de présentation de la bannière Sweep Tosho](/public/assets/Gacha-reviews/2026/048_Uma-Banner.png)
-
-⏩ **Sweep Tosho** :
-
-_Sweep Tosho est une End Closer pour le Mile et le Medium. Elle peut aussi courir parfaitement en tant que Late Surger mais End Closer sera toujours préféré. Avec un peu d’inspiration, elle peut courir en Long (7 :star:). Elle possède un gold de recovery pour End Closer et un gold debuff de Current Speed pour End Closer unique à elle. Son unique est un boost de vélocité qui peut s’activer à partir des 300 derniers mètres._
- 
-- Sweep Tosho possède 2 bonus de croissances : 10% en :speed: et 20% en :power:. C’est un très bon combo de bonus, surtout pour les fans des decks Guts. Elle se joue très bien avec des decks classiques ou des decks Guts.
-
-- Ses gold skills sont :
-
-    - **Go-Home Specialist**, la gold version d’_After-School Stroll_. C’est un gold de recovery pour End Closer, s’activant dans une descente après les 10 premières secondes de course. C’est un bon skill, bien que pas forcément très utile pour Sweep Tosho, surtout si vous décidez de la faire courir en Mile. En Medium ou si vous voulez la jouez en Long, là le skill aura de l’utilité.
-    >En Mile, les descentes peuvent être mal placées pour un skill de recovery. Normalement vous n’en aurez pas besoin pour cette distance mais c’est un détail.
-    - **Petrifying Gaze**, la gold version d’_Intense Gaze_. C’est un gold debuff de Current Speed pour End Closer qui s’active en Late-Race si Sweep Tosho n’est pas dans le top 2 et affecte les umas dans son champ de vision. C’est un bon skill. Ce n’est pas aussi puissant que **Dominator**, car ce dernier n’est pas restreint par le champ de vision, mais vous pouvez l’utiliser partout en contrepartie.
-
-- Elle possède _Straightaway Spurt_ dans ses skills à éveillés, donc elle ne posera pas beaucoup de problème à faire en tant qu’Ace.
-
-- Tout comme certaines umas (Super Creek, Mejiro Ardan…), Sweep Tosho possède un malus en carrière qui se soigne avec la réussite d’un de ses Secret Events. Au contraire des autres, sa récompense est un skill qui lui est unique à elle, pour l’instant, **Restraint**.
-
-    Après le Debut Race, l’évènement **_Bring the Brat_** lui donne le malus **_You’re Not the Boss of Me !_**, un malus qui lui baisse sa stat de Wit et qui lui donne un toujours un Late-Start. Afin de le soigner, elle doit gagner le Takarazuka Kinen (Senior), ce qui est assez loin dans la carrière. En cas de succès, elle obtient **Restraint** en récompense. 
-    <br>Restraint augmente la Wit autant que les autres green skills double cercle pour un coût plus faible, mais surtout réduit la possibilité de rush.
-
-::: tip Utilitié pour les autres umas
-
-C’est un skill important pour les umas qui ont un unique qui requiert de ne pas rush. Et il y a 2 umas qui ont des uniques importants à hérités dedans. Les umas pour qui le skill est important sont : King Halo OG, Mihono Bourbon OG, Eishin Flash OG, Sweep Tosho, **King Halo (Cheerleader)** et **Mejiro Dober**. Les 2 dernières ont d'excellent unique pour un parent, Restraint permet d’avoir moins de courses gâchées par le fait de rush. Cela fait que Sweep Tosho est un bon grand-parent (grand-grand parent) pour la backline.
-
-:::
-
-- Son unique est un boost de vélocité qui peut s’activer à partir des 300 derniers mètres si Sweep Tosho à constamment été dans le bottom 50% et qu’elle n’est pas rush. L’unique a une durée de base un peu plus longue que les uniques communs, mais il reste assez basique.
-
-::::: info Pour plus de précision
-
-Afin qu’il s’active dans les 300 derniers mètres, ces 300 mètres doivent être compris entre le Final Corner et la ligne d'arrivée. Si les 300 derniers mètres commencent avant le Final Corner, l’unique va attendre d’entrer en Final Corner avant de se lancer.
-
-:::: tip Lié au positionnement
-
-Les 5 premières secondes de course ne comptent pas pour la condition d'être constamment bottom 50%, donc ce n'est pas un problème si elle n'est pas derrière au tout début. 
-
-::: warning Uma Stan peut être un mauvais skill pour Sweep Tosho
-
-_Uma Stan_ peut être dangereux pour elle. Si elle est dans un salon où le reste de la backline est affecté par le Pace Down Mode et qu'elle ne l'est pas à cause d'Uma Stan + autres skills de vélocité, Sweep Tosho peut être au dessus du bottom 50% après 5 secondes de course. Vous pouvez compenser ça en ayant des bons Front Runners ou Pace Chasers comme autres Ace.
-
-:::
-
-::::
-
-:::::
-
-#### Pull ou pas ? :
-
-Sweep Tosho aura toujours de l’utilité, que ce soit pour Restraint (bien que vous puissiez juste l’emprunter à quelqu’un d’autre pour essayer de faire hériter le skill) mais aussi pour Petrifying Gaze. Le reste de son kit est bon aussi tout simplement pour en faire une Ace.
- 
-Si elle est votre Oshi, oui, pullez dessus. Si vous trouvez que Restraint est trop important pour vos Late Surger / End Closer et que vous ne voulez pas dépendre des autres joueurs, c’est une bonne idée de pull sur elle en attendant que le skill soit plus simple d’accès. Si vous trouvez que les debuffeusses de Current Speed sont fortes / importantes, elle sera constamment intéressante avec Petrifying Gaze.<br>
-Sweep Tosho est une uma qui a pas mal d’utilité en général, ce n’est pas une mauvaise idée de la pull.
-
----
-
-### Bannière support : Taiki Shuttle Speed SSR & Oguri Cap Guts SR
-
-![Image de présentation de la bannière Taiki Shuttle Speed SSR & Oguri Cap Guts SR](/public/assets/Gacha-reviews/2026/048_Card-Banner.png)
-
-⏩**Taiki Shuttle** :speed: :SSR:
-
-- La carte est backloaded. A 1LB, elle débloque Power Bonus puis Training Effectiveness à 3LB.
-
-- Son Unique Effect lui donne Speed Bonus et Skill Point Bonus quand sa gauge atteint 80 (oraange)
-
-- Ses rainbows sont bons avec ses Friendship Bonus et Special Priority correct, ses stats bonus. Son cross-training est aussi bon avec son Training Effectiveness, le Skll Point Bonus, les stats bonus. Son faible Race Bonus n’est pas un gros problème, même si elle est plus dure à utiliser pour l’instant.
-
-- Elle propose une liste de 6 skills, dont 5 sont pour le Mile. Elle possède un excellent Hint Level et Hint Frequency. **Ses hints auront la réduction maximale si elle est MLB**, et à un très bon niveau dès LB0. C’est une bonne carte pour les hints Mile.
-
-- Son gold skill est **Mile Haven**, la gold version de _Productive Plan_. C’est un gold de vélocité pour le Mile, s’activant en Early-Race, après 5 secondes de course si l’uma est dans le top 50%. C’est un assez bon skill.
-
-⏩**Oguri Cap** :guts: :sr:
-
-- La carte est backloaded. A 1LB, elle débloque Initial Friendship Gauge, puis Speed Bonus à MLB. Ce Speed Bonus est important est une carte Guts, et est la raison pour laquelle elle est backloaded.
-
-- Son Unique Effect donne Power Bonus et un peu de Race Bonus.
-
-- Ses rainbows sont assez bons avec son bon Friendship Bonus, son correct Special Priority et les 2 Stats Bonus. Son cross-training est faible avec un faible Training Effectiveness et son bon Race Bonus.
-
-- Elle propose une liste de 8 skills. Sa liste est un peu différente de sa version Power SSR, c’est une assez bonne liste. Elle possède Hint Level et Hint Frequency, ses hints seront puissants et fréquents.
-
-- Son dernier Chain Event donne _Wet Conditions_.
-
- 
-#### PULL OU PAS
-
-Non.
- 
-Taiki Shuttle Speed SSR est une bonne carte à emprunter. C’est dommage qu’elle sorte maintenant, et pas pour le scénario où elle est un scénario-link. Hein, Unity Cup. C’est une bonne carte, mais un peu comme Yaeno Muteki Power SSR, empruntez là. Elle sera utile pour le CM qui arrive.
- 
-Oguri Cap Guts SR est une moins bonne version d’Admire Vega Guts SR en tout point (sauf les hints). Elle peut rentrer dans les decks en tant que 3ème carte Guts, cela serait la meilleure façon de l’utiliser. Le problème est qu’être moins bon qu’Admire Vega fait que c’est difficile de vouloir la mettre dans vos decks. C’est pour l’instant le problème des cartes Guts, où aucune n’est complètement bonne, seulement sur certains aspects. 
-
----
-
-# Bannières à suivre (11 Juin 23h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/049_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Taiki Shuttle (Camping) & Mejiro Dober (Camping) ★★★
+![Image de présentation de la bannière Taiki Shuttle (Camping) & Mejiro Dober (Camping)](/public/assets/Gacha-reviews/2026/049_Uma-Banner.png)
 
 ⏩ **Taiki Shuttle (Camping)** :
 
@@ -224,19 +125,23 @@ Mejiro Dober (Camping), tout comme pour Taiki Shuttle, est l’équivalent ou un
  
 Ce n’est pas une bannière à pull si aucune d’entre elles est l’une de vos Oshi. Je mettrais juste Taiki Shuttle (Camping) un peu en avant juste pour le fait qu’elle puisse courir en Dirt et quel reste une puissante uma.
 
-### Bannière Support à suivre : Matikanetannhauser Wit SSR & El Condor Pasa Guts SSR
+---
+
+### Bannière support : Matikanetannhauser Wit SSR & El Condor Pasa Guts SSR
+
+![Image de présentation de la bannière Matikanetannhauser Wit SSR & El Condor Pasa Guts SSR](/public/assets/Gacha-reviews/2026/049_Card-Banner.png)
 
 ⏩**Matikanetannhauser** :wit: :SSR:
 
 - La carte est frontloaded. A 1LB, elle débloque Wit Bonus puis Initial Wit à 3LB.
 
-- Son Unique Effect lui donne 5 de Wit Friendship Recovery. C'est la première fois que l'on voit cet effet avoir de l'importance, il faut donc l'expliquer.Les cartes Wit ont naturellement une récuparation de 5 énergie sur les entrainemnts Wit. Aussi, les cartes Wit possèdent toutes cet effet (il y a en réalité 3 exceptions : Ikuno Dictus R et SR & Win Variation R) dans leur kit de base. Cela fait qu'en étant MLB, leur Rainbows nous redonnent entre 8 à 10 énergies. C'est un point important sur la puissance des cartes Wit et de leur utilité.
-Matikanetannhauser Wit SSR, avec cet Unique Effect redonnent 15 d'énergie à chaque fois qu'elle fait un rainbow. Bien que cela semble excellent pour la gestion d'énergie, elle n'est que très peu utile pour Trackblazer avec le peu d'entrainement que l'on fait. Même pour les scénarios futures, on préfère prendre des cartes plus puissantes ou avec des skills utiles. Dans Grand Live, les decks seront généralement à base de 2 :speed: 3 :wit: et Light Halo :friends: (une carte stam peut rentrer en fonction de la stamina nécessaire à la place d'une carte Wit), ont aura généralement aucun problème d'énergie.
+- Son Unique Effect lui donne 5 de Wit Friendship Recovery. C'est la première fois que l'on voit cet effet avoir de l'importance, il faut donc l'expliquer.Les cartes Wit ont naturellement une récuparation de 5 énergie sur les entrainements Wit. Aussi, les cartes Wit possèdent toutes cet effet (il y a en réalité 3 exceptions : Ikuno Dictus R et SR & Win Variation R, dont cette dernière n'est pas encore sortie) dans leur kit de base. Cela fait qu'en étant MLB, leur Rainbows nous redonnent entre 8 à 10 énergies. C'est un point important sur la puissance des cartes Wit et de leur utilité.<br>
+Matikanetannhauser Wit SSR, avec cet Unique Effect redonnent 15 d'énergie à chaque fois qu'elle fait un rainbow. Bien que cela semble excellent pour la gestion d'énergie, elle n'est que très peu utile pour Trackblazer avec le peu d'entrainement que l'on fait. Même pour les scénarios futures, on préfère prendre des cartes plus puissantes ou avec des skills utiles. Dans Grand Live, les decks seront généralement à base de 2 :speed: 3 :wit: et Light Halo :friends: et/ou 3 :speed: 2 :wit: et Light Halo (une carte stam peut rentrer en fonction de la stamina nécessaire à la place d'une carte Wit), on aura généralement aucun problème d'énergie.<br>
 Bien que cela soit un effet important pour la puissance des cartes wit, en tant qu'Unique Effect, il n'est pas bon..
 
 - Ses rainbows sont assez bons, malgré un faible Special Priority, grâce à son bon Friendship Bonus et son combo de Speed et Wit Bonus. Son cross-training est inexistant, juste un faible Race Bonus.
 
-- Elle propose une liste de 6 hints dont les seuls bons, Nimble Navigator et Homestretch Haste, sont très communs.
+- Elle propose une liste de 6 hints❗ dont les seuls bons, Nimble Navigator et Homestretch Haste, sont très communs.
 
 - Son gold skill est **It’s On !**, la gold version _Ramp Up_. C’est un gold de vélocité universel qui s’active en Mid-Race si vous doublez une uma. Le skill peut aussi se réactiver sur les courses Long. C’est un bon skill et très bon en Long.
 
@@ -248,7 +153,7 @@ Bien que cela soit un effet important pour la puissance des cartes wit, en tant 
 
 - Ses rainbows sont faibles dû à ses faibles Friendship Bonus et Special Priority. Son cross-training est correct avec son Unique Effect et son bon Race Bonus.
 
-- Elle propose une liste de 7 hints, principalement pour Pace Chaser. Elle possède le combo de Hint Level et Hint Frequency, ses hints seront puissants et assez fréquents.
+- Elle propose une liste de 7 hints❗, principalement pour Pace Chaser. Elle possède le combo de Hint Level et Hint Frequency, ses hints seront puissants et assez fréquents.
 
 - Son gold skill est **Speed Star**, la gold version de _Prepared to Pass_. C’est un gold de vélocité pour Pace Chaser qui s’active aléatoirement en Final Corner si elle est dans le top 50%. C’est un skill correct pour le Medium ou le Long. Il n’est pas très bon en Mile vu que dans une grande partie des courses Mile, le Late-Race commence en Final Corner gâchant le speed boost. Cela veut aussi dire qu'il y a des courses où le skill peut créer du carry-over (plus ou moins facilement). Cela fait que c'est un skill quitte ou double en Mile.
  
@@ -258,6 +163,75 @@ Bien que cela soit un effet important pour la puissance des cartes wit, en tant 
  
 Les 2 cartes sont mauvaises, surtout la Matikanetannhauser Wit SSR. Bien que El Condor Pasa Guts SSR puisse avoir un bon Training Effectiveness, elle reste plus faible que les 2-3 cartes un peu intéressantes à borrow pour Guts.
 Vivement Agnes Tachyon Speed SSR pour avoir un autre skill gold de vélocité pour Pace Chaser que Speed Star.
+ 
+Ne pullez pas sur cette bannière.
+
+---
+
+# Bannières à suivre (18 Juin 23h)  
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/050_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Air Shakur ★★★
+
+⏩ **Air Shakur** :
+
+_Air Shakur est une End Closer pour le Medium (1 Gold) et le Long. Elle peut aussi courir parfaitement en tant que Late Surger. Avec un peu d’inspiration, elle peut courir en tant que Pace Chaser (4 :star:). Elle possède un gold de vélocité pour le Medium et un gold de vélocité pour End Closer. Son unique est un hybride de vélocité et de Lane Movement Speed (le même type qu’Agnes Digital) de Last Straight._
+ 
+- Air Shakur possède un UNIQUE bonus de croissance : 30% en :wit:. C’est notre troisième uma avec un seul bonus de croissance, mais ce bonus de croissance n’est pas aussi bon que les 2 autres. Le bonus de Stamina ou celui de Power sont meilleurs et bien plus utiles. <br>
+Je pense que l’on peut dire que c’est moyen, surtout avec la puissance des cartes Wit que l’on possède, qui sont surpuissantes. Elle est restreinte à jouer des decks avec des cartes Stamina / Power.
+
+- Ses gold skills sont :
+    - **Elated**, la gold version d’_Eager_. C’est un gold de vélocité pour le Medium, qui s’active en Mid-Race si elle est dans le bottom 50%. C’est un gold skill qui est basique mais bon.
+
+    - **Moonlit Flash**, la gold version d’_End Closer Straightaway_. C’est un gold de vélocité pour End Closer, s’activant dans une ligne droite random. C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur _End Closer Straightaway_.
+
+- Elle possède un Secret Event qui lui donne le malus incurable, _**99 Problèmes**_. Ce skill lui réduit son Guts et Wit de 40 points. Les Secrets Event ne sont pas activés sur Trackblazer donc vous ne pourrez pas le recevoir pour l’instant.
+
+- Son unique est un hybride de vélocité et de Lane Movement Speed de Last Straight. L’unique s’active si dans le Final Corner, elle a été sur la lane la plus proche de la barrière tout en étant entre le top 75% et le bottom 60% (≥4ème <-> ≤7ème en CM).<br> 
+C’est un unique dur à activer et dépendant de comment votre course se passe. Au contraire d’Agnes Digital, le boost de vélocité dans un déplacement latéral lui est impossible car elle sera déjà spread dans sa voie et n’aura pas forcément un mouvement de changement de voie pendant le Last Straight.<br>
+C’est un unique de vélocité basique qui est difficile à activer.
+
+#### Pull ou pas ? :
+
+Seulement si elle est votre Oshi, sinon non.
+ 
+Air Shakur est une mauvaise uma, elle a plus de défaut que de qualité dans son kit. Seuls ses gold skills sont sympas, et encore c’est sans plus. Elle ne possède pas Straightaway Spurt fait qu’elle est plus dure à faire en Ace que d’autres End Closers qui sont plus forts qu’elle.
+ 
+Ne pullez pas sur cette bannière.
+
+### Bannière Support à suivre : Air Groove Power SSR & Gold City Wit SR
+
+⏩**Air Groove** :power: :SSR:
+
+- La carte est plutôt frontloaded. A 1LB, elle débloque Stamina Bonus puis le combo de Race et Fans Bonus à 3LB.
+
+- Son Unique Effect lui donne Power Bonus et Skill Point Bonus quand son bond est de 80 (orange)
+
+- Ses rainbows sont plutôt bons avec son bon Special Priority et son combo de stat bonus malgré un Friendship Bonus faible à 1LB. Son cross-training est faible avec juste du Mood Effect et ses stats bonus (Skill Point Bonus est compris dedans).
+
+- Elle propose une liste de 6 hints❗, dont seul Fearless et Late Surger Straightaways sont intéressants.
+
+- Son gold skill est **Lie in Wait**, la gold version de _Be Still_. C’est un gold de recovery de Late Surger, qui s’active aléatoirement en seconde moitié d’Early-Race si elle est dans le bottom 50%. C’est un recovery correct, surtout pour le Long où il y virtuellement pas de gâchis d’HPs récupéré.
+
+
+⏩**Gold City** :wit: :sr:
+
+- La carte est backloaded. A 1LB, elle débloque Initial Speed puis Wit Bonus à MLB.
+
+- Son Unique Effect lui donne Speed Bonus et Initial Wit.
+
+- Ses rainbows sont corrects avec son bon Friendship Bonus, son Special Priority correct et son combo de stat bonus. En dehors du Speed Bonus, son cross-training est inexistant.
+
+- Elle propose une liste de 5 hints❗, dont seul Tail Held High est bon.
+
+- Son dernier Chain Event nous donne au choix _Straightaway Recovery_ ou _Snowy Days_.
+ 
+#### PULL OU PAS
+
+**Non.**
+ 
+Air Groove Power SSR peut être une carte intéressante à borrow en Long pour les Late Surger qui ne possèdent pas de gold de recovery dans leur kit. Sinon, elle reste moins forte que les autres top tier cartes Power. Gold City Wit SR n’est même pas au niveau de sa compétition dans les cartes SR, qui est à la ramasse comparé aux cartes SSR. C’est une mauvaise carte.
  
 Ne pullez pas sur cette bannière.
 
