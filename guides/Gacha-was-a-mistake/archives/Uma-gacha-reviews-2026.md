@@ -1020,3 +1020,37 @@ Mejiro Dober (Camping), tout comme pour Taiki Shuttle, est l’équivalent ou un
 Ce n’est pas une bannière à pull si aucune d’entre elles est l’une de vos Oshi. Je mettrais juste Taiki Shuttle (Camping) un peu en avant juste pour le fait qu’elle puisse courir en Dirt et quel reste une puissante uma.
 
 :::
+
+## #50 - Air Shakur ★★★
+
+![Image de présentation de la bannière Air Shakur](/public/assets/Gacha-reviews/2026/050_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Air Shakur** :
+
+_Air Shakur est une End Closer pour le Medium (1 Gold) et le Long. Elle peut aussi courir parfaitement en tant que Late Surger. Avec un peu d’inspiration, elle peut courir en tant que Pace Chaser (4 :star:). Elle possède un gold de vélocité pour le Medium et un gold de vélocité pour End Closer. Son unique est un hybride de vélocité et de Lane Movement Speed (le même type qu’Agnes Digital) de Last Straight._
+ 
+- Air Shakur possède un UNIQUE bonus de croissance : 30% en :wit:. C’est notre troisième uma avec un seul bonus de croissance, mais ce bonus de croissance n’est pas aussi bon que les 2 autres. Le bonus de Stamina ou celui de Power sont meilleurs et bien plus utiles. <br>
+Je pense que l’on peut dire que c’est moyen, surtout avec la puissance des cartes Wit que l’on possède, qui sont surpuissantes. Elle est restreinte à jouer des decks avec des cartes Stamina / Power.
+
+- Ses gold skills sont :
+    - **Elated**, la gold version d’_Eager_. C’est un gold de vélocité pour le Medium, qui s’active en Mid-Race si elle est dans le bottom 50%. C’est un gold skill qui est basique mais bon.
+
+    - **Moonlit Flash**, la gold version d’_End Closer Straightaway_. C’est un gold de vélocité pour End Closer, s’activant dans une ligne droite random. C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur _End Closer Straightaway_.
+
+- Elle possède un Secret Event qui lui donne le malus incurable, _**99 Problèmes**_. Ce skill lui réduit son Guts et Wit de 40 points. Les Secrets Event ne sont pas activés sur Trackblazer donc vous ne pourrez pas le recevoir pour l’instant.
+
+- Son unique est un hybride de vélocité et de Lane Movement Speed de Last Straight. L’unique s’active si dans le Final Corner, elle a été sur la lane la plus proche de la barrière tout en étant entre le top 75% et le bottom 60% (≥4ème <-> ≤7ème en CM).<br> 
+C’est un unique dur à activer et dépendant de comment votre course se passe. Au contraire d’Agnes Digital, le boost de vélocité dans un déplacement latéral lui est impossible car elle sera déjà spread dans sa voie et n’aura pas forcément un mouvement de changement de voie pendant le Last Straight.<br>
+C’est un unique de vélocité basique qui est difficile à activer.
+
+#### Pull ou pas ? :
+
+Seulement si elle est votre Oshi, sinon non.
+ 
+Air Shakur est une mauvaise uma, elle a plus de défaut que de qualité dans son kit. Seuls ses gold skills sont sympas, et encore c’est sans plus. Elle ne possède pas Straightaway Spurt fait qu’elle est plus dure à faire en Ace que d’autres End Closers qui sont plus forts qu’elle.
+ 
+Ne pullez pas sur cette bannière.
+
+:::

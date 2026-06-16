@@ -967,3 +967,44 @@ Vivement Agnes Tachyon Speed SSR pour avoir un autre skill gold de vélocité po
 Ne pullez pas sur cette bannière.
 
 :::
+
+## #50 - Air Groove Power SSR & Gold City Wit SR
+
+![Image de présentation de la bannière Air Groove Power SSR & Gold City Wit SR](/public/assets/Gacha-reviews/2026/050_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Air Groove** :power: :SSR:
+
+- La carte est plutôt frontloaded. A 1LB, elle débloque Stamina Bonus puis le combo de Race et Fans Bonus à 3LB.
+
+- Son Unique Effect lui donne Power Bonus et Skill Point Bonus quand son bond est de 80 (orange)
+
+- Ses rainbows sont plutôt bons avec son bon Special Priority et son combo de stat bonus malgré un Friendship Bonus faible à 1LB. Son cross-training est faible avec juste du Mood Effect et ses stats bonus (Skill Point Bonus est compris dedans).
+
+- Elle propose une liste de 6 hints❗, dont seul Fearless et Late Surger Straightaways sont intéressants.
+
+- Son gold skill est **Lie in Wait**, la gold version de _Be Still_. C’est un gold de recovery de Late Surger, qui s’active aléatoirement en seconde moitié d’Early-Race si elle est dans le bottom 50%. C’est un recovery correct, surtout pour le Long où il y virtuellement pas de gâchis d’HPs récupéré.
+
+
+⏩**Gold City** :wit: :sr:
+
+- La carte est backloaded. A 1LB, elle débloque Initial Speed puis Wit Bonus à MLB.
+
+- Son Unique Effect lui donne Speed Bonus et Initial Wit.
+
+- Ses rainbows sont corrects avec son bon Friendship Bonus, son Special Priority correct et son combo de stat bonus. En dehors du Speed Bonus, son cross-training est inexistant.
+
+- Elle propose une liste de 5 hints❗, dont seul Tail Held High est bon.
+
+- Son dernier Chain Event nous donne au choix _Straightaway Recovery_ ou _Snowy Days_.
+ 
+#### PULL OU PAS
+
+**Non.**
+ 
+Air Groove Power SSR peut être une carte intéressante à borrow en Long pour les Late Surger qui ne possèdent pas de gold de recovery dans leur kit. Sinon, elle reste moins forte que les autres top tier cartes Power. Gold City Wit SR n’est même pas au niveau de sa compétition dans les cartes SR, qui est à la ramasse comparé aux cartes SSR. C’est une mauvaise carte.
+ 
+Ne pullez pas sur cette bannière.
+
+:::
