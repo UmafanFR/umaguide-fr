@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/050_Banners_early_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/050_Banners_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
