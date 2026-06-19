@@ -154,11 +154,11 @@ Ne pullez pas sur cette bannière.
 
 ⏩ **Seiun Sky** :
 
-[Vous pouvez retrouvez sa review ici](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md#_11-seiun-sky-★★★)
+[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md#_11-seiun-sky-★★★)
 
 ⏩ **Narita Brian** :
 
-[Vous pouvez retrouvez sa review ici](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md#_09-narita-brian-★★★)
+[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md#_09-narita-brian-★★★)
 
 #### Pull ou pas ? :
 
@@ -179,7 +179,7 @@ Les 2 sont aussi de bonnes Aces, surtout Seiun Sky. En tant qu’Ace, Narita Bri
 
 - Son Unique Effect est 2 Skill Point Bonus.
 
-- Ses 4 rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness.
+- Ses rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness. Le cross-training reste son rôle principale, bien qu'elle puisse faire des rainbows.
 
 - Ses Events Recovery et Event Effectiveness sont aussi puissants que la carte Groupe gratuite Team Siruis. Cependant, ses dates donnent beaucoup plus de stats et répartit mieux le gain d’énergie. Ses évènements donnent principalement de la Speed et du Wit.
 
