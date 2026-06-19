@@ -179,7 +179,7 @@ Les 2 sont aussi de bonnes Aces, surtout Seiun Sky. En tant qu’Ace, Narita Bri
 
 - Son Unique Effect est 2 Skill Point Bonus.
 
-- Ses rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness. Le cross-training reste son rôle principale, bien qu'elle puisse faire des rainbows.
+- Ses rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness. Le cross-training reste son rôle principale, bien qu'elle puisse faire des rainbows. En tant que carte Group, vous ne pouvez pas contrôler dans quel training ses rainbow vont apparaitre ni contrôler quand vous en aurez.
 
 - Ses Events Recovery et Event Effectiveness sont aussi puissants que la carte Groupe gratuite Team Siruis. Cependant, ses dates donnent beaucoup plus de stats et répartit mieux le gain d’énergie. Ses évènements donnent principalement de la Speed et du Wit.
 
