@@ -1,5 +1,5 @@
 ---
-title: Gacha - Taiki Shuttle (Camping) & Mejiro Dober (Camping) ★★★ // Matikanetannhauser Wit SSR & El Condor Pasa Guts SSR
+title: Gacha - Air Shakur ★★★ // Air Groove Power SSR & Gold City Wit SR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/049_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/050_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -75,104 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Taiki Shuttle (Camping) & Mejiro Dober (Camping) ★★★
+### Bannière Umamusume : Air Shakur ★★★
 
-![Image de présentation de la bannière Taiki Shuttle (Camping) & Mejiro Dober (Camping)](/public/assets/Gacha-reviews/2026/049_Uma-Banner.png)
-
-⏩ **Taiki Shuttle (Camping)** :
-
-_Taiki Shuttle (Camping) est une Pace Chaser pour le Sprint et le Mile (1 gold). Avec un peu d’inspiration, elle peut courir sur le Dirt et en tant que Front Runner (respectivement 1 :star: et 4 :star:). Elle possède un gold de vélocité pour le Mile et un gold d’accélération de Pace Chaser. Son unique est un boost de vélocité pour les 200 derniers mètres, avec une variation qui lui donne un boost de Current Speed en plus._
- 
-- Taiki Shuttle (Camping) possède 1 SEUL bonus de croissance : 30% en :power:. C’est notre seconde Uma qui possède un unique bonus de croissance. C’est plutôt correct, cela lui permet de jouer les decks Guts ou des decks 2 Speed et 4 Wit.
-
-- Ses gold skills sont :
-
-    - **Mile Haven**, la gold version de _Productive Plan_. C’est un gold de vélocité pour le Mile, s’activant en Early-Race, après 5 secondes de course si l’uma est dans le top 50%. C’est un assez bon skill.
-    >Le skill recevra un buff dans le futur pour le rendre plus simple d’utilisation et une zone d’activation plus précise.
-
-    - **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération de Pace Chaser, s’activant aléatoirement en Late-Race si elle est dans le top 50%. C’est un skill moyen, surtout dû au fait que le skill perd en valeur à mesure que la longueur des courses s'allonge. Les Pace Chaser possèdent peu de skills d’accélération (très peu de bon skill d’accélération pour être plus précis), cela fait qu'il est pour l’instant sympa.
-    >Le skill recevra un buff dans le futur pour le rendre plus fiable.
-
-- Son unique est un boost de vélocité pour les 200 derniers mètres si Taiki Shuttle (Camping) est entre le top 2 et le top 40%. Si elle est à moins de 5 mètres d’écart (2L) de l’uma en première place, l’unique lui donne aussi un boost de Current Speed.<br>
-Le fait que l’unique est 2 variations n’est pas réellement important vu qu’il s’active pour les 200 derniers mètres. S’il y a une distance plus grande que 2L entre elle et la première place, elle aura déjà très peu de chances de gagner. Donc seule la variation avec le boost de Current Speed est importante.<br>
-Avec le boost de Current Speed, c’est un meilleur unique que _**Triumphant Pulse**_ pour comparaison. C’est un bon unique de fin de course.
-
-⏩ **Mejiro Dober (Camping)** :
-
-_Mejiro Dober (Camping) est une Late Surger pour le Mile et le Medium (1 gold). Avec un peu d’inspiration, elle peut courir en tant que Front Runner et en tant que Pace Chaser (respectivement 4 :star: et 1 :star:). Elle possède un gold de vélocité de Late Surger et un gold d’accélération pour le Medium. Son unique est un boost de vélocité de Mid-Race très spécifique (mais il s’active plutôt bien)._
- 
-- Mejiro Dober (Camping) possède 2 bonus de croissances : 20% en :speed: et 10% en :wit:, l’inverse de son OG. C’est toujours un bon combo de bonus bien que je préfère celui de la OG. Elle va utiliser les decks basiques Power.
-
-- Ses gold skills sont :
-
-    - **Dauntless**, la gold version de _Fearless_. C’est un gold hybride de vélocité et d’une faible accélération de Late Surger. Il s’active à un point random de la 2ème moitié de course si l’uma est entre le bottom 70% et le top 80% (≥ 3 en CM // ≤ 7 en CM). Si le skill s’active juste avant le Late-Race, il sera très fort avec une possibilité de carry-over. S’il s’active ailleurs, il reste bon.
-    >Le skill recevra un buff dans le futur pour le rendre plus simple à activé et qu’il soit plus puissant.
-
-    - **From the Brink**, la gold version de _Take the Chance_. C’est un gold d’accélération pour le Medium qui s’active dans la première partie du Late-Race si elle est dans le bottom 60% ( 4e en CM).
-    >Le skill recevra un buff dans le futur. Le buff le rend plus puissant, plus facile à activer et plus fiable.
-
-- Son unique est un boost de vélocité de Mid-Race. Il s’active dans une pente qui doit se trouver après 60% de la course, tout en ayant besoin qu’il reste au moins 500m de course. Il faut aussi que Mejiro Dober (Camping) soit entre le top 80% et le bottom 60% (≥4 <-> ≤8 en CM) pour s’activer.<br>
-Bien qu’il y ait pas mal de conditions, l’unique s’active plutôt bien. Il est surtout dépendant de l’hippodrome.  L’unique s’active sur le tracé extérieur pour les hippodromes Nakayama et Niigate (seulement en Medium pour ce dernier), 2300m et plus pour l’hippodorme de Tokyo, et s’active bien sur les hippodromes Kyoto, Hanshin et Chukyo (ce dernier a une très longue pente qui lui permet de l’activer).<br>
-L’unique reste basique mais il peut potentiellement créer du carry-over sur les hippodromes de Kyoto et Hanshin.
-
-#### Pull ou pas ? :
-
-Si l’une d’entre elles est votre Oshi, oui.
- 
-Taiki Shuttle (Camping) est je dirais équivalent ou un peu meilleur que sa version OG. Son unique est plus fiable et je préfère son unique bonus de croissance que ceux de la OG pour mieux jouer deck Guts ou Speed + Wit. Le point important est qu’elle n’aura pas une course où son unique sera mauvais comparer à sa version OG. Le fait qu’elle puisse courir aussi en Dirt est toujours un bon point
- 
-Mejiro Dober (Camping), tout comme pour Taiki Shuttle, est l’équivalent ou un peu meilleur que sa version OG. L’Alt possède de meilleurs skills gold, mais l’unique de la OG est bien plus dominant pour gagner. Les 2 sont assez dépendant de l’hippodrome pour savoir si elles vont être fortes ou pas.
- 
-Ce n’est pas une bannière à pull si aucune d’entre elles est l’une de vos Oshi. Je mettrais juste Taiki Shuttle (Camping) un peu en avant juste pour le fait qu’elle puisse courir en Dirt et quel reste une puissante uma.
-
----
-
-### Bannière support : Matikanetannhauser Wit SSR & El Condor Pasa Guts SSR
-
-![Image de présentation de la bannière Matikanetannhauser Wit SSR & El Condor Pasa Guts SSR](/public/assets/Gacha-reviews/2026/049_Card-Banner.png)
-
-⏩**Matikanetannhauser** :wit: :SSR:
-
-- La carte est frontloaded. A 1LB, elle débloque Wit Bonus puis Initial Wit à 3LB.
-
-- Son Unique Effect lui donne 5 de Wit Friendship Recovery. C'est la première fois que l'on voit cet effet avoir de l'importance, il faut donc l'expliquer.Les cartes Wit ont naturellement une récuparation de 5 énergie sur les entrainements Wit. Aussi, les cartes Wit possèdent toutes cet effet (il y a en réalité 3 exceptions : Ikuno Dictus R et SR & Win Variation R, dont cette dernière n'est pas encore sortie) dans leur kit de base. Cela fait qu'en étant MLB, leur Rainbows nous redonnent entre 8 à 10 énergies. C'est un point important sur la puissance des cartes Wit et de leur utilité.<br>
-Matikanetannhauser Wit SSR, avec cet Unique Effect redonnent 15 d'énergie à chaque fois qu'elle fait un rainbow. Bien que cela semble excellent pour la gestion d'énergie, elle n'est que très peu utile pour Trackblazer avec le peu d'entrainement que l'on fait. Même pour les scénarios futures, on préfère prendre des cartes plus puissantes ou avec des skills utiles. Dans Grand Live, les decks seront généralement à base de 2 :speed: 3 :wit: et Light Halo :friends: et/ou 3 :speed: 2 :wit: et Light Halo (une carte stam peut rentrer en fonction de la stamina nécessaire à la place d'une carte Wit), on aura généralement aucun problème d'énergie.<br>
-Bien que cela soit un effet important pour la puissance des cartes wit, en tant qu'Unique Effect, il n'est pas bon..
-
-- Ses rainbows sont assez bons, malgré un faible Special Priority, grâce à son bon Friendship Bonus et son combo de Speed et Wit Bonus. Son cross-training est inexistant, juste un faible Race Bonus.
-
-- Elle propose une liste de 6 hints❗ dont les seuls bons, Nimble Navigator et Homestretch Haste, sont très communs.
-
-- Son gold skill est **It’s On !**, la gold version _Ramp Up_. C’est un gold de vélocité universel qui s’active en Mid-Race si vous doublez une uma. Le skill peut aussi se réactiver sur les courses Long. C’est un bon skill et très bon en Long.
-
-⏩**El Condor Pasa** :guts: :ssr:
-
-- La carte est équilibré. A 1LB, elle débloque Guts Bonus puis le combo de Race et Fans Bonus à 3LB. Afin de bien l'utiliser pour Trackblazer, il faudrait au moins la 3LB, mais pour les prochains scénarios, son Unique Effect est disponible dès 0LB. 3LB reste la zone de confort, car bien que le Race Bonus ne soit plus aussi important, cela reste du confort.
-
-- Son Unique Effect lui donne du Training Effectiveness en fonction du nombre de cartes dans un training. Cela va de 5 à 25 au max (elle ne se compte pas dedans), mais repose beaucoup sur la RNG.
-
-- Ses rainbows sont faibles dû à ses faibles Friendship Bonus et Special Priority. Son cross-training est correct avec son Unique Effect et son bon Race Bonus.
-
-- Elle propose une liste de 7 hints❗, principalement pour Pace Chaser. Elle possède le combo de Hint Level et Hint Frequency, ses hints seront puissants et assez fréquents.
-
-- Son gold skill est **Speed Star**, la gold version de _Prepared to Pass_. C’est un gold de vélocité pour Pace Chaser qui s’active aléatoirement en Final Corner si elle est dans le top 50%. C’est un skill correct pour le Medium ou le Long. Il n’est pas très bon en Mile vu que dans une grande partie des courses Mile, le Late-Race commence en Final Corner gâchant le speed boost. Cela veut aussi dire qu'il y a des courses où le skill peut créer du carry-over (plus ou moins facilement). Cela fait que c'est un skill quitte ou double en Mile.
- 
-#### PULL OU PAS
-
-**Non**.
- 
-Les 2 cartes sont mauvaises, surtout la Matikanetannhauser Wit SSR. Bien que El Condor Pasa Guts SSR puisse avoir un bon Training Effectiveness, elle reste plus faible que les 2-3 cartes un peu intéressantes à borrow pour Guts.
-Vivement Agnes Tachyon Speed SSR pour avoir un autre skill gold de vélocité pour Pace Chaser que Speed Star.
- 
-Ne pullez pas sur cette bannière.
-
----
-
-# Bannières à suivre (18 Juin 23h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/050_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Air Shakur ★★★
+![Image de présentation de la bannière Air Shakur](/public/assets/Gacha-reviews/2026/050_Uma-Banner.png)
 
 ⏩ **Air Shakur** :
 
@@ -200,7 +105,11 @@ Air Shakur est une mauvaise uma, elle a plus de défaut que de qualité dans son
  
 Ne pullez pas sur cette bannière.
 
-### Bannière Support à suivre : Air Groove Power SSR & Gold City Wit SR
+---
+
+### Bannière support : Air Groove Power SSR & Gold City Wit SR
+
+![Image de présentation de la bannière Air Groove Power SSR & Gold City Wit SR](/public/assets/Gacha-reviews/2026/050_Card-Banner.png)
 
 ⏩**Air Groove** :power: :SSR:
 
@@ -234,6 +143,71 @@ Ne pullez pas sur cette bannière.
 Air Groove Power SSR peut être une carte intéressante à borrow en Long pour les Late Surger qui ne possèdent pas de gold de recovery dans leur kit. Sinon, elle reste moins forte que les autres top tier cartes Power. Gold City Wit SR n’est même pas au niveau de sa compétition dans les cartes SR, qui est à la ramasse comparé aux cartes SSR. C’est une mauvaise carte.
  
 Ne pullez pas sur cette bannière.
+
+---
+
+# Bannières à suivre (26 Juin 00h)  
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/051_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Seiun Sky & Narita Brian (rerun) ★★★
+
+⏩ **Seiun Sky** :
+
+[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md#_11-seiun-sky-★★★)
+
+⏩ **Narita Brian** :
+
+[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md#_09-narita-brian-★★★)
+
+#### Pull ou pas ? :
+
+C’est une bonne bannière s’il vous manque des parents / grands- parents utiles. 
+
+Seiun Sky est le parent majeur pour les Front Runners en Mile et en Medium. Vu qu’elle est le parent majeur, vous en aurez toujours besoin. 
+Si vous avez les autres parents / grands- parents qui la complètent, vous pouvez continuer à utiliser la Seiun Sky d’un ami. Cependant, dès qu’un parent secondaire important pour les Front Runners sort, vous en aurez besoin si vous ne prenez pas Seiun Sky.
+
+Narita Brian est un grand-parent pour les 3 autres stratégies. Elle a une importance moindre à Seiun Sky, mais son unique reste intéressant si vous avez de la chance pendant les 2 évènements d’inspirations. Elle possède une compétition assez relevée en tant que grand-parent.
+
+Les 2 sont aussi de bonnes Aces, surtout Seiun Sky. En tant qu’Ace, Narita Brian sera remplacé par son Alt dans la distance Long, qui est surpuissant.
+
+### Bannière Support à suivre : The Throne's Assemblage Group SSR & El Condor Pasa Speed SR
+
+⏩**The THrone's Assemblage Group** :group: :SSR:
+
+- La carte est relativement backloaded. A 1LB, elle débloque Speed Bonus puis le combo de Race et Fans Bonus à 3LB.
+
+- Son Unique Effect est 2 Skill Point Bonus.
+
+- Ses rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness. Le cross-training reste son rôle principale, bien qu'elle puisse faire des rainbows. En tant que carte Group, vous ne pouvez pas contrôler dans quel training ses rainbow vont apparaitre ni contrôler quand vous en aurez.
+
+- Ses Events Recovery et Event Effectiveness sont aussi puissants que la carte Groupe gratuite Team Siruis. Cependant, ses dates donnent beaucoup plus de stats et répartit mieux le gain d’énergie. Ses évènements donnent principalement de la Speed et du Wit.
+
+- Son gold skill est **Refraction Arc**, la gold version de _Medium Corners_. C’est un gold de vélocité pour le Medium qui s’active dans un corner aléatoire. C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur Medium Corners.
+
+⏩**El Condor Pasa** :speed: :sr:
+
+- La carte est backloaded. A 1LB, elle débloque Training Effectiveness puis Power Bonus à MLB.
+
+- Son Unique Effect lui donne Speed Bonus et 20 de Special Priority. Cela fait que son Special Priority est en réalité un peu plus élevé.
+
+- Ses rainbows sont bons avec son combo de Speed et Power Bonus, son Special Priority de 80, malgré un Friendship Bonus faible. Son cross-training est assez bon avec son Training Effectiveness, son Mood Effect et son bon Race Bonus.
+
+- Elle propose une liste de 5 hints❗, spécialisé pour les Pace Chasers.
+
+- Son dernier Chain Events donne _Pace Chasers Corners_.
+
+- Ses évènements sont énergivores.
+ 
+#### PULL OU PAS
+
+**NON !** Cette bannière est le plus gros bait du jeu.
+ 
+The Throne’s Assemblage Group SSR est une excellente carte pendant Trackblazer pour son énergie, la quantité de skill points et la quantité de stats qu’elle donne. Mais elle ne sera pas utilisée dans les futurs scénarios. C’est une carte qui a une durée de vie de 1 mois / 1CM, pour une meilleure visualisation. Si vous voulez l’utiliser, empruntez là.
+
+El Condor Pasa Speed SR est une bonne carte pour une SR, mais elle n’est pas une carte que vous devez essayer de pull.
+ 
+Ne pullez pas sur cette bannière, vous allez le regretter.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
