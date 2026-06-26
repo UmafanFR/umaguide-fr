@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/051_Banners_early_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/051_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -104,15 +104,15 @@ Les 2 sont aussi de bonnes Aces, surtout Seiun Sky. En tant qu’Ace, Narita Bri
 
 ![Image de présentation de la bannière The Throne's Assemblage Group SSR & El Condor Pasa Speed SR](/public/assets/Gacha-reviews/2026/051_Card-Banner.png)
 
-⏩**The THrone's Assemblage Group** :group: :SSR:
+⏩**The Throne's Assemblage Group** :group: :SSR:
 
-- La carte est relativement backloaded. A 1LB, elle débloque Speed Bonus puis le combo de Race et Fans Bonus à 3LB.
+- La carte est relativement backloaded. A 1LB, elle débloque Speed Bonus puis le combo de Race et Fan Bonus à 3LB.
 
 - Son Unique Effect est 2 Skill Point Bonus.
 
-- Ses rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness. Le cross-training reste son rôle principale, bien qu'elle puisse faire des rainbows. En tant que carte Group, vous ne pouvez pas contrôler dans quel training ses rainbow vont apparaitre ni contrôler quand vous en aurez.
+- Ses rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness. Le cross-training reste son rôle principale, bien qu'elle puisse faire des rainbows. En tant que carte group, vous ne pouvez pas contrôler dans quel training ses rainbow vont apparaitre ni contrôler quand vous en aurez.
 
-- Ses Events Recovery et Event Effectiveness sont aussi puissants que la carte Groupe gratuite Team Siruis. Cependant, ses dates donnent beaucoup plus de stats et répartit mieux le gain d’énergie. Ses évènements donnent principalement de la Speed et du Wit.
+- Ses Events Recovery et Event Effectiveness sont aussi puissants que la carte group gratuite Team Sirius. Cependant, ses dates donnent beaucoup plus de stats et répartit mieux le gain d’énergie. Ses évènements donnent principalement de la Speed et du Wit.
 
 - Son gold skill est **Refraction Arc**, la gold version de _Medium Corners_. C’est un gold de vélocité pour le Medium qui s’active dans un corner aléatoire. C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur Medium Corners.
 
