@@ -562,7 +562,7 @@ Si vous n’avez pas l’une des fortes SSR Wit, pullez dessus jusqu’à vous l
 
 ::: info Explications
 
-J’ai un deck 2 Speed / 2 Stamina / 2 Wit, je reçois +20 au début de la run dans ces 3 stats. Les cartes Pal ou Groupe donnent +2 dans chaque stats.
+J’ai un deck 2 Speed / 2 Stamina / 2 Wit, je reçois +20 au début de la run dans ces 3 stats. Les cartes Pal ou group donnent +2 dans chaque stats.
 
 :::
 
@@ -1015,15 +1015,15 @@ Ne pullez pas sur cette bannière.
 
 ::: details REVIEW
 
-⏩**The THrone's Assemblage Group** :group: :SSR:
+⏩**The Throne's Assemblage Group** :group: :SSR:
 
-- La carte est relativement backloaded. A 1LB, elle débloque Speed Bonus puis le combo de Race et Fans Bonus à 3LB.
+- La carte est relativement backloaded. A 1LB, elle débloque Speed Bonus puis le combo de Race et Fan Bonus à 3LB.
 
 - Son Unique Effect est 2 Skill Point Bonus.
 
-- Ses rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness. Le cross-training reste son rôle principale, bien qu'elle puisse faire des rainbows. En tant que carte Group, vous ne pouvez pas contrôler dans quel training ses rainbow vont apparaitre ni contrôler quand vous en aurez.
+- Ses rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness. Le cross-training reste son rôle principale, bien qu'elle puisse faire des rainbows. En tant que carte group, vous ne pouvez pas contrôler dans quel training ses rainbow vont apparaitre ni contrôler quand vous en aurez.
 
-- Ses Events Recovery et Event Effectiveness sont aussi puissants que la carte Groupe gratuite Team Siruis. Cependant, ses dates donnent beaucoup plus de stats et répartit mieux le gain d’énergie. Ses évènements donnent principalement de la Speed et du Wit.
+- Ses Events Recovery et Event Effectiveness sont aussi puissants que la carte group gratuite Team Sirius. Cependant, ses dates donnent beaucoup plus de stats et répartit mieux le gain d’énergie. Ses évènements donnent principalement de la Speed et du Wit.
 
 - Son gold skill est **Refraction Arc**, la gold version de _Medium Corners_. C’est un gold de vélocité pour le Medium qui s’active dans un corner aléatoire. C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur Medium Corners.
 
