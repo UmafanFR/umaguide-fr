@@ -142,9 +142,9 @@ Ne pullez pas sur cette bannière, vous allez le regretter.
 
 ---
 
-# Bannières à suivre (05 Juillet 00h, c'est pour l'instant une estimation)  
+# Bannières à suivre (03 Juillet 00h)  
 
-<!-- ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/051_Banners_early_preview.jpg) -->
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/052_Banners_early_preview.jpg)
 
 ### Bannière Umamusume à suivre : Mejiro McQueen (Summer) & Gold Ship (Summer) ★★★
 
@@ -152,17 +152,18 @@ Ne pullez pas sur cette bannière, vous allez le regretter.
 
 _Mejiro McQueen (Summer) est une Pace Chaser pour le Long. Elle peut aussi courir parfaitement en Medium. Avec de l’inspiration, elle peut courir en tant que Front Runner et Late Surger (pour respectivement 1 :star: et 7 :star:). Elle possède un gold de vélocité pour le Long et un gold de recovery de Pace Chaser pour le Long. Son unique est un speed boost assez faible mais sa durée est liée à la quantité d’HP qu’elle possède. L’unique à une durée de base entre 5s et 20s, ce qui est impressionnant._
  
-- Mejiro McQueen (Summer) possède 3 bonus de croissances : 8% en :speed:, 8% en :stamia: et 14% en :wit:. C’est un excellent combo de bonus pour une uma spécialisé en Long. Cela lui permet de soit jouer des decks Power et des parents Stamina ou inversement.
+- Mejiro McQueen (Summer) possède 3 bonus de croissances : 8% en :speed:, 8% en :stamina: et 14% en :wit:. C’est un excellent combo de bonus pour une uma spécialisé en Long. Cela lui permet de soit jouer des decks Power et des parents Stamina ou inversement.
 
 - Ses gold skills sont :
 
-    - **Headliner**, la gold version de _Feature Act_. C’est un gold de vélocité pour le Long, s’activant aléatoirement dans la 2ème moitié du Mid-Race, si elle est dans le top 50%.
+    - **Headliner**, la gold version de _Feature Act_. C’est un gold de vélocité pour le Long, s’activant aléatoirement dans la 2ème moitié du Mid-Race, si elle est dans le top 50%. C'est un skill equi est intéressant, avec une solide chance de carry-over.
 
-    - **Single-Minded**, la gold version de _Faultless_. C’est un super gold de recovery de Pace Chaser pour le Long. Le skill s’active dans la première partie du Mid-Race si Mejiro McQueen (Summer) n’a pas fait un Late Start. C’est un gold de recovery puissant que vous pouvez rendre complètement fiables si vous lui donnez le gold skill **Concentration**. <br>
-    Si elle ne possède pas **Concentration**, le skill perd en fiabilité, surtout pour un skill aussi important que le skill de recovery principale pour le Long. C’est un skill puissant mais un peu aléatoire.
+    - **Single-Minded**, la gold version de _Faultless_. C’est un super gold de recovery (une recovery de 7,5% d'HP) de Pace Chaser pour le Long. Le skill s’active dans la première partie du Mid-Race si Mejiro McQueen (Summer) n’a pas fait un Late Start. C’est un gold de recovery puissant que vous pouvez rendre complètement fiable si vous lui donnez le gold skill **Concentration**. <br>
+    Si elle ne possède pas **Concentration**, le skill perd un peu en fiabilité, surtout pour un skill aussi important que le skill de recovery principale pour le Long. Un late start reste quand même bien plus rare qu'un départ normale, le skill reste généralement très puissant et désirable à prendre. 
 
 - Son unique est un speed boost assez faible mais sa durée est liée à la quantité d’HP qu’elle possède. L’unique à une durée de base entre 5s et 20s, ce qui est impressionnant. Il s’active en seconde moitié de course si elle est dans le top 40%. <br>
 C’est un unique identique à Mejiro Bright (sauf sur la position de l’activation). Cependant, cet unique est moins bon que celui de Mejiro Bright dû à la différence de stratégie entre les 2 umas. En tant qu’End Closer, l’unique de Mejiro Bright aura une meilleure valeur que celui de Mejiro McQueen en tant que Pace Chaser. Ceci est dû au différent coefficient de base Target Speed pour les différentes stratégies.
+Bien qu'il soit moins fort, cela ne veut pas dire qu'il est mauvais car il lui permet de faire des choses intéressantes pour une Pace Chaser. Son unique lui permet de rester proche des Fronts pour activer NSM, voir de les dépasser pour activer elle-même les uniques de Kitasan Black et Seiun Sky (Ballroom). Cela reste un unique sympa.
  
 ::: info Durée maximale
  
@@ -175,7 +176,7 @@ Sur une course de 3 200m, le skill peut avoir une durée de 64s au maximum, bien
 
 _Gold Ship (Summer) est une End Closer pour le Medium et le Long. Avec de l’inspiration, elle peut courir en tant que Pace Chaser et Late Surger mais aussi courir en Mile (pour respectivement 1 :star:,1 :star: et 4 :star:). Elle possède un gold de vélocité pour le Long et un gold de vélocité pour le Medium. Son unique est spécial. Aléatoirement en deuxième partie de course, l’unique lui donne un faible boost de vélocité et lui permet de lancer 2 gold skill qu’elle possède (plus d'explications dans la partie pour l’unique)._
  
-- Gold Ship (Summer) possède 2 bonus de croissances : 20% en :power: et 10% en :wit:. C’est un bon combo de bonus, utile sur toutes les distances. Ses decks possèdera généralement Super Creek dedans pour son gold skill Swinging Maestro et pour bien monter sa Stamina. Le reste des cartes seront généralement des cartes Speed et Wit.
+- Gold Ship (Summer) possède 2 bonus de croissances : 20% en :power: et 10% en :wit:. C’est un bon combo de bonus, utile sur toutes les distances. Ses decks utiliseront généralement Super Creek :stamina: dedans pour son gold skill Swinging Maestro et pour bien monter sa Stamina. Le reste des cartes seront généralement des cartes Speed et Wit.
 
 - Ses gold skills sont :
 
@@ -189,6 +190,7 @@ _Gold Ship (Summer) est une End Closer pour le Medium et le Long. Avec de l’in
 :::: warning Plus de détails sur les gold skills que l’unique peut activer
  
 La description du skill dans le jeu et sur Gametora n’est pas correcte, et possède une règle importante non mentionnée qui rend l’unique bien moins fort qu’il le semble. L’unique permet de lancer seulement des gold skills que Gold Ship (Summer) à raté avec un Wit Check ou qu’elle ne peut pas lancer dû aux conditions d’activation. L’unique ne peut pas activer des gold skills qui ont réussi à être lancer. Cela veut dire que l’unique vous force à prendre des skills que Gold Ship (Summer) ne peut pas lancer pour que l’unique est de l’utilité.
+Elle peut aussi activer les gold skills qu'elle peu activer plus tard dans la course.
  
 ::: tip En tant qu’unique à hérité
  
@@ -203,7 +205,7 @@ Ce n’est cependant pas un bon unique pour une Ace.
 
 A moins que l’une d’entre elles soit une de vos oshi, non.
  
-Mejiro McQueen (Summer) est au mieux aussi puissant que sa version OG, alors que la version OG est plus fiable. C’est une mauvaise alt.
+Mejiro McQueen (Summer) est une spécialiste pour les courses Long. Sur les autres distances, sa version OG reste plus forte qu'elle. Mais son kit est excellent pour le Long. Un super gold heal, un gold skill et unique qui créer du carry-over est lui permet de ne pas trop se faire dominer par les Fronts. Elle possède aussi Playtime's Over ! dans son kit de base, ce qui la rends meilleur que ça version OG dans sa spécialisation. C'est un bon alt spécialiste.
  
 Gold Ship (Summer), tout comme pour Mejiro McQueen est au mieux aussi puissant que sa version OG. Elle possède de l’utilité en tant que parent pour debuffeuse, mais c’est tout. C’est une niche très faible. C’est aussi une mauvaise alt.
  
@@ -234,11 +236,11 @@ Son Unique Effect n’est pas assez puissant pour combler son manque de Special 
 
 - Elle propose une liste de 12 hints❗, dont de très bons hints comme _Uma Stan_, _All I’ve Got_ et _Nimble Navigator_. Elle possède le combo Hint Levels et Hint Frequency à un très bon niveau. Ses hints seront très puissants et fréquents.
 
-- Son gold skill est **Nothing Ventured**, la gold version de _Risky Business_. C’est un gold de vélocité puissant qui s’active aléatoirement dans la seconde moitié de course. Le skill peut consommer les HP de l’uma qui l’utilise.
+- Son gold skill est **Nothing Ventured**, la gold version de _Risky Business_. C’est un gold de vélocité puissant qui s’active aléatoirement dans la seconde moitié de course. Le skill peut aléatoirement consommer une partie des HP de l’uma qui l’utilise.
  
 ::: info Consommation de Stamina de Nothing Ventured
  
-Le skill à 60% de chance de ne pas consommer d’HP, 30% de chance de consommer 2% d’HP et 10% de consommer 4% d’HP. Malgré le potentiel malus, le skill reste puissant.
+Le skill à 60% de chance de ne pas consommer d’HP, 30% de chance de consommer 2% d’HP et 10% de consommer 4% d’HP. Malgré le potentiel malus, le skill reste puissant. Pour rappel, un gold recovery restaure 5,5% d'HP
 
 :::
 
@@ -252,9 +254,11 @@ Nakayama Festa Wit SSR est une carte bizarre. Son Unique Effect est un peu plus 
 
 Si je ne devais prendre que mon avis, je dirais que la carte est moyenne, car bien que le reste de ses bonus, gold skill et hints sont bons, son Unique Effect ne comble pas son manque de Special Priority. Le fait qu'elle soit une carte gamble fait que je ne peux pas la conseiller comme une bonne carte. Mais si vous aimez le gamble, Nakayama Festa Wit SSR est une carte plus qu'intéressante.
  
-::: tip Alternative de pull pour Maruzensky Speed SSR
+::: tip Alternatives de pull pour Maruzensky Speed SSR
  
 Il est possible de skip cette bannière. La raison est que Maruzensky Speed SSR est bonne dès LB1 et qu’on approche de la bannière importante pour le prochain scénario. Il est donc possible de skip cette bannière et de prendre Maruzensky Speed SSR avec le ticket SSR que l’on recevra pour le 1,5 Anniversary et de lui compléter au moins un LB avec un de vos cristaux SSR. Si vous avez peu de carat, ou que vous ne mettez pas d’argent dans le jeu, c’est généralement la meilleure chose à faire.
+
+Une autre alternative est d'atteindre le rerun avec Fine Motion Wit SSR pour pull. Les 2 cartes sont très bonnes et resteront fortes (bien que Fine Motion Wit SSR sera powercreep à Grand Master)
 
 :::
 
