@@ -1,5 +1,5 @@
 ---
-title: Gacha - Air Shakur ★★★ // Air Groove Power SSR & Gold City Wit SR
+title: Gacha - Seiun Sky & Narita Brian (rerun) ★★★ // The Throne's Assemblage Group SSR & El Condor Pasa Speed SR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/050_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/051_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -75,82 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Air Shakur ★★★
+### Bannière Umamusume : Seiun Sky & Narita Brian (rerun) ★★★
 
-![Image de présentation de la bannière Air Shakur](/public/assets/Gacha-reviews/2026/050_Uma-Banner.png)
-
-⏩ **Air Shakur** :
-
-_Air Shakur est une End Closer pour le Medium (1 Gold) et le Long. Elle peut aussi courir parfaitement en tant que Late Surger. Avec un peu d’inspiration, elle peut courir en tant que Pace Chaser (4 :star:). Elle possède un gold de vélocité pour le Medium et un gold de vélocité pour End Closer. Son unique est un hybride de vélocité et de Lane Movement Speed (le même type qu’Agnes Digital) de Last Straight._
- 
-- Air Shakur possède un UNIQUE bonus de croissance : 30% en :wit:. C’est notre troisième uma avec un seul bonus de croissance, mais ce bonus de croissance n’est pas aussi bon que les 2 autres. Le bonus de Stamina ou celui de Power sont meilleurs et bien plus utiles. <br>
-Je pense que l’on peut dire que c’est moyen, surtout avec la puissance des cartes Wit que l’on possède, qui sont surpuissantes. Elle est restreinte à jouer des decks avec des cartes Stamina / Power.
-
-- Ses gold skills sont :
-    - **Elated**, la gold version d’_Eager_. C’est un gold de vélocité pour le Medium, qui s’active en Mid-Race si elle est dans le bottom 50%. C’est un gold skill qui est basique mais bon.
-
-    - **Moonlit Flash**, la gold version d’_End Closer Straightaway_. C’est un gold de vélocité pour End Closer, s’activant dans une ligne droite random. C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur _End Closer Straightaway_.
-
-- Elle possède un Secret Event qui lui donne le malus incurable, _**99 Problèmes**_. Ce skill lui réduit son Guts et Wit de 40 points. Les Secrets Event ne sont pas activés sur Trackblazer donc vous ne pourrez pas le recevoir pour l’instant.
-
-- Son unique est un hybride de vélocité et de Lane Movement Speed de Last Straight. L’unique s’active si dans le Final Corner, elle a été sur la lane la plus proche de la barrière tout en étant entre le top 75% et le bottom 60% (≥4ème <-> ≤7ème en CM).<br> 
-C’est un unique dur à activer et dépendant de comment votre course se passe. Au contraire d’Agnes Digital, le boost de vélocité dans un déplacement latéral lui est impossible car elle sera déjà spread dans sa voie et n’aura pas forcément un mouvement de changement de voie pendant le Last Straight.<br>
-C’est un unique de vélocité basique qui est difficile à activer.
-
-#### Pull ou pas ? :
-
-Seulement si elle est votre Oshi, sinon non.
- 
-Air Shakur est une mauvaise uma, elle a plus de défaut que de qualité dans son kit. Seuls ses gold skills sont sympas, et encore c’est sans plus. Elle ne possède pas Straightaway Spurt fait qu’elle est plus dure à faire en Ace que d’autres End Closers qui sont plus forts qu’elle.
- 
-Ne pullez pas sur cette bannière.
-
----
-
-### Bannière support : Air Groove Power SSR & Gold City Wit SR
-
-![Image de présentation de la bannière Air Groove Power SSR & Gold City Wit SR](/public/assets/Gacha-reviews/2026/050_Card-Banner.png)
-
-⏩**Air Groove** :power: :SSR:
-
-- La carte est plutôt frontloaded. A 1LB, elle débloque Stamina Bonus puis le combo de Race et Fans Bonus à 3LB.
-
-- Son Unique Effect lui donne Power Bonus et Skill Point Bonus quand son bond est de 80 (orange)
-
-- Ses rainbows sont plutôt bons avec son bon Special Priority et son combo de stat bonus malgré un Friendship Bonus faible à 1LB. Son cross-training est faible avec juste du Mood Effect et ses stats bonus (Skill Point Bonus est compris dedans).
-
-- Elle propose une liste de 6 hints❗, dont seul Fearless et Late Surger Straightaways sont intéressants.
-
-- Son gold skill est **Lie in Wait**, la gold version de _Be Still_. C’est un gold de recovery de Late Surger, qui s’active aléatoirement en seconde moitié d’Early-Race si elle est dans le bottom 50%. C’est un recovery correct, surtout pour le Long où il y virtuellement pas de gâchis d’HPs récupéré.
-
-
-⏩**Gold City** :wit: :sr:
-
-- La carte est backloaded. A 1LB, elle débloque Initial Speed puis Wit Bonus à MLB.
-
-- Son Unique Effect lui donne Speed Bonus et Initial Wit.
-
-- Ses rainbows sont corrects avec son bon Friendship Bonus, son Special Priority correct et son combo de stat bonus. En dehors du Speed Bonus, son cross-training est inexistant.
-
-- Elle propose une liste de 5 hints❗, dont seul Tail Held High est bon.
-
-- Son dernier Chain Event nous donne au choix _Straightaway Recovery_ ou _Snowy Days_.
- 
-#### PULL OU PAS
-
-**Non.**
- 
-Air Groove Power SSR peut être une carte intéressante à borrow en Long pour les Late Surger qui ne possèdent pas de gold de recovery dans leur kit. Sinon, elle reste moins forte que les autres top tier cartes Power. Gold City Wit SR n’est même pas au niveau de sa compétition dans les cartes SR, qui est à la ramasse comparé aux cartes SSR. C’est une mauvaise carte.
- 
-Ne pullez pas sur cette bannière.
-
----
-
-# Bannières à suivre (26 Juin 00h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/051_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Seiun Sky & Narita Brian (rerun) ★★★
+![Image de présentation de la bannière Seiun Sky & Narita Brian (rerun)](/public/assets/Gacha-reviews/2026/051_Uma-Banner.png)
 
 ⏩ **Seiun Sky** :
 
@@ -171,17 +98,21 @@ Narita Brian est un grand-parent pour les 3 autres stratégies. Elle a une impor
 
 Les 2 sont aussi de bonnes Aces, surtout Seiun Sky. En tant qu’Ace, Narita Brian sera remplacé par son Alt dans la distance Long, qui est surpuissant.
 
-### Bannière Support à suivre : The Throne's Assemblage Group SSR & El Condor Pasa Speed SR
+---
 
-⏩**The THrone's Assemblage Group** :group: :SSR:
+### Bannière support : The Throne's Assemblage Group SSR & El Condor Pasa Speed SR
 
-- La carte est relativement backloaded. A 1LB, elle débloque Speed Bonus puis le combo de Race et Fans Bonus à 3LB.
+![Image de présentation de la bannière The Throne's Assemblage Group SSR & El Condor Pasa Speed SR](/public/assets/Gacha-reviews/2026/051_Card-Banner.png)
+
+⏩**The Throne's Assemblage Group** :group: :SSR:
+
+- La carte est relativement backloaded. A 1LB, elle débloque Speed Bonus puis le combo de Race et Fan Bonus à 3LB.
 
 - Son Unique Effect est 2 Skill Point Bonus.
 
-- Ses rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness. Le cross-training reste son rôle principale, bien qu'elle puisse faire des rainbows. En tant que carte Group, vous ne pouvez pas contrôler dans quel training ses rainbow vont apparaitre ni contrôler quand vous en aurez.
+- Ses rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness. Le cross-training reste son rôle principale, bien qu'elle puisse faire des rainbows. En tant que carte group, vous ne pouvez pas contrôler dans quel training ses rainbow vont apparaitre ni contrôler quand vous en aurez.
 
-- Ses Events Recovery et Event Effectiveness sont aussi puissants que la carte Groupe gratuite Team Siruis. Cependant, ses dates donnent beaucoup plus de stats et répartit mieux le gain d’énergie. Ses évènements donnent principalement de la Speed et du Wit.
+- Ses Events Recovery et Event Effectiveness sont aussi puissants que la carte group gratuite Team Sirius. Cependant, ses dates donnent beaucoup plus de stats et répartit mieux le gain d’énergie. Ses évènements donnent principalement de la Speed et du Wit.
 
 - Son gold skill est **Refraction Arc**, la gold version de _Medium Corners_. C’est un gold de vélocité pour le Medium qui s’active dans un corner aléatoire. C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur Medium Corners.
 
@@ -208,6 +139,128 @@ The Throne’s Assemblage Group SSR est une excellente carte pendant Trackblazer
 El Condor Pasa Speed SR est une bonne carte pour une SR, mais elle n’est pas une carte que vous devez essayer de pull.
  
 Ne pullez pas sur cette bannière, vous allez le regretter.
+
+---
+
+# Bannières à suivre (03 Juillet 00h)  
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/052_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Mejiro McQueen (Summer) & Gold Ship (Summer) ★★★
+
+⏩ **Mejiro McQueen (Summer)** :
+
+_Mejiro McQueen (Summer) est une Pace Chaser pour le Long. Elle peut aussi courir parfaitement en Medium. Avec de l’inspiration, elle peut courir en tant que Front Runner et Late Surger (pour respectivement 1 :star: et 7 :star:). Elle possède un gold de vélocité pour le Long et un gold de recovery de Pace Chaser pour le Long. Son unique est un speed boost assez faible mais sa durée est liée à la quantité d’HP qu’elle possède. L’unique à une durée de base entre 5s et 20s, ce qui est impressionnant._
+ 
+- Mejiro McQueen (Summer) possède 3 bonus de croissances : 8% en :speed:, 8% en :stamina: et 14% en :wit:. C’est un excellent combo de bonus pour une uma spécialisé en Long. Cela lui permet de soit jouer des decks Power et des parents Stamina ou inversement.
+
+- Ses gold skills sont :
+
+    - **Headliner**, la gold version de _Feature Act_. C’est un gold de vélocité pour le Long, s’activant aléatoirement dans la 2ème moitié du Mid-Race, si elle est dans le top 50%. C'est un skill equi est intéressant, avec une solide chance de carry-over.
+
+    - **Single-Minded**, la gold version de _Faultless_. C’est un super gold de recovery (une recovery de 7,5% d'HP) de Pace Chaser pour le Long. Le skill s’active dans la première partie du Mid-Race si Mejiro McQueen (Summer) n’a pas fait un Late Start. C’est un gold de recovery puissant que vous pouvez rendre complètement fiable si vous lui donnez le gold skill **Concentration**. <br>
+    Si elle ne possède pas **Concentration**, le skill perd un peu en fiabilité, surtout pour un skill aussi important que le skill de recovery principale pour le Long. Un late start reste quand même bien plus rare qu'un départ normale, le skill reste généralement très puissant et désirable à prendre. 
+
+- Son unique est un speed boost assez faible mais sa durée est liée à la quantité d’HP qu’elle possède. L’unique à une durée de base entre 5s et 20s, ce qui est impressionnant. Il s’active en seconde moitié de course si elle est dans le top 40%. <br>
+C’est un unique identique à Mejiro Bright (sauf sur la position de l’activation). Cependant, cet unique est moins bon que celui de Mejiro Bright dû à la différence de stratégie entre les 2 umas. En tant qu’End Closer, l’unique de Mejiro Bright aura une meilleure valeur que celui de Mejiro McQueen en tant que Pace Chaser. Ceci est dû au différent coefficient de base Target Speed pour les différentes stratégies.
+Bien qu'il soit moins fort, cela ne veut pas dire qu'il est mauvais car il lui permet de faire des choses intéressantes pour une Pace Chaser. Son unique lui permet de rester proche des Fronts pour activer NSM, voir de les dépasser pour activer elle-même les uniques de Kitasan Black et Seiun Sky (Ballroom). Cela reste un unique sympa.
+ 
+::: info Durée maximale
+ 
+Sur une course de 3 200m, le skill peut avoir une durée de 64s au maximum, bien que cela soit dur à atteindre pour l'instant.
+ 
+:::
+
+
+⏩ **Gold Ship (Summer)** :
+
+_Gold Ship (Summer) est une End Closer pour le Medium et le Long. Avec de l’inspiration, elle peut courir en tant que Pace Chaser et Late Surger mais aussi courir en Mile (pour respectivement 1 :star:,1 :star: et 4 :star:). Elle possède un gold de vélocité pour le Long et un gold de vélocité pour le Medium. Son unique est spécial. Aléatoirement en deuxième partie de course, l’unique lui donne un faible boost de vélocité et lui permet de lancer 2 gold skill qu’elle possède (plus d'explications dans la partie pour l’unique)._
+ 
+- Gold Ship (Summer) possède 2 bonus de croissances : 20% en :power: et 10% en :wit:. C’est un bon combo de bonus, utile sur toutes les distances. Ses decks utiliseront généralement Super Creek :stamina: dedans pour son gold skill Swinging Maestro et pour bien monter sa Stamina. Le reste des cartes seront généralement des cartes Speed et Wit.
+
+- Ses gold skills sont :
+
+    - **Innate Experience**, la gold version d'_Inside Scoop_. C'est un gold de vélocité pour le Long, s'activant pendant le final corner si on est proche de la barrière. De manière contre-intuitive, l'activation est plus fiable qu'il n'y paraît, et il n'est pas nécessaire d'être collé à la barrière pour l'activer.
+
+    - **Elated**, la gold version d’_Eager_. C’est un gold de vélocité pour le Medium, qui s’active aléatoirement en Mid-Race si elle est dans le bottom 50%.
+    >L’une de ses évolutions lui permet d’utiliser ce skill dans les courses Long.
+
+- Son unique est spécial. Aléatoirement en deuxième partie de course, l’unique lui donne un faible boost de vélocité et lui permet de lancer 2 gold skill qu’elle possède.
+ 
+:::: warning Plus de détails sur les gold skills que l’unique peut activer
+ 
+La description du skill dans le jeu et sur Gametora n’est pas correcte, et possède une règle importante non mentionnée qui rend l’unique bien moins fort qu’il le semble. L’unique permet de lancer seulement des gold skills que Gold Ship (Summer) à raté avec un Wit Check ou qu’elle ne peut pas lancer dû aux conditions d’activation. L’unique ne peut pas activer des gold skills qui ont réussi à être lancer. Cela veut dire que l’unique vous force à prendre des skills que Gold Ship (Summer) ne peut pas lancer pour que l’unique est de l’utilité.
+Elle peut aussi activer les gold skills qu'elle peu activer plus tard dans la course.
+ 
+::: tip En tant qu’unique à hérité
+ 
+La raison de pourquoi l’unique est vendu comme puissant, est qu’il permet d’utiliser des gold skills puissants sur des courses où ils ne peuvent s’activer. Le meilleur exemple est le gold skill Dominator, un debuff de Current Speed qui touche toutes les umas devant l’utilisateur. Cela permet aux Uma Debuffeuse d’être utiles sur toutes les courses.
+Ce n’est cependant pas un bon unique pour une Ace.
+ 
+:::
+
+::::
+
+#### Pull ou pas ? :
+
+A moins que l’une d’entre elles soit une de vos oshi, non.
+ 
+Mejiro McQueen (Summer) est une spécialiste pour les courses Long. Sur les autres distances, sa version OG reste plus forte qu'elle. Mais son kit est excellent pour le Long. Un super gold heal, un gold skill et unique qui créer du carry-over est lui permet de ne pas trop se faire dominer par les Fronts. Elle possède aussi Playtime's Over ! dans son kit de base, ce qui la rends meilleur que ça version OG dans sa spécialisation. C'est un bon alt spécialiste.
+ 
+Gold Ship (Summer), tout comme pour Mejiro McQueen est au mieux aussi puissant que sa version OG. Elle possède de l’utilité en tant que parent pour debuffeuse, mais c’est tout. C’est une niche très faible. C’est aussi une mauvaise alt.
+ 
+Ne pullez pas sur cette bannière.
+
+### Bannière Support à suivre : Maruzensky Speed SSR & Nakayama Festa Wit SSR
+
+⏩**Maruzensky** :speed: :SSR:
+
+- La carte a une croissance équilibrée. A 1 LB, elle débloque Power Bonus puis Mood Effect à 3LB.
+
+- Son Unique Effect lui donne 5 de Training Effectiveness pour chaque niveau de la faculté où elle se trouve. C’est un Unique Effect puissant.
+
+- Ses rainbows sont très bons grâce à ses Friendship Bonus et Special Priority correct, son combo de Speed et Power Bonus mais surtout son Unique Effect. Son cross-training est pour l’instant le meilleur du jeu juste avec son Unique Effect, et qui devient meilleur avec son Mood Effect. Elle possède aussi un faible Race Bonus.
+
+- Elle propose une liste de 10 hints❗, principalement pour Front Runner et tous bon ou excellent. _Playtime’s Over_ et _Slipstream_ sortent du lot, ce sont d »excellent skills pour toutes les stratégies. Elle possède le combo de Hint Level et Hint Frequency. Ses hints seront puissants et assez fréquents.
+
+- Son gold skill est **Top Runner**, la gold version de _Leader’s Pride_. C’est un gold de vélocité pour Front Runner, s’activant en Early-Race ou Mid-Race si l’uma a été dépassé une fois ou qu’elle a été bloquée sur un côté pendant 2 secondes. C’est un très bon gold skill pour les Front Runner pour prendre la pole position
+
+⏩**Nakayama Festa** :wit: :ssr:
+
+- La carte est backloaded pour son Training Effectiveness. A 1LB, elle débloque Skill Point Bonus puis Race Bonus et Fan Bonus à 3LB.
+
+- Son Unique Effect lui donne 20% de chance d’empêcher de rater l'entraînement où elle se trouve et dont vous verrez s'il c'est activé ou non. C’est un effet qui est techniquement sympa, mais beaucoup trop random à mon goût et surtout qui ne peut avoir d'effet que sur les entraînements avec une chance de rater. Autrement l’Unique Effect ne sert à rien.<br>
+Son Unique Effect n’est pas assez puissant pour combler son manque de Special Priority, pas comme celui de Sakura Bakushin O Guts SSR qui lui est vraiment bon (cette dernière est surtout freinée par le fait qu’elle soit une carte Guts et non Wit comme Nakayama Festa SSR).
+
+- Ses rainbows sont faibles avec son faible Friendship Bonus et son Wit Bonus, à cause de son manque de Special Priority. Son cross-training est bon avec son Unique Effect s’il procc, son Skill Point Bonus, son bon Training Effectiveness et son très bon Mood Effect. Elle possède un bon Race Bonus à MLB.
+
+- Elle propose une liste de 12 hints❗, dont de très bons hints comme _Uma Stan_, _All I’ve Got_ et _Nimble Navigator_. Elle possède le combo Hint Levels et Hint Frequency à un très bon niveau. Ses hints seront très puissants et fréquents.
+
+- Son gold skill est **Nothing Ventured**, la gold version de _Risky Business_. C’est un gold de vélocité puissant qui s’active aléatoirement dans la seconde moitié de course. Le skill peut aléatoirement consommer une partie des HP de l’uma qui l’utilise.
+ 
+::: info Consommation de Stamina de Nothing Ventured
+ 
+Le skill à 60% de chance de ne pas consommer d’HP, 30% de chance de consommer 2% d’HP et 10% de consommer 4% d’HP. Malgré le potentiel malus, le skill reste puissant. Pour rappel, un gold recovery restaure 5,5% d'HP
+
+:::
+
+#### PULL OU PAS
+
+Oui, c’est une bonne bannière juste pour Maruzensky Speed SSR.
+ 
+Maruzensky Speed SSR est une carte speed du même acabit que Kitasan Black, voir meilleure. Elle devient la carte Speed principale ou secondaire de votre deck dans les futurs scénarios jusqu’à ce qu’elle se fasse power creep. La carte est tellement puissante, bien qu’elle soit spécialisée pour les Front Runner, qu'elle sera utilisée par les autres stratégies jusqu’à ce qu’elles obtiennent une carte spécialisée de son niveau. Un autre point positif de Maruzensky Speed SSR est le nombre de LB nécessaire. Dès 1LB, Maruzensky est utilisable et elle obtient son plein potentiel à 3LB. La différence entre 3LB et 4LB est minime. C’est une carte qui à une croissance similaire à Fine Motion Wit SSR pour mieux visualiser.
+ 
+Nakayama Festa Wit SSR est une carte bizarre. Son Unique Effect est un peu plus utilisable grâce au fait qu’elle ne possède pas de Special Priority, mais cela veut aussi dire que la carte est généralement moins puissante que les autres top tier Wit SSR. Le reste de son kit est bon, mais il est nécessaire de la monter à au moins 3LB, voire MLB, pour maximiser la puissance des bonus importants.
+
+Si je ne devais prendre que mon avis, je dirais que la carte est moyenne, car bien que le reste de ses bonus, gold skill et hints sont bons, son Unique Effect ne comble pas son manque de Special Priority. Le fait qu'elle soit une carte gamble fait que je ne peux pas la conseiller comme une bonne carte. Mais si vous aimez le gamble, Nakayama Festa Wit SSR est une carte plus qu'intéressante.
+ 
+::: tip Alternatives de pull pour Maruzensky Speed SSR
+ 
+Il est possible de skip cette bannière. La raison est que Maruzensky Speed SSR est bonne dès LB1 et qu’on approche de la bannière importante pour le prochain scénario. Il est donc possible de skip cette bannière et de prendre Maruzensky Speed SSR avec le ticket SSR que l’on recevra pour le 1,5 Anniversary et de lui compléter au moins un LB avec un de vos cristaux SSR. Si vous avez peu de carat, ou que vous ne mettez pas d’argent dans le jeu, c’est généralement la meilleure chose à faire.
+
+Une autre alternative est d'atteindre le rerun avec Fine Motion Wit SSR pour pull. Les 2 cartes sont très bonnes et resteront fortes (bien que Fine Motion Wit SSR sera powercreep à Grand Master)
+
+:::
 
 ### Vous pouvez consulter les archives des précédentes bannières
 

@@ -562,7 +562,7 @@ Si vous n’avez pas l’une des fortes SSR Wit, pullez dessus jusqu’à vous l
 
 ::: info Explications
 
-J’ai un deck 2 Speed / 2 Stamina / 2 Wit, je reçois +20 au début de la run dans ces 3 stats. Les cartes Pal ou Groupe donnent +2 dans chaque stats.
+J’ai un deck 2 Speed / 2 Stamina / 2 Wit, je reçois +20 au début de la run dans ces 3 stats. Les cartes Pal ou group donnent +2 dans chaque stats.
 
 :::
 
@@ -1006,5 +1006,49 @@ Ne pullez pas sur cette bannière.
 Air Groove Power SSR peut être une carte intéressante à borrow en Long pour les Late Surger qui ne possèdent pas de gold de recovery dans leur kit. Sinon, elle reste moins forte que les autres top tier cartes Power. Gold City Wit SR n’est même pas au niveau de sa compétition dans les cartes SR, qui est à la ramasse comparé aux cartes SSR. C’est une mauvaise carte.
  
 Ne pullez pas sur cette bannière.
+
+:::
+
+## #51 - The Throne's Assemblage Group SSR & El Condor Pasa Speed SR
+
+![Image de présentation de la bannière The Throne's Assemblage Group SSR & El Condor Pasa Speed SR](/public/assets/Gacha-reviews/2026/051_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**The Throne's Assemblage Group** :group: :SSR:
+
+- La carte est relativement backloaded. A 1LB, elle débloque Speed Bonus puis le combo de Race et Fan Bonus à 3LB.
+
+- Son Unique Effect est 2 Skill Point Bonus.
+
+- Ses rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness. Le cross-training reste son rôle principale, bien qu'elle puisse faire des rainbows. En tant que carte group, vous ne pouvez pas contrôler dans quel training ses rainbow vont apparaitre ni contrôler quand vous en aurez.
+
+- Ses Events Recovery et Event Effectiveness sont aussi puissants que la carte group gratuite Team Sirius. Cependant, ses dates donnent beaucoup plus de stats et répartit mieux le gain d’énergie. Ses évènements donnent principalement de la Speed et du Wit.
+
+- Son gold skill est **Refraction Arc**, la gold version de _Medium Corners_. C’est un gold de vélocité pour le Medium qui s’active dans un corner aléatoire. C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur Medium Corners.
+
+⏩**El Condor Pasa** :speed: :sr:
+
+- La carte est backloaded. A 1LB, elle débloque Training Effectiveness puis Power Bonus à MLB.
+
+- Son Unique Effect lui donne Speed Bonus et 20 de Special Priority. Cela fait que son Special Priority est en réalité un peu plus élevé.
+
+- Ses rainbows sont bons avec son combo de Speed et Power Bonus, son Special Priority de 80, malgré un Friendship Bonus faible. Son cross-training est assez bon avec son Training Effectiveness, son Mood Effect et son bon Race Bonus.
+
+- Elle propose une liste de 5 hints❗, spécialisé pour les Pace Chasers.
+
+- Son dernier Chain Events donne _Pace Chasers Corners_.
+
+- Ses évènements sont énergivores.
+ 
+#### PULL OU PAS
+
+**NON !** Cette bannière est le plus gros bait du jeu.
+ 
+The Throne’s Assemblage Group SSR est une excellente carte pendant Trackblazer pour son énergie, la quantité de skill points et la quantité de stats qu’elle donne. Mais elle ne sera pas utilisée dans les futurs scénarios. C’est une carte qui a une durée de vie de 1 mois / 1CM, pour une meilleure visualisation. Si vous voulez l’utiliser, empruntez là.
+
+El Condor Pasa Speed SR est une bonne carte pour une SR, mais elle n’est pas une carte que vous devez essayer de pull.
+ 
+Ne pullez pas sur cette bannière, vous allez le regretter.
 
 :::

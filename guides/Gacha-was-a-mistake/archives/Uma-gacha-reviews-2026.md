@@ -1054,3 +1054,30 @@ Air Shakur est une mauvaise uma, elle a plus de défaut que de qualité dans son
 Ne pullez pas sur cette bannière.
 
 :::
+
+## #51 - Seiun Sky & Narita Brian (rerun) ★★★
+
+![Image de présentation de la bannière Seiun Sky & Narita Brian (rerun)](/public/assets/Gacha-reviews/2026/051_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Seiun Sky** :
+
+[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md#_11-seiun-sky-★★★)
+
+⏩ **Narita Brian** :
+
+[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md#_09-narita-brian-★★★)
+
+#### Pull ou pas ? :
+
+C’est une bonne bannière s’il vous manque des parents / grands- parents utiles. 
+
+Seiun Sky est le parent majeur pour les Front Runners en Mile et en Medium. Vu qu’elle est le parent majeur, vous en aurez toujours besoin. 
+Si vous avez les autres parents / grands- parents qui la complètent, vous pouvez continuer à utiliser la Seiun Sky d’un ami. Cependant, dès qu’un parent secondaire important pour les Front Runners sort, vous en aurez besoin si vous ne prenez pas Seiun Sky.
+
+Narita Brian est un grand-parent pour les 3 autres stratégies. Elle a une importance moindre à Seiun Sky, mais son unique reste intéressant si vous avez de la chance pendant les 2 évènements d’inspirations. Elle possède une compétition assez relevée en tant que grand-parent.
+
+Les 2 sont aussi de bonnes Aces, surtout Seiun Sky. En tant qu’Ace, Narita Brian sera remplacé par son Alt dans la distance Long, qui est surpuissant.
+
+:::
