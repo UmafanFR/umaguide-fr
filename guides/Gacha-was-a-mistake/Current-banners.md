@@ -1,5 +1,5 @@
 ---
-title: Gacha - Seiun Sky & Narita Brian (rerun) ★★★ // The Throne's Assemblage Group SSR & El Condor Pasa Speed SR
+title: Gacha - Mejiro McQueen (Summer) & Gold Ship (Summer) ★★★ // Maruzensky Speed SSR & Nakayama Festa Wit SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/051_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/052_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -75,78 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Seiun Sky & Narita Brian (rerun) ★★★
+### Bannière Umamusume : Mejiro McQueen (Summer) & Gold Ship (Summer) ★★★
 
-![Image de présentation de la bannière Seiun Sky & Narita Brian (rerun)](/public/assets/Gacha-reviews/2026/051_Uma-Banner.png)
-
-⏩ **Seiun Sky** :
-
-[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md#_11-seiun-sky-★★★)
-
-⏩ **Narita Brian** :
-
-[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Uma-gacha-reviews-2025.md#_09-narita-brian-★★★)
-
-#### Pull ou pas ? :
-
-C’est une bonne bannière s’il vous manque des parents / grands- parents utiles. 
-
-Seiun Sky est le parent majeur pour les Front Runners en Mile et en Medium. Vu qu’elle est le parent majeur, vous en aurez toujours besoin. 
-Si vous avez les autres parents / grands- parents qui la complètent, vous pouvez continuer à utiliser la Seiun Sky d’un ami. Cependant, dès qu’un parent secondaire important pour les Front Runners sort, vous en aurez besoin si vous ne prenez pas Seiun Sky.
-
-Narita Brian est un grand-parent pour les 3 autres stratégies. Elle a une importance moindre à Seiun Sky, mais son unique reste intéressant si vous avez de la chance pendant les 2 évènements d’inspirations. Elle possède une compétition assez relevée en tant que grand-parent.
-
-Les 2 sont aussi de bonnes Aces, surtout Seiun Sky. En tant qu’Ace, Narita Brian sera remplacé par son Alt dans la distance Long, qui est surpuissant.
-
----
-
-### Bannière support : The Throne's Assemblage Group SSR & El Condor Pasa Speed SR
-
-![Image de présentation de la bannière The Throne's Assemblage Group SSR & El Condor Pasa Speed SR](/public/assets/Gacha-reviews/2026/051_Card-Banner.png)
-
-⏩**The Throne's Assemblage Group** :group: :SSR:
-
-- La carte est relativement backloaded. A 1LB, elle débloque Speed Bonus puis le combo de Race et Fan Bonus à 3LB.
-
-- Son Unique Effect est 2 Skill Point Bonus.
-
-- Ses rainbows sont plutôt bons avec son bon Friendship Bonus. Son cross-training est bon, principalement grâce aux 2 Skill Point Bonus bien que la carte possède un faible Training Effectiveness. Le cross-training reste son rôle principale, bien qu'elle puisse faire des rainbows. En tant que carte group, vous ne pouvez pas contrôler dans quel training ses rainbow vont apparaitre ni contrôler quand vous en aurez.
-
-- Ses Events Recovery et Event Effectiveness sont aussi puissants que la carte group gratuite Team Sirius. Cependant, ses dates donnent beaucoup plus de stats et répartit mieux le gain d’énergie. Ses évènements donnent principalement de la Speed et du Wit.
-
-- Son gold skill est **Refraction Arc**, la gold version de _Medium Corners_. C’est un gold de vélocité pour le Medium qui s’active dans un corner aléatoire. C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur Medium Corners.
-
-⏩**El Condor Pasa** :speed: :sr:
-
-- La carte est backloaded. A 1LB, elle débloque Training Effectiveness puis Power Bonus à MLB.
-
-- Son Unique Effect lui donne Speed Bonus et 20 de Special Priority. Cela fait que son Special Priority est en réalité un peu plus élevé.
-
-- Ses rainbows sont bons avec son combo de Speed et Power Bonus, son Special Priority de 80, malgré un Friendship Bonus faible. Son cross-training est assez bon avec son Training Effectiveness, son Mood Effect et son bon Race Bonus.
-
-- Elle propose une liste de 5 hints❗, spécialisé pour les Pace Chasers.
-
-- Son dernier Chain Events donne _Pace Chasers Corners_.
-
-- Ses évènements sont énergivores.
- 
-#### PULL OU PAS
-
-**NON !** Cette bannière est le plus gros bait du jeu.
- 
-The Throne’s Assemblage Group SSR est une excellente carte pendant Trackblazer pour son énergie, la quantité de skill points et la quantité de stats qu’elle donne. Mais elle ne sera pas utilisée dans les futurs scénarios. C’est une carte qui a une durée de vie de 1 mois / 1CM, pour une meilleure visualisation. Si vous voulez l’utiliser, empruntez là.
-
-El Condor Pasa Speed SR est une bonne carte pour une SR, mais elle n’est pas une carte que vous devez essayer de pull.
- 
-Ne pullez pas sur cette bannière, vous allez le regretter.
-
----
-
-# Bannières à suivre (03 Juillet 00h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/052_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Mejiro McQueen (Summer) & Gold Ship (Summer) ★★★
+![Image de présentation de la bannière Mejiro McQueen (Summer) & Gold Ship (Summer)](/public/assets/Gacha-reviews/2026/052_Uma-Banner.png)
 
 ⏩ **Mejiro McQueen (Summer)** :
 
@@ -211,7 +142,11 @@ Gold Ship (Summer), tout comme pour Mejiro McQueen est au mieux aussi puissant q
  
 Ne pullez pas sur cette bannière.
 
-### Bannière Support à suivre : Maruzensky Speed SSR & Nakayama Festa Wit SSR
+---
+
+### Bannière support : Maruzensky Speed SSR & Nakayama Festa Wit SSR
+
+![Image de présentation de la bannière Maruzensky Speed SSR & Nakayama Festa Wit SSR](/public/assets/Gacha-reviews/2026/052_Card-Banner.png)
 
 ⏩**Maruzensky** :speed: :SSR:
 
@@ -261,6 +196,60 @@ Il est possible de skip cette bannière. La raison est que Maruzensky Speed SSR 
 Une autre alternative est d'atteindre le rerun avec Fine Motion Wit SSR pour pull. Les 2 cartes sont très bonnes et resteront fortes (bien que Fine Motion Wit SSR sera powercreep à Grand Master)
 
 :::
+
+---
+
+# Bannières à suivre (08 Juillet 00h)  
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/053_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Bamboo Memory ★★★
+
+⏩ **Bamboo Memory** :
+
+_Bamboo Memory est une Late Surger pour le Sprint et le Mile. Avec de l’’inspiration, elle peut courir en Medium, en tant qu’End Closer, mais surtout courir sur les courses Dirt (pour respectivement 4 étoiles, 4 étoiles et 7 étoiles). Elle possède un gold de vélocité de Late Surger et un gold de vélocité pour le Mile. Son unique est un très faible boost d’accélération de Final Corner qui devient plus puissant (le boost devient plus puissant et dure plus longtemps) en doublant une uma. L’effet atteint sa puissance maximale après avoir doublé 3 umas._
+
+- Bamboo Memory possède 3 bonus de croissances : 10% en :speed:, 10% en :power: et 10% en :guts:. C’est un bon combo de bonus pour le Sprint et le Mile. Elle utilisera des decks basiques à base de Speed et Wit
+
+- Ses gold skills sont :
+
+    - **Rising Dragon**, la gold version d’_Outer Swell_. C’est un gold de vélocité de Late Surger, qui s’active en Final Corner si elle double une autre uma et que l’uma qui est derrière elle soit plus proche de la barrière que l’utilisatrice. C’est un skill assez bon. En Sprint, il peut créer du carry-over.
+
+    - **Full of Vigor**, la gold version de _Pumped_. C’est un boost de vélocité pour le Mile, qui s’active aléatoirement en Final Corner si elle est dans le bottom 50% (≥5 en CM). C’est un skill qui est très similaire à Speed Star, juste spécifique au Mile et aux umas de la backline.
+    >Le skill a une chance de s'activer avec un timing permettant un carry over, ce qui le rend explosif en cas de succès (en cas d'échec, l'activation est gâchée par l'accélération). C’est un skill qui est gamble.
+
+-  Son unique est un très faible boost d’accélération de Final Corner qui devient plus puissant (le boost devient plus puissant et plus long) en doublant une uma. L’effet atteint sa puissance maximale après avoir doublé 3 umas. Son unique s’active à partir du Late-Race et du Final Corner si Bamboo Memory est dans le bottom 50% et qu’il y a une uma à moins de 1L devant elle.<br>
+Bien que l’activation de l’unique est bonne, il reste un mauvais unique. Le fait qu’elle doit dépasser des umas pour améliorer son unique est un problème. Elle sera toujours dépendante des autres skills ou uniques d’accélération. Son unique est surtout un boost d’accélération en plus mais ne sera pas plus important que ça.
+
+#### Pull ou pas ? :
+
+Seulement si elle est votre Oshi.
+ 
+Techniquement, le reste de son kit outre de son unique est assez bon. Mais l’unique joue toujours un point important du kit d’une uma et le sien est mauvais. En plus, sa compétition est assez rude en Sprint et Mile en tant que Late Surger.
+ 
+Ne pullez pas sur cette bannière, on se rapproche de 2 grosses bannières (1 uma et 1 support)
+
+### Bannière Support à suivre : Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR
+
+⏩**Yukino Bijin** :wit: :SSR:
+
+La première review de cette carte à été fait avant le 11 novembre 2025, dont la mise à jour a été important son gold skill. Elle ne recevra pas une nouvelle review, seulement une description très rapide.
+
+Elle donne **No Stopping Me !** qui est un bon skill d'accélération. Cependant Yukino Bijin reste une mauvaise carte sur les autres aspects.
+
+⏩**Ikuno Dictus** :guts: :ssr:
+
+[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_21-ikuno-dictus-guts-ssr-fine-motion-power-sr)
+
+#### PULL OU PAS
+
+Non.
+
+Ikuno Dictus Guts SSR était potentiellement utilisable sur Trackblazer pour son Race Bonus. Avec l’update des versions améliorées de URA Finale et Unity Cup, et l'arrivée prochaine de Grand Live, la carte n’a plus aucune utilité.
+
+Yukino Bijin Wit SSR n’est utile que pour son gold skill **No Stopping Me !** Cependant, autre son gold skill, la carte est vraiment mauvaise et il est mieux de l’emprunter que de pull pour elle, si vous voulez NSM.
+
+Ne pullez pas sur cette bannière.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
