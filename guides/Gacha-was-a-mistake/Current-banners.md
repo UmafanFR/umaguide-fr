@@ -213,7 +213,7 @@ _Bamboo Memory est une Late Surger pour le Sprint et le Mile. Avec de l’’ins
 
 - Ses gold skills sont :
 
-    - **Rising Dragon**, la gold version d’_Outer Swell_. C’est un gold de vélocité de Late Surger, qui s’active en Final Corner si elle double une autre uma et que l’uma qui est derrière elle soit plus proche de la barrière que l’utilisatrice. C’est un skill assez bon. En Sprint, il peut créer du carry-over.
+    - **Rising Dragon**, la gold version d’_Outer Swell_. C’est un gold de vélocité de Late Surger, qui s’active en Final Corner si elle double une autre uma et que l’uma qui est derrière elle soit plus proche de la barrière que l’utilisatrice. C’est un skill assez bon. En Sprint et Mile, il peut créer du carry-over.
 
     - **Full of Vigor**, la gold version de _Pumped_. C’est un boost de vélocité pour le Mile, qui s’active aléatoirement en Final Corner si elle est dans le bottom 50% (≥5 en CM). C’est un skill qui est très similaire à Speed Star, juste spécifique au Mile et aux umas de la backline.
     >Le skill a une chance de s'activer avec un timing permettant un carry over, ce qui le rend explosif en cas de succès (en cas d'échec, l'activation est gâchée par l'accélération). C’est un skill qui est gamble.
@@ -235,7 +235,7 @@ Ne pullez pas sur cette bannière, on se rapproche de 2 grosses bannières (1 um
 
 La première review de cette carte à été fait avant le 11 novembre 2025, dont la mise à jour a été important son gold skill. Elle ne recevra pas une nouvelle review, seulement une description très rapide.
 
-Elle donne **No Stopping Me !** qui est un bon skill d'accélération. Cependant Yukino Bijin reste une mauvaise carte sur les autres aspects.
+Elle donne **No Stopping Me !** qui est un bon skill d'accélération pour le Medium et le Long uniquement. Cependant Yukino Bijin reste une mauvaise carte sur les autres aspects.
 
 ⏩**Ikuno Dictus** :guts: :ssr:
 
