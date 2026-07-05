@@ -1052,3 +1052,60 @@ El Condor Pasa Speed SR est une bonne carte pour une SR, mais elle n’est pas u
 Ne pullez pas sur cette bannière, vous allez le regretter.
 
 :::
+
+## #52 - Maruzensky Speed SSR & Nakayama Festa Wit SSR
+
+![Image de présentation de la bannière Maruzensky Speed SSR & Nakayama Festa Wit SSR](/public/assets/Gacha-reviews/2026/052_Card-Banner.png)
+
+:::: details REVIEW
+
+⏩**Maruzensky** :speed: :SSR:
+
+- La carte a une croissance équilibrée. A 1 LB, elle débloque Power Bonus puis Mood Effect à 3LB.
+
+- Son Unique Effect lui donne 5 de Training Effectiveness pour chaque niveau de la faculté où elle se trouve. C’est un Unique Effect puissant.
+
+- Ses rainbows sont très bons grâce à ses Friendship Bonus et Special Priority correct, son combo de Speed et Power Bonus mais surtout son Unique Effect. Son cross-training est pour l’instant le meilleur du jeu juste avec son Unique Effect, et qui devient meilleur avec son Mood Effect. Elle possède aussi un faible Race Bonus.
+
+- Elle propose une liste de 10 hints❗, principalement pour Front Runner et tous bon ou excellent. _Playtime’s Over_ et _Slipstream_ sortent du lot, ce sont d »excellent skills pour toutes les stratégies. Elle possède le combo de Hint Level et Hint Frequency. Ses hints seront puissants et assez fréquents.
+
+- Son gold skill est **Top Runner**, la gold version de _Leader’s Pride_. C’est un gold de vélocité pour Front Runner, s’activant en Early-Race ou Mid-Race si l’uma a été dépassé une fois ou qu’elle a été bloquée sur un côté pendant 2 secondes. C’est un très bon gold skill pour les Front Runner pour prendre la pole position
+
+⏩**Nakayama Festa** :wit: :ssr:
+
+- La carte est backloaded pour son Training Effectiveness. A 1LB, elle débloque Skill Point Bonus puis Race Bonus et Fan Bonus à 3LB.
+
+- Son Unique Effect lui donne 20% de chance d’empêcher de rater l'entraînement où elle se trouve et dont vous verrez s'il c'est activé ou non. C’est un effet qui est techniquement sympa, mais beaucoup trop random à mon goût et surtout qui ne peut avoir d'effet que sur les entraînements avec une chance de rater. Autrement l’Unique Effect ne sert à rien.<br>
+Son Unique Effect n’est pas assez puissant pour combler son manque de Special Priority, pas comme celui de Sakura Bakushin O Guts SSR qui lui est vraiment bon (cette dernière est surtout freinée par le fait qu’elle soit une carte Guts et non Wit comme Nakayama Festa SSR).
+
+- Ses rainbows sont faibles avec son faible Friendship Bonus et son Wit Bonus, à cause de son manque de Special Priority. Son cross-training est bon avec son Unique Effect s’il procc, son Skill Point Bonus, son bon Training Effectiveness et son très bon Mood Effect. Elle possède un bon Race Bonus à MLB.
+
+- Elle propose une liste de 12 hints❗, dont de très bons hints comme _Uma Stan_, _All I’ve Got_ et _Nimble Navigator_. Elle possède le combo Hint Levels et Hint Frequency à un très bon niveau. Ses hints seront très puissants et fréquents.
+
+- Son gold skill est **Nothing Ventured**, la gold version de _Risky Business_. C’est un gold de vélocité puissant qui s’active aléatoirement dans la seconde moitié de course. Le skill peut aléatoirement consommer une partie des HP de l’uma qui l’utilise.
+ 
+::: info Consommation de Stamina de Nothing Ventured
+ 
+Le skill à 60% de chance de ne pas consommer d’HP, 30% de chance de consommer 2% d’HP et 10% de consommer 4% d’HP. Malgré le potentiel malus, le skill reste puissant. Pour rappel, un gold recovery restaure 5,5% d'HP
+
+:::
+
+#### PULL OU PAS
+
+Oui, c’est une bonne bannière juste pour Maruzensky Speed SSR.
+ 
+Maruzensky Speed SSR est une carte speed du même acabit que Kitasan Black, voir meilleure. Elle devient la carte Speed principale ou secondaire de votre deck dans les futurs scénarios jusqu’à ce qu’elle se fasse power creep. La carte est tellement puissante, bien qu’elle soit spécialisée pour les Front Runner, qu'elle sera utilisée par les autres stratégies jusqu’à ce qu’elles obtiennent une carte spécialisée de son niveau. Un autre point positif de Maruzensky Speed SSR est le nombre de LB nécessaire. Dès 1LB, Maruzensky est utilisable et elle obtient son plein potentiel à 3LB. La différence entre 3LB et 4LB est minime. C’est une carte qui à une croissance similaire à Fine Motion Wit SSR pour mieux visualiser.
+ 
+Nakayama Festa Wit SSR est une carte bizarre. Son Unique Effect est un peu plus utilisable grâce au fait qu’elle ne possède pas de Special Priority, mais cela veut aussi dire que la carte est généralement moins puissante que les autres top tier Wit SSR. Le reste de son kit est bon, mais il est nécessaire de la monter à au moins 3LB, voire MLB, pour maximiser la puissance des bonus importants.
+
+Si je ne devais prendre que mon avis, je dirais que la carte est moyenne, car bien que le reste de ses bonus, gold skill et hints sont bons, son Unique Effect ne comble pas son manque de Special Priority. Le fait qu'elle soit une carte gamble fait que je ne peux pas la conseiller comme une bonne carte. Mais si vous aimez le gamble, Nakayama Festa Wit SSR est une carte plus qu'intéressante.
+ 
+::: tip Alternatives de pull pour Maruzensky Speed SSR
+ 
+Il est possible de skip cette bannière. La raison est que Maruzensky Speed SSR est bonne dès LB1 et qu’on approche de la bannière importante pour le prochain scénario. Il est donc possible de skip cette bannière et de prendre Maruzensky Speed SSR avec le ticket SSR que l’on recevra pour le 1,5 Anniversary et de lui compléter au moins un LB avec un de vos cristaux SSR. Si vous avez peu de carat, ou que vous ne mettez pas d’argent dans le jeu, c’est généralement la meilleure chose à faire.
+
+Une autre alternative est d'atteindre le rerun avec Fine Motion Wit SSR pour pull. Les 2 cartes sont très bonnes et resteront fortes (bien que Fine Motion Wit SSR sera powercreep à Grand Master)
+
+:::
+
+::::
