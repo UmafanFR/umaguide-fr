@@ -1109,3 +1109,31 @@ Une autre alternative est d'atteindre le rerun avec Fine Motion Wit SSR pour pul
 :::
 
 ::::
+
+## #53 - Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR (rerun)
+
+![Image de présentation de la bannière Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR (rerun](/public/assets/Gacha-reviews/2026/053_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Yukino Bijin** :wit: :SSR:
+
+La première review de cette carte à été fait avant le 11 novembre 2025, dont la mise à jour a été important son gold skill. Elle ne recevra pas une nouvelle review, seulement une description très rapide.
+
+Elle donne **No Stopping Me !** qui est un bon skill d'accélération pour le Medium et le Long uniquement. Cependant Yukino Bijin reste une mauvaise carte sur les autres aspects.
+
+⏩**Ikuno Dictus** :guts: :ssr:
+
+[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_21-ikuno-dictus-guts-ssr-fine-motion-power-sr)
+
+#### PULL OU PAS
+
+Non.
+
+Ikuno Dictus Guts SSR était potentiellement utilisable sur Trackblazer pour son Race Bonus. Avec l’update des versions améliorées de URA Finale et Unity Cup, et l'arrivée prochaine de Grand Live, la carte n’a plus aucune utilité.
+
+Yukino Bijin Wit SSR n’est utile que pour son gold skill **No Stopping Me !** Cependant, autre son gold skill, la carte est vraiment mauvaise et il est mieux de l’emprunter que de pull pour elle, si vous voulez NSM.
+
+Ne pullez pas sur cette bannière.
+
+:::

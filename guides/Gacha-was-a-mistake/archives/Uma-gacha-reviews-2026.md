@@ -1151,3 +1151,36 @@ Gold Ship (Summer), tout comme pour Mejiro McQueen est au mieux aussi puissant q
  
 Ne pullez pas sur cette bannière.
 
+:::::
+
+## #53 - Bamboo Memory ★★★
+
+![Image de présentation de la bannière Bamboo Memory](/public/assets/Gacha-reviews/2026/053_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Bamboo Memory** :
+
+_Bamboo Memory est une Late Surger pour le Sprint et le Mile. Avec de l’’inspiration, elle peut courir en Medium, en tant qu’End Closer, mais surtout courir sur les courses Dirt (pour respectivement 4 étoiles, 4 étoiles et 7 étoiles). Elle possède un gold de vélocité de Late Surger et un gold de vélocité pour le Mile. Son unique est un très faible boost d’accélération de Final Corner qui devient plus puissant (le boost devient plus puissant et dure plus longtemps) en doublant une uma. L’effet atteint sa puissance maximale après avoir doublé 3 umas._
+
+- Bamboo Memory possède 3 bonus de croissances : 10% en :speed:, 10% en :power: et 10% en :guts:. C’est un bon combo de bonus pour le Sprint et le Mile. Elle utilisera des decks basiques à base de Speed et Wit
+
+- Ses gold skills sont :
+
+    - **Rising Dragon**, la gold version d’_Outer Swell_. C’est un gold de vélocité de Late Surger, qui s’active en Final Corner si elle double une autre uma et que l’uma qui est derrière elle soit plus proche de la barrière que l’utilisatrice. C’est un skill assez bon. En Sprint et Mile, il peut créer du carry-over.
+
+    - **Full of Vigor**, la gold version de _Pumped_. C’est un boost de vélocité pour le Mile, qui s’active aléatoirement en Final Corner si elle est dans le bottom 50% (≥5 en CM). C’est un skill qui est très similaire à Speed Star, juste spécifique au Mile et aux umas de la backline.
+    >Le skill a une chance de s'activer avec un timing permettant un carry over, ce qui le rend explosif en cas de succès (en cas d'échec, l'activation est gâchée par l'accélération). C’est un skill qui est gamble.
+
+-  Son unique est un très faible boost d’accélération de Final Corner qui devient plus puissant (le boost devient plus puissant et plus long) en doublant une uma. L’effet atteint sa puissance maximale après avoir doublé 3 umas. Son unique s’active à partir du Late-Race et du Final Corner si Bamboo Memory est dans le bottom 50% et qu’il y a une uma à moins de 1L devant elle.<br>
+Bien que l’activation de l’unique est bonne, il reste un mauvais unique. Le fait qu’elle doit dépasser des umas pour améliorer son unique est un problème. Elle sera toujours dépendante des autres skills ou uniques d’accélération. Son unique est surtout un boost d’accélération en plus mais ne sera pas plus important que ça.
+
+#### Pull ou pas ? :
+
+Seulement si elle est votre Oshi.
+ 
+Techniquement, le reste de son kit outre de son unique est assez bon. Mais l’unique joue toujours un point important du kit d’une uma et le sien est mauvais. En plus, sa compétition est assez rude en Sprint et Mile en tant que Late Surger.
+ 
+Ne pullez pas sur cette bannière, on se rapproche de 2 grosses bannières (1 uma et 1 support)
+
+:::
