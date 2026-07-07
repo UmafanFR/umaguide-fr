@@ -1,5 +1,5 @@
 ---
-title: Gacha - Mejiro McQueen (Summer) & Gold Ship (Summer) ★★★ // Maruzensky Speed SSR & Nakayama Festa Wit SSR
+title: Gacha - Bamboo Memory ★★★ // Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR (rerun)
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/052_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/053_Banners_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -75,135 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Mejiro McQueen (Summer) & Gold Ship (Summer) ★★★
+### Bannière Umamusume : Bamboo Memory ★★★
 
-![Image de présentation de la bannière Mejiro McQueen (Summer) & Gold Ship (Summer)](/public/assets/Gacha-reviews/2026/052_Uma-Banner.png)
-
-⏩ **Mejiro McQueen (Summer)** :
-
-_Mejiro McQueen (Summer) est une Pace Chaser pour le Long. Elle peut aussi courir parfaitement en Medium. Avec de l’inspiration, elle peut courir en tant que Front Runner et Late Surger (pour respectivement 1 :star: et 7 :star:). Elle possède un gold de vélocité pour le Long et un gold de recovery de Pace Chaser pour le Long. Son unique est un speed boost assez faible mais sa durée est liée à la quantité d’HP qu’elle possède. L’unique à une durée de base entre 5s et 20s, ce qui est impressionnant._
- 
-- Mejiro McQueen (Summer) possède 3 bonus de croissances : 8% en :speed:, 8% en :stamina: et 14% en :wit:. C’est un excellent combo de bonus pour une uma spécialisé en Long. Cela lui permet de soit jouer des decks Power et des parents Stamina ou inversement.
-
-- Ses gold skills sont :
-
-    - **Headliner**, la gold version de _Feature Act_. C’est un gold de vélocité pour le Long, s’activant aléatoirement dans la 2ème moitié du Mid-Race, si elle est dans le top 50%. C'est un skill equi est intéressant, avec une solide chance de carry-over.
-
-    - **Single-Minded**, la gold version de _Faultless_. C’est un super gold de recovery (une recovery de 7,5% d'HP) de Pace Chaser pour le Long. Le skill s’active dans la première partie du Mid-Race si Mejiro McQueen (Summer) n’a pas fait un Late Start. C’est un gold de recovery puissant que vous pouvez rendre complètement fiable si vous lui donnez le gold skill **Concentration**. <br>
-    Si elle ne possède pas **Concentration**, le skill perd un peu en fiabilité, surtout pour un skill aussi important que le skill de recovery principale pour le Long. Un late start reste quand même bien plus rare qu'un départ normale, le skill reste généralement très puissant et désirable à prendre. 
-
-- Son unique est un speed boost assez faible mais sa durée est liée à la quantité d’HP qu’elle possède. L’unique à une durée de base entre 5s et 20s, ce qui est impressionnant. Il s’active en seconde moitié de course si elle est dans le top 40%. <br>
-C’est un unique identique à Mejiro Bright (sauf sur la position de l’activation). Cependant, cet unique est moins bon que celui de Mejiro Bright dû à la différence de stratégie entre les 2 umas. En tant qu’End Closer, l’unique de Mejiro Bright aura une meilleure valeur que celui de Mejiro McQueen en tant que Pace Chaser. Ceci est dû au différent coefficient de base Target Speed pour les différentes stratégies.
-Bien qu'il soit moins fort, cela ne veut pas dire qu'il est mauvais car il lui permet de faire des choses intéressantes pour une Pace Chaser. Son unique lui permet de rester proche des Fronts pour activer NSM, voir de les dépasser pour activer elle-même les uniques de Kitasan Black et Seiun Sky (Ballroom). Cela reste un unique sympa.
- 
-::: info Durée maximale
- 
-Sur une course de 3 200m, le skill peut avoir une durée de 64s au maximum, bien que cela soit dur à atteindre pour l'instant.
- 
-:::
-
-
-⏩ **Gold Ship (Summer)** :
-
-_Gold Ship (Summer) est une End Closer pour le Medium et le Long. Avec de l’inspiration, elle peut courir en tant que Pace Chaser et Late Surger mais aussi courir en Mile (pour respectivement 1 :star:,1 :star: et 4 :star:). Elle possède un gold de vélocité pour le Long et un gold de vélocité pour le Medium. Son unique est spécial. Aléatoirement en deuxième partie de course, l’unique lui donne un faible boost de vélocité et lui permet de lancer 2 gold skill qu’elle possède (plus d'explications dans la partie pour l’unique)._
- 
-- Gold Ship (Summer) possède 2 bonus de croissances : 20% en :power: et 10% en :wit:. C’est un bon combo de bonus, utile sur toutes les distances. Ses decks utiliseront généralement Super Creek :stamina: dedans pour son gold skill Swinging Maestro et pour bien monter sa Stamina. Le reste des cartes seront généralement des cartes Speed et Wit.
-
-- Ses gold skills sont :
-
-    - **Innate Experience**, la gold version d'_Inside Scoop_. C'est un gold de vélocité pour le Long, s'activant pendant le final corner si on est proche de la barrière. De manière contre-intuitive, l'activation est plus fiable qu'il n'y paraît, et il n'est pas nécessaire d'être collé à la barrière pour l'activer.
-
-    - **Elated**, la gold version d’_Eager_. C’est un gold de vélocité pour le Medium, qui s’active aléatoirement en Mid-Race si elle est dans le bottom 50%.
-    >L’une de ses évolutions lui permet d’utiliser ce skill dans les courses Long.
-
-- Son unique est spécial. Aléatoirement en deuxième partie de course, l’unique lui donne un faible boost de vélocité et lui permet de lancer 2 gold skill qu’elle possède.
- 
-:::: warning Plus de détails sur les gold skills que l’unique peut activer
- 
-La description du skill dans le jeu et sur Gametora n’est pas correcte, et possède une règle importante non mentionnée qui rend l’unique bien moins fort qu’il le semble. L’unique permet de lancer seulement des gold skills que Gold Ship (Summer) à raté avec un Wit Check ou qu’elle ne peut pas lancer dû aux conditions d’activation. L’unique ne peut pas activer des gold skills qui ont réussi à être lancer. Cela veut dire que l’unique vous force à prendre des skills que Gold Ship (Summer) ne peut pas lancer pour que l’unique est de l’utilité.
-Elle peut aussi activer les gold skills qu'elle peu activer plus tard dans la course.
- 
-::: tip En tant qu’unique à hérité
- 
-La raison de pourquoi l’unique est vendu comme puissant, est qu’il permet d’utiliser des gold skills puissants sur des courses où ils ne peuvent s’activer. Le meilleur exemple est le gold skill Dominator, un debuff de Current Speed qui touche toutes les umas devant l’utilisateur. Cela permet aux Uma Debuffeuse d’être utiles sur toutes les courses.
-Ce n’est cependant pas un bon unique pour une Ace.
- 
-:::
-
-::::
-
-#### Pull ou pas ? :
-
-A moins que l’une d’entre elles soit une de vos oshi, non.
- 
-Mejiro McQueen (Summer) est une spécialiste pour les courses Long. Sur les autres distances, sa version OG reste plus forte qu'elle. Mais son kit est excellent pour le Long. Un super gold heal, un gold skill et unique qui créer du carry-over est lui permet de ne pas trop se faire dominer par les Fronts. Elle possède aussi Playtime's Over ! dans son kit de base, ce qui la rends meilleur que ça version OG dans sa spécialisation. C'est un bon alt spécialiste.
- 
-Gold Ship (Summer), tout comme pour Mejiro McQueen est au mieux aussi puissant que sa version OG. Elle possède de l’utilité en tant que parent pour debuffeuse, mais c’est tout. C’est une niche très faible. C’est aussi une mauvaise alt.
- 
-Ne pullez pas sur cette bannière.
-
----
-
-### Bannière support : Maruzensky Speed SSR & Nakayama Festa Wit SSR
-
-![Image de présentation de la bannière Maruzensky Speed SSR & Nakayama Festa Wit SSR](/public/assets/Gacha-reviews/2026/052_Card-Banner.png)
-
-⏩**Maruzensky** :speed: :SSR:
-
-- La carte a une croissance équilibrée. A 1 LB, elle débloque Power Bonus puis Mood Effect à 3LB.
-
-- Son Unique Effect lui donne 5 de Training Effectiveness pour chaque niveau de la faculté où elle se trouve. C’est un Unique Effect puissant.
-
-- Ses rainbows sont très bons grâce à ses Friendship Bonus et Special Priority correct, son combo de Speed et Power Bonus mais surtout son Unique Effect. Son cross-training est pour l’instant le meilleur du jeu juste avec son Unique Effect, et qui devient meilleur avec son Mood Effect. Elle possède aussi un faible Race Bonus.
-
-- Elle propose une liste de 10 hints❗, principalement pour Front Runner et tous bon ou excellent. _Playtime’s Over_ et _Slipstream_ sortent du lot, ce sont d »excellent skills pour toutes les stratégies. Elle possède le combo de Hint Level et Hint Frequency. Ses hints seront puissants et assez fréquents.
-
-- Son gold skill est **Top Runner**, la gold version de _Leader’s Pride_. C’est un gold de vélocité pour Front Runner, s’activant en Early-Race ou Mid-Race si l’uma a été dépassé une fois ou qu’elle a été bloquée sur un côté pendant 2 secondes. C’est un très bon gold skill pour les Front Runner pour prendre la pole position
-
-⏩**Nakayama Festa** :wit: :ssr:
-
-- La carte est backloaded pour son Training Effectiveness. A 1LB, elle débloque Skill Point Bonus puis Race Bonus et Fan Bonus à 3LB.
-
-- Son Unique Effect lui donne 20% de chance d’empêcher de rater l'entraînement où elle se trouve et dont vous verrez s'il c'est activé ou non. C’est un effet qui est techniquement sympa, mais beaucoup trop random à mon goût et surtout qui ne peut avoir d'effet que sur les entraînements avec une chance de rater. Autrement l’Unique Effect ne sert à rien.<br>
-Son Unique Effect n’est pas assez puissant pour combler son manque de Special Priority, pas comme celui de Sakura Bakushin O Guts SSR qui lui est vraiment bon (cette dernière est surtout freinée par le fait qu’elle soit une carte Guts et non Wit comme Nakayama Festa SSR).
-
-- Ses rainbows sont faibles avec son faible Friendship Bonus et son Wit Bonus, à cause de son manque de Special Priority. Son cross-training est bon avec son Unique Effect s’il procc, son Skill Point Bonus, son bon Training Effectiveness et son très bon Mood Effect. Elle possède un bon Race Bonus à MLB.
-
-- Elle propose une liste de 12 hints❗, dont de très bons hints comme _Uma Stan_, _All I’ve Got_ et _Nimble Navigator_. Elle possède le combo Hint Levels et Hint Frequency à un très bon niveau. Ses hints seront très puissants et fréquents.
-
-- Son gold skill est **Nothing Ventured**, la gold version de _Risky Business_. C’est un gold de vélocité puissant qui s’active aléatoirement dans la seconde moitié de course. Le skill peut aléatoirement consommer une partie des HP de l’uma qui l’utilise.
- 
-::: info Consommation de Stamina de Nothing Ventured
- 
-Le skill à 60% de chance de ne pas consommer d’HP, 30% de chance de consommer 2% d’HP et 10% de consommer 4% d’HP. Malgré le potentiel malus, le skill reste puissant. Pour rappel, un gold recovery restaure 5,5% d'HP
-
-:::
-
-#### PULL OU PAS
-
-Oui, c’est une bonne bannière juste pour Maruzensky Speed SSR.
- 
-Maruzensky Speed SSR est une carte speed du même acabit que Kitasan Black, voir meilleure. Elle devient la carte Speed principale ou secondaire de votre deck dans les futurs scénarios jusqu’à ce qu’elle se fasse power creep. La carte est tellement puissante, bien qu’elle soit spécialisée pour les Front Runner, qu'elle sera utilisée par les autres stratégies jusqu’à ce qu’elles obtiennent une carte spécialisée de son niveau. Un autre point positif de Maruzensky Speed SSR est le nombre de LB nécessaire. Dès 1LB, Maruzensky est utilisable et elle obtient son plein potentiel à 3LB. La différence entre 3LB et 4LB est minime. C’est une carte qui à une croissance similaire à Fine Motion Wit SSR pour mieux visualiser.
- 
-Nakayama Festa Wit SSR est une carte bizarre. Son Unique Effect est un peu plus utilisable grâce au fait qu’elle ne possède pas de Special Priority, mais cela veut aussi dire que la carte est généralement moins puissante que les autres top tier Wit SSR. Le reste de son kit est bon, mais il est nécessaire de la monter à au moins 3LB, voire MLB, pour maximiser la puissance des bonus importants.
-
-Si je ne devais prendre que mon avis, je dirais que la carte est moyenne, car bien que le reste de ses bonus, gold skill et hints sont bons, son Unique Effect ne comble pas son manque de Special Priority. Le fait qu'elle soit une carte gamble fait que je ne peux pas la conseiller comme une bonne carte. Mais si vous aimez le gamble, Nakayama Festa Wit SSR est une carte plus qu'intéressante.
- 
-::: tip Alternatives de pull pour Maruzensky Speed SSR
- 
-Il est possible de skip cette bannière. La raison est que Maruzensky Speed SSR est bonne dès LB1 et qu’on approche de la bannière importante pour le prochain scénario. Il est donc possible de skip cette bannière et de prendre Maruzensky Speed SSR avec le ticket SSR que l’on recevra pour le 1,5 Anniversary et de lui compléter au moins un LB avec un de vos cristaux SSR. Si vous avez peu de carat, ou que vous ne mettez pas d’argent dans le jeu, c’est généralement la meilleure chose à faire.
-
-Une autre alternative est d'atteindre le rerun avec Fine Motion Wit SSR pour pull. Les 2 cartes sont très bonnes et resteront fortes (bien que Fine Motion Wit SSR sera powercreep à Grand Master)
-
-:::
-
----
-
-# Bannières à suivre (08 Juillet 00h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/053_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Bamboo Memory ★★★
+![Image de présentation de la bannière Bamboo Memory](/public/assets/Gacha-reviews/2026/053_Uma-Banner.png)
 
 ⏩ **Bamboo Memory** :
 
@@ -229,7 +103,11 @@ Techniquement, le reste de son kit outre de son unique est assez bon. Mais l’u
  
 Ne pullez pas sur cette bannière, on se rapproche de 2 grosses bannières (1 uma et 1 support)
 
-### Bannière Support à suivre : Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR
+---
+
+### Bannière support : Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR (rerun)
+
+![Image de présentation de la bannière Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR (rerun](/public/assets/Gacha-reviews/2026/053_Card-Banner.png)
 
 ⏩**Yukino Bijin** :wit: :SSR:
 
@@ -250,6 +128,81 @@ Ikuno Dictus Guts SSR était potentiellement utilisable sur Trackblazer pour son
 Yukino Bijin Wit SSR n’est utile que pour son gold skill **No Stopping Me !** Cependant, autre son gold skill, la carte est vraiment mauvaise et il est mieux de l’emprunter que de pull pour elle, si vous voulez NSM.
 
 Ne pullez pas sur cette bannière.
+
+---
+
+# Bannières à suivre (17 Juillet 00h)  
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/054_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Copano Rickley ★★★
+
+⏩ **Copano Rickley** :
+
+_Copano Rickley est une uma Dirt pour les distances Mile et Medium. Elle peut soit courir en tant que Front Runner ou en tant que Pace Chaser en fonction de votre préférence. Avec de l’inspiration elle peut courir en Sprint et en tant que Late Surger (respectivement 4 étoiles pour les 2). Elle possède un gold de vélocité pour Dirt et un gold green de Speed pour le Dirt. Son unique est premièrement un boost aléatoire de vélocité, avec un second boost hybride de vélocité et d’accélération de 2ème moitié de Mid-Race. Le boost hybride est dépendant de son nombre de green skills qu’elle possède._
+ 
+- Copano Rickey possède 2 bonus de croissances : 10% en :power: et 20% en :wit:. C’est un bon combo de bonus pour le Mile. Pour les courses Medium, elle aura besoin de soit prendre une carte Stamina ou de bon parents Stamina. Il est aussi possible de prendre des greens skills Stamina et Guts pour compléter ses HPs et améliorer la puissance de son unique.
+
+- Ses gold skills sont :
+
+    - **Victory Opportunity**, la gold version de _Promising Omen_. C’est un gold de vélocité pour le Dirt, s’activant aléatoirement dans la deuxième partie du Mid-Race si elle est dans le top 50%. Le skill peut faire du carry-over, ce qui le rend sympa.
+
+    - **Outstanding Step**, la gold version _Skillfull Step_. C’est un gold green de Speed pour le Dirt. A partir de 1000 Power, Copano Rickley recevra un boost de 60 Speed. Si elle a 1200 Power ou plus, le boost sera de 80. Avec l'arrivée de Grand Live, et du changement de stats caps, les skills greens deviendront bien plus puissants si le boost s’ajoute à une stat égale ou supérieure à 1200. (Les nouvelles versions des scénarios URA Finales et Unity Cup, mais aussi le nouveau stat caps de Trackblazer, les greens skills sont déjà bien plus puissant.)
+
+- Dans les scénarios autres que Trackblazer, il est intéressant de faire 2 courses Dirt en plus que ses objectifs pour recevoir 25 de stats en Speed, Power et Wit ; 30 skills points et des hints pour Top Pick et Forward, March !
+
+- Elle possède un évènement aléatoire qui lui donne le malus **Ominous Portent**. Ce malus fait qu’elle a plus de mal à gagner des courses. Ce malus est soignable.
+
+- Son unique est premièrement un boost aléatoire de vélocité, avec un second boost hybride de vélocité et d’accélération de 2ème moitié de Mid-Race. Le boost hybride est dépendant de son nombre de green skills qu’elle possède.<br>
+C’est un unique qui peut créer du carry-over, tout en profitant du boost d’accélération directement dans la phase d’accélération. Le fait que le boost hybride s’améliore en fonction du nombre de greens skills est vraiment puissant avec le changement de stats caps, et l’amélioration de la puissance des greens skills. Ce skill unique est la principale raison de sa toute puissance et le fait qu’elle est la META pour les courses Dirt.
+
+#### Pull ou pas ? :
+
+Oui, Copano Rickley est une uma extrêmement META.
+ 
+Tout dans son kit est bon, et elle n’est que très peu restreinte en fonction de la stratégie, seulement par le fait de courir sur DIrt. Seul son gold skill Victory Opportunity peut la restreindre pour l’une des 2 stratégies qu’elle peut courir parfaitement de base.
+ 
+Au moment de sa sortie, la jouer en tant que Front Runner sera sa meilleure stratégie, mais des cartes bonnes pour les Pace Chaser commenceront à sortir pendant Grand Live et Grand Master.
+ 
+Son principal défaut est qu’elle va demander plus de skills points que les autres umas pour prendre le plus de green skills possible pour son unique. Son second défaut est aussi l’une de ses forces. Vous aurez besoin de posséder quasiment toutes les cartes qui lui donneront les outils nécessaires pour la stratégie que vous voulez, Copano Rickley court en. Ne pas posséder les outils de la stratégie qu'elle veut courir en rends une uma toujours un plus difficile à faire. Mais  cela veut aussi dire qu'elle a plus d'outils dans la finalité. Une uma plus dure à faire mais qui a un meilleur plafond de puissance.
+ 
+Copano Rickley est aussi META en Dirt que l’est Oguri Cap (Christmas) en Medium. C’est une bonne uma à pull.
+
+### Bannière Support à suivre : Manhattan Cafe Stamina SSR & Seiun Sky Wit SR
+
+⏩**Manhattan Cafe** :stamina: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus puis Guts Bonus à 3LB.
+
+- Son Unique Effect lui donne 2 Stamina Bonus à partir de 80 de bond jauge(orange).
+
+- Ses rainbows sont vraiment bons avec son Friendship Bonus correct, son combo de 2 Stamina Bonus et 2 Guts, malgré un Special Priority plutôt faible. Son cross-training est bon avec son bon Training Effectiveness, son Skill Point Bonus et son combo de Stats Bonus. Elle possède aussi un faible Race Bonus.
+
+- Elle propose une liste de 7 hints❗, dont seuls _Long Straightaways_ et _Long Corners_ sortent du lot. Elle possède Hint Level et Hint Frequency, mais les 2 sont faibles. Ses hints restent peu intéressant
+
+- Son gold skill est **Of Calm Mind**, la gold version de _Free-Spririted_. C’est un super gold heal (7,5% HP) pour le Long qui réduit aussi la Current Speed. Il s’active dans la première moitié du Mid-Race si l’uma est entre le top 40% et le top 80% (4e / ≤ 7e en CM). La baisse de Current Speed en première partie de Mid-Race n’est pas un problème pour une End Closer, mais est dérangeante pour les autres stratégies. A donner surtout pour les End Closers.
+
+- Ses évènements redonnent beaucoup d’énergies
+
+⏩**Seiun Sky** :wit: :sr:
+
+- La carte est backloaded. A 1LB, elle débloque le combo de Hint Level et Hint Frequency puis Skill Point Bonus à MLB.
+
+- Son Unique Effect lui donne du Training Effectiveness et du Race Bonus.
+
+- Ses rainbows sont faibles bien qu’elle possède un Special Priority correct dû à son faible Friendship Bonus et l’absence de Wit Bonus. Son cross-training bon avec son bon Training Effectiveness, son bon Mood Effect et son Skill Point Bonus.
+
+- Elle propose une liste de 6 hints❗, dont les bons _Fast-Paced_, _Groundwork_ et _Early Lead_. Elle possède le combo de Hint Level et Frequency. Ses hints seront puissants.
+
+- Son dernier Chain Event lui donne soit 15 en Speed et Stamina, soit _Second Wind_.
+
+#### PULL OU PAS
+
+Non.
+ 
+Les 2 cartes sont moyennes tout au mieux. Manhattan Cafe Stamina SSR (C'est la seconde Manhattan Cafe Stamina SSR, à ne pas confondre) est trop spécialisé pour les End Closers en Long avec son gold, tout en étant moins bonne que Super Creek Stamina SSR qui est sa compétition directe. Seiun Sky Wit SR ne sort pas du lot des cartes Wit que l’on possède déjà.
+ 
+Ne pullez pas sur cette bannière, la prochaine bannière est la bannière pour le prochain scénario.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
