@@ -178,7 +178,7 @@ Même des années plus tard, Copano Rickley reste dans la meta des CM Dirt. Elle
 
 ⏩**Manhattan Cafe** :stamina: :SSR:
 
-::: warning 
+::: warning Attention à la confusion
 
 Oui, c'est bien la deuxième carte Stamina SSR pour Manhattan Cafe. Pour la différencier, je vais l'appeler Cafe (Barista) dû à l'art de la carte. Faites attention à ne pas vous tromper.
 
