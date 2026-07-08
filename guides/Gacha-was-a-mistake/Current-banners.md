@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/053_Banners_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/053_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -139,7 +139,7 @@ Ne pullez pas sur cette bannière.
 
 ⏩ **Copano Rickley** :
 
-_Copano Rickley est une uma Dirt pour les distances Mile et Medium. Elle peut soit courir en tant que Front Runner ou en tant que Pace Chaser en fonction de votre préférence. Avec de l’inspiration elle peut courir en Sprint et en tant que Late Surger (respectivement 4 étoiles pour les 2). Elle possède un gold de vélocité pour Dirt et un gold green de Speed pour le Dirt. Son unique est premièrement un boost aléatoire de vélocité, avec un second boost hybride de vélocité et d’accélération de 2ème moitié de Mid-Race. Le boost hybride est dépendant de son nombre de green skills qu’elle possède._
+_Copano Rickley est une uma Dirt pour les distances Mile et Medium. Elle peut soit courir en tant que Front Runner ou en tant que Pace Chaser en fonction de votre préférence. Avec de l’inspiration elle peut courir en Sprint et en tant que Late Surger (respectivement 4 étoiles pour les 2). Elle possède un gold de vélocité pour Dirt et un gold green de Speed pour le Dirt. Son unique est premièrement un boost aléatoire de vélocité, avec un second boost hybride de vélocité et d’accélération de 2ème moitié de Mid-Race. Le boost hybride est dépendant du nombre de green skills qu’elle active._
  
 - Copano Rickey possède 2 bonus de croissances : 10% en :power: et 20% en :wit:. C’est un bon combo de bonus pour le Mile. Pour les courses Medium, elle aura besoin de soit prendre une carte Stamina ou de bon parents Stamina. Il est aussi possible de prendre des greens skills Stamina et Guts pour compléter ses HPs et améliorer la puissance de son unique.
 
@@ -160,29 +160,42 @@ C’est un unique qui peut créer du carry-over, tout en profitant du boost d’
 
 Oui, Copano Rickley est une uma extrêmement META.
  
-Tout dans son kit est bon, et elle n’est que très peu restreinte en fonction de la stratégie, seulement par le fait de courir sur DIrt. Seul son gold skill Victory Opportunity peut la restreindre pour l’une des 2 stratégies qu’elle peut courir parfaitement de base.
+Tout dans son kit est bon, et elle n’est que très peu restreinte en fonction de la stratégie, seulement par le fait de courir sur Dirt. Seul son gold skill Victory Opportunity peut la restreindre pour l’une des 2 stratégies qu’elle peut courir parfaitement de base.
  
 Au moment de sa sortie, la jouer en tant que Front Runner sera sa meilleure stratégie, mais des cartes bonnes pour les Pace Chaser commenceront à sortir pendant Grand Live et Grand Master.
  
-Son principal défaut est qu’elle va demander plus de skills points que les autres umas pour prendre le plus de green skills possible pour son unique. Son second défaut est aussi l’une de ses forces. Vous aurez besoin de posséder quasiment toutes les cartes qui lui donneront les outils nécessaires pour la stratégie que vous voulez, Copano Rickley court en. Ne pas posséder les outils de la stratégie qu'elle veut courir en rends une uma toujours un plus difficile à faire. Mais  cela veut aussi dire qu'elle a plus d'outils dans la finalité. Une uma plus dure à faire mais qui a un meilleur plafond de puissance.
+Son principal défaut est qu’elle va demander plus de skills points que les autres umas pour prendre le plus de green skills possible pour son unique. Son second défaut est aussi l’une de ses forces. Vous aurez besoin de posséder quasiment toutes les cartes qui lui donneront les outils nécessaires pour la stratégie que vous voulez utilisez pour Copano Rickley. Ne pas avoir les outils adéquats pour la stratégie choisie vous compliquera la tâche pour la build correctement. Mais  cela veut aussi dire qu'elle a plus d'outils dans la finalité. Une uma plus dure à faire mais qui a un meilleur plafond de puissance.
  
 Copano Rickley est aussi META en Dirt que l’est Oguri Cap (Christmas) en Medium. C’est une bonne uma à pull.
+
+::: info META, mais jusqu'à quand ?
+
+Même des années plus tard, Copano Rickley reste dans la meta des CM Dirt. Elle n'est plus l'uma META, mais elle reste dans le top du top. C'est pour vous dire à quel point elle est puissante.
+
+:::
 
 ### Bannière Support à suivre : Manhattan Cafe Stamina SSR & Seiun Sky Wit SR
 
 ⏩**Manhattan Cafe** :stamina: :SSR:
 
-- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus puis Guts Bonus à 3LB.
+::: warning 
+
+Oui, c'est bien la deuxième carte Stamina SSR pour Manhattan Cafe. Pour la différencier, je vais l'appeler Cafe (Barista) dû à l'art de la carte. Faites attention à ne pas vous tromper.
+
+:::
+
+- La carte est relativement backloaded. A 1LB, elle débloque Skill Point Bonus puis Guts Bonus à 3LB.
 
 - Son Unique Effect lui donne 2 Stamina Bonus à partir de 80 de bond jauge(orange).
 
 - Ses rainbows sont vraiment bons avec son Friendship Bonus correct, son combo de 2 Stamina Bonus et 2 Guts, malgré un Special Priority plutôt faible. Son cross-training est bon avec son bon Training Effectiveness, son Skill Point Bonus et son combo de Stats Bonus. Elle possède aussi un faible Race Bonus.
 
-- Elle propose une liste de 7 hints❗, dont seuls _Long Straightaways_ et _Long Corners_ sortent du lot. Elle possède Hint Level et Hint Frequency, mais les 2 sont faibles. Ses hints restent peu intéressant
+- Elle propose une liste de 7 hints❗, dont seuls _Long Straightaways_ et _Long Corners_ sortent du lot. Elle possède Hint Level et Hint Frequency, mais les 2 sont faibles. Ses hints restent peu intéressant.
 
 - Son gold skill est **Of Calm Mind**, la gold version de _Free-Spririted_. C’est un super gold heal (7,5% HP) pour le Long qui réduit aussi la Current Speed. Il s’active dans la première moitié du Mid-Race si l’uma est entre le top 40% et le top 80% (4e / ≤ 7e en CM). La baisse de Current Speed en première partie de Mid-Race n’est pas un problème pour une End Closer, mais est dérangeante pour les autres stratégies. A donner surtout pour les End Closers.
+>La baisse de Current Speed est de la puissance d'un white skill de vélocité, avec une durée faible de 1,2s de base (Un white skill de vélocité varie entre 2,4s et 4s de base dans la majorité des cas).
 
-- Ses évènements redonnent beaucoup d’énergies
+- Ses évènements redonnent beaucoup d’énergie.
 
 ⏩**Seiun Sky** :wit: :sr:
 
@@ -200,7 +213,8 @@ Copano Rickley est aussi META en Dirt que l’est Oguri Cap (Christmas) en Mediu
 
 Non.
  
-Les 2 cartes sont moyennes tout au mieux. Manhattan Cafe Stamina SSR (C'est la seconde Manhattan Cafe Stamina SSR, à ne pas confondre) est trop spécialisé pour les End Closers en Long avec son gold, tout en étant moins bonne que Super Creek Stamina SSR qui est sa compétition directe. Seiun Sky Wit SR ne sort pas du lot des cartes Wit que l’on possède déjà.
+Les 2 cartes sont moyennes tout au mieux. Manhattan Cafe (Barista) Stamina SSR est trop spécialisé pour les End Closers en Long avec son gold. En tant que stats stick, elle donne un poil moins de Stamina pour plus de Guts et de Skill Points. Si vous avez besoin d'une carte Stamina, mais pas besoin de gold skill de recovery, Manhattan Cafe (Barista) est généralement une meilleure carte à emprunter que Super Creek. <br>
+Seiun Sky Wit SR ne sort pas du lot des cartes Wit que l’on possède déjà.
  
 Ne pullez pas sur cette bannière, la prochaine bannière est la bannière pour le prochain scénario.
 
