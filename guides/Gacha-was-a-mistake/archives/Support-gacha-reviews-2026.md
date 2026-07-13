@@ -1137,3 +1137,53 @@ Yukino Bijin Wit SSR n’est utile que pour son gold skill **No Stopping Me !** 
 Ne pullez pas sur cette bannière.
 
 :::
+
+## #54 - Manhattan Cafe Stamina SSR & Seiun Sky Wit SR
+
+<!-- ![Image de présentation de la bannière Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR (rerun](/public/assets/Gacha-reviews/2026/053_Card-Banner.png) -->
+
+:::: details REVIEW
+
+⏩**Manhattan Cafe** :stamina: :SSR:
+
+::: warning Attention à la confusion
+
+Oui, c'est bien la deuxième carte Stamina SSR pour Manhattan Cafe. Pour la différencier, je vais l'appeler Cafe (Barista) dû à l'art de la carte. Faites attention à ne pas vous tromper.
+
+:::
+
+- La carte est relativement backloaded. A 1LB, elle débloque Skill Point Bonus puis Guts Bonus à 3LB.
+
+- Son Unique Effect lui donne 2 Stamina Bonus à partir de 80 de bond jauge(orange).
+
+- Ses rainbows sont vraiment bons avec son Friendship Bonus correct, son combo de 2 Stamina Bonus et 2 Guts, malgré un Special Priority plutôt faible. Son cross-training est bon avec son bon Training Effectiveness, son Skill Point Bonus et son combo de Stats Bonus. Elle possède aussi un faible Race Bonus.
+
+- Elle propose une liste de 7 hints❗, dont seuls _Long Straightaways_ et _Long Corners_ sortent du lot. Elle possède Hint Level et Hint Frequency, mais les 2 sont faibles. Ses hints restent peu intéressant.
+
+- Son gold skill est **Of Calm Mind**, la gold version de _Free-Spririted_. C’est un super gold heal (7,5% HP) pour le Long qui réduit aussi la Current Speed. Il s’active dans la première moitié du Mid-Race si l’uma est entre le top 40% et le top 80% (4e / ≤ 7e en CM). La baisse de Current Speed en première partie de Mid-Race n’est pas un problème pour une End Closer, mais est dérangeante pour les autres stratégies. A donner surtout pour les End Closers.
+>La baisse de Current Speed est de la puissance d'un white skill de vélocité, avec une durée faible de 1,2s de base (Un white skill de vélocité varie entre 2,4s et 4s de base dans la majorité des cas).
+
+- Ses évènements redonnent beaucoup d’énergie.
+
+⏩**Seiun Sky** :wit: :sr:
+
+- La carte est backloaded. A 1LB, elle débloque le combo de Hint Level et Hint Frequency puis Skill Point Bonus à MLB.
+
+- Son Unique Effect lui donne du Training Effectiveness et du Race Bonus.
+
+- Ses rainbows sont faibles bien qu’elle possède un Special Priority correct dû à son faible Friendship Bonus et l’absence de Wit Bonus. Son cross-training bon avec son bon Training Effectiveness, son bon Mood Effect et son Skill Point Bonus.
+
+- Elle propose une liste de 6 hints❗, dont les bons _Fast-Paced_, _Groundwork_ et _Early Lead_. Elle possède le combo de Hint Level et Frequency. Ses hints seront puissants.
+
+- Son dernier Chain Event lui donne soit 15 en Speed et Stamina, soit _Second Wind_.
+
+#### PULL OU PAS
+
+Non.
+ 
+Les 2 cartes sont moyennes tout au mieux. Manhattan Cafe (Barista) Stamina SSR est trop spécialisé pour les End Closers en Long avec son gold. En tant que stats stick, elle donne un poil moins de Stamina pour plus de Guts et de Skill Points. Si vous avez besoin d'une carte Stamina, mais pas besoin de gold skill de recovery, Manhattan Cafe (Barista) est généralement une meilleure carte à emprunter que Super Creek. <br>
+Seiun Sky Wit SR ne sort pas du lot des cartes Wit que l’on possède déjà.
+ 
+Ne pullez pas sur cette bannière, la prochaine bannière est la bannière pour le prochain scénario.
+
+::::

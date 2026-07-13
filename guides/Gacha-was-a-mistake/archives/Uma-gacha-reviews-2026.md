@@ -1184,3 +1184,48 @@ Techniquement, le reste de son kit outre de son unique est assez bon. Mais l’u
 Ne pullez pas sur cette bannière, on se rapproche de 2 grosses bannières (1 uma et 1 support)
 
 :::
+
+## #54 - Copano Rickley ★★★
+
+<!-- ![Image de présentation de la bannière Copano Rickley](/public/assets/Gacha-reviews/2026/053_Uma-Banner.png) -->
+
+:::: details REVIEW
+
+⏩ **Copano Rickley** :
+
+_Copano Rickley est une uma Dirt pour les distances Mile et Medium. Elle peut soit courir en tant que Front Runner ou en tant que Pace Chaser en fonction de votre préférence. Avec de l’inspiration elle peut courir en Sprint et en tant que Late Surger (respectivement 4 étoiles pour les 2). Elle possède un gold de vélocité pour Dirt et un gold green de Speed pour le Dirt. Son unique est premièrement un boost aléatoire de vélocité, avec un second boost hybride de vélocité et d’accélération de 2ème moitié de Mid-Race. Le boost hybride est dépendant du nombre de green skills qu’elle active._
+ 
+- Copano Rickey possède 2 bonus de croissances : 10% en :power: et 20% en :wit:. C’est un bon combo de bonus pour le Mile. Pour les courses Medium, elle aura besoin de soit prendre une carte Stamina ou de bon parents Stamina. Il est aussi possible de prendre des greens skills Stamina et Guts pour compléter ses HPs et améliorer la puissance de son unique.
+
+- Ses gold skills sont :
+
+    - **Victory Opportunity**, la gold version de _Promising Omen_. C’est un gold de vélocité pour le Dirt, s’activant aléatoirement dans la deuxième partie du Mid-Race si elle est dans le top 50%. Le skill peut faire du carry-over, ce qui le rend sympa.
+
+    - **Outstanding Step**, la gold version _Skillfull Step_. C’est un gold green de Speed pour le Dirt. A partir de 1000 Power, Copano Rickley recevra un boost de 60 Speed. Si elle a 1200 Power ou plus, le boost sera de 80. Avec l'arrivée de Grand Live, et du changement de stats caps, les skills greens deviendront bien plus puissants si le boost s’ajoute à une stat égale ou supérieure à 1200. (Les nouvelles versions des scénarios URA Finales et Unity Cup, mais aussi le nouveau stat caps de Trackblazer, les greens skills sont déjà bien plus puissant.)
+
+- Dans les scénarios autres que Trackblazer, il est intéressant de faire 2 courses Dirt en plus que ses objectifs pour recevoir 25 de stats en Speed, Power et Wit ; 30 skills points et des hints pour Top Pick et Forward, March !
+
+- Elle possède un évènement aléatoire qui lui donne le malus **Ominous Portent**. Ce malus fait qu’elle a plus de mal à gagner des courses. Ce malus est soignable.
+
+- Son unique est premièrement un boost aléatoire de vélocité, avec un second boost hybride de vélocité et d’accélération de 2ème moitié de Mid-Race. Le boost hybride est dépendant de son nombre de green skills qu’elle possède.<br>
+C’est un unique qui peut créer du carry-over, tout en profitant du boost d’accélération directement dans la phase d’accélération. Le fait que le boost hybride s’améliore en fonction du nombre de greens skills est vraiment puissant avec le changement de stats caps, et l’amélioration de la puissance des greens skills. Ce skill unique est la principale raison de sa toute puissance et le fait qu’elle est la META pour les courses Dirt.
+
+#### Pull ou pas ? :
+
+Oui, Copano Rickley est une uma extrêmement META.
+ 
+Tout dans son kit est bon, et elle n’est que très peu restreinte en fonction de la stratégie, seulement par le fait de courir sur Dirt. Seul son gold skill Victory Opportunity peut la restreindre pour l’une des 2 stratégies qu’elle peut courir parfaitement de base.
+ 
+Au moment de sa sortie, la jouer en tant que Front Runner sera sa meilleure stratégie, mais des cartes bonnes pour les Pace Chaser commenceront à sortir pendant Grand Live et Grand Master.
+ 
+Son principal défaut est qu’elle va demander plus de skills points que les autres umas pour prendre le plus de green skills possible pour son unique. Son second défaut est aussi l’une de ses forces. Vous aurez besoin de posséder quasiment toutes les cartes qui lui donneront les outils nécessaires pour la stratégie que vous voulez utilisez pour Copano Rickley. Ne pas avoir les outils adéquats pour la stratégie choisie vous compliquera la tâche pour la build correctement. Mais  cela veut aussi dire qu'elle a plus d'outils dans la finalité. Une uma plus dure à faire mais qui a un meilleur plafond de puissance.
+ 
+Copano Rickley est aussi META en Dirt que l’est Oguri Cap (Christmas) en Medium. C’est une bonne uma à pull.
+
+::: info META, mais jusqu'à quand ?
+
+Même des années plus tard, Copano Rickley reste dans la meta des CM Dirt. Elle n'est plus l'uma META, mais elle reste dans le top du top. C'est pour vous dire à quel point elle est puissante.
+
+:::
+
+::::
