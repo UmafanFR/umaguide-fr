@@ -1,5 +1,5 @@
 ---
-title: Gacha - Bamboo Memory ★★★ // Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR (rerun)
+title: Gacha - Copano Rickley ★★★ // Manhattan Cafe Stamina SSR & Seiun Sky Wit SR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/053_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/054_Banners_early_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +1h._
 
@@ -75,67 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Bamboo Memory ★★★
+### Bannière Umamusume : Copano Rickley ★★★
 
-![Image de présentation de la bannière Bamboo Memory](/public/assets/Gacha-reviews/2026/053_Uma-Banner.png)
-
-⏩ **Bamboo Memory** :
-
-_Bamboo Memory est une Late Surger pour le Sprint et le Mile. Avec de l’’inspiration, elle peut courir en Medium, en tant qu’End Closer, mais surtout courir sur les courses Dirt (pour respectivement 4 étoiles, 4 étoiles et 7 étoiles). Elle possède un gold de vélocité de Late Surger et un gold de vélocité pour le Mile. Son unique est un très faible boost d’accélération de Final Corner qui devient plus puissant (le boost devient plus puissant et dure plus longtemps) en doublant une uma. L’effet atteint sa puissance maximale après avoir doublé 3 umas._
-
-- Bamboo Memory possède 3 bonus de croissances : 10% en :speed:, 10% en :power: et 10% en :guts:. C’est un bon combo de bonus pour le Sprint et le Mile. Elle utilisera des decks basiques à base de Speed et Wit
-
-- Ses gold skills sont :
-
-    - **Rising Dragon**, la gold version d’_Outer Swell_. C’est un gold de vélocité de Late Surger, qui s’active en Final Corner si elle double une autre uma et que l’uma qui est derrière elle soit plus proche de la barrière que l’utilisatrice. C’est un skill assez bon. En Sprint et Mile, il peut créer du carry-over.
-
-    - **Full of Vigor**, la gold version de _Pumped_. C’est un boost de vélocité pour le Mile, qui s’active aléatoirement en Final Corner si elle est dans le bottom 50% (≥5 en CM). C’est un skill qui est très similaire à Speed Star, juste spécifique au Mile et aux umas de la backline.
-    >Le skill a une chance de s'activer avec un timing permettant un carry over, ce qui le rend explosif en cas de succès (en cas d'échec, l'activation est gâchée par l'accélération). C’est un skill qui est gamble.
-
--  Son unique est un très faible boost d’accélération de Final Corner qui devient plus puissant (le boost devient plus puissant et plus long) en doublant une uma. L’effet atteint sa puissance maximale après avoir doublé 3 umas. Son unique s’active à partir du Late-Race et du Final Corner si Bamboo Memory est dans le bottom 50% et qu’il y a une uma à moins de 1L devant elle.<br>
-Bien que l’activation de l’unique est bonne, il reste un mauvais unique. Le fait qu’elle doit dépasser des umas pour améliorer son unique est un problème. Elle sera toujours dépendante des autres skills ou uniques d’accélération. Son unique est surtout un boost d’accélération en plus mais ne sera pas plus important que ça.
-
-#### Pull ou pas ? :
-
-Seulement si elle est votre Oshi.
- 
-Techniquement, le reste de son kit outre de son unique est assez bon. Mais l’unique joue toujours un point important du kit d’une uma et le sien est mauvais. En plus, sa compétition est assez rude en Sprint et Mile en tant que Late Surger.
- 
-Ne pullez pas sur cette bannière, on se rapproche de 2 grosses bannières (1 uma et 1 support)
-
----
-
-### Bannière support : Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR (rerun)
-
-![Image de présentation de la bannière Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR (rerun](/public/assets/Gacha-reviews/2026/053_Card-Banner.png)
-
-⏩**Yukino Bijin** :wit: :SSR:
-
-La première review de cette carte à été fait avant le 11 novembre 2025, dont la mise à jour a été important son gold skill. Elle ne recevra pas une nouvelle review, seulement une description très rapide.
-
-Elle donne **No Stopping Me !** qui est un bon skill d'accélération pour le Medium et le Long uniquement. Cependant Yukino Bijin reste une mauvaise carte sur les autres aspects.
-
-⏩**Ikuno Dictus** :guts: :ssr:
-
-[Vous pouvez retrouver sa review ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_21-ikuno-dictus-guts-ssr-fine-motion-power-sr)
-
-#### PULL OU PAS
-
-Non.
-
-Ikuno Dictus Guts SSR était potentiellement utilisable sur Trackblazer pour son Race Bonus. Avec l’update des versions améliorées de URA Finale et Unity Cup, et l'arrivée prochaine de Grand Live, la carte n’a plus aucune utilité.
-
-Yukino Bijin Wit SSR n’est utile que pour son gold skill **No Stopping Me !** Cependant, autre son gold skill, la carte est vraiment mauvaise et il est mieux de l’emprunter que de pull pour elle, si vous voulez NSM.
-
-Ne pullez pas sur cette bannière.
-
----
-
-# Bannières à suivre (17 Juillet 00h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/054_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Copano Rickley ★★★
+<!-- ![Image de présentation de la bannière Copano Rickley](/public/assets/Gacha-reviews/2026/053_Uma-Banner.png) -->
 
 ⏩ **Copano Rickley** :
 
@@ -174,7 +116,11 @@ Même des années plus tard, Copano Rickley reste dans la meta des CM Dirt. Elle
 
 :::
 
-### Bannière Support à suivre : Manhattan Cafe Stamina SSR & Seiun Sky Wit SR
+---
+
+### Bannière support : Manhattan Cafe Stamina SSR & Seiun Sky Wit SR
+
+<!-- ![Image de présentation de la bannière Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR (rerun](/public/assets/Gacha-reviews/2026/053_Card-Banner.png) -->
 
 ⏩**Manhattan Cafe** :stamina: :SSR:
 
@@ -217,6 +163,99 @@ Les 2 cartes sont moyennes tout au mieux. Manhattan Cafe (Barista) Stamina SSR e
 Seiun Sky Wit SR ne sort pas du lot des cartes Wit que l’on possède déjà.
  
 Ne pullez pas sur cette bannière, la prochaine bannière est la bannière pour le prochain scénario.
+
+---
+
+# Bannières à suivre (23 Juillet 00h)  
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/055_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Smart Falcon (Grand Concert) ★★★
+
+⏩ **Smart Falcon (Grand Concert)** :
+
+_Smart Falcon (Grand Concert) est une Front Runner Dirt. Elle court parfaitement en Mile et Medium. Avec de l’inspiration, elle peut courir en Sprint et en tant que Pace Chaser (respectivement 1 :star: et 7 :star:). Elle possède un gold de vélocité et un gold d’accélération, tous les 2 pour le Dirt. Sur les courses Dirt, son unique est hybride avec un boost de vélocité et de la recovery. Sur les courses Turf, elle ne possède que le speed boost._
+ 
+- Smart Falcon (Grand Concert) possède 2 bonus de croissances : 20% en :speed: et 10% en :guts:. C’est un combo plutôt moyen, le 20% en Speed reste intéressant pour Grand Concert vu que les decks seront 2 Speed + 2 Wit + Light Hello + Flex. Ce 20% en Speed lui donne plus de choix pour un flex, tout en montant bien Speed.
+
+- Ses gold skills sont :
+
+    - **Trending in the Charts !**, la gold version de _Top Pick_. C’est un gold de vélocité pour le Dirt, s’activant en Mid-Race si elle a été bloquée pendant 2 secondes sur un de ses côtés.
+
+    - **Be the Center !**, la gold version de _Got the Spirit !_ C’est un gold d’accélération pour le Dirt, qui s’active aléatoirement en Late-Race si Smart Falcon (Grand Concert) est dans le top 50%. C’est un skill qui est à la fois moyen pour son activation, mais sympa pour une Front Runner. Les Front Runners ne possèdent pas beaucoup de skill d’accélération de Late-Race, le skill reste intéressant même si ses conditions d’activation laissent à désirer.
+
+- Sur les courses Dirt, son unique est hybride avec un boost de vélocité et de la recovery. Sur les courses Turf, elle ne possède que le speed boost. L’unique de Smart Falcon (Grand Concert) s’active entre 40% et 50% de la longueur de la course, si l’écart entre elle et l’uma en première place est inférieur ou égale à 10 mètres. Si elle se trouve en première place dans la zone d’activation, l’écart entre elle et la première place sera de 0m, donc l’unique s’activera bien. <br>
+C’est un unique moyen, mais qui est fort sur le scénario Grand Concert, dû à la difficulté de monter la Stamina. Son unique sera aussi intéressant pour le prochain CM, un Dirt Medium. En dehors de cette situation, l’unique est moins bon qu’un unique basique.
+
+#### Pull ou pas ? :
+
+Seulement si elle est votre Oshi. C’est vraiment dommage de sortir juste après l’uma META de ta surface (Dirt).
+
+Smart Falcon (Grand Concert) n’est pas mauvaise, mais est clairement moins forte que sa compétition directe qu’est Copano Rickley. Elle est meilleure que sa forme OG, bien que le 10% Power qui se transforme en 10% Guts fait mal. Elle est vraiment pensée pour le 1er CM de Grand Concert et c’est un peu tout.
+ 
+Ne pullez pas, seulement s’il vous manque des bonnes uma pour le dirt.
+
+### Bannière Support à suivre : Agnes Tachyon Speed SSR & Light Hello Pal SSR
+
+⏩**Agnes Tachyon** :speed: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Skill Point Bonus à 3LB et un deuxième Skill Point Bonus à MLB.
+
+- Son Unique Effect lui donne 20 de Friendship Bonus quand sa jauge est pleine. Elle possède plus de Friendship Bonus que ce que la carte montre grâce à ça.
+
+- Ses Rainbows sont très puissants, surtout quand sa jauge est pleine avec son 44 de Friendship Bonus (la seconde valeur la plus élevée de tout le jeu, même en JP) , son excellent Special Priority et son Speed Bonus. Son cross-training est correct malgré un faible Training Effectiveness surtout grâce à son double Skill Point Bonus.
+
+::: tip L’importance de double Skill Point Bonus
+
+Double Skill Point Bonus est l’un des principaux outils pour dire si une carte est bonne sur la version JP ou non. Plus on avancera dans le temps, plus cela deviendra important et fort.
+
+:::
+
+- Elle propose une liste de 8 hints❗ principalement pour Pace Chaser et le Medium, tous très bons et utiles. Elle possède le combo de Hint Levels et Hint Frequency (les 2 avec de très bonne valeur dès LB0). Ses hints seront très puissants et fréquents.
+
+- Son gold skill est **Unstoppable**, la gold version d’_On the Attack_. C’est un gold de vélocité pour Pace Chaser, s’activant aléatoirement en Mid-Race. Les Pace Chasers possèdent enfin un autre outil que Speed Star.
+
+- Son dernier Chain Event donne soit 1 ou 3 hints pour le gold skill.
+
+
+⏩**Light Hello** :friends: :ssr:
+
+- La carte est équilibrée, on va chercher 2LB. A 1LB, elle débloque Traning Effectiveness puis Initial Speed à 3LB. A partir de 2LB, elle maximise son Training Effectiveness.
+
+- Son Unique Effect lui donne 30 d'Énergie Cost Reduction quand elle participe à un rainbow training. Elle rend les rainbows moins coûteux en énergie. Elle possède un deuxième Unique Effect sur Grand Concert. Après s’être entrainé avec elle, Light Hello pourra vous donner 20 tokens de ceux que vous possédez le moins.
+
+- Son cross-training est très bon avec son Unique Effect, son Training Effectiveness, sa Failure Protection et son autre Energy Cost Reduction qui s’applique aussi pour les autres trainings.
+
+- Elle possède Event Recovery et Event Effectiveness, ses évènements donneront plus de stats et de skill points et ses événements de regain d’énergie seront eux aussi plus puissants.
+
+- Son gold skill est **See Ya Later !**, la gold version de _Playtime’s Over !_ C’est un gold de vélocité universel s’activant après au moins 10 secondes de course si uma est resté pendant au moins 3 secondes derrière votre uma. C’est un excellent skill à prendre, pour toutes les stratégies.
+>Être derrière une uma veut dire un écart maximal de 2,5m sur la lane de votre uma et les 2 lanes adjacentes.
+
+- Ses évènements donnent principalement de la Speed et du Guts.
+
+#### PULL OU PAS
+
+Oui, c’est obligatoire, c’est une bannière scénario. Ne pas pull dessus vous rendra forcément moins bon sur le scénario Grand Concert.
+ 
+Commençons par la carte la plus importante mais aussi celle qu’on a le moins de chose à dire sûr, Light Hello Pal SSR.<br>
+C’est la carte la plus importante pour le scénario, qui sera présente dans tous vos decks pour une Ace. Son second Unique Effect propre à Grand Concert est la raison principale pour son importance. Mais même en dehors de ça, elle possède de très bons bonus et un excellent gold skill.
+ 
+Elle est encore plus importante que l’ait été Riko Kashimoto pendant Unity Cup, pour vous dire de l’importance que Light Hello possède. Visez LB2, elle n’a pas besoin de plus de Limit Break.
+ 
+ 
+Agnes Tachyon Speed SSR est une top tier carte Speed. Elle fait partie de notre Top 3 avec Kitasan Black et Maruzensky. Je vais la comparer directement avec les 2 autres.
+ 
+Elle possède moins de Special Priority que Kitasan Black (36 d’écart) mais plus que Maruzensky (45 d’écart). Ses rainbows sont plus puissant que Kitasan Black, et plus faible que Maruzensky. Son cross-training donne moins de stats que les 2 autres, mais plus de skill points. Entre Kitasan Black et Agnes Tachyon, la différence de stats et de skills points n’est pas suffisante pour dire qui est la meilleure en cross-training. Si vous mettez en avant les stats, Kitasan Black  sera meilleur, si c’est les skills points, Tachyon sera meilleur.
+
+Kitasan Black possède un meilleur gold, vu qu’il est universel comparé à Maruzensky et Tachyon qui ont un gold spécialisé pour une stratégie. Les 3 ont de très bons hints. Maruzensky est la seul qui est puissante même à bas LB, où Kitasan Black et Tachyon sont des MLB obligatoires.
+ 
+Si je devais classer les 3, je dirais que Maruzensky est 1ère, Agnes Tachyon 2ème et Kitasan Black 3ème. Pendant le scénario Grand Concert, Tachyon est la meilleure carte Speed. Elle peut donner un 2ème gold skill et donnera aussi des tokens en plus. Le second gold skill est Come What May, un skill de vélocité de Last Spurt. Maruzensky passe 2ème ou 3ème avec son plus faible Special Priority, un bonus spécialement important pour ce scénario.
+ 
+Si vous jouez Pace Chaser, vous aurez besoin d’Agnes Tachyon Speed SSR. Si vous n’avez pas 1 ou 2 du top 3 des cartes Speed, pullez pour elle. La meilleure chose est d’avoir les 3, mais c’est coûteux.
+La seule raison valable de skip est si vous avez déjà Maruzensky ET Kitasan Black Speed SSR et que vous avez d’autres cartes ou umas que vous voulez pull, ou que vos carats soient trop bas pour vous le permettre.
+ 
+C’est une bannière importante, et il faut avoir Light Hello Pal SSR à 2LB si possible. Ne pas avoir Light Hello Pal SSR vous bloquera votre carte flex (celle que vous empruntez généralement) pour prendre juste elle.
+
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
