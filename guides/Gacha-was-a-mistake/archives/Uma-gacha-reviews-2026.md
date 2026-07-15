@@ -1187,7 +1187,7 @@ Ne pullez pas sur cette bannière, on se rapproche de 2 grosses bannières (1 um
 
 ## #54 - Copano Rickley ★★★
 
-<!-- ![Image de présentation de la bannière Copano Rickley](/public/assets/Gacha-reviews/2026/053_Uma-Banner.png) -->
+![Image de présentation de la bannière Copano Rickley](/public/assets/Gacha-reviews/2026/054_Uma-Banner.png)
 
 :::: details REVIEW
 

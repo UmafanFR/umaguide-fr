@@ -1140,7 +1140,7 @@ Ne pullez pas sur cette bannière.
 
 ## #54 - Manhattan Cafe Stamina SSR & Seiun Sky Wit SR
 
-<!-- ![Image de présentation de la bannière Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR (rerun](/public/assets/Gacha-reviews/2026/053_Card-Banner.png) -->
+![Image de présentation de la bannière Manahttan Cafe Stamina SSR & Seiun Sky Wit SR](/public/assets/Gacha-reviews/2026/054_Card-Banner.png)
 
 :::: details REVIEW
 

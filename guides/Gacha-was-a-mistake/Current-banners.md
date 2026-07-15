@@ -77,7 +77,7 @@ Bonne chance à tous·tes !
 
 ### Bannière Umamusume : Copano Rickley ★★★
 
-<!-- ![Image de présentation de la bannière Copano Rickley](/public/assets/Gacha-reviews/2026/053_Uma-Banner.png) -->
+![Image de présentation de la bannière Copano Rickley](/public/assets/Gacha-reviews/2026/054_Uma-Banner.png)
 
 ⏩ **Copano Rickley** :
 
@@ -120,7 +120,7 @@ Même des années plus tard, Copano Rickley reste dans la meta des CM Dirt. Elle
 
 ### Bannière support : Manhattan Cafe Stamina SSR & Seiun Sky Wit SR
 
-<!-- ![Image de présentation de la bannière Yukino Bijin Wit SSR & Ikuno Dictus Guts SSR (rerun](/public/assets/Gacha-reviews/2026/053_Card-Banner.png) -->
+![Image de présentation de la bannière Manhattan Cafe Stamina SSR & Seiun Sky Wit SR](/public/assets/Gacha-reviews/2026/054_Card-Banner.png)
 
 ⏩**Manhattan Cafe** :stamina: :SSR:
 
