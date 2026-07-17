@@ -180,11 +180,11 @@ _Smart Falcon (Grand Concert) est une Front Runner Dirt. Elle court parfaitement
 
 - Ses gold skills sont :
 
-    - **Trending in the Charts !**, la gold version de _Top Pick_. C’est un gold de vélocité pour le Dirt, s’activant en Mid-Race si elle a été bloquée pendant 2 secondes sur un de ses côtés.
+    - **Trending in the Charts !**, la gold version de _Top Pick_. C’est un gold de vélocité pour le Dirt, s’activant en Mid-Race si elle a été contestée pendant 2 secondes sur un de ses côtés.
 
     - **Be the Center !**, la gold version de _Got the Spirit !_ C’est un gold d’accélération pour le Dirt, qui s’active aléatoirement en Late-Race si Smart Falcon (Grand Concert) est dans le top 50%. C’est un skill qui est à la fois moyen pour son activation, mais sympa pour une Front Runner. Les Front Runners ne possèdent pas beaucoup de skill d’accélération de Late-Race, le skill reste intéressant même si ses conditions d’activation laissent à désirer.
 
-- Sur les courses Dirt, son unique est hybride avec un boost de vélocité et de la recovery. Sur les courses Turf, elle ne possède que le speed boost. L’unique de Smart Falcon (Grand Concert) s’active entre 40% et 50% de la longueur de la course, si l’écart entre elle et l’uma en première place est inférieur ou égale à 10 mètres. Si elle se trouve en première place dans la zone d’activation, l’écart entre elle et la première place sera de 0m, donc l’unique s’activera bien. <br>
+- Sur les courses Dirt, son unique est hybride avec un boost de vélocité et de la recovery (plus de recovery qu'un skill white). Sur les courses Turf, elle ne possède que le speed boost. L’unique de Smart Falcon (Grand Concert) s’active entre 40% et 50% de la longueur de la course, si l’écart entre elle et l’uma en première place est inférieur ou égale à 10 mètres. Si elle se trouve en première place dans la zone d’activation, l’écart entre elle et la première place sera de 0m, donc l’unique s’activera bien. <br>
 C’est un unique moyen, mais qui est fort sur le scénario Grand Concert, dû à la difficulté de monter la Stamina. Son unique sera aussi intéressant pour le prochain CM, un Dirt Medium. En dehors de cette situation, l’unique est moins bon qu’un unique basique.
 
 #### Pull ou pas ? :
@@ -228,7 +228,7 @@ Double Skill Point Bonus est l’un des principaux outils pour dire si une carte
 
 - Elle possède Event Recovery et Event Effectiveness, ses évènements donneront plus de stats et de skill points et ses événements de regain d’énergie seront eux aussi plus puissants.
 
-- Son gold skill est **See Ya Later !**, la gold version de _Playtime’s Over !_ C’est un gold de vélocité universel s’activant après au moins 10 secondes de course si uma est resté pendant au moins 3 secondes derrière votre uma. C’est un excellent skill à prendre, pour toutes les stratégies.
+- Son gold skill est **See Ya Later !**, la gold version de _Playtime’s Over !_ C’est un gold de vélocité universel s’activant après au moins 10 secondes de course si uma est resté pendant au moins 3 secondes derrière votre uma. C’est un excellent skill à prendre, pour toutes les stratégies. Une autre force du skill est qu'il peut s'activer 2 fois.
 >Être derrière une uma veut dire un écart maximal de 2,5m sur la lane de votre uma et les 2 lanes adjacentes.
 
 - Ses évènements donnent principalement de la Speed et du Guts.
@@ -249,7 +249,7 @@ Elle possède moins de Special Priority que Kitasan Black (36 d’écart) mais p
 
 Kitasan Black possède un meilleur gold, vu qu’il est universel comparé à Maruzensky et Tachyon qui ont un gold spécialisé pour une stratégie. Les 3 ont de très bons hints. Maruzensky est la seul qui est puissante même à bas LB, où Kitasan Black et Tachyon sont des MLB obligatoires.
  
-Si je devais classer les 3, je dirais que Maruzensky est 1ère, Agnes Tachyon 2ème et Kitasan Black 3ème. Pendant le scénario Grand Concert, Tachyon est la meilleure carte Speed. Elle peut donner un 2ème gold skill et donnera aussi des tokens en plus. Le second gold skill est Come What May, un skill de vélocité de Last Spurt. Maruzensky passe 2ème ou 3ème avec son plus faible Special Priority, un bonus spécialement important pour ce scénario.
+Si je devais classer les 3, je dirais que Maruzensky est 1ère, Agnes Tachyon 2ème et Kitasan Black 3ème. Pendant le scénario Grand Concert, Tachyon est la meilleure carte Speed. Elle peut donner un 2ème gold skill grâce au scénario link et donnera aussi des tokens en plus. Le second gold skill est **Come What May**, un skill de vélocité de Last Spurt. Maruzensky passe 2ème ou 3ème avec son plus faible Special Priority, un bonus spécialement important pour ce scénario.
  
 Si vous jouez Pace Chaser, vous aurez besoin d’Agnes Tachyon Speed SSR. Si vous n’avez pas 1 ou 2 du top 3 des cartes Speed, pullez pour elle. La meilleure chose est d’avoir les 3, mais c’est coûteux.
 La seule raison valable de skip est si vous avez déjà Maruzensky ET Kitasan Black Speed SSR et que vous avez d’autres cartes ou umas que vous voulez pull, ou que vos carats soient trop bas pour vous le permettre.
