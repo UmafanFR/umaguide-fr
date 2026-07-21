@@ -1229,3 +1229,34 @@ Même des années plus tard, Copano Rickley reste dans la meta des CM Dirt. Elle
 :::
 
 ::::
+
+## #55 - Smart Falcon (Grand Concert) ★★★
+
+<!-- ![Image de présentation de la bannière Smart Falcon (Grand Concert)](/public/assets/Gacha-reviews/2026/054_Uma-Banner.png) -->
+
+::: details REIVEW
+
+⏩ **Smart Falcon (Grand Concert)** :
+
+_Smart Falcon (Grand Concert) est une Front Runner Dirt. Elle court parfaitement en Mile et Medium. Avec de l’inspiration, elle peut courir en Sprint et en tant que Pace Chaser (respectivement 1 :star: et 7 :star:). Elle possède un gold de vélocité et un gold d’accélération, tous les 2 pour le Dirt. Sur les courses Dirt, son unique est hybride avec un boost de vélocité et de la recovery. Sur les courses Turf, elle ne possède que le speed boost._
+ 
+- Smart Falcon (Grand Concert) possède 2 bonus de croissances : 20% en :speed: et 10% en :guts:. C’est un combo plutôt moyen, le 20% en Speed reste intéressant pour Grand Concert vu que les decks seront 2 Speed + 2 Wit + Light Hello + Flex. Ce 20% en Speed lui donne plus de choix pour un flex, tout en montant bien Speed.
+
+- Ses gold skills sont :
+
+    - **Trending in the Charts !**, la gold version de _Top Pick_. C’est un gold de vélocité pour le Dirt, s’activant en Mid-Race si elle a été contestée pendant 2 secondes sur un de ses côtés.
+
+    - **Be the Center !**, la gold version de _Got the Spirit !_ C’est un gold d’accélération pour le Dirt, qui s’active aléatoirement en Late-Race si Smart Falcon (Grand Concert) est dans le top 50%. C’est un skill qui est à la fois moyen pour son activation, mais sympa pour une Front Runner. Les Front Runners ne possèdent pas beaucoup de skill d’accélération de Late-Race, le skill reste intéressant même si ses conditions d’activation laissent à désirer.
+
+- Sur les courses Dirt, son unique est hybride avec un boost de vélocité et de la recovery (plus de recovery qu'un skill white). Sur les courses Turf, elle ne possède que le speed boost. L’unique de Smart Falcon (Grand Concert) s’active entre 40% et 50% de la longueur de la course, si l’écart entre elle et l’uma en première place est inférieur ou égale à 10 mètres. Si elle se trouve en première place dans la zone d’activation, l’écart entre elle et la première place sera de 0m, donc l’unique s’activera bien. <br>
+C’est un unique moyen, mais qui est fort sur le scénario Grand Concert, dû à la difficulté de monter la Stamina. Son unique sera aussi intéressant pour le prochain CM, un Dirt Medium. En dehors de cette situation, l’unique est moins bon qu’un unique basique.
+
+#### Pull ou pas ? :
+
+Seulement si elle est votre Oshi. C’est vraiment dommage de sortir juste après l’uma META de ta surface (Dirt).
+
+Smart Falcon (Grand Concert) n’est pas mauvaise, mais est clairement moins forte que sa compétition directe qu’est Copano Rickley. Elle est meilleure que sa forme OG, bien que le 10% Power qui se transforme en 10% Guts fait mal. Elle est vraiment pensée pour le 1er CM de Grand Concert et c’est un peu tout.
+ 
+Ne pullez pas, seulement s’il vous manque des bonnes uma pour le dirt.
+
+:::

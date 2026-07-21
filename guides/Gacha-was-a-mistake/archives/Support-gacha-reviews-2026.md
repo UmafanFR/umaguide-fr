@@ -1187,3 +1187,69 @@ Seiun Sky Wit SR ne sort pas du lot des cartes Wit que l’on possède déjà.
 Ne pullez pas sur cette bannière, la prochaine bannière est la bannière pour le prochain scénario.
 
 ::::
+
+## #55 - Agnes Tachyon Speed SSR & Light Hello Pal SSR
+
+<!-- ![Image de présentation de la bannière Agnes Tachyon Speed SSR & Light Hello Pal SSR](/public/assets/Gacha-reviews/2026/054_Card-Banner.png) -->
+
+:::: details REViEW
+
+⏩**Agnes Tachyon** :speed: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Skill Point Bonus à 3LB et un deuxième Skill Point Bonus à MLB.
+
+- Son Unique Effect lui donne 20 de Friendship Bonus quand sa jauge est pleine. Elle possède plus de Friendship Bonus que ce que la carte montre grâce à ça.
+
+- Ses Rainbows sont très puissants, surtout quand sa jauge est pleine avec son 44 de Friendship Bonus (la seconde valeur la plus élevée de tout le jeu, même en JP) , son excellent Special Priority et son Speed Bonus. Son cross-training est correct malgré un faible Training Effectiveness surtout grâce à son double Skill Point Bonus.
+
+::: tip L’importance de double Skill Point Bonus
+
+Double Skill Point Bonus est l’un des principaux outils pour dire si une carte est bonne sur la version JP ou non. Plus on avancera dans le temps, plus cela deviendra important et fort.
+
+:::
+
+- Elle propose une liste de 8 hints❗ principalement pour Pace Chaser et le Medium, tous très bons et utiles. Elle possède le combo de Hint Levels et Hint Frequency (les 2 avec de très bonne valeur dès LB0). Ses hints seront très puissants et fréquents.
+
+- Son gold skill est **Unstoppable**, la gold version d’_On the Attack_. C’est un gold de vélocité pour Pace Chaser, s’activant aléatoirement en Mid-Race. Les Pace Chasers possèdent enfin un autre outil que Speed Star.
+
+- Son dernier Chain Event donne soit 1 ou 3 hints pour le gold skill.
+
+
+⏩**Light Hello** :friends: :ssr:
+
+- La carte est équilibrée, on va chercher 2LB. A 1LB, elle débloque Traning Effectiveness puis Initial Speed à 3LB. A partir de 2LB, elle maximise son Training Effectiveness.
+
+- Son Unique Effect lui donne 30 d'Énergie Cost Reduction quand elle participe à un rainbow training. Elle rend les rainbows moins coûteux en énergie. Elle possède un deuxième Unique Effect sur Grand Concert. Après s’être entrainé avec elle, Light Hello pourra vous donner 20 tokens de ceux que vous possédez le moins.
+
+- Son cross-training est très bon avec son Unique Effect, son Training Effectiveness, sa Failure Protection et son autre Energy Cost Reduction qui s’applique aussi pour les autres trainings.
+
+- Elle possède Event Recovery et Event Effectiveness, ses évènements donneront plus de stats et de skill points et ses événements de regain d’énergie seront eux aussi plus puissants.
+
+- Son gold skill est **See Ya Later !**, la gold version de _Playtime’s Over !_ C’est un gold de vélocité universel s’activant après au moins 10 secondes de course si uma est resté pendant au moins 3 secondes derrière votre uma. C’est un excellent skill à prendre, pour toutes les stratégies. Une autre force du skill est qu'il peut s'activer 2 fois.
+>Être derrière une uma veut dire un écart maximal de 2,5m sur la lane de votre uma et les 2 lanes adjacentes.
+
+- Ses évènements donnent principalement de la Speed et du Guts.
+
+#### PULL OU PAS
+
+Oui, c’est obligatoire, c’est une bannière scénario. Ne pas pull dessus vous rendra forcément moins bon sur le scénario Grand Concert.
+ 
+Commençons par la carte la plus importante mais aussi celle qu’on a le moins de chose à dire sûr, Light Hello Pal SSR.<br>
+C’est la carte la plus importante pour le scénario, qui sera présente dans tous vos decks pour une Ace. Son second Unique Effect propre à Grand Concert est la raison principale pour son importance. Mais même en dehors de ça, elle possède de très bons bonus et un excellent gold skill.
+ 
+Elle est encore plus importante que l’ait été Riko Kashimoto pendant Unity Cup, pour vous dire de l’importance que Light Hello possède. Visez LB2, elle n’a pas besoin de plus de Limit Break.
+ 
+Agnes Tachyon Speed SSR est une top tier carte Speed. Elle fait partie de notre Top 3 avec Kitasan Black et Maruzensky. Je vais la comparer directement avec les 2 autres.
+ 
+Elle possède moins de Special Priority que Kitasan Black (36 d’écart) mais plus que Maruzensky (45 d’écart). Ses rainbows sont plus puissant que Kitasan Black, et plus faible que Maruzensky. Son cross-training donne moins de stats que les 2 autres, mais plus de skill points. Entre Kitasan Black et Agnes Tachyon, la différence de stats et de skills points n’est pas suffisante pour dire qui est la meilleure en cross-training. Si vous mettez en avant les stats, Kitasan Black  sera meilleur, si c’est les skills points, Tachyon sera meilleur.
+
+Kitasan Black possède un meilleur gold, vu qu’il est universel comparé à Maruzensky et Tachyon qui ont un gold spécialisé pour une stratégie. Les 3 ont de très bons hints. Maruzensky est la seul qui est puissante même à bas LB, où Kitasan Black et Tachyon sont des MLB obligatoires.
+ 
+Si je devais classer les 3, je dirais que Maruzensky est 1ère, Agnes Tachyon 2ème et Kitasan Black 3ème. Pendant le scénario Grand Concert, Tachyon est la meilleure carte Speed. Elle peut donner un 2ème gold skill grâce au scénario link et donnera aussi des tokens en plus. Le second gold skill est **Come What May**, un skill de vélocité de Last Spurt. Maruzensky passe 2ème ou 3ème avec son plus faible Special Priority, un bonus spécialement important pour ce scénario.
+ 
+Si vous jouez Pace Chaser, vous aurez besoin d’Agnes Tachyon Speed SSR. Si vous n’avez pas 1 ou 2 du top 3 des cartes Speed, pullez pour elle. La meilleure chose est d’avoir les 3, mais c’est coûteux.
+La seule raison valable de skip est si vous avez déjà Maruzensky ET Kitasan Black Speed SSR et que vous avez d’autres cartes ou umas que vous voulez pull, ou que vos carats soient trop bas pour vous le permettre.
+ 
+C’est une bannière importante, et il faut avoir Light Hello Pal SSR à 2LB si possible. Ne pas avoir Light Hello Pal SSR vous bloquera votre carte flex (celle que vous empruntez généralement) pour prendre juste elle.
+
+::::
