@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/055_Banners_early_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/055_Banners_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -220,7 +220,7 @@ Avec le cap à 1600 de Speed, avoir 3 cartes Speed est quasiment obligatoire pou
 - Elle possède un évènement _**Don’t Say It**_, qui lui donne un Practice Poor spécial. Si vous le soignez avant son objectif Nikkei Sho, elle obtiendra un bon boost dans toutes les stats, une grosse quantité de skill points, +4 Mood et Practice Perfect + (double cercle). Si vous ne le soignez pas avant Nikkei Sho, le boost de stats sera un peu moins puissant et au lieu de recevoir Practice Perfect +, le Practice Poor sera soigné.
 
 - Son unique est un speed boost de seconde moitié de Final Corner en Late-Race, s’activant si elle est entre le bottom 60% et le top 75% (≥4 <-> ≤7 en CM).<br>
-Les valeurs de l’unique sont basiques et l’activation en seconde moitié de Final Corner fait qu’il n’y aura pas de boost gâché en Medium et Long.
+Les valeurs de l’unique sont basiques et l’activation en seconde moitié de Final Corner fait qu’il n’y aura pas de boost gâché en Medium et Long. Il peut parfois créer du carry-over dans les courses Sprint et Mile, si le Late-Race commence très tard dans le Final Corner ou au début du Final Straight.
 
 
 #### Pull ou pas ? :
@@ -238,9 +238,9 @@ Ne pullez pas sur cette bannière.
 
 ⏩**Tokai Teio** :wit: :SSR:
 
-- La carte est backloaded. A :lb:, elle débloque Speed Bonus puis Wit Bonus à :lb: :lb: :lb: et un second Wit Bonus à :lb: :lb: :lb: :lb:.
+- La carte est backloaded. A 1:lb:, elle débloque Speed Bonus puis Wit Bonus à 3:lb: et un second Wit Bonus à MLB.
 
-- Son Unique Effect du Training Effectiveness, 1% pour chaque tranche de 30 points de bond support combiné. Le maxiumum monte à 20% pour 600 de points de bond support combiné (les 6 cartes support en orange)
+- Son Unique Effect ajoute du Training Effectiveness, 1% pour chaque tranche de 30 points de bond support combiné. Le maxiumum monte à 20% pour 600 de points de bond support combiné (les 6 cartes support en orange)
 
 - Ses rainbows sont bons avec son bon Friendship Bonus et son combo de Stats Bonus bien que son Special Priority soit faible. Son cross-training se repose principalement sur son Unique Effect, Elle possède 5 de Race Bonus.
 
@@ -251,18 +251,18 @@ C’est un très bon skill, celui de la carte support _**Kitasan Black Speed SSR
 
 ⏩**Twin Turbo** :guts: :ssr:
 
-- La carte est backloaded. A :lb:, elle débloque Skill Point Bonus puis Speed Bonus <br> à :lb: :lb: :lb: et un second Speed Bonus à :lb: :lb: :lb: :lb:.
+- La carte est backloaded. A 1:lb:, elle débloque Skill Point Bonus puis Speed Bonus <br> à 3:lb: et un second Speed Bonus à MLB.
 
 - Son Unique Effect nous donne 3 de Friendship Bonus à chaque fois que l’on fait un rainbow avec elle. On peut recevoir ce bonus 5 fois, pour un total de 15 de Friendship Bonus. Son Friendship bonus est un peu plus élevé que ce que la carte affiche.
 
 - Ses rainbows sont techniquement puissants avec son énorme 43,75 de Friendship Bonus et son combo de Stat Bonus, cependant elle ne possède pas de Special Priority. En dehors de ses Stats Bonus et de son Skill Point Bonus, elle ne possède pas de cross-training.
 
-- Elle propose une liste de 6 hints❗, dont seuls _Mad Dash_ et _Fast Paced_ ressortent car ce sont des skills que _**Maruzensky Speed SSR**_ ne donne pas. _Mad Dash_ est aussi un nouveau skill que vous pouvez aller chercher sur Trackblazer.
+- Elle propose une liste de 6 hints❗, dont 4 très bon pour les Front Runners. En particulier, _Mad Dash_ et _Fast Paced_ ressortent car ce sont des skills que _**Maruzensky Speed SSR**_ ne donnent pas, et qui sont difficile à avoir autrement (Surtout Mad Dash). _Mad Dash_ est aussi un nouveau skill que vous pouvez aller chercher sur Trackblazer.
 
-- Son gold skill est **Giving It 1 000%**, la gold version de _Mad Dash_. C’est un gold skill de vélocité de Front Runner, qui donne un gros boost pour une forte consommation d’HPs (consomme plus qu’un gold skill de debuff d’HPs). Le skill s’active aléatoire dans la première partie du Mid-Race.
+- Son gold skill est **Giving It 1 000%**, la gold version de _Mad Dash_. C’est un gold skill de vélocité de Front Runner, qui donne un gros boost pour une forte consommation d’HPs (consomme plus qu’un gold skill de debuff d’HPs mais moins qu'un gold skill de recovery). Le skill s’active aléatoirement dans la première partie du Mid-Race. Cette zone d'activation peut l'aider à sécuriser le lead contest
 C'est un skill qui eut être intéressant dans les courtes distances comme le Sprint, mais consomme pour l’instant trop pour les autres distances.
 
-- Son premier Chain Event vous donne le choix pour soit continuer la chaîne, soit dans un résultat aléatoire de continuer la chaîne ou de la briser tout en donnant _Playtime’s Over !_ Le second Chain Event vous fait aléatoirement continuer la chaîne ou de la briser tout en vous donnant le gold skill. Le dernier Chain Event vous donne aléatoirement plus de stats et de hints pour le gold skill ou moins de stats et moins de hints.
+- Les 2 premiers chain events sont susceptibles de mettre fin à la chaîne ; mais notez que sur le premier, vous pouvez sélectionner l'option du bas pour garantir de continuer la chaîne (l'option du haut aura une chance d'interrompre la chaîne en vous donnant alors Playtime's Over). Le second chain event vous donnera le skill gold Givin'it 1000% s'il met fin à la chaîne. Si vous parvenez au bout de la chaîne, vous aurez davantage de hints sur le skill gold et un peu plus de stats.
 
 #### PULL OU PAS
 
