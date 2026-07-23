@@ -1232,7 +1232,7 @@ Même des années plus tard, Copano Rickley reste dans la meta des CM Dirt. Elle
 
 ## #55 - Smart Falcon (Grand Concert) ★★★
 
-<!-- ![Image de présentation de la bannière Smart Falcon (Grand Concert)](/public/assets/Gacha-reviews/2026/054_Uma-Banner.png) -->
+![Image de présentation de la bannière Smart Falcon (Grand Concert)](/public/assets/Gacha-reviews/2026/055_Uma-Banner.png)
 
 ::: details REIVEW
 

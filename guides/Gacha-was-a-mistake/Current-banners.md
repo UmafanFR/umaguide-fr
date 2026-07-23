@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/055_Banners_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/055_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -77,7 +77,7 @@ Bonne chance à tous·tes !
 
 ### Bannière Umamusume : Smart Falcon (Grand Concert) ★★★
 
-<!-- ![Image de présentation de la bannière Smart Falcon (Grand Concert)](/public/assets/Gacha-reviews/2026/054_Uma-Banner.png) -->
+![Image de présentation de la bannière Smart Falcon (Grand Concert)](/public/assets/Gacha-reviews/2026/055_Uma-Banner.png)
 
 ⏩ **Smart Falcon (Grand Concert)** :
 
@@ -106,7 +106,7 @@ Ne pullez pas, seulement s’il vous manque des bonnes uma pour le dirt.
 
 ### Bannière support : Agnes Tachyon Speed SSR & Light Hello Pal SSR
 
-<!-- ![Image de présentation de la bannière Agnes Tachyon Speed SSR & Light Hello Pal SSR](/public/assets/Gacha-reviews/2026/054_Card-Banner.png) -->
+![Image de présentation de la bannière Agnes Tachyon Speed SSR & Light Hello Pal SSR](/public/assets/Gacha-reviews/2026/055_Card-Banner.png)
 
 ⏩**Agnes Tachyon** :speed: :SSR:
 

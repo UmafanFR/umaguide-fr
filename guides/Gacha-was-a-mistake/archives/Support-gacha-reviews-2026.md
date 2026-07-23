@@ -1190,7 +1190,7 @@ Ne pullez pas sur cette bannière, la prochaine bannière est la bannière pour 
 
 ## #55 - Agnes Tachyon Speed SSR & Light Hello Pal SSR
 
-<!-- ![Image de présentation de la bannière Agnes Tachyon Speed SSR & Light Hello Pal SSR](/public/assets/Gacha-reviews/2026/054_Card-Banner.png) -->
+![Image de présentation de la bannière Agnes Tachyon Speed SSR & Light Hello Pal SSR](/public/assets/Gacha-reviews/2026/055_Card-Banner.png)
 
 :::: details REViEW
 
