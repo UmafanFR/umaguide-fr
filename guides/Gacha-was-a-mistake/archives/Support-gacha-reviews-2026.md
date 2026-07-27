@@ -1253,3 +1253,49 @@ La seule raison valable de skip est si vous avez déjà Maruzensky ET Kitasan Bl
 C’est une bannière importante, et il faut avoir Light Hello Pal SSR à 2LB si possible. Ne pas avoir Light Hello Pal SSR vous bloquera votre carte flex (celle que vous empruntez généralement) pour prendre juste elle.
 
 ::::
+
+## #56 - Tokai Teio Wit SSR & Twin Turbo Guts SSR
+
+<!-- ![Image de présentation de la bannière Tokai Teio Wit SSR & Twin Turbo Guts SSR](/public/assets/Gacha-reviews/2026/055_Card-Banner.png) -->
+
+::: details REVIEW
+
+⏩**Tokai Teio** :wit: :SSR:
+
+- La carte est backloaded. A 1:lb:, elle débloque Speed Bonus puis Wit Bonus à 3:lb: et un second Wit Bonus à MLB.
+
+- Son Unique Effect ajoute du Training Effectiveness, 1% pour chaque tranche de 30 points de bond support combiné. Le maxiumum monte à 20% pour 600 de points de bond support combiné (les 6 cartes support en orange)
+
+- Ses rainbows sont bons avec son bon Friendship Bonus et son combo de Stats Bonus bien que son Special Priority soit faible. Son cross-training se repose principalement sur son Unique Effect, Elle possède 5 de Race Bonus.
+
+- Elle propose une liste de 8 hints❗, dont _Corner Adept_ en tant que skill universel, _Nimble Navigator_ et _Pace Chaser Corners_ pour les Pace Chasers ; _With All My Soul_ et _Prudent Positioning_ pour Fron Runners, sortent du lot. Elle possède Hint Level et Hint Frequency, ses hints seront donc puissants et assez fréquents.
+
+- Son gold skill est **Professor of Curvature**, la gold version de _Corner Adpet_. C’est un gold skill de vélocité universelle, qui s’active dans un corner aléatoire. Le skill peut se réactiver une autre fois, si la première activation est assez tôt dans la course (et que la course est longue).<br>
+C’est un très bon skill, celui de la carte support _**Kitasan Black Speed SSR**_. C’est un skill que vous allez revoir sur d’excellentes cartes, le palmarès du skill est impressionnant.
+
+⏩**Twin Turbo** :guts: :ssr:
+
+- La carte est backloaded. A 1:lb:, elle débloque Skill Point Bonus puis Speed Bonus <br> à 3:lb: et un second Speed Bonus à MLB.
+
+- Son Unique Effect nous donne 3 de Friendship Bonus à chaque fois que l’on fait un rainbow avec elle. On peut recevoir ce bonus 5 fois, pour un total de 15 de Friendship Bonus. Son Friendship bonus est un peu plus élevé que ce que la carte affiche.
+
+- Ses rainbows sont techniquement puissants avec son énorme 43,75 de Friendship Bonus et son combo de Stat Bonus, cependant elle ne possède pas de Special Priority. En dehors de ses Stats Bonus et de son Skill Point Bonus, elle ne possède pas de cross-training.
+
+- Elle propose une liste de 6 hints❗, dont 4 très bon pour les Front Runners. En particulier, _Mad Dash_ et _Fast Paced_ ressortent car ce sont des skills que _**Maruzensky Speed SSR**_ ne donnent pas, et qui sont difficile à avoir autrement (Surtout Mad Dash). _Mad Dash_ est aussi un nouveau skill que vous pouvez aller chercher sur Trackblazer.
+
+- Son gold skill est **Giving It 1 000%**, la gold version de _Mad Dash_. C’est un gold skill de vélocité de Front Runner, qui donne un gros boost pour une forte consommation d’HPs (consomme plus qu’un gold skill de debuff d’HPs mais moins qu'un gold skill de recovery). Le skill s’active aléatoirement dans la première partie du Mid-Race. Cette zone d'activation peut l'aider à sécuriser le lead contest
+C'est un skill qui eut être intéressant dans les courtes distances comme le Sprint, mais consomme pour l’instant trop pour les autres distances.
+
+- Les 2 premiers chain events sont susceptibles de mettre fin à la chaîne ; mais notez que sur le premier, vous pouvez sélectionner l'option du bas pour garantir de continuer la chaîne (l'option du haut aura une chance d'interrompre la chaîne en vous donnant alors Playtime's Over). Le second chain event vous donnera le skill gold Givin'it 1000% s'il met fin à la chaîne. Si vous parvenez au bout de la chaîne, vous aurez davantage de hints sur le skill gold et un peu plus de stats.
+
+#### PULL OU PAS
+
+Seulement si vous n’avez pas de Top Tier Wit SSR et que vous n’avez pas peur de vous faire spook par la Twin Turbo Guts SSR. Si vous en avez une, ne pullez pas sur cette bannière. C’est le seul cas où vous pouvez vous dire de pull sur la bannière.
+ 
+Twin Turbo Guts SSR est une mauvaise carte. Le gold skill n’est pas utilisabe en dehors du sprint et de toute façon, on ne veut pas la borrow, donc la pull encore moins.
+ 
+Tokai Teio Wit SSR est une excellente carte Wit, du même niveau que Fine Motion Wit SSR. Si vous n’avez pas de bonne Wit support SSR, c’est un très bon borrow. La carte est principalement utile pour les Front Runners et Pace Chaser pour les hints qu’elle peut donner.
+ 
+Cela reste une bannière où vous  ne devez pas pull.
+
+:::
