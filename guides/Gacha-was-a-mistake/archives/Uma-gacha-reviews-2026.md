@@ -1263,7 +1263,7 @@ Ne pullez pas, seulement s’il vous manque des bonnes uma pour le dirt.
 
 ## #56 - Winning Ticket (Steampunk) & Narita Taishin (Steampunk) ★★★
 
-<!-- ![Image de présentation de la bannière Winning Ticket (Steampunk) & Narita Taishin (Steampunk)](/public/assets/Gacha-reviews/2026/055_Uma-Banner.png) -->
+![Image de présentation de la bannière Winning Ticket (Steampunk) & Narita Taishin (Steampunk)](/public/assets/Gacha-reviews/2026/056_Uma-Banner.png)
 
 :::: details REVIEW
 

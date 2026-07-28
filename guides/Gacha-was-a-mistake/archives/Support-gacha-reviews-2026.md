@@ -1256,7 +1256,7 @@ C’est une bannière importante, et il faut avoir Light Hello Pal SSR à 2LB si
 
 ## #56 - Tokai Teio Wit SSR & Twin Turbo Guts SSR
 
-<!-- ![Image de présentation de la bannière Tokai Teio Wit SSR & Twin Turbo Guts SSR](/public/assets/Gacha-reviews/2026/055_Card-Banner.png) -->
+![Image de présentation de la bannière Tokai Teio Wit SSR & Twin Turbo Guts SSR](/public/assets/Gacha-reviews/2026/056_Card-Banner.png)
 
 ::: details REVIEW
 

@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/056_Banners_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/056_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -77,7 +77,7 @@ Bonne chance à tous·tes !
 
 ### Bannière Umamusume : Winning Ticket (Steampunk) & Narita Taishin (Steampunk) ★★★
 
-<!-- ![Image de présentation de la bannière Winning Ticket (Steampunk) & Narita Taishin (Steampunk)](/public/assets/Gacha-reviews/2026/055_Uma-Banner.png) -->
+![Image de présentation de la bannière Winning Ticket (Steampunk) & Narita Taishin (Steampunk)](/public/assets/Gacha-reviews/2026/056_Uma-Banner.png)
 
 ⏩ **Winning Ticket (Steampunk)** :
 
@@ -142,7 +142,7 @@ Ne pullez pas sur cette bannière.
 
 ### Bannière support : Tokai Teio Wit SSR & Twin Turbo Guts SSR
 
-<!-- ![Image de présentation de la bannière Tokai Teio Wit SSR & Twin Turbo Guts SSR](/public/assets/Gacha-reviews/2026/055_Card-Banner.png) -->
+![Image de présentation de la bannière Tokai Teio Wit SSR & Twin Turbo Guts SSR](/public/assets/Gacha-reviews/2026/056_Card-Banner.png)
 
 ⏩**Tokai Teio** :wit: :SSR:
 
