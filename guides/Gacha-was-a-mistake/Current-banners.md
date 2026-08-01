@@ -184,9 +184,9 @@ Cela reste une bannière où vous  ne devez pas pull.
 
 ---
 
-# Bannières à suivre (estimé le 8 Aout 00h)  
+# Bannières à suivre (6 Aout 00h)  
 
-<!-- ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/056_Banners_early_preview.jpg) -->
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/057_Banners_early_preview.jpg)
 
 ### Bannière Umamusume à suivre : Yukino Bijin ★★★
 
