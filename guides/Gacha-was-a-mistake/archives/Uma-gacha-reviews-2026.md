@@ -1260,3 +1260,70 @@ Smart Falcon (Grand Concert) n’est pas mauvaise, mais est clairement moins for
 Ne pullez pas, seulement s’il vous manque des bonnes uma pour le dirt.
 
 :::
+
+## #56 - Winning Ticket (Steampunk) & Narita Taishin (Steampunk) ★★★
+
+![Image de présentation de la bannière Winning Ticket (Steampunk) & Narita Taishin (Steampunk)](/public/assets/Gacha-reviews/2026/056_Uma-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Winning Ticket (Steampunk)** :
+
+_Winning Ticket (Steampunk) est une Late Surger pour le Medium. Avec de l’inspiration, elle peut courir en Long et en tant que Pace Chaser (1 :star: pour les 2). Elle possède 2 gold skills de vélocité, un pour Late Surger et l’autre pour le Medium. Son unique est un speed boost moyen (0,25) de Last Straight avec une durée de base de 6s, qui peut recevoir de la vélocité en plus en activant jusqu’à 3 skills. L’unique s’active si elle est dans la mécanique de Last Spurt et qu’elle se trouve dans le bottom 60% (≥4 en CM)._
+ 
+- Winning Ticket (Steampunk) possède 3 bonus de croissances : 8% en :speed:, 14% en :power: et 8% en :guts:. Les bonus Speed et Power sont toujours très sympa mais le Guts n'est pas très utile, surtout pour une Uma Medium et potentiellement Long. Ses decks pour Grand Concert seront 3 :speed: / 2 :wit: / Light Hello ou 2 :speed: / 2 :wit: / Light Hello / Flex (Stamina pour avoir suffisamment d’HP pour le Medium)
+
+- Ses gold skills sont :
+
+    - **15,000,000 CC**, la gold version de _1,500,000 CC_. C'est un gold skill de vélocité de Late Surger s'activant sur une côte aléatoire.<br>
+    Toutes les uma ralentissent pendant une côte, si vous avez ce skill gold vous serez moins impacté, et pourrez généralement gagner un peu de terrain sur vos adversaires. Sur les courses où le final straight est en partie en côte, ça permet des dépassements de dernière minute contre les frontlines. Dans certaines courses, le skill a une chance de carry-over. C'est du cas par cas. Le skill s'active bien en Medium et en Long, mais plusieurs courses Sprint et Mile n'ont aucune côte.
+
+    - **Come What May**, la gold version de _All I’ve Got_. C’est un gold de vélocité pour le Medium, s’activant sur une ligne droite si elle est entre le top 20% et le top 60% (2e <-> 5e en CM) et qu’elle entre en Last Spurt Mode.<br>
+    Un peu dommage pour une uma qui sort pendant Grand Concert d’avoir ce skill, vu qu’_**Agnes Tachyon**_ permet de donner ce skill avec son Scénario Link.
+
+- Son 3ème évènement de costume à 3 résultats différents en fonction des choix que vous avez fait sur les 2 autres évènements de costume. Si vous avez pris 2 fois le 1er choix, vous aurez des hints pour _Medium Corner_ et _Take the Chance_. Si 2 fois le 2ème choix, vous aurez des hints pour _Long Straightaways_ et _Passing Pro_. Le dernier résultat lui donne 30 en Speed et 10 en Guts.
+
+- Son unique est un speed boost moyen (0,25) de Last Straight avec une durée de base de 6s, qui peut recevoir de la vélocité en plus en activant jusqu’à 3 skills (0,05 par skill avec un maximum de 0,15). L’unique s’active si elle est dans la mécanique de Last Spurt et qu’elle se trouve dans le bottom 60% (≥4 en CM).<br>
+C’est un unique plutôt mauvais, le faire dépendre d’autres skills pour atteindre sa puissance maxiimale qui est juste la puissance d’un unique basique est mauvais. La finalité est que vous obteniez exactement la même puissance avec par exemple _**Eishin Flash (Valentine)**_ tout en ayant la même durée du boost principale, si elle active les mêmes skills.<br>
+Les boosts secondaires peuvent continuer après le boost principal s’ils ont été activés plus tard pendant l’unique. Si vous êtes dans ce cas, cela veut aussi dire que vous ne profitez pas de la puissance théorique maximale de l’unique mais juste un boost moyen et faible sur une longue durée.
+
+⏩ **Narita Taishin (Steampunk)** :
+
+_Narita Taishin est une End Closer pour le Medium (1 gold) et le Long. Avec de l’inspiration, elle peut courir en Mile et en tant que Late Surger (respectivement 4 :star: et 1 :star:). Elle possède un gold de vélocité d’End Closer et un gold d’accélération pour le Medium. Son unique est un speed boost de seconde moitié de Final Corner en Late-Race, s’activant si elle est entre le bottom 60% et le top 75% (≥4 <-> ≤7 en CM)._
+ 
+- Narita Taishin (Steampunk) 3 bonus de croissances : 8% en :stamina:, 8% en :guts: <br> et 14% en :wit:. Le bonus de Stamina et Wit sont bons mais le Guts reste moins intéressant que les 2 autres qu’elle n’a pas. Ses decks pour Grand Concert seront 3 :speed: / 2 :wit: / Light Hello ou 2 :speed: / 2 :wit: / Light Hello / Flex (Stamina pour avoir suffisamment d’HP en Medium / Long).
+
+::: tip 3 supports Speed pour Grand Concert
+
+Avec le cap à 1600 de Speed, avoir 3 cartes Speed est quasiment obligatoire pour elle car elle ne possède pas de croissance en Speed.
+
+:::
+
+- Ses gold skills sont :
+
+    - **Breakin’ Ahead**, la gold version de _Breakin’ Out_. C’est un gold skill de vélocité et de vélocité dans les mouvements de Lane d’End Closer. Il s’active aléatoire en Mid-Race si l’uma est positionné dans le bottom 25% (≥7 en CM)<br>
+    Ce n’est pas aussi fort que **Daring Strike**, mais c’est un outil en plus pour les End Closers. Le boost de Lane Movement Speed va l’aider à faire de meilleurs dépassements. C’est aussi la seul uma du jeu à posséder ce skill en version gold.
+
+    - **From the Brink**, la gold version de _Take the Chance_. C’est un gold d’accélération pour le Medium qui s’active aléatoirement dans la première partie du Late-Race si elle est dans le bottom 60% ( 4e en CM).<br>
+    Grâce au buff, c’est devenu un bien meilleur skill, tout comme le sont devenu **Neck and Neck** ou **On Your Left !**
+
+- Son 3ème évènement de costume à 3 résultats différents en fonction des choix que vous avez fait sur les 2 autres évènements de costume. Si vous avez pris 2 fois le 1er choix, vous aurez des hints pour _Long Corners_ et _Pressure_. Si 2 fois le 2ème choix, vous aurez des hints pour _Medium Corners_ et _Eager_. Le dernier résultat lui donnera +3 dans toutes ses stats et 25 skill points.
+
+- Elle possède un évènement _**Don’t Say It**_, qui lui donne un Practice Poor spécial. Si vous le soignez avant son objectif Nikkei Sho, elle obtiendra un bon boost dans toutes les stats, une grosse quantité de skill points, +4 Mood et Practice Perfect + (double cercle). Si vous ne le soignez pas avant Nikkei Sho, le boost de stats sera un peu moins puissant et au lieu de recevoir Practice Perfect +, le Practice Poor sera soigné.
+
+- Son unique est un speed boost de seconde moitié de Final Corner en Late-Race, s’activant si elle est entre le bottom 60% et le top 75% (≥4 <-> ≤7 en CM).<br>
+Les valeurs de l’unique sont basiques et l’activation en seconde moitié de Final Corner fait qu’il n’y aura pas de boost gâché en Medium et Long. Il peut parfois créer du carry-over dans les courses Sprint et Mile, si le Late-Race commence très tard dans le Final Corner ou au début du Final Straight.
+
+
+#### Pull ou pas ? :
+
+Si Winning Ticket est votre Oshi, sinon non. Narita Taishin est un cas à part, à moins que vous voulez jouer le long jeu pour la version Steampunk, ne la pullez.
+
+Winning Ticket (Steampunk) est moyenne sans plus. Elle est un peu meilleure que sa forme OG, mais c’est à peu près tout. Pendant Grand Concert, elle sera aussi moins forte que sa compétition directe vu qu’elle possède déjà Come What May, que les autres vont recevoir d’une Agnes Tachyon Support. Ne pullez pour elle seulement si elle est votre Oshi.
+ 
+Narita Taishin (Steampunk) est dans une situation pire que Winning Ticket (Steampunk). Elle est meilleure que son OG seulement sur les courses où Encroaching Shadow ne s’active pas. Le problème est que si Encroaching Shadow ne s’active pas, les End Closers vont être peut utiliser de base. On se trouve donc dans une situation où si on veut l’utiliser, cela sera seulement sur des courses non optimales pour une End Closer.
+Elle deviendra meilleure que son OG seulement après qu’une carte Support sorte avec Encroaching Shadow. Cela veut dire après 2 scénarios (pendant Project L’Arc).
+ 
+Ne pullez pas sur cette bannière.
+
+::::
