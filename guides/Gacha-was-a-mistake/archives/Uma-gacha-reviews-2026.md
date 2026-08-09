@@ -1368,8 +1368,6 @@ Ne pullez pas sur cette bannière.
 
 ⏩ **Seeking the Pearl** :
 
-⏩ **Seeking the Pearl** :
-
 _Seeking the Pearl est une Pace Chaser / Late Surger pour le Sprint (1 gold) et le Mile (1 gold). Avec de l’inspiration, elle peut courir en tant qu’End Closer et en tant que Front Runner (respectivement 1 étoile et 4 étoiles). Elle possède un gold de vélocité pour le Sprint et un gold de vélocité pour le Mile. Son unique est un boost de vélocité qui s’active sur les 200 derniers mètres._
  
 - Seeking the Pearl possède 2 bonus de croissances : 10% en :speed: et 20% en :wit:. C’est un bon combo de bonus, surtout pour le Sprint et le Mile. Encore plus si vous décidez de la jouer Late Surger avec la carte Power SSR qui sort en même temps qu’elle. Elle utilisera des decks classiques avec un flex Power ou Guts.

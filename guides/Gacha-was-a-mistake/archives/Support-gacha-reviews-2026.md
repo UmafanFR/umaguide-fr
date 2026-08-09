@@ -1360,7 +1360,7 @@ Ne pullez pas sur cette bannière.
 - Elle propose une liste de 11 hints❗, avec beaucoup de skills de debuff , 3 skills pour Late Surger (_Late Surger Straightaways_ / _Fearless_ / _Slick Surge_) et **Lone Wolf**. Ses hints seront faibles. Elle n'est pas une bonne carte pour le parent farming.
  
 - Son gold skill est **Flash Forward (Sprint / Mile)**, la gold version de _Leap Forward_. C'est un gold d’accélération pour le Sprint et le Mile, qui s’active en Late-Race si l’uma est dans le bottom 50% et si elle entreprends de tenter un dépassement.<br>
-C’est un excellent skill d’accélération, fiable pour les Late Surgers et les End Closers. Comparé à Encroaching Shadow, et à supposer que le timing soit parfait ou presque, Leap Forward sera plus puissant dû à sa durer 2 fois plus longue (plus proche de 2,2 fois).
+C’est un excellent skill d’accélération, fiable pour les Late Surgers et les End Closers. Comparé à Encroaching Shadow, et à supposer que le timing soit parfait ou presque, Leap Forward sera plus puissant dû à sa durée 2 fois plus longue (plus proche de 2,2 fois).
 
 ⏩**K.S. Miracle** :guts: :sr:
 

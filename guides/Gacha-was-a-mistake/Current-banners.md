@@ -124,7 +124,7 @@ Mais elle est loin d’être un must pull, c'est juste une bonne uma.
 - Elle propose une liste de 11 hints❗, avec beaucoup de skills de debuff , 3 skills pour Late Surger (_Late Surger Straightaways_ / _Fearless_ / _Slick Surge_) et **Lone Wolf**. Ses hints seront faibles. Elle n'est pas une bonne carte pour le parent farming.
  
 - Son gold skill est **Flash Forward (Sprint / Mile)**, la gold version de _Leap Forward_. C'est un gold d’accélération pour le Sprint et le Mile, qui s’active en Late-Race si l’uma est dans le bottom 50% et si elle entreprends de tenter un dépassement.<br>
-C’est un excellent skill d’accélération, fiable pour les Late Surgers et les End Closers. Comparé à Encroaching Shadow, et à supposer que le timing soit parfait ou presque, Leap Forward sera plus puissant dû à sa durer 2 fois plus longue (plus proche de 2,2 fois).
+C’est un excellent skill d’accélération, fiable pour les Late Surgers et les End Closers. Comparé à Encroaching Shadow, et à supposer que le timing soit parfait ou presque, Leap Forward sera plus puissant dû à sa durée 2 fois plus longue (plus proche de 2,2 fois).
 
 ⏩**K.S. Miracle** :guts: :sr:
 
@@ -212,7 +212,7 @@ Ce n’est pas une mauvaise bannière, mais aucune n’est si importante que ça
  
 - Ses rainbows sont plutôt bons avec son bon Friendship Bonus et Special Priority, en plus de ses Speed Bonus. Son cross-training est quasiment inexistant en dehors de son Skill Point Bonus, ses Speed Bonus et son bon Race Bonus.
  
-- Elle propose une liste de 9 hints❗, tous sympa ou intéressant, surtout _Slipstream_, dont la plupart sont principalement utile pour les Front Runners. Elle possède un puissant Hint Levels et Hint Frequency. Ses hints seront très puissants.
+- Elle propose une liste de 9 hints❗, tous sympa ou intéressant, dont la plupart sont principalement utile pour les Front Runners. Elle possède un puissant Hint Levels et Hint Frequency. Ses hints seront très puissants.
  
 - Son gold skill est **Perfect Spot !**, la gold version de _Slipstream_. C’est un gold skill de vélocité qui peut s’activer après 10s de course et qu’une uma a été devant elle pendant 3s. Le skill peut se réactiver s’il s’active suffisamment tôt ou que le course est suffisamment longue.<br>
 C’est un excellent skill pour toutes les stratégies sauf les Runaways (tant qu’elles ne peuvent pas survivre contre d’autres Runaways).
