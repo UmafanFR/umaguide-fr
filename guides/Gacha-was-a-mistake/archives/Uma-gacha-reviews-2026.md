@@ -1327,3 +1327,71 @@ Elle deviendra meilleure que son OG seulement après qu’une carte Support sort
 Ne pullez pas sur cette bannière.
 
 ::::
+
+## #57 - Yukino Bijin ★★★
+
+![Image de présentation de la bannière Yukino Bijin](/public/assets/Gacha-reviews/2026/057_Uma-Banner.png)
+
+:::details REVIEW
+
+⏩ **Yukino Bijin** :
+
+_Yukino Bijin est une Pace Chaser pour le Mile et le Medium Turf. Avec de l’inspiration, elle peut courir en Dirt, en Sprint et en tant que Front Runner (respectivement 1 étoile, 7 étoiles et 4 étoiles). Elle possède 2 gold d’accélération, le premier universel et le second de Pace Chaser. Son unique est un boost de vélocité classique, s’activant dans les 300 derniers mètres, si Yukino Bijin est dans le top 4 et à un écart maximal de 5 mètres avec la première place._
+ 
+- Yukino Bijin possède 2 bonus de croissances : 10% en :speed: et 20% en :guts:. C’est un mauvais combo de bonus, on aurait préféré l’inverse. Elle utilisera des decks classiques avec une carte stamina ou une carte avec **Neck and Neck** en potentiel flex (si vous la jouer en Pace Chaser).
+ 
+- Ses gold skills sont :
+    - **No Stopping Me !**, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant en Late Race si votre uma a assez de HP pour finir la course, et qu'une uma adverse se trouve devant elle (en face, ou sur une voie adjacente) pendant 1 seconde. C’est un très bon skill universel (sauf pour les Front Runner).
+ 
+    - **Determined Descent**, la gold version de _Straight Descent_. C'est un gold d'accélération de Pace Chaser, s'activant à un point random d'une descente random. Le skill est particulièrement situationnel, et n'a d'intérêt que dans les courses ayant une descente courte au début du late-race (mais pas d'autre descente). Ce n'est pas un skill fiable, mais il peut être occasionnellement très puissant sur certaines courses (typiquement, Kyoto med).
+ 
+- Elle possède un Secret Event, lié à lui faire gagner un des deux M.C. Nambu Hai (Early October). Elle reçoit des stats, des skill points mais surtout un hint pour _Full Tilt_, un skill Dirt.
+ 
+- Son unique est un boost de vélocité classique, s’activant dans les 300 derniers mètres, si Yukino Bijin est dans le top 4 et à un écart maximal de 5 mètres avec la première place.<br>
+C’est un unique très basique de fin de course, pas grand-chose à dire de plus dessus.
+
+#### Pull ou pas ? :
+
+Seulement si elle est votre Oshi.
+ 
+Yukino Bijin est une uma basique. Elle sort du lot surtout avec le fait qu’elle puisse courir facilement en Dirt et qu’elle possède **No Stopping Me !**, l’un des 2 principaux skills d’accélération pour les Pace Chasers dans les distances Medium et Long.
+ 
+Ne pullez pas sur cette bannière.
+
+:::
+
+## #58 - Seeking the Pearl ★★★
+
+<!-- ![Image de présentation de la bannière Seeking the Pearl](/public/assets/Gacha-reviews/2026/056_Uma-Banner.png) -->
+
+:::details REVIEW
+
+⏩ **Seeking the Pearl** :
+
+_Seeking the Pearl est une Pace Chaser / Late Surger pour le Sprint (1 gold) et le Mile (1 gold). Avec de l’inspiration, elle peut courir en tant qu’End Closer et en tant que Front Runner (respectivement 1 étoile et 4 étoiles). Elle possède un gold de vélocité pour le Sprint et un gold de vélocité pour le Mile. Son unique est un boost de vélocité qui s’active sur les 200 derniers mètres._
+ 
+- Seeking the Pearl possède 2 bonus de croissances : 10% en :speed: et 20% en :wit:. C’est un bon combo de bonus, surtout pour le Sprint et le Mile. Encore plus si vous décidez de la jouer Late Surger avec la carte Power SSR qui sort en même temps qu’elle. Elle utilisera des decks classiques avec un flex Power ou Guts.
+ 
+- Ses gold skills sont :
+ 
+    - **Shocking Flash**, la gold version de _Sprint Straightways_. C’est un gold de vélocité pour le Sprint, qui s’active dans une ligne droite aléatoire. Son aléatoire, en plus du fait que les skills de corners sont généralement plus intéressants en Sprint, fait que le skill est correct sans plus.<br>
+    On va généralement préférer quand le skill s’active dans la 2ème et dernière ligne droite des courses sprints (sauf Niigata 1000 m qui est une ligne droite et Nakayama 1200m Outer Turf, qui ne possède qu’une seule ligne droite).
+    >L’évolution de son skill sera aussi utilisable en Mile, réglant son problème de gold skill non utilisable.
+ 
+    - **Big-Sisterly**, la gold version de _Unyielding Spirit_. C’est un gold de vélocité pour le Mile s’activant quand Seeking the Pearl peut overtake une uma après 5 secondes de courses. C’est un skill utile pour se positionner au début de la course.
+    >L’évolution de son skill sera aussi utilisable en Sprint, réglant son problème.
+ 
+- Elle possède un évènement aléatoire et réitérable qui désactive 4 zones d'entraînements pour un gain de 25 dans une stat aléatoire.
+ 
+- Son unique est un boost de vélocité qui s’active sur les 200 derniers mètres. Elle l’active si elle se trouve 2ème ou dans une position inférieure en ayant un écart maximal de 10 mètres avec la 1ère place. Si l’écart est inférieur ou égale à 5 mètres, l’unique sera plus puissant. <br>
+C’est un unique similaire à celui d’Oguri Cap, bien que généralement moins puissant.
+
+#### Pull ou pas ? :
+
+Si elle est votre Oshi, oui.
+ 
+Elle est pour l’instant une uma qui est freinée par le fait qu’elle se spécifie sur 2 distances en même temps. Autrement, c’est une bonne uma Sprint et Mile.
+ 
+Mais elle est loin d’être un must pull, c'est juste une bonne uma.
+
+:::

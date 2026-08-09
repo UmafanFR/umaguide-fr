@@ -1299,3 +1299,79 @@ Tokai Teio Wit SSR est une excellente carte Wit, du même niveau que Fine Motion
 Cela reste une bannière où vous  ne devez pas pull.
 
 :::
+
+## #57 - Silence Suzuka Speed SSR & Smart Falcon Power SSR (Rerun)
+
+![Image de présentation de la bannière Silence Suzuka Speed SSR & Smart Falcon Power SSR](/public/assets/Gacha-reviews/2026/057_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Silence Suzuka** :speed: :SSR:
+
+Vous aurez le lien pour la description des informations, elle reçoit un nouveau bilan dans cette review
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_11-silence-suzuka-speed-ssr-et-tamamo-cross-stam-ssr-rerun)
+
+La carte c'est fait power creep dans tous les compartiments de jeu. Dans le parent farming, il y a une carte gratuite d’elle-même qui est meilleure que cette carte. Et en tant que 2/3 ème carte Speed dans un deck, elle est complètement mise de côté par Maruzensky SSR et Agnes Tachyon SSR.<br>
+C’est une carte du début du jeu qui a maintenant compléter sa durée de vie
+
+⏩**Smart Falcon** :power: :ssr:
+
+- La carte est frontloaded. A 1LB, elle débloque Stamina Bonus puis le combo Race Bonus et Fan Bonus à 3LB.
+ 
+- Son Unique Effect lui donne 1 Power Bonus et de l’Initial Power.
+ 
+- Ses rainbows sont faibles avec un faible Friendship Bonus et Special Priority, bien que compenser par ses stats bonus. Son cross training est aussi faible, reposant entièrement sur son bon Mood Bonus.
+ 
+- Elle propose une liste de 8 hints❗, mais aucun n’est suffisamment important pour la prendre pour du hint farming.
+ 
+- Son gold skill est **Center Stage**, la gold version de _Prudent Positioning_. C’est un boost de mouvement pour l’Early-Race. Le skill est inutile pour elle. On utilise premièrement la version white si on veut utiliser le skill et surtout c’est un skill qui peut être utile pour les Front Runners si vous le combinez avec _Dodging Danger_. Sinon le skill est mauvais.
+ 
+- Le Chain Event pour son gold skill est **AGEMASEN**, vous pouvez soit recevoir le gold skill, ou la version white du skill. Ce n'est pas un problème pour ce skill, la version white est meilleure.
+ 
+- Ses Chain Events donnent de bon skills, dont _Groundwork_ et _Top Pick_ si vous souhaitez avoir son dernier Chain Event. Vous pouvez aussi décider d'arrêter ses Chain Events dès le premier, en prenant _Focus_.
+
+#### PULL OU PAS
+
+Non, les 2 sont des cartes du début du jeu, qui ont atteint la fin de leur durée de vie.
+ 
+Silence Suzuka Speed SSR à été power creep par d’autres cartes. Smart Falcon Power SSR à surtout perdu en utilité. On l’utilisé pour avoir facilement Groundwork et Prudent Positioning, mais Grand Live ne nous permet plus de pouvoir prendre une carte aussi faible dans notre deck pour nos Aces.
+ 
+Son autre problème est pour le parent farming. Avec le mode auto, il est pour l’instant difficile de finir les Chain Event, cela veut dire perdre l’un des 2 skills important qu’elle donnait. C’est une carte qui est maintenant utile que pour le parent farming manuel.
+ 
+Ne pullez pas sur cette bannière.
+
+:::
+
+## #58 - Daiichi Ruby Power SSR & K.S. Miracle Guts SR
+
+<!-- ![Image de présentation de la bannière Daiichi Ruby Power SSR & K.S. Miracle Guts SR](/public/assets/Gacha-reviews/2026/056_Card-Banner.png) -->
+
+:::details REVIEW
+
+⏩**Daiichi Ruby** :power: :SSR:
+
+- La carte est relativement frontloaded, mais possède une croissance équilibrée. A 1LB, elle débloque Skill Point Bonus puis Initial Guts à 3LB.
+ 
+- Son Unique Effect lui donne 2 Power Bonus quand son bond atteint 80 (orange)
+ 
+- Ses rainbows sont assez bon dès 1LB et bons à MLB avec son bon Friendship Bonus et son très bon Special Priority. Elle possède un haut Initial Friendship Gauge, ce qui est très sympa pour une carte où on va généralement peu cliquer dessus sur Grand Concert. Son cross-training est faible avec un très faible Training Effectiveness, bien que le Skill Point Bonus et Power Bonus restent très sympas.
+ 
+- Elle propose une liste de 11 hints❗, avec beaucoup de skills de debuff , 3 skills pour Late Surger (_Late Surger Straightaways_ / _Fearless_ / _Slick Surge_) et **Lone Wolf**. Ses hints seront faibles. Elle n'est pas une bonne carte pour le parent farming.
+ 
+- Son gold skill est **Flash Forward (Sprint / Mile)**, la gold version de _Leap Forward_. C'est un gold d’accélération pour le Sprint et le Mile, qui s’active en Late-Race si l’uma est dans le bottom 50% et qu’elle possède une overtake target.<br>
+C’est un excellent skill d’accélération, fiable pour les Late Surgers et les End Closers. C’est plus puissant que Encroaching Shadow si les 2 skills s’activent en même temps pour comparaison.
+
+⏩**K.S. Miracle** :guts: :sr:
+
+- La carte est équilibrée. A 1LB, elle débloque le combo de Hint Levels et Hint Frequency puis Guts Bonus à 3LB.
+ 
+- Son Unique lui donne 10 de Friendship Bonus et 1 Skill Point Bonus. Son Friendship Bonus finale est donc multiplicatif.
+ 
+- Ses rainbows sont assez bons dès LB0 et vraiment puissants pour une SR à MLB. Son cross-training est cependant inexistant.
+ 
+- Elle propose une liste de 6 hints❗, dont _On the Attack_, _Pace Chaser Straightaways_, _Sprint Corners_ et _Updrafters_. Avec son combo de Hint Levels et Hint Frequenccy, ses hints seront puissants. C’est une bonne carte pour le parent farming, avec des hints utiles.
+ 
+- Son premier Chain Event nous donne _Sprint Straigtaways_. Son dernier Chain Event donne soit des skill hints, soit 30 d’énergie.
+
+::::
