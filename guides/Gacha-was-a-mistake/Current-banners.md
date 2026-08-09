@@ -89,21 +89,21 @@ _Seeking the Pearl est une Pace Chaser / Late Surger pour le Sprint (1 gold) et 
  
     - **Shocking Flash**, la gold version de _Sprint Straightways_. C’est un gold de vélocité pour le Sprint, qui s’active dans une ligne droite aléatoire. Son aléatoire, en plus du fait que les skills de corners sont généralement plus intéressants en Sprint, fait que le skill est correct sans plus.<br>
     On va généralement préférer quand le skill s’active dans la 2ème et dernière ligne droite des courses sprints (sauf Niigata 1000 m qui est une ligne droite et Nakayama 1200m Outer Turf, qui ne possède qu’une seule ligne droite).
-    >L’évolution de son skill sera aussi utilisable en Mile, réglant son problème de gold skill non utilisable.
+    >L’évolution de son skill sera aussi utilisable en Mile, pour le rendre plus flexible et cohérent avec le kit de Seeking the Pearl.
  
-    - **Big-Sisterly**, la gold version de _Unyielding Spirit_. C’est un gold de vélocité pour le Mile s’activant quand Seeking the Pearl peut overtake une uma après 5 secondes de courses. C’est un skill utile pour se positionner au début de la course.
-    >L’évolution de son skill sera aussi utilisable en Sprint, réglant son problème.
+    - **Big-Sisterly**, la gold version de _Unyielding Spirit_. C’est un gold de vélocité pour le Mile s’activant quand Seeking the Pearl veut overtake une uma après 5 secondes de courses. C’est un skill utile pour se positionner au début de la course.
+    >L’évolution de son skill sera aussi utilisable en Sprint, pour le rendre plus flexible et cohérent avec le kit de Seeking the Pearl.
  
-- Elle possède un évènement aléatoire et réitérable qui désactive 4 zones d'entraînements pour un gain de 25 dans une stat aléatoire.
+- Elle possède un évènement aléatoire et réitérable qui désactive 4 zones d'entraînements pour un gain de 25 dans une stat aléatoire. C'est l'évènement qui est similaire à Gold Ship, Gold City et d'autres.
  
-- Son unique est un boost de vélocité qui s’active sur les 200 derniers mètres. Elle l’active si elle se trouve 2ème ou dans une position inférieure en ayant un écart maximal de 10 mètres avec la 1ère place. Si l’écart est inférieur ou égale à 5 mètres, l’unique sera plus puissant. <br>
+- Son unique est un boost de vélocité qui s’active sur les 200 derniers mètres. Elle l’active si elle est 2ème ou pire, en étant à 10 mètres ou moins de la uma en 1e position. Si elle est à 5 mètres ou moins, l'unique sera plus puissant. <br>
 C’est un unique similaire à celui d’Oguri Cap, bien que généralement moins puissant.
 
 #### Pull ou pas ? :
 
 Si elle est votre Oshi, oui.
  
-Elle est pour l’instant une uma qui est freinée par le fait qu’elle se spécifie sur 2 distances en même temps. Autrement, c’est une bonne uma Sprint et Mile.
+Elle est pour l’instant une uma qui est freinée par le fait qu’elle se spécifie sur 2 distances en même temps, sans pouvoir utiliser son plein potentiel ni sur l'une ni sur l'autre. Autrement, c’est une bonne uma Sprint et Mile.
  
 Mais elle est loin d’être un must pull, c'est juste une bonne uma.
 
@@ -123,14 +123,14 @@ Mais elle est loin d’être un must pull, c'est juste une bonne uma.
  
 - Elle propose une liste de 11 hints❗, avec beaucoup de skills de debuff , 3 skills pour Late Surger (_Late Surger Straightaways_ / _Fearless_ / _Slick Surge_) et **Lone Wolf**. Ses hints seront faibles. Elle n'est pas une bonne carte pour le parent farming.
  
-- Son gold skill est **Flash Forward (Sprint / Mile)**, la gold version de _Leap Forward_. C'est un gold d’accélération pour le Sprint et le Mile, qui s’active en Late-Race si l’uma est dans le bottom 50% et qu’elle possède une overtake target.<br>
-C’est un excellent skill d’accélération, fiable pour les Late Surgers et les End Closers. C’est plus puissant que Encroaching Shadow si les 2 skills s’activent en même temps pour comparaison.
+- Son gold skill est **Flash Forward (Sprint / Mile)**, la gold version de _Leap Forward_. C'est un gold d’accélération pour le Sprint et le Mile, qui s’active en Late-Race si l’uma est dans le bottom 50% et si elle entreprends de tenter un dépassement.<br>
+C’est un excellent skill d’accélération, fiable pour les Late Surgers et les End Closers. Comparé à Encroaching Shadow, et à supposer que le timing soit parfait ou presque, Leap Forward sera plus puissant dû à sa durer 2 fois plus longue (plus proche de 2,2 fois).
 
 ⏩**K.S. Miracle** :guts: :sr:
 
 - La carte est équilibrée. A 1LB, elle débloque le combo de Hint Levels et Hint Frequency puis Guts Bonus à 3LB.
  
-- Son Unique lui donne 10 de Friendship Bonus et 1 Skill Point Bonus. Son Friendship Bonus finale est donc multiplicatif.
+- Son Unique lui donne 10 de Friendship Bonus et 1 Skill Point Bonus. Son Friendship Bonus final est donc multiplicatif, et très élevé.
  
 - Ses rainbows sont assez bons dès LB0 et vraiment puissants pour une SR à MLB. Son cross-training est cependant inexistant.
  
@@ -141,8 +141,6 @@ C’est un excellent skill d’accélération, fiable pour les Late Surgers et l
 #### PULL OU PAS
 
 Non.
- 
-Il n’y a pas d’autres cartes à pull pendant Grand Concert, sauf 1 cas potentiel.
  
 Daiichi Ruby Power SSR est un excellent borrow pour votre backline dans les courses Sprint et Mile. K.S. Miracle Guts SR est une carte moyenne parmi les cartes moyennes que sont quasiment toutes les cartes Guts.
  
@@ -158,7 +156,7 @@ Ne pullez pas sur cette bannière, borrow Daiichi Ruby si vous en avez besoin.
 
 ⏩ **Meisho Doto (Halloween)** :
 
-_Meisho Doto (Halloween) est une Pace Chaser pour le Medium et le Long. Avec de l’inspiration, elle peut courir en tant que Late Surger (1 étoile). Elle possède un gold d’accélération pour Pace Chaser et un gold de recovery universel. Son unique est un boost de vélocité et d’un faible debuff de Current Speed, pour 2 umas devant et derrière elle, de Final Straight._
+_Meisho Doto (Halloween) est une Pace Chaser pour le Medium et le Long. Avec de l’inspiration, elle peut courir en tant que Late Surger (1 étoile). Elle possède un gold d’accélération pour Pace Chaser et un gold de recovery universel. Son unique est un boost de vélocité et accompagné d’un faible debuff de Current Speed, pour 2 umas devant et derrière elle, sur le Final Straight._
  
 - Elle possède 2 bonus de croissances : 15% en :power: et 15% en :wit:. C’est un combo de bonus très bon, surtout avec son gold de recovery qu’elle possède. Elle peut jouer les decks basiques Speed + Wit si vous avez de bons parents Stamina.
  
@@ -166,13 +164,13 @@ _Meisho Doto (Halloween) est une Pace Chaser pour le Medium et le Long. Avec de 
 
     - **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération pour Pace Chaser, s’activant aléatoirement dans la première moitié du Late-Race et qu’elle soit dans le top 50%. Depuis le buff que le skill a reçu, il est devenu bien meilleur et indispensable pour les Pace Chasers. Il est pour l’instant l’un des 2 skills d’accélération principaux pour les Pace Chasers.
  
-    - **Swinging Maestro**, la gold version de _Corner Recovery_. C’est un recovery qui s’active au premier corner possible, qui sont généralement dans le Mid-Race. C’est un excellent skill
+    - **Swinging Maestro**, la gold version de _Corner Recovery_. C’est un recovery qui s’active au premier corner possible, qui sont dans le Mid-Race. C’est un excellent skill
  
 - Elle possède un Secret Event qui lui donne un malus, **Not Ready**, qui donne une chance random de consommer 5 énergies après une course. Ce malus est soigné en 2ème partie d’Octobre de la Classic Year si elle possède 15000 fans.
  
 - Elle possède un autre Secret Event lié au fait de battre T.M Opera O. Afin de l’accomplir, il faut lui faire courir en plus le **Satsuki Sho** et le **Tenno Sho (Spring)**. Ce Secret Event lui donne un hint pour _Prepared to Pass_ et _Up Tempo_, et un boost de 10 dans toutes les stats. Il n’est pas très rentable sur les scénarios où il faut essayer de ne pas courir en plus.
  
-- Son unique est un boost de vélocité et d’un faible debuff de Current Speed, pour 2 umas devant et derrière elle, de Final Straight. L’unique s’active si Meisho Doto (Halloween) est dans le top 40%.<br>
+- Son unique est un boost de vélocité et accompagné d’un faible debuff de Current Speed, ciblant 2 umas devant et derrière elle, de Final Straight. L’unique s’active si Meisho Doto (Halloween) est dans le top 40%.<br>
 C'est un unique basique, bien que les faibles debuff de Current Speed peuvent faire la différence sur le Last Straight.
 
 ⏩ **Agnes Digital (Halloween)** :
@@ -187,12 +185,12 @@ _Agnes Digital est une Pace Chaser / Late Surger pour le Mile et Medium, que ce 
  
     - **Can't Keep Me Down**, la gold version de _Comeback_. C’est un gold de vélocité pour le Dirt, s’activant aléatoirement en Mid-Race si elle est dans le bottom 50%. C’est un bon gold skill basique.
  
-- Agnes Digital possède un Secret Event lié à gagner une gagner plusieurs courses. En dehors de gagner certaines courses qui sont dans ses objectifs, elle doit aussi participer au **Hanshin Juneviles Fillies** ou **Asahi Hai Futures Stakes**, au **Oka Sho**, au **February Stakes**, au **Victoria Mile** et un des **Yasuda Kinen**. Ce Secret Event lui donne 20 en Speed et Power et des hints pour _Updrafters_ et _Unyielding Spirit_.
+- Agnes Digital possède un Secret Event lié à gagner une gagner plusieurs courses. En dehors de gagner certaines courses qui sont dans ses objectifs, elle doit aussi participer au **Hanshin Juneviles Fillies** ou **Asahi Hai Futures Stakes**, au **Oka Sho**, au **February Stakes**, au **Victoria Mile** et un des **Yasuda Kinen**. Ce Secret Event lui donne 20 en Speed et Power et des hints pour _Updrafters_ et _Unyielding Spirit_. Ce n'est pas un Secret Event rentable.
  
-- Elle possède un second Secret Event lié à gagner le **M.C. Nambu Hai**. Cela lui donne 5 en Speed et Stamina, 10 en Power et Guts, et un hint pour _Morioka Racecourse_ et _Rapid Gain_.
+- Elle possède un second Secret Event lié à gagner le **M.C. Nambu Hai**. Cela lui donne 5 en Speed et Stamina, 10 en Power et Guts, et un hint pour _Morioka Racecourse_ et _Rapid Gain_ (Rapid Gain est une accel random backline de late race en Dirt).
  
-- Son unique est un boost de vélocité de Mid-Race. L’unique s’active dans un corner si elle a au moins 3 uma proches d’elles (comme Uma Stan) et qu’elle soit dans le bottom 60%.<br>
-L’unique peut avoir du mal à s’activer dans les rooms avec beaucoup de Front Runner.
+- Son unique est un boost de vélocité de Mid-Race. L’unique s’active dans un corner si elle a au moins 3 uma proches d’elles (comme Uma Stan) et qu’elle est dans le bottom 60%.<br>
+L’unique peut avoir du mal à s’activer dans les rooms avec beaucoup de Front Runner. En tant qu'unique de Mid-Race, ce qui reste plutôt rare, il est très efficace quand il s'active.
 
 #### Pull ou pas ? :
 
@@ -202,9 +200,9 @@ Meisho Doto (Halloween) est plutôt bonne, surtout en possédant des gold skills
  
 Agnes Digital (Halloween) est, comme sa version OG, une bonne uma à avoir pour sa flexibilité de course. Elle est d’une puissance similaire à sa version OG. Elle est une uma à prendre si vous avez besoin de sa flexibilité pour le Dirt et le Turf.
  
-Ce n’est pas une mauvaise bannière, mais aucune n’est plus importante que ça. Ne pullez pas sur cette bannière.
+Ce n’est pas une mauvaise bannière, mais aucune n’est si importante que ça. Ne pullez pas sur cette bannière.
 
-### Bannière Support à suivre : Silence Suzuka Speed SSR & Smart Falcon Power SSR (Rerun)
+### Bannière Support à suivre : Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR
 
 ⏩**Daitaku Helios** :speed: :SSR:
 
@@ -214,7 +212,7 @@ Ce n’est pas une mauvaise bannière, mais aucune n’est plus importante que �
  
 - Ses rainbows sont plutôt bons avec son bon Friendship Bonus et Special Priority, en plus de ses Speed Bonus. Son cross-training est quasiment inexistant en dehors de son Skill Point Bonus, ses Speed Bonus et son bon Race Bonus.
  
-- Elle propose une liste de 9 hints❗, tous sympa ou intéressant, surtout _Slipstream_, principalement utile pour les Front Runners, bien qu’elle puisse être utile pour les autres stratégies. Elle possède un puissant Hint Levels et Hint Frequency. Ses hints seront très puissants.
+- Elle propose une liste de 9 hints❗, tous sympa ou intéressant, surtout _Slipstream_, dont la plupart sont principalement utile pour les Front Runners. Elle possède un puissant Hint Levels et Hint Frequency. Ses hints seront très puissants.
  
 - Son gold skill est **Perfect Spot !**, la gold version de _Slipstream_. C’est un gold skill de vélocité qui peut s’activer après 10s de course et qu’une uma a été devant elle pendant 3s. Le skill peut se réactiver s’il s’active suffisamment tôt ou que le course est suffisamment longue.<br>
 C’est un excellent skill pour toutes les stratégies sauf les Runaways (tant qu’elles ne peuvent pas survivre contre d’autres Runaways).
@@ -223,7 +221,7 @@ C’est un excellent skill pour toutes les stratégies sauf les Runaways (tant q
 
 - La carte est frontloaded. A 1LB, elle débloque Skill Point Bonus puis Initial Guts à 3LB.
  
-- Son Unique Effect lui donne du Training Effectiveness en fonction de votre énergie. Elle reçoit 5 de Training Effectiveness à 0 énergie et 20 de Training Effectiveness à 100 énergies.
+- Son Unique Effect lui donne du Training Effectiveness en fonction de votre énergie. Elle reçoit 5 de Training Effectiveness à 0 énergie et 20 de Training Effectiveness à 100 énergies. C'est un bon effet unique, bien que rarement à pleine puissance. La majorité des entrainements se font entre 50 et 75 d'énergie, ce qui correspond entre 10 et 15 de Training Effectiveness.
  
 - Dès LB0, ses rainbows sont assez sympa et puissant à MLB grâce à ses très bon Friendship Bonus et Special Priority. Son cross-training dépend complètement de son Unique Effect et de son Skill Point Bonus.
  
@@ -240,7 +238,7 @@ Non.
  
 Daitaku Helios Speed SSR n’est pas au niveau comparé aux autres cartes Speed que l’on a pu avoir. La carte reste intéressante mais elle n’est pas à pull.
  
-Mejiro Palmer Stamina SSR devient mauvaise car c’est une carte Stamina. Si on met une carte Stamina, c’est qu’on à besoin d’une bonne quantité de Stamina et qui peut être aidé par un gold skill de recovery. C’est la raison principale de pourquoi Super Creek Stamina SSR est forte. Ici, le gold skill qu’elle nous donne est déjà offert sur une carte Wit gratuite. Même quand cette carte Wit deviendra obsolète, on se passera de ce gold skill car on aura la version gold de Groundwork. C’est une carte qui est mauvaise principalement à cause du fait qu’elle soit Stamina et non Wit / Power / Guts, où elle aurait pu être utilisée quasiment partout.
+Mejiro Palmer Stamina SSR n'est pas désirable car c’est une carte Stamina. Si on met une carte Stamina, c’est qu’on à besoin d’une bonne quantité de Stamina et qui peut être aidé par un gold skill de recovery. C’est la raison principale de pourquoi Super Creek Stamina SSR est forte. Ici, le gold skill qu’elle nous donne est déjà offert sur une carte Wit gratuite. Même quand cette carte Wit deviendra obsolète, on se passera de ce gold skill car on aura la version gold de Groundwork. C’est une carte qui est mauvaise principalement à cause du fait qu’elle soit Stamina et non Wit / Power / Guts, où elle aurait pu être utilisée quasiment partout.
  
 Ne pullez pas sur cette bannière.
 
