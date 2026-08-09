@@ -1368,6 +1368,8 @@ Ne pullez pas sur cette bannière.
 
 ⏩ **Seeking the Pearl** :
 
+⏩ **Seeking the Pearl** :
+
 _Seeking the Pearl est une Pace Chaser / Late Surger pour le Sprint (1 gold) et le Mile (1 gold). Avec de l’inspiration, elle peut courir en tant qu’End Closer et en tant que Front Runner (respectivement 1 étoile et 4 étoiles). Elle possède un gold de vélocité pour le Sprint et un gold de vélocité pour le Mile. Son unique est un boost de vélocité qui s’active sur les 200 derniers mètres._
  
 - Seeking the Pearl possède 2 bonus de croissances : 10% en :speed: et 20% en :wit:. C’est un bon combo de bonus, surtout pour le Sprint et le Mile. Encore plus si vous décidez de la jouer Late Surger avec la carte Power SSR qui sort en même temps qu’elle. Elle utilisera des decks classiques avec un flex Power ou Guts.
@@ -1376,14 +1378,14 @@ _Seeking the Pearl est une Pace Chaser / Late Surger pour le Sprint (1 gold) et 
  
     - **Shocking Flash**, la gold version de _Sprint Straightways_. C’est un gold de vélocité pour le Sprint, qui s’active dans une ligne droite aléatoire. Son aléatoire, en plus du fait que les skills de corners sont généralement plus intéressants en Sprint, fait que le skill est correct sans plus.<br>
     On va généralement préférer quand le skill s’active dans la 2ème et dernière ligne droite des courses sprints (sauf Niigata 1000 m qui est une ligne droite et Nakayama 1200m Outer Turf, qui ne possède qu’une seule ligne droite).
-    >L’évolution de son skill sera aussi utilisable en Mile, réglant son problème de gold skill non utilisable.
+    >L’évolution de son skill sera aussi utilisable en Mile, pour le rendre plus flexible et cohérent avec le kit de Seeking the Pearl.
  
-    - **Big-Sisterly**, la gold version de _Unyielding Spirit_. C’est un gold de vélocité pour le Mile s’activant quand Seeking the Pearl peut overtake une uma après 5 secondes de courses. C’est un skill utile pour se positionner au début de la course.
-    >L’évolution de son skill sera aussi utilisable en Sprint, réglant son problème.
+    - **Big-Sisterly**, la gold version de _Unyielding Spirit_. C’est un gold de vélocité pour le Mile s’activant quand Seeking the Pearl veut overtake une uma après 5 secondes de courses. C’est un skill utile pour se positionner au début de la course.
+    >L’évolution de son skill sera aussi utilisable en Sprint, pour le rendre plus flexible et cohérent avec le kit de Seeking the Pearl.
  
-- Elle possède un évènement aléatoire et réitérable qui désactive 4 zones d'entraînements pour un gain de 25 dans une stat aléatoire.
+- Elle possède un évènement aléatoire et réitérable qui désactive 4 zones d'entraînements pour un gain de 25 dans une stat aléatoire. C'est l'évènement qui est similaire à Gold Ship, Gold City et d'autres.
  
-- Son unique est un boost de vélocité qui s’active sur les 200 derniers mètres. Elle l’active si elle se trouve 2ème ou dans une position inférieure en ayant un écart maximal de 10 mètres avec la 1ère place. Si l’écart est inférieur ou égale à 5 mètres, l’unique sera plus puissant. <br>
+- Son unique est un boost de vélocité qui s’active sur les 200 derniers mètres. Elle l’active si elle est 2ème ou pire, en étant à 10 mètres ou moins de la uma en 1e position. Si elle est à 5 mètres ou moins, l'unique sera plus puissant. <br>
 C’est un unique similaire à celui d’Oguri Cap, bien que généralement moins puissant.
 
 #### Pull ou pas ? :

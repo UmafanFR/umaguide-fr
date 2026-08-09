@@ -1359,19 +1359,27 @@ Ne pullez pas sur cette bannière.
  
 - Elle propose une liste de 11 hints❗, avec beaucoup de skills de debuff , 3 skills pour Late Surger (_Late Surger Straightaways_ / _Fearless_ / _Slick Surge_) et **Lone Wolf**. Ses hints seront faibles. Elle n'est pas une bonne carte pour le parent farming.
  
-- Son gold skill est **Flash Forward (Sprint / Mile)**, la gold version de _Leap Forward_. C'est un gold d’accélération pour le Sprint et le Mile, qui s’active en Late-Race si l’uma est dans le bottom 50% et qu’elle possède une overtake target.<br>
-C’est un excellent skill d’accélération, fiable pour les Late Surgers et les End Closers. C’est plus puissant que Encroaching Shadow si les 2 skills s’activent en même temps pour comparaison.
+- Son gold skill est **Flash Forward (Sprint / Mile)**, la gold version de _Leap Forward_. C'est un gold d’accélération pour le Sprint et le Mile, qui s’active en Late-Race si l’uma est dans le bottom 50% et si elle entreprends de tenter un dépassement.<br>
+C’est un excellent skill d’accélération, fiable pour les Late Surgers et les End Closers. Comparé à Encroaching Shadow, et à supposer que le timing soit parfait ou presque, Leap Forward sera plus puissant dû à sa durer 2 fois plus longue (plus proche de 2,2 fois).
 
 ⏩**K.S. Miracle** :guts: :sr:
 
 - La carte est équilibrée. A 1LB, elle débloque le combo de Hint Levels et Hint Frequency puis Guts Bonus à 3LB.
  
-- Son Unique lui donne 10 de Friendship Bonus et 1 Skill Point Bonus. Son Friendship Bonus finale est donc multiplicatif.
+- Son Unique lui donne 10 de Friendship Bonus et 1 Skill Point Bonus. Son Friendship Bonus final est donc multiplicatif, et très élevé.
  
 - Ses rainbows sont assez bons dès LB0 et vraiment puissants pour une SR à MLB. Son cross-training est cependant inexistant.
  
 - Elle propose une liste de 6 hints❗, dont _On the Attack_, _Pace Chaser Straightaways_, _Sprint Corners_ et _Updrafters_. Avec son combo de Hint Levels et Hint Frequenccy, ses hints seront puissants. C’est une bonne carte pour le parent farming, avec des hints utiles.
  
 - Son premier Chain Event nous donne _Sprint Straigtaways_. Son dernier Chain Event donne soit des skill hints, soit 30 d’énergie.
+
+#### PULL OU PAS
+
+Non.
+ 
+Daiichi Ruby Power SSR est un excellent borrow pour votre backline dans les courses Sprint et Mile. K.S. Miracle Guts SR est une carte moyenne parmi les cartes moyennes que sont quasiment toutes les cartes Guts.
+ 
+Ne pullez pas sur cette bannière, borrow Daiichi Ruby si vous en avez besoin.
 
 ::::
