@@ -1362,7 +1362,7 @@ Ne pullez pas sur cette bannière.
 
 ## #58 - Seeking the Pearl ★★★
 
-<!-- ![Image de présentation de la bannière Seeking the Pearl](/public/assets/Gacha-reviews/2026/056_Uma-Banner.png) -->
+![Image de présentation de la bannière Seeking the Pearl](/public/assets/Gacha-reviews/2026/058_Uma-Banner.png)
 
 :::details REVIEW
 
