@@ -1,5 +1,5 @@
 ---
-title: Gacha - Seeking the Pearl ★★★ // Daiichi Ruby Power SSR & K.S. Miracle Guts SR
+title: Gacha - Meisho Doto (Halloween) & Agnes Digital (Halloween) ★★★ // Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/058_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/059_Banners_early_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -75,84 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Seeking the Pearl ★★★
+### Bannière Umamusume : Meisho Doto (Halloween) & Agnes Digital (Halloween) ★★★
 
-![Image de présentation de la bannière Seeking the Pearl](/public/assets/Gacha-reviews/2026/058_Uma-Banner.png)
-
-⏩ **Seeking the Pearl** :
-
-_Seeking the Pearl est une Pace Chaser / Late Surger pour le Sprint (1 gold) et le Mile (1 gold). Avec de l’inspiration, elle peut courir en tant qu’End Closer et en tant que Front Runner (respectivement 1 étoile et 4 étoiles). Elle possède un gold de vélocité pour le Sprint et un gold de vélocité pour le Mile. Son unique est un boost de vélocité qui s’active sur les 200 derniers mètres._
- 
-- Seeking the Pearl possède 2 bonus de croissances : 10% en :speed: et 20% en :wit:. C’est un bon combo de bonus, surtout pour le Sprint et le Mile. Encore plus si vous décidez de la jouer Late Surger avec la carte Power SSR qui sort en même temps qu’elle. Elle utilisera des decks classiques avec un flex Power ou Guts.
- 
-- Ses gold skills sont :
- 
-    - **Shocking Flash**, la gold version de _Sprint Straightways_. C’est un gold de vélocité pour le Sprint, qui s’active dans une ligne droite aléatoire. Son aléatoire, en plus du fait que les skills de corners sont généralement plus intéressants en Sprint, fait que le skill est correct sans plus.<br>
-    On va généralement préférer quand le skill s’active dans la 2ème et dernière ligne droite des courses sprints (sauf Niigata 1000 m qui est une ligne droite et Nakayama 1200m Outer Turf, qui ne possède qu’une seule ligne droite).
-    >L’évolution de son skill sera aussi utilisable en Mile, pour le rendre plus flexible et cohérent avec le kit de Seeking the Pearl.
- 
-    - **Big-Sisterly**, la gold version de _Unyielding Spirit_. C’est un gold de vélocité pour le Mile s’activant quand Seeking the Pearl veut overtake une uma après 5 secondes de courses. C’est un skill utile pour se positionner au début de la course.
-    >L’évolution de son skill sera aussi utilisable en Sprint, pour le rendre plus flexible et cohérent avec le kit de Seeking the Pearl.
- 
-- Elle possède un évènement aléatoire et réitérable qui désactive 4 zones d'entraînements pour un gain de 25 dans une stat aléatoire. C'est l'évènement qui est similaire à Gold Ship, Gold City et d'autres.
- 
-- Son unique est un boost de vélocité qui s’active sur les 200 derniers mètres. Elle l’active si elle est 2ème ou pire, en étant à 10 mètres ou moins de la uma en 1e position. Si elle est à 5 mètres ou moins, l'unique sera plus puissant. <br>
-C’est un unique similaire à celui d’Oguri Cap, bien que généralement moins puissant.
-
-#### Pull ou pas ? :
-
-Si elle est votre Oshi, oui.
- 
-Elle est pour l’instant une uma qui est freinée par le fait qu’elle se spécifie sur 2 distances en même temps, sans pouvoir utiliser son plein potentiel ni sur l'une ni sur l'autre. Autrement, c’est une bonne uma Sprint et Mile.
- 
-Mais elle est loin d’être un must pull, c'est juste une bonne uma.
-
----
-
-### Bannière support : Daiichi Ruby Power SSR & K.S. Miracle Guts SR
-
-![Image de présentation de la bannière Daiichi Ruby Power SSR & K.S. Miracle Guts SR](/public/assets/Gacha-reviews/2026/058_Card-Banner.png)
-
-⏩**Daiichi Ruby** :power: :SSR:
-
-- La carte est relativement frontloaded, mais possède une croissance équilibrée. A 1LB, elle débloque Skill Point Bonus puis Initial Guts à 3LB.
- 
-- Son Unique Effect lui donne 2 Power Bonus quand son bond atteint 80 (orange)
- 
-- Ses rainbows sont assez bon dès 1LB et bons à MLB avec son bon Friendship Bonus et son très bon Special Priority. Elle possède un haut Initial Friendship Gauge, ce qui est très sympa pour une carte où on va généralement peu cliquer dessus sur Grand Concert. Son cross-training est faible avec un très faible Training Effectiveness, bien que le Skill Point Bonus et Power Bonus restent très sympas.
- 
-- Elle propose une liste de 11 hints❗, avec beaucoup de skills de debuff , 3 skills pour Late Surger (_Late Surger Straightaways_ / _Fearless_ / _Slick Surge_) et **Lone Wolf**. Ses hints seront faibles. Elle n'est pas une bonne carte pour le parent farming.
- 
-- Son gold skill est **Lightning Surge**, la gold version de _Leap Forward_. C'est un gold d’accélération pour le Sprint et le Mile, qui s’active en Late-Race si l’uma est dans le bottom 50% et si elle entreprends de tenter un dépassement.<br>
-C’est un excellent skill d’accélération, fiable pour les Late Surgers et les End Closers. Comparé à Encroaching Shadow, et à supposer que le timing soit parfait ou presque, Leap Forward sera plus puissant dû à sa durée 2 fois plus longue (plus proche de 2,2 fois).
-
-⏩**K.S. Miracle** :guts: :sr:
-
-- La carte est équilibrée. A 1LB, elle débloque le combo de Hint Levels et Hint Frequency puis Guts Bonus à 3LB.
- 
-- Son Unique lui donne 10 de Friendship Bonus et 1 Skill Point Bonus. Son Friendship Bonus final est donc multiplicatif, et très élevé.
- 
-- Ses rainbows sont assez bons dès LB0 et vraiment puissants pour une SR à MLB. Son cross-training est cependant inexistant.
- 
-- Elle propose une liste de 6 hints❗, dont _On the Attack_, _Pace Chaser Straightaways_, _Sprint Corners_ et _Updrafters_. Avec son combo de Hint Levels et Hint Frequenccy, ses hints seront puissants. C’est une bonne carte pour le parent farming, avec des hints utiles.
- 
-- Son premier Chain Event nous donne _Sprint Straigtaways_. Son dernier Chain Event donne soit des skill hints, soit 30 d’énergie.
-
-#### PULL OU PAS
-
-Non.
- 
-Daiichi Ruby Power SSR est un excellent borrow pour votre backline dans les courses Sprint et Mile. K.S. Miracle Guts SR est une carte moyenne parmi les cartes moyennes que sont quasiment toutes les cartes Guts.
- 
-Ne pullez pas sur cette bannière, borrow Daiichi Ruby si vous en avez besoin.
-
----
-
-# Bannières à suivre (19 Aout 00h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/059_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Meisho Doto (Halloween) & Agnes Digital (Halloween) ★★★
+![Image de présentation de la bannière Meisho Doto (Halloween) & Agnes Digital (Halloween)](/public/assets/Gacha-reviews/2026/059_Uma-Banner.png)
 
 ⏩ **Meisho Doto (Halloween)** :
 
@@ -202,7 +127,11 @@ Agnes Digital (Halloween) est, comme sa version OG, une bonne uma à avoir pour 
  
 Ce n’est pas une mauvaise bannière, mais aucune n’est si importante que ça. Ne pullez pas sur cette bannière.
 
-### Bannière Support à suivre : Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR
+---
+
+### Bannière support : Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR
+
+![Image de présentation de la bannière Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR](/public/assets/Gacha-reviews/2026/058_Card-Banner.png)
 
 ⏩**Daitaku Helios** :speed: :SSR:
 
@@ -241,6 +170,60 @@ Daitaku Helios Speed SSR n’est pas au niveau comparé aux autres cartes Speed 
 Mejiro Palmer Stamina SSR n'est pas désirable car c’est une carte Stamina. Si on met une carte Stamina, c’est qu’on à besoin d’une bonne quantité de Stamina et qui peut être aidé par un gold skill de recovery. C’est la raison principale de pourquoi Super Creek Stamina SSR est forte. Ici, le gold skill qu’elle nous donne est déjà offert sur une carte Wit gratuite. Même quand cette carte Wit deviendra obsolète, on se passera de ce gold skill car on aura la version gold de Groundwork. C’est une carte qui est mauvaise principalement à cause du fait qu’elle soit Stamina et non Wit / Power / Guts, où elle aurait pu être utilisée quasiment partout.
  
 Ne pullez pas sur cette bannière.
+
+---
+
+# Bannières à suivre (26 Aout 00h)  
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/060_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Aston Machan ★★★
+
+⏩ **Aston Machan** :
+
+_Aston Machan est une Front Runner pour le Sprint. Elle peut aussi courir parfaitement en tant que Pace Chaser. Avec de l’inspiration, elle peut courir en Mile. Elle possède un gold skill d’accélération pour Front Runner et un gold de vélocité pour le Sprint. Son unique est un boost hybride de vélocité et d’accélération sur les 400 derniers mètres de course._
+ 
+- Aston Machan possède 2 bonus de croissances : 20% en :speed: et 10% en :guts:. C’est un combo correct pour le Sprint, qui est la distance où le bonus de croissance Guts devient le moins dérangeant. Le 20% en Speed est toujours très sympa. Ses decks seront les decks basiques avec un flex Power ou Guts. Elle est aussi libre de ne pas prendre Mihono Bourbon SSR Wit ou Sakura Bakushin O Guts.
+ 
+- Ses gold skills sont :
+ 
+    - **Taking the Lead**, la gold version d’_Early Lead_. C’est un gold d’accélération pour Front Runner. Il s’active dès le début de la course.<br>
+    C’est un très bon skill, les Front Runners ont besoin de beaucoup d’accélération au début de la course pour prendre la première place. Cela lui libère aussi le fait de devoir prendre Mihono Bourbon Wit pour soit prendre une meilleure stats stick ou un autre skill gold.
+ 
+    - **In High Spirit**, la gold version de _Light as a Feather_. C’est un gold de vélocité pour le Sprint qui s’active dans la deuxième partie du Mid-Race si l’uma est dans le top 50% (<= 5ème en CM). C’est un bon skill qui peut créer du carry-over.
+ 
+- Elle possède _Groundwork_ dans ses skills à éveiller.
+ 
+- Elle possède 2 Secret Events, le premier lié à battre Vodka (4 fois) et le second à battre Daiwa Scarlet (3 fois). Le premier vous donne 20 Speed et Guts, 30 skill points et des hints pour Shifting Gears. Le deuxième vous donne 20 Power et Wit, 30 skill points et des hints pour Productive Plan. Bien que les hints ne sont pas utile si vous la jouer en Sprint, il reste une bonne source de stats facile.
+ 
+- Son unique est un boost hybride de vélocité et d’accélération sur les 400 derniers mètres de course. Il s’active si Aston Machan est dans le top 2 et qu’elle entreprends de tenter un dépassement.<br>
+C’est un bon unique en Sprint, surtout pour les courses de 1200m où son activation peut être parfaite. En dessous de 1200m, l’unique peut faire du carry-over. Au-dessus, l’unique s’activera en plein Late-Race. Avec l’unique de Seuin Sky, Aston Machan peut tenir tête aux autres stratégies comme les Pace Chaser.
+
+#### Pull ou pas ? :
+
+Si elle est votre Oshi ou que vous voulez une bonne uma Sprint, oui.
+ 
+Aston Machan est une excellente Front Runner pour le Sprint, même la meilleure pendant un certain temps. Elle n’est pas restreinte dans ses decks et possède des golds skills utiles. Son seul défaut potentiel est ses bonus de croissances, surtout le 10% Guts. Mais en dehors de ça, elle est excellente.
+ 
+C’est une bonne uma à pull, mais elle n’est pas un Must Pull.
+
+### Bannière Support à suivre : Maruzensky Speed SSR & Fine Motion Wit SSR
+
+⏩**Maruzensky** :speed: :SSR:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_52-maruzensky-speed-ssr-nakayama-festa-wit-ssr)
+
+⏩**Fine Motion** :wit: :ssr:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_36-fine-motion-wit-ssr-kawakimi-princess-speed-ssr-rerun)
+
+#### PULL OU PAS
+
+Oui.
+ 
+Ce sont toutes les deux des cartes top tier. Même si Fine Motion sera powercreep au prochain scénario (c'est un faible powercreep mais s'en ai un), elle restera utile en tant que seconde carte Wit. Maruzensky est la carte Speed qui donne le plus de stats grâce à son Unique Effect mais aussi la carte principale pour les Front Runner.
+ 
+C’est une bonne bannière si vous n’avez pas les 2 ou que vous souhaitez améliorer leur LB. Cependant, si vous avez une des 2 qui est MLB, il est dangereux de pull sur cette bannière.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
