@@ -1383,3 +1383,49 @@ Daiichi Ruby Power SSR est un excellent borrow pour votre backline dans les cour
 Ne pullez pas sur cette bannière, borrow Daiichi Ruby si vous en avez besoin.
 
 ::::
+
+## #59 - Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR
+
+![Image de présentation de la bannière Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR](/public/assets/Gacha-reviews/2026/058_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Daitaku Helios** :speed: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus puis Speed Bonus à 3LB puis un second Speed Bonus à MLB.
+ 
+- Son Unique Effect donne des stats initiales en fonction des cartes de votre deck. Les types de cartes des stats en donnent 10 dans leur stat respective et les cartes Pal & Group donne 2 dans toutes les stats.
+ 
+- Ses rainbows sont plutôt bons avec son bon Friendship Bonus et Special Priority, en plus de ses Speed Bonus. Son cross-training est quasiment inexistant en dehors de son Skill Point Bonus, ses Speed Bonus et son bon Race Bonus.
+ 
+- Elle propose une liste de 9 hints❗, tous sympa ou intéressant, dont la plupart sont principalement utile pour les Front Runners. Elle possède un puissant Hint Levels et Hint Frequency. Ses hints seront très puissants.
+ 
+- Son gold skill est **Perfect Spot !**, la gold version de _Slipstream_. C’est un gold skill de vélocité qui peut s’activer après 10s de course et qu’une uma a été devant elle pendant 3s. Le skill peut se réactiver s’il s’active suffisamment tôt ou que le course est suffisamment longue.<br>
+C’est un excellent skill pour toutes les stratégies sauf les Runaways (tant qu’elles ne peuvent pas survivre contre d’autres Runaways).
+
+⏩**Mejiro Palmer** :stamina: :ssr:
+
+- La carte est frontloaded. A 1LB, elle débloque Skill Point Bonus puis Initial Guts à 3LB.
+ 
+- Son Unique Effect lui donne du Training Effectiveness en fonction de votre énergie. Elle reçoit 5 de Training Effectiveness à 0 énergie et 20 de Training Effectiveness à 100 énergies. C'est un bon effet unique, bien que rarement à pleine puissance. La majorité des entrainements se font entre 50 et 75 d'énergie, ce qui correspond entre 10 et 15 de Training Effectiveness.
+ 
+- Dès LB0, ses rainbows sont assez sympa et puissant à MLB grâce à ses très bon Friendship Bonus et Special Priority. Son cross-training dépend complètement de son Unique Effect et de son Skill Point Bonus.
+ 
+- Elle propose une liste de 8 hints❗, dont les très importants _Groundwork_, _Early Lead_ pour les Front Runners. Elle possède aussi de bon hints comme _Keeping the Lead_ et _Playtime’s Over !_ Elle possède Hint Levels et Hint Frequency, bien que faible. Ses hints seront quand même sympas.
+ 
+- Son gold skill est **Taking the Lead**, la gold version d’_Early Lead_. C’est un gold d’accélération pour Front Runner. Il s’active dès le début de la course.<br>
+C’est un très bon skill, les Front Runners ont besoin de beaucoup d’accélération au début de la course pour prendre la première place. Cela vous permet de potentiellement remplacer Mihono Bourbon Wit si vous ne l’avez pas.
+ 
+- Il est possible d’arrêter ses Chain Event dès le premier, pour 30 énergies et des hints de Passing Pro
+
+#### PULL OU PAS
+
+Non.
+ 
+Daitaku Helios Speed SSR n’est pas au niveau comparé aux autres cartes Speed que l’on a pu avoir. La carte reste intéressante mais elle n’est pas à pull.
+ 
+Mejiro Palmer Stamina SSR n'est pas désirable car c’est une carte Stamina. Si on met une carte Stamina, c’est qu’on à besoin d’une bonne quantité de Stamina et qui peut être aidé par un gold skill de recovery. C’est la raison principale de pourquoi Super Creek Stamina SSR est forte. Ici, le gold skill qu’elle nous donne est déjà offert sur une carte Wit gratuite. Même quand cette carte Wit deviendra obsolète, on se passera de ce gold skill car on aura la version gold de Groundwork. C’est une carte qui est mauvaise principalement à cause du fait qu’elle soit Stamina et non Wit / Power / Guts, où elle aurait pu être utilisée quasiment partout.
+ 
+Ne pullez pas sur cette bannière.
+
+:::

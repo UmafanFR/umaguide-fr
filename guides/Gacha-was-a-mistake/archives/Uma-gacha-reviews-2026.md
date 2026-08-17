@@ -1395,3 +1395,59 @@ Elle est pour l’instant une uma qui est freinée par le fait qu’elle se spé
 Mais elle est loin d’être un must pull, c'est juste une bonne uma.
 
 :::
+
+## #59 - Meisho Doto (Halloween) & Agnes Digital (Halloween) ★★★
+
+![Image de présentation de la bannière Meisho Doto (Halloween) & Agnes Digital (Halloween)](/public/assets/Gacha-reviews/2026/059_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Meisho Doto (Halloween)** :
+
+_Meisho Doto (Halloween) est une Pace Chaser pour le Medium et le Long. Avec de l’inspiration, elle peut courir en tant que Late Surger (1 étoile). Elle possède un gold d’accélération pour Pace Chaser et un gold de recovery universel. Son unique est un boost de vélocité et accompagné d’un faible debuff de Current Speed, pour 2 umas devant et derrière elle, sur le Final Straight._
+ 
+- Elle possède 2 bonus de croissances : 15% en :power: et 15% en :wit:. C’est un combo de bonus très bon, surtout avec son gold de recovery qu’elle possède. Elle peut jouer les decks basiques Speed + Wit si vous avez de bons parents Stamina.
+ 
+- Ses gold skills sont :
+
+    - **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération pour Pace Chaser, s’activant aléatoirement dans la première moitié du Late-Race et qu’elle soit dans le top 50%. Depuis le buff que le skill a reçu, il est devenu bien meilleur et indispensable pour les Pace Chasers. Il est pour l’instant l’un des 2 skills d’accélération principaux pour les Pace Chasers.
+ 
+    - **Swinging Maestro**, la gold version de _Corner Recovery_. C’est un recovery qui s’active au premier corner possible, qui sont dans le Mid-Race. C’est un excellent skill
+ 
+- Elle possède un Secret Event qui lui donne un malus, **Not Ready**, qui donne une chance random de consommer 5 énergies après une course. Ce malus est soigné en 2ème partie d’Octobre de la Classic Year si elle possède 15000 fans.
+ 
+- Elle possède un autre Secret Event lié au fait de battre T.M Opera O. Afin de l’accomplir, il faut lui faire courir en plus le **Satsuki Sho** et le **Tenno Sho (Spring)**. Ce Secret Event lui donne un hint pour _Prepared to Pass_ et _Up Tempo_, et un boost de 10 dans toutes les stats. Il n’est pas très rentable sur les scénarios où il faut essayer de ne pas courir en plus.
+ 
+- Son unique est un boost de vélocité et accompagné d’un faible debuff de Current Speed, ciblant 2 umas devant et derrière elle, de Final Straight. L’unique s’active si Meisho Doto (Halloween) est dans le top 40%.<br>
+C'est un unique basique, bien que les faibles debuff de Current Speed peuvent faire la différence sur le Last Straight.
+
+⏩ **Agnes Digital (Halloween)** :
+
+_Agnes Digital est une Pace Chaser / Late Surger pour le Mile et Medium, que ce soit pour le Turf ou le Dirt. Avec de l’inspiration, elle peut courir en tant qu’End Closer (1 étoile). Elle possède 2 skills de vélocité, le premier est universel et le second pour le Dirt. Son unique est un boost de vélocité de Mid-Race._
+ 
+- Elle possède 4 bonus de croissances : 7% en :speed:, 7% en :stamina:, 8% en :power: et 8% en :guts:. Avoir 4 bonus de croissance est plus négatif que positif. Au lieu d’avoir un bon bonus et 2 plus faibles ou 3 moyens, elle possède 4 bonus de croissances faibles. Le Speed, Stamina et Power reste excellent à avoir.
+ 
+- Ses gold skills sont :
+ 
+    - **It’s On !**, la gold version de _Ramp Up_. C’est un gold de vélocité universelle qui s’active en Mid-Race si elle double une uma. Le skill peut se réactiver potentiellement en Long si elle l’active une première fois au début du Mid-Race, puis vers la fin du Mid-Race. C’est un très bon skill.
+ 
+    - **Can't Keep Me Down**, la gold version de _Comeback_. C’est un gold de vélocité pour le Dirt, s’activant aléatoirement en Mid-Race si elle est dans le bottom 50%. C’est un bon gold skill basique.
+ 
+- Agnes Digital possède un Secret Event lié à gagner une gagner plusieurs courses. En dehors de gagner certaines courses qui sont dans ses objectifs, elle doit aussi participer au **Hanshin Juneviles Fillies** ou **Asahi Hai Futures Stakes**, au **Oka Sho**, au **February Stakes**, au **Victoria Mile** et un des **Yasuda Kinen**. Ce Secret Event lui donne 20 en Speed et Power et des hints pour _Updrafters_ et _Unyielding Spirit_. Ce n'est pas un Secret Event rentable.
+ 
+- Elle possède un second Secret Event lié à gagner le **M.C. Nambu Hai**. Cela lui donne 5 en Speed et Stamina, 10 en Power et Guts, et un hint pour _Morioka Racecourse_ et _Rapid Gain_ (Rapid Gain est une accel random backline de late race en Dirt).
+ 
+- Son unique est un boost de vélocité de Mid-Race. L’unique s’active dans un corner si elle a au moins 3 uma proches d’elles (comme Uma Stan) et qu’elle est dans le bottom 60%.<br>
+L’unique peut avoir du mal à s’activer dans les rooms avec beaucoup de Front Runner. En tant qu'unique de Mid-Race, ce qui reste plutôt rare, il est très efficace quand il s'active.
+
+#### Pull ou pas ? :
+
+Non sauf si elles sont vos Oshi, mais elles ne sont pas mauvaises.
+ 
+Meisho Doto (Halloween) est plutôt bonne, surtout en possédant des gold skills très utiles. Cela lui permet d’être plus flexible sur ses decks, surtout pour votre potentiel Flex. Ses bonus de croissances sont aussi très bons pour le scénario Grand Concert. Elle est meilleur que sa version OG
+ 
+Agnes Digital (Halloween) est, comme sa version OG, une bonne uma à avoir pour sa flexibilité de course. Elle est d’une puissance similaire à sa version OG. Elle est une uma à prendre si vous avez besoin de sa flexibilité pour le Dirt et le Turf.
+ 
+Ce n’est pas une mauvaise bannière, mais aucune n’est si importante que ça. Ne pullez pas sur cette bannière.
+
+:::
