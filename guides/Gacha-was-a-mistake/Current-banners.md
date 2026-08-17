@@ -131,7 +131,7 @@ Ce n’est pas une mauvaise bannière, mais aucune n’est si importante que ça
 
 ### Bannière support : Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR
 
-![Image de présentation de la bannière Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR](/public/assets/Gacha-reviews/2026/058_Card-Banner.png)
+![Image de présentation de la bannière Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR](/public/assets/Gacha-reviews/2026/059_Card-Banner.png)
 
 ⏩**Daitaku Helios** :speed: :SSR:
 
@@ -194,10 +194,10 @@ _Aston Machan est une Front Runner pour le Sprint. Elle peut aussi courir parfai
  
 - Elle possède _Groundwork_ dans ses skills à éveiller.
  
-- Elle possède 2 Secret Events, le premier lié à battre Vodka (4 fois) et le second à battre Daiwa Scarlet (3 fois). Le premier vous donne 20 Speed et Guts, 30 skill points et des hints pour Shifting Gears. Le deuxième vous donne 20 Power et Wit, 30 skill points et des hints pour Productive Plan. Bien que les hints ne sont pas utile si vous la jouer en Sprint, il reste une bonne source de stats facile.
+- Elle possède 2 Secret Events, le premier lié à battre Vodka (4 fois) et le second à battre Daiwa Scarlet (3 fois). Le premier vous donne 20 Speed et Guts, 30 skill points et des hints pour Shifting Gears. Le deuxième vous donne 20 Power et Wit, 30 skill points et des hints pour Productive Plan. Bien que les hints ne sont pas utile si vous la jouer en Sprint, ça reste une bonne source de stats facile.
  
-- Son unique est un boost hybride de vélocité et d’accélération sur les 400 derniers mètres de course. Il s’active si Aston Machan est dans le top 2 et qu’elle entreprends de tenter un dépassement.<br>
-C’est un bon unique en Sprint, surtout pour les courses de 1200m où son activation peut être parfaite. En dessous de 1200m, l’unique peut faire du carry-over. Au-dessus, l’unique s’activera en plein Late-Race. Avec l’unique de Seuin Sky, Aston Machan peut tenir tête aux autres stratégies comme les Pace Chaser.
+- Son unique est un boost hybride de vélocité et d’accélération sur les 400 derniers mètres de course. Il s’active si Aston Machan est dans le top 2 et qu’elle est une cible de dépassement.<br>
+C’est un bon unique en Sprint, surtout pour les courses de 1200m où son activation peut être parfaite. En dessous de 1200m, l’unique peut faire du carry-over. Au-dessus, l’unique s’activera en plein Late-Race. Avec l’unique de Seiun Sky, Aston Machan peut tenir tête aux autres stratégies comme les Pace Chaser.
 
 #### Pull ou pas ? :
 
@@ -207,7 +207,7 @@ Aston Machan est une excellente Front Runner pour le Sprint, même la meilleure 
  
 C’est une bonne uma à pull, mais elle n’est pas un Must Pull.
 
-### Bannière Support à suivre : Maruzensky Speed SSR & Fine Motion Wit SSR
+### Bannière Support à suivre : Maruzensky Speed SSR & Fine Motion Wit SSR (rerun)
 
 ⏩**Maruzensky** :speed: :SSR:
 

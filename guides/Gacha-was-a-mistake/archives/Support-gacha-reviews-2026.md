@@ -1386,7 +1386,7 @@ Ne pullez pas sur cette bannière, borrow Daiichi Ruby si vous en avez besoin.
 
 ## #59 - Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR
 
-![Image de présentation de la bannière Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR](/public/assets/Gacha-reviews/2026/058_Card-Banner.png)
+![Image de présentation de la bannière Daitaku Helios Speed SSR & Mejiro Palmer Stamina SSR](/public/assets/Gacha-reviews/2026/059_Card-Banner.png)
 
 ::: details REVIEW
 
