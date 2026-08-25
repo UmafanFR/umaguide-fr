@@ -1451,3 +1451,39 @@ Agnes Digital (Halloween) est, comme sa version OG, une bonne uma à avoir pour 
 Ce n’est pas une mauvaise bannière, mais aucune n’est si importante que ça. Ne pullez pas sur cette bannière.
 
 :::
+
+## #60 - Aston Machan ★★★
+
+![Image de présentation de la bannière Aston Machan](/public/assets/Gacha-reviews/2026/060_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Aston Machan** :
+
+_Aston Machan est une Front Runner pour le Sprint. Elle peut aussi courir parfaitement en tant que Pace Chaser. Avec de l’inspiration, elle peut courir en Mile. Elle possède un gold skill d’accélération pour Front Runner et un gold de vélocité pour le Sprint. Son unique est un boost hybride de vélocité et d’accélération sur les 400 derniers mètres de course._
+ 
+- Aston Machan possède 2 bonus de croissances : 20% en :speed: et 10% en :guts:. C’est un combo correct pour le Sprint, qui est la distance où le bonus de croissance Guts devient le moins dérangeant. Le 20% en Speed est toujours très sympa. Ses decks seront les decks basiques avec un flex Power ou Guts. Elle est aussi libre de ne pas prendre Mihono Bourbon SSR Wit ou Sakura Bakushin O Guts.
+ 
+- Ses gold skills sont :
+ 
+    - **Taking the Lead**, la gold version d’_Early Lead_. C’est un gold d’accélération pour Front Runner. Il s’active dès le début de la course.<br>
+    C’est un très bon skill, les Front Runners ont besoin de beaucoup d’accélération au début de la course pour prendre la première place. Cela lui libère aussi le fait de devoir prendre Mihono Bourbon Wit pour soit prendre une meilleure stats stick ou un autre skill gold.
+ 
+    - **In High Spirit**, la gold version de _Light as a Feather_. C’est un gold de vélocité pour le Sprint qui s’active dans la deuxième partie du Mid-Race si l’uma est dans le top 50% (<= 5ème en CM). C’est un bon skill qui peut créer du carry-over.
+ 
+- Elle possède _Groundwork_ dans ses skills à éveiller.
+ 
+- Elle possède 2 Secret Events, le premier lié à battre Vodka (4 fois) et le second à battre Daiwa Scarlet (3 fois). Le premier vous donne 20 Speed et Guts, 30 skill points et des hints pour Shifting Gears. Le deuxième vous donne 20 Power et Wit, 30 skill points et des hints pour Productive Plan. Bien que les hints ne sont pas utile si vous la jouer en Sprint, ça reste une bonne source de stats facile.
+ 
+- Son unique est un boost hybride de vélocité et d’accélération sur les 400 derniers mètres de course. Il s’active si Aston Machan est dans le top 2 et qu’elle est une cible de dépassement.<br>
+C’est un bon unique en Sprint, surtout pour les courses de 1200m où son activation peut être parfaite. En dessous de 1200m, l’unique peut faire du carry-over. Au-dessus, l’unique s’activera en plein Late-Race. Avec l’unique de Seiun Sky, Aston Machan peut tenir tête aux autres stratégies comme les Pace Chaser.
+
+#### Pull ou pas ? :
+
+Si elle est votre Oshi ou que vous voulez une bonne uma Sprint, oui.
+ 
+Aston Machan est une excellente Front Runner pour le Sprint, même la meilleure pendant un certain temps. Elle n’est pas restreinte dans ses decks et possède des golds skills utiles. Son seul défaut potentiel est ses bonus de croissances, surtout le 10% Guts. Mais en dehors de ça, elle est excellente.
+ 
+C’est une bonne uma à pull, mais elle n’est pas un Must Pull.
+
+:::
