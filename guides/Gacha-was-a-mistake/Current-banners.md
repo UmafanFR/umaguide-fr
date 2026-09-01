@@ -131,9 +131,9 @@ C’est une bonne bannière si vous n’avez pas les 2 ou que vous souhaitez am�
 
 ---
 
-# Bannières à suivre (01 Septembre 00h, en estimation)  
+# Bannières à suivre (01 Septembre 00h)  
 
-<!-- ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/061_Banners_early_preview.jpg) -->
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/061_Banners_early_preview.jpg)
 
 ### Bannière Umamusume à suivre : Yamanin Zephyr ★★★
 
