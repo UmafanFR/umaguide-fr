@@ -1453,3 +1453,46 @@ Ce sont toutes les deux des cartes top tier. Même si Fine Motion sera powercree
 C’est une bonne bannière si vous n’avez pas les 2 ou que vous souhaitez améliorer leur LB. Cependant, si vous avez une des 2 qui est MLB, il est dangereux de pull sur cette bannière.
 
 :::
+
+## #61 - Symboli Kris S Stamina SSR & Tsumaru Tsuyoshi Guts SR
+
+![Image de présentation de la bannière Symboli Kris S Stamina SSR & Tsumaru Tsuyoshi Guts SR](/public/assets/Gacha-reviews/2026/061_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Symboli Kris S** :stamina: :SSR:
+
+- La carte est équilibrée. A 1LB, elle débloque Skill Point Bonus puis Mood Effect à 3LB.
+ 
+- Son Unique Effect lui donne 2 Guts Bonus quand son bond gauge atteint 80 (orange)
+ 
+- Ses rainbows sont bons, avec ses bons Friendship Bonus et Special Priority. Il donne surtout pas mal de Guts avec les 2 Guts Bonus. Son cross-training est correct avec son Skill Point Bonus, ainsi qu'un léger Training Effectiveness et un peu de Mood Effect.
+ 
+- Elle propose une liste de 8 hints❗, dont _Scramble_, un skill important pour les Late Surger. Elle possède Hint Level et Hint Frequency, ses hints seront sympas.
+ 
+- Son gold skill est **Claw Forward**, la gold version de _Scramble_. C’est un skill d’accélération de Late Surger pour le Long. Il s’active si l’uma rentre en Last Spurt Mode et qu’elle se trouve dans le bottom 60%. Le skill consomme de la stamina (plus qu’un white skill de recovery).<br>
+C’est un skill obligatoire si vous voulez jouer des Late Surgers en Long. Sans ce skill, les Late Surgers resteront plus faibles que les autres stratégies.
+
+⏩**Tsurumaru Tsuyoshi** :guts: :sr:
+
+- La carte est backloaded. A 1LB, elle débloque Training Effectiveness puis Speed Bonus à MLB
+ 
+- Son Unique Effect donne 1 Guts Bonus et 5 de Training Effectiveness.
+ 
+- Ses rainbows sont corrects, avec ses Friendship Bonus et Special Priority correct. Son cross-training est bon avec son Training Effectiveness correct et ses Stats Bonus.
+ 
+- Elle propose une liste de 5 hints❗, dont les bons _Risky Business_ et _Full Throttle_ qui sont rares. Ses hints seront cependant faibles.
+ 
+- Son dernier Chain Event donne _Late Surger Straightaways_.
+
+#### PULL OU PAS
+
+Seulement si vous voulez jouer des Late Surger en Long, sinon non.
+ 
+Symboli Kris S Stamina SSR est soit une carte que vous allez borrow, soit vous devez la prendre en fonction du nombre de Late Surger que vous voulez jouer en Long. Si vous en jouez peu, elle est mieux en borrow, en attendant une meilleure carte pour le gold skill, **Manhattan Cafe Wit SSR**. Si vous en jouez plusieurs il sera préférable de pull la carte, sauf si vous possédez toutes les autres cartes que vous aurez besoin pour faire vos umas.
+ 
+Tsurumaru Tsuyoshi Guts SR est trop faible pour être utile.
+ 
+Pullez seulement si vous avez besoin de Symboli Kris S, et que vous ne possédez pas les autres cartes nécessaires ou que vous ne pouvez pas attendre Manhattan Cafe Wit SSR.
+
+:::
