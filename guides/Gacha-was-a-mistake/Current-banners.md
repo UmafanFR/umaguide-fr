@@ -167,7 +167,7 @@ _Inari One (Festival) est une End Closer pour le Medium et le Long (1 gold) pour
  
     - **Innate Experience**, la gold version d'_Inside Scoop_. C'est un gold de vélocité pour le Long, s'activant pendant le final corner si on est proche de la barrière. De manière contre-intuitive, l'activation est plus fiable qu'il n'y paraît, et il n'est pas nécessaire d'être collé à la barrière pour l'activer.
  
-    **Encroaching Shadow**, la gold version de _Straightaway Spurt_. C’est un gold d’accélération d’End Closer. Qui s’active quand l’uma rentre dans la mécanique de Last Spurt et qu’elle soit sur une ligne droite.<br>
+    - **Encroaching Shadow**, la gold version de _Straightaway Spurt_. C’est un gold d’accélération d’End Closer. Qui s’active quand l’uma rentre dans la mécanique de Last Spurt et qu’elle soit sur une ligne droite.<br>
     C’est un excellent skill, le skill d’accélération principale pour les End Closer, surtout en Long.
  
 - Elle possède 2 Secret Event pour des stats (un total de 70 stats et 35 Skill Points) et des skills hints pour des skills Medium (Eager / All I’ve Got et Fighting Spirit) si Inari One court et gagne des courses en plus. Le premier Secret Event demandera de gagner en plus la Japan Cup (Senior). Le second demandera de gagner 2 de ces 3 courses : Takarazuka Kinen (Classic) : Tenno Sho (Autumn)(Classic) ; Japan Cup (Classic).<br>
@@ -185,7 +185,7 @@ _Tamamo Cross (Festival) est une uma pour le Medium (1 gold) et le Long. Elle pe
 - Ses gold skills sont :
  
     - **Killer Tunes**, la gold version de _Up-Tempo_. C’est un gold de vélocité pour le Medium, s’activant aléatoirement en Mid-Race si l’uma est dans le top 50%.<br>
-C’est un bon skill pour les Front Runner ou les Pace Chasers en Medium.
+    C’est un bon skill pour les Front Runner ou les Pace Chasers en Medium.
  
     - **It’s On !**, la gold version de _Ramp Up_. C’est un gold de vélocité universelle qui s’active en Mid-Race si elle double une uma.<br>
     Le skill peut se réactiver potentiellement en Long si elle l’active une première fois au début du Mid-Race, puis vers la fin du Mid-Race. C’est un très bon skill.
