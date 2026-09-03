@@ -1,5 +1,5 @@
 ---
-title: Gacha - Aston Machan ★★★ // Maruzensky Speed SSR & Fine Motion Wit SSR (rerun)
+title: Gacha - Yamanin Zephyr ★★★ // Symboli Kris S Stamina SSR & Tsumaru Tsuyoshi Guts SR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/060_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/061_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -75,67 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Aston Machan ★★★
+### Bannière Umamusume : Yamanin Zephyr ★★★
 
-![Image de présentation de la bannière Aston Machan](/public/assets/Gacha-reviews/2026/060_Uma-Banner.png)
-
-⏩ **Aston Machan** :
-
-_Aston Machan est une Front Runner pour le Sprint. Elle peut aussi courir parfaitement en tant que Pace Chaser. Avec de l’inspiration, elle peut courir en Mile. Elle possède un gold skill d’accélération pour Front Runner et un gold de vélocité pour le Sprint. Son unique est un boost hybride de vélocité et d’accélération sur les 400 derniers mètres de course._
- 
-- Aston Machan possède 2 bonus de croissances : 20% en :speed: et 10% en :guts:. C’est un combo correct pour le Sprint, qui est la distance où le bonus de croissance Guts devient le moins dérangeant. Le 20% en Speed est toujours très sympa. Ses decks seront les decks basiques avec un flex Power ou Guts. Elle est aussi libre de ne pas prendre Mihono Bourbon SSR Wit ou Sakura Bakushin O Guts.
- 
-- Ses gold skills sont :
- 
-    - **Taking the Lead**, la gold version d’_Early Lead_. C’est un gold d’accélération pour Front Runner. Il s’active dès le début de la course.<br>
-    C’est un très bon skill, les Front Runners ont besoin de beaucoup d’accélération au début de la course pour prendre la première place. Cela lui libère aussi le fait de devoir prendre Mihono Bourbon Wit pour soit prendre une meilleure stats stick ou un autre skill gold.
- 
-    - **In High Spirit**, la gold version de _Light as a Feather_. C’est un gold de vélocité pour le Sprint qui s’active dans la deuxième partie du Mid-Race si l’uma est dans le top 50% (<= 5ème en CM). C’est un bon skill qui peut créer du carry-over.
- 
-- Elle possède _Groundwork_ dans ses skills à éveiller.
- 
-- Elle possède 2 Secret Events, le premier lié à battre Vodka (4 fois) et le second à battre Daiwa Scarlet (3 fois). Le premier vous donne 20 Speed et Guts, 30 skill points et des hints pour Shifting Gears. Le deuxième vous donne 20 Power et Wit, 30 skill points et des hints pour Productive Plan. Bien que les hints ne sont pas utile si vous la jouer en Sprint, ça reste une bonne source de stats facile.
- 
-- Son unique est un boost hybride de vélocité et d’accélération sur les 400 derniers mètres de course. Il s’active si Aston Machan est dans le top 2 et qu’elle est une cible de dépassement.<br>
-C’est un bon unique en Sprint, surtout pour les courses de 1200m où son activation peut être parfaite. En dessous de 1200m, l’unique peut faire du carry-over. Au-dessus, l’unique s’activera en plein Late-Race. Avec l’unique de Seiun Sky, Aston Machan peut tenir tête aux autres stratégies comme les Pace Chaser.
-
-#### Pull ou pas ? :
-
-Si elle est votre Oshi ou que vous voulez une bonne uma Sprint, oui.
- 
-Aston Machan est une excellente Front Runner pour le Sprint, même la meilleure pendant un certain temps. Elle n’est pas restreinte dans ses decks et possède des golds skills utiles. Son seul défaut potentiel est ses bonus de croissances, surtout le 10% Guts. Mais en dehors de ça, elle est excellente.
- 
-C’est une bonne uma à pull, mais elle n’est pas un Must Pull.
-
----
-
-### Bannière support : Maruzensky Speed SSR & Fine Motion Wit SSR (rerun)
-
-![Image de présentation de la bannière Maruzensky Speed SSR & Fine Motion Wit SSR (rerun)](/public/assets/Gacha-reviews/2026/060_Card-Banner.png)
-
-⏩**Maruzensky** :speed: :SSR:
-
-[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_52-maruzensky-speed-ssr-nakayama-festa-wit-ssr)
-
-⏩**Fine Motion** :wit: :ssr:
-
-[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_36-fine-motion-wit-ssr-kawakimi-princess-speed-ssr-rerun)
-
-#### PULL OU PAS
-
-Oui.
- 
-Ce sont toutes les deux des cartes top tier. Même si Fine Motion sera powercreep au prochain scénario (c'est un faible powercreep mais s'en ai un), elle restera utile en tant que seconde carte Wit. Maruzensky est la carte Speed qui donne le plus de stats grâce à son Unique Effect mais aussi la carte principale pour les Front Runner.
- 
-C’est une bonne bannière si vous n’avez pas les 2 ou que vous souhaitez améliorer leur LB. Cependant, si vous avez une des 2 qui est MLB, il est dangereux de pull sur cette bannière.
-
----
-
-# Bannières à suivre (01 Septembre 00h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/061_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Yamanin Zephyr ★★★
+![Image de présentation de la bannière Yamanin Zephyr](/public/assets/Gacha-reviews/2026/061_Uma-Banner.png)
 
 ⏩ **Yamanin Zephyr** :
 
@@ -166,7 +108,11 @@ C’est une uma qui n’a basiquement pas d’unique, et qui peut se faire restr
  
 Ne pullez pas Yamanin Zephyr, c’est une uma plutôt mauvaise.
 
-### Bannière Support à suivre : Symboli Kris S Stamina SSR & Tsurumaru Tsuyoshi Guts SR
+---
+
+### Bannière support : Symboli Kris S Stamina SSR & Tsumaru Tsuyoshi Guts SR
+
+![Image de présentation de la bannière Symboli Kris S Stamina SSR & Tsumaru Tsuyoshi Guts SR](/public/assets/Gacha-reviews/2026/061_Card-Banner.png)
 
 ⏩**Symboli Kris S** :stamina: :SSR:
 
@@ -174,7 +120,7 @@ Ne pullez pas Yamanin Zephyr, c’est une uma plutôt mauvaise.
  
 - Son Unique Effect lui donne 2 Guts Bonus quand son bond gauge atteint 80 (orange)
  
-- Ses rainbows sont bons, avec ses bons Friendship Bonus et Special Priority. Il donne surtout pas mal de Guts avec les 2 Guts Bonus. Son cross-training est correct avec son faible Training Effectiveness, le Skill Point Bonus et le potentiel Mood Effect.
+- Ses rainbows sont bons, avec ses bons Friendship Bonus et Special Priority. Il donne surtout pas mal de Guts avec les 2 Guts Bonus. Son cross-training est correct avec son Skill Point Bonus, ainsi qu'un léger Training Effectiveness et un peu de Mood Effect.
  
 - Elle propose une liste de 8 hints❗, dont _Scramble_, un skill important pour les Late Surger. Elle possède Hint Level et Hint Frequency, ses hints seront sympas.
  
@@ -202,6 +148,101 @@ Symboli Kris S Stamina SSR est soit une carte que vous allez borrow, soit vous d
 Tsurumaru Tsuyoshi Guts SR est trop faible pour être utile.
  
 Pullez seulement si vous avez besoin de Symboli Kris S, et que vous ne possédez pas les autres cartes nécessaires ou que vous ne pouvez pas attendre Manhattan Cafe Wit SSR.
+
+---
+
+# Bannières à suivre (08 Septembre 00h)  
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/062_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Inari One (Festival) & Tamamo Cross (Festival) ★★★
+
+⏩ **Inari One (Festival)** :
+
+_Inari One (Festival) est une End Closer pour le Medium et le Long (1 gold) pour le Turf et le Dirt. Avec de l’inspiration, elle peut courir en Mile, en tant que Late Surger et en tant que Pace Chaser (1 :star: nécessaire pour les 3). Elle possède un gold de vélocité pour le Long et un gold d’accélération d’End Closer. Son unique est un boost de vélocité de Final Straight._
+ 
+- Elle possède 3 bonus de croissances : 14% en :speed:, 8% en :power: et 8% en :wot:. C'est un excellent combo, bien que le bonus Stamina aurait pu être préféré vu qu’elle est principalement une uma Long. Elle utilisera des decks avec 2 Speed / 2 Wit + Super Creek et Light Hello dans la majorité des cas.
+ 
+- Ses gold skills sont :
+ 
+    - **Innate Experience**, la gold version d'_Inside Scoop_. C'est un gold de vélocité pour le Long, s'activant pendant le final corner si on est proche de la barrière. De manière contre-intuitive, l'activation est plus fiable qu'il n'y paraît, et il n'est pas nécessaire d'être collé à la barrière pour l'activer.
+ 
+    **Encroaching Shadow**, la gold version de _Straightaway Spurt_. C’est un gold d’accélération d’End Closer. Qui s’active quand l’uma rentre dans la mécanique de Last Spurt et qu’elle soit sur une ligne droite.<br>
+    C’est un excellent skill, le skill d’accélération principale pour les End Closer, surtout en Long.
+ 
+- Elle possède 2 Secret Event pour des stats (un total de 70 stats et 35 Skill Points) et des skills hints pour des skills Medium (Eager / All I’ve Got et Fighting Spirit) si Inari One court et gagne des courses en plus. Le premier Secret Event demandera de gagner en plus la Japan Cup (Senior). Le second demandera de gagner 2 de ces 3 courses : Takarazuka Kinen (Classic) : Tenno Sho (Autumn)(Classic) ; Japan Cup (Classic).<br>
+C'est un total de 3 courses en plus, qui je pense est rentable pour la bonne quantité de stats que les Secret Events donne, mais aussi les Skill Points que les courses vous donneront.
+ 
+- Son unique est un boost de vélocité de Final Straight. C’est un unique avec un duration basique et une puissance accrue. L’unique s’active au début du Final Straight, si dans un corner du Late-Race, Inari One (Festival) est dans le bottom 40% et qu’elle double une uma. L’unique devient plus puissant en fonction du nombre d’umas qu’elle dépasse dans un corner du Late-Race. L’unique atteint sa puissance maximale si elle dépasse au moins 4 umas.<br>
+C’est un bon unique, bien que sa puissance maximale reste inférieure à des uniques qui possède une puissance accrue de base.
+
+⏩ **Tamamo Cross (Festival)** :
+
+_Tamamo Cross (Festival) est une uma pour le Medium (1 gold) et le Long. Elle peut courir parfaitement en tant que Pace Chaser, Late Surger et End Closer, bien que le premier soit sa stratégie principale dû à ses white skills innés et un de ses gold skill. Elle possède 2 gold skills de vélocité, le premier pour le Medium et le second est universel. Son unique est un boost de vélocité de Mid-Race._
+ 
+- Elle possède 3 bonus de croissances : 14% en :speed:, 8% en :stamina: et 8% en :guts. C’est un combo sympa, bien qu’on aurait préféré un autre boost que Guts. Ses decks seront généralement 2 Speed + 2 Wit + Riko et un flex Stamina ou Power, si vous avez de bon parents Stamina (et que vous n'ayez pas besoin d'un gold de recovery ou que vous en prenez une carte Power qui en possède un).
+ 
+- Ses gold skills sont :
+ 
+    - **Killer Tunes**, la gold version de _Up-Tempo_. C’est un gold de vélocité pour le Medium, s’activant aléatoirement en Mid-Race si l’uma est dans le top 50%.<br>
+C’est un bon skill pour les Front Runner ou les Pace Chasers en Medium.
+ 
+    - **It’s On !**, la gold version de _Ramp Up_. C’est un gold de vélocité universelle qui s’active en Mid-Race si elle double une uma.<br>
+    Le skill peut se réactiver potentiellement en Long si elle l’active une première fois au début du Mid-Race, puis vers la fin du Mid-Race. C’est un très bon skill.
+ 
+- Tamamo Cross possède un Secret Event qui lui donne 25 de Speed, 15 de Guts et 2 skill hints pour Tail Held High si elle court et gagne une course supplémentaire : la Japan Cup (Senior)<br>
+Elle possède aussi un événement supplémentaire avec la possibilité de recevoir Fast Learner.
+ 
+- Son unique est un boost de vélocité de Mid-Race, avec 2 autres boosts bien plus faible si elle active 2 skills (1 skill par boost) pendant son unique. C’est un unique de puissance réduite mais de duration accrue. L’unique s’active en Mid-Race si elle utilise 2 skills.<br>
+C’est un unique simple à activer et qui peut s’activer très tôt dans le Mid-Race. Bien que l’unique possède 2 autres boosts de vélocité en activant des skills, leur valeur est tellement faible qu’ils ne seront pas ressentis. L’unique est intéressant pour rattraper les Front Runner le plus tôt possible, peu importe la stratégie que Tamamo Cross (Festival) utilise.
+
+#### Pull ou pas ? :
+
+Si elles sont vos Oshi, oui sinon non.
+ 
+Inari One (Festival) à une utilisation différente que la OG. Elle est principalement utilisée en Turf Long, alors que sa version OG est un peu plus spécialisée pour le Dirt. Dans les courses où Encroaching Shadow s’active bien, elle sera plus forte que sa version OG (surtout en Long). Dans les autres cas, la version OG sera meilleure. C’est une bonne alt.
+
+Tamamo Cross (Festival) est plus spécialisé que sa version OG. Elle se spécialise en tant que Pace Chaser et pour le Medium, où sa version OG n’a pas de vraie spécialisation. En Medium, elle sera généralement meilleure mais en Long, la version OG sera meilleure quand elle est une End Closer. C’est une alt intéressante.
+ 
+En dehors de la comparaison avec leur version OG, Inari One (Festival) et Tamamo Cross (Festival) sont de bonnes umas, bien qu’elles ne soient pas des must pulls comparé à des umas utiles en tant que parent ou des monstres démesurés en termes de puissances.
+
+### Bannière Support à suivre : Yaeno Muteki Guts SSR & Oguri Cap Wit SSR
+
+⏩**Yaeno Muteki** :guts: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus puis Training Effectiveness à 3LB.
+ 
+- Son Unique Effect lui donne 3 Guts Bonus quand sa bond gauge est pleine.
+ 
+- Ses rainbows sont mauvais, avec l’absence de Special Priority et son faible Friendship Bonus. Son cross-training est correct avec du Training Effectiveness correct et son Skill Point Bonus.
+ 
+- Elle propose une liste de 7 hints❗, dont _Medium Straightaways_ et _Medium Corners_ se sont rajoutés dans sa liste comparé à sa version Power. Elle possède Hint Levels et Hint Frequency, bien que moins puissant que sa version Power.
+ 
+- Son gold skill est **Killer Tunes**, la gold version de _Up-Tempo_. C’est un gold de vélocité pour le Medium, s’activant aléatoirement en Mid-Race si l’uma est dans le top 50%.<br>
+C’est un bon skill pour les Front Runner ou les Pace Chasers en Medium.
+
+⏩**Oguri Cap** :wit: :ssr:
+
+- La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Wit Bonus à 3LB et un second Wit Bonus à MLB.
+ 
+- Son Unique Effect donne 5 d’Initial Friendship Gauge à toutes vos cartes. Cela vous permet d’atteindre vos rainbows un peu plus rapidement.
+ 
+- Ses rainbows sont puissants avec son très bon Friendship Bonus et son bon Special Priority, mais aussi ses Stats Bonus. Son cross-training est correct avec son Training Effect correct et le Speed Bonus qui est utile.
+ 
+- Elle propose une liste de 12 hints❗, principalement pour Pace Chaser et le Medium. Tous ses hints sont bons. Elle possède Hint Levels et Hint Frequency, ses hints seront bien sympa.
+ 
+- Son gold skill est **Solid Strike**, la gold version de _Steady Gait_. C’est un gold hybride de vélocité et d’accélération de Pace Chaser pour le Medium. Il s’active aléatoirement en seconde moitié de Mid-Race si l’écart entre l’utilisatrice et l’uma en première place est inférieur à 10m.<br>
+Le skill peut être utilisé même si l’utilisatrice est en première place. Il est possible de forcer l’activation le plus tard possible avec de bon Front Runner ou Runaway pour faire du carry-over
+
+#### PULL OU PAS
+
+Non.
+ 
+Yaeno Muteki Guts SSR est une carte affreuse, qui n’est même pas plus utile que sa version Power. C’est vraiment une mauvaise carte.
+ 
+Oguri Cap Wit SSR est une très bonne carte Wit, qui est d’un niveau presque similaire à Fine Motion Wit SSR ou Tokai Teio Wit SSR. Elle n’est pas à pull mais est un excellent emprunt pour les Pace Chaser Medium.
+ 
+Ne pullez pas sur cette bannière, empruntez Oguri Cap Wit SSR si vous en avez besoin.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
