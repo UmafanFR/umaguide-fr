@@ -1429,3 +1429,27 @@ Mejiro Palmer Stamina SSR n'est pas désirable car c’est une carte Stamina. Si
 Ne pullez pas sur cette bannière.
 
 :::
+
+## #60 - Maruzensky Speed SSR & Fine Motion Wit SSR (rerun)
+
+![Image de présentation de la bannière Maruzensky Speed SSR & Fine Motion Wit SSR (rerun)](/public/assets/Gacha-reviews/2026/060_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Maruzensky** :speed: :SSR:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_52-maruzensky-speed-ssr-nakayama-festa-wit-ssr)
+
+⏩**Fine Motion** :wit: :ssr:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_36-fine-motion-wit-ssr-kawakimi-princess-speed-ssr-rerun)
+
+#### PULL OU PAS
+
+Oui.
+ 
+Ce sont toutes les deux des cartes top tier. Même si Fine Motion sera powercreep au prochain scénario (c'est un faible powercreep mais s'en ai un), elle restera utile en tant que seconde carte Wit. Maruzensky est la carte Speed qui donne le plus de stats grâce à son Unique Effect mais aussi la carte principale pour les Front Runner.
+ 
+C’est une bonne bannière si vous n’avez pas les 2 ou que vous souhaitez améliorer leur LB. Cependant, si vous avez une des 2 qui est MLB, il est dangereux de pull sur cette bannière.
+
+:::
