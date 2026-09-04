@@ -173,7 +173,7 @@ _Inari One (Festival) est une End Closer pour le Medium et le Long (1 gold) pour
 - Elle possède 2 Secret Event pour des stats (un total de 70 stats et 35 Skill Points) et des skills hints pour des skills Medium (Eager / All I’ve Got et Fighting Spirit) si Inari One court et gagne des courses en plus. Le premier Secret Event demandera de gagner en plus la Japan Cup (Senior). Le second demandera de gagner 2 de ces 3 courses de la classic year : Takarazuka Kinen, Tenno Sho (Autumn) ou Japan Cup.<br>
 C'est un total de 3 courses en plus, qui je pense est rentable pour la bonne quantité de stats que les Secret Events donne, mais aussi les Skill Points que les courses vous donneront.
  
-- Son unique est un boost de vélocité de Final Straight. C’est un unique avec de durée habituelle, mais ayant une puissance accrue. L’unique s’active au début du Final Straight, à condition que Inari One (Festival) ait fait au moins un dépassement dans un corner du late-race, en étant bottom 40%. L’unique devient plus puissant en fonction du nombre d’umas qu’elle dépasse dans un corner du Late-Race, et est à pleine puissance si elle dépasse 4 fois.<br>
+- Son unique est un boost de vélocité de Final Straight. C’est un unique de durée habituelle, mais ayant une puissance accrue. L’unique s’active au début du Final Straight, à condition que Inari One (Festival) ait fait au moins un dépassement dans un corner du late-race, en étant bottom 40%. L’unique devient plus puissant en fonction du nombre d’umas qu’elle dépasse dans un corner du Late-Race, et est à pleine puissance si elle dépasse 4 fois.<br>
 C’est un bon unique, bien que sa puissance maximale reste inférieure à des uniques qui possède une puissance accrue de base.
 
 ⏩ **Tamamo Cross (Festival)** :
