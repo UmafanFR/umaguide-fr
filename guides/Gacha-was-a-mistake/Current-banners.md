@@ -161,7 +161,7 @@ Pullez seulement si vous avez besoin de Symboli Kris S, et que vous ne possédez
 
 _Inari One (Festival) est une End Closer pour le Medium et le Long (1 gold) pour le Turf et le Dirt. Avec de l’inspiration, elle peut courir en Mile, en tant que Late Surger et en tant que Pace Chaser (1 :star: nécessaire pour les 3). Elle possède un gold de vélocité pour le Long et un gold d’accélération d’End Closer. Son unique est un boost de vélocité de Final Straight._
  
-- Elle possède 3 bonus de croissances : 14% en :speed:, 8% en :power: et 8% en :wot:. C'est un excellent combo, bien que le bonus Stamina aurait pu être préféré vu qu’elle est principalement une uma Long. Elle utilisera des decks avec 2 Speed / 2 Wit + Super Creek et Light Hello dans la majorité des cas.
+- Elle possède 3 bonus de croissances : 14% en :speed:, 8% en :power: et 8% en :wit:. C'est un excellent combo, bien que le bonus Stamina aurait pu être préféré vu qu’elle est principalement une uma Long. Elle utilisera des decks avec 2 Speed / 2 Wit + Super Creek et Light Hello dans la majorité des cas.
  
 - Ses gold skills sont :
  
@@ -170,17 +170,17 @@ _Inari One (Festival) est une End Closer pour le Medium et le Long (1 gold) pour
     - **Encroaching Shadow**, la gold version de _Straightaway Spurt_. C’est un gold d’accélération d’End Closer. Qui s’active quand l’uma rentre dans la mécanique de Last Spurt et qu’elle soit sur une ligne droite.<br>
     C’est un excellent skill, le skill d’accélération principale pour les End Closer, surtout en Long.
  
-- Elle possède 2 Secret Event pour des stats (un total de 70 stats et 35 Skill Points) et des skills hints pour des skills Medium (Eager / All I’ve Got et Fighting Spirit) si Inari One court et gagne des courses en plus. Le premier Secret Event demandera de gagner en plus la Japan Cup (Senior). Le second demandera de gagner 2 de ces 3 courses : Takarazuka Kinen (Classic) : Tenno Sho (Autumn)(Classic) ; Japan Cup (Classic).<br>
+- Elle possède 2 Secret Event pour des stats (un total de 70 stats et 35 Skill Points) et des skills hints pour des skills Medium (Eager / All I’ve Got et Fighting Spirit) si Inari One court et gagne des courses en plus. Le premier Secret Event demandera de gagner en plus la Japan Cup (Senior). Le second demandera de gagner 2 de ces 3 courses de la classic year : Takarazuka Kinen, Tenno Sho (Autumn) ou Japan Cup.<br>
 C'est un total de 3 courses en plus, qui je pense est rentable pour la bonne quantité de stats que les Secret Events donne, mais aussi les Skill Points que les courses vous donneront.
  
-- Son unique est un boost de vélocité de Final Straight. C’est un unique avec un duration basique et une puissance accrue. L’unique s’active au début du Final Straight, si dans un corner du Late-Race, Inari One (Festival) est dans le bottom 40% et qu’elle double une uma. L’unique devient plus puissant en fonction du nombre d’umas qu’elle dépasse dans un corner du Late-Race. L’unique atteint sa puissance maximale si elle dépasse au moins 4 umas.<br>
+- Son unique est un boost de vélocité de Final Straight. C’est un unique avec de durée habituelle, mais ayant une puissance accrue. L’unique s’active au début du Final Straight, à condition que Inari One (Festival) ait fait au moins un dépassement dans un corner du late-race, en étant bottom 40%. L’unique devient plus puissant en fonction du nombre d’umas qu’elle dépasse dans un corner du Late-Race, et est à pleine puissance si elle dépasse 4 fois.<br>
 C’est un bon unique, bien que sa puissance maximale reste inférieure à des uniques qui possède une puissance accrue de base.
 
 ⏩ **Tamamo Cross (Festival)** :
 
 _Tamamo Cross (Festival) est une uma pour le Medium (1 gold) et le Long. Elle peut courir parfaitement en tant que Pace Chaser, Late Surger et End Closer, bien que le premier soit sa stratégie principale dû à ses white skills innés et un de ses gold skill. Elle possède 2 gold skills de vélocité, le premier pour le Medium et le second est universel. Son unique est un boost de vélocité de Mid-Race._
  
-- Elle possède 3 bonus de croissances : 14% en :speed:, 8% en :stamina: et 8% en :guts. C’est un combo sympa, bien qu’on aurait préféré un autre boost que Guts. Ses decks seront généralement 2 Speed + 2 Wit + Riko et un flex Stamina ou Power, si vous avez de bon parents Stamina (et que vous n'ayez pas besoin d'un gold de recovery ou que vous en prenez une carte Power qui en possède un).
+- Elle possède 3 bonus de croissances : 14% en :speed:, 8% en :stamina: et 8% en :guts:. C’est un combo sympa, bien qu’on aurait préféré un autre boost que Guts. Ses decks seront généralement 2 Speed + 2 Wit + Light Hello et un flex Stamina ou Power, si vous avez de bon parents Stamina (et que vous n'ayez pas besoin d'un gold de recovery ou que vous en prenez une carte Power qui en possède un).
  
 - Ses gold skills sont :
  
@@ -191,10 +191,10 @@ _Tamamo Cross (Festival) est une uma pour le Medium (1 gold) et le Long. Elle pe
     Le skill peut se réactiver potentiellement en Long si elle l’active une première fois au début du Mid-Race, puis vers la fin du Mid-Race. C’est un très bon skill.
  
 - Tamamo Cross possède un Secret Event qui lui donne 25 de Speed, 15 de Guts et 2 skill hints pour Tail Held High si elle court et gagne une course supplémentaire : la Japan Cup (Senior)<br>
-Elle possède aussi un événement supplémentaire avec la possibilité de recevoir Fast Learner.
+Elle possède aussi un événement supplémentaire avec la possibilité de recevoir aléatoirement Fast Learner.
  
-- Son unique est un boost de vélocité de Mid-Race, avec 2 autres boosts bien plus faible si elle active 2 skills (1 skill par boost) pendant son unique. C’est un unique de puissance réduite mais de duration accrue. L’unique s’active en Mid-Race si elle utilise 2 skills.<br>
-C’est un unique simple à activer et qui peut s’activer très tôt dans le Mid-Race. Bien que l’unique possède 2 autres boosts de vélocité en activant des skills, leur valeur est tellement faible qu’ils ne seront pas ressentis. L’unique est intéressant pour rattraper les Front Runner le plus tôt possible, peu importe la stratégie que Tamamo Cross (Festival) utilise.
+- Son unique est un boost de vélocité, s'activant si elle utilise 2 skills en Mid-race. Ce skill unique a une puissance réduite, mais une durée accrue ; et la puissance peut légèrement augmenter si elle active 1 skilln, puis un 2e, pendant la durée d'activation de son unique.<br>
+C’est un unique simple à activer et qui peut s’activer très tôt dans le Mid-Race. Bien que l’unique possède 2 autres boosts de vélocité en activant des skills, l'augmentation de puissance restera marginale la plupart du temps. L’unique est intéressant pour rattraper les Front Runner le plus tôt possible, peu importe la stratégie que Tamamo Cross (Festival) utilise.
 
 #### Pull ou pas ? :
 
@@ -216,7 +216,7 @@ En dehors de la comparaison avec leur version OG, Inari One (Festival) et Tamamo
  
 - Ses rainbows sont mauvais, avec l’absence de Special Priority et son faible Friendship Bonus. Son cross-training est correct avec du Training Effectiveness correct et son Skill Point Bonus.
  
-- Elle propose une liste de 7 hints❗, dont _Medium Straightaways_ et _Medium Corners_ se sont rajoutés dans sa liste comparé à sa version Power. Elle possède Hint Levels et Hint Frequency, bien que moins puissant que sa version Power.
+- Elle propose une liste de 7 hints❗, dont _Medium Straightaways_ et _Medium Corners_ en plus par rapport à sa version Power. Elle possède Hint Levels et Hint Frequency, bien que moins puissant que sa version Power.
  
 - Son gold skill est **Killer Tunes**, la gold version de _Up-Tempo_. C’est un gold de vélocité pour le Medium, s’activant aléatoirement en Mid-Race si l’uma est dans le top 50%.<br>
 C’est un bon skill pour les Front Runner ou les Pace Chasers en Medium.
