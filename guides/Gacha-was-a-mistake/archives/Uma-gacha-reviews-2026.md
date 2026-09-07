@@ -1487,3 +1487,40 @@ Aston Machan est une excellente Front Runner pour le Sprint, même la meilleure 
 C’est une bonne uma à pull, mais elle n’est pas un Must Pull.
 
 :::
+
+## #61 - Yamanin Zephyr ★★★
+
+![Image de présentation de la bannière Yamanin Zephyr](/public/assets/Gacha-reviews/2026/061_Uma-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Yamanin Zephyr** :
+
+_Yamanin Zephyr est une Pace Chaser pour le Mile (1 gold) et le Medium. Avec de l’inspiration, elle peut courir en Sprint, en tant que Late Surger, mais surtout en Dirt (respectivement 1 :star:, 4 :star: et 7 :star:). Elle possède 2 gold de vélocité, un pour le Mile et l’autre de Pace Chaser. Son unique est un faible boost d’accélération de longue durée de seconde moitié du Final Corner._
+ 
+- Yaminin Zephyr possède 3 bonus de croissances : 10% en :speed:, 10% en :guts: et 10% en :wit:. C’est un combo correct en Mile mais moyen en Medium. Elle se joue principalement avec des decks 2 Speed / 2 Wit et une carte Power ou Guts / Stamina en Flex en fonction de la distance.
+ 
+- Ses gold skills sont :
+ 
+    - **Changing Gears**, la gold version de _Shifting Gears_. C’est un gold de vélocité pour le Mile, qui s’active aléatoirement en Mid-Race si elle est dans le top 50%. C’est un skill correct.
+ 
+    - **Ambitious Breeze**, la gold version de _Aspire_. C’est un gold de vélocité de Pace Chaser, s’activant en Mid-Race, à partir de 60% de la course parcouru, si l’uma n’est pas en 1ère place et que l’écart avec l’uma en 1ère place ne dépassse pas 5 mètres.
+    >Le skill possède les mêmes valeurs que Daring Strike, ce qui est excellent pour le gold skill, mais horrible pour le white skill. Il est cependant moins bon que ce dernier car dans des courses avec une Runaway et une Front ou plusieurs Front Runners, le skill peut ne pas s’activer. Sinon, le skill possède de grandes chances de créer du carry-over.
+ 
+- Son unique est un faible boost d’accélération de longue durée de seconde moitié du Final Corner. Afin de s’activer, Yamanin Zephyr a besoin que, dans la première moitié de course, elle n’a pas été dans le top 20%. L’unique s’active en seconde moitié du Final Corner, si elle est positionnée 50% à l’avant du peloton. Si elle est 2ème quand son unique s’active, le boost d’accélération devient un peu plus puissant.<br>
+
+::: info Un unique qui ne sert presque pas
+
+La durée de l’unique fait que ce n’est pas un problème si l’unique s’active avant la zone de Spurt (Last-Race). Donc en Sprint, l’unique aura toujours de la valeur. En Medium, l’unique aura une faible utilité, car il y a peu voir très peu de courses où l’unique s’active bien. En Mile, l’unique a une utilité variable, car il y a plusieurs Racetrack où plus la distance augmente, moins l’unique devient bon pour potentiellement devenir mauvais.
+
+:::
+
+#### Pull ou pas ? :
+
+Seulement si elle est votre Oshi (je ne pense pas qu’il y en est beaucoup qui l’ont)
+ 
+C’est une uma qui n’a basiquement pas d’unique, et qui peut se faire restreindre son gold skill le plus puissant en fonction de vos adversaires. Même son combo de bonus de croissances est au mieux correct. Elle n’a pas grand-chose pour elle.
+ 
+Ne pullez pas Yamanin Zephyr, c’est une uma plutôt mauvaise.
+
+::::
