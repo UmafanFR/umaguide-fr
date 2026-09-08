@@ -1,5 +1,5 @@
 ---
-title: Gacha - Yamanin Zephyr ★★★ // Symboli Kris S Stamina SSR & Tsumaru Tsuyoshi Guts SR
+title: Gacha - Inari One (Festival) & Tamamo Cross (Festival) ★★★ // Yaeno Muteki Guts SSR & Oguri Cap Wit SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/061_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/062_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -75,87 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Yamanin Zephyr ★★★
+### Bannière Umamusume : Inari One (Festival) & Tamamo Cross (Festival) ★★★
 
-![Image de présentation de la bannière Yamanin Zephyr](/public/assets/Gacha-reviews/2026/061_Uma-Banner.png)
-
-⏩ **Yamanin Zephyr** :
-
-_Yamanin Zephyr est une Pace Chaser pour le Mile (1 gold) et le Medium. Avec de l’inspiration, elle peut courir en Sprint, en tant que Late Surger, mais surtout en Dirt (respectivement 1 :star:, 4 :star: et 7 :star:). Elle possède 2 gold de vélocité, un pour le Mile et l’autre de Pace Chaser. Son unique est un faible boost d’accélération de longue durée de seconde moitié du Final Corner._
- 
-- Yaminin Zephyr possède 3 bonus de croissances : 10% en :speed:, 10% en :guts: et 10% en :wit:. C’est un combo correct en Mile mais moyen en Medium. Elle se joue principalement avec des decks 2 Speed / 2 Wit et une carte Power ou Guts / Stamina en Flex en fonction de la distance.
- 
-- Ses gold skills sont :
- 
-    - **Changing Gears**, la gold version de _Shifting Gears_. C’est un gold de vélocité pour le Mile, qui s’active aléatoirement en Mid-Race si elle est dans le top 50%. C’est un skill correct.
- 
-    - **Ambitious Breeze**, la gold version de _Aspire_. C’est un gold de vélocité de Pace Chaser, s’activant en Mid-Race, à partir de 60% de la course parcouru, si l’uma n’est pas en 1ère place et que l’écart avec l’uma en 1ère place ne dépassse pas 5 mètres.
-    >Le skill possède les mêmes valeurs que Daring Strike, ce qui est excellent pour le gold skill, mais horrible pour le white skill. Il est cependant moins bon que ce dernier car dans des courses avec une Runaway et une Front ou plusieurs Front Runners, le skill peut ne pas s’activer. Sinon, le skill possède de grandes chances de créer du carry-over.
- 
-- Son unique est un faible boost d’accélération de longue durée de seconde moitié du Final Corner. Afin de s’activer, Yamanin Zephyr a besoin que, dans la première moitié de course, elle n’a pas été dans le top 20%. L’unique s’active en seconde moitié du Final Corner, si elle est positionnée 50% à l’avant du peloton. Si elle est 2ème quand son unique s’active, le boost d’accélération devient un peu plus puissant.<br>
-
-::: info Un unique qui ne sert presque pas
-
-La durée de l’unique fait que ce n’est pas un problème si l’unique s’active avant la zone de Spurt (Last-Race). Donc en Sprint, l’unique aura toujours de la valeur. En Medium, l’unique aura une faible utilité, car il y a peu voir très peu de courses où l’unique s’active bien. En Mile, l’unique a une utilité variable, car il y a plusieurs Racetrack où plus la distance augmente, moins l’unique devient bon pour potentiellement devenir mauvais.
-
-:::
-
-#### Pull ou pas ? :
-
-Seulement si elle est votre Oshi (je ne pense pas qu’il y en est beaucoup qui l’ont)
- 
-C’est une uma qui n’a basiquement pas d’unique, et qui peut se faire restreindre son gold skill le plus puissant en fonction de vos adversaires. Même son combo de bonus de croissances est au mieux correct. Elle n’a pas grand-chose pour elle.
- 
-Ne pullez pas Yamanin Zephyr, c’est une uma plutôt mauvaise.
-
----
-
-### Bannière support : Symboli Kris S Stamina SSR & Tsumaru Tsuyoshi Guts SR
-
-![Image de présentation de la bannière Symboli Kris S Stamina SSR & Tsumaru Tsuyoshi Guts SR](/public/assets/Gacha-reviews/2026/061_Card-Banner.png)
-
-⏩**Symboli Kris S** :stamina: :SSR:
-
-- La carte est équilibrée. A 1LB, elle débloque Skill Point Bonus puis Mood Effect à 3LB.
- 
-- Son Unique Effect lui donne 2 Guts Bonus quand son bond gauge atteint 80 (orange)
- 
-- Ses rainbows sont bons, avec ses bons Friendship Bonus et Special Priority. Il donne surtout pas mal de Guts avec les 2 Guts Bonus. Son cross-training est correct avec son Skill Point Bonus, ainsi qu'un léger Training Effectiveness et un peu de Mood Effect.
- 
-- Elle propose une liste de 8 hints❗, dont _Scramble_, un skill important pour les Late Surger. Elle possède Hint Level et Hint Frequency, ses hints seront sympas.
- 
-- Son gold skill est **Claw Forward**, la gold version de _Scramble_. C’est un skill d’accélération de Late Surger pour le Long. Il s’active si l’uma rentre en Last Spurt Mode et qu’elle se trouve dans le bottom 60%. Le skill consomme de la stamina (plus qu’un white skill de recovery).<br>
-C’est un skill obligatoire si vous voulez jouer des Late Surgers en Long. Sans ce skill, les Late Surgers resteront plus faibles que les autres stratégies.
-
-⏩**Tsurumaru Tsuyoshi** :guts: :sr:
-
-- La carte est backloaded. A 1LB, elle débloque Training Effectiveness puis Speed Bonus à MLB
- 
-- Son Unique Effect donne 1 Guts Bonus et 5 de Training Effectiveness.
- 
-- Ses rainbows sont corrects, avec ses Friendship Bonus et Special Priority correct. Son cross-training est bon avec son Training Effectiveness correct et ses Stats Bonus.
- 
-- Elle propose une liste de 5 hints❗, dont les bons _Risky Business_ et _Full Throttle_ qui sont rares. Ses hints seront cependant faibles.
- 
-- Son dernier Chain Event donne _Late Surger Straightaways_.
-
-#### PULL OU PAS
-
-Seulement si vous voulez jouer des Late Surger en Long, sinon non.
- 
-Symboli Kris S Stamina SSR est soit une carte que vous allez borrow, soit vous devez la prendre en fonction du nombre de Late Surger que vous voulez jouer en Long. Si vous en jouez peu, elle est mieux en borrow, en attendant une meilleure carte pour le gold skill, **Manhattan Cafe Wit SSR**. Si vous en jouez plusieurs il sera préférable de pull la carte, sauf si vous possédez toutes les autres cartes que vous aurez besoin pour faire vos umas.
- 
-Tsurumaru Tsuyoshi Guts SR est trop faible pour être utile.
- 
-Pullez seulement si vous avez besoin de Symboli Kris S, et que vous ne possédez pas les autres cartes nécessaires ou que vous ne pouvez pas attendre Manhattan Cafe Wit SSR.
-
----
-
-# Bannières à suivre (08 Septembre 00h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/062_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Inari One (Festival) & Tamamo Cross (Festival) ★★★
+![Image de présentation de la bannière Inari One (Festival) & Tamamo Cross (Festival)](/public/assets/Gacha-reviews/2026/062_Uma-Banner.png)
 
 ⏩ **Inari One (Festival)** :
 
@@ -173,7 +95,7 @@ _Inari One (Festival) est une End Closer pour le Medium et le Long (1 gold) pour
 - Elle possède 2 Secret Event pour des stats (un total de 70 stats et 35 Skill Points) et des skills hints pour des skills Medium (Eager / All I’ve Got et Fighting Spirit) si Inari One court et gagne des courses en plus. Le premier Secret Event demandera de gagner en plus la Japan Cup (Senior). Le second demandera de gagner 2 de ces 3 courses de la classic year : Takarazuka Kinen, Tenno Sho (Autumn) ou Japan Cup.<br>
 C'est un total de 3 courses en plus, qui je pense est rentable pour la bonne quantité de stats que les Secret Events donne, mais aussi les Skill Points que les courses vous donneront.
  
-- Son unique est un boost de vélocité de Final Straight. C’est un unique de durée habituelle, mais ayant une puissance accrue. L’unique s’active au début du Final Straight, à condition que Inari One (Festival) ait fait au moins un dépassement dans un corner du late-race, en étant bottom 40%. L’unique devient plus puissant en fonction du nombre d’umas qu’elle dépasse dans un corner du Late-Race, et est à pleine puissance si elle dépasse 4 fois.<br>
+- Son unique est un boost de vélocité de Final Straight. C’est un unique ayant une puissance accrue. L’unique s’active au début du Final Straight, à condition que Inari One (Festival) ait fait au moins un dépassement dans un corner du late-race, en étant bottom 40%. L’unique devient plus puissant en fonction du nombre d’umas qu’elle dépasse dans un corner du Late-Race, et est à pleine puissance si elle dépasse 4 fois.<br>
 C’est un bon unique, bien que sa puissance maximale reste inférieure à des uniques qui possède une puissance accrue de base.
 
 ⏩ **Tamamo Cross (Festival)** :
@@ -193,7 +115,7 @@ _Tamamo Cross (Festival) est une uma pour le Medium (1 gold) et le Long. Elle pe
 - Tamamo Cross possède un Secret Event qui lui donne 25 de Speed, 15 de Guts et 2 skill hints pour Tail Held High si elle court et gagne une course supplémentaire : la Japan Cup (Senior)<br>
 Elle possède aussi un événement supplémentaire avec la possibilité de recevoir aléatoirement Fast Learner.
  
-- Son unique est un boost de vélocité, s'activant si elle utilise 2 skills en Mid-race. Ce skill unique a une puissance réduite, mais une durée accrue ; et la puissance peut légèrement augmenter si elle active 1 skilln, puis un 2e, pendant la durée d'activation de son unique.<br>
+- Son unique est un boost de vélocité, s'activant si elle utilise 2 skills en Mid-race. C'est un unique a une puissance réduite, mais de durée accrue ; et la puissance peut légèrement augmenter si elle active 1 skill, puis un 2e, pendant la durée d'activation de son unique.<br>
 C’est un unique simple à activer et qui peut s’activer très tôt dans le Mid-Race. Bien que l’unique possède 2 autres boosts de vélocité en activant des skills, l'augmentation de puissance restera marginale la plupart du temps. L’unique est intéressant pour rattraper les Front Runner le plus tôt possible, peu importe la stratégie que Tamamo Cross (Festival) utilise.
 
 #### Pull ou pas ? :
@@ -206,7 +128,11 @@ Tamamo Cross (Festival) est plus spécialisé que sa version OG. Elle se spécia
  
 En dehors de la comparaison avec leur version OG, Inari One (Festival) et Tamamo Cross (Festival) sont de bonnes umas, bien qu’elles ne soient pas des must pulls comparé à des umas utiles en tant que parent ou des monstres démesurés en termes de puissances.
 
-### Bannière Support à suivre : Yaeno Muteki Guts SSR & Oguri Cap Wit SSR
+---
+
+### Bannière support : Yaeno Muteki Guts SSR & Oguri Cap Wit SSR
+
+![Image de présentation de la bannière Yaeno Muteki Guts SSR & Oguri Cap Wit SSR](/public/assets/Gacha-reviews/2026/061_Card-Banner.png)
 
 ⏩**Yaeno Muteki** :guts: :SSR:
 
@@ -243,6 +169,64 @@ Yaeno Muteki Guts SSR est une carte affreuse, qui n’est même pas plus utile q
 Oguri Cap Wit SSR est une très bonne carte Wit, qui est d’un niveau presque similaire à Fine Motion Wit SSR ou Tokai Teio Wit SSR. Elle n’est pas à pull mais est un excellent emprunt pour les Pace Chaser Medium.
  
 Ne pullez pas sur cette bannière, empruntez Oguri Cap Wit SSR si vous en avez besoin.
+
+---
+
+# Bannières à suivre (16 Septembre 00h)  
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/063_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Nakayama Festa ★★★
+
+⏩ **Nakayama Festa** :
+
+_Nakayama Festa est une Pace Chaser et Late Surger pour le Medium. Avec de l’inspiration, elle peut courir en Long et en Mile, mais aussi en tant qu’End Closer (respectivement 1 :star:, 4 :star: et 7 :star:). Elle possède un gold skill de vélocité universelle et un gold green de Speed, Power et Guts. Son unique est un boost de vélocité s’activant à partir des 400 derniers mètres._
+ 
+- Elle possède 3 bonus de croissances : 10% en :speed:, 10% en :stamina: et 10% en :power:. C’est un excellent combo de bonus, probablement le meilleur quand une uma possède 3 bonus de croissances. Elle utilisera des decks basiques.
+ 
+- Ses gold skills sont :
+ 
+    - **Nothing Ventured**, la gold version de _Risky Business_. C’est un gold de vélocité puissant qui s’active aléatoirement dans la seconde moitié de course. Le skill peut aléatoirement consommer une partie des HP de l’uma qui l’utilise.
+
+    ::: info Consommation de Stamina de Nothing Ventured
+
+    Le skill à 60% de chance de ne pas consommer d’HP, 30% de chance de consommer 2% d’HP et 10% de consommer 4% d’HP. Malgré le potentiel malus, le skill reste puissant. Pour rappel, un gold recovery restaure 5,5% d'HP
+
+    :::
+
+    - **Risk-Maker**, la gold version de _Risk-Taker_. C’est un gold green qui nous donne un gros boost en Speed, Power et Guts quand il s’active. Le skill aura 30% de chance de s’activer si Nakayama Festa est dans le top 3 de la popularité de la course. Si elle est 4ème ou inférieure, le skill aura 60% de chance de s’activer. C’est un skill qui demande d’être dans des rooms fortes et de bien connaître comment le système de popularité fonctionne.<br>
+    Le skill est vraiment puissant, mais trop aléatoire. C’est un skill à prendre si vous avez un surplus de skill points ou que vous maitrisez le système de popularité pour toujours avoir 60% de chance de l’activer.
+ 
+- Nakayama Festa possède 2 évènements intéressants. Le premier est l’un de ses Costume Events, qui lui donne une chance aléatoire d’avoir Fast Learner. Cela fait qu’elle à 2 évènements pour avoir Fast Learner, comparé à plein d’autres umas qui n’ont qu’une seule chance.<br>
+Le second est un événement qui peut se répéter plusieurs fois pendant une run. Vous pouvez soit choisir de prendre 5 d’énergie et 5 wit, ou prendre le choix avec un résultat aléatoire pour 1 Mood, 20 de Power et Guts ou une consommation de 10 énergies, 10 de Power et Guts.
+ 
+- Son unique est un boost de vélocité s’activant à partir des 400 derniers mètres. C’est un unique de durée habituelle, mais ayant 2 variations de puissance. Afin de s’activer, Nakayama Festa aura besoin d’avoir une uma qu’elle essaye de dépasser dans le Final Corner. L’unique s’active alors dans les 400 derniers mètres si elle est dans le bottom 70% et le top 50% (≥3 <-> ≤5 en CM). En fonction de la popularité de Nakayama Festa, l’unique devient plus puissant. Si elle se trouve 4ème ou inférieur en popularité, l’unique sera dans la variation de puissance accrue.
+
+#### Pull ou pas ? :
+
+Si elle est votre Oshi, oui sinon non.
+ 
+Nakayama Festa est une uma plus compliqué à maîtriser sa pleine puissance. Son unique et un de ses gold skill skills sont liés à la mécanique de popularité de course. Elle demandera donc de bien connaître cette mécanique et de la maîtriser pour atteindre le plein potentiel de Nakayama Festa.
+
+Si vous maîtrisez la mécanique, il est possible de l’utiliser en tant que Parent / Grand Parent pour les Pace Chasers, Late Surger et End Closer. Cependant, on va préférer des umas qui ont des unique plus simples avec la même puissance.
+
+### Bannière Support à suivre : Mr. C.B. Wit SSR & Super Creek Stamina SSR (rerun)
+
+⏩**Mr. C.B.** :wit: :SSR:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_44-mr-c-b-wit-ssr-tokai-teio-stamina-sr)
+
+⏩**Super Creek** :stamina: :ssr:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_08-super-creek-stamina-ssr-tazuna-hayakawa-pal-ssr-rerun)
+
+#### PULL OU PAS
+
+Oui.
+ 
+Ce sont toutes les deux des cartes top tier. Mr. C.B. sera powercreep au prochain scénario, mais elle restera utile en tant que seconde carte Wit, surtout pour son gold skill **Daring Strike** pour les End Closer. Super Creek est la meilleur carte Stamina pendant encore un bon moment, et restera une assez bonne carte même quand elle sera powercreep.
+ 
+C’est une bonne bannière si vous n’avez pas les 2 ou que vous souhaitez améliorer leur LB. Cependant, si vous avez une des 2 qui est MLB, il est dangereux de pull sur cette bannière.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
