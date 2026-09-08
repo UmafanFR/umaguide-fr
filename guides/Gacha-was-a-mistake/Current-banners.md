@@ -200,7 +200,7 @@ _Nakayama Festa est une Pace Chaser et Late Surger pour le Medium. Avec de l’i
 - Nakayama Festa possède 2 évènements intéressants. Le premier est l’un de ses Costume Events, qui lui donne une chance aléatoire d’avoir Fast Learner. Cela fait qu’elle à 2 évènements pour avoir Fast Learner, comparé à plein d’autres umas qui n’ont qu’une seule chance.<br>
 Le second est un événement qui peut se répéter plusieurs fois pendant une run. Vous pouvez soit choisir de prendre 5 d’énergie et 5 wit, ou prendre le choix avec un résultat aléatoire pour 1 Mood, 20 de Power et Guts ou une consommation de 10 énergies, 10 de Power et Guts.
  
-- Son unique est un boost de vélocité s’activant à partir des 400 derniers mètres. C’est un unique de durée habituelle, mais ayant 2 variations de puissance. Afin de s’activer, Nakayama Festa aura besoin d’avoir une uma qu’elle essaye de dépasser dans le Final Corner. L’unique s’active alors dans les 400 derniers mètres si elle est dans le bottom 70% et le top 50% (≥3 <-> ≤5 en CM). En fonction de la popularité de Nakayama Festa, l’unique devient plus puissant. Si elle se trouve 4ème ou inférieur en popularité, l’unique sera dans la variation de puissance accrue.
+- Son unique est un boost de vélocité s’activant à partir des 400 derniers mètres. C’est un unique ayant 2 variations de puissance. Afin de s’activer, Nakayama Festa aura besoin d’avoir une uma qu’elle essaye de dépasser dans le Final Corner. L’unique s’active alors dans les 400 derniers mètres si elle est dans le bottom 70% et le top 50% (≥3 <-> ≤5 en CM). En fonction de la popularité de Nakayama Festa, l’unique devient plus puissant. Si elle se trouve 4ème ou inférieur en popularité, l’unique sera dans la variation de puissance accrue.
 
 #### Pull ou pas ? :
 
