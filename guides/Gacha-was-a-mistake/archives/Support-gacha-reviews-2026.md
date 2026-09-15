@@ -1496,3 +1496,47 @@ Tsurumaru Tsuyoshi Guts SR est trop faible pour être utile.
 Pullez seulement si vous avez besoin de Symboli Kris S, et que vous ne possédez pas les autres cartes nécessaires ou que vous ne pouvez pas attendre Manhattan Cafe Wit SSR.
 
 :::
+
+## #62 - Yaeno Muteki Guts SSR & Oguri Cap Wit SSR
+
+![Image de présentation de la bannière Yaeno Muteki Guts SSR & Oguri Cap Wit SSR](/public/assets/Gacha-reviews/2026/061_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Yaeno Muteki** :guts: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus puis Training Effectiveness à 3LB.
+ 
+- Son Unique Effect lui donne 3 Guts Bonus quand sa bond gauge est pleine.
+ 
+- Ses rainbows sont mauvais, avec l’absence de Special Priority et son faible Friendship Bonus. Son cross-training est correct avec du Training Effectiveness correct et son Skill Point Bonus.
+ 
+- Elle propose une liste de 7 hints❗, dont _Medium Straightaways_ et _Medium Corners_ en plus par rapport à sa version Power. Elle possède Hint Levels et Hint Frequency, bien que moins puissant que sa version Power.
+ 
+- Son gold skill est **Killer Tunes**, la gold version de _Up-Tempo_. C’est un gold de vélocité pour le Medium, s’activant aléatoirement en Mid-Race si l’uma est dans le top 50%.<br>
+C’est un bon skill pour les Front Runner ou les Pace Chasers en Medium.
+
+⏩**Oguri Cap** :wit: :ssr:
+
+- La carte est backloaded. A 1LB, elle débloque Speed Bonus puis Wit Bonus à 3LB et un second Wit Bonus à MLB.
+ 
+- Son Unique Effect donne 5 d’Initial Friendship Gauge à toutes vos cartes. Cela vous permet d’atteindre vos rainbows un peu plus rapidement.
+ 
+- Ses rainbows sont puissants avec son très bon Friendship Bonus et son bon Special Priority, mais aussi ses Stats Bonus. Son cross-training est correct avec son Training Effect correct et le Speed Bonus qui est utile.
+ 
+- Elle propose une liste de 12 hints❗, principalement pour Pace Chaser et le Medium. Tous ses hints sont bons. Elle possède Hint Levels et Hint Frequency, ses hints seront bien sympa.
+ 
+- Son gold skill est **Solid Strike**, la gold version de _Steady Gait_. C’est un gold hybride de vélocité et d’accélération de Pace Chaser pour le Medium. Il s’active aléatoirement en seconde moitié de Mid-Race si l’écart entre l’utilisatrice et l’uma en première place est inférieur à 10m.<br>
+Le skill peut être utilisé même si l’utilisatrice est en première place. Il est possible de forcer l’activation le plus tard possible avec de bon Front Runner ou Runaway pour faire du carry-over
+
+#### PULL OU PAS
+
+Non.
+ 
+Yaeno Muteki Guts SSR est une carte affreuse, qui n’est même pas plus utile que sa version Power. C’est vraiment une mauvaise carte.
+ 
+Oguri Cap Wit SSR est une très bonne carte Wit, qui est d’un niveau presque similaire à Fine Motion Wit SSR ou Tokai Teio Wit SSR. Elle n’est pas à pull mais est un excellent emprunt pour les Pace Chaser Medium.
+ 
+Ne pullez pas sur cette bannière, empruntez Oguri Cap Wit SSR si vous en avez besoin.
+
+:::

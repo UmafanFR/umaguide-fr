@@ -1524,3 +1524,60 @@ C’est une uma qui n’a basiquement pas d’unique, et qui peut se faire restr
 Ne pullez pas Yamanin Zephyr, c’est une uma plutôt mauvaise.
 
 ::::
+
+## #62 - Inari One (Festival) & Tamamo Cross (Festival) ★★★
+
+![Image de présentation de la bannière Inari One (Festival) & Tamamo Cross (Festival)](/public/assets/Gacha-reviews/2026/062_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Inari One (Festival)** :
+
+_Inari One (Festival) est une End Closer pour le Medium et le Long (1 gold) pour le Turf et le Dirt. Avec de l’inspiration, elle peut courir en Mile, en tant que Late Surger et en tant que Pace Chaser (1 :star: nécessaire pour les 3). Elle possède un gold de vélocité pour le Long et un gold d’accélération d’End Closer. Son unique est un boost de vélocité de Final Straight._
+ 
+- Elle possède 3 bonus de croissances : 14% en :speed:, 8% en :power: et 8% en :wit:. C'est un excellent combo, bien que le bonus Stamina aurait pu être préféré vu qu’elle est principalement une uma Long. Elle utilisera des decks avec 2 Speed / 2 Wit + Super Creek et Light Hello dans la majorité des cas.
+ 
+- Ses gold skills sont :
+ 
+    - **Innate Experience**, la gold version d'_Inside Scoop_. C'est un gold de vélocité pour le Long, s'activant pendant le final corner si on est proche de la barrière. De manière contre-intuitive, l'activation est plus fiable qu'il n'y paraît, et il n'est pas nécessaire d'être collé à la barrière pour l'activer.
+ 
+    - **Encroaching Shadow**, la gold version de _Straightaway Spurt_. C’est un gold d’accélération d’End Closer. Qui s’active quand l’uma rentre dans la mécanique de Last Spurt et qu’elle soit sur une ligne droite.<br>
+    C’est un excellent skill, le skill d’accélération principale pour les End Closer, surtout en Long.
+ 
+- Elle possède 2 Secret Event pour des stats (un total de 70 stats et 35 Skill Points) et des skills hints pour des skills Medium (Eager / All I’ve Got et Fighting Spirit) si Inari One court et gagne des courses en plus. Le premier Secret Event demandera de gagner en plus la Japan Cup (Senior). Le second demandera de gagner 2 de ces 3 courses de la classic year : Takarazuka Kinen, Tenno Sho (Autumn) ou Japan Cup.<br>
+C'est un total de 3 courses en plus, qui je pense est rentable pour la bonne quantité de stats que les Secret Events donne, mais aussi les Skill Points que les courses vous donneront.
+ 
+- Son unique est un boost de vélocité de Final Straight. C’est un unique ayant une puissance accrue. L’unique s’active au début du Final Straight, à condition que Inari One (Festival) ait fait au moins un dépassement dans un corner du late-race, en étant bottom 40%. L’unique devient plus puissant en fonction du nombre d’umas qu’elle dépasse dans un corner du Late-Race, et est à pleine puissance si elle dépasse 4 fois.<br>
+C’est un bon unique, bien que sa puissance maximale reste inférieure à des uniques qui possède une puissance accrue de base.
+
+⏩ **Tamamo Cross (Festival)** :
+
+_Tamamo Cross (Festival) est une uma pour le Medium (1 gold) et le Long. Elle peut courir parfaitement en tant que Pace Chaser, Late Surger et End Closer, bien que le premier soit sa stratégie principale dû à ses white skills innés et un de ses gold skill. Elle possède 2 gold skills de vélocité, le premier pour le Medium et le second est universel. Son unique est un boost de vélocité de Mid-Race._
+ 
+- Elle possède 3 bonus de croissances : 14% en :speed:, 8% en :stamina: et 8% en :guts:. C’est un combo sympa, bien qu’on aurait préféré un autre boost que Guts. Ses decks seront généralement 2 Speed + 2 Wit + Light Hello et un flex Stamina ou Power, si vous avez de bon parents Stamina (et que vous n'ayez pas besoin d'un gold de recovery ou que vous en prenez une carte Power qui en possède un).
+ 
+- Ses gold skills sont :
+ 
+    - **Killer Tunes**, la gold version de _Up-Tempo_. C’est un gold de vélocité pour le Medium, s’activant aléatoirement en Mid-Race si l’uma est dans le top 50%.<br>
+    C’est un bon skill pour les Front Runner ou les Pace Chasers en Medium.
+ 
+    - **It’s On !**, la gold version de _Ramp Up_. C’est un gold de vélocité universelle qui s’active en Mid-Race si elle double une uma.<br>
+    Le skill peut se réactiver potentiellement en Long si elle l’active une première fois au début du Mid-Race, puis vers la fin du Mid-Race. C’est un très bon skill.
+ 
+- Tamamo Cross possède un Secret Event qui lui donne 25 de Speed, 15 de Guts et 2 skill hints pour Tail Held High si elle court et gagne une course supplémentaire : la Japan Cup (Senior)<br>
+Elle possède aussi un événement supplémentaire avec la possibilité de recevoir aléatoirement Fast Learner.
+ 
+- Son unique est un boost de vélocité, s'activant si elle utilise 2 skills en Mid-race. C'est un unique a une puissance réduite, mais de durée accrue ; et la puissance peut légèrement augmenter si elle active 1 skill, puis un 2e, pendant la durée d'activation de son unique.<br>
+C’est un unique simple à activer et qui peut s’activer très tôt dans le Mid-Race. Bien que l’unique possède 2 autres boosts de vélocité en activant des skills, l'augmentation de puissance restera marginale la plupart du temps. L’unique est intéressant pour rattraper les Front Runner le plus tôt possible, peu importe la stratégie que Tamamo Cross (Festival) utilise.
+
+#### Pull ou pas ? :
+
+Si elles sont vos Oshi, oui sinon non.
+ 
+Inari One (Festival) à une utilisation différente que la OG. Elle est principalement utilisée en Turf Long, alors que sa version OG est un peu plus spécialisée pour le Dirt. Dans les courses où Encroaching Shadow s’active bien, elle sera plus forte que sa version OG (surtout en Long). Dans les autres cas, la version OG sera meilleure. C’est une bonne alt.
+
+Tamamo Cross (Festival) est plus spécialisé que sa version OG. Elle se spécialise en tant que Pace Chaser et pour le Medium, où sa version OG n’a pas de vraie spécialisation. En Medium, elle sera généralement meilleure mais en Long, la version OG sera meilleure quand elle est une End Closer. C’est une alt intéressante.
+ 
+En dehors de la comparaison avec leur version OG, Inari One (Festival) et Tamamo Cross (Festival) sont de bonnes umas, bien qu’elles ne soient pas des must pulls comparé à des umas utiles en tant que parent ou des monstres démesurés en termes de puissances.
+
+:::
