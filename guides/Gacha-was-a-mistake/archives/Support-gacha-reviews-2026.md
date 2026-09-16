@@ -1499,7 +1499,7 @@ Pullez seulement si vous avez besoin de Symboli Kris S, et que vous ne possédez
 
 ## #62 - Yaeno Muteki Guts SSR & Oguri Cap Wit SSR
 
-![Image de présentation de la bannière Yaeno Muteki Guts SSR & Oguri Cap Wit SSR](/public/assets/Gacha-reviews/2026/061_Card-Banner.png)
+![Image de présentation de la bannière Yaeno Muteki Guts SSR & Oguri Cap Wit SSR](/public/assets/Gacha-reviews/2026/062_Card-Banner.png)
 
 ::: details REVIEW
 
@@ -1538,5 +1538,29 @@ Yaeno Muteki Guts SSR est une carte affreuse, qui n’est même pas plus utile q
 Oguri Cap Wit SSR est une très bonne carte Wit, qui est d’un niveau presque similaire à Fine Motion Wit SSR ou Tokai Teio Wit SSR. Elle n’est pas à pull mais est un excellent emprunt pour les Pace Chaser Medium.
  
 Ne pullez pas sur cette bannière, empruntez Oguri Cap Wit SSR si vous en avez besoin.
+
+:::
+
+## #63 - Mr. C.B. Wit SSR & Super Creek Stamina SSR (rerun)
+
+![Image de présentation de la bannière Mr. C.B. Wit SSR & Super Creek Stamina SSR (rerun)](/public/assets/Gacha-reviews/2026/061_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Mr. C.B.** :wit: :SSR:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_44-mr-c-b-wit-ssr-tokai-teio-stamina-sr)
+
+⏩**Super Creek** :stamina: :ssr:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_08-super-creek-stamina-ssr-tazuna-hayakawa-pal-ssr-rerun)
+
+#### PULL OU PAS
+
+Oui.
+ 
+Ce sont toutes les deux des cartes top tier. Mr. C.B. sera powercreep au prochain scénario, mais elle restera utile en tant que seconde carte Wit, surtout pour son gold skill **Daring Strike** pour les End Closer. Super Creek est la meilleur carte Stamina pendant encore un bon moment, et restera une assez bonne carte même quand elle sera powercreep.
+ 
+C’est une bonne bannière si vous n’avez pas les 2 ou que vous souhaitez améliorer leur LB. Cependant, si vous avez une des 2 qui est MLB, il est dangereux de pull sur cette bannière.
 
 :::

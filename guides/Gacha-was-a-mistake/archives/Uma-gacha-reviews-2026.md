@@ -1581,3 +1581,43 @@ Tamamo Cross (Festival) est plus spécialisé que sa version OG. Elle se spécia
 En dehors de la comparaison avec leur version OG, Inari One (Festival) et Tamamo Cross (Festival) sont de bonnes umas, bien qu’elles ne soient pas des must pulls comparé à des umas utiles en tant que parent ou des monstres démesurés en termes de puissances.
 
 :::
+
+## #63 - Nakayama Festa ★★★
+
+![Image de présentation de la bannière Nakayama Festa](/public/assets/Gacha-reviews/2026/063_Uma-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Nakayama Festa** :
+
+_Nakayama Festa est une Pace Chaser et Late Surger pour le Medium. Avec de l’inspiration, elle peut courir en Long et en Mile, mais aussi en tant qu’End Closer (respectivement 1 :star:, 4 :star: et 7 :star:). Elle possède un gold skill de vélocité universelle et un gold green de Speed, Power et Guts. Son unique est un boost de vélocité s’activant à partir des 400 derniers mètres._
+ 
+- Elle possède 3 bonus de croissances : 10% en :speed:, 10% en :stamina: et 10% en :power:. C’est un excellent combo de bonus, probablement le meilleur quand une uma possède 3 bonus de croissances. Elle utilisera des decks basiques.
+ 
+- Ses gold skills sont :
+ 
+    - **Nothing Ventured**, la gold version de _Risky Business_. C’est un gold de vélocité puissant qui s’active aléatoirement dans la seconde moitié de course. Le skill peut aléatoirement consommer une partie des HP de l’uma qui l’utilise.
+
+    ::: info Consommation de Stamina de Nothing Ventured
+
+    Le skill à 60% de chance de ne pas consommer d’HP, 30% de chance de consommer 2% d’HP et 10% de consommer 4% d’HP. Malgré le potentiel malus, le skill reste puissant. Pour rappel, un gold recovery restaure 5,5% d'HP
+
+    :::
+
+    - **Risk-Maker**, la gold version de _Risk-Taker_. C’est un gold green qui nous donne un gros boost en Speed, Power et Guts quand il s’active. Le skill aura 30% de chance de s’activer si Nakayama Festa est dans le top 3 de la popularité de la course. Si elle est 4ème ou inférieure, le skill aura 60% de chance de s’activer. C’est un skill qui demande d’être dans des rooms fortes et de bien connaître comment le système de popularité fonctionne.<br>
+    Le skill est vraiment puissant, mais trop aléatoire. C’est un skill à prendre si vous avez un surplus de skill points ou que vous maitrisez le système de popularité pour toujours avoir 60% de chance de l’activer.
+ 
+- Nakayama Festa possède 2 évènements intéressants. Le premier est l’un de ses Costume Events, qui lui donne une chance aléatoire d’avoir Fast Learner. Cela fait qu’elle à 2 évènements pour avoir Fast Learner, comparé à plein d’autres umas qui n’ont qu’une seule chance.<br>
+Le second est un événement qui peut se répéter plusieurs fois pendant une run. Vous pouvez soit choisir de prendre 5 d’énergie et 5 wit, ou prendre le choix avec un résultat aléatoire pour 1 Mood, 20 de Power et Guts ou une consommation de 10 énergies, 10 de Power et Guts.
+ 
+- Son unique est un boost de vélocité s’activant à partir des 400 derniers mètres. C’est un unique ayant 2 variations de puissance. Afin de s’activer, Nakayama Festa aura besoin d’avoir une uma qu’elle essaye de dépasser dans le Final Corner. L’unique s’active alors dans les 400 derniers mètres si elle est dans le bottom 70% et le top 50% (≥3 <-> ≤5 en CM). En fonction de la popularité de Nakayama Festa, l’unique devient plus puissant. Si elle se trouve 4ème ou inférieur en popularité, l’unique sera dans la variation de puissance accrue.
+
+#### Pull ou pas ? :
+
+Si elle est votre Oshi, oui sinon non.
+ 
+Nakayama Festa est une uma plus compliqué à maîtriser sa pleine puissance. Son unique et un de ses gold skill skills sont liés à la mécanique de popularité de course. Elle demandera donc de bien connaître cette mécanique et de la maîtriser pour atteindre le plein potentiel de Nakayama Festa.
+
+Si vous maîtrisez la mécanique, il est possible de l’utiliser en tant que Parent / Grand Parent pour les Pace Chasers, Late Surger et End Closer. Cependant, on va préférer des umas qui ont des unique plus simples avec la même puissance.
+
+::::
