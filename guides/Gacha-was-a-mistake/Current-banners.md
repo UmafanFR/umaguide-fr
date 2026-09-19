@@ -153,9 +153,9 @@ _Wonder Acute est une Pace Chaser pour le Mile et Medium Dirt. Avec de l’inspi
     > L’une des évolutions de ce skill lui permet d’être utilisé dans toutes les courses Dirt.
  
     - **Dancer in the Dirt**, la gold version de _Down in the Dirt_. C’est un gold de vélocité pour le Dirt, qui s’active après au moins 5 secondes de course si une uma à été devant l’utilisatrice pendant au moins 3 secondes. C’est un skill qui est assez similaire à _Slipstream_.<br>
-    C’est un bon skill, tout comme l’est _Slipstream_. Il ne possède pas la possibilité de s'activer 2 fois comme ce dernier, mais il peut s’activer plutôt dans la course.
+    C’est un bon skill, tout comme l’est _Slipstream_. Il ne possède pas la possibilité de s'activer 2 fois comme ce dernier, mais il peut s’activer plus tôt dans la course.
  
-- Son unique est un boost de vélocité qui s’active à 300 mètres de la ligne d’arrivée. C’est un unique avec une puissance réduite, mais il possède une seconde variation plus forte. L’unique s’active au 300 derniers mètres de course, si Wonder Acute est dans le top 40% et le bottom 80% (≥2 <> ≤4 en CM). Si elle est sur une course Dirt et qu’elle se trouve à un écart inférieur à 5 mètres de la première place, l’unique obtient un boost de Current Speed de même puissance que le boost de vélocité, ce qui rends l'unique bien plus fort.<br>
+- Son unique est un boost de vélocité qui s’active à 300 mètres de la ligne d’arrivée. C’est un unique avec une puissance réduite, mais il possède une seconde variation plus forte. L’unique s’active au 300 derniers mètres de course, si Wonder Acute est entre le top 40% et le bottom 80% (≥2 <> ≤4 en CM). Si elle est sur une course Dirt et qu’elle se trouve à un écart inférieur à 5 mètres de la première place, l’unique obtient un boost de Current Speed de même puissance que le boost de vélocité, ce qui rends l'unique bien plus fort.<br>
 L’unique amélioré peut être difficile à activer à certain moment, mais s’il s’active, il est vraiment puissant. Si on le compare à des uniques similaires, il est plus puissant que celui de Oguri Cap.
 
 #### Pull ou pas ? :
@@ -176,7 +176,7 @@ Prenez-là si elle est votre Oshi ou que vous voulez compléter votre équipe Di
 - Son Unique Effect lui donne un Power Bonus et Skill Point Bonus si sa bond gauge est à au moins 80 (orange)
  
 - Ses rainbows sont très bons, de puissance similaire à Kitasan Black et Agnes Tachyon, grâce à son bon Special Priority, ses Stats Bonus malgré un faible Friendship Bonus. Son cross-training est aussi très bon, à un niveau similaire à Kitasan Black, avec son Training Effectiveness correct mais surtout grâce à ses Stats Bonus. Elle ne possède pas de Race Bonus.<br>
-C’est la carte qui montre le mieux la puissance des Stats Bonus comparer aux autres top tiers Speed.
+Parmi les bonnes cartes speed, c'est une des cartes qui montre le mieux la puissances des Stats Bonus.
  
 - Elle propose une liste de 7 hints❗, dont seul _Late Surger Straightaways_ et _Corners_ sont bons. Elle possède Hint Levels et Hint Frequency, ses hints seront assez puissants.
  
