@@ -1543,7 +1543,7 @@ Ne pullez pas sur cette bannière, empruntez Oguri Cap Wit SSR si vous en avez b
 
 ## #63 - Mr. C.B. Wit SSR & Super Creek Stamina SSR (rerun)
 
-![Image de présentation de la bannière Mr. C.B. Wit SSR & Super Creek Stamina SSR (rerun)](/public/assets/Gacha-reviews/2026/061_Card-Banner.png)
+![Image de présentation de la bannière Mr. C.B. Wit SSR & Super Creek Stamina SSR (rerun)](/public/assets/Gacha-reviews/2026/063_Card-Banner.png)
 
 ::: details REVIEW
 
@@ -1564,3 +1564,46 @@ Ce sont toutes les deux des cartes top tier. Mr. C.B. sera powercreep au prochai
 C’est une bonne bannière si vous n’avez pas les 2 ou que vous souhaitez améliorer leur LB. Cependant, si vous avez une des 2 qui est MLB, il est dangereux de pull sur cette bannière.
 
 :::
+
+## #64 - Eishin Flash Speed SSR & Narita Top Road Power SR
+
+![Image de présentation de la bannière Eishin Flash Speed SSR & Narita Top Road Power SR](/public/assets/Gacha-reviews/2026/064_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Eishin Flash** :speed: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Power Bonus puis Speed Bonus à 3LB et un second à MLB.
+ 
+- Son Unique Effect lui donne un Power Bonus et Skill Point Bonus si sa bond gauge est à au moins 80 (orange)
+ 
+- Ses rainbows sont très bons, de puissance similaire à Kitasan Black et Agnes Tachyon, grâce à son bon Special Priority, ses Stats Bonus malgré un faible Friendship Bonus. Son cross-training est aussi très bon, à un niveau similaire à Kitasan Black, avec son Training Effectiveness correct mais surtout grâce à ses Stats Bonus. Elle ne possède pas de Race Bonus.<br>
+Parmi les bonnes cartes speed, c'est une des cartes qui montre le mieux la puissances des Stats Bonus.
+ 
+- Elle propose une liste de 7 hints❗, dont seul _Late Surger Straightaways_ et _Corners_ sont bons. Elle possède Hint Levels et Hint Frequency, ses hints seront assez puissants.
+ 
+- Son gold skill est **Sharp Streak**, la gold version de _Late Surger Straigtaways_. C’est un skill de vélocité qui s’active dans une ligne droite random si l'utilisatrice est une Late Surger.<br>
+C’est un bon skill, bien que cher sans hints pour Late Surger Straightaways. Le principal problème est que la différence de puissance entre la version gold et la version white est faible comparé à plein d’autres gold skill.
+ 
+- Tout comme sa version SR, elle redonne plein d’énergie et c’est très sympa.
+
+⏩**Narita Top Road** :power: :sr:
+
+- La carte est backloaded. A 1LB, elle débloque Initial Stamina puis Power Bonus à MLB.
+ 
+- Son Unique Effect lui donne 10 de Friendship Bonus et 5 de Race Bonus
+ 
+- Ses rainbows sont bons avec son bon Friendship Bonus malgré un faible Special Priority. Son cross-training est assez faible car elle possède seulement du Mood Effect. Dans les 2 cas, elle est en dessous des top tier cartes Power SR.
+ 
+- Elle propose une liste de 5 hints❗, tous sympas. Elle possède des puissants Hint Levels et Hint Frequency. Ses hints seront très puissants et fréquents.
+
+#### PULL OU PAS
+
+Eishin Flash Speed SSR est une très bonne carte Speed. Si on devait la noter seulement sur les stats qu’elle donne, elle serait soit 2ème ou 3ème, exæquo avec Kitasan Black. Son problème comparé aux 3 autres tops tiers (avec Maruzensky et Agnes Tachyon) sont les hints et le gold skill. Sur ses 2 choses, elle est bien plus faible ou moins intéressante.
+Cela fait que je la considère moins forte que les 3 autres, un rang derrière eux. C’est une très bonne carte, mais elle est plus une carte à emprunter qu’à invoquer. Si vous ne jouez que des Late Surger , cela peut être une idée intéressante si vous n’avez pas suffisamment de cartes top tier en Speed ou que vous êtes une baleine.
+ 
+Narita Top Road Power SR est une carte correcte mais inférieure à sa compétition directe dans les cartes SR.
+ 
+Ce n’est pas une bannière à invoquer, sauf si vous jouez que des Late Surger et que vous êtes soit une baleine, soit que vous n’avez pas assez de cartes top tiers en Speed.
+
+;;;
