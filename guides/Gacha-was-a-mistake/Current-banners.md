@@ -1,5 +1,5 @@
 ---
-title: Gacha - Nakayama Festa ★★★ // Mr. C.B. Wit SSR & Super Creek Stamina SSR (rerun)
+title: Gacha - Wonder Acute ★★★ // Eishin Flash Speed SSR & Narita Top Road Power SR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/063_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/064_Banners_early_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -75,71 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Nakayama Festa ★★★
+### Bannière Umamusume : Wonder Acute ★★★
 
-![Image de présentation de la bannière Nakayama Festa](/public/assets/Gacha-reviews/2026/063_Uma-Banner.png)
-
-⏩ **Nakayama Festa** :
-
-_Nakayama Festa est une Pace Chaser et Late Surger pour le Medium. Avec de l’inspiration, elle peut courir en Long et en Mile, mais aussi en tant qu’End Closer (respectivement 1 :star:, 4 :star: et 7 :star:). Elle possède un gold skill de vélocité universelle et un gold green de Speed, Power et Guts. Son unique est un boost de vélocité s’activant à partir des 400 derniers mètres._
- 
-- Elle possède 3 bonus de croissances : 10% en :speed:, 10% en :stamina: et 10% en :power:. C’est un excellent combo de bonus, probablement le meilleur quand une uma possède 3 bonus de croissances. Elle utilisera des decks basiques.
- 
-- Ses gold skills sont :
- 
-    - **Nothing Ventured**, la gold version de _Risky Business_. C’est un gold de vélocité puissant qui s’active aléatoirement dans la seconde moitié de course. Le skill peut aléatoirement consommer une partie des HP de l’uma qui l’utilise.
-
-    ::: info Consommation de Stamina de Nothing Ventured
-
-    Le skill à 60% de chance de ne pas consommer d’HP, 30% de chance de consommer 2% d’HP et 10% de consommer 4% d’HP. Malgré le potentiel malus, le skill reste puissant. Pour rappel, un gold recovery restaure 5,5% d'HP
-
-    :::
-
-    - **Risk-Maker**, la gold version de _Risk-Taker_. C’est un gold green qui nous donne un gros boost en Speed, Power et Guts quand il s’active. Le skill aura 30% de chance de s’activer si Nakayama Festa est dans le top 3 de la popularité de la course. Si elle est 4ème ou inférieure, le skill aura 60% de chance de s’activer. C’est un skill qui demande d’être dans des rooms fortes et de bien connaître comment le système de popularité fonctionne.<br>
-    Le skill est vraiment puissant, mais trop aléatoire. C’est un skill à prendre si vous avez un surplus de skill points ou que vous maitrisez le système de popularité pour toujours avoir 60% de chance de l’activer.
- 
-- Nakayama Festa possède 2 évènements intéressants. Le premier est l’un de ses Costume Events, qui lui donne une chance aléatoire d’avoir Fast Learner. Cela fait qu’elle à 2 évènements pour avoir Fast Learner, comparé à plein d’autres umas qui n’ont qu’une seule chance.<br>
-Le second est un événement qui peut se répéter plusieurs fois pendant une run. Vous pouvez soit choisir de prendre 5 d’énergie et 5 wit, ou prendre le choix avec un résultat aléatoire pour 1 Mood, 20 de Power et Guts ou une consommation de 10 énergies, 10 de Power et Guts.
- 
-- Son unique est un boost de vélocité s’activant à partir des 400 derniers mètres. C’est un unique ayant 2 variations de puissance. Afin de s’activer, Nakayama Festa aura besoin d’avoir une uma qu’elle essaye de dépasser dans le Final Corner. L’unique s’active alors dans les 400 derniers mètres si elle est dans le bottom 70% et le top 50% (≥3 <-> ≤5 en CM). En fonction de la popularité de Nakayama Festa, l’unique devient plus puissant. Si elle se trouve 4ème ou inférieur en popularité, l’unique sera dans la variation de puissance accrue.
-
-#### Pull ou pas ? :
-
-Si elle est votre Oshi, oui sinon non.
- 
-Nakayama Festa est une uma plus compliqué à maîtriser sa pleine puissance. Son unique et un de ses gold skill skills sont liés à la mécanique de popularité de course. Elle demandera donc de bien connaître cette mécanique et de la maîtriser pour atteindre le plein potentiel de Nakayama Festa.
-
-Si vous maîtrisez la mécanique, il est possible de l’utiliser en tant que Parent / Grand Parent pour les Pace Chasers, Late Surger et End Closer. Cependant, on va préférer des umas qui ont des unique plus simples avec la même puissance.
-
----
-
-### Bannière support : Mr. C.B. Wit SSR & Super Creek Stamina SSR (rerun)
-
-![Image de présentation de la bannière Mr. C.B. Wit SSR & Super Creek Stamina SSR (rerun)](/public/assets/Gacha-reviews/2026/061_Card-Banner.png)
-
-⏩**Mr. C.B.** :wit: :SSR:
-
-[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_44-mr-c-b-wit-ssr-tokai-teio-stamina-sr)
-
-⏩**Super Creek** :stamina: :ssr:
-
-[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2025.md#_08-super-creek-stamina-ssr-tazuna-hayakawa-pal-ssr-rerun)
-
-#### PULL OU PAS
-
-Oui.
- 
-Ce sont toutes les deux des cartes top tier. Mr. C.B. sera powercreep au prochain scénario, mais elle restera utile en tant que seconde carte Wit, surtout pour son gold skill **Daring Strike** pour les End Closer. Super Creek est la meilleur carte Stamina pendant encore un bon moment, et restera une assez bonne carte même quand elle sera powercreep.
- 
-C’est une bonne bannière si vous n’avez pas les 2 ou que vous souhaitez améliorer leur LB. Cependant, si vous avez une des 2 qui est MLB, il est dangereux de pull sur cette bannière.
-
----
-
-# Bannières à suivre (24 Septembre 00h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/064_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Wonder Acute ★★★
+![Image de présentation de la bannière Wonder Acute](/public/assets/Gacha-reviews/2026/064_Uma-Banner.png)
 
 ⏩ **Wonder Acute** :
 
@@ -166,8 +104,11 @@ Wonder Acute est une bonne uma Dirt. Son seul réel défaut est son combo de bon
 
 Prenez-là si elle est votre Oshi ou que vous voulez compléter votre équipe Dirt.
 
+---
 
-### Bannière Support à suivre : Eishin Flash Speed SSR & Narita Top Road Power SR
+### Bannière support : Eishin Flash Speed SSR & Narita Top Road Power SR
+
+![Image de présentation de la bannière Eishin Flash Speed SSR & Narita Top Road Power SR](/public/assets/Gacha-reviews/2026/064_Card-Banner.png)
 
 ⏩**Eishin Flash** :speed: :SSR:
 
@@ -197,12 +138,104 @@ C’est un bon skill, bien que cher sans hints pour Late Surger Straightaways. L
 
 #### PULL OU PAS
 
-Eishon Flash Speed SSR est une très bonne carte Speed. Si on devait la noter seulement sur les stats qu’elle donne, elle serait soit 2ème ou 3ème, exæquo avec Kitasan Black. Son problème comparé aux 3 autres tops tiers (avec Maruzensky et Agnes Tachyon) sont les hints et le gold skill. Sur ses 2 choses, elle est bien plus faible ou moins intéressante.
+Eishin Flash Speed SSR est une très bonne carte Speed. Si on devait la noter seulement sur les stats qu’elle donne, elle serait soit 2ème ou 3ème, exæquo avec Kitasan Black. Son problème comparé aux 3 autres tops tiers (avec Maruzensky et Agnes Tachyon) sont les hints et le gold skill. Sur ses 2 choses, elle est bien plus faible ou moins intéressante.
 Cela fait que je la considère moins forte que les 3 autres, un rang derrière eux. C’est une très bonne carte, mais elle est plus une carte à emprunter qu’à invoquer. Si vous ne jouez que des Late Surger , cela peut être une idée intéressante si vous n’avez pas suffisamment de cartes top tier en Speed ou que vous êtes une baleine.
  
 Narita Top Road Power SR est une carte correcte mais inférieure à sa compétition directe dans les cartes SR.
  
 Ce n’est pas une bannière à invoquer, sauf si vous jouez que des Late Surger et que vous êtes soit une baleine, soit que vous n’avez pas assez de cartes top tiers en Speed.
+
+---
+
+# Bannières à suivre (29 Septembre 00h)  
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/065_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Daiwa Scarlet (Christmas) & Vodka (Christmas) ★★★
+
+⏩ **Daiwa Scarlet (Christmas)** :
+
+_Daiwa Scarlet (Christmas) est une Front Runner pour le Long. Elle peut aussi courir parfaitement en tant que Pace Chaser et en Medium. Avec de l’inspiration, elle peut courir en Mile (1 :star:). Elle possède un gold de recovery de Front Runner et un gold de vélocité de Front Runner. Son unique est un boost de vélocité s’activant sur une ligne droite après 50% de la course._
+ 
+- Elle possède 2 bonus de croissances : 20% en :speed: et 10 % en :wit:. C’est un bon combo de bonus, surtout le 20% en Speed, qui est l’un des meilleurs bonus à avoir pour pouvoir utiliser seulement 2 cartes Speed. En termes de deck, si vous avez de bons parents Stamina, il devrait être possible de la jouer avec une carte Power sur les CM Long assez court comme le Nakayama 2500m grâce à son gold de recovery. Le plus simple reste d'utilisé une carte Stamina. Dans le futur en Long, quand on aura les skills roses, on utilisera forcément une carte Stamina pour remplacer son gold de recovery que l’on va transformer en un boost de vélocité et un boost d’accélération.
+ 
+- Ses gold skills sont :
+ 
+    - **Restless**, la gold version de _Moxie_. C’est un gold recovery de Front Runner qui s’active sur la première côte possible après les 10 premières secondes de course. Le skill est très fiable en Long, et marche la plupart du temps en Medium. En Sprint et en Mile, c'est plus variable.
+    >L’une de ses évolutions transformera le skill en un boost de vélocité et un boost d’accélération.
+ 
+    - **Can’t Even Catch My Shadow**, la gold version de _Firm Resolve_. C’est un gold de vélocité de Front Runner, s’activant dans la ligne droite après le Final Corner, si l’uma est en 1ère position et qu’il y est une uma derrière elle avec un écart maximal de 1L (=2,5m).<br>
+    Le skill est est excellent, surtout en termes de valeur. Pour l’instant, il n’y a qu’un seul skill qui possède une meilleure valeur que lui pour un gros cout en HP, qui est **Givin’ It 1000%**. Il y a deux skills qui lui est équivalent pour l’instant, dont un avec un cout en HP, qui est **Full Throttle** et **Top Gear**.
+ 
+- Le choix de son premier Costume Event affectera le résultat du deuxième. Si vous prenez le premier choix, vous aurez la possibilité de recevoir de la Speed, de la Stamina et potentiellement des hints de _Corner Recovery_. Le second choix vous offre la possibilité de recevoir du Wit, du Guts et potentiellement des hints pour _Front Runner Corners_.
+ 
+- Son unique, Queen’s Lumination, est un boost de vélocité s’activant sur une ligne droite après 50% de la course. L’unique à une durée accrue mais est de puissance réduite, cependant il possède une variation de puissance. L’unique s’active dans une ligne droite de seconde moitié de course si elle est dans le top 2. La variation puissante s’active si Daiwa Scarlet est en première place et qu’il y est une uma derrière elle avec un écart maximal de 1L (=2,5m).<br>
+La version puissante de l’unique est basiquement une version avec une meilleur valeur de son gold skill **Can’t Even Catch My Shadow**, qui peut s’activer en Mid-Race. L’unique n’est pas surpuissant mais il est intéressant pour une Front Runner, car c’est rare pour eux d’avoir un unique avec une durée accrue (seul Smart Falcon (Grand Concert) a un unique à durée accrue).
+
+⏩ **Vodka (Chritsmas)** :
+
+_Vodka (Christmas) est une Late Surger pour le Mile et le Medium. Avec de l’inspiration, elle peut courir en tant que Pace Chacer et Front Runner (respectivement 1 :star: et 4 :star:). Elle possède un gold d’accélération universel et un gold de vélocité de Late Surger. Son unique est un boost de vélocité s’activant en sortant d’une descente._
+ 
+- Elle possède 2 bonus de croissanes : 20% en :speed: et 10% en :guts:. C’est un combo correct car le 20% en Speed est toujours très sympa, mais il est moins bon que celui de sa forme OG. Elle utiilsera des decks à base de 2 cartes Speed.
+ 
+- Ses gold skills sont :
+ 
+    - **No Stopping Me !**, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant en Late Race si votre uma a assez de HP pour finir la course, et qu'une uma adverse se trouve devant elle (en face, ou sur une voie adjacente) pendant 1 seconde. C’est un très bon skill universel (sauf pour les Front Runner).
+ 
+    - **Top Gear**, la gold version de _Pedal to the Metal_. C’est un gold de vélocité de Late Surger, s’activant dans la ligne droite après le Final Corner si elle n’est pas en première place et qu’il y a un écart maximal de 10 mètres entre l’utilisatrice et la première place.<br>
+    Le skill est est excellent, surtout en termes de valeur. Pour l’instant, il n’y a qu’un seul skill qui possède une meilleure valeur que lui pour un gros cout en HP, qui est **Givin’ It 1000%**. Il y a deux skills qui lui est équivalent pour l’instant, dont un avec un cout en HP, qui est **Full Throttle** et **Can't Even Catch My Shadow**
+ 
+- Elle possède 2 Secret Event intéressants. Le premier vous donne 25 en Speed, Power, Stamina et Skill Points et des hints pour _All I’ve Got_, _Slick Surge_ et _Pedal to the Metal_ si elle gagne toutes les courses de sa carrière (sauf Hanshin Juneviles Fillies, Japanese Derby, Victoria Mile et Yasuda Kinen). Il faudra aussi qu’elle gagne Queen Elizabeth II (Classic), Osaka Hai et Arima Kinen (Senior).<br>
+Le second vous donne +3 dans toutes les stats, 20 en Power et 65 Skills Points en plus d’un hint pour _Nimble Navigator_. Le premier peut être compliqué à atteindre, mais le deuxième est rentable.
+ 
+- Son unique est un boost de vélocité s’activant en sortant d’une descente. C’est un unique avec une durée réduite. Avant de s’activer, Vodka (Christmas) aura besoin d’être entre le top 80% et le bottom 50% (≥5 <-> 8≤) dans une descente du Mid-Race. Ensuite, l’unique s’active dès qu’elle sort de la descente, que ce soit pour du plat ou une montée.<br>
+L’unique devient plus puissant sur l’hippodrome de Tokyo. Il gagne en durée de base mais aussi un boost d’accélération. Le boost d’accélération est inutile car l’unique s’activera en Mid-Race sur cet hippodrome.
+
+#### Pull ou pas ? :
+
+Si elles sont vos Oshi, oui. La star de la bannière est Daiwa Scarlet, bien qu’elle ne soit pas aussi forte que Kitasan Black pour le Long.
+ 
+Daiwa Scarlet (Christmas) est bien meilleur que sa version OG. Premièrement, tout son kit est fait pour être une Front Runner, comparé à la version OG qui été mixte avec le fait d’être une Pace Chaser. Elle est principalement une uma Long, mais elle est utilisable en Medium. Elle n’est pas aussi forte qu’est le monstre Kitasan Black car être en première place est encore plus importante pour elle, pour utiliser parfaitement sa puissance. C’est globalement une excellente Alt, meilleure en tout point que sa version OG.
+ 
+Vodka (Christmas) est dans une moins bonne position comparée à Daiwa Scarlet. Son Alt n’est pas forcément supérieur à sa version OG. En termes de gold skill et de white skill, elle est meilleure. Mais en dehors de ça, elle est inférieure à sa version OG, sauf sur le Racetrack de Tokyo, où son unique en Mid-Race peut-être plus sympa. Désolé pour les Oshi de Vodka (Volture), mais faut espérer qu’une autre alt sorte pour voir une potentielle amélioration.
+
+
+### Bannière Support à suivre : Air Groove Wit SSR & Narita Brian Power SSR
+
+⏩**Air Groove** :wit: :SSR:
+
+- La carte est équilibrée. A 1LB, elle débloque Speed Bonus puis Mood Effect à 3LB.
+ 
+- Son Unique Effect lui donne Speed Bonus et Skill Point Bonus quand sa gauge est à 80 (orange).
+ 
+- Ses rainbows sont assez bon, surtout en Speed, avec son bon Friendship Bonus, son Special Priority et ses stats bonus. Elle ne donne pas assez de Wit comparé au top tier carte Wit. Son cross-training est faible, surtout avec un faible Training Effectiveness, du Mood Effect et les stats bonus. Malgré le Skill Point Bonus, elle donne autant de skill points que Fine Motion Wit SSR.
+ 
+- Elle propose une liste de 8 hints❗, principalement pour Late Surger plutôt commun. Ses hints sont faibles.
+ 
+- Son gold skill est **Fast&Furious**, la gold version de _Position Pilfer_. C’est un gold speed boost de Late Surger, qui s’active à un point random dans le Mid-Race si elle est bottom 50% (6e <-> 9e en CM). C’est un bon skill, qui sera toujours fiable. Il peut techniquement créer du carry-over mais repose beaucoup trop sur la chance pour ce faire.
+
+⏩**Narita Brian** :power: :ssr:
+
+- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus puis Stamina Bonus à 3 LB et un second à MLB.
+ 
+- Son Unique Effect lui donne 5 de Training Effectiveness pour chaque niveau de facilité où elle se trouve. C’est un Unique Effect puissant, le même que Maruzensky Speed SSR.
+ 
+- Ses rainbows sont très bons, grâce à un bon Special Priority et ses Stats Bonus malgré un faible Friendship Bonus. Elle ne donne pas autant de Power que Vodka ou El Condor Pasa Power SSR, mais elle donne bien plus de Stamina et de Skill Points. Son cross-training est très bons grâce à son Unique Effect et le Skill Point Bonus.
+ 
+- Elle propose une liste de 10 hints❗, dont _My True Strenght_ en très important, mais aussi d’autres hints très utiles. Elle possède un bon Hint Levels et Hint Frequency, ses hints seront sympas.
+ 
+- Son gold skill est **Hot Pursuit**, la gold version de _Latch On_. C’est un gold de vélocité pour Pace Chaser et Late Surger, qui s’active en seconde moitié de course si l’utilisatrice entreprends de tenter un dépassement.<br>
+C’est un bon gold skill basique, qui a le potentiel de créer du carry-over.
+
+#### PULL OU PAS
+
+Non.
+ 
+Air Groove Wit SSR n’est pas assez forte comparé aux autres cartes Wit SSR que l’on à déjà vu et qui arriveront pour le prochain scénario. Une carte Wit qui ne donne pas assez de Wit est vraiment gênant, car seul l’entrainement Wit nous en donne.
+ 
+Narita Brian Power SSR est une bonne carte, surtout grâce à son Unique Effect qu’elle partage avec Maruzensky Speed SSR. Son problème est d’être une carte Power, qui sont des cartes que l’on utilise peu, seulement quand elles sont META et/ou qu’elles possèdent un bon gold skill. Elle est cependant un excellent emprunt, surtout si vous possédez de bons parents Stamina.
+ 
+Ne pullez pas sur cette bannière, au mieux empruntez Narita Brian Power SSR.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
