@@ -1063,7 +1063,7 @@ Ne pullez pas sur cette bannière, vous allez le regretter.
 
 - La carte a une croissance équilibrée. A 1 LB, elle débloque Power Bonus puis Mood Effect à 3LB.
 
-- Son Unique Effect lui donne 5 de Training Effectiveness pour chaque niveau de la faculté où elle se trouve. C’est un Unique Effect puissant.
+- Son Unique Effect lui donne 5 de Training Effectiveness pour chaque niveau du type d'entrainement où elle se trouve. C’est un Unique Effect puissant.
 
 - Ses rainbows sont très bons grâce à ses Friendship Bonus et Special Priority correct, son combo de Speed et Power Bonus mais surtout son Unique Effect. Son cross-training est pour l’instant le meilleur du jeu juste avec son Unique Effect, et qui devient meilleur avec son Mood Effect. Elle possède aussi un faible Race Bonus.
 
