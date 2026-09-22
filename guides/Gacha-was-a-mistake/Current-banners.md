@@ -157,33 +157,33 @@ Ce n’est pas une bannière à invoquer, sauf si vous jouez que des Late Surger
 
 _Daiwa Scarlet (Christmas) est une Front Runner pour le Long. Elle peut aussi courir parfaitement en tant que Pace Chaser et en Medium. Avec de l’inspiration, elle peut courir en Mile (1 :star:). Elle possède un gold de recovery de Front Runner et un gold de vélocité de Front Runner. Son unique est un boost de vélocité s’activant sur une ligne droite après 50% de la course._
  
-- Elle possède 2 bonus de croissances : 20% en :speed: et 10 % en :wit:. C’est un bon combo de bonus, surtout le 20% en Speed, qui est l’un des meilleurs bonus à avoir pour pouvoir utiliser seulement 2 cartes Speed. En termes de deck, si vous avez de bons parents Stamina, il devrait être possible de la jouer avec une carte Power sur les CM Long assez court comme le Nakayama 2500m grâce à son gold de recovery. Le plus simple reste d'utilisé une carte Stamina. Dans le futur en Long, quand on aura les skills roses, on utilisera forcément une carte Stamina pour remplacer son gold de recovery que l’on va transformer en un boost de vélocité et un boost d’accélération.
+- Elle possède 2 bonus de croissances : 20% en :speed: et 10 % en :wit:. C’est un bon combo de bonus, surtout le 20% en Speed, qui est l’un des meilleurs bonus à avoir pour pouvoir utiliser seulement 2 cartes Speed. En termes de deck, si vous avez de bons parents Stamina, il devrait être possible de la jouer avec une carte Power sur les CM Long assez court comme le Nakayama 2500m grâce à son gold de recovery. Le plus simple reste d'utiliser une carte Stamina. Dans le futur en Long, quand on aura les skills roses, on utilisera forcément une carte Stamina pour remplacer son gold de recovery que l’on va transformer en un boost de vélocité + accélération.
  
 - Ses gold skills sont :
  
     - **Restless**, la gold version de _Moxie_. C’est un gold recovery de Front Runner qui s’active sur la première côte possible après les 10 premières secondes de course. Le skill est très fiable en Long, et marche la plupart du temps en Medium. En Sprint et en Mile, c'est plus variable.
     >L’une de ses évolutions transformera le skill en un boost de vélocité et un boost d’accélération.
  
-    - **Can’t Even Catch My Shadow**, la gold version de _Firm Resolve_. C’est un gold de vélocité de Front Runner, s’activant dans la ligne droite après le Final Corner, si l’uma est en 1ère position et qu’il y est une uma derrière elle avec un écart maximal de 1L (=2,5m).<br>
-    Le skill est est excellent, surtout en termes de valeur. Pour l’instant, il n’y a qu’un seul skill qui possède une meilleure valeur que lui pour un gros cout en HP, qui est **Givin’ It 1000%**. Il y a deux skills qui lui est équivalent pour l’instant, dont un avec un cout en HP, qui est **Full Throttle** et **Top Gear**.
+    - **Can’t Even Catch My Shadow**, la gold version de _Firm Resolve_. C’est un gold de vélocité de Front Runner, s’activant sur le Final Straight, si l’uma est en 1ère position et qu’il y est une uma derrière elle avec un écart maximal de 1L (=2,5m).<br>
+    Le skill est est puissant quand il s'active, surtout en termes de valeur. C'est un skill qui permet de sécuriser la victoire pour la Front Runner en 1ère position.
  
 - Le choix de son premier Costume Event affectera le résultat du deuxième. Si vous prenez le premier choix, vous aurez la possibilité de recevoir de la Speed, de la Stamina et potentiellement des hints de _Corner Recovery_. Le second choix vous offre la possibilité de recevoir du Wit, du Guts et potentiellement des hints pour _Front Runner Corners_.
  
-- Son unique, Queen’s Lumination, est un boost de vélocité s’activant sur une ligne droite après 50% de la course. L’unique à une durée accrue mais est de puissance réduite, cependant il possède une variation de puissance. L’unique s’active dans une ligne droite de seconde moitié de course si elle est dans le top 2. La variation puissante s’active si Daiwa Scarlet est en première place et qu’il y est une uma derrière elle avec un écart maximal de 1L (=2,5m).<br>
+- Son unique, Queen’s Lumination, est un boost de vélocité ayant une durée accrue mais  de puissance réduite, cependant il possède une variation de puissance. L’unique s’active dans une ligne droite sur la seconde moitié de la course si elle est dans le top 2. La variation puissante s’active si Daiwa Scarlet est en première place et qu’il y est une uma derrière elle avec un écart maximal de 1L (=2,5m).<br>
 La version puissante de l’unique est basiquement une version avec une meilleur valeur de son gold skill **Can’t Even Catch My Shadow**, qui peut s’activer en Mid-Race. L’unique n’est pas surpuissant mais il est intéressant pour une Front Runner, car c’est rare pour eux d’avoir un unique avec une durée accrue (seul Smart Falcon (Grand Concert) a un unique à durée accrue).
 
 ⏩ **Vodka (Chritsmas)** :
 
 _Vodka (Christmas) est une Late Surger pour le Mile et le Medium. Avec de l’inspiration, elle peut courir en tant que Pace Chacer et Front Runner (respectivement 1 :star: et 4 :star:). Elle possède un gold d’accélération universel et un gold de vélocité de Late Surger. Son unique est un boost de vélocité s’activant en sortant d’une descente._
  
-- Elle possède 2 bonus de croissanes : 20% en :speed: et 10% en :guts:. C’est un combo correct car le 20% en Speed est toujours très sympa, mais il est moins bon que celui de sa forme OG. Elle utiilsera des decks à base de 2 cartes Speed.
+- Elle possède 2 bonus de croissances : 20% en :speed: et 10% en :guts:. C’est un combo correct car le 20% en Speed est toujours très sympa, mais il est moins bon que celui de sa forme OG. Elle utiilsera des decks à base de 2 cartes Speed.
  
 - Ses gold skills sont :
  
     - **No Stopping Me !**, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant en Late Race si votre uma a assez de HP pour finir la course, et qu'une uma adverse se trouve devant elle (en face, ou sur une voie adjacente) pendant 1 seconde. C’est un très bon skill universel (sauf pour les Front Runner).
  
-    - **Top Gear**, la gold version de _Pedal to the Metal_. C’est un gold de vélocité de Late Surger, s’activant dans la ligne droite après le Final Corner si elle n’est pas en première place et qu’il y a un écart maximal de 10 mètres entre l’utilisatrice et la première place.<br>
-    Le skill est est excellent, surtout en termes de valeur. Pour l’instant, il n’y a qu’un seul skill qui possède une meilleure valeur que lui pour un gros cout en HP, qui est **Givin’ It 1000%**. Il y a deux skills qui lui est équivalent pour l’instant, dont un avec un cout en HP, qui est **Full Throttle** et **Can't Even Catch My Shadow**
+    - **Top Gear**, la gold version de _Pedal to the Metal_. C’est un gold de vélocité de Late Surger, s’activant s'activant sur le Final Straight si elle n’est pas en première place et qu’il y a un écart maximal de 10 mètres entre l’utilisatrice et la première place.<br>
+    Le skill est est excellent, surtout en termes de valeur.
  
 - Elle possède 2 Secret Event intéressants. Le premier vous donne 25 en Speed, Power, Stamina et Skill Points et des hints pour _All I’ve Got_, _Slick Surge_ et _Pedal to the Metal_ si elle gagne toutes les courses de sa carrière (sauf Hanshin Juneviles Fillies, Japanese Derby, Victoria Mile et Yasuda Kinen). Il faudra aussi qu’elle gagne Queen Elizabeth II (Classic), Osaka Hai et Arima Kinen (Senior).<br>
 Le second vous donne +3 dans toutes les stats, 20 en Power et 65 Skills Points en plus d’un hint pour _Nimble Navigator_. Le premier peut être compliqué à atteindre, mais le deuxième est rentable.
@@ -208,19 +208,19 @@ Vodka (Christmas) est dans une moins bonne position comparée à Daiwa Scarlet. 
  
 - Son Unique Effect lui donne Speed Bonus et Skill Point Bonus quand sa gauge est à 80 (orange).
  
-- Ses rainbows sont assez bon, surtout en Speed, avec son bon Friendship Bonus, son Special Priority et ses stats bonus. Elle ne donne pas assez de Wit comparé au top tier carte Wit. Son cross-training est faible, surtout avec un faible Training Effectiveness, du Mood Effect et les stats bonus. Malgré le Skill Point Bonus, elle donne autant de skill points que Fine Motion Wit SSR.
+- Ses rainbows sont assez bon, surtout en Speed, avec son bon Friendship Bonus, son Special Priority et ses stats bonus. Elle ne donne pas assez de Wit comparé au top tier carte Wit. Son cross-training est faible, surtout avec un faible Training Effectiveness, mais elle a un peu de Mood Effect et les stats bonus. Malgré le Skill Point Bonus, elle donne autant de skill points que Fine Motion Wit SSR.
  
 - Elle propose une liste de 8 hints❗, principalement pour Late Surger plutôt commun. Ses hints sont faibles.
  
-- Son gold skill est **Fast&Furious**, la gold version de _Position Pilfer_. C’est un gold speed boost de Late Surger, qui s’active à un point random dans le Mid-Race si elle est bottom 50% (6e <-> 9e en CM). C’est un bon skill, qui sera toujours fiable. Il peut techniquement créer du carry-over mais repose beaucoup trop sur la chance pour ce faire.
+- Son gold skill est **Fast & Furious**, la gold version de _Position Pilfer_. C’est un gold speed boost de Late Surger, qui s’active à un point random dans le Mid-Race si elle est bottom 60% (4e <-> 9e en CM). C’est un bon skill, qui sera toujours fiable. Il peut techniquement créer du carry-over mais repose beaucoup trop sur la chance pour ce faire.
 
 ⏩**Narita Brian** :power: :ssr:
 
 - La carte est backloaded. A 1LB, elle débloque Skill Point Bonus puis Stamina Bonus à 3 LB et un second à MLB.
  
-- Son Unique Effect lui donne 5 de Training Effectiveness pour chaque niveau de facilité où elle se trouve. C’est un Unique Effect puissant, le même que Maruzensky Speed SSR.
+- Son Unique Effect lui donne 5 de Training Effectiveness pour chaque niveau du type d'entrainement où elle se trouve. C’est un Unique Effect puissant, le même que Maruzensky Speed SSR.
  
-- Ses rainbows sont très bons, grâce à un bon Special Priority et ses Stats Bonus malgré un faible Friendship Bonus. Elle ne donne pas autant de Power que Vodka ou El Condor Pasa Power SSR, mais elle donne bien plus de Stamina et de Skill Points. Son cross-training est très bons grâce à son Unique Effect et le Skill Point Bonus.
+- Ses rainbows sont très bons, grâce à un bon Special Priority et ses Stats Bonus, qui compensent un faible Friendship Bonus. Elle ne donne pas autant de Power que Vodka ou El Condor Pasa Power SSR, mais elle donne bien plus de Stamina et de Skill Points. Son cross-training est très bons grâce à son Unique Effect et le Skill Point Bonus.
  
 - Elle propose une liste de 10 hints❗, dont _My True Strenght_ en très important, mais aussi d’autres hints très utiles. Elle possède un bon Hint Levels et Hint Frequency, ses hints seront sympas.
  
