@@ -1621,3 +1621,36 @@ Nakayama Festa est une uma plus compliqué à maîtriser sa pleine puissance. So
 Si vous maîtrisez la mécanique, il est possible de l’utiliser en tant que Parent / Grand Parent pour les Pace Chasers, Late Surger et End Closer. Cependant, on va préférer des umas qui ont des unique plus simples avec la même puissance.
 
 ::::
+
+## #64 - Wonder Acute ★★★
+
+![Image de présentation de la bannière Wonder Acute](/public/assets/Gacha-reviews/2026/064_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Wonder Acute** :
+
+_Wonder Acute est une Pace Chaser pour le Mile et Medium Dirt. Avec de l’inspiration, elle peut courir en Sprint, mais aussi en tant que Front Runner et Late Surger (respectivement 7 :star: et 4 :star: pour les 2 derniers). Elle possède 2 gold de vélocité, un pour le Mile et l’autre pour le Dirt. Son unique est un boost de vélocité qui s’active à 300 mètres de la ligne d’arrivée._
+ 
+- Elle possède 2 bonus de croissances : 15% en :guts: et 15% en :wit:. C’est un combo plutôt mauvais. Elle utilisera des decks à base de 3 Speed.
+ 
+- Ses gold skills sont :
+ 
+    - **Big-Sisterly**, la gold version de _Unyielding Spirit_. C’est un gold de vélocité pour le Mile s’activant quand l’uma veut overtake une uma après 5 secondes de course. C’est un skill utile pour se positionner au début de la course.
+    > L’une des évolutions de ce skill lui permet d’être utilisé dans toutes les courses Dirt.
+ 
+    - **Dancer in the Dirt**, la gold version de _Down in the Dirt_. C’est un gold de vélocité pour le Dirt, qui s’active après au moins 5 secondes de course si une uma à été devant l’utilisatrice pendant au moins 3 secondes. C’est un skill qui est assez similaire à _Slipstream_.<br>
+    C’est un bon skill, tout comme l’est _Slipstream_. Il ne possède pas la possibilité de s'activer 2 fois comme ce dernier, mais il peut s’activer plus tôt dans la course.
+ 
+- Son unique est un boost de vélocité qui s’active à 300 mètres de la ligne d’arrivée. C’est un unique avec une puissance réduite, mais il possède une seconde variation plus forte. L’unique s’active au 300 derniers mètres de course, si Wonder Acute est entre le top 40% et le bottom 80% (≥2 <> ≤4 en CM). Si elle est sur une course Dirt et qu’elle se trouve à un écart inférieur à 5 mètres de la première place, l’unique obtient un boost de Current Speed de même puissance que le boost de vélocité, ce qui rends l'unique bien plus fort.<br>
+L’unique amélioré peut être difficile à activer à certain moment, mais s’il s’active, il est vraiment puissant. Si on le compare à des uniques similaires, il est plus puissant que celui de Oguri Cap.
+
+#### Pull ou pas ? :
+
+Si elle est votre Oshi, ou que vous avez besoin d’une bonne uma Dirt.
+ 
+Wonder Acute est une bonne uma Dirt. Son seul réel défaut est son combo de bonus de croissances. Autrement, elle est plutôt forte. Il n’y a pas grand-chose de plus à dire sur elle.
+
+Prenez-là si elle est votre Oshi ou que vous voulez compléter votre équipe Dirt.
+
+:::
