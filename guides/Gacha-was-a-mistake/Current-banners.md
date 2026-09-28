@@ -216,7 +216,7 @@ Ce n’est pas une bannière à pull.
 
 ⏩**Light Hello** :friends: :ssr:
 
-[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/archives/Support-gacha-reviews-2026.md#_55-agnes-tachyon-speed-ssr-light-hello-pal-ssr)
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_55-agnes-tachyon-speed-ssr-light-hello-pal-ssr)
 
 #### PULL OU PAS
 
