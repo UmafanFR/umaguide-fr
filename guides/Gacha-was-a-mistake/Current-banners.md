@@ -1,5 +1,5 @@
 ---
-title: Gacha - Wonder Acute ★★★ // Eishin Flash Speed SSR & Narita Top Road Power SR
+title: Gacha - Daiwa Scarlet (Christmas) & Vodka (Christmas) ★★★ // Air Groove Wit SSR & Narita Brian Power SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/064_Banners_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/065_Banners_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -75,83 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Wonder Acute ★★★
+### Bannière Umamusume : Daiwa Scarlet (Christmas) & Vodka (Christmas) ★★★
 
-![Image de présentation de la bannière Wonder Acute](/public/assets/Gacha-reviews/2026/064_Uma-Banner.png)
-
-⏩ **Wonder Acute** :
-
-_Wonder Acute est une Pace Chaser pour le Mile et Medium Dirt. Avec de l’inspiration, elle peut courir en Sprint, mais aussi en tant que Front Runner et Late Surger (respectivement 7 :star: et 4 :star: pour les 2 derniers). Elle possède 2 gold de vélocité, un pour le Mile et l’autre pour le Dirt. Son unique est un boost de vélocité qui s’active à 300 mètres de la ligne d’arrivée._
- 
-- Elle possède 2 bonus de croissances : 15% en :guts: et 15% en :wit:. C’est un combo plutôt mauvais. Elle utilisera des decks à base de 3 Speed.
- 
-- Ses gold skills sont :
- 
-    - **Big-Sisterly**, la gold version de _Unyielding Spirit_. C’est un gold de vélocité pour le Mile s’activant quand l’uma veut overtake une uma après 5 secondes de course. C’est un skill utile pour se positionner au début de la course.
-    > L’une des évolutions de ce skill lui permet d’être utilisé dans toutes les courses Dirt.
- 
-    - **Dancer in the Dirt**, la gold version de _Down in the Dirt_. C’est un gold de vélocité pour le Dirt, qui s’active après au moins 5 secondes de course si une uma à été devant l’utilisatrice pendant au moins 3 secondes. C’est un skill qui est assez similaire à _Slipstream_.<br>
-    C’est un bon skill, tout comme l’est _Slipstream_. Il ne possède pas la possibilité de s'activer 2 fois comme ce dernier, mais il peut s’activer plus tôt dans la course.
- 
-- Son unique est un boost de vélocité qui s’active à 300 mètres de la ligne d’arrivée. C’est un unique avec une puissance réduite, mais il possède une seconde variation plus forte. L’unique s’active au 300 derniers mètres de course, si Wonder Acute est entre le top 40% et le bottom 80% (≥2 <> ≤4 en CM). Si elle est sur une course Dirt et qu’elle se trouve à un écart inférieur à 5 mètres de la première place, l’unique obtient un boost de Current Speed de même puissance que le boost de vélocité, ce qui rends l'unique bien plus fort.<br>
-L’unique amélioré peut être difficile à activer à certain moment, mais s’il s’active, il est vraiment puissant. Si on le compare à des uniques similaires, il est plus puissant que celui de Oguri Cap.
-
-#### Pull ou pas ? :
-
-Si elle est votre Oshi, ou que vous avez besoin d’une bonne uma Dirt.
- 
-Wonder Acute est une bonne uma Dirt. Son seul réel défaut est son combo de bonus de croissances. Autrement, elle est plutôt forte. Il n’y a pas grand-chose de plus à dire sur elle.
-
-Prenez-là si elle est votre Oshi ou que vous voulez compléter votre équipe Dirt.
-
----
-
-### Bannière support : Eishin Flash Speed SSR & Narita Top Road Power SR
-
-![Image de présentation de la bannière Eishin Flash Speed SSR & Narita Top Road Power SR](/public/assets/Gacha-reviews/2026/064_Card-Banner.png)
-
-⏩**Eishin Flash** :speed: :SSR:
-
-- La carte est backloaded. A 1LB, elle débloque Power Bonus puis Speed Bonus à 3LB et un second à MLB.
- 
-- Son Unique Effect lui donne un Power Bonus et Skill Point Bonus si sa bond gauge est à au moins 80 (orange)
- 
-- Ses rainbows sont très bons, de puissance similaire à Kitasan Black et Agnes Tachyon, grâce à son bon Special Priority, ses Stats Bonus malgré un faible Friendship Bonus. Son cross-training est aussi très bon, à un niveau similaire à Kitasan Black, avec son Training Effectiveness correct mais surtout grâce à ses Stats Bonus. Elle ne possède pas de Race Bonus.<br>
-Parmi les bonnes cartes speed, c'est une des cartes qui montre le mieux la puissances des Stats Bonus.
- 
-- Elle propose une liste de 7 hints❗, dont seul _Late Surger Straightaways_ et _Corners_ sont bons. Elle possède Hint Levels et Hint Frequency, ses hints seront assez puissants.
- 
-- Son gold skill est **Sharp Streak**, la gold version de _Late Surger Straigtaways_. C’est un skill de vélocité qui s’active dans une ligne droite random si l'utilisatrice est une Late Surger.<br>
-C’est un bon skill, bien que cher sans hints pour Late Surger Straightaways. Le principal problème est que la différence de puissance entre la version gold et la version white est faible comparé à plein d’autres gold skill.
- 
-- Tout comme sa version SR, elle redonne plein d’énergie et c’est très sympa.
-
-⏩**Narita Top Road** :power: :sr:
-
-- La carte est backloaded. A 1LB, elle débloque Initial Stamina puis Power Bonus à MLB.
- 
-- Son Unique Effect lui donne 10 de Friendship Bonus et 5 de Race Bonus
- 
-- Ses rainbows sont bons avec son bon Friendship Bonus malgré un faible Special Priority. Son cross-training est assez faible car elle possède seulement du Mood Effect. Dans les 2 cas, elle est en dessous des top tier cartes Power SR.
- 
-- Elle propose une liste de 5 hints❗, tous sympas. Elle possède des puissants Hint Levels et Hint Frequency. Ses hints seront très puissants et fréquents.
-
-#### PULL OU PAS
-
-Eishin Flash Speed SSR est une très bonne carte Speed. Si on devait la noter seulement sur les stats qu’elle donne, elle serait soit 2ème ou 3ème, exæquo avec Kitasan Black. Son problème comparé aux 3 autres tops tiers (avec Maruzensky et Agnes Tachyon) sont les hints et le gold skill. Sur ses 2 choses, elle est bien plus faible ou moins intéressante.
-Cela fait que je la considère moins forte que les 3 autres, un rang derrière eux. C’est une très bonne carte, mais elle est plus une carte à emprunter qu’à invoquer. Si vous ne jouez que des Late Surger , cela peut être une idée intéressante si vous n’avez pas suffisamment de cartes top tier en Speed ou que vous êtes une baleine.
- 
-Narita Top Road Power SR est une carte correcte mais inférieure à sa compétition directe dans les cartes SR.
- 
-Ce n’est pas une bannière à invoquer, sauf si vous jouez que des Late Surger et que vous êtes soit une baleine, soit que vous n’avez pas assez de cartes top tiers en Speed.
-
----
-
-# Bannières à suivre (29 Septembre 00h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/065_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Daiwa Scarlet (Christmas) & Vodka (Christmas) ★★★
+![Image de présentation de la bannière Daiwa Scarlet (Christmas) & Vodka (Christmas)](/public/assets/Gacha-reviews/2026/065_Uma-Banner.png)
 
 ⏩ **Daiwa Scarlet (Christmas)** :
 
@@ -199,8 +125,11 @@ Daiwa Scarlet (Christmas) est bien meilleur que sa version OG. Premièrement, to
  
 Vodka (Christmas) est dans une moins bonne position comparée à Daiwa Scarlet. Son Alt n’est pas forcément supérieur à sa version OG. En termes de gold skill et de white skill, elle est meilleure. Mais en dehors de ça, elle est inférieure à sa version OG, sauf sur le Racetrack de Tokyo, où son unique en Mid-Race peut-être plus sympa. Désolé pour les Oshi de Vodka (Volture), mais faut espérer qu’une autre alt sorte pour voir une potentielle amélioration.
 
+---
 
-### Bannière Support à suivre : Air Groove Wit SSR & Narita Brian Power SSR
+### Bannière support : Air Groove Wit SSR & Narita Brian Power SSR
+
+![Image de présentation de la bannière Air Groove Wit SSR & Narita Brian Power SSR](/public/assets/Gacha-reviews/2026/065_Card-Banner.png)
 
 ⏩**Air Groove** :wit: :SSR:
 
@@ -236,6 +165,68 @@ Air Groove Wit SSR n’est pas assez forte comparé aux autres cartes Wit SSR qu
 Narita Brian Power SSR est une bonne carte, surtout grâce à son Unique Effect qu’elle partage avec Maruzensky Speed SSR. Son problème est d’être une carte Power, qui sont des cartes que l’on utilise peu, seulement quand elles sont META et/ou qu’elles possèdent un bon gold skill. Elle est cependant un excellent emprunt, surtout si vous possédez de bons parents Stamina.
  
 Ne pullez pas sur cette bannière, au mieux empruntez Narita Brian Power SSR.
+
+---
+
+# Bannières à suivre (8 Octobre 00h, c'est une estimation)  
+
+<!-- ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/065_Banners_early_preview.jpg) -->
+
+### Bannière Umamusume à suivre : Zenno Rob Roy ★★★
+
+⏩ **Zenno Rob Roy** :
+
+_Zenno Rob Roy est une Pace Chaser Medium et Long. Elle peut aussi courir parfaitement en tant que Late Surger. Elle possède un gold de recovery de Pace Chaser et un gold de vélocité pour le Medium. Son unique est un boost de vélocité s’activant aux 400 derniers mètres de la course._
+ 
+- Elle possède 2 bonus de croissances : 10% en :stamina: et 20% en :wit:. C’est un combo correct. Elle utilisera des decks classiques à base de 3 cartes Speed, et elle préférera généralement des parents Power.
+ 
+- Ses gold skills sont :
+ 
+    - **Race Planner** est la gold version de _Preferred Position_. C’est un gold recovery pour Pace Chaser qui s’active en Mid-Race en étant top 50%.<br>
+    C’est un très bon heal.
+
+    - **Refraction Arc**, la gold version de _Medium Corners_. C’est un gold de vélocité pour le Medium qui s’active dans un corner aléatoire.<br>
+    C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur Medium Corners. Le fait que l’écart de puissance entre sa version white est inférieur à la majorité des autres skills de vélocité est un autre petit défaut.
+ 
+- Son unique, _**Raise My Soul’s Blade !**_, est un boost de vélocité ayant une variation de puissance. L’unique s’active aux 400 derniers mètres de la course si elle est dans le top 40% (≤4). Si les 400 derniers mètres ne se trouvent pas en Late-Race ou Last-Spurt, l’unique ne s’activera pas.<br>
+La version plus puissante de l’unique s’active si la course est une G1 et que Zenno Rob Roy se trouve dans le top 3 en popularité.<br>
+C’est un bon unique, bien que la version puissante puisse être plus dur à activé en PVP.
+ 
+::: tip Potentiel en tant que parent et grand-parent
+ 
+Elle peut être utilisée en tant que parent ou grand-parent pour les Pace Chasers, mais surtout pour les Front Runner, où elle devient très intéressante.
+
+:::
+
+#### Pull ou pas ? :
+
+Seulement si elle est votre Oshi.
+ 
+Zenno Rob Roy est une bonne uma, bien que plutôt basique et une uma qui à la possibilité d’être utilisé en tant que parent ou grand-parent. Elle sera mieux utilisée en l’empruntant en tant que grand-parent.
+
+Elle possède aussi l’un des plus beau unique, à mon humble avis, si cela peut jouer en sa faveur.
+
+Ce n’est pas une bannière à pull.
+
+### Bannière Support à suivre : Mayano Top Gun Speed SSR & Light Hello Pal SSR
+
+⏩**Mayano Top Gun** :speed: :SSR:
+
+[Vous pouvez retrouver les informations de la carte ici](/archives/Support-gacha-reviews-2026.md#_28-mayano-top-gun-speed-ssr-narita-taishin-wits-ssr-rerun)
+
+⏩**Light Hello** :friends: :ssr:
+
+[Vous pouvez retrouver les informations de la carte ici](/archives/Support-gacha-reviews-2026.md#_55-agnes-tachyon-speed-ssr-light-hello-pal-ssr)
+
+#### PULL OU PAS
+
+NON.
+ 
+Mayano Top Gun Speed SSR peut avoir une utilité en tant qu'enmprunt pour les Front Runner dans les courses Long, elle n'est plus du tout au niveau des autres cartes Speed bien plus puissante qu'elle. Cela serait un gachis de pull pour elle, surtout que les porblèmes de stamina seront régler dans les prochains scénario. L'emprunt sera la façon de la jouer si vous en avez besoin.
+ 
+Light Hello Pal SSR ne sera utilisé que pendant Grand Concert, qui se termine dans environ 2 mois, voir moins. Il est déjà trop tard de pull pour elle. Elle aussi, le meilleur moyen de l'utilisé c'est de l'emprunter
+ 
+Ne pullez pas sur cette bannière, elle n'en vaut pas la peine dès que le prochain scénario sort.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
