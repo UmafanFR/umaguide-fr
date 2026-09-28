@@ -1606,4 +1606,47 @@ Narita Top Road Power SR est une carte correcte mais inférieure à sa compétit
  
 Ce n’est pas une bannière à invoquer, sauf si vous jouez que des Late Surger et que vous êtes soit une baleine, soit que vous n’avez pas assez de cartes top tiers en Speed.
 
-;;;
+:::
+
+## #65 - Air Groove Wit SSR & Narita Brian Power SSR
+
+![Image de présentation de la bannière Air Groove Wit SSR & Narita Brian Power SSR](/public/assets/Gacha-reviews/2026/065_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Air Groove** :wit: :SSR:
+
+- La carte est équilibrée. A 1LB, elle débloque Speed Bonus puis Mood Effect à 3LB.
+ 
+- Son Unique Effect lui donne Speed Bonus et Skill Point Bonus quand sa gauge est à 80 (orange).
+ 
+- Ses rainbows sont assez bon, surtout en Speed, avec son bon Friendship Bonus, son Special Priority et ses stats bonus. Elle ne donne pas assez de Wit comparé au top tier carte Wit. Son cross-training est faible, surtout avec un faible Training Effectiveness, mais elle a un peu de Mood Effect et les stats bonus. Malgré le Skill Point Bonus, elle donne autant de skill points que Fine Motion Wit SSR.
+ 
+- Elle propose une liste de 8 hints❗, principalement pour Late Surger plutôt commun. Ses hints sont faibles.
+ 
+- Son gold skill est **Fast & Furious**, la gold version de _Position Pilfer_. C’est un gold speed boost de Late Surger, qui s’active à un point random dans le Mid-Race si elle est bottom 60% (4e <-> 9e en CM). C’est un bon skill, qui sera toujours fiable. Il peut techniquement créer du carry-over mais repose beaucoup trop sur la chance pour ce faire.
+
+⏩**Narita Brian** :power: :ssr:
+
+- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus puis Stamina Bonus à 3 LB et un second à MLB.
+ 
+- Son Unique Effect lui donne 5 de Training Effectiveness pour chaque niveau du type d'entrainement où elle se trouve. C’est un Unique Effect puissant, le même que Maruzensky Speed SSR.
+ 
+- Ses rainbows sont très bons, grâce à un bon Special Priority et ses Stats Bonus, qui compensent un faible Friendship Bonus. Elle ne donne pas autant de Power que Vodka ou El Condor Pasa Power SSR, mais elle donne bien plus de Stamina et de Skill Points. Son cross-training est très bons grâce à son Unique Effect et le Skill Point Bonus.
+ 
+- Elle propose une liste de 10 hints❗, dont _My True Strenght_ en très important, mais aussi d’autres hints très utiles. Elle possède un bon Hint Levels et Hint Frequency, ses hints seront sympas.
+ 
+- Son gold skill est **Hot Pursuit**, la gold version de _Latch On_. C’est un gold de vélocité pour Pace Chaser et Late Surger, qui s’active en seconde moitié de course si l’utilisatrice entreprends de tenter un dépassement.<br>
+C’est un bon gold skill basique, qui a le potentiel de créer du carry-over.
+
+#### PULL OU PAS
+
+Non.
+ 
+Air Groove Wit SSR n’est pas assez forte comparé aux autres cartes Wit SSR que l’on à déjà vu et qui arriveront pour le prochain scénario. Une carte Wit qui ne donne pas assez de Wit est vraiment gênant, car seul l’entrainement Wit nous en donne.
+ 
+Narita Brian Power SSR est une bonne carte, surtout grâce à son Unique Effect qu’elle partage avec Maruzensky Speed SSR. Son problème est d’être une carte Power, qui sont des cartes que l’on utilise peu, seulement quand elles sont META et/ou qu’elles possèdent un bon gold skill. Elle est cependant un excellent emprunt, surtout si vous possédez de bons parents Stamina.
+ 
+Ne pullez pas sur cette bannière, au mieux empruntez Narita Brian Power SSR.
+
+:::

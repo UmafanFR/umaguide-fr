@@ -1654,3 +1654,57 @@ Wonder Acute est une bonne uma Dirt. Son seul réel défaut est son combo de bon
 Prenez-là si elle est votre Oshi ou que vous voulez compléter votre équipe Dirt.
 
 :::
+
+## #65 - Daiwa Scarlet (Christmas) & Vodka (Christmas) ★★★
+
+![Image de présentation de la bannière Daiwa Scarlet (Christmas) & Vodka (Christmas)](/public/assets/Gacha-reviews/2026/065_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Daiwa Scarlet (Christmas)** :
+
+_Daiwa Scarlet (Christmas) est une Front Runner pour le Long. Elle peut aussi courir parfaitement en tant que Pace Chaser et en Medium. Avec de l’inspiration, elle peut courir en Mile (1 :star:). Elle possède un gold de recovery de Front Runner et un gold de vélocité de Front Runner. Son unique est un boost de vélocité s’activant sur une ligne droite après 50% de la course._
+ 
+- Elle possède 2 bonus de croissances : 20% en :speed: et 10 % en :wit:. C’est un bon combo de bonus, surtout le 20% en Speed, qui est l’un des meilleurs bonus à avoir pour pouvoir utiliser seulement 2 cartes Speed. En termes de deck, si vous avez de bons parents Stamina, il devrait être possible de la jouer avec une carte Power sur les CM Long assez court comme le Nakayama 2500m grâce à son gold de recovery. Le plus simple reste d'utiliser une carte Stamina. Dans le futur en Long, quand on aura les skills roses, on utilisera forcément une carte Stamina pour remplacer son gold de recovery que l’on va transformer en un boost de vélocité + accélération.
+ 
+- Ses gold skills sont :
+ 
+    - **Restless**, la gold version de _Moxie_. C’est un gold recovery de Front Runner qui s’active sur la première côte possible après les 10 premières secondes de course. Le skill est très fiable en Long, et marche la plupart du temps en Medium. En Sprint et en Mile, c'est plus variable.
+    >L’une de ses évolutions transformera le skill en un boost de vélocité et un boost d’accélération.
+ 
+    - **Can’t Even Catch My Shadow**, la gold version de _Firm Resolve_. C’est un gold de vélocité de Front Runner, s’activant sur le Final Straight, si l’uma est en 1ère position et qu’il y est une uma derrière elle avec un écart maximal de 1L (=2,5m).<br>
+    Le skill est est puissant quand il s'active, surtout en termes de valeur. C'est un skill qui permet de sécuriser la victoire pour la Front Runner en 1ère position.
+ 
+- Le choix de son premier Costume Event affectera le résultat du deuxième. Si vous prenez le premier choix, vous aurez la possibilité de recevoir de la Speed, de la Stamina et potentiellement des hints de _Corner Recovery_. Le second choix vous offre la possibilité de recevoir du Wit, du Guts et potentiellement des hints pour _Front Runner Corners_.
+ 
+- Son unique, Queen’s Lumination, est un boost de vélocité ayant une durée accrue mais de puissance réduite, cependant il possède une variation de puissance. L’unique s’active dans une ligne droite sur la seconde moitié de la course si elle est dans le top 2. La variation puissante s’active si Daiwa Scarlet est en première place et qu’il y est une uma derrière elle avec un écart maximal de 1L (=2,5m).<br>
+La version puissante de l’unique est basiquement une version avec une meilleur valeur de son gold skill **Can’t Even Catch My Shadow**, qui peut s’activer en Mid-Race. L’unique n’est pas surpuissant mais il est intéressant pour une Front Runner, car c’est rare pour eux d’avoir un unique avec une durée accrue (seul Smart Falcon (Grand Concert) a un unique à durée accrue).
+
+⏩ **Vodka (Chritsmas)** :
+
+_Vodka (Christmas) est une Late Surger pour le Mile et le Medium. Avec de l’inspiration, elle peut courir en tant que Pace Chacer et Front Runner (respectivement 1 :star: et 4 :star:). Elle possède un gold d’accélération universel et un gold de vélocité de Late Surger. Son unique est un boost de vélocité s’activant en sortant d’une descente._
+ 
+- Elle possède 2 bonus de croissances : 20% en :speed: et 10% en :guts:. C’est un combo correct car le 20% en Speed est toujours très sympa, mais il est moins bon que celui de sa forme OG. Elle utiilsera des decks à base de 2 cartes Speed.
+ 
+- Ses gold skills sont :
+ 
+    - **No Stopping Me !**, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant en Late Race si votre uma a assez de HP pour finir la course, et qu'une uma adverse se trouve devant elle (en face, ou sur une voie adjacente) pendant 1 seconde. C’est un très bon skill universel (sauf pour les Front Runner).
+ 
+    - **Top Gear**, la gold version de _Pedal to the Metal_. C’est un gold de vélocité de Late Surger, s’activant s'activant sur le Final Straight si elle n’est pas en première place et qu’il y a un écart maximal de 10 mètres entre l’utilisatrice et la première place.<br>
+    Le skill est est excellent, surtout en termes de valeur.
+ 
+- Elle possède 2 Secret Event intéressants. Le premier vous donne 25 en Speed, Power, Stamina et Skill Points et des hints pour _All I’ve Got_, _Slick Surge_ et _Pedal to the Metal_ si elle gagne toutes les courses de sa carrière (sauf Hanshin Juneviles Fillies, Japanese Derby, Victoria Mile et Yasuda Kinen). Il faudra aussi qu’elle gagne Queen Elizabeth II (Classic), Osaka Hai et Arima Kinen (Senior).<br>
+Le second vous donne +3 dans toutes les stats, 20 en Power et 65 Skills Points en plus d’un hint pour _Nimble Navigator_. Le premier peut être compliqué à atteindre, mais le deuxième est rentable.
+ 
+- Son unique, Into High Gear !, est un boost de vélocité s’activant en sortant d’une descente. C’est un unique avec une durée réduite. Avant de s’activer, Vodka (Christmas) aura besoin d’être entre le top 80% et le bottom 50% (≥5 <-> 8≤) dans une descente du Mid-Race. Ensuite, l’unique s’active dès qu’elle sort de la descente, que ce soit pour du plat ou une montée.<br>
+L’unique devient plus puissant sur l’hippodrome de Tokyo. Il gagne en durée de base mais aussi un boost d’accélération. Le boost d’accélération est inutile car l’unique s’activera en Mid-Race sur cet hippodrome.
+
+#### Pull ou pas ? :
+
+Si elles sont vos Oshi, oui. La star de la bannière est Daiwa Scarlet, bien qu’elle ne soit pas aussi forte que Kitasan Black pour le Long.
+ 
+Daiwa Scarlet (Christmas) est bien meilleur que sa version OG. Premièrement, tout son kit est fait pour être une Front Runner, comparé à la version OG qui été mixte avec le fait d’être une Pace Chaser. Elle est principalement une uma Long, mais elle est utilisable en Medium. Elle n’est pas aussi forte qu’est le monstre Kitasan Black car être en première place est encore plus importante pour elle, pour utiliser parfaitement sa puissance. C’est globalement une excellente Alt, meilleure en tout point que sa version OG.
+ 
+Vodka (Christmas) est dans une moins bonne position comparée à Daiwa Scarlet. Son Alt n’est pas forcément supérieur à sa version OG. En termes de gold skill et de white skill, elle est meilleure. Mais en dehors de ça, elle est inférieure à sa version OG, sauf sur le Racetrack de Tokyo, où son unique en Mid-Race peut-être plus sympa. Désolé pour les Oshi de Vodka (Volture), mais faut espérer qu’une autre alt sorte pour voir une potentielle amélioration.
+
+:::
