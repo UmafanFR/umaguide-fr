@@ -208,15 +208,15 @@ Elle possède aussi l’un des plus beau unique, à mon humble avis, si cela peu
 
 Ce n’est pas une bannière à pull.
 
-### Bannière Support à suivre : Mayano Top Gun Speed SSR & Light Hello Pal SSR
+### Bannière Support à suivre : Mayano Top Gun Speed SSR & Light Hello Pal SSR (rerun)
 
 ⏩**Mayano Top Gun** :speed: :SSR:
 
-[Vous pouvez retrouver les informations de la carte ici](/archives/Support-gacha-reviews-2026.md#_28-mayano-top-gun-speed-ssr-narita-taishin-wits-ssr-rerun)
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_28-mayano-top-gun-speed-ssr-narita-taishin-wits-ssr-rerun)
 
 ⏩**Light Hello** :friends: :ssr:
 
-[Vous pouvez retrouver les informations de la carte ici](/archives/Support-gacha-reviews-2026.md#_55-agnes-tachyon-speed-ssr-light-hello-pal-ssr)
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/archives/Support-gacha-reviews-2026.md#_55-agnes-tachyon-speed-ssr-light-hello-pal-ssr)
 
 #### PULL OU PAS
 
