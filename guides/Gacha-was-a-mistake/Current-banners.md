@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/065_Banners_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/065_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -176,9 +176,9 @@ Ne pullez pas sur cette bannière, au mieux empruntez Narita Brian Power SSR.
 
 ⏩ **Zenno Rob Roy** :
 
-_Zenno Rob Roy est une Pace Chaser Medium et Long. Elle peut aussi courir parfaitement en tant que Late Surger. Elle possède un gold de recovery de Pace Chaser et un gold de vélocité pour le Medium. Son unique est un boost de vélocité s’activant aux 400 derniers mètres de la course._
+_Zenno Rob Roy est une Pace Chaser Medium et Long. Elle peut aussi courir parfaitement en tant que Late Surger. Elle possède un gold de recovery de Pace Chaser et un gold de vélocité pour le Medium. Son unique est un boost de vélocité s’activant à exactement 400 mètres de l'arrivé._
  
-- Elle possède 2 bonus de croissances : 10% en :stamina: et 20% en :wit:. C’est un combo correct. Elle utilisera des decks classiques à base de 3 cartes Speed, et elle préférera généralement des parents Power.
+- Elle possède 2 bonus de croissance : 10% en :stamina: et 20% en :wit:. C’est un combo correct. Elle utilisera des decks classiques à base de 3 cartes Speed, et elle préférera généralement des parents Power.
  
 - Ses gold skills sont :
  
@@ -188,7 +188,7 @@ _Zenno Rob Roy est une Pace Chaser Medium et Long. Elle peut aussi courir parfai
     - **Refraction Arc**, la gold version de _Medium Corners_. C’est un gold de vélocité pour le Medium qui s’active dans un corner aléatoire.<br>
     C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur Medium Corners. Le fait que l’écart de puissance entre sa version white est inférieur à la majorité des autres skills de vélocité est un autre petit défaut.
  
-- Son unique, _**Raise My Soul’s Blade !**_, est un boost de vélocité ayant une variation de puissance. L’unique s’active aux 400 derniers mètres de la course si elle est dans le top 40% (≤4). Si les 400 derniers mètres ne se trouvent pas en Late-Race ou Last-Spurt, l’unique ne s’activera pas.<br>
+- Son unique, _**Raise My Soul’s Blade !**_, est un boost de vélocité ayant une variation de puissance. L’unique s’active à exactement 400 mètres de l'arrivée, si elle est dans le top 40% (≤4). Si les 400 derniers mètres ne se trouvent pas en Late-Race ou Last-Spurt, l’unique ne s’activera pas.<br>
 La version plus puissante de l’unique s’active si la course est une G1 et que Zenno Rob Roy se trouve dans le top 3 en popularité.<br>
 C’est un bon unique, bien que la version puissante puisse être plus dur à activé en PVP.
  
@@ -222,9 +222,9 @@ Ce n’est pas une bannière à pull.
 
 NON.
  
-Mayano Top Gun Speed SSR peut avoir une utilité en tant qu'enmprunt pour les Front Runner dans les courses Long, elle n'est plus du tout au niveau des autres cartes Speed bien plus puissante qu'elle. Cela serait un gachis de pull pour elle, surtout que les porblèmes de stamina seront régler dans les prochains scénario. L'emprunt sera la façon de la jouer si vous en avez besoin.
+Mayano Top Gun Speed SSR peut avoir une utilité en tant qu'emprunt pour les Front Runner dans les courses Long, mais elle n'est plus du tout au niveau des autres cartes Speed bien plus puissante qu'elle. Cela serait un gachis de pull pour elle, surtout que les prblèmes de stamina seront réglés dans les prochains scénario. Si vous voulez la jouer, empruntez la.
  
-Light Hello Pal SSR ne sera utilisé que pendant Grand Concert, qui se termine dans environ 2 mois, voir moins. Il est déjà trop tard de pull pour elle. Elle aussi, le meilleur moyen de l'utilisé c'est de l'emprunter
+Light Hello Pal SSR ne sera utilisé que pendant Grand Concert, qui se termine dans environ 2 mois, voir moins. Il est déjà trop tard de pull pour elle. Elle aussi, le meilleur moyen de l'utiliser c'est de l'emprunter
  
 Ne pullez pas sur cette bannière, elle n'en vaut pas la peine dès que le prochain scénario sort.
 
