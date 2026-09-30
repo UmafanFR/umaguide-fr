@@ -497,7 +497,7 @@ Pullez si vous l’aimez bien est le meilleur conseil qu’on peut donner. Si vo
 
 _Mejiro Bright est une End Closer pour le Long. Elle peut aussi parfaitement courir en Medium et en tant que Late Surger. Avec un peu d’inspiration, elle peut courir en Mile et en tant que Pace Chaser avec respectivement 4 et 7 étoiles. Elle possède 2 gold de recovery, dont 1 pour le Long. Son unique est un speed boost assez faible mais sa durée est liée à la quantité d’HP qu’elle possède. L’unique à une durée de base entre 5s et 20s, ce qui est impressionnant._
 
-- Mejiro Bright possède 3 bonus de croissances : 14% en :stamina:, 8% en :guts: et 8% en :wit:. C’est un excellent combo pour elle, car cela lui permet de mieux monter les 3 stats qui sont liées au HP ou la consommation d’HPs. Elle utilise très bien les deck 2 Speed / 2 Wit / 2 Power ou 1 Stamina et Riko en fonction des parents. Il sera préférable d’avoir des legacy power pour prendre le deck avec Stamina pour bien monter Guts.
+- Mejiro Bright possède 3 bonus de croissance : 14% en :stamina:, 8% en :guts: et 8% en :wit:. C’est un excellent combo pour elle, car cela lui permet de mieux monter les 3 stats qui sont liées au HP ou la consommation d’HPs. Elle utilise très bien les deck 2 Speed / 2 Wit / 2 Power ou 1 Stamina et Riko en fonction des parents. Il sera préférable d’avoir des legacy power pour prendre le deck avec Stamina pour bien monter Guts.
 
 - Ses gold skills sont :
 
@@ -599,7 +599,7 @@ Je dirais que votre décision de pull va dépendre de si Front Runner sera une d
 
 _Nishino Flower est une Pace Chaser pour le Sprint et le Mile. Elle peut aussi courir en tant que Late Surger. Elle possède un gold de vélocité et un gold d’accélération pour Pace Chaser. Son unique est un boost d’accélération de Final Corner._
 
-- Nishino Flower possède 2 bonus de croissances : 15% en :speed: et 15% en :power:. C’est un bon combo de bonus, surtout pour la faire avec un deck Guts vu qu’elle n’a pas besoin de beaucoup de Stamina pour ses 2 distances préférées.
+- Nishino Flower possède 2 bonus de croissance : 15% en :speed: et 15% en :power:. C’est un bon combo de bonus, surtout pour la faire avec un deck Guts vu qu’elle n’a pas besoin de beaucoup de Stamina pour ses 2 distances préférées.
 
 - Ses gold skills sont :
 
@@ -641,7 +641,7 @@ Si vous ne comptez pas la jouer en Ace, il sera mieux de la borrow pour l’util
 
 _Yaeno Muteki est une Pace Chaser Medium. Elle peut aussi courir en tant que Late Surger. Avec un peu d’inspiration, elle peut courir en Mile (1 :star:). Avec beaucoup d’inspiration, elle peut courir en Dirt et Long (10 :star: pour les 2). Elle possède un gold de vélocité universelle et un gold hybride de vélocité et d’accélération pour le Medium. Son unique est un boost de vélocité dans les 300 derniers mètres de la course._
  
-- Yaeno Muteki possède 2 bonus de croissances : 20% en :power: et 10% en :guts:. C’est un combo correct, sans plus. Ses decks seront les decks basiques.
+- Yaeno Muteki possède 2 bonus de croissance : 20% en :power: et 10% en :guts:. C’est un combo correct, sans plus. Ses decks seront les decks basiques.
 
 - Ses gold skills sont :
 
@@ -678,7 +678,7 @@ Ce n’est pas une bannière à pull si elle n’est pas votre Oshi.
 
 _Nice Nature (Cheerleader) est une Late Surger pour le Medium et le Long. Avec un peu d’inspiration, elle peut courir en Mile (4 :star:) mais aussi en tant que Pace Chaser (1 :star:) et en tant qu’End Closer (7 :star:). Elle possède un gold de debuff pour le Medium et un gold d’accélération universel. Son unique est un boost de vélocité de Final Straight._
  
-- Nice Nature (Cheerleader) possède 3 bonus de croissances : 10% en :stamina:, 10% en :power: et 10% en :wit:. C’est un excellent combo de bonus, parfait pour ses 2 distances maîtres. Ses decks seront assez basiques à base de Speed / Power / Wit.
+- Nice Nature (Cheerleader) possède 3 bonus de croissance : 10% en :stamina:, 10% en :power: et 10% en :wit:. C’est un excellent combo de bonus, parfait pour ses 2 distances maîtres. Ses decks seront assez basiques à base de Speed / Power / Wit.
 
 - Ses gold skills sont :
 
@@ -693,7 +693,7 @@ _Nice Nature (Cheerleader) est une Late Surger pour le Medium et le Long. Avec u
 
 _King Halo (Cheelearder) est une Late Surger pour le Sprint. Avec un peu d’inspiration, elle peut courir dans toutes les distances (1 :star: pour le Mile et le Medium et 4 :star: pour le Long). Elle peut aussi courir en tant que Pace Chaser et End Closer pour respectivement 1 et 7 :star:. Elle possède un gold skill de vélocité et un gold green. Son unique est un boost d’accélération de Final Straight._
  
-- King Halo (Cheerleader) possède 3 bonus de croissances : 10% en :speed:, 10% en :power: et 10% en :guts:. C’est un très bon combo de bonus pour une uma Sprint. Elle utilisera soit des deck Guts ou Power.
+- King Halo (Cheerleader) possède 3 bonus de croissance : 10% en :speed:, 10% en :power: et 10% en :guts:. C’est un très bon combo de bonus pour une uma Sprint. Elle utilisera soit des deck Guts ou Power.
 
 - Ses gold skills sont :
 
@@ -740,7 +740,7 @@ King Halo (Cheerleader) est une uma spécialiste de certaines courses, mais qui 
 
 _Ines Fujin est une Front Runner pour le Mile et le Medium (1 gold). Avec un peu d’inspiration, elle peut courir en Long et en tant que Pace Chaser (4 :star: pour les 2). Elle possède un gold de recovery de Front Runner et un gold de vélocité et de debuff de Current Speed pour le Medium. Son unique est un boost de vélocité qui s'active à environ 300 m de la ligne d'arrivée._
 
-- Ines Fujin possède 2 bonus de croissances : 15% en :speed: et 15% en :guts:. C’est un combo correct pour une Front Runner. Dans les distances comme le Mile ou les Medium courts, elle peut utiliser un deck Guts. Dans les autres cas, il sera préférable d’utiliser un deck basique avec Stamina ou Power, en fonction de vos parents et des HPs nécessaires.
+- Ines Fujin possède 2 bonus de croissance : 15% en :speed: et 15% en :guts:. C’est un combo correct pour une Front Runner. Dans les distances comme le Mile ou les Medium courts, elle peut utiliser un deck Guts. Dans les autres cas, il sera préférable d’utiliser un deck basique avec Stamina ou Power, en fonction de vos parents et des HPs nécessaires.
 
 - Ses gold skills sont :
 
@@ -788,7 +788,7 @@ Son outil pour battre les autres Front Runner est son gold **Wild Wind**. La com
 
 _Mejiro Palmer est une Front Runner pour le Medium et le Long (1 gold). Elle possède un gold de vélocité universelle et un gold de vélocité pour le Long. Son unique est un hybride de recovery et de vélocité de moitié de course._
  
-- Mejiro Palmer possède 3 bonus de croissances : 10% en :speed:, 10% en :stamina: et 10% en :guts:. C’est un bon combo pour une Front Runner en Long, sa distance de prédilection. Il est techniquement possible de la jouer Guts en Medium, mais cela peut être compliqué à la mettre réellement en place à cause de son unique qui est difficile à activer sur Trackblazer (où les build basées sur guts sont souvent favorables). Ses decks seront principalement des decks avec Power tant qu’on est sur ce scénario.
+- Mejiro Palmer possède 3 bonus de croissance : 10% en :speed:, 10% en :stamina: et 10% en :guts:. C’est un bon combo pour une Front Runner en Long, sa distance de prédilection. Il est techniquement possible de la jouer Guts en Medium, mais cela peut être compliqué à la mettre réellement en place à cause de son unique qui est difficile à activer sur Trackblazer (où les build basées sur guts sont souvent favorables). Ses decks seront principalement des decks avec Power tant qu’on est sur ce scénario.
 
 - Ses gold skills sont :
 
@@ -824,7 +824,7 @@ Cela veut aussi dire d’attendre le prochain scénario, Grand Live, pour pouvoi
 
 _Fine Motion (Wedding) est une Pace Chaser pour le Mile (1 gold) et le Medium. Avec un peu d’inspiration, elle peut courir en Long (4 :star:), mais aussi en tant qu’End Closer et Front Runner (pour respectivement 4 :star: et 7 :star:). Elle possède un gold de vélocité pour le Mile et un gold d’accélération de Pace Chaser. Son unique est un boost de vélocité de Late-Race en Final Corner._
  
-- Fine Motion possède 2 bonus de croissances : 10% :guts: et 20% :wit:. C’est un combo de bonus médiocre. Ses decks seront assez basiques à base de 2 Speed / 2 Wit / 2 Power.
+- Fine Motion possède 2 bonus de croissance : 10% :guts: et 20% :wit:. C’est un combo de bonus médiocre. Ses decks seront assez basiques à base de 2 Speed / 2 Wit / 2 Power.
 
 - Ses gold bonus sont :
 
@@ -841,7 +841,7 @@ _Fine Motion (Wedding) est une Pace Chaser pour le Mile (1 gold) et le Medium. A
 
 _Curren Chan (Wedding) est une Pace Chaser pour le Sprint. Avec un peu d’inspiration, elle peut courir en tant que Front Runner et pour le Mile (pour respectivement 1 :star: et 7 :star:). Elle possède un gold de debuff et un gold d’accélération, les 2 sont pour le Sprint. Son unique est un hybride de vélocité et d’accélération qui peut s’activer à partir des 350 derniers mètres._
  
-- Curren Chan (Wedding) possède 3 bonus de croissances : 10% en :speed:, 10% en :power:, 10% en :wit:. C’est un excellent combo de bonus, surtout pour le Sprint. Ses meilleurs deck seront les decks Guts avec son combo de bonus parfait pour ces derniers. Les decks basiques sont toujours aussi bons.
+- Curren Chan (Wedding) possède 3 bonus de croissance : 10% en :speed:, 10% en :power:, 10% en :wit:. C’est un excellent combo de bonus, surtout pour le Sprint. Ses meilleurs deck seront les decks Guts avec son combo de bonus parfait pour ces derniers. Les decks basiques sont toujours aussi bons.
 
 - Ses gold skills sont :
 
@@ -876,7 +876,7 @@ Pullez sur cette bannière seulement si l'une d'entre elles est une de vos Oshi 
 
 _Inari One est une End Closer pour le Medium et le Long, que ce soit sur le Turf ou le Dirt. Avec un peu d’inspiration, elle peut courir en Mile, mais aussi en tant que Pace Chaser et Late Surger (1 étoile pour les 3). Elle possède un gold de vélocité universelle et un gold hybride de recovery et de vélocité pour le Dirt. Son unique est un puissant boost de vélocité de Final Straight._
  
-- Inari One possède 2 bonus de croissances : 10% en :stamina: et 20% en :power:. C’est un bon combo de bonus pour le Medium et le Long. En Dirt, le PVP se joue principalement sur des courses de distance Mile, le bonus de Stamina perd en utilité mais le bonus de Power reste très bon. Elle se joue avec des decks basiques.
+- Inari One possède 2 bonus de croissance : 10% en :stamina: et 20% en :power:. C’est un bon combo de bonus pour le Medium et le Long. En Dirt, le PVP se joue principalement sur des courses de distance Mile, le bonus de Stamina perd en utilité mais le bonus de Power reste très bon. Elle se joue avec des decks basiques.
 
 - Ses gold skills sont :
 
@@ -917,7 +917,7 @@ Finalement, je dirais que ce n’est pas une mauvaise bannière à pull.
 
 _Sweep Tosho est une End Closer pour le Mile et le Medium. Elle peut aussi courir parfaitement en tant que Late Surger mais End Closer sera toujours préféré. Avec un peu d’inspiration, elle peut courir en Long (7 :star:). Elle possède un gold de recovery pour End Closer et un gold debuff de Current Speed pour End Closer unique à elle. Son unique est un boost de vélocité qui peut s’activer à partir des 300 derniers mètres._
  
-- Sweep Tosho possède 2 bonus de croissances : 10% en :speed: et 20% en :power:. C’est un très bon combo de bonus, surtout pour les fans des decks Guts. Elle se joue très bien avec des decks classiques ou des decks Guts.
+- Sweep Tosho possède 2 bonus de croissance : 10% en :speed: et 20% en :power:. C’est un très bon combo de bonus, surtout pour les fans des decks Guts. Elle se joue très bien avec des decks classiques ou des decks Guts.
 
 - Ses gold skills sont :
 
@@ -995,7 +995,7 @@ Avec le boost de Current Speed, c’est un meilleur unique que _**Triumphant Pul
 
 _Mejiro Dober (Camping) est une Late Surger pour le Mile et le Medium (1 gold). Avec un peu d’inspiration, elle peut courir en tant que Front Runner et en tant que Pace Chaser (respectivement 4 :star: et 1 :star:). Elle possède un gold de vélocité de Late Surger et un gold d’accélération pour le Medium. Son unique est un boost de vélocité de Mid-Race très spécifique (mais il s’active plutôt bien)._
  
-- Mejiro Dober (Camping) possède 2 bonus de croissances : 20% en :speed: et 10% en :wit:, l’inverse de son OG. C’est toujours un bon combo de bonus bien que je préfère celui de la OG. Elle va utiliser les decks basiques Power.
+- Mejiro Dober (Camping) possède 2 bonus de croissance : 20% en :speed: et 10% en :wit:, l’inverse de son OG. C’est toujours un bon combo de bonus bien que je préfère celui de la OG. Elle va utiliser les decks basiques Power.
 
 - Ses gold skills sont :
 
@@ -1092,7 +1092,7 @@ Les 2 sont aussi de bonnes Aces, surtout Seiun Sky. En tant qu’Ace, Narita Bri
 
 _Mejiro McQueen (Summer) est une Pace Chaser pour le Long. Elle peut aussi courir parfaitement en Medium. Avec de l’inspiration, elle peut courir en tant que Front Runner et Late Surger (pour respectivement 1 :star: et 7 :star:). Elle possède un gold de vélocité pour le Long et un gold de recovery de Pace Chaser pour le Long. Son unique est un speed boost assez faible mais sa durée est liée à la quantité d’HP qu’elle possède. L’unique à une durée de base entre 5s et 20s, ce qui est impressionnant._
  
-- Mejiro McQueen (Summer) possède 3 bonus de croissances : 8% en :speed:, 8% en :stamina: et 14% en :wit:. C’est un excellent combo de bonus pour une uma spécialisé en Long. Cela lui permet de soit jouer des decks Power et des parents Stamina ou inversement.
+- Mejiro McQueen (Summer) possède 3 bonus de croissance : 8% en :speed:, 8% en :stamina: et 14% en :wit:. C’est un excellent combo de bonus pour une uma spécialisé en Long. Cela lui permet de soit jouer des decks Power et des parents Stamina ou inversement.
 
 - Ses gold skills sont :
 
@@ -1116,7 +1116,7 @@ Sur une course de 3 200m, le skill peut avoir une durée de 64s au maximum, bien
 
 _Gold Ship (Summer) est une End Closer pour le Medium et le Long. Avec de l’inspiration, elle peut courir en tant que Pace Chaser et Late Surger mais aussi courir en Mile (pour respectivement 1 :star:,1 :star: et 4 :star:). Elle possède un gold de vélocité pour le Long et un gold de vélocité pour le Medium. Son unique est spécial. Aléatoirement en deuxième partie de course, l’unique lui donne un faible boost de vélocité et lui permet de lancer 2 gold skill qu’elle possède (plus d'explications dans la partie pour l’unique)._
  
-- Gold Ship (Summer) possède 2 bonus de croissances : 20% en :power: et 10% en :wit:. C’est un bon combo de bonus, utile sur toutes les distances. Ses decks utiliseront généralement Super Creek :stamina: dedans pour son gold skill Swinging Maestro et pour bien monter sa Stamina. Le reste des cartes seront généralement des cartes Speed et Wit.
+- Gold Ship (Summer) possède 2 bonus de croissance : 20% en :power: et 10% en :wit:. C’est un bon combo de bonus, utile sur toutes les distances. Ses decks utiliseront généralement Super Creek :stamina: dedans pour son gold skill Swinging Maestro et pour bien monter sa Stamina. Le reste des cartes seront généralement des cartes Speed et Wit.
 
 - Ses gold skills sont :
 
@@ -1163,7 +1163,7 @@ Ne pullez pas sur cette bannière.
 
 _Bamboo Memory est une Late Surger pour le Sprint et le Mile. Avec de l’’inspiration, elle peut courir en Medium, en tant qu’End Closer, mais surtout courir sur les courses Dirt (pour respectivement 4 étoiles, 4 étoiles et 7 étoiles). Elle possède un gold de vélocité de Late Surger et un gold de vélocité pour le Mile. Son unique est un très faible boost d’accélération de Final Corner qui devient plus puissant (le boost devient plus puissant et dure plus longtemps) en doublant une uma. L’effet atteint sa puissance maximale après avoir doublé 3 umas._
 
-- Bamboo Memory possède 3 bonus de croissances : 10% en :speed:, 10% en :power: et 10% en :guts:. C’est un bon combo de bonus pour le Sprint et le Mile. Elle utilisera des decks basiques à base de Speed et Wit
+- Bamboo Memory possède 3 bonus de croissance : 10% en :speed:, 10% en :power: et 10% en :guts:. C’est un bon combo de bonus pour le Sprint et le Mile. Elle utilisera des decks basiques à base de Speed et Wit
 
 - Ses gold skills sont :
 
@@ -1195,7 +1195,7 @@ Ne pullez pas sur cette bannière, on se rapproche de 2 grosses bannières (1 um
 
 _Copano Rickley est une uma Dirt pour les distances Mile et Medium. Elle peut soit courir en tant que Front Runner ou en tant que Pace Chaser en fonction de votre préférence. Avec de l’inspiration elle peut courir en Sprint et en tant que Late Surger (respectivement 4 étoiles pour les 2). Elle possède un gold de vélocité pour Dirt et un gold green de Speed pour le Dirt. Son unique est premièrement un boost aléatoire de vélocité, avec un second boost hybride de vélocité et d’accélération de 2ème moitié de Mid-Race. Le boost hybride est dépendant du nombre de green skills qu’elle active._
  
-- Copano Rickey possède 2 bonus de croissances : 10% en :power: et 20% en :wit:. C’est un bon combo de bonus pour le Mile. Pour les courses Medium, elle aura besoin de soit prendre une carte Stamina ou de bon parents Stamina. Il est aussi possible de prendre des greens skills Stamina et Guts pour compléter ses HPs et améliorer la puissance de son unique.
+- Copano Rickey possède 2 bonus de croissance : 10% en :power: et 20% en :wit:. C’est un bon combo de bonus pour le Mile. Pour les courses Medium, elle aura besoin de soit prendre une carte Stamina ou de bon parents Stamina. Il est aussi possible de prendre des greens skills Stamina et Guts pour compléter ses HPs et améliorer la puissance de son unique.
 
 - Ses gold skills sont :
 
@@ -1240,7 +1240,7 @@ Même des années plus tard, Copano Rickley reste dans la meta des CM Dirt. Elle
 
 _Smart Falcon (Grand Concert) est une Front Runner Dirt. Elle court parfaitement en Mile et Medium. Avec de l’inspiration, elle peut courir en Sprint et en tant que Pace Chaser (respectivement 1 :star: et 7 :star:). Elle possède un gold de vélocité et un gold d’accélération, tous les 2 pour le Dirt. Sur les courses Dirt, son unique est hybride avec un boost de vélocité et de la recovery. Sur les courses Turf, elle ne possède que le speed boost._
  
-- Smart Falcon (Grand Concert) possède 2 bonus de croissances : 20% en :speed: et 10% en :guts:. C’est un combo plutôt moyen, le 20% en Speed reste intéressant pour Grand Concert vu que les decks seront 2 Speed + 2 Wit + Light Hello + Flex. Ce 20% en Speed lui donne plus de choix pour un flex, tout en montant bien Speed.
+- Smart Falcon (Grand Concert) possède 2 bonus de croissance : 20% en :speed: et 10% en :guts:. C’est un combo plutôt moyen, le 20% en Speed reste intéressant pour Grand Concert vu que les decks seront 2 Speed + 2 Wit + Light Hello + Flex. Ce 20% en Speed lui donne plus de choix pour un flex, tout en montant bien Speed.
 
 - Ses gold skills sont :
 
@@ -1271,7 +1271,7 @@ Ne pullez pas, seulement s’il vous manque des bonnes uma pour le dirt.
 
 _Winning Ticket (Steampunk) est une Late Surger pour le Medium. Avec de l’inspiration, elle peut courir en Long et en tant que Pace Chaser (1 :star: pour les 2). Elle possède 2 gold skills de vélocité, un pour Late Surger et l’autre pour le Medium. Son unique est un speed boost moyen (0,25) de Last Straight avec une durée de base de 6s, qui peut recevoir de la vélocité en plus en activant jusqu’à 3 skills. L’unique s’active si elle est dans la mécanique de Last Spurt et qu’elle se trouve dans le bottom 60% (≥4 en CM)._
  
-- Winning Ticket (Steampunk) possède 3 bonus de croissances : 8% en :speed:, 14% en :power: et 8% en :guts:. Les bonus Speed et Power sont toujours très sympa mais le Guts n'est pas très utile, surtout pour une Uma Medium et potentiellement Long. Ses decks pour Grand Concert seront 3 :speed: / 2 :wit: / Light Hello ou 2 :speed: / 2 :wit: / Light Hello / Flex (Stamina pour avoir suffisamment d’HP pour le Medium)
+- Winning Ticket (Steampunk) possède 3 bonus de croissance : 8% en :speed:, 14% en :power: et 8% en :guts:. Les bonus Speed et Power sont toujours très sympa mais le Guts n'est pas très utile, surtout pour une Uma Medium et potentiellement Long. Ses decks pour Grand Concert seront 3 :speed: / 2 :wit: / Light Hello ou 2 :speed: / 2 :wit: / Light Hello / Flex (Stamina pour avoir suffisamment d’HP pour le Medium)
 
 - Ses gold skills sont :
 
@@ -1291,7 +1291,7 @@ Les boosts secondaires peuvent continuer après le boost principal s’ils ont �
 
 _Narita Taishin est une End Closer pour le Medium (1 gold) et le Long. Avec de l’inspiration, elle peut courir en Mile et en tant que Late Surger (respectivement 4 :star: et 1 :star:). Elle possède un gold de vélocité d’End Closer et un gold d’accélération pour le Medium. Son unique est un speed boost de seconde moitié de Final Corner en Late-Race, s’activant si elle est entre le bottom 60% et le top 75% (≥4 <-> ≤7 en CM)._
  
-- Narita Taishin (Steampunk) 3 bonus de croissances : 8% en :stamina:, 8% en :guts: <br> et 14% en :wit:. Le bonus de Stamina et Wit sont bons mais le Guts reste moins intéressant que les 2 autres qu’elle n’a pas. Ses decks pour Grand Concert seront 3 :speed: / 2 :wit: / Light Hello ou 2 :speed: / 2 :wit: / Light Hello / Flex (Stamina pour avoir suffisamment d’HP en Medium / Long).
+- Narita Taishin (Steampunk) 3 bonus de croissance : 8% en :stamina:, 8% en :guts: <br> et 14% en :wit:. Le bonus de Stamina et Wit sont bons mais le Guts reste moins intéressant que les 2 autres qu’elle n’a pas. Ses decks pour Grand Concert seront 3 :speed: / 2 :wit: / Light Hello ou 2 :speed: / 2 :wit: / Light Hello / Flex (Stamina pour avoir suffisamment d’HP en Medium / Long).
 
 ::: tip 3 supports Speed pour Grand Concert
 
@@ -1338,7 +1338,7 @@ Ne pullez pas sur cette bannière.
 
 _Yukino Bijin est une Pace Chaser pour le Mile et le Medium Turf. Avec de l’inspiration, elle peut courir en Dirt, en Sprint et en tant que Front Runner (respectivement 1 étoile, 7 étoiles et 4 étoiles). Elle possède 2 gold d’accélération, le premier universel et le second de Pace Chaser. Son unique est un boost de vélocité classique, s’activant dans les 300 derniers mètres, si Yukino Bijin est dans le top 4 et à un écart maximal de 5 mètres avec la première place._
  
-- Yukino Bijin possède 2 bonus de croissances : 10% en :speed: et 20% en :guts:. C’est un mauvais combo de bonus, on aurait préféré l’inverse. Elle utilisera des decks classiques avec une carte stamina ou une carte avec **Neck and Neck** en potentiel flex (si vous la jouer en Pace Chaser).
+- Yukino Bijin possède 2 bonus de croissance : 10% en :speed: et 20% en :guts:. C’est un mauvais combo de bonus, on aurait préféré l’inverse. Elle utilisera des decks classiques avec une carte stamina ou une carte avec **Neck and Neck** en potentiel flex (si vous la jouer en Pace Chaser).
  
 - Ses gold skills sont :
     - **No Stopping Me !**, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant en Late Race si votre uma a assez de HP pour finir la course, et qu'une uma adverse se trouve devant elle (en face, ou sur une voie adjacente) pendant 1 seconde. C’est un très bon skill universel (sauf pour les Front Runner).
@@ -1370,7 +1370,7 @@ Ne pullez pas sur cette bannière.
 
 _Seeking the Pearl est une Pace Chaser / Late Surger pour le Sprint (1 gold) et le Mile (1 gold). Avec de l’inspiration, elle peut courir en tant qu’End Closer et en tant que Front Runner (respectivement 1 étoile et 4 étoiles). Elle possède un gold de vélocité pour le Sprint et un gold de vélocité pour le Mile. Son unique est un boost de vélocité qui s’active sur les 200 derniers mètres._
  
-- Seeking the Pearl possède 2 bonus de croissances : 10% en :speed: et 20% en :wit:. C’est un bon combo de bonus, surtout pour le Sprint et le Mile. Encore plus si vous décidez de la jouer Late Surger avec la carte Power SSR qui sort en même temps qu’elle. Elle utilisera des decks classiques avec un flex Power ou Guts.
+- Seeking the Pearl possède 2 bonus de croissance : 10% en :speed: et 20% en :wit:. C’est un bon combo de bonus, surtout pour le Sprint et le Mile. Encore plus si vous décidez de la jouer Late Surger avec la carte Power SSR qui sort en même temps qu’elle. Elle utilisera des decks classiques avec un flex Power ou Guts.
  
 - Ses gold skills sont :
  
@@ -1406,7 +1406,7 @@ Mais elle est loin d’être un must pull, c'est juste une bonne uma.
 
 _Meisho Doto (Halloween) est une Pace Chaser pour le Medium et le Long. Avec de l’inspiration, elle peut courir en tant que Late Surger (1 étoile). Elle possède un gold d’accélération pour Pace Chaser et un gold de recovery universel. Son unique est un boost de vélocité et accompagné d’un faible debuff de Current Speed, pour 2 umas devant et derrière elle, sur le Final Straight._
  
-- Elle possède 2 bonus de croissances : 15% en :power: et 15% en :wit:. C’est un combo de bonus très bon, surtout avec son gold de recovery qu’elle possède. Elle peut jouer les decks basiques Speed + Wit si vous avez de bons parents Stamina.
+- Elle possède 2 bonus de croissance : 15% en :power: et 15% en :wit:. C’est un combo de bonus très bon, surtout avec son gold de recovery qu’elle possède. Elle peut jouer les decks basiques Speed + Wit si vous avez de bons parents Stamina.
  
 - Ses gold skills sont :
 
@@ -1425,7 +1425,7 @@ C'est un unique basique, bien que les faibles debuff de Current Speed peuvent fa
 
 _Agnes Digital est une Pace Chaser / Late Surger pour le Mile et Medium, que ce soit pour le Turf ou le Dirt. Avec de l’inspiration, elle peut courir en tant qu’End Closer (1 étoile). Elle possède 2 skills de vélocité, le premier est universel et le second pour le Dirt. Son unique est un boost de vélocité de Mid-Race._
  
-- Elle possède 4 bonus de croissances : 7% en :speed:, 7% en :stamina:, 8% en :power: et 8% en :guts:. Avoir 4 bonus de croissance est plus négatif que positif. Au lieu d’avoir un bon bonus et 2 plus faibles ou 3 moyens, elle possède 4 bonus de croissances faibles. Le Speed, Stamina et Power reste excellent à avoir.
+- Elle possède 4 bonus de croissance : 7% en :speed:, 7% en :stamina:, 8% en :power: et 8% en :guts:. Avoir 4 bonus de croissance est plus négatif que positif. Au lieu d’avoir un bon bonus et 2 plus faibles ou 3 moyens, elle possède 4 bonus de croissance faibles. Le Speed, Stamina et Power reste excellent à avoir.
  
 - Ses gold skills sont :
  
@@ -1444,7 +1444,7 @@ L’unique peut avoir du mal à s’activer dans les rooms avec beaucoup de Fron
 
 Non sauf si elles sont vos Oshi, mais elles ne sont pas mauvaises.
  
-Meisho Doto (Halloween) est plutôt bonne, surtout en possédant des gold skills très utiles. Cela lui permet d’être plus flexible sur ses decks, surtout pour votre potentiel Flex. Ses bonus de croissances sont aussi très bons pour le scénario Grand Concert. Elle est meilleur que sa version OG
+Meisho Doto (Halloween) est plutôt bonne, surtout en possédant des gold skills très utiles. Cela lui permet d’être plus flexible sur ses decks, surtout pour votre potentiel Flex. Ses bonus de croissance sont aussi très bons pour le scénario Grand Concert. Elle est meilleur que sa version OG
  
 Agnes Digital (Halloween) est, comme sa version OG, une bonne uma à avoir pour sa flexibilité de course. Elle est d’une puissance similaire à sa version OG. Elle est une uma à prendre si vous avez besoin de sa flexibilité pour le Dirt et le Turf.
  
@@ -1462,7 +1462,7 @@ Ce n’est pas une mauvaise bannière, mais aucune n’est si importante que ça
 
 _Aston Machan est une Front Runner pour le Sprint. Elle peut aussi courir parfaitement en tant que Pace Chaser. Avec de l’inspiration, elle peut courir en Mile. Elle possède un gold skill d’accélération pour Front Runner et un gold de vélocité pour le Sprint. Son unique est un boost hybride de vélocité et d’accélération sur les 400 derniers mètres de course._
  
-- Aston Machan possède 2 bonus de croissances : 20% en :speed: et 10% en :guts:. C’est un combo correct pour le Sprint, qui est la distance où le bonus de croissance Guts devient le moins dérangeant. Le 20% en Speed est toujours très sympa. Ses decks seront les decks basiques avec un flex Power ou Guts. Elle est aussi libre de ne pas prendre Mihono Bourbon SSR Wit ou Sakura Bakushin O Guts.
+- Aston Machan possède 2 bonus de croissance : 20% en :speed: et 10% en :guts:. C’est un combo correct pour le Sprint, qui est la distance où le bonus de croissance Guts devient le moins dérangeant. Le 20% en Speed est toujours très sympa. Ses decks seront les decks basiques avec un flex Power ou Guts. Elle est aussi libre de ne pas prendre Mihono Bourbon SSR Wit ou Sakura Bakushin O Guts.
  
 - Ses gold skills sont :
  
@@ -1482,7 +1482,7 @@ C’est un bon unique en Sprint, surtout pour les courses de 1200m où son activ
 
 Si elle est votre Oshi ou que vous voulez une bonne uma Sprint, oui.
  
-Aston Machan est une excellente Front Runner pour le Sprint, même la meilleure pendant un certain temps. Elle n’est pas restreinte dans ses decks et possède des golds skills utiles. Son seul défaut potentiel est ses bonus de croissances, surtout le 10% Guts. Mais en dehors de ça, elle est excellente.
+Aston Machan est une excellente Front Runner pour le Sprint, même la meilleure pendant un certain temps. Elle n’est pas restreinte dans ses decks et possède des golds skills utiles. Son seul défaut potentiel est ses bonus de croissance, surtout le 10% Guts. Mais en dehors de ça, elle est excellente.
  
 C’est une bonne uma à pull, mais elle n’est pas un Must Pull.
 
@@ -1498,7 +1498,7 @@ C’est une bonne uma à pull, mais elle n’est pas un Must Pull.
 
 _Yamanin Zephyr est une Pace Chaser pour le Mile (1 gold) et le Medium. Avec de l’inspiration, elle peut courir en Sprint, en tant que Late Surger, mais surtout en Dirt (respectivement 1 :star:, 4 :star: et 7 :star:). Elle possède 2 gold de vélocité, un pour le Mile et l’autre de Pace Chaser. Son unique est un faible boost d’accélération de longue durée de seconde moitié du Final Corner._
  
-- Yaminin Zephyr possède 3 bonus de croissances : 10% en :speed:, 10% en :guts: et 10% en :wit:. C’est un combo correct en Mile mais moyen en Medium. Elle se joue principalement avec des decks 2 Speed / 2 Wit et une carte Power ou Guts / Stamina en Flex en fonction de la distance.
+- Yaminin Zephyr possède 3 bonus de croissance : 10% en :speed:, 10% en :guts: et 10% en :wit:. C’est un combo correct en Mile mais moyen en Medium. Elle se joue principalement avec des decks 2 Speed / 2 Wit et une carte Power ou Guts / Stamina en Flex en fonction de la distance.
  
 - Ses gold skills sont :
  
@@ -1519,7 +1519,7 @@ La durée de l’unique fait que ce n’est pas un problème si l’unique s’a
 
 Seulement si elle est votre Oshi (je ne pense pas qu’il y en est beaucoup qui l’ont)
  
-C’est une uma qui n’a basiquement pas d’unique, et qui peut se faire restreindre son gold skill le plus puissant en fonction de vos adversaires. Même son combo de bonus de croissances est au mieux correct. Elle n’a pas grand-chose pour elle.
+C’est une uma qui n’a basiquement pas d’unique, et qui peut se faire restreindre son gold skill le plus puissant en fonction de vos adversaires. Même son combo de bonus de croissance est au mieux correct. Elle n’a pas grand-chose pour elle.
  
 Ne pullez pas Yamanin Zephyr, c’est une uma plutôt mauvaise.
 
@@ -1535,7 +1535,7 @@ Ne pullez pas Yamanin Zephyr, c’est une uma plutôt mauvaise.
 
 _Inari One (Festival) est une End Closer pour le Medium et le Long (1 gold) pour le Turf et le Dirt. Avec de l’inspiration, elle peut courir en Mile, en tant que Late Surger et en tant que Pace Chaser (1 :star: nécessaire pour les 3). Elle possède un gold de vélocité pour le Long et un gold d’accélération d’End Closer. Son unique est un boost de vélocité de Final Straight._
  
-- Elle possède 3 bonus de croissances : 14% en :speed:, 8% en :power: et 8% en :wit:. C'est un excellent combo, bien que le bonus Stamina aurait pu être préféré vu qu’elle est principalement une uma Long. Elle utilisera des decks avec 2 Speed / 2 Wit + Super Creek et Light Hello dans la majorité des cas.
+- Elle possède 3 bonus de croissance : 14% en :speed:, 8% en :power: et 8% en :wit:. C'est un excellent combo, bien que le bonus Stamina aurait pu être préféré vu qu’elle est principalement une uma Long. Elle utilisera des decks avec 2 Speed / 2 Wit + Super Creek et Light Hello dans la majorité des cas.
  
 - Ses gold skills sont :
  
@@ -1554,7 +1554,7 @@ C’est un bon unique, bien que sa puissance maximale reste inférieure à des u
 
 _Tamamo Cross (Festival) est une uma pour le Medium (1 gold) et le Long. Elle peut courir parfaitement en tant que Pace Chaser, Late Surger et End Closer, bien que le premier soit sa stratégie principale dû à ses white skills innés et un de ses gold skill. Elle possède 2 gold skills de vélocité, le premier pour le Medium et le second est universel. Son unique est un boost de vélocité de Mid-Race._
  
-- Elle possède 3 bonus de croissances : 14% en :speed:, 8% en :stamina: et 8% en :guts:. C’est un combo sympa, bien qu’on aurait préféré un autre boost que Guts. Ses decks seront généralement 2 Speed + 2 Wit + Light Hello et un flex Stamina ou Power, si vous avez de bon parents Stamina (et que vous n'ayez pas besoin d'un gold de recovery ou que vous en prenez une carte Power qui en possède un).
+- Elle possède 3 bonus de croissance : 14% en :speed:, 8% en :stamina: et 8% en :guts:. C’est un combo sympa, bien qu’on aurait préféré un autre boost que Guts. Ses decks seront généralement 2 Speed + 2 Wit + Light Hello et un flex Stamina ou Power, si vous avez de bon parents Stamina (et que vous n'ayez pas besoin d'un gold de recovery ou que vous en prenez une carte Power qui en possède un).
  
 - Ses gold skills sont :
  
@@ -1592,7 +1592,7 @@ En dehors de la comparaison avec leur version OG, Inari One (Festival) et Tamamo
 
 _Nakayama Festa est une Pace Chaser et Late Surger pour le Medium. Avec de l’inspiration, elle peut courir en Long et en Mile, mais aussi en tant qu’End Closer (respectivement 1 :star:, 4 :star: et 7 :star:). Elle possède un gold skill de vélocité universelle et un gold green de Speed, Power et Guts. Son unique est un boost de vélocité s’activant à partir des 400 derniers mètres._
  
-- Elle possède 3 bonus de croissances : 10% en :speed:, 10% en :stamina: et 10% en :power:. C’est un excellent combo de bonus, probablement le meilleur quand une uma possède 3 bonus de croissances. Elle utilisera des decks basiques.
+- Elle possède 3 bonus de croissance : 10% en :speed:, 10% en :stamina: et 10% en :power:. C’est un excellent combo de bonus, probablement le meilleur quand une uma possède 3 bonus de croissance. Elle utilisera des decks basiques.
  
 - Ses gold skills sont :
  
@@ -1632,7 +1632,7 @@ Si vous maîtrisez la mécanique, il est possible de l’utiliser en tant que Pa
 
 _Wonder Acute est une Pace Chaser pour le Mile et Medium Dirt. Avec de l’inspiration, elle peut courir en Sprint, mais aussi en tant que Front Runner et Late Surger (respectivement 7 :star: et 4 :star: pour les 2 derniers). Elle possède 2 gold de vélocité, un pour le Mile et l’autre pour le Dirt. Son unique est un boost de vélocité qui s’active à 300 mètres de la ligne d’arrivée._
  
-- Elle possède 2 bonus de croissances : 15% en :guts: et 15% en :wit:. C’est un combo plutôt mauvais. Elle utilisera des decks à base de 3 Speed.
+- Elle possède 2 bonus de croissance : 15% en :guts: et 15% en :wit:. C’est un combo plutôt mauvais. Elle utilisera des decks à base de 3 Speed.
  
 - Ses gold skills sont :
  
@@ -1649,8 +1649,62 @@ L’unique amélioré peut être difficile à activer à certain moment, mais s�
 
 Si elle est votre Oshi, ou que vous avez besoin d’une bonne uma Dirt.
  
-Wonder Acute est une bonne uma Dirt. Son seul réel défaut est son combo de bonus de croissances. Autrement, elle est plutôt forte. Il n’y a pas grand-chose de plus à dire sur elle.
+Wonder Acute est une bonne uma Dirt. Son seul réel défaut est son combo de bonus de croissance. Autrement, elle est plutôt forte. Il n’y a pas grand-chose de plus à dire sur elle.
 
 Prenez-là si elle est votre Oshi ou que vous voulez compléter votre équipe Dirt.
+
+:::
+
+## #65 - Daiwa Scarlet (Christmas) & Vodka (Christmas) ★★★
+
+![Image de présentation de la bannière Daiwa Scarlet (Christmas) & Vodka (Christmas)](/public/assets/Gacha-reviews/2026/065_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Daiwa Scarlet (Christmas)** :
+
+_Daiwa Scarlet (Christmas) est une Front Runner pour le Long. Elle peut aussi courir parfaitement en tant que Pace Chaser et en Medium. Avec de l’inspiration, elle peut courir en Mile (1 :star:). Elle possède un gold de recovery de Front Runner et un gold de vélocité de Front Runner. Son unique est un boost de vélocité s’activant sur une ligne droite après 50% de la course._
+ 
+- Elle possède 2 bonus de croissance : 20% en :speed: et 10 % en :wit:. C’est un bon combo de bonus, surtout le 20% en Speed, qui est l’un des meilleurs bonus à avoir pour pouvoir utiliser seulement 2 cartes Speed. En termes de deck, si vous avez de bons parents Stamina, il devrait être possible de la jouer avec une carte Power sur les CM Long assez court comme le Nakayama 2500m grâce à son gold de recovery. Le plus simple reste d'utiliser une carte Stamina. Dans le futur en Long, quand on aura les skills roses, on utilisera forcément une carte Stamina pour remplacer son gold de recovery que l’on va transformer en un boost de vélocité + accélération.
+ 
+- Ses gold skills sont :
+ 
+    - **Restless**, la gold version de _Moxie_. C’est un gold recovery de Front Runner qui s’active sur la première côte possible après les 10 premières secondes de course. Le skill est très fiable en Long, et marche la plupart du temps en Medium. En Sprint et en Mile, c'est plus variable.
+    >L’une de ses évolutions transformera le skill en un boost de vélocité et un boost d’accélération.
+ 
+    - **Can’t Even Catch My Shadow**, la gold version de _Firm Resolve_. C’est un gold de vélocité de Front Runner, s’activant sur le Final Straight, si l’uma est en 1ère position et qu’il y est une uma derrière elle avec un écart maximal de 1L (=2,5m).<br>
+    Le skill est est puissant quand il s'active, surtout en termes de valeur. C'est un skill qui permet de sécuriser la victoire pour la Front Runner en 1ère position.
+ 
+- Le choix de son premier Costume Event affectera le résultat du deuxième. Si vous prenez le premier choix, vous aurez la possibilité de recevoir de la Speed, de la Stamina et potentiellement des hints de _Corner Recovery_. Le second choix vous offre la possibilité de recevoir du Wit, du Guts et potentiellement des hints pour _Front Runner Corners_.
+ 
+- Son unique, Queen’s Lumination, est un boost de vélocité ayant une durée accrue mais de puissance réduite, cependant il possède une variation de puissance. L’unique s’active dans une ligne droite sur la seconde moitié de la course si elle est dans le top 2. La variation puissante s’active si Daiwa Scarlet est en première place et qu’il y est une uma derrière elle avec un écart maximal de 1L (=2,5m).<br>
+La version puissante de l’unique est basiquement une version avec une meilleur valeur de son gold skill **Can’t Even Catch My Shadow**, qui peut s’activer en Mid-Race. L’unique n’est pas surpuissant mais il est intéressant pour une Front Runner, car c’est rare pour eux d’avoir un unique avec une durée accrue (seul Smart Falcon (Grand Concert) a un unique à durée accrue).
+
+⏩ **Vodka (Chritsmas)** :
+
+_Vodka (Christmas) est une Late Surger pour le Mile et le Medium. Avec de l’inspiration, elle peut courir en tant que Pace Chacer et Front Runner (respectivement 1 :star: et 4 :star:). Elle possède un gold d’accélération universel et un gold de vélocité de Late Surger. Son unique est un boost de vélocité s’activant en sortant d’une descente._
+ 
+- Elle possède 2 bonus de croissance : 20% en :speed: et 10% en :guts:. C’est un combo correct car le 20% en Speed est toujours très sympa, mais il est moins bon que celui de sa forme OG. Elle utiilsera des decks à base de 2 cartes Speed.
+ 
+- Ses gold skills sont :
+ 
+    - **No Stopping Me !**, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant en Late Race si votre uma a assez de HP pour finir la course, et qu'une uma adverse se trouve devant elle (en face, ou sur une voie adjacente) pendant 1 seconde. C’est un très bon skill universel (sauf pour les Front Runner).
+ 
+    - **Top Gear**, la gold version de _Pedal to the Metal_. C’est un gold de vélocité de Late Surger, s’activant s'activant sur le Final Straight si elle n’est pas en première place et qu’il y a un écart maximal de 10 mètres entre l’utilisatrice et la première place.<br>
+    Le skill est est excellent, surtout en termes de valeur.
+ 
+- Elle possède 2 Secret Event intéressants. Le premier vous donne 25 en Speed, Power, Stamina et Skill Points et des hints pour _All I’ve Got_, _Slick Surge_ et _Pedal to the Metal_ si elle gagne toutes les courses de sa carrière (sauf Hanshin Juneviles Fillies, Japanese Derby, Victoria Mile et Yasuda Kinen). Il faudra aussi qu’elle gagne Queen Elizabeth II (Classic), Osaka Hai et Arima Kinen (Senior).<br>
+Le second vous donne +3 dans toutes les stats, 20 en Power et 65 Skills Points en plus d’un hint pour _Nimble Navigator_. Le premier peut être compliqué à atteindre, mais le deuxième est rentable.
+ 
+- Son unique, Into High Gear !, est un boost de vélocité s’activant en sortant d’une descente. C’est un unique avec une durée réduite. Avant de s’activer, Vodka (Christmas) aura besoin d’être entre le top 80% et le bottom 50% (≥5 <-> 8≤) dans une descente du Mid-Race. Ensuite, l’unique s’active dès qu’elle sort de la descente, que ce soit pour du plat ou une montée.<br>
+L’unique devient plus puissant sur l’hippodrome de Tokyo. Il gagne en durée de base mais aussi un boost d’accélération. Le boost d’accélération est inutile car l’unique s’activera en Mid-Race sur cet hippodrome.
+
+#### Pull ou pas ? :
+
+Si elles sont vos Oshi, oui. La star de la bannière est Daiwa Scarlet, bien qu’elle ne soit pas aussi forte que Kitasan Black pour le Long.
+ 
+Daiwa Scarlet (Christmas) est bien meilleur que sa version OG. Premièrement, tout son kit est fait pour être une Front Runner, comparé à la version OG qui été mixte avec le fait d’être une Pace Chaser. Elle est principalement une uma Long, mais elle est utilisable en Medium. Elle n’est pas aussi forte qu’est le monstre Kitasan Black car être en première place est encore plus importante pour elle, pour utiliser parfaitement sa puissance. C’est globalement une excellente Alt, meilleure en tout point que sa version OG.
+ 
+Vodka (Christmas) est dans une moins bonne position comparée à Daiwa Scarlet. Son Alt n’est pas forcément supérieur à sa version OG. En termes de gold skill et de white skill, elle est meilleure. Mais en dehors de ça, elle est inférieure à sa version OG, sauf sur le Racetrack de Tokyo, où son unique en Mid-Race peut-être plus sympa. Désolé pour les Oshi de Vodka (Volture), mais faut espérer qu’une autre alt sorte pour voir une potentielle amélioration.
 
 :::
