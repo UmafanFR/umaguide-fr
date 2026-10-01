@@ -139,7 +139,7 @@ Ne pullez pas sur cette bannière, elle n'en vaut pas la peine dès que le proch
 
 ---
 
-# Bannières à suivre (8 Octobre 00h, c'est une estimation)  
+# Bannières à suivre (15 Octobre 00h)  
 
 ![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/067_Banners_early_preview.jpg)
 
