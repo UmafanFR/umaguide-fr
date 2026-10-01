@@ -1708,3 +1708,45 @@ Daiwa Scarlet (Christmas) est bien meilleur que sa version OG. Premièrement, to
 Vodka (Christmas) est dans une moins bonne position comparée à Daiwa Scarlet. Son Alt n’est pas forcément supérieur à sa version OG. En termes de gold skill et de white skill, elle est meilleure. Mais en dehors de ça, elle est inférieure à sa version OG, sauf sur le Racetrack de Tokyo, où son unique en Mid-Race peut-être plus sympa. Désolé pour les Oshi de Vodka (Volture), mais faut espérer qu’une autre alt sorte pour voir une potentielle amélioration.
 
 :::
+
+## #66 - Zenno Rob Roy ★★★
+
+![Image de présentation de la bannière Zenno Rob Roy](/public/assets/Gacha-reviews/2026/066_Uma-Banner.png)
+
+:::: details REVIEW
+
+⏩ **Zenno Rob Roy** :
+
+_Zenno Rob Roy est une Pace Chaser Medium et Long. Elle peut aussi courir parfaitement en tant que Late Surger. Elle possède un gold de recovery de Pace Chaser et un gold de vélocité pour le Medium. Son unique est un boost de vélocité s’activant à exactement 400 mètres de l'arrivé._
+ 
+- Elle possède 2 bonus de croissance : 10% en :stamina: et 20% en :wit:. C’est un combo correct. Elle utilisera des decks classiques à base de 3 cartes Speed, et elle préférera généralement des parents Power.
+ 
+- Ses gold skills sont :
+ 
+    - **Race Planner** est la gold version de _Preferred Position_. C’est un gold recovery pour Pace Chaser qui s’active en Mid-Race en étant top 50%.<br>
+    C’est un très bon heal.
+
+    - **Refraction Arc**, la gold version de _Medium Corners_. C’est un gold de vélocité pour le Medium qui s’active dans un corner aléatoire.<br>
+    C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur Medium Corners. Le fait que l’écart de puissance entre sa version white est inférieur à la majorité des autres skills de vélocité est un autre petit défaut.
+ 
+- Son unique, _**Raise My Soul’s Blade !**_, est un boost de vélocité ayant une variation de puissance. L’unique s’active à exactement 400 mètres de l'arrivée, si elle est dans le top 40% (≤4). Si les 400 derniers mètres ne se trouvent pas en Late-Race ou Last-Spurt, l’unique ne s’activera pas.<br>
+La version plus puissante de l’unique s’active si la course est une G1 et que Zenno Rob Roy se trouve dans le top 3 en popularité.<br>
+C’est un bon unique, bien que la version puissante puisse être plus dur à activé en PVP.
+ 
+::: tip Potentiel en tant que parent et grand-parent
+ 
+Elle peut être utilisée en tant que parent ou grand-parent pour les Pace Chasers, mais surtout pour les Front Runner, où elle devient très intéressante.
+
+:::
+
+#### Pull ou pas ? :
+
+Seulement si elle est votre Oshi.
+ 
+Zenno Rob Roy est une bonne uma, bien que plutôt basique et une uma qui à la possibilité d’être utilisé en tant que parent ou grand-parent. Elle sera mieux utilisée en l’empruntant en tant que grand-parent.
+
+Elle possède aussi l’un des plus beau unique, à mon humble avis, si cela peut jouer en sa faveur.
+
+Ce n’est pas une bannière à pull.
+
+::::
