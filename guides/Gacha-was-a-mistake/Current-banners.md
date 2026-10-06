@@ -156,13 +156,13 @@ _Narita Brian (Blaze) est une Pace Chaser pour le Long. Elle peut aussi courir p
     - **Hot Pursuit**, la gold version de _Latch On_. C’est un gold de vélocité pour Pace Chaser / Late Surger, qui s’active en seconde moitié de course si l’utilisatrice entreprends de tenter un dépassement.<br>
     C’est un bon gold skill basique, qui a le potentiel de créer du carry-over.
  
-    - **Beast Mode**, la gold version de _My True Strength_. C’est un gold d’accélération de Pace Chaser pour le Long. Afin de s’activer, l’utilisatrice aura besoin qu’en Mid-Race, plus précisément à partir de 60% de course parcouru, qu’elle soit à un maximum de 10 mètres de la première place. Le skill s’active alors en Late-Race.<br>
-    C’est un skill surpuissant, nécessaire pour les Pace Chasers afin d’égaler les autres stratrégies en Long. Il est techniquement possible de le faire échouer avec un grand nombre de Front Runner ou une Runaway et des Front Runner, mais c’est un risque faible.
+    - **Beast Mode**, la gold version de _My True Strength_. C’est un gold d’accélération de Pace Chaser pour le Long. Afin de s’activer, l’utilisatrice aura besoin qu’à l'approche du Late-Race elle soit à un maximum de 10 mètres (soit 4 longueurs) de la première place. Le skill s’active alors immédiatement en Late-Race.<br>
+    C'est un skill absolument fondamental pour les Pace Chasers afin d’égaler les autres stratrégies en Long. Il est techniquement possible de le faire échouer avec un grand nombre de Front Runner ou une Runaway et des Front Runner, mais c’est un risque faible.
  
 - Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chance de le recevoir par carrière.
  
-- Son unique, _**Free From the Ashes**_, est un boost de vélocité ayant 2 variations de puissance. Avant de s’activer, Narita Brian (Blaze) aura besoin d’être bloquée sur le côté pendant 2 secondes en Mid-Race. Ensuite, l’unique s’active en seconde moitié du Final Corner, s’il se trouve en Late-Race ou Last Spurt, et que Narita Brian (Blaze) soit dans le top 40% (≤4 en CM).<br>
-La variation plus puissante s’active seulement dans les courses Long. Le boost est bien plus puissant, c’est un unique qui est plus puissant que les gros uniques comme _**Triumphant Pulse**_ ou _**Behold Thine Emperor’s Divine Might**_ pour exemple. Cependant, cette variation n’existe pas sur la version hérité de l’unique, elle n’est donc pas un bon parent comme on aurait pu l’espérer<br>
+- Son unique, _**Free From the Ashes**_, est un boost de vélocité ayant 2 variations de puissance. L’unique s’active en seconde moitié du Final Corner, s’il se trouve en Late-Race ou Last Spurt, et que Narita Brian (Blaze) soit dans le top 40% (≤4 en CM).<br>
+La variation plus puissante s’active seulement dans les courses Long et si elle a été contestée sur le côté pendant 2 secondes en Mid-Race. Le boost est bien plus puissant, c’est un unique qui est plus puissant que les gros uniques comme _**Triumphant Pulse**_ ou _**Behold Thine Emperor’s Divine Might**_ pour exemple. Cependant, cette variation n’existe pas sur la version hérité de l’unique, elle n’est donc pas un bon parent comme on aurait pu l’espérer<br>
 L’unique est surpuissant pour une uma dont sa distance principale est le Long, c’est le meilleur unique de vélocité pour cette distance.
 
 #### Pull ou pas ? :
@@ -183,11 +183,12 @@ C’est une uma META pour le Long. C’est l’une des rares uma que l’on va v
  
 - Son Unique Effect lui donne 2 Skill Points Bonus quand sa jauge est à 80 (orange)
  
-- Ses rainbows sont plutôt faibles avec son faible Friendship Bonus et Special Priority. Son cross-training est plutôt bon avec son bon Training Effectiveness mais surtout les Stats Bonus.
+- Ses rainbows sont plutôt faibles avec son faible Friendship Bonus et Special Priority. Mais son cross-training est plutôt bon avec son bon Training Effectiveness et surtout les Stats Bonus (dont les 2 Skill Point Bonus, qui deviendront la base des bonnes cartes).
  
 - Elle propose une liste de 9 hints❗, principalement pour le Mile. Elle possède Hint Levels et Hint Frequency, ses hints seront sympas.
  
-- Son gold skill est **Ambitious Breeze**, la gold version de _Aspire_. C’est un gold de vélocité de Pace Chaser, s’activant en Mid-Race, à partir de 60% de la course parcouru, si l’uma n’est pas en 1ère place et que l’écart avec l’uma en 1ère place ne dépasse pas 5 mètres.
+- Son gold skill est **Ambitious Breeze**, la gold version de _Aspire_. C’est un gold de vélocité de Pace Chaser, s’activant en Mid-Race, à l'approche du Late-Race, si l’uma n’est pas en 1ère place, et qu'elle est à moins de 5 mètres de la uma en première position.<br>
+Le skill possède les mêmes valeurs que Daring Strike, une forte duration pour une puissance affaibli comparé aux autres skills de vélocité, ce qui est excellent pour le gold skill, mais horrible pour le white skill. Il est cependant moins bon que ce dernier car dans des courses avec une Runaway et une Front ou plusieurs Front Runners, le skill peut ne pas s’activer. Sinon, le skill garanti du carry-over quand il s'active.
 
 ⏩**T.M Opera O** :stamina: :sr:
 
@@ -195,11 +196,11 @@ C’est une uma META pour le Long. C’est l’une des rares uma que l’on va v
  
 - Son Unique Effect lui donne 10 de Friendship Training et un Stamina Bonus. Cela fait que son Friendship Bonus monte à 43%, le plus haut pour une carte Stamina SR.
  
-- Ses rainbows sont très puissants malgré un Special Priority faible grâce à son excellent Friendship Bonus et ses Stamina Bonus. Ses rainbows sont aussi puissants que ceux de Super Creek Stamina SSR, bien que moins fréquents. En contrepartie, son cross-training est inexistant.
+- Ses rainbows sont très puissants, malgré un Special Priority faible, grâce à son excellent Friendship Bonus et ses Stamina Bonus. Ses rainbows sont aussi puissants que ceux de Super Creek Stamina SSR, bien que moins fréquents. En contrepartie, son cross-training est inexistant.
  
-- Elle propose une liste de 10 hints❗, tous bons bien que peux focaliser sur une distance ou stratégie.
+- Elle propose une liste de 10 hints❗, tous désirables, bien que peu focalisés sur une distance ou stratégie.
  
-- Son dernier Chain Event nous permet de soit prendre 15 Bond, soit de prendre un hint pour _Preferred Position_ et 15 Stamina.
+- Son dernier Chain Event nous permet de soit prendre 15 Bond et d'un Mood Up, soit de prendre un hint pour _Preferred Position_ et 15 Stamina.
 
 #### PULL OU PAS
 
