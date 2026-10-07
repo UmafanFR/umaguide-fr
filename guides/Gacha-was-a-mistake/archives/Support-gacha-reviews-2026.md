@@ -1650,3 +1650,29 @@ Narita Brian Power SSR est une bonne carte, surtout grâce à son Unique Effect 
 Ne pullez pas sur cette bannière, au mieux empruntez Narita Brian Power SSR.
 
 :::
+
+## #66 - Mayano Top Gun Speed SSR & Light Hello Pal SSR (rerun)
+
+![Image de présentation de la bannière Mayano Top Gun Speed SSR & Light Hello Pal SSR (rerun)](/public/assets/Gacha-reviews/2026/066_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Mayano Top Gun** :speed: :SSR:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_28-mayano-top-gun-speed-ssr-narita-taishin-wits-ssr-rerun)
+
+⏩**Light Hello** :friends: :ssr:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_55-agnes-tachyon-speed-ssr-light-hello-pal-ssr)
+
+#### PULL OU PAS
+
+NON.
+ 
+Mayano Top Gun Speed SSR peut avoir une utilité en tant qu'emprunt pour les Front Runner dans les courses Long, mais elle n'est plus du tout au niveau des autres cartes Speed bien plus puissante qu'elle. Cela serait un gachis de pull pour elle, surtout que les prblèmes de stamina seront réglés dans les prochains scénario. Si vous voulez la jouer, empruntez la.
+ 
+Light Hello Pal SSR ne sera utilisé que pendant Grand Concert, qui se termine dans environ 2 mois, voir moins. Il est déjà trop tard de pull pour elle. Elle aussi, le meilleur moyen de l'utiliser c'est de l'emprunter
+ 
+Ne pullez pas sur cette bannière, elle n'en vaut pas la peine dès que le prochain scénario sort.
+
+:::
