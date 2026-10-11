@@ -1750,3 +1750,41 @@ Elle possède aussi l’un des plus beau unique, à mon humble avis, si cela peu
 Ce n’est pas une bannière à pull.
 
 ::::
+
+## #67 - Narita Brian (Blaze) ★★★
+
+![Image de présentation de la bannière Narita Brian (Blaze)](/public/assets/Gacha-reviews/2026/067_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Narita Brian (Blaze)** :
+
+_Narita Brian (Blaze) est une Pace Chaser pour le Long. Elle peut aussi courir parfaitement en Medium et en tant que Late Surger. Avec de l’inspiration, elle peut courir en Mile et en tant qu’End Closer (respectivement 1 :star: et 7 :star:). Elle possède un gold de vélocité de Pace Chaser / Late Surger et un gold d’accélération de Pace Chaser pour le Long. Son unique est un boost de vélocité de seconde moitié de Final Corner._
+ 
+- Elle possède 3 bonus de croissance : 10% en :speed:, 10% en :stamina: et 10% en :guts:. C’est un bon combo de bonus, surtout le Speed et le Stamina pour une uma Long. Il est possible de la jouer avec 2 cartes Speed si elles sont META.
+ 
+- Ses gold skills sont :
+ 
+    - **Hot Pursuit**, la gold version de _Latch On_. C’est un gold de vélocité pour Pace Chaser / Late Surger, qui s’active en seconde moitié de course si l’utilisatrice entreprends de tenter un dépassement.<br>
+    C’est un bon gold skill basique, qui a le potentiel de créer du carry-over.
+ 
+    - **Beast Mode**, la gold version de _My True Strength_. C’est un gold d’accélération de Pace Chaser pour le Long. Afin de s’activer, l’utilisatrice aura besoin qu’à l'approche du Late-Race elle soit à un maximum de 10 mètres (soit 4 longueurs) de la première place. Le skill s’active alors immédiatement en Late-Race.<br>
+    C'est un skill absolument fondamental pour les Pace Chasers afin d’égaler les autres stratrégies en Long. Il est techniquement possible de le faire échouer avec un grand nombre de Front Runner ou une Runaway et des Front Runner, mais c’est un risque faible.
+ 
+- Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chance de le recevoir par carrière.
+ 
+- Son unique, _**Free From the Ashes**_, est un boost de vélocité ayant 2 variations de puissance. L’unique s’active en seconde moitié du Final Corner, s’il se trouve en Late-Race ou Last Spurt, et que Narita Brian (Blaze) soit dans le top 40% (≤4 en CM).<br>
+La variation plus puissante s’active seulement dans les courses Long et si elle a été contestée sur le côté pendant 2 secondes en Mid-Race. Le boost est bien plus puissant, c’est un unique qui est plus puissant que les gros uniques comme _**Triumphant Pulse**_ ou _**Behold Thine Emperor’s Divine Might**_ pour exemple. Cependant, cette variation n’existe pas sur la version hérité de l’unique, elle n’est donc pas un bon parent comme on aurait pu l’espérer<br>
+L’unique est surpuissant pour une uma dont sa distance principale est le Long, c’est le meilleur unique de vélocité pour cette distance.
+
+#### Pull ou pas ? :
+
+Oui, surtout si elle est votre Oshi.
+ 
+Narita Brian (Blaze) est la meilleure Pace Chaser pour le Long pendant un bon moment. Elle est tellement forte, qu’elle n’a pour l’instant que peu de compétition en Long, et il faudra atteindre une certaine Late Surger tout aussi forte pour la challenger.
+ 
+Son seul micro-défaut serait le 10% en Guts, qui garde un peu d’utilité vu qu’elle aura besoin d’une carte Stamina pour un gold de recovery.Le meilleur choix est pour l’instant Super Creek, mais on aura bientôt une Mejiro McQueen Stamina qui possède un meilleur gold pour le Long, qui sera un bon emprunt.
+ 
+C’est une uma META pour le Long. C’est l’une des rares uma que l’on va vous conseiller de pull.
+
+:::
