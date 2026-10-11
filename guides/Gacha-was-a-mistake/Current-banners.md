@@ -1,5 +1,5 @@
 ---
-title: Gacha - Zenno Rob Roy ★★★ // Mayano Top Gun Speed SSR & Light Hello Pal SSR (rerun)
+title: Gacha - Narita Brian (Blaze) ★★★ // Yamanin Zephyr Guts SSR & T.M Opera O Stamina SR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/066_Banners_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/067_Banners_early_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -75,75 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Zenno Rob Roy ★★★
+### Bannière Umamusume : Narita Brian (Blaze) ★★★
 
-![Image de présentation de la bannière Zenno Rob Roy](/public/assets/Gacha-reviews/2026/066_Uma-Banner.png)
-
-⏩ **Zenno Rob Roy** :
-
-_Zenno Rob Roy est une Pace Chaser Medium et Long. Elle peut aussi courir parfaitement en tant que Late Surger. Elle possède un gold de recovery de Pace Chaser et un gold de vélocité pour le Medium. Son unique est un boost de vélocité s’activant à exactement 400 mètres de l'arrivé._
- 
-- Elle possède 2 bonus de croissance : 10% en :stamina: et 20% en :wit:. C’est un combo correct. Elle utilisera des decks classiques à base de 3 cartes Speed, et elle préférera généralement des parents Power.
- 
-- Ses gold skills sont :
- 
-    - **Race Planner** est la gold version de _Preferred Position_. C’est un gold recovery pour Pace Chaser qui s’active en Mid-Race en étant top 50%.<br>
-    C’est un très bon heal.
-
-    - **Refraction Arc**, la gold version de _Medium Corners_. C’est un gold de vélocité pour le Medium qui s’active dans un corner aléatoire.<br>
-    C’est un bon skill. Son coût peut cependant être élevé si vous n’avez pas de hints sur Medium Corners. Le fait que l’écart de puissance entre sa version white est inférieur à la majorité des autres skills de vélocité est un autre petit défaut.
- 
-- Son unique, _**Raise My Soul’s Blade !**_, est un boost de vélocité ayant une variation de puissance. L’unique s’active à exactement 400 mètres de l'arrivée, si elle est dans le top 40% (≤4). Si les 400 derniers mètres ne se trouvent pas en Late-Race ou Last-Spurt, l’unique ne s’activera pas.<br>
-La version plus puissante de l’unique s’active si la course est une G1 et que Zenno Rob Roy se trouve dans le top 3 en popularité.<br>
-C’est un bon unique, bien que la version puissante puisse être plus dur à activé en PVP.
- 
-::: tip Potentiel en tant que parent et grand-parent
- 
-Elle peut être utilisée en tant que parent ou grand-parent pour les Pace Chasers, mais surtout pour les Front Runner, où elle devient très intéressante.
-
-:::
-
-#### Pull ou pas ? :
-
-Seulement si elle est votre Oshi.
- 
-Zenno Rob Roy est une bonne uma, bien que plutôt basique et une uma qui à la possibilité d’être utilisé en tant que parent ou grand-parent. Elle sera mieux utilisée en l’empruntant en tant que grand-parent.
-
-Elle possède aussi l’un des plus beau unique, à mon humble avis, si cela peut jouer en sa faveur.
-
-Ce n’est pas une bannière à pull.
-
----
-
-### Bannière support : Mayano Top Gun Speed SSR & Light Hello Pal SSR (rerun)
-
-![Image de présentation de la bannière Mayano Top Gun Speed SSR & Light Hello Pal SSR (rerun)](/public/assets/Gacha-reviews/2026/066_Card-Banner.png)
-
-⏩**Mayano Top Gun** :speed: :SSR:
-
-[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_28-mayano-top-gun-speed-ssr-narita-taishin-wits-ssr-rerun)
-
-⏩**Light Hello** :friends: :ssr:
-
-[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_55-agnes-tachyon-speed-ssr-light-hello-pal-ssr)
-
-#### PULL OU PAS
-
-NON.
- 
-Mayano Top Gun Speed SSR peut avoir une utilité en tant qu'emprunt pour les Front Runner dans les courses Long, mais elle n'est plus du tout au niveau des autres cartes Speed bien plus puissante qu'elle. Cela serait un gachis de pull pour elle, surtout que les prblèmes de stamina seront réglés dans les prochains scénario. Si vous voulez la jouer, empruntez la.
- 
-Light Hello Pal SSR ne sera utilisé que pendant Grand Concert, qui se termine dans environ 2 mois, voir moins. Il est déjà trop tard de pull pour elle. Elle aussi, le meilleur moyen de l'utiliser c'est de l'emprunter
- 
-Ne pullez pas sur cette bannière, elle n'en vaut pas la peine dès que le prochain scénario sort.
-
----
-
-# Bannières à suivre (15 Octobre 00h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/067_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Narita Brian (Blaze) ★★★
+![Image de présentation de la bannière Narita Brian (Blaze)](/public/assets/Gacha-reviews/2026/067_Uma-Banner.png)
 
 ⏩ **Narita Brian (Blaze)** :
 
@@ -175,7 +109,11 @@ Son seul micro-défaut serait le 10% en Guts, qui garde un peu d’utilité vu q
  
 C’est une uma META pour le Long. C’est l’une des rares uma que l’on va vous conseiller de pull.
 
-### Bannière Support à suivre : Yamanin Zephyr Guts SSR & T.M Opera O Stamina SR
+---
+
+### Bannière support : Yamanin Zephyr Guts SSR & T.M Opera O Stamina SR
+
+![Image de présentation de la bannière Yamanin Zephyr Guts SSR & T.M Opera O Stamina SR](/public/assets/Gacha-reviews/2026/067_Card-Banner.png)
 
 ⏩**Yamanin Zephyr** :guts: :SSR:
 
@@ -211,6 +149,114 @@ Yamanin Zephyr Guts SSR n’est pas assez forte et ne donne pas un gold assez ut
 TM Opera O Stamina SR, outre d’être une carte SR, elle n’est même pas la carte Stamina la plus forte des SR. Cela ne sert à rien de pull pour elle (et de pull tout simplement pour des cartes SR maintenant que Trackblazer est mort).
  
 Ne pullez pas sur cette bannière.
+
+---
+
+# Bannières à suivre (21 Octobre 00h)  
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/068_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Kitasan Black (New Year) & Satono Diamond (New Year) ★★★
+
+⏩ **Kitasan Black (New Year)** :
+
+_Kitasan Black (New Year) est une Front Runner pour le Medium et le Long. Avec de l’inspiration, elle peut courir en Mile, mais aussi en tant que Pace Chaser et Late Surger (respectivement 4 :star:, 1 :star: et 4 :star:). Elle possède un gold de vélocité et un gold d’accélération, tous les 2 de Front Runner. Son unique est un boost de Current Speed et d’accélération s’activant en Late-Race ou Last Spurt._
+ 
+- Elle possède 3 bonus de croissance : 10% en :speed:, 10% en :power: et 10% en :wit:. C’est selon mon avis, le meilleur combo de bonus possible pour 3 bonus de croissance. Son deck peut être assez flexible, et surtout elle n’aura  pas besoin de prendre la Mihono Bourbon Wit SSR gratuite (elle devra prendre celle qui sort pendant le prochain scénario).
+ 
+- Ses gold skills sont :
+ 
+    - **Escape Artist**, la gold version de _Fast-Paced_. C’est un gold de vélocité pour Front Runner, s’activant aléatoirement en Mid-Race si elle est dans le top 50%.<br>
+    C’est un bon skill de Mid-Race.
+ 
+    - **Taking the Lead**, la gold version d’_Early Lead_. C’est un gold d’accélération pour Front Runner. Il s’active dès le début de la course.<br>
+    C’est un très bon skill, les Front Runners ont besoin de beaucoup d’accélération au début de la course pour prendre la première place. Cela lui libère aussi le fait de devoir prendre Mihono Bourbon Wit pour soit prendre une meilleure stats stick ou un autre skill gold.
+ 
+- Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chances de le recevoir par carrière.
+ 
+- Deux de ses Secret Events sont liés à devenir une Triple Crown (Satsuki Sho / Tokyo Yushun / Kikuka Sho) (mais aussi de gagner Arima Kinen (Senior) pour l’un des deux). Cela veut dire faire 2 courses en plus. Vous recevrez un total de 16 dans toutes les stats, 99 Skill Points et des hints pour _Firm Resolve_, _Keeping the Lead_ et _Prudent Positioning_. Sans compter ce que gagner ses courses donnent de base.<br>
+C’est extrêmement rentable, surtout qu’elle possède aussi de base ou dans ses skills à éveillés _Dodging Danger_ et _Groundwork_.
+ 
+Son unique, _**Bring the Banquet !**_, est un boost de Current Speed et de faible accélération de duration réduite. L’unique s’active en Late-Race ou Last Spurt si Kitasan Black (New Year) se trouve dans un corner qui est à au moins 600 mètres de l'arrivée et qu’elle soit dans le top 3.<br>
+C’est un excellent unique, sauf en Sprint et certains Mile vu qu'il ne s’active pas. L’unique aura toujours de la valeur dû au fait que c’est un boost de Current Speed. Sur les courses où le Late-Race commence sur les 600 derniers mètres dans un corner, l’unique est parfait et surpuissant.<br>
+C’est aussi un bon unique à hérité pour les Front Runner et les Pace Chaser. Elle est un excellent parent.
+
+⏩ **Satono Diamond (New Year)** :
+
+_Satono Diamond (New Year) est une Late Surger pour le Long. Elle peut aussi courir parfaitement en Medium. Avec de l’inspiration, elle peut courir en Mile, mais aussi en tant que Pace Chaser et End Closer (respectivement 4 :star:, 1 :star: et 7 :star:). Elle possède un gold d’accélération de Late Surger et un gold hyrbide de debuff et de recovery, tous les 2 pour le Long. Son unique est hybride boost de vélocité et de recovery._
+ 
+- Elle possède 2 bonus de croissance : 15% en :speed: et 15% :stamina:. C’est un excellent combo, surtout pour le Long. Il sera possible de la jouer avec 2 cartes Speed et potentiellement pas de carte Stamina si vous utilisez des parents Stamina dans les Long de plus courtes distances.
+ 
+- Ses gold skills sont :
+    - **Claw Forward**, la gold version de _Scramble_. C’est un skill d’accélération de Late Surger pour le Long. Il s’active si l’uma rentre en Last Spurt Mode et qu’elle se trouve dans le bottom 60%. Le skill consomme de la stamina (plus qu’un white skill de recovery).<br>
+    C’est un skill obligatoire si vous voulez jouer des Late Surgers en Long. Sans ce skill, les Late Surgers resteront plus faibles que les autres stratégies.
+ 
+    - **Stamina Siphon**, la gold version de _Stamina Eater_. C'est un gold debuff de distance Long, qui réduit un peu les HP des uma devant elle, et lui restaure des HP.<br>
+    Ce n'est pas un très bon skill, car le stamina drain est trop faible (1 white debuff) et la recovery est moins forte qu'une gold recovery basique. Vous pouvez l'utiliser en pseudo-recovery si vous êtes proche de la stamina requise pour la course. Mais pour les courses les plus longues (Tenno Sho Spring et Kikuka Sho), on préfèrera une vraie gold recovery.
+ 
+- Son unique, _**Rain Cloud Bolt**_, est un boost hybride de vélocité et de recovery. L’unique s’active entre 40% et 50% de course parcouru si Satono Diamond (New Year) se trouve entre le top 80% et le bottom 60% (≥4 <-> ≤8, en CM).<br>
+C’est un bon unique, qui est facilement utilisable et très utile juste pour la recovery. Il n’est cependant pas utile en version héritée.
+
+#### Pull ou pas ? :
+
+Oui, surtout si Kitasan Black est votre Oshi.
+
+Narita Brian (Blaze) est une uma à pull ? Eh bien vous en aurez une 2ème à la suite avec Kitasan Black (New Year) qui est la star de cette bannière.
+ 
+Kitasan Black (New Year) possède un kit parfait, je ne pense pas avoir vu meilleur, même avec XOguri. C’est simple, il n’y a aucun défaut, et que des points incroyables, surtout quand on pense au futur. Premièrement, le meilleur combo de 3 bonus de croissance possible. Cela fait qu’elle est simple à build niveau stats.
+ 
+Niveau white skills, elle possède de base Dodging Danger et Groundwork. Et elle peut avoir Prudent Positioning et Firm Resolve avec ses Secrets Events. Elle possède tout les whites skills de Front Runner important.
+ 
+Les gold skills, c’est pareil. Elle possède Escape Artist, dont la version white skill, Fast Paced, reste l’un des skill le plus difficile à farm pour l’instant. Le fait d’avoir Taking the Lead, lui permet de prendre une meilleure statstick, mais aussi de pouvoir cumuler dans le futur, avec le gold de Groundwork qui sera donné par une autre Mihono Bourbon Wit.
+ 
+Finalement, son unique est surpuissant et aura toujours de la valeur. C’est une uma parfaite.
+ 
+Satono Diamond (New Year) n’est pas mauvaise, son combo de bonus, son unique et Claw Forward sont bons ou excellent. Mais en face de Kitasan Black (New Year), on peut voir une préférence. Un autre problème pour elle est le prochain scénario, où elle se fera powercreep par une autre Late Surger pour le Long.
+ 
+Un point positif est de ne pas avoir besoin de prendre Symboli Kris S Stamina SSR pour Claw Forward, ce qui lui laisse une liberté de choix. Son unique et Stamina Siphon est équivalent à un gold skill + white skill de recovery, donc si vous avez de bon parents Stamina, il serait possible de monter suffisamment Stamina avec une carte Power (Narita Brian Power SSR par exemple).
+ 
+C’est une uma qui est bonne, et qui possède une création de deck qui peut être intéressante, mais elle n’est pas un must pull comparé à Kitasan Black (New Year). Elle reste meilleure que sa version OG pour le Long.
+ 
+C’est une bonne bannière à pull
+
+### Bannière Support à suivre : Sweep Tosho Wit SSR & Special Week Stamina SSR
+
+⏩**Sweep Tosho** :wit: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus, puis Wit Bonus à 3LB et un second Wit Bonus à MLB.
+ 
+- Son Unique Effect lui donne 40 de Special Priority quand sa jauge est à 80 (orange). Cela fait que son Special Priority est en réalité plus élevé que ce que la carte montre. Elle possède 89 de Special Priority.
+ 
+- Bien que ses rainbows semblent bons avec son bon Friendship Bonus, Special Priority et Stats Bonus ; l’absence de Training Effectiveness les rends bien moins fort. Son cross-training est presque inexistant, il se repose sur un peu de Mood Effect et le Skill Point Bonus.
+ 
+- Elle propose une liste de 8 hints❗, principalement pour End Closer et le très bon _Slipstream_. Elle possède un super Hint Levels et Hint Frequency, ses hints seront puissants.
+ 
+- Son gold skill est **Razor-Sharp Steps**, la gold version de _Sharp Steps_. C’est un gold d’accélération d’End Closer. Avant de s’activer, l’utilisatrice aura besoin d’être en dehors du top 50% à partir de 2/3 de courses parcouru, et qu’elle n’est pas rush. Ensuite, le skill s’active aléatoirement en première moitié du Late-Race.<br>
+Plus la distance est courte, plus le skill gagnera en valeur, vu que la zone d’activation devient plus petite. Il se rapproche grandement de **Neck and Neck** et **On Your Left !**, en comparaison, bien qu’il soit un poil moins puissant dû à une duration plus faible. C’est un bon skill, qui permet aux End Closer d’être plus fiable dans les courses où Straightaway Spurt ne s’active pas bien.
+
+⏩**Special Week** :stamina: :ssr:
+
+- La carte est backloaded. A 1LB, elle débloque Guts Bonus, puis Training Effectiveness à 3LB.
+ 
+- Son Unique Effect lui donne 60 de Mood Effect pendant un Friendship Training (Rainbow)
+ 
+- Ses rainbows sont plutôt bons, malgré un faible Friendship Bonus et Special Piority, grâce à son Unique Effect et son Training Effect mais aussi ses Stats Bonus (Stamina Bonus, Guts Bonus, Skill Point Bonus). Elle donne moins de Stamina que Super Creek, mais plus de Guts et de Skill Points.<br>
+Son cross-training est juste correct vu qu’elle ne possède pas Mood Effect dans les autres entraînements. Elle est inférieure à Super Creek en cross-training.
+ 
+- Elle propose une liste de 10 hints❗, principalement pour le Medium, mais aussi le très utile _Nimble Navigator_. Elle possède un super Hint Levels et Hint Frequency, ses hints seront puissants.
+ 
+- Son gold skill est **No Stopping Me !**, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant en Late Race si votre uma a assez de HP pour finir la course, et qu'une uma adverse se trouve devant elle (en face, ou sur une voie adjacente) pendant 1 seconde.<br>
+C’est un très bon skill universel (sauf pour les Front Runner).
+
+#### PULL OU PAS
+
+Non, en revanche la Sweep Tosho est un bon emprunt.
+ 
+Sweep Tosho Wit SSR ne brille pas tant que statsticks, mais surtout pour son gold skill. Elle est à emprunter pour les End Closer. Elle n’est pas à pull car Mr. C.B est déjà la carte Wit principale pour les End Closer, mais surtout la meilleure des 2.
+ 
+Special Week Stamina SSR bien qu’elle ne soit pas mauvaise, elle sera rarement utilisée. Comme toujours, si on prend une carte Stamina, c’est principalement pour un gold de recovery, ou un autre skill META. **No Stopping Me !** est un excellent skill, mais il n’est pas aussi META et/ou important que l’est **Claw Forward** sur Symboli Kris S Stamina SSR par exemple. Son white, _Nimble Navigator_, est généralement suffisant avec les autres skills d’accélérations que vous prenez pour vos Aces. C’est une carte qui a peu de réelle utilité comparée à d’autres cartes Stamina.
+ 
+Ne pullez pas sur cette bannière, empruntez les cartes si vous en avez besoin.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
