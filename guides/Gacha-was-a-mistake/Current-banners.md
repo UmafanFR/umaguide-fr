@@ -175,7 +175,7 @@ _Kitasan Black (New Year) est une Front Runner pour le Medium et le Long. Avec d
 - Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chances de le recevoir par carrière.
  
 - Deux de ses Secret Events sont liés à devenir une Triple Crown (Satsuki Sho / Tokyo Yushun / Kikuka Sho) (mais aussi de gagner Arima Kinen (Senior) pour l’un des deux). Cela veut dire faire 2 courses en plus. Vous recevrez un total de 16 dans toutes les stats, 99 Skill Points et des hints pour _Firm Resolve_, _Keeping the Lead_ et _Prudent Positioning_. Sans compter ce que gagner ses courses donnent de base.<br>
-C’est extrêmement rentable, surtout qu’elle possède aussi de base, ou dans ses skills à éveillés _Dodging Danger_ et _Groundwork_.
+C’est extrêmement rentable, surtout qu’elle possède aussi de base, ou dans ses skills à éveillés, _Dodging Danger_ et _Groundwork_.
  
 Son unique, _**Bring the Banquet !**_, est un boost de Current Speed et de faible accélération de durée réduite. L’unique s’active en Late-Race ou Last Spurt si Kitasan Black (New Year) se trouve dans un corner qui est à au moins 600 mètres de l'arrivée et qu’elle est dans le top 3.<br>
 C’est un excellent unique, sauf en Sprint et certains Mile vu qu'il ne s’active pas. L’unique aura toujours de la valeur dû au fait que c’est un boost de Current Speed. Sur les courses où le Late-Race commence sur les 600 derniers mètres dans un corner, l’unique est parfait et surpuissant, car on bénificie de l'accélération en plus du boost de Current Speed. Les courses où son unique est parfait correspond à la grande majorité des courses Medium.<br>
