@@ -225,7 +225,7 @@ C’est une bonne bannière à pull
 
 - La carte est backloaded. A 1LB, elle débloque Skill Point Bonus, puis Wit Bonus à 3LB et un second Wit Bonus à MLB.
  
-- Son Unique Effect lui donne 40 de Special Priority quand sa jauge est à 80 (orange). Cela fait que son Special Priority est en réalité plus élevé que ce que la carte montre. Elle possède 89 de Special Priority.
+- Son Unique Effect lui donne 40 de Special Priority quand sa jauge est à 80 (orange). Cela fait que son Special Priority est en réalité plus élevé que ce que la carte et Gametora montre. Elle possède en réalité 89 de Special Priority.
  
 - Bien que ses rainbows semblent bons avec son bon Friendship Bonus, Special Priority et Stats Bonus, l’absence de Training Effectiveness les rends bien moins fort. Son cross-training est presque inexistant, il se repose sur un peu de Mood Effect et le Skill Point Bonus.
  
