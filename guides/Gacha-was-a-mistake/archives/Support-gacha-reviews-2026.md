@@ -1676,3 +1676,46 @@ Light Hello Pal SSR ne sera utilisé que pendant Grand Concert, qui se termine d
 Ne pullez pas sur cette bannière, elle n'en vaut pas la peine dès que le prochain scénario sort.
 
 :::
+
+## #67 - Yamanin Zephyr Guts SSR & T.M Opera O Stamina SR
+
+![Image de présentation de la bannière Yamanin Zephyr Guts SSR & T.M Opera O Stamina SR](/public/assets/Gacha-reviews/2026/067_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Yamanin Zephyr** :guts: :SSR:
+
+- La carte est frontloaded. A 1LB, elle débloque Speed Bonus puis Initial Speed à 3LB.
+ 
+- Son Unique Effect lui donne 2 Skill Points Bonus quand sa jauge est à 80 (orange)
+ 
+- Ses rainbows sont plutôt faibles avec son faible Friendship Bonus et Special Priority. Mais son cross-training est plutôt bon avec son bon Training Effectiveness et surtout les Stats Bonus (dont les 2 Skill Point Bonus, qui deviendront la base des bonnes cartes).
+ 
+- Elle propose une liste de 9 hints❗, principalement pour le Mile. Elle possède Hint Levels et Hint Frequency, ses hints seront sympas.
+ 
+- Son gold skill est **Ambitious Breeze**, la gold version de _Aspire_. C’est un gold de vélocité de Pace Chaser, s’activant en Mid-Race, à l'approche du Late-Race, si l’uma n’est pas en 1ère place, et qu'elle est à moins de 5 mètres de la uma en première position.<br>
+Le skill possède les mêmes valeurs que Daring Strike, une forte duration pour une puissance affaibli comparé aux autres skills de vélocité, ce qui est excellent pour le gold skill, mais horrible pour le white skill. Il est cependant moins bon que ce dernier car dans des courses avec une Runaway et une Front ou plusieurs Front Runners, le skill peut ne pas s’activer. Sinon, le skill garanti du carry-over quand il s'active.
+
+⏩**T.M Opera O** :stamina: :sr:
+
+- La carte est backloaded. A 1LB, elle débloque Race Bonus et Fans Bonus puis Stamina Bonus à MLB
+ 
+- Son Unique Effect lui donne 10 de Friendship Training et un Stamina Bonus. Cela fait que son Friendship Bonus monte à 43%, le plus haut pour une carte Stamina SR.
+ 
+- Ses rainbows sont très puissants, malgré un Special Priority faible, grâce à son excellent Friendship Bonus et ses Stamina Bonus. Ses rainbows sont aussi puissants que ceux de Super Creek Stamina SSR, bien que moins fréquents. En contrepartie, son cross-training est inexistant.
+ 
+- Elle propose une liste de 10 hints❗, tous désirables, bien que peu focalisés sur une distance ou stratégie.
+ 
+- Son dernier Chain Event nous permet de soit prendre 15 Bond et d'un Mood Up, soit de prendre un hint pour _Preferred Position_ et 15 Stamina.
+
+#### PULL OU PAS
+
+Non.
+ 
+Yamanin Zephyr Guts SSR n’est pas assez forte et ne donne pas un gold assez utile pour être pull, et tout simplement utilisé. En attendant Orfevre Guts SSR, les seuls Guts qu’on pourrait pull sont ceux qui ont un puissant gold skill. Elle n’en fait pas partie.
+ 
+TM Opera O Stamina SR, outre d’être une carte SR, elle n’est même pas la carte Stamina la plus forte des SR. Cela ne sert à rien de pull pour elle (et de pull tout simplement pour des cartes SR maintenant que Trackblazer est mort).
+ 
+Ne pullez pas sur cette bannière.
+
+:::
