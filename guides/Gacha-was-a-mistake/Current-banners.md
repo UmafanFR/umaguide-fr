@@ -1,5 +1,5 @@
 ---
-title: Gacha - Narita Brian (Blaze) ★★★ // Yamanin Zephyr Guts SSR & T.M Opera O Stamina SR
+title: Gacha - Kitasan Black (New Year) & Satono DIamond (New Year) ★★★ // Sweep Tosho Wit SSR & Special Week Stamina SSR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/067_Banners_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/068_Banners_early_preview.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -75,88 +75,9 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Narita Brian (Blaze) ★★★
+### Bannière Umamusume : Kitasan Black (New Year) & Satono DIamond (New Year) ★★★
 
-![Image de présentation de la bannière Narita Brian (Blaze)](/public/assets/Gacha-reviews/2026/067_Uma-Banner.png)
-
-⏩ **Narita Brian (Blaze)** :
-
-_Narita Brian (Blaze) est une Pace Chaser pour le Long. Elle peut aussi courir parfaitement en Medium et en tant que Late Surger. Avec de l’inspiration, elle peut courir en Mile et en tant qu’End Closer (respectivement 1 :star: et 7 :star:). Elle possède un gold de vélocité de Pace Chaser / Late Surger et un gold d’accélération de Pace Chaser pour le Long. Son unique est un boost de vélocité de seconde moitié de Final Corner._
- 
-- Elle possède 3 bonus de croissance : 10% en :speed:, 10% en :stamina: et 10% en :guts:. C’est un bon combo de bonus, surtout le Speed et le Stamina pour une uma Long. Il est possible de la jouer avec 2 cartes Speed si elles sont META.
- 
-- Ses gold skills sont :
- 
-    - **Hot Pursuit**, la gold version de _Latch On_. C’est un gold de vélocité pour Pace Chaser / Late Surger, qui s’active en seconde moitié de course si l’utilisatrice entreprends de tenter un dépassement.<br>
-    C’est un bon gold skill basique, qui a le potentiel de créer du carry-over.
- 
-    - **Beast Mode**, la gold version de _My True Strength_. C’est un gold d’accélération de Pace Chaser pour le Long. Afin de s’activer, l’utilisatrice aura besoin qu’à l'approche du Late-Race elle soit à un maximum de 10 mètres (soit 4 longueurs) de la première place. Le skill s’active alors immédiatement en Late-Race.<br>
-    C'est un skill absolument fondamental pour les Pace Chasers afin d’égaler les autres stratrégies en Long. Il est techniquement possible de le faire échouer avec un grand nombre de Front Runner ou une Runaway et des Front Runner, mais c’est un risque faible.
- 
-- Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chance de le recevoir par carrière.
- 
-- Son unique, _**Free From the Ashes**_, est un boost de vélocité ayant 2 variations de puissance. L’unique s’active en seconde moitié du Final Corner, s’il se trouve en Late-Race ou Last Spurt, et que Narita Brian (Blaze) soit dans le top 40% (≤4 en CM).<br>
-La variation plus puissante s’active seulement dans les courses Long et si elle a été contestée sur le côté pendant 2 secondes en Mid-Race. Le boost est bien plus puissant, c’est un unique qui est plus puissant que les gros uniques comme _**Triumphant Pulse**_ ou _**Behold Thine Emperor’s Divine Might**_ pour exemple. Cependant, cette variation n’existe pas sur la version hérité de l’unique, elle n’est donc pas un bon parent comme on aurait pu l’espérer<br>
-L’unique est surpuissant pour une uma dont sa distance principale est le Long, c’est le meilleur unique de vélocité pour cette distance.
-
-#### Pull ou pas ? :
-
-Oui, surtout si elle est votre Oshi.
- 
-Narita Brian (Blaze) est la meilleure Pace Chaser pour le Long pendant un bon moment. Elle est tellement forte, qu’elle n’a pour l’instant que peu de compétition en Long, et il faudra atteindre une certaine Late Surger tout aussi forte pour la challenger.
- 
-Son seul micro-défaut serait le 10% en Guts, qui garde un peu d’utilité vu qu’elle aura besoin d’une carte Stamina pour un gold de recovery.Le meilleur choix est pour l’instant Super Creek, mais on aura bientôt une Mejiro McQueen Stamina qui possède un meilleur gold pour le Long, qui sera un bon emprunt.
- 
-C’est une uma META pour le Long. C’est l’une des rares uma que l’on va vous conseiller de pull.
-
----
-
-### Bannière support : Yamanin Zephyr Guts SSR & T.M Opera O Stamina SR
-
-![Image de présentation de la bannière Yamanin Zephyr Guts SSR & T.M Opera O Stamina SR](/public/assets/Gacha-reviews/2026/067_Card-Banner.png)
-
-⏩**Yamanin Zephyr** :guts: :SSR:
-
-- La carte est frontloaded. A 1LB, elle débloque Speed Bonus puis Initial Speed à 3LB.
- 
-- Son Unique Effect lui donne 2 Skill Points Bonus quand sa jauge est à 80 (orange)
- 
-- Ses rainbows sont plutôt faibles avec son faible Friendship Bonus et Special Priority. Mais son cross-training est plutôt bon avec son bon Training Effectiveness et surtout les Stats Bonus (dont les 2 Skill Point Bonus, qui deviendront la base des bonnes cartes).
- 
-- Elle propose une liste de 9 hints❗, principalement pour le Mile. Elle possède Hint Levels et Hint Frequency, ses hints seront sympas.
- 
-- Son gold skill est **Ambitious Breeze**, la gold version de _Aspire_. C’est un gold de vélocité de Pace Chaser, s’activant en Mid-Race, à l'approche du Late-Race, si l’uma n’est pas en 1ère place, et qu'elle est à moins de 5 mètres de la uma en première position.<br>
-Le skill possède les mêmes valeurs que Daring Strike, une forte duration pour une puissance affaibli comparé aux autres skills de vélocité, ce qui est excellent pour le gold skill, mais horrible pour le white skill. Il est cependant moins bon que ce dernier car dans des courses avec une Runaway et une Front ou plusieurs Front Runners, le skill peut ne pas s’activer. Sinon, le skill garanti du carry-over quand il s'active.
-
-⏩**T.M Opera O** :stamina: :sr:
-
-- La carte est backloaded. A 1LB, elle débloque Race Bonus et Fans Bonus puis Stamina Bonus à MLB
- 
-- Son Unique Effect lui donne 10 de Friendship Training et un Stamina Bonus. Cela fait que son Friendship Bonus monte à 43%, le plus haut pour une carte Stamina SR.
- 
-- Ses rainbows sont très puissants, malgré un Special Priority faible, grâce à son excellent Friendship Bonus et ses Stamina Bonus. Ses rainbows sont aussi puissants que ceux de Super Creek Stamina SSR, bien que moins fréquents. En contrepartie, son cross-training est inexistant.
- 
-- Elle propose une liste de 10 hints❗, tous désirables, bien que peu focalisés sur une distance ou stratégie.
- 
-- Son dernier Chain Event nous permet de soit prendre 15 Bond et d'un Mood Up, soit de prendre un hint pour _Preferred Position_ et 15 Stamina.
-
-#### PULL OU PAS
-
-Non.
- 
-Yamanin Zephyr Guts SSR n’est pas assez forte et ne donne pas un gold assez utile pour être pull, et tout simplement utilisé. En attendant Orfevre Guts SSR, les seuls Guts qu’on pourrait pull sont ceux qui ont un puissant gold skill. Elle n’en fait pas partie.
- 
-TM Opera O Stamina SR, outre d’être une carte SR, elle n’est même pas la carte Stamina la plus forte des SR. Cela ne sert à rien de pull pour elle (et de pull tout simplement pour des cartes SR maintenant que Trackblazer est mort).
- 
-Ne pullez pas sur cette bannière.
-
----
-
-# Bannières à suivre (21 Octobre 00h)  
-
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/068_Banners_early_preview.jpg)
-
-### Bannière Umamusume à suivre : Kitasan Black (New Year) & Satono Diamond (New Year) ★★★
+![Image de présentation de la bannière Kitasan Black (New Year) & Satono DIamond (New Year)](/public/assets/Gacha-reviews/2026/068_Uma-Banner.png)
 
 ⏩ **Kitasan Black (New Year)** :
 
@@ -219,7 +140,11 @@ C’est une uma qui est bonne, et qui possède une création de deck qui peut ê
  
 C’est une bonne bannière à pull
 
-### Bannière Support à suivre : Sweep Tosho Wit SSR & Special Week Stamina SSR
+---
+
+### Bannière support : Sweep Tosho Wit SSR & Special Week Stamina SSR
+
+![Image de présentation de la bannière Sweep Tosho Wit SSR & Special Week Stamina SSR](/public/assets/Gacha-reviews/2026/068_Card-Banner.png)
 
 ⏩**Sweep Tosho** :wit: :SSR:
 
@@ -257,6 +182,65 @@ Sweep Tosho Wit SSR ne brille pas en tant que statsticks, mais surtout pour son 
 Bien qque Special Week Stamina SSR ne soit pas mauvaise, elle sera rarement utilisée. Comme toujours, si on prend une carte Stamina, c’est principalement pour un gold de recovery, ou un autre skill META. **No Stopping Me !** est un excellent skill, mais il n’est pas aussi META et/ou important que l’est **Claw Forward** sur Symboli Kris S Stamina SSR par exemple. Son white, _Nimble Navigator_, est généralement suffisant avec les autres skills d’accélérations que vous prenez pour vos Aces. C’est une carte qui a peu de réelle utilité comparée à d’autres cartes Stamina.
 
 Ne pullez pas sur cette bannière, empruntez les cartes si vous en avez besoin.
+
+---
+
+# Bannières à suivre (25 Octobre 00h)  
+
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/069_Banners_early_preview.jpg)
+
+### Bannière Umamusume à suivre : Hokko Tarumae ★★★
+
+⏩ **Hokko Tarumae** :
+
+_Hokko Tarumae est une Pace Chaser Dirt pour le Mile et le Medium. Avec de l’inspiration, elle peut courir en tant que Front Runner (1 étoile). Elle possède un gold de recovery de Pace Chaser et un gold de vélocité pour le Dirt. Son unique est un boost d’accélération._
+ 
+- Hokkko Tarumae possède 3 bonus de croissance : 10% en :speed:, 10% en :stamina: et 10% en :wit:. C’est un bon combo de bonus, qui lui permet de jouer avec 2 cartes Speed. Son gold de recovery lui permet aussi de ne pas potentiellement jouer une carte Stamina. Ses decks sont assez libres.
+ 
+- Ses gold skills sont :
+ 
+    - **Calm and Collected**, la version gold _Stamina to Spare_. C'est un gold recovery de Pace Chaser qui s'active dans la 2e moitié de l'Early-race, en étant top 50%.<br>
+    Sur les courses Long, le skill est presque parfaitement fiable, et reste très fiable en Medium. Plus la course est courte, moins il est fiable (risque d'activation trop tôt, avec recovery partiellement gachée), mais vous ne devriez pas du tout en avoir besoin en Sprint et en Mile.
+ 
+    - **Trending in the Charts !**, la gold version de _Top Pick_. C’est un gold de vélocité pour le Dirt, s’activant en Mid-Race si elle a été contestée pendant 2 secondes sur un de ses côtés.<br>
+    C’est un bon gold de vélocité basique.
+ 
+- Ses 2 Secrets Events vont vous demander de gagner 3 courses G1 Dirt en plus (3 si vous voulez les 2). Ils sont des bonnes sources de stats et des hints pour _Forward, March !_ et _Sunny Sign_.
+ 
+- Son unique, _**Shine On, Tomakoai ! ☆**_, est un boost d’accélération qui s’active seulement sur les courses Dirt et qui possède 2 variations de puissance. Avant de s’activer, Hokko Tarumae aura besoin d’être bloqué sur un coté pendant 2 secondes sur un corner de Mid-Race. Ensuite, il s’active si elle rentre en mécanique de Last Spurt si elle est dans le top 40% et le bottom 30% (≥ 3 <-> 4 ≤ en CM).<br>
+La variation puissante s’active si elle a suffisamment d’HP pour finir la course à vitesse maximale. Cela fait que la Stamina devient assez importante pour elle.<br>
+L’unique est excellent, vu qu’il peut s’activer dès qu’elle arrive en Late-Race. Il reste plutôt difficile à activer vu qu’il faut être sur 2 positions précises.<br>
+Ce n’est cependant pas un bon unique à hérité, car la variation puissante n’existe pas en version hérité.
+
+#### Pull ou pas ? :
+
+Oui, si elle est votre Oshi ou que vous voulez une bonne Uma Dirt.
+ 
+Hokko Tarumae est une très bonne uma Dirt, principalement grâce à son unique. Son combo de bonus et gold skill sont aussi bon pour elle, avec son besoin d’être sur de finir à vitésse maximale les courses pour son unique.
+ 
+Elle est de puissance similaire à Copano Rickley, tout en étant plus simple à faire.
+ 
+C’est la 3ème uma de suite qui est une bonne idée de pull. Bon courage pour vos pull et votre économie de carats.
+
+### Bannière Support à suivre : Agnes Tachyon Speed SSR & Tokai Teio Wit SSR (rerun)
+
+⏩**Agnes Tachyon** :speed: :SSR:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_55-agnes-tachyon-speed-ssr-light-hello-pal-ssr)
+
+⏩**Tokai Teio** :wit: :ssr:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_56-tokai-teio-wit-ssr-twin-turbo-guts-ssr)
+
+#### PULL OU PAS
+
+Seulement s'il vous manquent des LB et que vous avez impérativement besoin d'avoir une bonne carte Speed et/ou Wit.
+
+Agnes Tachyon Speed SSR restera la carte Speed principale pour les Pace Chasers pendant Grandmaster, le prochain scénario. Elle deviendra la carte speed secondaire pendant L'Arc, le scénario après Grandmaster et sort complétement de la META juste après. Elle est à compléter si vous jouez principalement des Pace Chasers ou que vous ne possédez aucune des top tiers cartes Speed.
+
+Tokai Teio Wit SSR est sortie de la META dès Grandmaster. Elle reste utilisable si vous ne possédez pas les cartes Wit secondaires, comme le seront Fine Motion Wit SSR ou Mr. C.B Wit SSR et d'autres cartes Wit qui sortent pendant Grandmaster. L'arrivé de Mejiro Ramonu Wit SSR, fait descendre toutes les top tiers de 1 ou 2 rangs, avec seulement Fine Motion qui reste dans le top tier avec les cartes Wit qui donne d'excellent Gold skill, comme Mr. C.B.
+
+C'est une bannière à pull en fonction du besoin d'Agnes Tachyon Speed SSR. Si vous ne jouez pas de Pace Chaser, ce n'est pas une bannière à pull.
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
