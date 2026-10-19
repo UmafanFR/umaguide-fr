@@ -1719,3 +1719,48 @@ TM Opera O Stamina SR, outre d’être une carte SR, elle n’est même pas la c
 Ne pullez pas sur cette bannière.
 
 :::
+
+## #68 - Sweep Tosho Wit SSR & Special Week Stamina SSR
+
+![Image de présentation de la bannière Sweep Tosho Wit SSR & Special Week Stamina SSR](/public/assets/Gacha-reviews/2026/068_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Sweep Tosho** :wit: :SSR:
+
+- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus, puis Wit Bonus à 3LB et un second Wit Bonus à MLB.
+ 
+- Son Unique Effect lui donne 40 de Special Priority quand sa jauge est à 80 (orange). Cela fait que son Special Priority est en réalité plus élevé que ce que la carte et Gametora montre. Elle possède en réalité 89 de Special Priority.
+ 
+- Bien que ses rainbows semblent bons avec son bon Friendship Bonus, Special Priority et Stats Bonus, l’absence de Training Effectiveness les rends bien moins fort. Son cross-training est presque inexistant, il se repose sur un peu de Mood Effect et le Skill Point Bonus.
+ 
+- Elle propose une liste de 8 hints❗, principalement pour End Closer et le très bon _Slipstream_. Elle possède un super Hint Levels et Hint Frequency, ses hints seront puissants.
+ 
+- Son gold skill est **Razor-Sharp Steps**, la gold version de _Sharp Steps_. C’est un gold d’accélération d’End Closer. Avant de s’activer, l’utilisatrice aura besoin d’être en dehors du top 50% à partir de 2/3 de courses parcouru, et ce, sans avoir rush depuis le début de la course. Ensuite, le skill s’active aléatoirement en première moitié du Late-Race.<br>
+Plus la distance est courte, plus le skill gagnera en valeur, vu que la zone d’activation devient plus petite. Il se rapproche grandement de **Neck and Neck** et **On Your Left !**, en comparaison, bien qu’il soit un poil moins puissant dû à une duration plus faible. C’est un bon skill, qui permet aux End Closer d’être plus fiable dans les courses où Straightaway Spurt ne s’active pas bien.
+
+⏩**Special Week** :stamina: :ssr:
+
+- La carte est backloaded. A 1LB, elle débloque Guts Bonus, puis Training Effectiveness à 3LB.
+ 
+- Son Unique Effect lui donne 60 de Mood Effect pendant un Friendship Training (Rainbow). Cet effet s'applique aussi si elle participe à un Friendship Training d'une autre carte. C'est un bon unique effect de cross-training.
+ 
+- Ses rainbows sont plutôt bons, malgré un faible Friendship Bonus et Special Piority, grâce à son Unique Effect et son Training Effect mais aussi ses Stats Bonus (Stamina Bonus, Guts Bonus, Skill Point Bonus). Elle donne moins de Stamina que Super Creek, mais plus de Guts et de Skill Points.<br>
+Son cross-training est juste excellent, avec son bon Training Effectiveness, le Skill Point Bonus et son Unique Effect. Elle est supérieur à Super Creek en cross-training quand son Unique Effect est actif.
+
+- Elle propose une liste de 10 hints❗, principalement pour le Medium, mais aussi le très utile _Nimble Navigator_. Elle possède un super Hint Levels et Hint Frequency, ses hints seront puissants.
+ 
+- Son gold skill est **No Stopping Me !**, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant en Late Race si votre uma a assez de HP pour finir la course, et qu'une uma adverse se trouve devant elle (en face, ou sur une voie adjacente) pendant 1 seconde.<br>
+C’est un très bon skill universel (sauf pour les Front Runner).
+
+#### PULL OU PAS
+
+Non, en revanche la Sweep Tosho est un bon emprunt.
+ 
+Sweep Tosho Wit SSR ne brille pas en tant que statsticks, mais surtout pour son gold skill. Elle est à emprunter pour les End Closer. Elle n’est pas à pull car Mr. C.B est déjà la carte Wit principale pour les End Closer, mais surtout la meilleure des 2.
+ 
+Bien qque Special Week Stamina SSR ne soit pas mauvaise, elle sera rarement utilisée. Comme toujours, si on prend une carte Stamina, c’est principalement pour un gold de recovery, ou un autre skill META. **No Stopping Me !** est un excellent skill, mais il n’est pas aussi META et/ou important que l’est **Claw Forward** sur Symboli Kris S Stamina SSR par exemple. Son white, _Nimble Navigator_, est généralement suffisant avec les autres skills d’accélérations que vous prenez pour vos Aces. C’est une carte qui a peu de réelle utilité comparée à d’autres cartes Stamina.
+
+Ne pullez pas sur cette bannière, empruntez les cartes si vous en avez besoin.
+
+:::
