@@ -205,10 +205,10 @@ _Hokko Tarumae est une Pace Chaser Dirt pour le Mile et le Medium. Avec de l’i
     - **Trending in the Charts !**, la gold version de _Top Pick_. C’est un gold de vélocité pour le Dirt, s’activant en Mid-Race si elle a été contestée pendant 2 secondes sur un de ses côtés.<br>
     C’est un bon gold de vélocité basique.
  
-- Ses 2 Secrets Events vont vous demander de gagner 3 courses G1 Dirt en plus (3 si vous voulez les 2). Ils sont des bonnes sources de stats et des hints pour _Forward, March !_ et _Sunny Sign_.
+- Ses 2 Secrets Events vont vous demander de gagner 3 courses G1 Dirt en plus. Ils sont des bonnes sources de stats et des hints pour _Forward, March !_ et _Sunny Sign_.
  
-- Son unique, _**Shine On, Tomakoai ! ☆**_, est un boost d’accélération qui s’active seulement sur les courses Dirt et qui possède 2 variations de puissance. Avant de s’activer, Hokko Tarumae aura besoin d’être bloqué sur un coté pendant 2 secondes sur un corner de Mid-Race. Ensuite, il s’active si elle rentre en mécanique de Last Spurt si elle est dans le top 40% et le bottom 30% (≥ 3 <-> 4 ≤ en CM).<br>
-La variation puissante s’active si elle a suffisamment d’HP pour finir la course à vitesse maximale. Cela fait que la Stamina devient assez importante pour elle.<br>
+- Son unique, _**Shine On, Tomakomai ! ☆**_, est un boost d’accélération qui s’active seulement sur les courses Dirt et qui possède 2 variations de puissance. Avant de s’activer, Hokko Tarumae aura besoin d’être contestée sur un coté pendant 2 secondes sur un corner de Mid-Race. Ensuite, il s’active si elle rentre en mécanique de Last Spurt en étant entre le top 40% et le top 30% (≥ 3 <-> 4 ≤ en CM).<br>
+La variation puissante s’active si elle a suffisamment d’HP pour finir la course à vitesse maximale..<br>
 L’unique est excellent, vu qu’il peut s’activer dès qu’elle arrive en Late-Race. Il reste plutôt difficile à activer vu qu’il faut être sur 2 positions précises.<br>
 Ce n’est cependant pas un bon unique à hérité, car la variation puissante n’existe pas en version hérité.
 
@@ -218,7 +218,7 @@ Oui, si elle est votre Oshi ou que vous voulez une bonne Uma Dirt.
  
 Hokko Tarumae est une très bonne uma Dirt, principalement grâce à son unique. Son combo de bonus et gold skill sont aussi bon pour elle, avec son besoin d’être sur de finir à vitésse maximale les courses pour son unique.
  
-Elle est de puissance similaire à Copano Rickley, tout en étant plus simple à faire.
+Elle est de puissance légèrement moindre par rapport à Copano Rickley, mais est bien plus simple à faire.
  
 C’est la 3ème uma de suite qui est une bonne idée de pull. Bon courage pour vos pull et votre économie de carats.
 
