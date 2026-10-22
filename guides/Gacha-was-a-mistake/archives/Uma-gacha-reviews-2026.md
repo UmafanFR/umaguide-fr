@@ -1788,3 +1788,72 @@ Son seul micro-défaut serait le 10% en Guts, qui garde un peu d’utilité vu q
 C’est une uma META pour le Long. C’est l’une des rares uma que l’on va vous conseiller de pull.
 
 :::
+
+## #68 - Kitasan Black (New Year) & Satono DIamond (New Year) ★★★
+
+![Image de présentation de la bannière Kitasan Black (New Year) & Satono DIamond (New Year)](/public/assets/Gacha-reviews/2026/068_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Kitasan Black (New Year)** :
+
+_Kitasan Black (New Year) est une Front Runner pour le Medium et le Long. Avec de l’inspiration, elle peut courir en Mile, mais aussi en tant que Pace Chaser et Late Surger (respectivement 4 :star:, 1 :star: et 4 :star:). Elle possède un gold de vélocité et un gold d’accélération, tous les 2 de Front Runner. Son unique est un boost de Current Speed et d’accélération s’activant en Late-Race ou Last Spurt._
+ 
+- Elle possède 3 bonus de croissance : 10% en :speed:, 10% en :power: et 10% en :wit:. C’est selon mon avis, le meilleur combo de bonus possible pour 3 bonus de croissance. Son deck peut être assez flexible, et surtout elle n’aura  pas besoin de prendre la Mihono Bourbon Wit SSR gratuite (elle devra prendre celle qui sort pendant le prochain scénario).
+ 
+- Ses gold skills sont :
+ 
+    - **Escape Artist**, la gold version de _Fast-Paced_. C’est un gold de vélocité pour Front Runner, s’activant aléatoirement en Mid-Race si elle est dans le top 50%.<br>
+    C’est un bon skill de Mid-Race.
+ 
+    - **Taking the Lead**, la gold version d’_Early Lead_. C’est un gold d’accélération pour Front Runner. Il s’active dès le début de la course.<br>
+    C’est un très bon skill, les Front Runners ont besoin de beaucoup d’accélération au début de la course pour prendre la première place. Cela lui libère aussi le fait de devoir prendre Mihono Bourbon Wit pour soit prendre une meilleure stats stick ou un autre skill gold.
+ 
+- Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chances de le recevoir par carrière.
+ 
+- Deux de ses Secret Events sont liés à devenir une Triple Crown (Satsuki Sho / Tokyo Yushun / Kikuka Sho) (mais aussi de gagner Arima Kinen (Senior) pour l’un des deux). Cela veut dire faire 2 courses en plus. Vous recevrez un total de 16 dans toutes les stats, 99 Skill Points et des hints pour _Firm Resolve_, _Keeping the Lead_ et _Prudent Positioning_. Sans compter ce que gagner ses courses donnent de base.<br>
+C’est extrêmement rentable, surtout qu’elle possède aussi de base, ou dans ses skills à éveillés, _Dodging Danger_ et _Groundwork_.
+ 
+Son unique, _**Bring the Banquet !**_, est un boost de Current Speed et de faible accélération de durée réduite. L’unique s’active en Late-Race ou Last Spurt si Kitasan Black (New Year) se trouve dans un corner qui est à au moins 600 mètres de l'arrivée et qu’elle est dans le top 3.<br>
+C’est un excellent unique, sauf en Sprint et certains Mile vu qu'il ne s’active pas. L’unique aura toujours de la valeur dû au fait que c’est un boost de Current Speed. Sur les courses où le Late-Race commence sur les 600 derniers mètres dans un corner, l’unique est parfait et surpuissant, car on bénificie de l'accélération en plus du boost de Current Speed. Les courses où son unique est parfait correspond à la grande majorité des courses Medium.<br>
+C’est aussi un bon unique à hérité pour les Front Runner et les Pace Chaser. Elle est un excellent parent.
+
+⏩ **Satono Diamond (New Year)** :
+
+_Satono Diamond (New Year) est une Late Surger pour le Long. Elle peut aussi courir parfaitement en Medium. Avec de l’inspiration, elle peut courir en Mile, mais aussi en tant que Pace Chaser et End Closer (respectivement 4 :star:, 1 :star: et 7 :star:). Elle possède un gold d’accélération de Late Surger et un gold hyrbide de debuff et de recovery, tous les 2 pour le Long. Son unique est hybride boost de vélocité et de recovery._
+ 
+- Elle possède 2 bonus de croissance : 15% en :speed: et 15% :stamina:. C’est un excellent combo, surtout pour le Long. Il sera possible de la jouer avec 2 cartes Speed et potentiellement pas de carte Stamina si vous utilisez des parents Stamina dans les Long de plus courtes distances.
+ 
+- Ses gold skills sont :
+    - **Claw Forward**, la gold version de _Scramble_. C’est un skill d’accélération de Late Surger pour le Long. Il s’active si l’uma rentre en Last Spurt Mode et qu’elle se trouve dans le bottom 60%. Le skill consomme de la stamina (plus qu’un white skill de recovery).<br>
+    C’est un skill obligatoire si vous voulez jouer des Late Surgers en Long. Sans ce skill, les Late Surgers resteront plus faibles que les autres stratégies.
+ 
+    - **Stamina Siphon**, la gold version de _Stamina Eater_. C'est un gold debuff de distance Long, qui réduit un peu les HP des uma devant elle, et lui restaure des HP.<br>
+    Ce n'est pas un très bon skill, car le stamina drain est trop faible (1 white debuff) et la recovery est moins forte qu'une gold recovery basique. Vous pouvez l'utiliser en pseudo-recovery si vous êtes proche de la stamina requise pour la course. Mais pour les courses les plus longues (Tenno Sho Spring et Kikuka Sho), on préfèrera une vraie gold recovery.
+ 
+- Son unique, _**Rain Cloud Bolt**_, est un boost hybride de vélocité et de recovery. L’unique s’active entre 40% et 50% de course parcouru si Satono Diamond (New Year) se trouve entre le bottom 20% et le top 40% (≥4 <-> ≤7, en CM).<br>
+C’est un bon unique, qui est facilement utilisable et très utile juste pour la recovery. Il n’est cependant pas utile en version héritée.
+
+#### Pull ou pas ? :
+
+Oui, surtout si Kitasan Black est votre Oshi.
+
+Narita Brian (Blaze) est une uma à pull ? Eh bien vous en aurez une 2ème à la suite avec Kitasan Black (New Year) qui est la star de cette bannière.
+ 
+Kitasan Black (New Year) possède un kit parfait, je ne pense pas avoir vu meilleur, même avec XOguri. C’est simple, il n’y a aucun défaut, et que des points incroyables, surtout quand on pense au futur. Premièrement, le meilleur combo de 3 bonus de croissance possible. Cela fait qu’elle est simple à build niveau stats.
+ 
+Niveau white skills, elle possède de base Dodging Danger et Groundwork. Et elle peut avoir Prudent Positioning et Firm Resolve avec ses Secrets Events. Elle possède tout les whites skills de Front Runner important.
+ 
+Les gold skills, c’est pareil. Elle possède Escape Artist, dont la version white skill, Fast Paced, reste l’un des skill le plus difficile à farm pour l’instant. Le fait d’avoir Taking the Lead, lui permet de prendre une meilleure statstick, mais aussi de pouvoir cumuler dans le futur, avec le gold de Groundwork qui sera donné par une autre Mihono Bourbon Wit.
+ 
+Finalement, son unique est surpuissant et aura toujours de la valeur. C’est une uma parfaite.
+ 
+Satono Diamond (New Year) n’est pas mauvaise, son combo de bonus, son unique et Claw Forward sont bons ou excellent. Mais en face de Kitasan Black (New Year), on peut voir une préférence. Un autre problème pour elle est le prochain scénario, où elle se fera powercreep par une autre Late Surger pour le Long.
+ 
+Un point positif est de ne pas avoir besoin de prendre Symboli Kris S Stamina SSR pour Claw Forward, ce qui lui laisse une liberté de choix. Son unique et Stamina Siphon est équivalent à un gold skill + white skill de recovery, donc si vous avez de bon parents Stamina, il serait possible de monter suffisamment Stamina avec une carte Power (Narita Brian Power SSR par exemple).
+ 
+C’est une uma qui est bonne, et qui possède une création de deck qui peut être intéressante, mais elle n’est pas un must pull comparé à Kitasan Black (New Year). Elle reste meilleure que sa version OG pour le Long.
+ 
+C’est une bonne bannière à pull
+
+:::
