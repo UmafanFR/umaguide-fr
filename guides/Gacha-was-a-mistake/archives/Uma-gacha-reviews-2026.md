@@ -1791,7 +1791,7 @@ C’est une uma META pour le Long. C’est l’une des rares uma que l’on va v
 
 ## #68 - Kitasan Black (New Year) & Satono DIamond (New Year) ★★★
 
-![Image de présentation de la bannière Kitasan Black (New Year) & Satono DIamond (New Year)](/public/assets/Gacha-reviews/2026/068_Uma-Banner.png)
+![Image de présentation de la bannière Kitasan Black (New Year) & Satono Diamond (New Year)](/public/assets/Gacha-reviews/2026/068_Uma-Banner.png)
 
 ::: details REVIEW
 
@@ -1855,5 +1855,80 @@ Un point positif est de ne pas avoir besoin de prendre Symboli Kris S Stamina SS
 C’est une uma qui est bonne, et qui possède une création de deck qui peut être intéressante, mais elle n’est pas un must pull comparé à Kitasan Black (New Year). Elle reste meilleure que sa version OG pour le Long.
  
 C’est une bonne bannière à pull
+
+:::
+
+## #69 - Hokko Tarumae ★★★
+
+![Image de présentation de la bannière Hokko Tarumae](/public/assets/Gacha-reviews/2026/069_Uma-Banner.png)
+
+:::details REVIEW
+
+⏩ **Hokko Tarumae** :
+
+_Hokko Tarumae est une Pace Chaser Dirt pour le Mile et le Medium. Avec de l’inspiration, elle peut courir en tant que Front Runner (1 étoile). Elle possède un gold de recovery de Pace Chaser et un gold de vélocité pour le Dirt. Son unique est un boost d’accélération._
+ 
+- Hokkko Tarumae possède 3 bonus de croissance : 10% en :speed:, 10% en :stamina: et 10% en :wit:. C’est un bon combo de bonus, qui lui permet de jouer avec 2 cartes Speed. Son gold de recovery lui permet aussi de ne pas potentiellement jouer une carte Stamina. Ses decks sont assez libres.
+ 
+- Ses gold skills sont :
+ 
+    - **Calm and Collected**, la version gold _Stamina to Spare_. C'est un gold recovery de Pace Chaser qui s'active dans la 2e moitié de l'Early-race, en étant top 50%.<br>
+    Sur les courses Long, le skill est presque parfaitement fiable, et reste très fiable en Medium. Plus la course est courte, moins il est fiable (risque d'activation trop tôt, avec recovery partiellement gachée), mais vous ne devriez pas du tout en avoir besoin en Sprint et en Mile.
+ 
+    - **Trending in the Charts !**, la gold version de _Top Pick_. C’est un gold de vélocité pour le Dirt, s’activant en Mid-Race si elle a été contestée pendant 2 secondes sur un de ses côtés.<br>
+    C’est un bon gold de vélocité basique.
+ 
+- Ses 2 Secrets Events vont vous demander de gagner 3 courses G1 Dirt en plus. Ils sont des bonnes sources de stats et des hints pour _Forward, March !_ et _Sunny Sign_.
+ 
+- Son unique, _**Shine On, Tomakomai ! ☆**_, est un boost d’accélération qui s’active seulement sur les courses Dirt et qui possède 2 variations de puissance. Avant de s’activer, Hokko Tarumae aura besoin d’être contestée sur un coté pendant 2 secondes sur un corner de Mid-Race. Ensuite, il s’active si elle rentre en mécanique de Last Spurt en étant entre le top 40% et le top 30% (≥ 3 <-> 4 ≤ en CM).<br>
+La variation puissante s’active si elle a suffisamment d’HP pour finir la course à vitesse maximale..<br>
+L’unique est excellent, vu qu’il peut s’activer dès qu’elle arrive en Late-Race. Il reste plutôt difficile à activer vu qu’il faut être sur 2 positions précises.<br>
+Ce n’est cependant pas un bon unique à hérité, car la variation puissante n’existe pas en version hérité.
+
+#### Pull ou pas ? :
+
+Oui, si elle est votre Oshi ou que vous voulez une bonne Uma Dirt.
+ 
+Hokko Tarumae est une très bonne uma Dirt, principalement grâce à son unique. Son combo de bonus et gold skill sont aussi bon pour elle, avec son besoin d’être sur de finir à vitésse maximale les courses pour son unique.
+ 
+Elle est de puissance légèrement moindre par rapport à Copano Rickley, mais est bien plus simple à faire.
+ 
+C’est la 3ème uma de suite qui est une bonne idée de pull. Bon courage pour vos pull et votre économie de carats.
+
+:::
+
+## #70 - Daitaku Helios ★★★
+
+![Image de présentation de la bannière Daitaku Helios](/public/assets/Gacha-reviews/2026/070_Uma-Banner.png)
+
+::: details REVIEW
+
+_Daitaku Helios est une Front Runner pour le Mile. Elle peut aussi courir parfaitement en tant que Pace Chaser. Avec de l’inspiration, elle peut courir en Sprint et en Medium (1 :star: pour les 2). Elle possède deux gold de vélocité pour le Mile. Son unique est un boost de vélocité de deuxième moitié de Mid-Race._
+ 
+- Elle possède 2 bonus de croissance : 15% en :speed: et 15% en :power:. C’est un très bon combo, qui se complète toujours bien. Cela lui donne aussi de la flexibilité sur son deck pour prendre une carte Guts avec 2 Speed 2 Wit et la carte scénario.
+ 
+- Ses gold skills sont :
+ 
+    - **Changing Gears**, la gold version de _Shifting Gears_. C’est un gold de vélocité pour le Mile, qui s’active aléatoirement en Mid-Race si elle est dans le top 50%.<br>
+    C’est un bon gold de vélocité basique, qui a la possibilité de créer du carry-over.
+ 
+    - **Reckless Charge**, la gold version de _No Looking Back_. C’est un gold de vélocité pour le Mile, s’activant aléatoirement en seconde moitié de Mid-Race si l’utilisatrice est dans le top 50%.<br>
+    C’est un bon gold de vélocité basique, qui a une assez haute possibilité de créer du carry-over.
+ 
+- Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chances de le recevoir par carrière.
+
+- Elle possède plusieurs Secret Events, bien que trois d’entre eux amènent au résultat : <br>
+    - Son premier Secret Event est lié à gagner 2 fois Yasuda Kinen (Classic et Senior) et Mile Championship (Classic et Senior), pour 30 de Speed, un hint pour Productive Plan et Unyielding Spirit. Cela fait qu’elle doit faire une course en plus, le Yasuda Kinen (Classic).<br>
+    - 3 de ses Secret Events pour recevoir Runaway. Si Daitaku Helios gagne l’Arima Kinen (Senior) en tant que Front Runner, elle l’obtient directement. Si elle ne le gagne pas, toujours dans la stratégie Front Runner, elle aura besoin de compléter le premier Secret Event et que Mejiro Palmer participe à l’Arima Kinen, peu importe si cette dernière gagne ou pas la course.<br>
+    - Son dernier Secret Event s’active que dans les courses où elle est la favorite pour gagner. Elle obtient le skill malus _**Gonna Be Ur #1 FRFR**_. Le skill lui augmente sa chance de Rush. Essayez de ne jamais l’avoir en favorite, surtout si vous la jouez Runaway, le Rush détruit votre course si elle Spot Struggle.
+ 
+- Son unique, **_Hands in the Air Like Ya Don’t Care !_**, est un boost de vélocité de puissance réduite. Il s’active aléatoirement en seconde moitié de Mid-Race si elle est dans le top 50%. En fonction de la distance, l’unique dure plus longtemps. Sur les courses Sprint et Mile, l’unique a une durée accrue, alors qu’en Medium et Long, la durée est basique.<br>
+C’est un assez bon unique, dû à son activation en Mid-Race et la possibilité de créer du carry-over. Cela lui donne un outil en plus pour lutter pour la première place contre les autres Front Runner ou Runaway.
+
+#### Pull ou pas ? :
+
+Non, sauf si elle est votre Oshi.
+ 
+Daitaku Helios est assez bonne et le Runaway la rend un peu unique. Elle se rapproche un peu de Maruzensky (Summer), en ayant un meilleur Mid-Race, bien que Maruzensky (Summer) possède des moyens pour décider où activer son unique.
 
 :::

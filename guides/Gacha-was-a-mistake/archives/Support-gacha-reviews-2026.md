@@ -1764,3 +1764,73 @@ Bien qque Special Week Stamina SSR ne soit pas mauvaise, elle sera rarement util
 Ne pullez pas sur cette bannière, empruntez les cartes si vous en avez besoin.
 
 :::
+
+## #69 - Agnes Tachyon Speed SSR & Tokai Teio Wit SSR (rerun)
+
+![Image de présentation de la bannière Agnes Tachyon Speed SSR & Tokai Teio Wit SSR (rerun)](/public/assets/Gacha-reviews/2026/069_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Agnes Tachyon** :speed: :SSR:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_55-agnes-tachyon-speed-ssr-light-hello-pal-ssr)
+
+⏩**Tokai Teio** :wit: :ssr:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_56-tokai-teio-wit-ssr-twin-turbo-guts-ssr)
+
+#### PULL OU PAS
+
+Seulement s'il vous manquent des LB et que vous avez impérativement besoin d'avoir une bonne carte Speed et/ou Wit.
+
+Agnes Tachyon Speed SSR restera la carte Speed principale pour les Pace Chasers pendant Grandmaster, le prochain scénario. Elle deviendra la carte speed secondaire pendant L'Arc, le scénario après Grandmaster et sort complétement de la META juste après. Elle est à compléter si vous jouez principalement des Pace Chasers ou que vous ne possédez aucune des top tiers cartes Speed.
+
+Tokai Teio Wit SSR est sortie de la META dès Grandmaster. Elle reste utilisable si vous ne possédez pas les cartes Wit secondaires, comme le seront Fine Motion Wit SSR ou Mr. C.B Wit SSR et d'autres cartes Wit qui sortent pendant Grandmaster. L'arrivé de Mejiro Ramonu Wit SSR, fait descendre toutes les top tiers de 1 ou 2 rangs, avec seulement Fine Motion qui reste dans le top tier avec les cartes Wit qui donne d'excellent Gold skill, comme Mr. C.B.
+
+C'est une bannière à pull en fonction du besoin d'Agnes Tachyon Speed SSR. Si vous ne jouez pas de Pace Chaser, ce n'est pas une bannière à pull.
+
+:::
+
+## #70 - K.S. Miracle Guts SSR & Aston Machan Speed SR
+
+![Image de présentation de la bannière K.S. Miracle Guts SSR & Aston Machan Speed SR](/public/assets/Gacha-reviews/2026/070_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**K.S. Miracle** :guts: :SSR:
+
+- La carte est frontloaded. A 1LB, elle débloque Guts Bonus puis Initial Power à 3LB.
+ 
+- Son Unique Effect lui donne 2 Power Bonus quand sa jauge est à 80 (orange)
+ 
+- Ses rainbows sont plutôt bons dès LB0 avec un Friendship Bonus et Special Priority correct. Les Power Bonus et Guts Bonus améliore bien ses rainbows. Son cross-training est faible, reposant surtout sur un bon Mood Effect et les Stats Bonus.
+ 
+- Elle propose une liste de 6 hints, principalement de Pace Chaser et pour le Sprint. Elle possède un bon Hint Level et Hint Frequency. Ses hints seront sympas.
+ 
+- Son gold skill est **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération pour Pace Chaser, s’activant aléatoirement dans la première moitié du Late-Race et qu’elle soit dans le top 50%.<br> 
+C'est un très bon skill, dû aussi  la rareté des skills d'accélération pour les Pace Chasers. Le skill est meilleur sur les distances plus courtes.<br>
+C’est aussi la dernière carte qui donne ce gold skill.
+
+⏩**Aston Machan** :speed: :sr:
+
+- La carte est backloaded. A 1LB, elle débloque Initial Speed puis Speed Bonus à MLB
+ 
+- Son Unique Effect lui donne 10 de Friendship Bonus et un second Speed Bonus. Cela fait que son Friendship Bonus est en réalité plus élevé que ce que la carte montre. Elle possède 32 de Friendship Bonus.
+ 
+- Ses rainbows sont corrects, avec son bon Friendship Bonus et Speed Bonus, malgré un faible Special Priority. Ses rainbows sont moins forts que Sweep Tosho Speed SR et Shunko Windy Speed SR. Son cross-training est faible, avec son faible Training Effectiveness et ses Speed Bonus. Elle est généralement moins bonne que les autres Speed SR.
+ 
+- Elle propose une liste de 7 hints, dont les très recherchés _Groundwork_ et _Dodging Danger_. Elle possède un super Hint Levels et Hint Frequency. Ses hints seront puissants.
+ 
+- Son dernier Chain Event peut nous donner au choix : 10 Energy + trois skill hint d’_Intimidate_ ou 7 Speed et Power et trois skill hint de _Mad Dash_.
+
+#### PULL OU PAS
+
+Non, seulement pour les personnes qui jouent des Pace Chaser.
+ 
+K.S. Miracle Guts SSR est la meilleure des 2 cartes qui donne Neck and Neck, en étant plutôt sympa et utilisable pendant le prochain scénario. Le fait qu’elle soit frontloaded est une bonne chose, elle ne devrait pas demander trop de carats. Elle est utilisable dès LB0, bien que le LB1 est appréciable
+ 
+Aston Machan Speed SR est surtout intéressante pour le hint farmin, et utilisable dès LB0 pour cette fonction. Sur les autres points, elle est plus faible que sa compétition directe en Speed SR.
+ 
+Ce n’est pas une bannière à pull dans la majorité des cas.
+
+:::
