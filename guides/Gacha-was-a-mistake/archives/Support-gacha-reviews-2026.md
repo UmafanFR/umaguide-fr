@@ -1803,11 +1803,11 @@ C'est une bannière à pull en fonction du besoin d'Agnes Tachyon Speed SSR. Si 
  
 - Son Unique Effect lui donne 2 Power Bonus quand sa jauge est à 80 (orange)
  
-- Ses rainbows sont plutôt bons dès LB0 avec un Friendship Bonus et Special Priority correct. Les Power Bonus et Guts Bonus améliore bien ses rainbows. Son cross-training est faible, reposant surtout sur un bon Mood Effect et les Stats Bonus.
+- Ses rainbows sont plutôt bons dès LB0 avec un Friendship Bonus et Special Priority correct. Les Power Bonus et Guts Bonus améliorent bien ses rainbows. Son cross-training est faible, reposant surtout sur un bon Mood Effect et les Stats Bonus.
  
 - Elle propose une liste de 6 hints, principalement de Pace Chaser et pour le Sprint. Elle possède un bon Hint Level et Hint Frequency. Ses hints seront sympas.
  
-- Son gold skill est **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération pour Pace Chaser, s’activant aléatoirement dans la première moitié du Late-Race et qu’elle soit dans le top 50%.<br> 
+- Son gold skill est **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération pour Pace Chaser, s’activant aléatoirement dans la première moitié du Late-Race et à condition qu’elle soit dans le top 50%.<br> 
 C'est un très bon skill, dû aussi  la rareté des skills d'accélération pour les Pace Chasers. Le skill est meilleur sur les distances plus courtes.<br>
 C’est aussi la dernière carte qui donne ce gold skill.
 
@@ -1819,15 +1819,15 @@ C’est aussi la dernière carte qui donne ce gold skill.
  
 - Ses rainbows sont corrects, avec son bon Friendship Bonus et Speed Bonus, malgré un faible Special Priority. Ses rainbows sont moins forts que Sweep Tosho Speed SR et Shunko Windy Speed SR. Son cross-training est faible, avec son faible Training Effectiveness et ses Speed Bonus. Elle est généralement moins bonne que les autres Speed SR.
  
-- Elle propose une liste de 7 hints, dont les très recherchés _Groundwork_ et _Dodging Danger_. Elle possède un super Hint Levels et Hint Frequency. Ses hints seront puissants.
+- Elle propose une liste de 7 hints, dont les très recherchés _Groundwork_ et _Dodging Danger_. Elle possède un très bon Hint Levels et Hint Frequency. Ses hints seront puissants.
  
-- Son dernier Chain Event peut nous donner au choix : 10 Energy + trois skill hint d’_Intimidate_ ou 7 Speed et Power et trois skill hint de _Mad Dash_.
+- Son dernier Chain Event peut nous donner au choix : 10 Energy + trois skill hint d’_Intimidate_ ou 7 Speed et Power et trois skill hint de _Mad Dash_. _Mad Dash_ est le meilleur choix pour une Front Runner, mais _Intimidate_ est bon pour les courses Sprint.
 
 #### PULL OU PAS
 
-Non, seulement pour les personnes qui jouent des Pace Chaser.
+Non, ou seulement pour les personnes qui jouent des Pace Chaser.
  
-K.S. Miracle Guts SSR est la meilleure des 2 cartes qui donne Neck and Neck, en étant plutôt sympa et utilisable pendant le prochain scénario. Le fait qu’elle soit frontloaded est une bonne chose, elle ne devrait pas demander trop de carats. Elle est utilisable dès LB0, bien que le LB1 est appréciable
+K.S. Miracle Guts SSR est la meilleure des 2 cartes qui donne Neck and Neck, en étant plutôt sympa et utilisable pendant le prochain scénario. Le fait qu’elle soit frontloaded est une bonne chose, elle ne devrait pas demander trop de carats. Elle est utilisable dès LB0, bien que le LB1 est appréciable. En gain de stats pur, elle reste inférieur à Haru Urara Guts SSR, et cela va le rester pendant un bon momemnt encore.
  
 Aston Machan Speed SR est surtout intéressante pour le hint farmin, et utilisable dès LB0 pour cette fonction. Sur les autres points, elle est plus faible que sa compétition directe en Speed SR.
  

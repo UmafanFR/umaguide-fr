@@ -1903,6 +1903,8 @@ C’est la 3ème uma de suite qui est une bonne idée de pull. Bon courage pour 
 
 ::: details REVIEW
 
+⏩ **Daitaku Helios** :
+
 _Daitaku Helios est une Front Runner pour le Mile. Elle peut aussi courir parfaitement en tant que Pace Chaser. Avec de l’inspiration, elle peut courir en Sprint et en Medium (1 :star: pour les 2). Elle possède deux gold de vélocité pour le Mile. Son unique est un boost de vélocité de deuxième moitié de Mid-Race._
  
 - Elle possède 2 bonus de croissance : 15% en :speed: et 15% en :power:. C’est un très bon combo, qui se complète toujours bien. Cela lui donne aussi de la flexibilité sur son deck pour prendre une carte Guts avec 2 Speed 2 Wit et la carte scénario.
@@ -1910,7 +1912,7 @@ _Daitaku Helios est une Front Runner pour le Mile. Elle peut aussi courir parfai
 - Ses gold skills sont :
  
     - **Changing Gears**, la gold version de _Shifting Gears_. C’est un gold de vélocité pour le Mile, qui s’active aléatoirement en Mid-Race si elle est dans le top 50%.<br>
-    C’est un bon gold de vélocité basique, qui a la possibilité de créer du carry-over.
+    C’est un bon gold de vélocité basique, qui a une légère chance de créer du carry-over.
  
     - **Reckless Charge**, la gold version de _No Looking Back_. C’est un gold de vélocité pour le Mile, s’activant aléatoirement en seconde moitié de Mid-Race si l’utilisatrice est dans le top 50%.<br>
     C’est un bon gold de vélocité basique, qui a une assez haute possibilité de créer du carry-over.
@@ -1918,9 +1920,9 @@ _Daitaku Helios est une Front Runner pour le Mile. Elle peut aussi courir parfai
 - Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chances de le recevoir par carrière.
 
 - Elle possède plusieurs Secret Events, bien que trois d’entre eux amènent au résultat : <br>
-    - Son premier Secret Event est lié à gagner 2 fois Yasuda Kinen (Classic et Senior) et Mile Championship (Classic et Senior), pour 30 de Speed, un hint pour Productive Plan et Unyielding Spirit. Cela fait qu’elle doit faire une course en plus, le Yasuda Kinen (Classic).<br>
-    - 3 de ses Secret Events pour recevoir Runaway. Si Daitaku Helios gagne l’Arima Kinen (Senior) en tant que Front Runner, elle l’obtient directement. Si elle ne le gagne pas, toujours dans la stratégie Front Runner, elle aura besoin de compléter le premier Secret Event et que Mejiro Palmer participe à l’Arima Kinen, peu importe si cette dernière gagne ou pas la course.<br>
-    - Son dernier Secret Event s’active que dans les courses où elle est la favorite pour gagner. Elle obtient le skill malus _**Gonna Be Ur #1 FRFR**_. Le skill lui augmente sa chance de Rush. Essayez de ne jamais l’avoir en favorite, surtout si vous la jouez Runaway, le Rush détruit votre course si elle Spot Struggle.
+    - Son premier Secret Event requiert de gagner 2 fois Yasuda Kinen (Classic et Senior) et Mile Championship (Classic et Senior), pour 30 de Speed, un hint pour Productive Plan et Unyielding Spirit. Cela fait qu’elle doit faire une course en plus, le Yasuda Kinen (Classic). Cela rends le Secret Event rentable.<br>
+    - Parmi ses Secrets Events, 3 la récompensent avec un hint pour Runaway. Si Daitaku Helios gagne l’Arima Kinen (Senior) en tant que Front Runner, elle l’obtient directement. En cas d'échec, on peut toujours obtenir Runaway si le 1e secret event (décrit plus haut) avait été complété pendant la run, et à condition que Mejiro Palmer affronte votre Helios pendant ledit Arima Kinen (senior). Peu importe le résultat de la course.<br>
+    - Son dernier Secret Event s’active dans les courses où elle est la favorite pour gagner. Elle obtient le skill malus _**Gonna Be Ur #1 FRFR**_. Le skill lui augmente sa chance de Rush. Essayez de ne jamais l’avoir en favorite, surtout si vous la jouez Runaway, le Rush détruit votre course si elle Spot Struggle. En carrière, le malus se soigne pour un coût en énergie et reçoit en récompense en stats et skill points.
  
 - Son unique, **_Hands in the Air Like Ya Don’t Care !_**, est un boost de vélocité de puissance réduite. Il s’active aléatoirement en seconde moitié de Mid-Race si elle est dans le top 50%. En fonction de la distance, l’unique dure plus longtemps. Sur les courses Sprint et Mile, l’unique a une durée accrue, alors qu’en Medium et Long, la durée est basique.<br>
 C’est un assez bon unique, dû à son activation en Mid-Race et la possibilité de créer du carry-over. Cela lui donne un outil en plus pour lutter pour la première place contre les autres Front Runner ou Runaway.
