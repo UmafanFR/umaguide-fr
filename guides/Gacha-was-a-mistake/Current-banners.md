@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/070_Banners_early_preview.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/070_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -88,7 +88,7 @@ _Daitaku Helios est une Front Runner pour le Mile. Elle peut aussi courir parfai
 - Ses gold skills sont :
  
     - **Changing Gears**, la gold version de _Shifting Gears_. C’est un gold de vélocité pour le Mile, qui s’active aléatoirement en Mid-Race si elle est dans le top 50%.<br>
-    C’est un bon gold de vélocité basique, qui a la possibilité de créer du carry-over.
+    C’est un bon gold de vélocité basique, qui a une légère chance de créer du carry-over.
  
     - **Reckless Charge**, la gold version de _No Looking Back_. C’est un gold de vélocité pour le Mile, s’activant aléatoirement en seconde moitié de Mid-Race si l’utilisatrice est dans le top 50%.<br>
     C’est un bon gold de vélocité basique, qui a une assez haute possibilité de créer du carry-over.
@@ -96,9 +96,9 @@ _Daitaku Helios est une Front Runner pour le Mile. Elle peut aussi courir parfai
 - Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chances de le recevoir par carrière.
 
 - Elle possède plusieurs Secret Events, bien que trois d’entre eux amènent au résultat : <br>
-    - Son premier Secret Event est lié à gagner 2 fois Yasuda Kinen (Classic et Senior) et Mile Championship (Classic et Senior), pour 30 de Speed, un hint pour Productive Plan et Unyielding Spirit. Cela fait qu’elle doit faire une course en plus, le Yasuda Kinen (Classic).<br>
-    - 3 de ses Secret Events pour recevoir Runaway. Si Daitaku Helios gagne l’Arima Kinen (Senior) en tant que Front Runner, elle l’obtient directement. Si elle ne le gagne pas, toujours dans la stratégie Front Runner, elle aura besoin de compléter le premier Secret Event et que Mejiro Palmer participe à l’Arima Kinen, peu importe si cette dernière gagne ou pas la course.<br>
-    - Son dernier Secret Event s’active que dans les courses où elle est la favorite pour gagner. Elle obtient le skill malus _**Gonna Be Ur #1 FRFR**_. Le skill lui augmente sa chance de Rush. Essayez de ne jamais l’avoir en favorite, surtout si vous la jouez Runaway, le Rush détruit votre course si elle Spot Struggle.
+    - Son premier Secret Event requiert de gagner 2 fois Yasuda Kinen (Classic et Senior) et Mile Championship (Classic et Senior), pour 30 de Speed, un hint pour Productive Plan et Unyielding Spirit. Cela fait qu’elle doit faire une course en plus, le Yasuda Kinen (Classic). Cela rends le Secret Event rentable.<br>
+    - Parmi ses Secrets Events, 3 la récompensent avec un hint pour Runaway. Si Daitaku Helios gagne l’Arima Kinen (Senior) en tant que Front Runner, elle l’obtient directement. En cas d'échec, on peut toujours obtenir Runaway si le 1e secret event (décrit plus haut) avait été complété pendant la run, et à condition que Mejiro Palmer affronte votre Helios pendant ledit Arima Kinen (senior). Peu importe le résultat de la course.<br>
+    - Son dernier Secret Event s’active dans les courses où elle est la favorite pour gagner. Elle obtient le skill malus _**Gonna Be Ur #1 FRFR**_. Le skill lui augmente sa chance de Rush. Essayez de ne jamais l’avoir en favorite, surtout si vous la jouez Runaway, le Rush détruit votre course si elle Spot Struggle. En carrière, le malus se soigne pour un coût en énergie et reçoit en récompense en stats et skill points.
  
 - Son unique, **_Hands in the Air Like Ya Don’t Care !_**, est un boost de vélocité de puissance réduite. Il s’active aléatoirement en seconde moitié de Mid-Race si elle est dans le top 50%. En fonction de la distance, l’unique dure plus longtemps. Sur les courses Sprint et Mile, l’unique a une durée accrue, alors qu’en Medium et Long, la durée est basique.<br>
 C’est un assez bon unique, dû à son activation en Mid-Race et la possibilité de créer du carry-over. Cela lui donne un outil en plus pour lutter pour la première place contre les autres Front Runner ou Runaway.
@@ -121,11 +121,11 @@ Daitaku Helios est assez bonne et le Runaway la rend un peu unique. Elle se rapp
  
 - Son Unique Effect lui donne 2 Power Bonus quand sa jauge est à 80 (orange)
  
-- Ses rainbows sont plutôt bons dès LB0 avec un Friendship Bonus et Special Priority correct. Les Power Bonus et Guts Bonus améliore bien ses rainbows. Son cross-training est faible, reposant surtout sur un bon Mood Effect et les Stats Bonus.
+- Ses rainbows sont plutôt bons dès LB0 avec un Friendship Bonus et Special Priority correct. Les Power Bonus et Guts Bonus améliorent bien ses rainbows. Son cross-training est faible, reposant surtout sur un bon Mood Effect et les Stats Bonus.
  
 - Elle propose une liste de 6 hints, principalement de Pace Chaser et pour le Sprint. Elle possède un bon Hint Level et Hint Frequency. Ses hints seront sympas.
  
-- Son gold skill est **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération pour Pace Chaser, s’activant aléatoirement dans la première moitié du Late-Race et qu’elle soit dans le top 50%.<br> 
+- Son gold skill est **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération pour Pace Chaser, s’activant aléatoirement dans la première moitié du Late-Race et à condition qu’elle soit dans le top 50%.<br> 
 C'est un très bon skill, dû aussi  la rareté des skills d'accélération pour les Pace Chasers. Le skill est meilleur sur les distances plus courtes.<br>
 C’est aussi la dernière carte qui donne ce gold skill.
 
@@ -137,15 +137,15 @@ C’est aussi la dernière carte qui donne ce gold skill.
  
 - Ses rainbows sont corrects, avec son bon Friendship Bonus et Speed Bonus, malgré un faible Special Priority. Ses rainbows sont moins forts que Sweep Tosho Speed SR et Shunko Windy Speed SR. Son cross-training est faible, avec son faible Training Effectiveness et ses Speed Bonus. Elle est généralement moins bonne que les autres Speed SR.
  
-- Elle propose une liste de 7 hints, dont les très recherchés _Groundwork_ et _Dodging Danger_. Elle possède un super Hint Levels et Hint Frequency. Ses hints seront puissants.
+- Elle propose une liste de 7 hints, dont les très recherchés _Groundwork_ et _Dodging Danger_. Elle possède un très bon Hint Levels et Hint Frequency. Ses hints seront puissants.
  
-- Son dernier Chain Event peut nous donner au choix : 10 Energy + trois skill hint d’_Intimidate_ ou 7 Speed et Power et trois skill hint de _Mad Dash_.
+- Son dernier Chain Event peut nous donner au choix : 10 Energy + trois skill hint d’_Intimidate_ ou 7 Speed et Power et trois skill hint de _Mad Dash_. _Mad Dash_ est le meilleur choix pour une Front Runner, mais _Intimidate_ est bon pour les courses Sprint.
 
 #### PULL OU PAS
 
-Non, seulement pour les personnes qui jouent des Pace Chaser.
+Non, ou seulement pour les personnes qui jouent des Pace Chaser.
  
-K.S. Miracle Guts SSR est la meilleure des 2 cartes qui donne Neck and Neck, en étant plutôt sympa et utilisable pendant le prochain scénario. Le fait qu’elle soit frontloaded est une bonne chose, elle ne devrait pas demander trop de carats. Elle est utilisable dès LB0, bien que le LB1 est appréciable
+K.S. Miracle Guts SSR est la meilleure des 2 cartes qui donne Neck and Neck, en étant plutôt sympa et utilisable pendant le prochain scénario. Le fait qu’elle soit frontloaded est une bonne chose, elle ne devrait pas demander trop de carats. Elle est utilisable dès LB0, bien que le LB1 est appréciable. En gain de stats pur, elle reste inférieur à Haru Urara Guts SSR, et cela va le rester pendant un bon momemnt encore.
  
 Aston Machan Speed SR est surtout intéressante pour le hint farmin, et utilisable dès LB0 pour cette fonction. Sur les autres points, elle est plus faible que sa compétition directe en Speed SR.
  
@@ -172,7 +172,7 @@ _Mejiro Ryan (Valentine) est une Pace Chaser pour le Medium. Elle peut courir pa
     - **Master of Declines**, la gold version de _Downhill Speedster_. C’est un gold de vélocité universel, s’activant aléatoirement dans une descente random.<br>
     La puissance du skill dépendra de l’hippodrome mais comparé à son autre gold, il aura toujours au moins un peu de valeur. Il se complète bien avec son bonus de croissance en Wit, qui est la stat importante dans les descentes.
  
-- Son unique, _**A Warm Cup For You**_, est un boost de vélocité fin de durée réduite. Il s’active en fin de Mid-Race si Mejiro Ryan (Valentine) est dans une descente, tout en étant à moins de 10 mètres de l’uma en tête de course et qu’elle ne soit pas l’uma en tête de course. Dans les courses Medium, l’unique reçoit un petit boost d’accélération.<br>
+- Son unique, _**A Warm Cup For You**_, est un boost de vélocité fin de durée réduite. Il s’active en fin de Mid-Race si Mejiro Ryan (Valentine) est dans une descente, tout en étant à moins de 10 mètres de l’uma en tête de course et si elle n'est pas elle-même l’uma en tête de course. Dans les courses Medium, l’unique reçoit un petit boost d’accélération.<br>
 L’unique est situationnel, elle aura besoin d’une descente entre 60% et 66% de la distance de la course. Les hippodromes où l’unique s’active sont : Tokyo 3 400m, Chukyo, les Medium de Kyoto, Hanshin en dessous de 2 200m.<br>
 Ce n’est pas un très bon unique.
 
@@ -184,16 +184,16 @@ _Ines Fujin (Valentine) est une Front Runner pour le Mile et le Medium. Avec de 
  
 - Ses gold skills sont :
  
-    - **Concentration**, la gold version de _Focus_. C’est un gold universel, utilisé principalement sur les Front Runner qui empêche de Late Start s’il s’active et de faire de meilleur départ.<br>
+    - **Concentration**, la gold version de _Focus_. C’est un gold universel, utilisé principalement sur les Front Runner qui empêche de Late Start s’il s’active, et aide à faire un meilleur départ.<br>
     C’est un skill obligatoire pour les Front Runner dû à leur besoin d’être à la 1ère position. Les Front Runner adverses l'auront sans doute.
  
     - **Crescent Gale**, la gold version de _Front Runner Corners_. C’est un gold de vélocité de Front Runner, qui s’active aléatoirement dans un corner aléatoire si l’utilisatrice est une Front Runner.<br>
     C’est un bon skill, bien que cher sans hints pour _Front Runner Corners_. Le principal problème est que la différence de puissance entre la version gold et la version white est faible comparé à plein d’autres gold skill.
  
 - Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chances de le recevoir par carrière.<br>
-Elle possède aussi 2 autres évènements qui sont intéressants. Un autre de ses Costumes Event peut lui donner _Firm Resolve_ et un de ses Date Events vous donne le choix de prendre _Dodging Danger_. Elle possède dans ses skills de base _Groundwork_. Elle possède une excellente liste de white skills pour une Front Runner.
+Elle possède aussi 2 autres évènements qui sont intéressants. Un autre de ses Costumes Event peut lui donner _Firm Resolve_, et un de ses Date Events vous donne le choix de prendre _Dodging Danger_. Elle possède dans ses skills de base _Groundwork_. Elle possède une excellente liste de white skills pour une Front Runner.
  
-- Elle possède un Secret Event lié à enchaîner une série de victoires de courses G1 en tant que Front Runner. Si elle fait une série d’au moins 7, elle obtient des hints pour _Early Lead_ et _Front Runner Straightaways_, ainsi que 15 en Speed et Guts.
+- Elle possède un Secret Event lié à enchaîner une série de victoires de courses G1 en tant que Front Runner. Si elle fait une série d’au moins 7, elle obtient des hints pour _Early Lead_ et _Front Runner Straightaways_, ainsi que 15 en Speed et Guts. C'est un chouette Secret Event.
  
 - Son unique, _Fresh☆Palor_, est un hybride de vélocité et de recovery avec une durée accrue. Il s’active en première partie de Mid-Race si Ines Fujin est dans le top 30%.<br>
 C'est un unique sympa, qui lui permet de ne pas être restreint avec une carte Stamina. Il lui permet aussi d’activer automatiquement l’unique héritée de Maruzensky (Summer)
@@ -202,7 +202,7 @@ C'est un unique sympa, qui lui permet de ne pas être restreint avec une carte S
 
 Non, a moins que l’une d’elle soit votre Oshi
  
-Mejiro Ryan (Valentine) est trop situationnel, que ce soit pour son unique ou pour **Determined Descent**. Surtout que les 2 ne se complètent pas. Si **Determined Descent** est bon, son unique sera généralement inactivable et l’inverse est aussi vrai. C’est une uma  qui court avec son unique ou un de ses gold skills en moins.
+Mejiro Ryan (Valentine) est trop situationnel, que ce soit pour son unique ou pour **Determined Descent**. Surtout que les 2 ne se complètent pas. Si **Determined Descent** est bon, son unique sera généralement inactivable et l’inverse est aussi vrai.
  
 Ines Fujin (Valentine) est plutôt bonne. Son unique est sympa et **Concentration** reste plutôt rare et inacessible. Elle possède aussi une bonne liste de white skills importants pour les Front Runners (_Groundwork_, _Dodging Danger_, _Firm Resolve_, _Early Lead_). C’est la meilleure uma de la bannière, mais son problème est que sa compétition est vraiment élevée.
 
@@ -217,9 +217,9 @@ Ce n’est pas une bannière à pull, à moins que vous ayez besoin d’une Fron
 
 - La carte est équilibrée. A 1LB, elle débloque Skill Point Bonus puis Race Bonus et Fans Bonus à 3LB.
  
-- Son Unique Effect lui donne 5 de Training Effectiveness, et 3 de Training Effectiveness en plus pour tous les 4 points d’Energie Maximum au-dessus de 100, jusqu’à un maximum de 20 de Training Effectiveness. Ce n’est pas forcément très fort, mais elle a au-moins le 5 de base.
+- Son Unique Effect lui donne 5 de Training Effectiveness, et 3 de Training Effectiveness en plus pour tous les 4 points d’Energie Maximum au-dessus de 100, jusqu’à un maximum de 20 de Training Effectiveness. Ce n’est pas forcément très fort, mais elle a au-moins le 5 de base. C'est un bon effect dans les scénarios où c'est facile de monter l'énergie maximale, Grand Concert n'en fais pas partie.
  
-- Ses rainbows sont bons malgré un faible Friendship Bonus et un Special Priority correct, grâce à son Mood Effect, Training Effectiveness, son Power Bonus et Skill Point Bonus.<br>
+- Ses rainbows sont assez bons, car ils sont amplifiés par ses bonus de cross training (Mood Effect, Training Effectiveness, Power et Skill Point Bonus)<br>
 Son cross-training est dépendant de son Unique Effect. Il se complètent bien avec son bon Mood Effect et ses Stats Bonus.
  
 - Elle propose une liste de 7 hints❗, principalement pour Late Surger et les très bons _Nimble Navigator_ et _Leap Forward_.
@@ -261,7 +261,7 @@ Non.
  
 Biko Pegasus Power SSR ne possède pas un gold skill assez utile pour décider de la prendre dans votre deck. Ce n’est pas comme Daiichi Ruby Power SSR, qui donne un bon skill, ce qui est la raison de son utilisation.
  
-Marvelous Sunday Speed SSR est une bonne statstick, mais c’est tout. Son gold skill n’est pas intéressant. C’est une Kitasan Black sans gold skill et sans hints aussi bons.
+Marvelous Sunday Speed SSR est une bonne statstick, mais c’est tout. Son gold skill n’est pas intéressant. C’est une Kitasan Black sans gold skill et sans hints aussi bons. Elle possède une niche en donnant un gold de recovery supplémentaure en étant une carte Speed. Elle peut-être intéressant pour prendre les skills qui consomment de la Stamina même dans les courses Long (Racing Stramina, Risky Business, Mad Dash, Full Throttle, Scarmble).
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
