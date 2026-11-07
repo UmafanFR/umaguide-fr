@@ -1,5 +1,5 @@
 ---
-title: Gacha - Kitasan Black (New Year) & Satono DIamond (New Year) ★★★ // Sweep Tosho Wit SSR & Special Week Stamina SSR
+title: Gacha - Daitaku Helios ★★★ // K.S. Miracle Guts SSR & Aston Machan Speed SR
 menuTitle: Bannière actuelle
 outline: [2, 3]
 description: Recommandations de pulls sur la/les bannière(s) actuelle(s) de umamusume ★★★ et cartes support SSR
@@ -24,7 +24,7 @@ Et surtout bonne chance 🌟
 
 :::
 
-![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/068_Banners.jpg)
+![Image de présentation de la nouvelle bannière](/public/assets/Gacha-reviews/2026/070_Banners.jpg)
 
 _Pour connaître les heures de début et de fin en France, il faut ajouter +2h._
 
@@ -75,172 +75,193 @@ Bonne chance à tous·tes !
 
 # Nouvelle bannière actuelle
 
-### Bannière Umamusume : Kitasan Black (New Year) & Satono DIamond (New Year) ★★★
+### Bannière Umamusume : Daitaku Helios ★★★
 
-![Image de présentation de la bannière Kitasan Black (New Year) & Satono DIamond (New Year)](/public/assets/Gacha-reviews/2026/068_Uma-Banner.png)
+![Image de présentation de la bannière Daitaku Helios](/public/assets/Gacha-reviews/2026/070_Uma-Banner.png)
 
-⏩ **Kitasan Black (New Year)** :
+⏩ **Daitaku Helios** :
 
-_Kitasan Black (New Year) est une Front Runner pour le Medium et le Long. Avec de l’inspiration, elle peut courir en Mile, mais aussi en tant que Pace Chaser et Late Surger (respectivement 4 :star:, 1 :star: et 4 :star:). Elle possède un gold de vélocité et un gold d’accélération, tous les 2 de Front Runner. Son unique est un boost de Current Speed et d’accélération s’activant en Late-Race ou Last Spurt._
+_Daitaku Helios est une Front Runner pour le Mile. Elle peut aussi courir parfaitement en tant que Pace Chaser. Avec de l’inspiration, elle peut courir en Sprint et en Medium (1 :star: pour les 2). Elle possède deux gold de vélocité pour le Mile. Son unique est un boost de vélocité de deuxième moitié de Mid-Race._
  
-- Elle possède 3 bonus de croissance : 10% en :speed:, 10% en :power: et 10% en :wit:. C’est selon mon avis, le meilleur combo de bonus possible pour 3 bonus de croissance. Son deck peut être assez flexible, et surtout elle n’aura  pas besoin de prendre la Mihono Bourbon Wit SSR gratuite (elle devra prendre celle qui sort pendant le prochain scénario).
+- Elle possède 2 bonus de croissance : 15% en :speed: et 15% en :power:. C’est un très bon combo, qui se complète toujours bien. Cela lui donne aussi de la flexibilité sur son deck pour prendre une carte Guts avec 2 Speed 2 Wit et la carte scénario.
  
 - Ses gold skills sont :
  
-    - **Escape Artist**, la gold version de _Fast-Paced_. C’est un gold de vélocité pour Front Runner, s’activant aléatoirement en Mid-Race si elle est dans le top 50%.<br>
-    C’est un bon skill de Mid-Race.
+    - **Changing Gears**, la gold version de _Shifting Gears_. C’est un gold de vélocité pour le Mile, qui s’active aléatoirement en Mid-Race si elle est dans le top 50%.<br>
+    C’est un bon gold de vélocité basique, qui a une légère chance de créer du carry-over.
  
-    - **Taking the Lead**, la gold version d’_Early Lead_. C’est un gold d’accélération pour Front Runner. Il s’active dès le début de la course.<br>
-    C’est un très bon skill, les Front Runners ont besoin de beaucoup d’accélération au début de la course pour prendre la première place. Cela lui libère aussi le fait de devoir prendre Mihono Bourbon Wit pour soit prendre une meilleure stats stick ou un autre skill gold.
+    - **Reckless Charge**, la gold version de _No Looking Back_. C’est un gold de vélocité pour le Mile, s’activant aléatoirement en seconde moitié de Mid-Race si l’utilisatrice est dans le top 50%.<br>
+    C’est un bon gold de vélocité basique, qui a une assez haute possibilité de créer du carry-over.
  
 - Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chances de le recevoir par carrière.
- 
-- Deux de ses Secret Events sont liés à devenir une Triple Crown (Satsuki Sho / Tokyo Yushun / Kikuka Sho) (mais aussi de gagner Arima Kinen (Senior) pour l’un des deux). Cela veut dire faire 2 courses en plus. Vous recevrez un total de 16 dans toutes les stats, 99 Skill Points et des hints pour _Firm Resolve_, _Keeping the Lead_ et _Prudent Positioning_. Sans compter ce que gagner ses courses donnent de base.<br>
-C’est extrêmement rentable, surtout qu’elle possède aussi de base, ou dans ses skills à éveillés, _Dodging Danger_ et _Groundwork_.
- 
-Son unique, _**Bring the Banquet !**_, est un boost de Current Speed et de faible accélération de durée réduite. L’unique s’active en Late-Race ou Last Spurt si Kitasan Black (New Year) se trouve dans un corner qui est à au moins 600 mètres de l'arrivée et qu’elle est dans le top 3.<br>
-C’est un excellent unique, sauf en Sprint et certains Mile vu qu'il ne s’active pas. L’unique aura toujours de la valeur dû au fait que c’est un boost de Current Speed. Sur les courses où le Late-Race commence sur les 600 derniers mètres dans un corner, l’unique est parfait et surpuissant, car on bénificie de l'accélération en plus du boost de Current Speed. Les courses où son unique est parfait correspond à la grande majorité des courses Medium.<br>
-C’est aussi un bon unique à hérité pour les Front Runner et les Pace Chaser. Elle est un excellent parent.
 
-⏩ **Satono Diamond (New Year)** :
-
-_Satono Diamond (New Year) est une Late Surger pour le Long. Elle peut aussi courir parfaitement en Medium. Avec de l’inspiration, elle peut courir en Mile, mais aussi en tant que Pace Chaser et End Closer (respectivement 4 :star:, 1 :star: et 7 :star:). Elle possède un gold d’accélération de Late Surger et un gold hyrbide de debuff et de recovery, tous les 2 pour le Long. Son unique est hybride boost de vélocité et de recovery._
+- Elle possède plusieurs Secret Events, bien que trois d’entre eux amènent au résultat : <br>
+    - Son premier Secret Event requiert de gagner 2 fois Yasuda Kinen (Classic et Senior) et Mile Championship (Classic et Senior), pour 30 de Speed, un hint pour Productive Plan et Unyielding Spirit. Cela fait qu’elle doit faire une course en plus, le Yasuda Kinen (Classic). Cela rends le Secret Event rentable.<br>
+    - Parmi ses Secrets Events, 3 la récompensent avec un hint pour Runaway. Si Daitaku Helios gagne l’Arima Kinen (Senior) en tant que Front Runner, elle l’obtient directement. En cas d'échec, on peut toujours obtenir Runaway si le 1e secret event (décrit plus haut) avait été complété pendant la run, et à condition que Mejiro Palmer affronte votre Helios pendant ledit Arima Kinen (senior). Peu importe le résultat de la course.<br>
+    - Son dernier Secret Event s’active dans les courses où elle est la favorite pour gagner. Elle obtient le skill malus _**Gonna Be Ur #1 FRFR**_. Le skill lui augmente sa chance de Rush. Essayez de ne jamais l’avoir en favorite, surtout si vous la jouez Runaway, le Rush détruit votre course si elle Spot Struggle. En carrière, le malus se soigne pour un coût en énergie et reçoit en récompense en stats et skill points.
  
-- Elle possède 2 bonus de croissance : 15% en :speed: et 15% :stamina:. C’est un excellent combo, surtout pour le Long. Il sera possible de la jouer avec 2 cartes Speed et potentiellement pas de carte Stamina si vous utilisez des parents Stamina dans les Long de plus courtes distances.
- 
-- Ses gold skills sont :
-    - **Claw Forward**, la gold version de _Scramble_. C’est un skill d’accélération de Late Surger pour le Long. Il s’active si l’uma rentre en Last Spurt Mode et qu’elle se trouve dans le bottom 60%. Le skill consomme de la stamina (plus qu’un white skill de recovery).<br>
-    C’est un skill obligatoire si vous voulez jouer des Late Surgers en Long. Sans ce skill, les Late Surgers resteront plus faibles que les autres stratégies.
- 
-    - **Stamina Siphon**, la gold version de _Stamina Eater_. C'est un gold debuff de distance Long, qui réduit un peu les HP des uma devant elle, et lui restaure des HP.<br>
-    Ce n'est pas un très bon skill, car le stamina drain est trop faible (1 white debuff) et la recovery est moins forte qu'une gold recovery basique. Vous pouvez l'utiliser en pseudo-recovery si vous êtes proche de la stamina requise pour la course. Mais pour les courses les plus longues (Tenno Sho Spring et Kikuka Sho), on préfèrera une vraie gold recovery.
- 
-- Son unique, _**Rain Cloud Bolt**_, est un boost hybride de vélocité et de recovery. L’unique s’active entre 40% et 50% de course parcouru si Satono Diamond (New Year) se trouve entre le bottom 20% et le top 40% (≥4 <-> ≤7, en CM).<br>
-C’est un bon unique, qui est facilement utilisable et très utile juste pour la recovery. Il n’est cependant pas utile en version héritée.
+- Son unique, **_Hands in the Air Like Ya Don’t Care !_**, est un boost de vélocité de puissance réduite. Il s’active aléatoirement en seconde moitié de Mid-Race si elle est dans le top 50%. En fonction de la distance, l’unique dure plus longtemps. Sur les courses Sprint et Mile, l’unique a une durée accrue, alors qu’en Medium et Long, la durée est basique.<br>
+C’est un assez bon unique, dû à son activation en Mid-Race et la possibilité de créer du carry-over. Cela lui donne un outil en plus pour lutter pour la première place contre les autres Front Runner ou Runaway.
 
 #### Pull ou pas ? :
 
-Oui, surtout si Kitasan Black est votre Oshi.
-
-Narita Brian (Blaze) est une uma à pull ? Eh bien vous en aurez une 2ème à la suite avec Kitasan Black (New Year) qui est la star de cette bannière.
+Non, sauf si elle est votre Oshi.
  
-Kitasan Black (New Year) possède un kit parfait, je ne pense pas avoir vu meilleur, même avec XOguri. C’est simple, il n’y a aucun défaut, et que des points incroyables, surtout quand on pense au futur. Premièrement, le meilleur combo de 3 bonus de croissance possible. Cela fait qu’elle est simple à build niveau stats.
- 
-Niveau white skills, elle possède de base Dodging Danger et Groundwork. Et elle peut avoir Prudent Positioning et Firm Resolve avec ses Secrets Events. Elle possède tout les whites skills de Front Runner important.
- 
-Les gold skills, c’est pareil. Elle possède Escape Artist, dont la version white skill, Fast Paced, reste l’un des skill le plus difficile à farm pour l’instant. Le fait d’avoir Taking the Lead, lui permet de prendre une meilleure statstick, mais aussi de pouvoir cumuler dans le futur, avec le gold de Groundwork qui sera donné par une autre Mihono Bourbon Wit.
- 
-Finalement, son unique est surpuissant et aura toujours de la valeur. C’est une uma parfaite.
- 
-Satono Diamond (New Year) n’est pas mauvaise, son combo de bonus, son unique et Claw Forward sont bons ou excellent. Mais en face de Kitasan Black (New Year), on peut voir une préférence. Un autre problème pour elle est le prochain scénario, où elle se fera powercreep par une autre Late Surger pour le Long.
- 
-Un point positif est de ne pas avoir besoin de prendre Symboli Kris S Stamina SSR pour Claw Forward, ce qui lui laisse une liberté de choix. Son unique et Stamina Siphon est équivalent à un gold skill + white skill de recovery, donc si vous avez de bon parents Stamina, il serait possible de monter suffisamment Stamina avec une carte Power (Narita Brian Power SSR par exemple).
- 
-C’est une uma qui est bonne, et qui possède une création de deck qui peut être intéressante, mais elle n’est pas un must pull comparé à Kitasan Black (New Year). Elle reste meilleure que sa version OG pour le Long.
- 
-C’est une bonne bannière à pull
+Daitaku Helios est assez bonne et le Runaway la rend un peu unique. Elle se rapproche un peu de Maruzensky (Summer), en ayant un meilleur Mid-Race, bien que Maruzensky (Summer) possède des moyens pour décider où activer son unique.
 
 ---
 
-### Bannière support : Sweep Tosho Wit SSR & Special Week Stamina SSR
+### Bannière support : K.S. Miracle Guts SSR & Aston Machan Speed SR
 
-![Image de présentation de la bannière Sweep Tosho Wit SSR & Special Week Stamina SSR](/public/assets/Gacha-reviews/2026/068_Card-Banner.png)
+![Image de présentation de la bannière K.S. Miracle Guts SSR & Aston Machan Speed SR](/public/assets/Gacha-reviews/2026/070_Card-Banner.png)
 
-⏩**Sweep Tosho** :wit: :SSR:
+⏩**K.S. Miracle** :guts: :SSR:
 
-- La carte est backloaded. A 1LB, elle débloque Skill Point Bonus, puis Wit Bonus à 3LB et un second Wit Bonus à MLB.
+- La carte est frontloaded. A 1LB, elle débloque Guts Bonus puis Initial Power à 3LB.
  
-- Son Unique Effect lui donne 40 de Special Priority quand sa jauge est à 80 (orange). Cela fait que son Special Priority est en réalité plus élevé que ce que la carte et Gametora montre. Elle possède en réalité 89 de Special Priority.
+- Son Unique Effect lui donne 2 Power Bonus quand sa jauge est à 80 (orange)
  
-- Bien que ses rainbows semblent bons avec son bon Friendship Bonus, Special Priority et Stats Bonus, l’absence de Training Effectiveness les rends bien moins fort. Son cross-training est presque inexistant, il se repose sur un peu de Mood Effect et le Skill Point Bonus.
+- Ses rainbows sont plutôt bons dès LB0 avec un Friendship Bonus et Special Priority correct. Les Power Bonus et Guts Bonus améliorent bien ses rainbows. Son cross-training est faible, reposant surtout sur un bon Mood Effect et les Stats Bonus.
  
-- Elle propose une liste de 8 hints❗, principalement pour End Closer et le très bon _Slipstream_. Elle possède un super Hint Levels et Hint Frequency, ses hints seront puissants.
+- Elle propose une liste de 6 hints, principalement de Pace Chaser et pour le Sprint. Elle possède un bon Hint Level et Hint Frequency. Ses hints seront sympas.
  
-- Son gold skill est **Razor-Sharp Steps**, la gold version de _Sharp Steps_. C’est un gold d’accélération d’End Closer. Avant de s’activer, l’utilisatrice aura besoin d’être en dehors du top 50% à partir de 2/3 de courses parcouru, et ce, sans avoir rush depuis le début de la course. Ensuite, le skill s’active aléatoirement en première moitié du Late-Race.<br>
-Plus la distance est courte, plus le skill gagnera en valeur, vu que la zone d’activation devient plus petite. Il se rapproche grandement de **Neck and Neck** et **On Your Left !**, en comparaison, bien qu’il soit un poil moins puissant dû à une duration plus faible. C’est un bon skill, qui permet aux End Closer d’être plus fiable dans les courses où Straightaway Spurt ne s’active pas bien.
+- Son gold skill est **Neck and Neck**, la gold version d’_Head-On_. C’est un gold d’accélération pour Pace Chaser, s’activant aléatoirement dans la première moitié du Late-Race et à condition qu’elle soit dans le top 50%.<br> 
+C'est un très bon skill, dû aussi  la rareté des skills d'accélération pour les Pace Chasers. Le skill est meilleur sur les distances plus courtes.<br>
+C’est aussi la dernière carte qui donne ce gold skill.
 
-⏩**Special Week** :stamina: :ssr:
+⏩**Aston Machan** :speed: :sr:
 
-- La carte est backloaded. A 1LB, elle débloque Guts Bonus, puis Training Effectiveness à 3LB.
+- La carte est backloaded. A 1LB, elle débloque Initial Speed puis Speed Bonus à MLB
  
-- Son Unique Effect lui donne 60 de Mood Effect pendant un Friendship Training (Rainbow). Cet effet s'applique aussi si elle participe à un Friendship Training d'une autre carte. C'est un bon unique effect de cross-training.
+- Son Unique Effect lui donne 10 de Friendship Bonus et un second Speed Bonus. Cela fait que son Friendship Bonus est en réalité plus élevé que ce que la carte montre. Elle possède 32 de Friendship Bonus.
  
-- Ses rainbows sont plutôt bons, malgré un faible Friendship Bonus et Special Piority, grâce à son Unique Effect et son Training Effect mais aussi ses Stats Bonus (Stamina Bonus, Guts Bonus, Skill Point Bonus). Elle donne moins de Stamina que Super Creek, mais plus de Guts et de Skill Points.<br>
-Son cross-training est juste excellent, avec son bon Training Effectiveness, le Skill Point Bonus et son Unique Effect. Elle est supérieur à Super Creek en cross-training quand son Unique Effect est actif.
-
-- Elle propose une liste de 10 hints❗, principalement pour le Medium, mais aussi le très utile _Nimble Navigator_. Elle possède un super Hint Levels et Hint Frequency, ses hints seront puissants.
+- Ses rainbows sont corrects, avec son bon Friendship Bonus et Speed Bonus, malgré un faible Special Priority. Ses rainbows sont moins forts que Sweep Tosho Speed SR et Shunko Windy Speed SR. Son cross-training est faible, avec son faible Training Effectiveness et ses Speed Bonus. Elle est généralement moins bonne que les autres Speed SR.
  
-- Son gold skill est **No Stopping Me !**, la gold version de _Nimble Navigator_. C’est un gold d’accélération universel, s’activant en Late Race si votre uma a assez de HP pour finir la course, et qu'une uma adverse se trouve devant elle (en face, ou sur une voie adjacente) pendant 1 seconde.<br>
-C’est un très bon skill universel (sauf pour les Front Runner).
+- Elle propose une liste de 7 hints, dont les très recherchés _Groundwork_ et _Dodging Danger_. Elle possède un très bon Hint Levels et Hint Frequency. Ses hints seront puissants.
+ 
+- Son dernier Chain Event peut nous donner au choix : 10 Energy + trois skill hint d’_Intimidate_ ou 7 Speed et Power et trois skill hint de _Mad Dash_. _Mad Dash_ est le meilleur choix pour une Front Runner, mais _Intimidate_ est bon pour les courses Sprint.
 
 #### PULL OU PAS
 
-Non, en revanche la Sweep Tosho est un bon emprunt.
+Non, ou seulement pour les personnes qui jouent des Pace Chaser.
  
-Sweep Tosho Wit SSR ne brille pas en tant que statsticks, mais surtout pour son gold skill. Elle est à emprunter pour les End Closer. Elle n’est pas à pull car Mr. C.B est déjà la carte Wit principale pour les End Closer, mais surtout la meilleure des 2.
+K.S. Miracle Guts SSR est la meilleure des 2 cartes qui donne Neck and Neck, en étant plutôt sympa et utilisable pendant le prochain scénario. Le fait qu’elle soit frontloaded est une bonne chose, elle ne devrait pas demander trop de carats. Elle est utilisable dès LB0, bien que le LB1 est appréciable. En gain de stats pur, elle reste inférieur à Haru Urara Guts SSR, et cela va le rester pendant un bon momemnt encore.
  
-Bien qque Special Week Stamina SSR ne soit pas mauvaise, elle sera rarement utilisée. Comme toujours, si on prend une carte Stamina, c’est principalement pour un gold de recovery, ou un autre skill META. **No Stopping Me !** est un excellent skill, mais il n’est pas aussi META et/ou important que l’est **Claw Forward** sur Symboli Kris S Stamina SSR par exemple. Son white, _Nimble Navigator_, est généralement suffisant avec les autres skills d’accélérations que vous prenez pour vos Aces. C’est une carte qui a peu de réelle utilité comparée à d’autres cartes Stamina.
-
-Ne pullez pas sur cette bannière, empruntez les cartes si vous en avez besoin.
+Aston Machan Speed SR est surtout intéressante pour le hint farmin, et utilisable dès LB0 pour cette fonction. Sur les autres points, elle est plus faible que sa compétition directe en Speed SR.
+ 
+Ce n’est pas une bannière à pull dans la majorité des cas.
 
 ---
 
-# Bannières à suivre (25 Octobre 00h)  
+# Bannières à suivre (09 Novembre 23h)  
 
-![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/069_Banners_early_preview.jpg)
+![Image de présentation de la bannière à suivre](/public/assets/Gacha-reviews/2026/071_Banners_early_preview.jpg)
 
-### Bannière Umamusume à suivre : Hokko Tarumae ★★★
+### Bannière Umamusume à suivre : Mejiro Ryan (Valentine) & Ines Fujin (Valentine) ★★★
 
-⏩ **Hokko Tarumae** :
+⏩ **Mejiro Ryan (Valentine)** :
 
-_Hokko Tarumae est une Pace Chaser Dirt pour le Mile et le Medium. Avec de l’inspiration, elle peut courir en tant que Front Runner (1 étoile). Elle possède un gold de recovery de Pace Chaser et un gold de vélocité pour le Dirt. Son unique est un boost d’accélération._
+_Mejiro Ryan (Valentine) est une Pace Chaser pour le Medium. Elle peut courir parfaitement en tant que Late Surger. Avec de l’inspiration, elle peut courir en Long et en Mile (respectivement 1 :star: et 4 :star:). Elle possède un gold d’accélération de Pace Chaser et un gold de vélocité universel. Son unique est un boost de vélocité de Mid-Race, avec un peu d’accélération en Medium._
  
-- Hokkko Tarumae possède 3 bonus de croissance : 10% en :speed:, 10% en :stamina: et 10% en :wit:. C’est un bon combo de bonus, qui lui permet de jouer avec 2 cartes Speed. Son gold de recovery lui permet aussi de ne pas potentiellement jouer une carte Stamina. Ses decks sont assez libres.
+- Elle possède 2 bonus de croissance : 20% en :speed: et 10% en :wit:. C’est un combo sympa, qui est toujours utile. Le 20% en Speed est toujours très sympa car il nous permet de jouer avec 2 cartes Speed, surtout qu’elle aura besoin d’une carte Stamina et d’un gold recovery en tant que Pace Chaser Medium.
  
 - Ses gold skills sont :
  
-    - **Calm and Collected**, la version gold _Stamina to Spare_. C'est un gold recovery de Pace Chaser qui s'active dans la 2e moitié de l'Early-race, en étant top 50%.<br>
-    Sur les courses Long, le skill est presque parfaitement fiable, et reste très fiable en Medium. Plus la course est courte, moins il est fiable (risque d'activation trop tôt, avec recovery partiellement gachée), mais vous ne devriez pas du tout en avoir besoin en Sprint et en Mile.
+    - **Determined Descent**, la gold version de _Straight Descent_. C'est un gold d'accélération de Pace Chaser, s'activant à un point random d'une descente random.<br> Le skill est particulièrement situationnel, et n'a d'intérêt que dans les courses ayant une descente courte au début du late-race (mais pas d'autre descente). Ce n'est pas un skill fiable, mais il peut être occasionnellement très puissant sur certaines courses (typiquement, Kyoto med).
  
-    - **Trending in the Charts !**, la gold version de _Top Pick_. C’est un gold de vélocité pour le Dirt, s’activant en Mid-Race si elle a été contestée pendant 2 secondes sur un de ses côtés.<br>
-    C’est un bon gold de vélocité basique.
+    - **Master of Declines**, la gold version de _Downhill Speedster_. C’est un gold de vélocité universel, s’activant aléatoirement dans une descente random.<br>
+    La puissance du skill dépendra de l’hippodrome mais comparé à son autre gold, il aura toujours au moins un peu de valeur. Il se complète bien avec son bonus de croissance en Wit, qui est la stat importante dans les descentes.
  
-- Ses 2 Secrets Events vont vous demander de gagner 3 courses G1 Dirt en plus. Ils sont des bonnes sources de stats et des hints pour _Forward, March !_ et _Sunny Sign_.
+- Son unique, _**A Warm Cup For You**_, est un boost de vélocité fin de durée réduite. Il s’active en fin de Mid-Race si Mejiro Ryan (Valentine) est dans une descente, tout en étant à moins de 10 mètres de l’uma en tête de course et si elle n'est pas elle-même l’uma en tête de course. Dans les courses Medium, l’unique reçoit un petit boost d’accélération.<br>
+L’unique est situationnel, elle aura besoin d’une descente entre 60% et 66% de la distance de la course. Les hippodromes où l’unique s’active sont : Tokyo 3 400m, Chukyo, les Medium de Kyoto, Hanshin en dessous de 2 200m.<br>
+Ce n’est pas un très bon unique.
+
+⏩ **Ines Fujin (Valentine)** :
+
+_Ines Fujin (Valentine) est une Front Runner pour le Mile et le Medium. Avec de l’inspiration, elle peut courir en Long et en tant que Pace Chaser (4 :star: pour les 2). Elle possède Concentration et un gold de vélocité de Front Runner. Son unique est un hybride de vélocité et de recovery de Mid-Race_
  
-- Son unique, _**Shine On, Tomakomai ! ☆**_, est un boost d’accélération qui s’active seulement sur les courses Dirt et qui possède 2 variations de puissance. Avant de s’activer, Hokko Tarumae aura besoin d’être contestée sur un coté pendant 2 secondes sur un corner de Mid-Race. Ensuite, il s’active si elle rentre en mécanique de Last Spurt en étant entre le top 40% et le top 30% (≥ 3 <-> 4 ≤ en CM).<br>
-La variation puissante s’active si elle a suffisamment d’HP pour finir la course à vitesse maximale..<br>
-L’unique est excellent, vu qu’il peut s’activer dès qu’elle arrive en Late-Race. Il reste plutôt difficile à activer vu qu’il faut être sur 2 positions précises.<br>
-Ce n’est cependant pas un bon unique à hérité, car la variation puissante n’existe pas en version hérité.
+- Elle possède 3 bonus de croissance : 14% en :speed:, 8% en :guts: et 8% en :wit:. C’est un bon combo, bien que ce soit dommage d’avoir le Guts. Le 14% en Speed est suffisant pour jouer avec 2 cartes Speed. Elle n’a pas forcément besoin d’une carte Stamina grâce à son unique, ce qui lui donne une plus grande flexibilité dans ses decks.
+ 
+- Ses gold skills sont :
+ 
+    - **Concentration**, la gold version de _Focus_. C’est un gold universel, utilisé principalement sur les Front Runner qui empêche de Late Start s’il s’active, et aide à faire un meilleur départ.<br>
+    C’est un skill obligatoire pour les Front Runner dû à leur besoin d’être à la 1ère position. Les Front Runner adverses l'auront sans doute.
+ 
+    - **Crescent Gale**, la gold version de _Front Runner Corners_. C’est un gold de vélocité de Front Runner, qui s’active aléatoirement dans un corner aléatoire si l’utilisatrice est une Front Runner.<br>
+    C’est un bon skill, bien que cher sans hints pour _Front Runner Corners_. Le principal problème est que la différence de puissance entre la version gold et la version white est faible comparé à plein d’autres gold skill.
+ 
+- Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chances de le recevoir par carrière.<br>
+Elle possède aussi 2 autres évènements qui sont intéressants. Un autre de ses Costumes Event peut lui donner _Firm Resolve_, et un de ses Date Events vous donne le choix de prendre _Dodging Danger_. Elle possède dans ses skills de base _Groundwork_. Elle possède une excellente liste de white skills pour une Front Runner.
+ 
+- Elle possède un Secret Event lié à enchaîner une série de victoires de courses G1 en tant que Front Runner. Si elle fait une série d’au moins 7, elle obtient des hints pour _Early Lead_ et _Front Runner Straightaways_, ainsi que 15 en Speed et Guts. C'est un chouette Secret Event.
+ 
+- Son unique, _Fresh☆Palor_, est un hybride de vélocité et de recovery avec une durée accrue. Il s’active en première partie de Mid-Race si Ines Fujin est dans le top 30%.<br>
+C'est un unique sympa, qui lui permet de ne pas être restreint avec une carte Stamina. Il lui permet aussi d’activer automatiquement l’unique héritée de Maruzensky (Summer)
 
 #### Pull ou pas ? :
 
-Oui, si elle est votre Oshi ou que vous voulez une bonne Uma Dirt.
+Non, a moins que l’une d’elle soit votre Oshi
  
-Hokko Tarumae est une très bonne uma Dirt, principalement grâce à son unique. Son combo de bonus et gold skill sont aussi bon pour elle, avec son besoin d’être sur de finir à vitésse maximale les courses pour son unique.
+Mejiro Ryan (Valentine) est trop situationnel, que ce soit pour son unique ou pour **Determined Descent**. Surtout que les 2 ne se complètent pas. Si **Determined Descent** est bon, son unique sera généralement inactivable et l’inverse est aussi vrai.
  
-Elle est de puissance légèrement moindre par rapport à Copano Rickley, mais est bien plus simple à faire.
+Ines Fujin (Valentine) est plutôt bonne. Son unique est sympa et **Concentration** reste plutôt rare et inacessible. Elle possède aussi une bonne liste de white skills importants pour les Front Runners (_Groundwork_, _Dodging Danger_, _Firm Resolve_, _Early Lead_). C’est la meilleure uma de la bannière, mais son problème est que sa compétition est vraiment élevée.
+
+Kitasan Black (New Year) est sorti y’a peu de temps, il reste toujours l’excellente Seiun Sky. Elle prend la place de Mihono Bourbon (Valentine) en termes de puissance.
  
-C’est la 3ème uma de suite qui est une bonne idée de pull. Bon courage pour vos pull et votre économie de carats.
+Ce n’est pas une bannière à pull, à moins que vous ayez besoin d’une Front Runner pour remplacer Mihono Bourbon (Valentine)
 
-### Bannière Support à suivre : Agnes Tachyon Speed SSR & Tokai Teio Wit SSR (rerun)
 
-⏩**Agnes Tachyon** :speed: :SSR:
+### Bannière Support à suivre : Biko Pegasus Power SSR & Marvelous Sunday Speed SSR
 
-[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_55-agnes-tachyon-speed-ssr-light-hello-pal-ssr)
+⏩**Biko Pegasus** :power: :SSR:
 
-⏩**Tokai Teio** :wit: :ssr:
+- La carte est équilibrée. A 1LB, elle débloque Skill Point Bonus puis Race Bonus et Fans Bonus à 3LB.
+ 
+- Son Unique Effect lui donne 5 de Training Effectiveness, et 3 de Training Effectiveness en plus pour tous les 4 points d’Energie Maximum au-dessus de 100, jusqu’à un maximum de 20 de Training Effectiveness. Ce n’est pas forcément très fort, mais elle a au-moins le 5 de base. C'est un bon effect dans les scénarios où c'est facile de monter l'énergie maximale, Grand Concert n'en fais pas partie.
+ 
+- Ses rainbows sont assez bons, car ils sont amplifiés par ses bonus de cross training (Mood Effect, Training Effectiveness, Power et Skill Point Bonus)<br>
+Son cross-training est dépendant de son Unique Effect. Il se complètent bien avec son bon Mood Effect et ses Stats Bonus.
+ 
+- Elle propose une liste de 7 hints❗, principalement pour Late Surger et les très bons _Nimble Navigator_ et _Leap Forward_.
+ 
+- Son gold skill est **Sharp Arc**, la gold version _Late Surger Corners_. C’est un gold de vélocité de Late Surger, s’activant aléatoirement dans un corner aléatoire si l’utilisatrice est une Late Surger<br>
+C’est un bon skill, bien que cher sans hints pour _Late Surger Corners_. Le principal problème est que la différence de puissance entre la version gold et la version white est faible comparé à plein d’autres gold skill.
 
-[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_56-tokai-teio-wit-ssr-twin-turbo-guts-ssr)
+⏩**Marvelous Sunday** :speed: :ssr:
+
+- La carte est équilibrée. A 1LB, elle débloque Skill Point Bonus puis Mood Effect à 3LB.
+ 
+- Son Unique Effect lui donne 15 de Training Effectiveness quand jauge de bond est pleine.
+ 
+- Ses rainbows sont très bons, avec son Friendship Bonus correct et bon Special Priority, mais aussi son très bon Training Effectiveness et son Mood Effect, sans oublier son Speed Bonus, Power Bonus et Skill Point Bonus. Elle donne un peu plus de stats que Kitasan Black.<br>
+Son cross-training est identique à Kitasan Black, donc bons. Elle donne un peu plus de Skill Points et de Speed grâce à ses Stats Bonus.
+ 
+::: info Comparaison avec Kitasan Black
+
+Marvelous Sunday Speed SSR possède autant de Friendship Bonus, Training Effectiveness et Mood Effect. Elle possède Speed Bonus et Skill Point Bonus comparé à un meilleur Special Priority pour Kitasan Black. En termes de statstick, il est compréhensible de penser que Marvelous Sunday puisse être considérée meilleur. Mais je veux mettre en avant l’importance du Special Priority sur toutes une carrière
+ 
+Chaque facilité d'entraînement possède un poids de 100, et l’absence de tous les entraînements est un poids de 50. Le Special Priority ajoute du poids sur sa facilité et modifie les pourcentages des autres entraînements mais aussi de l’absence.
+ 
+Kitasan Black, avec son Special Priority de 116, ajoute énormément de poids sur la facilité Speed, mais aussi sur le total. Afin de calculer la fréquence d'entraînement, on divise le poids d’une facilité ou de l’absence par le poids total de la carte. Cela fait que Kitasan Black possède un poids de 216 en Speed pour un total de 666.
+Cela fait qu’elle possède 32% de chance de tomber en Speed, 15% de chance pour les autres facilités et 7,5% de chance pour qu’elle soit absente.
+Marvelous Sunday possède 26,8% de chance de tomber en Speed, 16,2% de chance pour les autres facilités et 8% de chance d’absence.
+
+Bien qu’elle donne plus de stats en 1 entraînement, elle donnera généralement moins de Speed car elle ira moins souvent en Speed.
+
+:::
+ 
+- Elle propose une liste de 8 hints❗, pour le Medium et le Long. Elle possède un très bon Hints Levels et Hint Frequency. Ses hints seront puissants.
+ 
+- Son gold skill est **Indomitable**, la gold version de _Pace Strategy_. C’est un gold de recovery universel, qui s’active en Mid-Race si elle double une uma.<br>
+Le skill est correct mais sans plus.
 
 #### PULL OU PAS
 
-Seulement s'il vous manquent des LB et que vous avez impérativement besoin d'avoir une bonne carte Speed et/ou Wit.
-
-Agnes Tachyon Speed SSR restera la carte Speed principale pour les Pace Chasers pendant Grandmaster, le prochain scénario. Elle deviendra la carte speed secondaire pendant L'Arc, le scénario après Grandmaster et sort complétement de la META juste après. Elle est à compléter si vous jouez principalement des Pace Chasers ou que vous ne possédez aucune des top tiers cartes Speed.
-
-Tokai Teio Wit SSR est sortie de la META dès Grandmaster. Elle reste utilisable si vous ne possédez pas les cartes Wit secondaires, comme le seront Fine Motion Wit SSR ou Mr. C.B Wit SSR et d'autres cartes Wit qui sortent pendant Grandmaster. L'arrivé de Mejiro Ramonu Wit SSR, fait descendre toutes les top tiers de 1 ou 2 rangs, avec seulement Fine Motion qui reste dans le top tier avec les cartes Wit qui donne d'excellent Gold skill, comme Mr. C.B.
-
-C'est une bannière à pull en fonction du besoin d'Agnes Tachyon Speed SSR. Si vous ne jouez pas de Pace Chaser, ce n'est pas une bannière à pull.
+Non.
+ 
+Biko Pegasus Power SSR ne possède pas un gold skill assez utile pour décider de la prendre dans votre deck. Ce n’est pas comme Daiichi Ruby Power SSR, qui donne un bon skill, ce qui est la raison de son utilisation.
+ 
+Marvelous Sunday Speed SSR est une bonne statstick, mais c’est tout. Son gold skill n’est pas intéressant. C’est une Kitasan Black sans gold skill et sans hints aussi bons. Elle possède une niche en donnant un gold de recovery supplémentaure en étant une carte Speed. Elle peut-être intéressant pour prendre les skills qui consomment de la Stamina même dans les courses Long (Racing Stramina, Risky Business, Mad Dash, Full Throttle, Scarmble).
 
 ### Vous pouvez consulter les archives des précédentes bannières
 
