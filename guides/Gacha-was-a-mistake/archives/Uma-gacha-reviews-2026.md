@@ -1934,3 +1934,101 @@ Non, sauf si elle est votre Oshi.
 Daitaku Helios est assez bonne et le Runaway la rend un peu unique. Elle se rapproche un peu de Maruzensky (Summer), en ayant un meilleur Mid-Race, bien que Maruzensky (Summer) possède des moyens pour décider où activer son unique.
 
 :::
+
+## #71 - Mejiro Ryan (Valentine) & Ines Fujin (Valentine) ★★★
+
+![Image de présentation de la bannière Mejiro Ryan (Valentine) & Ines Fujin (Valentine)](/public/assets/Gacha-reviews/2026/071_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Mejiro Ryan (Valentine)** :
+
+_Mejiro Ryan (Valentine) est une Pace Chaser pour le Medium. Elle peut courir parfaitement en tant que Late Surger. Avec de l’inspiration, elle peut courir en Long et en Mile (respectivement 1 :star: et 4 :star:). Elle possède un gold d’accélération de Pace Chaser et un gold de vélocité universel. Son unique est un boost de vélocité de Mid-Race, avec un peu d’accélération en Medium._
+ 
+- Elle possède 2 bonus de croissance : 20% en :speed: et 10% en :wit:. C’est un combo sympa, qui est toujours utile. Le 20% en Speed est toujours très sympa car il nous permet de jouer avec 2 cartes Speed, surtout qu’elle aura besoin d’une carte Stamina et d’un gold recovery en tant que Pace Chaser Medium.
+ 
+- Ses gold skills sont :
+ 
+    - **Determined Descent**, la gold version de _Straight Descent_. C'est un gold d'accélération de Pace Chaser, s'activant à un point random d'une descente random.<br> Le skill est particulièrement situationnel, et n'a d'intérêt que dans les courses ayant une descente courte au début du late-race (mais pas d'autre descente). Ce n'est pas un skill fiable, mais il peut être occasionnellement très puissant sur certaines courses (typiquement, Kyoto med).
+ 
+    - **Master of Declines**, la gold version de _Downhill Speedster_. C’est un gold de vélocité universel, s’activant aléatoirement dans une descente random.<br>
+    La puissance du skill dépendra de l’hippodrome mais comparé à son autre gold, il aura toujours au moins un peu de valeur. Il se complète bien avec son bonus de croissance en Wit, qui est la stat importante dans les descentes.
+ 
+- Son unique, _**A Warm Cup For You**_, est un boost de vélocité fin de durée réduite. Il s’active en fin de Mid-Race si Mejiro Ryan (Valentine) est dans une descente, tout en étant à moins de 10 mètres de l’uma en tête de course et si elle n'est pas elle-même l’uma en tête de course. Dans les courses Medium, l’unique reçoit un petit boost d’accélération.<br>
+L’unique est situationnel, elle aura besoin d’une descente entre 60% et 66% de la distance de la course. Les hippodromes où l’unique s’active sont : Tokyo 3 400m, Chukyo, les Medium de Kyoto, Hanshin en dessous de 2 200m.<br>
+Ce n’est pas un très bon unique.
+
+⏩ **Ines Fujin (Valentine)** :
+
+_Ines Fujin (Valentine) est une Front Runner pour le Mile et le Medium. Avec de l’inspiration, elle peut courir en Long et en tant que Pace Chaser (4 :star: pour les 2). Elle possède Concentration et un gold de vélocité de Front Runner. Son unique est un hybride de vélocité et de recovery de Mid-Race_
+ 
+- Elle possède 3 bonus de croissance : 14% en :speed:, 8% en :guts: et 8% en :wit:. C’est un bon combo, bien que ce soit dommage d’avoir le Guts. Le 14% en Speed est suffisant pour jouer avec 2 cartes Speed. Elle n’a pas forcément besoin d’une carte Stamina grâce à son unique, ce qui lui donne une plus grande flexibilité dans ses decks.
+ 
+- Ses gold skills sont :
+ 
+    - **Concentration**, la gold version de _Focus_. C’est un gold universel, utilisé principalement sur les Front Runner qui empêche de Late Start s’il s’active, et aide à faire un meilleur départ.<br>
+    C’est un skill obligatoire pour les Front Runner dû à leur besoin d’être à la 1ère position. Les Front Runner adverses l'auront sans doute.
+ 
+    - **Crescent Gale**, la gold version de _Front Runner Corners_. C’est un gold de vélocité de Front Runner, qui s’active aléatoirement dans un corner aléatoire si l’utilisatrice est une Front Runner.<br>
+    C’est un bon skill, bien que cher sans hints pour _Front Runner Corners_. Le principal problème est que la différence de puissance entre la version gold et la version white est faible comparé à plein d’autres gold skill.
+ 
+- Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chances de le recevoir par carrière.<br>
+Elle possède aussi 2 autres évènements qui sont intéressants. Un autre de ses Costumes Event peut lui donner _Firm Resolve_, et un de ses Date Events vous donne le choix de prendre _Dodging Danger_. Elle possède dans ses skills de base _Groundwork_. Elle possède une excellente liste de white skills pour une Front Runner.
+ 
+- Elle possède un Secret Event lié à enchaîner une série de victoires de courses G1 en tant que Front Runner. Si elle fait une série d’au moins 7, elle obtient des hints pour _Early Lead_ et _Front Runner Straightaways_, ainsi que 15 en Speed et Guts. C'est un chouette Secret Event.
+ 
+- Son unique, _Fresh☆Palor_, est un hybride de vélocité et de recovery avec une durée accrue. Il s’active en première partie de Mid-Race si Ines Fujin est dans le top 30%.<br>
+C'est un unique sympa, qui lui permet de ne pas être restreint avec une carte Stamina. Il lui permet aussi d’activer automatiquement l’unique héritée de Maruzensky (Summer)
+
+#### Pull ou pas ? :
+
+Non, a moins que l’une d’elle soit votre Oshi
+ 
+Mejiro Ryan (Valentine) est trop situationnel, que ce soit pour son unique ou pour **Determined Descent**. Surtout que les 2 ne se complètent pas. Si **Determined Descent** est bon, son unique sera généralement inactivable et l’inverse est aussi vrai.
+ 
+Ines Fujin (Valentine) est plutôt bonne. Son unique est sympa et **Concentration** reste plutôt rare et inacessible. Elle possède aussi une bonne liste de white skills importants pour les Front Runners (_Groundwork_, _Dodging Danger_, _Firm Resolve_, _Early Lead_). C’est la meilleure uma de la bannière, mais son problème est que sa compétition est vraiment élevée.
+
+Kitasan Black (New Year) est sorti y’a peu de temps, il reste toujours l’excellente Seiun Sky. Elle prend la place de Mihono Bourbon (Valentine) en termes de puissance.
+ 
+Ce n’est pas une bannière à pull, à moins que vous ayez besoin d’une Front Runner pour remplacer Mihono Bourbon (Valentine)
+
+:::
+
+## #72 - Shunko Windy ★★★
+
+![Image de présentation de la bannière Shunko Windy](/public/assets/Gacha-reviews/2026/072_Uma-Banner.png)
+
+::: details REVIEW
+
+⏩ **Shunko Windy** :
+
+_Shinko Windy est une Pace Chaser pour le Mile Dirt. Avec de l’inspiration, elle peut courir en Medium et en Sprint mais aussi en tant que Late Surger. (1 :star: pour le Medium et Late Surger, 4 :star: pour le Sprint). Elle possède un gold de vélocité pour le Dirt et un gold green pour le Dirt. Son unique est un boost hybride de vélocité et d’accélération._
+ 
+- Elle possède 3 bonus de croissance : 10% en :speed:, 10% en :power: et 10% en :guts:. C’est un très bon combo, le meilleur combo possible avec du Guts. Cela fait qu’elle est potentiellement intéressante avec un deck Guts. Sinon elle utilisera un deck basique.
+ 
+- Ses gold skills sont :
+ 
+    - **Full Speed**, la gold version de _Full Tilt_. C’est un gold de vélocité pour le Dirt. Il s’active aléatoirement en Last Spurt si l’utilisatrice est dans le top 50% et en mécanique de Last Spurt.<br>
+    La durée du skill est plus haute que la moyenne, mais son activation aléatoire en Last Spurt est une mauvaise chose. Le skill peut-être excellent, tout comme mauvais s’il s’active trop tard.
+ 
+    - **Maestro of the Mud**, la gold version de _Muddy_. C’est un gold green pour le Dirt, s’activant dans les courses avec le Heavy ou Bad Track condition. Le skill donne 60 de Speed et Power.<br>
+    Le skill est fort sur les courses où il s’active, bien que cher sans hints pour Muddy.
+ 
+- Un des évènements de ses Costume Event peut lui donner Fast Learner, ce qui lui donne 2 chances de le recevoir par carrière.
+ 
+- Elle possède 2 Secret Events :
+
+    - Le premier est lié au fait de gagner Zen-Nippon Junior Yushun, M.C. Nambu Hai, February Stakes et Kashiwa Kinen. En récompense, elle reçoit 20 en Power et Speed, 30 Skill Points et des hints pour _Top Pick_. Afin de faire ce Secret Event, elle devra faire 3 courses en plus, seul February Stakes est dans sa carrière.
+
+    - Son deuxième s’active si pendant sa carrière, l’évènement **_The Big Prank Plan, Launched !_** s’active. Elle recevra du Speed et Power, et potentiellement de l’énergie et des hints pour _Forward, March !_
+ 
+Son unique, _**Ding Dong, Boo !**_, est un boost hybride de vélocité et d’accélération. L’unique s’active si elle fait au moins un Duelling. Sur les courses Turf, l’unique ne possède pas le boost d’accélération.<br>
+L’unique est très situationnel, l’unique ne peut s’activer que sur la ligne droite finale. Ce n’est pas un très bon unique.
+
+#### Pull ou pas ? :
+
+Non, à moins qu’elle soit votre Oshi
+ 
+Shinko Windy n’est pas très bonne et plutôt situationnel. Surtout que de bien meilleures uma Dirt sont sorties avant elle.
+
+:::
