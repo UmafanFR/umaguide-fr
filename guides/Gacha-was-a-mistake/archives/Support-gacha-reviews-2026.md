@@ -1834,3 +1834,83 @@ Aston Machan Speed SR est surtout intéressante pour le hint farmin, et utilisab
 Ce n’est pas une bannière à pull dans la majorité des cas.
 
 :::
+
+## #71 - Biko Pegasus Power SSR & Marvelous Sunday Speed SSR
+
+![Image de présentation de la bannière Biko Pegasus Power SSR & Marvelous Sunday Speed SSR](/public/assets/Gacha-reviews/2026/071_Card-Banner.png)
+
+:::: details REVIEW
+
+⏩**Biko Pegasus** :power: :SSR:
+
+- La carte est équilibrée. A 1LB, elle débloque Skill Point Bonus puis Race Bonus et Fans Bonus à 3LB.
+ 
+- Son Unique Effect lui donne 5 de Training Effectiveness, et 3 de Training Effectiveness en plus pour tous les 4 points d’Energie Maximum au-dessus de 100, jusqu’à un maximum de 20 de Training Effectiveness. Ce n’est pas forcément très fort, mais elle a au-moins le 5 de base. C'est un bon effect dans les scénarios où c'est facile de monter l'énergie maximale, Grand Concert n'en fais pas partie.
+ 
+- Ses rainbows sont assez bons, car ils sont amplifiés par ses bonus de cross training (Mood Effect, Training Effectiveness, Power et Skill Point Bonus)<br>
+Son cross-training est dépendant de son Unique Effect. Il se complètent bien avec son bon Mood Effect et ses Stats Bonus.
+ 
+- Elle propose une liste de 7 hints❗, principalement pour Late Surger et les très bons _Nimble Navigator_ et _Leap Forward_.
+ 
+- Son gold skill est **Sharp Arc**, la gold version _Late Surger Corners_. C’est un gold de vélocité de Late Surger, s’activant aléatoirement dans un corner aléatoire si l’utilisatrice est une Late Surger<br>
+C’est un bon skill, bien que cher sans hints pour _Late Surger Corners_. Le principal problème est que la différence de puissance entre la version gold et la version white est faible comparé à plein d’autres gold skill.
+
+⏩**Marvelous Sunday** :speed: :ssr:
+
+- La carte est équilibrée. A 1LB, elle débloque Skill Point Bonus puis Mood Effect à 3LB.
+ 
+- Son Unique Effect lui donne 15 de Training Effectiveness quand jauge de bond est pleine.
+ 
+- Ses rainbows sont très bons, avec son Friendship Bonus correct et bon Special Priority, mais aussi son très bon Training Effectiveness et son Mood Effect, sans oublier son Speed Bonus, Power Bonus et Skill Point Bonus. Elle donne un peu plus de stats que Kitasan Black.<br>
+Son cross-training est identique à Kitasan Black, donc bons. Elle donne un peu plus de Skill Points et de Speed grâce à ses Stats Bonus.
+ 
+::: info Comparaison avec Kitasan Black
+
+Marvelous Sunday Speed SSR possède autant de Friendship Bonus, Training Effectiveness et Mood Effect. Elle possède Speed Bonus et Skill Point Bonus comparé à un meilleur Special Priority pour Kitasan Black. En termes de statstick, il est compréhensible de penser que Marvelous Sunday puisse être considérée meilleur. Mais je veux mettre en avant l’importance du Special Priority sur toutes une carrière
+ 
+Chaque facilité d'entraînement possède un poids de 100, et l’absence de tous les entraînements est un poids de 50. Le Special Priority ajoute du poids sur sa facilité et modifie les pourcentages des autres entraînements mais aussi de l’absence.
+ 
+Kitasan Black, avec son Special Priority de 116, ajoute énormément de poids sur la facilité Speed, mais aussi sur le total. Afin de calculer la fréquence d'entraînement, on divise le poids d’une facilité ou de l’absence par le poids total de la carte. Cela fait que Kitasan Black possède un poids de 216 en Speed pour un total de 666.
+Cela fait qu’elle possède 32% de chance de tomber en Speed, 15% de chance pour les autres facilités et 7,5% de chance pour qu’elle soit absente.
+Marvelous Sunday possède 26,8% de chance de tomber en Speed, 16,2% de chance pour les autres facilités et 8% de chance d’absence.
+
+Bien qu’elle donne plus de stats en 1 entraînement, elle donnera généralement moins de Speed car elle ira moins souvent en Speed.
+
+:::
+ 
+- Elle propose une liste de 8 hints❗, pour le Medium et le Long. Elle possède un très bon Hints Levels et Hint Frequency. Ses hints seront puissants.
+ 
+- Son gold skill est **Indomitable**, la gold version de _Pace Strategy_. C’est un gold de recovery universel, qui s’active en Mid-Race si elle double une uma.<br>
+Le skill est correct mais sans plus.
+
+#### PULL OU PAS
+
+Non.
+ 
+Biko Pegasus Power SSR ne possède pas un gold skill assez utile pour décider de la prendre dans votre deck. Ce n’est pas comme Daiichi Ruby Power SSR, qui donne un bon skill, ce qui est la raison de son utilisation.
+ 
+Marvelous Sunday Speed SSR est une bonne statstick, mais c’est tout. Son gold skill n’est pas intéressant. C’est une Kitasan Black sans gold skill et sans hints aussi bons. Elle possède une niche en donnant un gold de recovery supplémentaure en étant une carte Speed. Elle peut-être intéressant pour prendre les skills qui consomment de la Stamina même dans les courses Long (Racing Stramina, Risky Business, Mad Dash, Full Throttle, Scarmble).
+
+::::
+
+## #72 - Maruzensky Speed SSR & Nishino Flower Wit SSR (rerun)
+
+![Image de présentation de la bannière Maruzensky Speed SSR & Nishino Flower Wit SSR (rerun)](/public/assets/Gacha-reviews/2026/072_Card-Banner.png)
+
+::: details REVIEW
+
+⏩**Maruzensky** :speed: :SSR:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_52-maruzensky-speed-ssr-nakayama-festa-wit-ssr)
+
+⏩**Nishino Flower** :wit: :ssr:
+
+[Vous pouvez retrouver les informations de la carte ici](/guides/Gacha-was-a-mistake/archives/Support-gacha-reviews-2026.md#_34-sakura-bakushin-o-guts-ssr-nishino-flower-wit-ssr)
+
+#### PULL OU PAS
+
+La seule carte intéressante est Maruzensky Speed SSR. Elle est à pull seulement si vous jouez Front Runner ou si vous ne possédez qu’une seule carte META en Speed. Vous aurez juste à viser LB1 et cela sera suffiasant.
+
+Dans les autres cas, skippez la bannière.
+
+:::
